@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message GameTableKey {
+	string gameTableGuid = 1 [json_name = "gameTableGuid"];
+	int64 gameTableUuid = 2 [json_name = "gameTableUuid"];
+	string gameTableSceneGuid = 3 [json_name = "gameTableSceneGuid"];
+	int64 gameTableSubSceneUuid = 4 [json_name = "gameTableSubSceneUuid"];
+	int32 gameId = 5 [json_name = "gameId"];
+	int32 sourceType = 6 [json_name = "sourceType"];
+	string gameTableRoundGuid = 7 [json_name = "gameTableRoundGuid"];
+}

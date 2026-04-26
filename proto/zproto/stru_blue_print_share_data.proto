@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+import "enum_blue_print_type.proto";
+import "enum_e_picture_review_type.proto";
+
+package zproto;
+
+message BluePrintShareData {
+	string shareCode = 1 [json_name = "shareCode"];
+	int32 version = 2 [json_name = "version"];
+	int64 charId = 3 [json_name = "charId"];
+	string name = 4 [json_name = "name"];
+	BluePrintType bluePrintType = 5 [json_name = "bluePrintType"];
+	bool isCustom = 6 [json_name = "isCustom"];
+	string coverUrl = 7 [json_name = "coverUrl"];
+	EPictureReviewType reviewState = 8 [json_name = "reviewState"];
+	string structuresUrl = 9 [json_name = "structuresUrl"];
+	int32 structuresCount = 10 [json_name = "structuresCount"];
+	repeated int32 innerFinishTasks = 11 [json_name = "innerFinishTasks"];
+	repeated int32 outerFinishTasks = 12 [json_name = "outerFinishTasks"];
+	bool officialBlueprint = 13 [json_name = "officialBlueprint"];
+}

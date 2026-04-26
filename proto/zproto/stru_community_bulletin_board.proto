@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_community_bulletin_board_operator_char.proto";
 import "stru_community_bulletin_board_target_char.proto";
 import "enum_e_community_bulletin_board_type.proto";
 
-message CommunityBulletinBoard {
-  zproto.ECommunityBulletinBoardType type = 1;
-  zproto.CommunityBulletinBoardOperatorChar operator_char = 2;
-  zproto.CommunityBulletinBoardTargetChar target_char = 3;
-  int64 time = 4;
-  repeated string content = 5;
-}
+package zproto;
 
+message CommunityBulletinBoard {
+	ECommunityBulletinBoardType type = 1 [json_name = "type"];
+	CommunityBulletinBoardOperatorChar operatorChar = 2 [json_name = "operatorChar"];
+	CommunityBulletinBoardTargetChar targetChar = 3 [json_name = "targetChar"];
+	int64 time = 4 [json_name = "time"];
+	repeated string content = 5 [json_name = "content"];
+}

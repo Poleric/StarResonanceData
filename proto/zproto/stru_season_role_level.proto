@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message SeasonRoleLevel {
+	int32 level = 1 [json_name = "level"];
+	int64 curLevelExp = 2 [json_name = "curLevelExp"];
+}

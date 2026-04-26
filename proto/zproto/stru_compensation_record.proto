@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_compensation_data.proto";
 import "stru_dirty_mask.proto";
 
-message CompensationRecord {
-  map<uint32, zproto.CompensationData> compensation_data = 1;
-}
+package zproto;
 
+message CompensationRecord {
+	map<uint32, CompensationData> compensationData = 1 [json_name = "compensationData"];
+}

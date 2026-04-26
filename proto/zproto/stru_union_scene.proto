@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_union_enter_scene.proto";
 
-message UnionScene {
-  int64 union_id = 1;
-  zproto.UnionEnterScene enter_type = 2;
-}
+package zproto;
 
+message UnionScene {
+	int64 unionId = 1 [json_name = "unionId"];
+	UnionEnterScene enterType = 2 [json_name = "enterType"];
+}

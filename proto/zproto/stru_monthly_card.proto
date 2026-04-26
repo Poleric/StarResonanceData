@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_item.proto";
 import "stru_monthly_card_buy_list.proto";
 import "stru_monthly_card_info.proto";
 import "stru_dirty_mask.proto";
 
-message MonthlyCard {
-  int64 expire_time = 1;
-  map<int32, zproto.MonthlyCardInfo> monthly_card_info = 2;
-  int32 last_award_monthly_card_time = 3;
-  int32 tips_clicked = 4;
-  int32 tips_day = 5;
-  repeated zproto.Item items = 6;
-  map<int64, zproto.MonthlyCardBuyList> monthly_card_buy_list = 7;
-}
+package zproto;
 
+message MonthlyCard {
+	int64 expireTime = 1 [json_name = "expireTime"];
+	map<int32, MonthlyCardInfo> monthlyCardInfo = 2 [json_name = "monthlyCardInfo"];
+	int32 lastAwardMonthlyCardTime = 3 [json_name = "lastAwardMonthlyCardTime"];
+	int32 tipsClicked = 4 [json_name = "tipsClicked"];
+	int32 tipsDay = 5 [json_name = "tipsDay"];
+	repeated Item items = 6 [json_name = "items"];
+	map<int64, MonthlyCardBuyList> monthlyCardBuyList = 7 [json_name = "monthlyCardBuyList"];
+}

@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message InviteApplyRideParam {
-  int64 driver_id = 1;
-  string driver_name = 2;
+	int64 driverId = 1 [json_name = "driverId"];
+	string driverName = 2 [json_name = "driverName"];
 }
-

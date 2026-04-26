@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message NotifyCountDownStartRequest {
+	int32 countDownStartTime = 1 [json_name = "countDownStartTime"];
+}

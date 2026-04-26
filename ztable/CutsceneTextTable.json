@@ -42,7 +42,7 @@
   "6": {
     "Id": 6,
     "SpeakerName": "",
-    "TextContent": "The massive mecha swings its fist down, ready to crush the platform. Tina summons all her strength, raising her banner spear high to intercept the blow. Metal crashes against metal. The mecha presses harder-Tina falters. You rush to her side, lift your weapon, and brace together. With a final surge, you push back. The mecha stumbles, just slightly-but it's enough.",
+    "TextContent": "The massive mecha swings its fist down, ready to crush the platform. Tina summons all her strength, raising her banner spear high to intercept the blow. Metal crashes against metal. The mecha presses harder—Tina falters. You rush to her side, lift your weapon, and brace together. With a final surge, you push back. The mecha stumbles, just slightly—but it's enough.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -66,7 +66,7 @@
   "9": {
     "Id": 9,
     "SpeakerName": "",
-    "TextContent": "Tina bursts into the main hall from outside. The group immediately begins planning her protection. She objects-but no one listens..",
+    "TextContent": "Tina bursts into the main hall from outside. The group immediately begins planning her protection. She objects—but no one listens..",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -90,7 +90,7 @@
   "12": {
     "Id": 12,
     "SpeakerName": "",
-    "TextContent": "A complete map of the The Continent of Magna, with markers on all the places Tina dreams of visiting.",
+    "TextContent": "A complete map of the Continent of Magna, with markers on all the places Tina dreams of visiting.",
     "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -98,7 +98,7 @@
   "13": {
     "Id": 13,
     "SpeakerName": "",
-    "TextContent": "Several sealed jars, each one storing the power of Wind from different regions of the The Continent of Magna.",
+    "TextContent": "Several sealed jars, each one storing the power of Wind from different regions of the Continent of Magna.",
     "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -322,7 +322,7 @@
   "53": {
     "Id": 53,
     "SpeakerName": "",
-    "TextContent": "Airona: But that's for later. Right now, maybe you should focus on one thing-<size=28>stay alive!</size>",
+    "TextContent": "Airona: But that's for later. Right now, maybe you should focus on one thing—<size=28>stay alive!</size>",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -346,7 +346,7 @@
   "56": {
     "Id": 56,
     "SpeakerName": "",
-    "TextContent": "Airona: You strength has faded even more... Don't worry. No matter what happens, I'll protect you.",
+    "TextContent": "Airona: Your strength has faded even more... Don't worry. No matter what happens, I'll protect you.",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -418,7 +418,7 @@
   "65": {
     "Id": 65,
     "SpeakerName": "",
-    "TextContent": "Ahem... Ahem...<br>Just as we were about to shift from the Voided Realm to the present... a little something came up.<br>We're doing our best to bring you a top-tier game experience, but... <br>Time got away from us. So for now, you'll see these story scenes in sketch form.<br>It might feel a bit incomplete, but believe me-we're doing everything we can to bring you the best. See you again in the properly finished game soon!",
+    "TextContent": "Ahem... Ahem...<br>Just as we were about to shift from the Voided Realm to the present... a little something came up.<br>We're doing our best to bring you a top-tier game experience, but... <br>Time got away from us. So for now, you'll see these story scenes in sketch form.<br>It might feel a bit incomplete, but believe me—we're doing everything we can to bring you the best. See you again in the properly finished game soon!",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -522,7 +522,7 @@
   "12007": {
     "Id": 12007,
     "SpeakerName": "",
-    "TextContent": "A moment later, Tina walks out of The Spinning Rudder.",
+    "TextContent": "A moment later, Tina walks out of the Spinning Rudder.",
     "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -563,7 +563,7 @@
     "Id": 12012,
     "SpeakerName": "",
     "TextContent": "After switching roles with you, Tina begins greeting customers.<br>Business is booming at The Spinning Rudder during the Seabreeze Festival, but some secrets are hiding beneath the surface.<br>After a while, a guest orders a particularly unusual drink. Tina delivers it without batting an eye...",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -578,7 +578,7 @@
   "12016": {
     "Id": 12016,
     "SpeakerName": "",
-    "TextContent": "Before I can react, Tina darts away.<br>At that moment, I receive a message from Airona-<br>\"I've run into trouble... If you've made some headway, come lend a hand near the city gate to the plains...\"",
+    "TextContent": "Before I can react, Tina darts away.<br>At that moment, I receive a message from Airona—<br>\"I've run into trouble... If you've made some headway, come lend a hand near the city gate to the plains...\"",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -682,7 +682,7 @@
   "13004": {
     "Id": 13004,
     "SpeakerName": "",
-    "TextContent": "Before I can react, Tina darts away.<br>At that moment, I receive a message from Airona-<br>\"I've run into trouble... If you've made some headway, come lend a hand near the city gate to the plains...\"",
+    "TextContent": "Before I can react, Tina darts away.<br>At that moment, I receive a message from Airona—<br>\"I've run into trouble... If you've made some headway, come lend a hand near the city gate to the plains...\"",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -834,7 +834,7 @@
   "14006": {
     "Id": 14006,
     "SpeakerName": "",
-    "TextContent": "(That priest-it's Stanley! What is he doing here of all places?)",
+    "TextContent": "(That priest's Stanley! What is he doing here of all places?)",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -851,7 +851,7 @@
     "Id": 24001,
     "SpeakerName": "",
     "TextContent": "Some time passes...",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -935,6 +935,86 @@
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
+  "140101": {
+    "Id": 140101,
+    "SpeakerName": "",
+    "TextContent": "You lift your hands, ready to resonate, but the space around you suddenly warps. <br>The presence of the Illusory Bloom vanishes. <br>From behind you, there comes an eerie laugh...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "140102": {
+    "Id": 140102,
+    "SpeakerName": "",
+    "TextContent": "The Nappo on the balloon snaps its eyes open. <br>The space between Suti's group and me stretches at the speed of light. <br>In an instant, the world dissolves into nothingness. <br>One second... two... three...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "140103": {
+    "Id": 140103,
+    "SpeakerName": "",
+    "TextContent": "Nappo clearly doesn't want to be caught. After shaking off the dizziness from the collision, it flails its limbs excitedly, sucking in the air around it. And then—<br>What... what a colossal body is that...<br>Looks like this prank won't be ending gracefully...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "140104": {
+    "Id": 140104,
+    "SpeakerName": "",
+    "TextContent": "I freeze mid-gesture as my vision twists violently. It only settles down after a few seconds. <br>Through the blur, voices arguing drift into focus...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "140105": {
+    "Id": 140105,
+    "SpeakerName": "",
+    "TextContent": "Both sides halt. The scene smears— <br>Warps. <br>Splits. <br>Reforms. <br>And when my mind clears, only three members of what looks like the Cabbage Mission remain, bickering heatedly.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "140106": {
+    "Id": 140106,
+    "SpeakerName": "",
+    "TextContent": "Ygg: Th-This is Nappo?",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "140107": {
+    "Id": 140107,
+    "SpeakerName": "",
+    "TextContent": "Ygg: It turned into a balloon again...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "140108": {
+    "Id": 140108,
+    "SpeakerName": "",
+    "TextContent": "Lafael: It actually hid in the sky...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "140109": {
+    "Id": 140109,
+    "SpeakerName": "",
+    "TextContent": "Suti: This is messy...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "150101": {
+    "Id": 150101,
+    "SpeakerName": "",
+    "TextContent": "The minecart slams into a barrier, sending both cart and passengers flying.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
   "200101": {
     "Id": 200101,
     "SpeakerName": "",
@@ -994,7 +1074,7 @@
   "501307": {
     "Id": 501307,
     "SpeakerName": "",
-    "TextContent": "Worried Artisan: But when I was sick and couldn't afford treatment, she paid for it... and she even-",
+    "TextContent": "Worried Artisan: But when I was sick and couldn't afford treatment, she paid for it... and she even—",
     "PlotCharactersId": 5,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1011,7 +1091,7 @@
     "Id": 501310,
     "SpeakerName": "",
     "TextContent": "You pull off a flawless act and fool the artisans. They grumble but eventually leave.",
-    "PlotCharactersId": 5,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -1019,7 +1099,7 @@
     "Id": 501311,
     "SpeakerName": "",
     "TextContent": "You hand a bouquet of flowers to a female artisan and mention there's a vegetable sale near the village gate.",
-    "PlotCharactersId": 5,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -1027,7 +1107,7 @@
     "Id": 501312,
     "SpeakerName": "",
     "TextContent": "You calmly explain to the artisans that Olvera is long gone. There's no need to wait here.",
-    "PlotCharactersId": 5,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -1035,7 +1115,7 @@
     "Id": 501313,
     "SpeakerName": "",
     "TextContent": "You cook the patrolling artisan his favorite pigeon soup. He leaves satisfied.",
-    "PlotCharactersId": 5,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -1159,6 +1239,30 @@
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
+  "580401": {
+    "Id": 580401,
+    "SpeakerName": "",
+    "TextContent": "Engram Monitor is giving warning!",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "580402": {
+    "Id": 580402,
+    "SpeakerName": "",
+    "TextContent": "Failed... Is this thing really flawless?",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "580403": {
+    "Id": 580403,
+    "SpeakerName": "",
+    "TextContent": "That's not working...",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
   "1205001": {
     "Id": 1205001,
     "SpeakerName": "",
@@ -1251,7 +1355,7 @@
     "Id": 10211006,
     "SpeakerName": "",
     "TextContent": "Tina: It worked! The resonance took hold!",
-    "PlotCharactersId": 10,
+    "PlotCharactersId": 103,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -1275,7 +1379,7 @@
     "Id": 10211009,
     "SpeakerName": "",
     "TextContent": "After the dragon is defeated, it crashes down onto the first platform.<br>Rorola and Rotroani fall nearby, not far from the dragon's body.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -1370,7 +1474,7 @@
   "30301101": {
     "Id": 30301101,
     "SpeakerName": "",
-    "TextContent": "When Narulu vanishes, the Lightning Storm Core disappears with him.<br>The weather returns to normal, but something even more ominous appears in the place the core once occupied-",
+    "TextContent": "When Narulu vanishes, the Lightning Storm Core disappears with him.<br>The weather returns to normal, but something even more ominous appears in the place the core once occupied—",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1506,7 +1610,7 @@
   "30302201": {
     "Id": 30302201,
     "SpeakerName": "",
-    "TextContent": "O golden friend, whom I hold dear-<br>Your past was the path of migrating birds<br>Etched into the wind-kissed wilds<br>Your future was the spark before the dawn<br>Lighting the long night, ushering morning's first light<br>Sleep in peace now, golden friend<br>At the river's end, beyond time's reach<br>We'll find our way there<br>And meet again...<br>",
+    "TextContent": "O golden friend, whom I hold dear—<br>Your past was the path of migrating birds<br>Etched into the wind-kissed wilds<br>Your future was the spark before the dawn<br>Lighting the long night, ushering morning's first light<br>Sleep in peace now, golden friend<br>At the river's end, beyond time's reach<br>We'll find our way there<br>And meet again...<br>",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1522,7 +1626,7 @@
   "30302203": {
     "Id": 30302203,
     "SpeakerName": "",
-    "TextContent": "Everyone, be cautious of Engram Anomaly.<br>-They're disasters caused by a breakdown in local Engram balance, often due to elemental disruptions. They're very troublesome.<br>At the anomaly's center, a Core will form. That's the Core of the chaos. If you can resonate with it, you may be able to temporarily stop the anomaly.<br><br>-Airona",
+    "TextContent": "Everyone, be cautious of Engram Anomaly.<br>—They're disasters caused by a breakdown in local Engram balance, often due to elemental disruptions. They're very troublesome.<br>At the anomaly's center, a Core will form. That's the Core of the chaos. If you can resonate with it, you may be able to temporarily stop the anomaly.<br><br>-Airona",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1579,7 +1683,7 @@
     "Id": 30302210,
     "SpeakerName": "",
     "TextContent": "I remember when I first saw his youthful face. My chest aches.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -1587,7 +1691,7 @@
     "Id": 30302211,
     "SpeakerName": "",
     "TextContent": "Narulu, why did you break our promise?",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -1610,7 +1714,7 @@
   "30302214": {
     "Id": 30302214,
     "SpeakerName": "",
-    "TextContent": "etched across the open fields, kissed by sea breezes.",
+    "TextContent": "etched across the open fields, kissed by seabreezes.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1690,7 +1794,7 @@
   "30302402": {
     "Id": 30302402,
     "SpeakerName": "",
-    "TextContent": "The cat meows sadly, circles us once, and then run off toward Minsterhorn...",
+    "TextContent": "The cat meows sadly, circles us once, and then runs off toward Minsterhorn...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1762,7 +1866,7 @@
   "30702102": {
     "Id": 30702102,
     "SpeakerName": "",
-    "TextContent": "Shows a gathering spot for scattered merchants: a few large backpacks and two NPCs chatting in a small group, while a lone merchant nearby looks troubled over his wares.",
+    "TextContent": "Merchant: That's just wrong...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1770,7 +1874,7 @@
   "30702103": {
     "Id": 30702103,
     "SpeakerName": "",
-    "TextContent": "Help the merchant organize goods",
+    "TextContent": "Merchant: Exactly.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1778,7 +1882,7 @@
   "30702104": {
     "Id": 30702104,
     "SpeakerName": "",
-    "TextContent": "Follow the secret merchant team into the mining area<br>The protagonist's group blends in with the team, making their way through the mining area toward the Beckmar Transport Station-when suddenly, Darya bursts out from the roadside and dives into the group.",
+    "TextContent": "Merchant: Sigh, what a hassle.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1794,7 +1898,15 @@
   "30702201": {
     "Id": 30702201,
     "SpeakerName": "",
-    "TextContent": "The building entrance is heavily guarded, while clerks work inside at the counters.",
+    "TextContent": "Airona: There's a guard present...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "30702202": {
+    "Id": 30702202,
+    "SpeakerName": "",
+    "TextContent": "Boyce: We'll need to circle around.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1802,7 +1914,7 @@
   "30702301": {
     "Id": 30702301,
     "SpeakerName": "",
-    "TextContent": "Chase the fleeing merchant and fight the Blackstone Squad troopers they summon. <br>Defeat the attacking Blackstone Squad troopers. Enemies HP is locked, triggering an escape sequence when reduced to minimal HP.",
+    "TextContent": "Chase the fleeing merchant and fight the Blackstone Legion troopers they summon. <br>Defeat the attacking Blackstone Legion troopers. Enemies HP is locked, triggering an escape sequence when reduced to minimal HP.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1826,7 +1938,7 @@
   "30703202": {
     "Id": 30703202,
     "SpeakerName": "",
-    "TextContent": "Soldiers are sitting in the mountain tavern in small groups, with only one soldier sitting alone at the bar, not ordering anything.",
+    "TextContent": "Darya: Look, he's all alone!",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1898,7 +2010,7 @@
   "30704102": {
     "Id": 30704102,
     "SpeakerName": "",
-    "TextContent": "A miner helps the protagonist divert the soldiers.",
+    "TextContent": "Taylor: He's running that way!",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1914,7 +2026,7 @@
   "30704201": {
     "Id": 30704201,
     "SpeakerName": "",
-    "TextContent": "The protagonist and Airona enter a room filled with refined Ruby, along with tracks and transport minecarts that are clearly frequently used. Airona stops at each scene point, touching and sniffing to investigate.",
+    "TextContent": "The protagonist and Airona enter a room filled with refined Crimson Crystals, along with tracks and transport minecarts that are clearly frequently used. Airona stops at each scene point, touching and sniffing to investigate.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1946,7 +2058,7 @@
   "42001602": {
     "Id": 42001602,
     "SpeakerName": "",
-    "TextContent": "With a few sharp clanks of his wrench, Schmidt finishes his modifications on the vehicle.",
+    "TextContent": "With a few sharp clanks of his wrench, Thibault finishes his modifications to the mount.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1954,7 +2066,7 @@
   "42051101": {
     "Id": 42051101,
     "SpeakerName": "",
-    "TextContent": "The three scrambled to set up their portable stove, and the camp instantly turned into a culinary battlefield.<br>Ezekiel's blade flashed, the Skyfish membranes in his hands transforming into transparent slivers as thin as cicada wings.<br>Sera ground the brine into fine blue stardust, slowly infusing it into the mousse.<br>A dessert named \"Skyfish Jelly Cloud\" was miraculously born.<br><br>Translucent Skyfish membranes adorned with rich mousse foam.<br>Azure brine granules are like scattered starlight, evenly sprinkled around the edge of the plate...",
+    "TextContent": "The three of them fumbled to set up the portable stove they had brought, and the camp instantly descended into a battlefield. <br>Callan's blade flashed, the Skyfish membranes in his hands transforming into transparent slivers as thin as cicada wings; <br>Sera ground the brine into fine blue stardust, slowly infusing it into the mousse. <br>A dessert named \"Skyfish Jelly Cloud\" was miraculously born. <br><br>Translucent Skyfish membranes adorned with rich mousse foam.<br>Azure brine granules are like scattered starlight, evenly sprinkled around the edge of the plate...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1986,7 +2098,7 @@
   "56030101": {
     "Id": 56030101,
     "SpeakerName": "",
-    "TextContent": "Darya: You cheat! Take this fireball!",
+    "TextContent": "Mysterious Girl: Quit cheating... take this!",
     "PlotCharactersId": 111,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -1994,7 +2106,7 @@
   "56040101": {
     "Id": 56040101,
     "SpeakerName": "",
-    "TextContent": "Darya: Huh? The torches all went out... Something's wrong here",
+    "TextContent": "Darya: This place has been abandoned too long—the torches are probably all dead...<br>We'll have to relight them.",
     "PlotCharactersId": 111,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -2002,7 +2114,15 @@
   "56040201": {
     "Id": 56040201,
     "SpeakerName": "",
-    "TextContent": "Lost in the darkness of the mine",
+    "TextContent": "Lost in the dark mine...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "66030001": {
+    "Id": 66030001,
+    "SpeakerName": "",
+    "TextContent": "In the end, Darya and I couldn't shake off the Creed Guards. After being caught, we were scolded harshly. It was only after Darya desperately explained the whole situation that they reluctantly let us go.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -2282,7 +2402,7 @@
   "101010304": {
     "Id": 101010304,
     "SpeakerName": "",
-    "TextContent": "Girl: My power will take shape through your imagination. I believe in you... You can Master - It!",
+    "TextContent": "Girl: My power will take shape through your imagination. I believe in you... You can Master—It!",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -2306,7 +2426,7 @@
   "101010401": {
     "Id": 101010401,
     "SpeakerName": "",
-    "TextContent": "???: Quick-we must stop her!",
+    "TextContent": "???: Quick—we must stop her!",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -2315,7 +2435,7 @@
     "Id": 101010501,
     "SpeakerName": "",
     "TextContent": "Manifested Calamity: You're too late! Nothing can stop me now!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 306,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -2331,7 +2451,7 @@
     "Id": 101010601,
     "SpeakerName": "",
     "TextContent": "Manifested Calamity: The end is written... This world will be reborn in ruin...",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 306,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -2339,7 +2459,7 @@
     "Id": 101010701,
     "SpeakerName": "",
     "TextContent": "Manifested Calamity: All of this... will fade into nothingness right here!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 306,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -2355,7 +2475,7 @@
     "Id": 101010703,
     "SpeakerName": "",
     "TextContent": "Manifested Calamity: From these ruins, paradise shall be reborn!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 306,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -2578,7 +2698,7 @@
   "101011016": {
     "Id": 101011016,
     "SpeakerName": "",
-    "TextContent": "Airona: The Adventurer is fading...",
+    "TextContent": "Airona: The Bio-Engram is fading...",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -2610,7 +2730,7 @@
   "101011020": {
     "Id": 101011020,
     "SpeakerName": "",
-    "TextContent": "Airona: That Engram Hub ahead is where the local Engram s converge. Wake it from the Void. That energy should help you.",
+    "TextContent": "Airona: That Engram Hub ahead is where the local Engrams converge. Wake it from the Void. That energy should help you.",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -2738,7 +2858,7 @@
   "101011402": {
     "Id": 101011402,
     "SpeakerName": "",
-    "TextContent": "Airona: Feels good to walk on the The Continent of Magna again, doesn't it? Welcome back.",
+    "TextContent": "Airona: Feels good to walk on the Continent of Magna again, doesn't it? Welcome back.",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -2843,7 +2963,7 @@
     "Id": 101011510,
     "SpeakerName": "",
     "TextContent": "After an intense battle, Abeku is finally subdued.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -2946,7 +3066,7 @@
   "101020113": {
     "Id": 101020113,
     "SpeakerName": "",
-    "TextContent": "The document you took were highly classified. For Asterleeds... It's vital.",
+    "TextContent": "The document you took was highly classified. For Asterleeds... It's vital.",
     "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -3090,7 +3210,7 @@
   "101020131": {
     "Id": 101020131,
     "SpeakerName": "",
-    "TextContent": "How about this. You give me everything you know about the Dark Mist Legion... and I'll make sure they let you go.",
+    "TextContent": "How about this? You give me everything you know about the Dark Mist Legion... and I'll make sure they let you go.",
     "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -3523,7 +3643,7 @@
     "Id": 101020201,
     "SpeakerName": "",
     "TextContent": "Tavern Owner: Alack... Are you sure this is okay?",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 5,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -3539,7 +3659,7 @@
     "Id": 101020203,
     "SpeakerName": "",
     "TextContent": "Tavern Owner: That's daylight robbery...",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 5,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -3554,7 +3674,7 @@
   "101020205": {
     "Id": 101020205,
     "SpeakerName": "",
-    "TextContent": "Airona: So? Feeling rested? Room comfy? Like the new outfit? I picked it out just for you-",
+    "TextContent": "Airona: So? Feeling rested? Room comfy? Like the new outfit? I picked it out just for you~",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -3602,7 +3722,7 @@
   "101020304": {
     "Id": 101020304,
     "SpeakerName": "",
-    "TextContent": "Citizen: Lady Tina, quick, look at Bertram-",
+    "TextContent": "Citizen: Lady Tina, quick, look at Bertram!",
     "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -3666,7 +3786,7 @@
   "101020406": {
     "Id": 101020406,
     "SpeakerName": "",
-    "TextContent": "Bertram: I'll talk I'll talk I'll tell you everything!",
+    "TextContent": "Bertram: I'll tell! I'll tell! I'll tell you everything!",
     "PlotCharactersId": 302,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -3674,7 +3794,7 @@
   "101020407": {
     "Id": 101020407,
     "SpeakerName": "",
-    "TextContent": "Bertram: Please have mercy, Lady Tina haaaughhhh!!",
+    "TextContent": "Bertram: Please have mercy, Lady Tinaaaaahhhh!!",
     "PlotCharactersId": 302,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -3707,14 +3827,14 @@
     "Id": 101020501,
     "SpeakerName": "",
     "TextContent": "Arrogant Sergeant: Watch where you're going!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 601,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
   "101020601": {
     "Id": 101020601,
     "SpeakerName": "",
-    "TextContent": "Priest: Starsoul Flasks can be collected over here.",
+    "TextContent": "Priest: Starsoul Flasks are now being distributed. Please line up—",
     "PlotCharactersId": 404,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -3730,7 +3850,7 @@
   "101020603": {
     "Id": 101020603,
     "SpeakerName": "",
-    "TextContent": "Airona: Huh, where's the Starsoul Flask Fafala gave us?",
+    "TextContent": "Airona: Huh?! The flask Fafala gave me...",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -3746,7 +3866,7 @@
   "101020605": {
     "Id": 101020605,
     "SpeakerName": "",
-    "TextContent": "Airona: After her!",
+    "TextContent": "Airona: Don't run!",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -3771,7 +3891,7 @@
     "Id": 101020703,
     "SpeakerName": "",
     "TextContent": "Darya: We can't start a fight... at least not here.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 111,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -3779,7 +3899,7 @@
     "Id": 101020704,
     "SpeakerName": "",
     "TextContent": "Cold Sergeant: Not enough hands. Bring five more.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 601,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -3803,7 +3923,7 @@
     "Id": 101021101,
     "SpeakerName": "",
     "TextContent": "Boyce: Watch out!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 110,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4107,7 +4227,7 @@
     "Id": 101030501,
     "SpeakerName": "",
     "TextContent": "Abeku: Run for it, boys!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4131,7 +4251,7 @@
     "Id": 101030504,
     "SpeakerName": "",
     "TextContent": "Abeku: Those two guys in the way up ahead!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4139,7 +4259,7 @@
     "Id": 101030505,
     "SpeakerName": "",
     "TextContent": "Abeku: Get out of my way!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4163,7 +4283,7 @@
     "Id": 101030902,
     "SpeakerName": "",
     "TextContent": "{*me.name*}: Narulu!",
-    "PlotCharactersId": 310,
+    "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4379,7 +4499,7 @@
     "Id": 101040302,
     "SpeakerName": "Lost Tina",
     "TextContent": "I... I'm not a burden to Asterleeds...",
-    "PlotCharactersId": 112,
+    "PlotCharactersId": 103,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4387,7 +4507,7 @@
     "Id": 101040303,
     "SpeakerName": "Lost Tina",
     "TextContent": "You can't take my freedom away!",
-    "PlotCharactersId": 112,
+    "PlotCharactersId": 103,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4442,7 +4562,7 @@
   "101040407": {
     "Id": 101040407,
     "SpeakerName": "",
-    "TextContent": "Tina: It's all your fault-",
+    "TextContent": "Tina: It's all your fault—",
     "PlotCharactersId": 103,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -4490,7 +4610,7 @@
   "101040702": {
     "Id": 101040702,
     "SpeakerName": "",
-    "TextContent": "Tina: The ritual... I have to... protect everyone...",
+    "TextContent": "Tina: Th... thank you...",
     "PlotCharactersId": 103,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -4498,7 +4618,7 @@
   "101040703": {
     "Id": 101040703,
     "SpeakerName": "",
-    "TextContent": "Tina: Get out! Get out of my body!!!",
+    "TextContent": "Tina: ​Void Engram... I won't succumb to it again!",
     "PlotCharactersId": 103,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -4538,7 +4658,7 @@
   "101040904": {
     "Id": 101040904,
     "SpeakerName": "Lamond",
-    "TextContent": "Two hundred years ago, Hruga, a descendant of the Igdia, brought the Void Engram from the night. Since then, the The Continent of Magna has fallen into decay.",
+    "TextContent": "Two hundred years ago, Hruga, a descendant of the Igdia, brought the Void Engram from the night. Since then, the Continent of Magna has fallen into decay.",
     "PlotCharactersId": 112,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -4554,7 +4674,7 @@
   "101040906": {
     "Id": 101040906,
     "SpeakerName": "Lamond",
-    "TextContent": "When the Asterleeds Independence War began, The Seal of Hruga was broken, and the threat returned to the continent.",
+    "TextContent": "When the Asterleeds Independence War began, the Seal of Hruga was broken, and the threat returned to the continent.",
     "PlotCharactersId": 112,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -4562,7 +4682,7 @@
   "101040907": {
     "Id": 101040907,
     "SpeakerName": "Lamond",
-    "TextContent": "Lady Airona, Tina, and another warrior from Byrnhald entered the heart of the The Seal of Hruga in search of a way to resolve the crisis.",
+    "TextContent": "Lady Airona, Tina, and another warrior from Byrnhald entered the heart of the Seal of Hruga in search of a way to resolve the crisis.",
     "PlotCharactersId": 112,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -4603,7 +4723,7 @@
     "Id": 102010105,
     "SpeakerName": "",
     "TextContent": "Arrogant Sergeant: Watch your step!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 601,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4635,7 +4755,7 @@
     "Id": 102010204,
     "SpeakerName": "",
     "TextContent": "This is betrayal... it's betrayal!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 306,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4643,7 +4763,7 @@
     "Id": 102010205,
     "SpeakerName": "",
     "TextContent": "Flames of fury, burn everything to ashes!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 306,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4651,7 +4771,7 @@
     "Id": 102010206,
     "SpeakerName": "",
     "TextContent": "I offer my all...",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 306,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4690,7 +4810,7 @@
   "102010401": {
     "Id": 102010401,
     "SpeakerName": "",
-    "TextContent": "???: mentor!",
+    "TextContent": "???: Mentor!",
     "PlotCharactersId": 110,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -4698,8 +4818,8 @@
   "102010701": {
     "Id": 102010701,
     "SpeakerName": "",
-    "TextContent": "Navie: Please... spare me!",
-    "PlotCharactersId": 0,
+    "TextContent": "Sick Miner: Please... spare me!",
+    "PlotCharactersId": 5,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4715,23 +4835,175 @@
     "Id": 102010703,
     "SpeakerName": "",
     "TextContent": "Grim Sergeant: We don't have enough people. Grab five more.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 601,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102010801": {
+    "Id": 102010801,
+    "SpeakerName": "",
+    "TextContent": "Airona: Nowhere to go now, I guess?",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102010802": {
+    "Id": 102010802,
+    "SpeakerName": "",
+    "TextContent": "Darya: It's every man for himself.",
+    "PlotCharactersId": 111,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102011001": {
+    "Id": 102011001,
+    "SpeakerName": "",
+    "TextContent": "Darya: Thanks.",
+    "PlotCharactersId": 111,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102011002": {
+    "Id": 102011002,
+    "SpeakerName": "",
+    "TextContent": "Darya: Whoa...",
+    "PlotCharactersId": 111,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102011003": {
+    "Id": 102011003,
+    "SpeakerName": "",
+    "TextContent": "Airona: No turning back now.",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102020101": {
+    "Id": 102020101,
+    "SpeakerName": "",
+    "TextContent": "Darya: H-Hey, you!",
+    "PlotCharactersId": 111,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
   "102020201": {
     "Id": 102020201,
     "SpeakerName": "",
-    "TextContent": "Agitated Trooper: Weren't we supposed to bring the caravan leader? Who's this guy?!",
-    "PlotCharactersId": 0,
+    "TextContent": "Agitated Trooper​: Weren't we told it would be Maire?! Who is this person?!",
+    "PlotCharactersId": 601,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
   "102020202": {
     "Id": 102020202,
     "SpeakerName": "",
-    "TextContent": "Flustered Trooper: W-we need to report to the commander, now!",
-    "PlotCharactersId": 0,
+    "TextContent": "Flustered Trooper: Argh—let's report to the commander!",
+    "PlotCharactersId": 601,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030201": {
+    "Id": 102030201,
+    "SpeakerName": "",
+    "TextContent": "Obsequious Clerk​: My lord! My lord!",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030202": {
+    "Id": 102030202,
+    "SpeakerName": "",
+    "TextContent": "Obsequious Clerk​: Right this way... eh?!",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030203": {
+    "Id": 102030203,
+    "SpeakerName": "",
+    "TextContent": "Obsequious Clerk​: Sorry, pardon me...",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030204": {
+    "Id": 102030204,
+    "SpeakerName": "",
+    "TextContent": "Obsequious Clerk​: Huh? My lord! My lord!",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030205": {
+    "Id": 102030205,
+    "SpeakerName": "",
+    "TextContent": "Airona: You bet!",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030401": {
+    "Id": 102030401,
+    "SpeakerName": "",
+    "TextContent": "Jerrad: Hey there!",
+    "PlotCharactersId": 105,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030501": {
+    "Id": 102030501,
+    "SpeakerName": "",
+    "TextContent": "Jerrad: Buddy, your lucky streak ends today.",
+    "PlotCharactersId": 105,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030502": {
+    "Id": 102030502,
+    "SpeakerName": "",
+    "TextContent": "Jerrad: Whew... that mascot suit is heavy. Much better now.",
+    "PlotCharactersId": 105,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030503": {
+    "Id": 102030503,
+    "SpeakerName": "",
+    "TextContent": "Suspicious Man: Hey there, hotshot.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030504": {
+    "Id": 102030504,
+    "SpeakerName": "",
+    "TextContent": "Suspicious Man: You're missing the point...",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030505": {
+    "Id": 102030505,
+    "SpeakerName": "",
+    "TextContent": "Suspicious Man: It's my turn now.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030506": {
+    "Id": 102030506,
+    "SpeakerName": "",
+    "TextContent": "Jerrad: Look at all these big catches...",
+    "PlotCharactersId": 105,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102030601": {
+    "Id": 102030601,
+    "SpeakerName": "",
+    "TextContent": "Jerrad: Come on, we're heading to the Bahamar Highlands.",
+    "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4788,6 +5060,22 @@
     "SpeakerName": "",
     "TextContent": "Tatta: I think there's another path over there. Go!",
     "PlotCharactersId": 104,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040108": {
+    "Id": 102040108,
+    "SpeakerName": "",
+    "TextContent": "Pilgrim Saif: O God, look upon us...",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040109": {
+    "Id": 102040109,
+    "SpeakerName": "",
+    "TextContent": "Nida: O-oooh, it's fine now...",
+    "PlotCharactersId": 4,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -4852,6 +5140,222 @@
     "SpeakerName": "",
     "TextContent": "Tatta: Please... take care of this for me.",
     "PlotCharactersId": 104,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040209": {
+    "Id": 102040209,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Um, actually...",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040210": {
+    "Id": 102040210,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Let's go!",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040301": {
+    "Id": 102040301,
+    "SpeakerName": "",
+    "TextContent": "Anemone: Stupid dog! Shoo!",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040302": {
+    "Id": 102040302,
+    "SpeakerName": "",
+    "TextContent": "Lothar: It's fine. It's... cute.",
+    "PlotCharactersId": 404,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040303": {
+    "Id": 102040303,
+    "SpeakerName": "",
+    "TextContent": "Anemone: Must be Vanessa's dog. So annoying.",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040304": {
+    "Id": 102040304,
+    "SpeakerName": "",
+    "TextContent": "Lothar: Don't say that... Miss Vanessa must be worried sick. I'll take it to her later.",
+    "PlotCharactersId": 404,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040305": {
+    "Id": 102040305,
+    "SpeakerName": "",
+    "TextContent": "Tessi: Adventurer! Adventurer!",
+    "PlotCharactersId": 2,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040306": {
+    "Id": 102040306,
+    "SpeakerName": "",
+    "TextContent": "Tessi: They said you defeated a monster as big as a hill!",
+    "PlotCharactersId": 2,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040307": {
+    "Id": 102040307,
+    "SpeakerName": "",
+    "TextContent": "Lily: No no no—bigger than a hill! Like a Pillar of Divinity!",
+    "PlotCharactersId": 603,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040308": {
+    "Id": 102040308,
+    "SpeakerName": "",
+    "TextContent": "Federico: Um...",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040309": {
+    "Id": 102040309,
+    "SpeakerName": "",
+    "TextContent": "Federico: I've heard so much about you, but it all felt unreal.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040310": {
+    "Id": 102040310,
+    "SpeakerName": "",
+    "TextContent": "Federico: Until now...",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040311": {
+    "Id": 102040311,
+    "SpeakerName": "",
+    "TextContent": "Federico: All my gratitude is in this cup of orange juice!",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040312": {
+    "Id": 102040312,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Wait, that's really sour...",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040313": {
+    "Id": 102040313,
+    "SpeakerName": "",
+    "TextContent": "Nida: Alright, alright, give our hero some personal space.",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040314": {
+    "Id": 102040314,
+    "SpeakerName": "",
+    "TextContent": "Nida: Adventurer, you promised to try my special dish!",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040315": {
+    "Id": 102040315,
+    "SpeakerName": "",
+    "TextContent": "Nida: Right?",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040316": {
+    "Id": 102040316,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Mr. Alphonse!",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040317": {
+    "Id": 102040317,
+    "SpeakerName": "",
+    "TextContent": "Lothar: The feast is about to begin. Allow me, on behalf of the Bapharian Creed​, to...",
+    "PlotCharactersId": 404,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040318": {
+    "Id": 102040318,
+    "SpeakerName": "",
+    "TextContent": "Lothar: No... this isn't the time for that.",
+    "PlotCharactersId": 404,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040319": {
+    "Id": 102040319,
+    "SpeakerName": "",
+    "TextContent": "Alphonse: Adventurer, enjoy the feast.",
+    "PlotCharactersId": 604,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040320": {
+    "Id": 102040320,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Adventurer",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040321": {
+    "Id": 102040321,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Later on...",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040322": {
+    "Id": 102040322,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Will you remember this night?",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040401": {
+    "Id": 102040401,
+    "SpeakerName": "",
+    "TextContent": "Nappo: Hee hee! The game's not over, bo!",
+    "PlotCharactersId": 12,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040402": {
+    "Id": 102040402,
+    "SpeakerName": "",
+    "TextContent": "Nappo: No leaving. Keep playing with me, bo!",
+    "PlotCharactersId": 12,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "102040501": {
+    "Id": 102040501,
+    "SpeakerName": "",
+    "TextContent": "Nappo: Waaaah... no fun, bo!",
+    "PlotCharactersId": 12,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5163,7 +5667,7 @@
     "Id": 104020103,
     "SpeakerName": "",
     "TextContent": "Spirit Ted: We gave it everything we had...",
-    "PlotCharactersId": 102,
+    "PlotCharactersId": 115,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5171,7 +5675,7 @@
     "Id": 104020104,
     "SpeakerName": "",
     "TextContent": "Spirit Ted: But there were too many of them.",
-    "PlotCharactersId": 102,
+    "PlotCharactersId": 115,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5179,7 +5683,7 @@
     "Id": 104020105,
     "SpeakerName": "",
     "TextContent": "Spirit Ted: Most of the artisans... never made it out.",
-    "PlotCharactersId": 102,
+    "PlotCharactersId": 115,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5187,7 +5691,7 @@
     "Id": 104020106,
     "SpeakerName": "",
     "TextContent": "Spirit Ted: But we had no time to mourn. That was only the beginning of the nightmare.",
-    "PlotCharactersId": 102,
+    "PlotCharactersId": 115,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5195,7 +5699,7 @@
     "Id": 104020201,
     "SpeakerName": "",
     "TextContent": "Spirit Ted: With Olvera's support, we finally secured the last defensive system.",
-    "PlotCharactersId": 102,
+    "PlotCharactersId": 115,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5203,7 +5707,7 @@
     "Id": 104020202,
     "SpeakerName": "",
     "TextContent": "Spirit Ted: When I handed Olvera the ignition key...",
-    "PlotCharactersId": 102,
+    "PlotCharactersId": 115,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5211,7 +5715,7 @@
     "Id": 104020203,
     "SpeakerName": "",
     "TextContent": "Spirit Ted: I knew then... we still had a chance to win.",
-    "PlotCharactersId": 102,
+    "PlotCharactersId": 115,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5267,7 +5771,7 @@
     "Id": 104020401,
     "SpeakerName": "",
     "TextContent": "Ted: Thank you, young adventurer. Please do me one last favor.",
-    "PlotCharactersId": 102,
+    "PlotCharactersId": 115,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5474,7 +5978,7 @@
   "105040202": {
     "Id": 105040202,
     "SpeakerName": "",
-    "TextContent": "Denvel: Perish with the Void Mist, you wretched worms!",
+    "TextContent": "Denvel: Perish with the Void Engram, you wretched worms!",
     "PlotCharactersId": 114,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -5506,7 +6010,7 @@
   "105040304": {
     "Id": 105040304,
     "SpeakerName": "",
-    "TextContent": "Tatta: Denvel... stop resisting. Surrender.",
+    "TextContent": "Tatta: Denvel sensei... stop resisting. Surrender.",
     "PlotCharactersId": 104,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -5562,7 +6066,7 @@
   "105040311": {
     "Id": 105040311,
     "SpeakerName": "",
-    "TextContent": "Tatta: Rest in peace, Denvel.",
+    "TextContent": "Tatta: Rest in peace, Denvel Sensei.",
     "PlotCharactersId": 104,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -5626,8 +6130,104 @@
   "105040608": {
     "Id": 105040608,
     "SpeakerName": "",
-    "TextContent": "Tina has released the Core of Stellarium. Light falls into her hands like raindrops. <br><br>The vitality swallowed by the Void Mist gradually returns through the light. <br><br>The Core of Stellarium still glows. It's like someone far away is calling their names, which are filled with light. <br><br>By the time I come to my senses, the mist still lingers on my clothes, but the sky before me has changed.",
-    "PlotCharactersId": 0,
+    "TextContent": "Tina has released the Core of Stellarium. Light falls into her hands like raindrops. <br>The vitality swallowed by the Void Engram gradually returns through the light. <br>The Core of Stellarium still glows. It's like someone far away is calling their names, which are filled with light. <br><br>By the time I come to my senses, the mist still lingers on my clothes, but the sky before me has changed.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113010101": {
+    "Id": 113010101,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Ugh... so... so bitter...",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113010102": {
+    "Id": 113010102,
+    "SpeakerName": "",
+    "TextContent": "Fafala!",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113010103": {
+    "Id": 113010103,
+    "SpeakerName": "",
+    "TextContent": "Fafala: You... who are you...?",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113010201": {
+    "Id": 113010201,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Look out—!",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113010601": {
+    "Id": 113010601,
+    "SpeakerName": "",
+    "TextContent": "From here on, our journey is far more vast than we imagined.",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113010701": {
+    "Id": 113010701,
+    "SpeakerName": "",
+    "TextContent": "I hope I will grow tall like a tree, with you always by my side.",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113020101": {
+    "Id": 113020101,
+    "SpeakerName": "",
+    "TextContent": "Boyce: In the end... I still got lost...",
+    "PlotCharactersId": 110,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113020102": {
+    "Id": 113020102,
+    "SpeakerName": "",
+    "TextContent": "Boyce: ...Only when one no longer fears falling can one learn to fly.",
+    "PlotCharactersId": 110,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113030101": {
+    "Id": 113030101,
+    "SpeakerName": "",
+    "TextContent": "Darya: I will find the most precious treasure before I grow up.",
+    "PlotCharactersId": 111,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113030201": {
+    "Id": 113030201,
+    "SpeakerName": "",
+    "TextContent": "Darya: You should write a few words to Grandma too. She'd be so happy!",
+    "PlotCharactersId": 111,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113030301": {
+    "Id": 113030301,
+    "SpeakerName": "",
+    "TextContent": "Darya: I'll turn my wanted poster into an idol poster one day!",
+    "PlotCharactersId": 111,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113030401": {
+    "Id": 113030401,
+    "SpeakerName": "",
+    "TextContent": "Darya: Please take care of me... When I get better, I'll definitely repay you!",
+    "PlotCharactersId": 111,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5658,7 +6258,7 @@
   "130100401": {
     "Id": 130100401,
     "SpeakerName": "",
-    "TextContent": "Tatta: Be careful, everyone! Don't let the Void Mist take control of you!",
+    "TextContent": "Tatta: Be careful, everyone! Don't let the Void Engram take control of you!",
     "PlotCharactersId": 104,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -5690,8 +6290,8 @@
   "130100501": {
     "Id": 130100501,
     "SpeakerName": "",
-    "TextContent": "Corrupted by the Void Mist, swallowed by darkness...",
-    "PlotCharactersId": 0,
+    "TextContent": "Corrupted by the Void Engram, swallowed by darkness...",
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -5754,7 +6354,7 @@
   "201020100": {
     "Id": 201020100,
     "SpeakerName": "",
-    "TextContent": "Airona: Things sure are lively... Well, it is the Seabreeze Festival after all. <style=\"emph-gn\">{*me.name*}</style>, I hope you're ready for how energetic the Asterleeds can get.",
+    "TextContent": "Airona: Things sure are lively... Well, it is the Seabreeze Festival after all. <style=\"emph-gn\">{*me.name*}</style>, I hope you're ready for how energetic the Asterians can get.",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -5786,7 +6386,7 @@
   "201020106": {
     "Id": 201020106,
     "SpeakerName": "",
-    "TextContent": "Mascot: Let me show you around-",
+    "TextContent": "Mascot: Let me show you around!",
     "PlotCharactersId": 105,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -5826,7 +6426,7 @@
   "201020111": {
     "Id": 201020111,
     "SpeakerName": "",
-    "TextContent": "......",
+    "TextContent": "...",
     "PlotCharactersId": 105,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6178,7 +6778,7 @@
   "201020353": {
     "Id": 201020353,
     "SpeakerName": "",
-    "TextContent": "......",
+    "TextContent": "...",
     "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6258,7 +6858,7 @@
   "201020367": {
     "Id": 201020367,
     "SpeakerName": "",
-    "TextContent": "......",
+    "TextContent": "...",
     "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6338,7 +6938,7 @@
   "201020377": {
     "Id": 201020377,
     "SpeakerName": "",
-    "TextContent": "......",
+    "TextContent": "...",
     "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6378,7 +6978,7 @@
   "201020382": {
     "Id": 201020382,
     "SpeakerName": "",
-    "TextContent": "Jerrad: Tina, I mean... the Dominion still your partner, after all-",
+    "TextContent": "Jerrad: Tina, I mean... the Commander still your partner, after all—",
     "PlotCharactersId": 105,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6554,7 +7154,7 @@
   "201020404": {
     "Id": 201020404,
     "SpeakerName": "",
-    "TextContent": "Wait... No, this is-",
+    "TextContent": "Wait... No, this is—",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6730,7 +7330,7 @@
   "201030106": {
     "Id": 201030106,
     "SpeakerName": "Tina",
-    "TextContent": "Tina: My heart belongs to the sea breeze. My soul is one with the waves. And with these hands, I protect our land and waters.",
+    "TextContent": "Tina: My heart belongs to the seabreeze. My soul is one with the waves. And with these hands, I protect our land and waters.",
     "PlotCharactersId": 103,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6786,7 +7386,7 @@
   "202010205": {
     "Id": 202010205,
     "SpeakerName": "",
-    "TextContent": "Abandon your futile fight-I shall purge your sins!",
+    "TextContent": "Abandon your futile fight—I shall purge your sins!",
     "PlotCharactersId": 306,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6842,7 +7442,7 @@
   "202010212": {
     "Id": 202010212,
     "SpeakerName": "",
-    "TextContent": "Airona walked up to the cat. Looking right into her eyes.",
+    "TextContent": "Airona walked up to the cat. For some reason, her expression was unusually serious.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6954,7 +7554,7 @@
   "202010226": {
     "Id": 202010226,
     "SpeakerName": "",
-    "TextContent": "After we finished tidying up the shop, Mongrace brought over four drinks. \"Consider it a reward from the sea breeze! Welcome to take care of my business again! \"<br>And just like that, our clumsy little part-time adventure came to an end.",
+    "TextContent": "After we finished tidying up the shop, Mongrace brought over four drinks. \"Consider it a reward from the seabreeze! Welcome to take care of my business again! \"<br>And just like that, our clumsy little part-time adventure came to an end.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -6987,7 +7587,7 @@
     "Id": 202010230,
     "SpeakerName": "",
     "TextContent": "After we cleaned up the mess, she even kindly gave us four drinks.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -6995,7 +7595,7 @@
     "Id": 202010231,
     "SpeakerName": "",
     "TextContent": "Just like that. The small incident came to an end.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -7202,7 +7802,7 @@
   "202030303": {
     "Id": 202030303,
     "SpeakerName": "",
-    "TextContent": "Denvel: Taltraud... never thought I'd see you siding with Asterleeds. How disappointing.",
+    "TextContent": "Denvel: Taltraud... never thought I'd see you siding with Asterians. How disappointing.",
     "PlotCharactersId": 114,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -7234,7 +7834,7 @@
   "202030307": {
     "Id": 202030307,
     "SpeakerName": "",
-    "TextContent": "Tina: Adventurer, escort Tatta out of here.",
+    "TextContent": "Tina: Partner, escort Tatta out of here.",
     "PlotCharactersId": 114,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -7754,7 +8354,7 @@
   "204010103": {
     "Id": 204010103,
     "SpeakerName": "",
-    "TextContent": "Airona: Just as I thought... Matches perfectly with my investigation-",
+    "TextContent": "Airona: Just as I thought... Matches perfectly with my investigation—",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8027,7 +8627,7 @@
     "Id": 204010501,
     "SpeakerName": "",
     "TextContent": "Kanamia Resistance: ... This wagon is empty, it's a <style=\"emph-gn\">trap</style>!",
-    "PlotCharactersId": 307,
+    "PlotCharactersId": 402,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -8035,15 +8635,15 @@
     "Id": 204010502,
     "SpeakerName": "",
     "TextContent": "Kanamia Resistance: Retreat!",
-    "PlotCharactersId": 307,
+    "PlotCharactersId": 402,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
   "204010503": {
     "Id": 204010503,
     "SpeakerName": "",
-    "TextContent": "Kanamia Resistance: Cunning Asterleeds people!",
-    "PlotCharactersId": 307,
+    "TextContent": "Kanamia Resistance: Cunning Asterians!",
+    "PlotCharactersId": 402,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -8234,7 +8834,7 @@
   "204020204": {
     "Id": 204020204,
     "SpeakerName": "Byrnhald Trooper",
-    "TextContent": "Charge! Crush the Asterleeds forces!",
+    "TextContent": "Charge! Crush the Asterian forces!",
     "PlotCharactersId": 403,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8251,7 +8851,7 @@
     "Id": 204020301,
     "SpeakerName": "",
     "TextContent": "Top-grade 2D Cutscene",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -8259,7 +8859,7 @@
     "Id": 204020302,
     "SpeakerName": "",
     "TextContent": "The last remaining artisan finished installing the defense systems... and handed the activation device to Olvera, who had just arrived with reinforcements.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -8346,7 +8946,7 @@
   "204020403": {
     "Id": 204020403,
     "SpeakerName": "Olvera",
-    "TextContent": "Yaretsi, no hostiles for now. The exit's just ahead. We-",
+    "TextContent": "Yaretsi, no hostility for now. The exit's just ahead. We—",
     "PlotCharactersId": 102,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8531,7 +9131,7 @@
     "Id": 205030212,
     "SpeakerName": "",
     "TextContent": "Olvera: I deeply apologize, Your Excellency. It was my negligence that allowed Tina to escape. We will go after her immediately.",
-    "PlotCharactersId": 103,
+    "PlotCharactersId": 102,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -8548,6 +9148,166 @@
     "SpeakerName": "",
     "TextContent": "Resident: Thank you for saving the plains.",
     "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021031": {
+    "Id": 208021031,
+    "SpeakerName": "Reiner",
+    "TextContent": "How's the mining output?",
+    "PlotCharactersId": 702,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021032": {
+    "Id": 208021032,
+    "SpeakerName": "Obsequious Clerk​",
+    "TextContent": "Hehe, stable at thirty percent!",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021033": {
+    "Id": 208021033,
+    "SpeakerName": "Reiner",
+    "TextContent": "Twenty.",
+    "PlotCharactersId": 702,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021034": {
+    "Id": 208021034,
+    "SpeakerName": "Obsequious Clerk​",
+    "TextContent": "Huh?",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021035": {
+    "Id": 208021035,
+    "SpeakerName": "Reiner",
+    "TextContent": "Cut it to twenty. If you can't deliver the \"waste,\" then... hm?",
+    "PlotCharactersId": 702,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021036": {
+    "Id": 208021036,
+    "SpeakerName": "Obsequious Clerk​",
+    "TextContent": "Y-yes, sir...",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021037": {
+    "Id": 208021037,
+    "SpeakerName": "Reiner",
+    "TextContent": "Why is there stockpile left in the warehouse?",
+    "PlotCharactersId": 702,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021038": {
+    "Id": 208021038,
+    "SpeakerName": "Obsequious Clerk​",
+    "TextContent": "My lord, we're desperately short on manpower...",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021039": {
+    "Id": 208021039,
+    "SpeakerName": "Reiner",
+    "TextContent": "Useless trash. I asked you to solve problems, not create them.",
+    "PlotCharactersId": 702,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021040": {
+    "Id": 208021040,
+    "SpeakerName": "Reiner",
+    "TextContent": "A batch of new laborers arrives tomorrow.",
+    "PlotCharactersId": 702,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021041": {
+    "Id": 208021041,
+    "SpeakerName": "Obsequious Clerk​",
+    "TextContent": "Thank you for your generosity, my lord!",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021042": {
+    "Id": 208021042,
+    "SpeakerName": "Reiner",
+    "TextContent": "With manpower allocated, if you stall again...",
+    "PlotCharactersId": 702,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021043": {
+    "Id": 208021043,
+    "SpeakerName": "Obsequious Clerk​",
+    "TextContent": "R-Rest assured! We'll deliver the full amount of \"waste\"!",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021044": {
+    "Id": 208021044,
+    "SpeakerName": "Reiner",
+    "TextContent": "Hmph.",
+    "PlotCharactersId": 702,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021045": {
+    "Id": 208021045,
+    "SpeakerName": "Reiner",
+    "TextContent": "Is everything operating normally with the smelting equipment?",
+    "PlotCharactersId": 702,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021046": {
+    "Id": 208021046,
+    "SpeakerName": "Obsequious Clerk​",
+    "TextContent": "This is a... serious matter. We won't take it lightly. You have our word.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208021051": {
+    "Id": 208021051,
+    "SpeakerName": "",
+    "TextContent": "Boyce: That's the Garrison Outpost...",
+    "PlotCharactersId": 110,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208031021": {
+    "Id": 208031021,
+    "SpeakerName": "",
+    "TextContent": "Boyce: Who is it!",
+    "PlotCharactersId": 110,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208031031": {
+    "Id": 208031031,
+    "SpeakerName": "",
+    "TextContent": "Airona: What's going on...?",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "208041041": {
+    "Id": 208041041,
+    "SpeakerName": "",
+    "TextContent": "Jerrad: Little help? You flank. I'll pounce. We'll catch him red-handed!",
+    "PlotCharactersId": 105,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -8627,7 +9387,7 @@
     "Id": 301030801,
     "SpeakerName": "",
     "TextContent": "The moment the words fell, a dense Void Engram suddenly rose from beneath my feet. The mist, like threads spun from a nightmare, tightly bound me.<br>My heart was violently squeezed. I collapsed to the ground, unable to breathe for a moment.<br>However, just as I was about to lose consciousness, the Man in Black opposite me suddenly stopped their attack.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -8642,7 +9402,7 @@
   "301030803": {
     "Id": 301030803,
     "SpeakerName": "",
-    "TextContent": "Man in Black: You seem completely unaffected by the Void Mist!",
+    "TextContent": "Man in Black: You seem completely unaffected by the Void Engram!",
     "PlotCharactersId": 304,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8683,14 +9443,14 @@
     "Id": 301040301,
     "SpeakerName": "",
     "TextContent": "After successfully rescuing the citizens on site, I also reached a safe area...",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
   "302010101": {
     "Id": 302010101,
     "SpeakerName": "",
-    "TextContent": "The shard in my hand suddenly erupts with a surge of Void Engram and strikes my mind. Within the chaos, a voice calls out to me-<br>\"Accept my gift. I grant you a blade... one that can sever fate itself. Offer your strength and soul unto me. Together, we shall cleanse the world of its sins...\"",
+    "TextContent": "The shard in my hand suddenly erupts with a surge of Void Engram and strikes my mind. Within the chaos, a voice calls out to me—<br>\"Accept my gift. I grant you a blade... one that can sever fate itself. Offer your strength and soul unto me. Together, we shall cleanse the world of its sins...\"",
     "PlotCharactersId": 306,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8698,7 +9458,7 @@
   "302010102": {
     "Id": 302010102,
     "SpeakerName": "",
-    "TextContent": "My soul is being swallowed whole. I forget fear. I forget resistance. Then... Airona's voice shatters the darkness like a beacon-<br>\"That's Hruga's power! Don't accept it! Don't accept it! DO NOT accept it!\"<br><br>Her voice pulls me back, and I run... I don't know for how long... until the breeze of Asteria finally brushes against me again...",
+    "TextContent": "My soul is being swallowed whole. I forget fear. I forget resistance. Then... Airona's voice shatters the darkness like a beacon—<br>\"That's Hruga's power! Don't accept it! Don't accept it! DO NOT accept it!\"<br><br>Her voice pulls me back, and I run... I don't know for how long... until the breeze of Asteria finally brushes against me again...",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8754,7 +9514,7 @@
   "302010601": {
     "Id": 302010601,
     "SpeakerName": "",
-    "TextContent": "When Tina meets eyes with the boy, a memory stirs-<br>Three years ago, during the final battle with the Dark Mist Legion, this very boy crossed the battlefield alone... and carried the defeated Denvel away from the fire.<br>Tina still remembers the last words he spoke back then-<br>\"Denvel... I'm taking you home...\"",
+    "TextContent": "When Tina meets eyes with the boy, a memory stirs—<br>Three years ago, during the final battle with the Dark Mist Legion, this very boy crossed the battlefield alone... and carried the defeated Denvel away from the fire.<br>Tina still remembers the last words he spoke back then-<br>\"Denvel... I'm taking you home...\"",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8770,7 +9530,7 @@
   "302010701": {
     "Id": 302010701,
     "SpeakerName": "",
-    "TextContent": "Message from Olvera: <br>I'm heading out to investigate who tampered with the medal. Let's meet up at the Artisan Street.",
+    "TextContent": "Message from Olvera: <br>I'm heading out to investigate who tampered with the medal. Let's meet up at Artisan Street.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8778,7 +9538,7 @@
   "302020201": {
     "Id": 302020201,
     "SpeakerName": "",
-    "TextContent": "You've done well, partner.<br>Tatta's been safely transferred to the Defense Corps Garrison. I know you're looking into the Void Engram too. Tatta might know something. Come meet us when you can.<br><br>We're near Arena Town. Careful not to get lost.<br>-Tina",
+    "TextContent": "You've done well, partner.<br>Tatta's been safely transferred to the Defense Corps Garrison. I know you're looking into the Void Engram too. Tatta might know something. Come meet us when you can.<br><br>We're near Arena Town. Careful not to get lost.<br>—Tina",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8794,7 +9554,7 @@
   "302030301": {
     "Id": 302030301,
     "SpeakerName": "",
-    "TextContent": "The last person we want to see shows up-Denvel.<br>\"Tatta... I can't believe you're siding with Asterleeds. Even you've betrayed me.\"<br>Before Tatta can explain, Tina and Olvera charge at Denvel. But Denvel unleashes the power of Void Engram, trapping them in danger.<br>Suddenly, a shadow darts forward-Tatta stabs toward Denvel with Jayden's relic...<br>\"Denvel... please... wake up. Come home with me!\"<br>The relic shines with intense light, engulfing us all...",
+    "TextContent": "The last person we want to see shows up—Denvel.<br>\"Tatta... I can't believe you're siding with Asterians. Even you've betrayed me.\"<br>Before Tatta can explain, Tina and Olvera charge at Denvel. But Denvel unleashes the power of Void Engram, trapping them in danger.<br>Suddenly, a shadow darts forward—Tatta stabs toward Denvel with Jayden's relic...<br>\"Denvel... please... wake up. Come home with me!\"<br>The relic shines with intense light, engulfing us all...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8810,7 +9570,7 @@
   "302030303": {
     "Id": 302030303,
     "SpeakerName": "",
-    "TextContent": "Past memories washes away Denvel's rage, his expression contorting into sorrow... He moves again.<br>\"Tatta... Tatta is still waiting for me to come home...\"<br>But suddenly, the Void Engram materialized into dozens of hands and clutch at him, and Hruga's voice echoed again-<br>\"Denvel... will you betray yourself as well? Let your rage consume you. I shall grant it power!\"<br>Denvel's fury reignites. His eyes burn once more.",
+    "TextContent": "Past memories washes away Denvel's rage, his expression contorting into sorrow... He moves again.<br>\"Tatta... Tatta is still waiting for me to come home...\"<br>But suddenly, the Void Engram materialized into dozens of hands and clutched at him, and Hruga's voice echoed again—<br>\"Denvel... will you betray yourself as well? Let your rage consume you. I shall grant it power!\"<br>Denvel's fury reignites. His eyes burn once more.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8818,7 +9578,7 @@
   "302030304": {
     "Id": 302030304,
     "SpeakerName": "",
-    "TextContent": "Void Engram erupts from his body, completely overwhelming Jayden's relic barrier.<br>None of us can withstand that force. Before Denvel takes Tatta and disappears, Tatta tosses Jayden's relic to Tina-<br>\"Take care of this for me!\"",
+    "TextContent": "Void Engram erupts from his body, completely overwhelming Jayden's relic barrier.<br>None of us can withstand that force. Before Denvel takes Tatta and disappears, Tatta tosses Jayden's relic to Tina—<br>\"Take care of this for me!\"",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8834,8 +9594,8 @@
   "302030306": {
     "Id": 302030306,
     "SpeakerName": "",
-    "TextContent": "Tatta tries to activate the Imagine Seed, but to feel all his Adventurer drain from his body and collapses in exhaustion.<br>It is a long time before he manages to stand again.",
-    "PlotCharactersId": 0,
+    "TextContent": "Tatta tries to activate the Imagine Seed. In an instant, he feels all his Bio-Engram drain from his body, and he collapses in exhaustion.<br>It is a long time before he manages to stand again.",
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -8843,7 +9603,7 @@
     "Id": 302040101,
     "SpeakerName": "",
     "TextContent": "Partner, stay back! If they spot you, we're in trouble!!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 103,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -8906,7 +9666,7 @@
   "302040204": {
     "Id": 302040204,
     "SpeakerName": "",
-    "TextContent": "No matter how I pressed her afterward, Valeria refused to say another word.<br>And so the strange letter episode during the Seabreeze Festival came to an end.<br>As for what the girl truly felt... maybe only the sea breeze knows.",
+    "TextContent": "No matter how I pressed her afterward, Valeria refused to say another word.<br>And so the strange letter episode during the Seabreeze Festival came to an end.<br>As for what the girl truly felt... maybe only the seabreeze knows.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8914,7 +9674,7 @@
   "302040205": {
     "Id": 302040205,
     "SpeakerName": "",
-    "TextContent": "Letter at the Door<br><br>Good day, Star of Asterleeds: <br><br>To keep this short-<style=\"emph-gn\">I know your secret</style>.<br>This letter isn't the place to explain. Please meet me at the <style=\"emph-gn\">The Spinning Rudder</style>.<br><br>-Rab the Kitten",
+    "TextContent": "Letter at the Door<br><br>Good day, Star of Asterleeds: <br><br>To keep this short-<style=\"emph-gn\">I know your secret</style>.<br>This letter isn't the place to explain. Please meet me at the <style=\"emph-gn\">The Spinning Rudder</style>.<br><br>—Rab the Kitten",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -8938,7 +9698,7 @@
   "304010101": {
     "Id": 304010101,
     "SpeakerName": "",
-    "TextContent": "<style=\"emph-gn\">{*me.name*}</style>, I've made a major discovery about the Kanamians!<br>Meet me at the <style=\"emph-gn\">Shrine</style> near the cliff! Don't get caught by the guards.<br><br>- Airona",
+    "TextContent": "<style=\"emph-gn\">{*me.name*}</style>, I've made a major discovery about the Kanamians!<br>Meet me at the <style=\"emph-gn\">Shrine</style> near the cliff! Don't get caught by the guards.<br><br>—Airona",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9122,7 +9882,7 @@
   "304020402": {
     "Id": 304020402,
     "SpeakerName": "",
-    "TextContent": "2D Cutscene: The priest and the Survival Instincting Asterleeds Defense Corps soldiers can no longer fight. To buy Olvera time, they blow the whistle to lure the enemy away.",
+    "TextContent": "2D Cutscene: The priest and the Survival Asterleeds Defense Corps soldiers can no longer fight. To buy Olvera time, they blow the whistle to lure the enemy away.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9202,7 +9962,7 @@
   "304030401": {
     "Id": 304030401,
     "SpeakerName": "Rotroani",
-    "TextContent": "Nierala: May the Ancestors protect you! Are you alright? Was it serious?",
+    "TextContent": "With the blessings of our ancestors, Kanamia is invincible! Let us honor the heroes who brought us through this crisis!",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9210,7 +9970,7 @@
   "304030402": {
     "Id": 304030402,
     "SpeakerName": "",
-    "TextContent": "The Kanamians rush forward, showering the heroes with flowers and food in gratitude for saving them.<br>The celebration goes on for a long time... until the crowd finally begins to disperse.",
+    "TextContent": "The Kanamians rush forward, showering the heroes with flowers and food in gratitude.<br>The celebration lasts for a while... until the crowd finally begins to disperse.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9282,7 +10042,7 @@
   "304040106": {
     "Id": 304040106,
     "SpeakerName": "",
-    "TextContent": "Rorola: May the light shine eternal.  May the ancestors' blessing be upon us. May the moon's phases lead Kanamia.",
+    "TextContent": "Rorola: May the light shine eternal. May the ancestors' blessing be upon us. May the moon's phases lead Kanamia.",
     "PlotCharactersId": 107,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9362,7 +10122,7 @@
   "305020201": {
     "Id": 305020201,
     "SpeakerName": "",
-    "TextContent": "Tatta gives a relieved smile.<br>He pulls out a brush and paper, and begin copying down the contents from Denvel's notebook.",
+    "TextContent": "Tatta gives a relieved smile.<br>He pulls out a brush and paper, and begins copying down the contents from Denvel's notebook.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9427,7 +10187,7 @@
     "Id": 305020802,
     "SpeakerName": "",
     "TextContent": "{*me.name*}: Airona!!!",
-    "PlotCharactersId": 10,
+    "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -9674,7 +10434,7 @@
   "305041801": {
     "Id": 305041801,
     "SpeakerName": "",
-    "TextContent": "A small glass bottle was placed in my palm.<br>Inside were specks of soft white and blue, like the pearls and waves of Asterleeds.<br>I knew they were Sea Lily petals.",
+    "TextContent": "A small glass bottle was placed in my palm.<br>Inside were specks of soft white and blue like the pearls and waves of Asterleeds.<br>I knew they were Sea Lily petals.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9711,10 +10471,34 @@
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
+  "306010302": {
+    "Id": 306010302,
+    "SpeakerName": "",
+    "TextContent": "(If the flower is shattered...)",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306010303": {
+    "Id": 306010303,
+    "SpeakerName": "",
+    "TextContent": "??: Careful!",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306010304": {
+    "Id": 306010304,
+    "SpeakerName": "",
+    "TextContent": "The <style=\"emph-gn\">Illusory Bloom</style> is tough to eradicate. Leave it to me.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
   "306010401": {
     "Id": 306010401,
     "SpeakerName": "",
-    "TextContent": "Airona tosses and turns in her sleep, face tense with discomfort. She seems trapped in a nightmare. Suddenly, her eyes snap open-",
+    "TextContent": "Airona tosses and turns in her sleep, face tense with discomfort. She seems trapped in a nightmare. Suddenly, her eyes snap open.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9738,7 +10522,7 @@
   "306010701": {
     "Id": 306010701,
     "SpeakerName": "",
-    "TextContent": "(Black Screen PH)<br>(I use Insight. The path toward the Forsaken Trail and Fallen Valley glows faintly.)<br>(But the direction of the mine flares with intense light, the view overexposes, distorting everything.)<br>(I look toward the northeast, then shield my eyes from the blinding glare.)",
+    "TextContent": "(Black Screen PH)<br>(I use Insight. The path toward the Forsaken Trail and Fallen River glows faintly.)<br>(But the direction of the mine flares with intense light, the view overexposes, distorting everything.)<br>(I look toward the northeast, then shield my eyes from the blinding glare.)",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9746,15 +10530,63 @@
   "306010801": {
     "Id": 306010801,
     "SpeakerName": "",
-    "TextContent": "(Black screen placeholder)<br>(The protagonist follows Airona forward but notices a blooming Illusion Flower nearby.)<br>(Curious, they reach out to touch it-suddenly, visions flash: weapons clashing, flames of war, hateful whispers.)<br>(The illusion shatters. Airona pulls the protagonist back, but she's left weakened and in pain, unable to move.)",
+    "TextContent": "(Black screen placeholder)<br>(The protagonist follows Airona forward but notices an Illusory Bloom nearby.)<br>(Curious, they reach out to touch it-suddenly, visions flash: weapons clashing, flames of war, hateful whispers.)<br>(The illusion shatters. Airona pulls the protagonist back, but she's left weakened and in pain, unable to move.)",
     "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306011101": {
+    "Id": 306011101,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Ah, I was just looking for you.",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306011102": {
+    "Id": 306011102,
+    "SpeakerName": "",
+    "TextContent": "Fafala: Thank goodness you're safe!",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306011103": {
+    "Id": 306011103,
+    "SpeakerName": "",
+    "TextContent": "Fafala: B-But that lady still hasn't woken up... Please, come in, I'll take you to her.",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306011201": {
+    "Id": 306011201,
+    "SpeakerName": "",
+    "TextContent": "Airona: Look—Sislesa Mine.",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306011202": {
+    "Id": 306011202,
+    "SpeakerName": "",
+    "TextContent": "Airona: Forty percent of the Duchy of Byrnhald's ore comes from here. You can imagine its importance.",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306011203": {
+    "Id": 306011203,
+    "SpeakerName": "",
+    "TextContent": "Airona: The Checkpoint won't let us through easily, but we have to try. We'll improvise!",
+    "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
   "306020101": {
     "Id": 306020101,
     "SpeakerName": "",
-    "TextContent": "(Black Screen PH)<br>(I look down at the sprawling Sislaetha Mines. The view is breathtaking.)<br>(Airona explains the mine's importance. The two decide to check the outer outpost first.)",
+    "TextContent": "(Black Screen PH)<br>(I look down at the sprawling Sislesa Mine. The view is breathtaking.)<br>(Airona explains the mine's importance. The two decide to check the outer outpost first.)",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9783,6 +10615,30 @@
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
+  "306020501": {
+    "Id": 306020501,
+    "SpeakerName": "",
+    "TextContent": "Darya: That's the tunnel!",
+    "PlotCharactersId": 111,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306020601": {
+    "Id": 306020601,
+    "SpeakerName": "",
+    "TextContent": "??: Hey!",
+    "PlotCharactersId": 605,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306020701": {
+    "Id": 306020701,
+    "SpeakerName": "",
+    "TextContent": "Airona suddenly tugs my sleeve, winks, and pulls me aside. <br>Like sharing a little secret, she points at the bottle.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
   "306030101": {
     "Id": 306030101,
     "SpeakerName": "",
@@ -9802,7 +10658,7 @@
   "306030301": {
     "Id": 306030301,
     "SpeakerName": "",
-    "TextContent": "(Black Screen PH)<br>(The Blackstone Squad arrives. Some block off the workers' quarters, preventing anyone from entering. Others head inside, and moments later, drag out a sickly miner.)<br>(I instinctively move forward, but Darya, just as furious, pulls me back and shakes her head.)<br>(A few soldiers pin the miner down. The one who looks like their captain grunts, showing it's not enough yet.)<br>(The Blackstone guards begin spreading out across the area, patrolling with silent menace.)",
+    "TextContent": "(Black Screen PH)<br>(The Blackstone Legion arrives. Some block off the workers' quarters, preventing anyone from entering. Others head inside, and moments later, drag out a sickly miner.)<br>(I instinctively move forward, but Darya, just as furious, pulls me back and shakes her head.)<br>(A few soldiers pin the miner down. The one who looks like their captain grunts, showing it's not enough yet.)<br>(The Blackstone guards begin spreading out across the area, patrolling with silent menace.)",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9810,7 +10666,7 @@
   "306030401": {
     "Id": 306030401,
     "SpeakerName": "",
-    "TextContent": "The Blackstone Legion gathered enough laborers and regrouped.",
+    "TextContent": "Screams and pleas rose and fell as the miners were taken away in batches. <br>Navi was among them, his struggles quickly swallowed by the surrounding chaos.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9826,7 +10682,7 @@
   "306030601": {
     "Id": 306030601,
     "SpeakerName": "",
-    "TextContent": "(Black Screen PH)<br>(The Blackstone Squad drives the miners into the tunnel where I'm waiting. Those who lag behind or hesitate are struck with the hilts of swords.)<br>(The captain turns and leaves. The others drag the frail workers behind him. A squad of soldiers follows in silence.)",
+    "TextContent": "(Black Screen PH)<br>(The Blackstone Legion drives the miners into the tunnel where I'm waiting. Those who lag behind or hesitate are struck with the hilts of swords.)<br>(The captain turns and leaves. The others drag the frail workers behind him. A squad of soldiers follows in silence.)",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9834,7 +10690,63 @@
   "306030701": {
     "Id": 306030701,
     "SpeakerName": "",
-    "TextContent": "(Black Screen PH)<br>(The sorting area buzzes with activity. Machines churn as miners carry and pack raw ore. Squad officers patrol between workbenchs.)",
+    "TextContent": "(Black Screen PH)<br>(The sorting area buzzes with activity. Machines churn as miners carry and pack raw ore. Squad officers patrol between workbenches.)",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306030901": {
+    "Id": 306030901,
+    "SpeakerName": "",
+    "TextContent": "​Grim Sergeant​: Someone's been here?",
+    "PlotCharactersId": 601,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306030902": {
+    "Id": 306030902,
+    "SpeakerName": "",
+    "TextContent": "​Grim Sergeant​: Did they send people to clean the flowers... that's rare.",
+    "PlotCharactersId": 601,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306030903": {
+    "Id": 306030903,
+    "SpeakerName": "",
+    "TextContent": "Navi: M-My lord... I-I can't breathe... ah!",
+    "PlotCharactersId": 705,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306030904": {
+    "Id": 306030904,
+    "SpeakerName": "",
+    "TextContent": "Darya: Oh no! Brother Navi...",
+    "PlotCharactersId": 111,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306030905": {
+    "Id": 306030905,
+    "SpeakerName": "",
+    "TextContent": "​Grim Sergeant​: Hey you, dispose of this trash.",
+    "PlotCharactersId": 601,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306030906": {
+    "Id": 306030906,
+    "SpeakerName": "",
+    "TextContent": "Darya: We don't talk, they don't talk, and nothing happened here—right, adventurer?",
+    "PlotCharactersId": 111,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "306031101": {
+    "Id": 306031101,
+    "SpeakerName": "",
+    "TextContent": "Taylor leaves with a stiff expression. His arrival was abrupt; his departure even more so.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9858,8 +10770,8 @@
   "308040101": {
     "Id": 308040101,
     "SpeakerName": "",
-    "TextContent": "(I recount all events at the Sislaetha Mines to Lamond.)",
-    "PlotCharactersId": 0,
+    "TextContent": "(I recount all events at the Sislesa Mine to Lamond.)",
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -9867,15 +10779,15 @@
     "Id": 308040102,
     "SpeakerName": "",
     "TextContent": "(I inform Jerrad that Tina is about to regain her freedom.)",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
   "308040201": {
     "Id": 308040201,
     "SpeakerName": "",
-    "TextContent": "(I relay the details of the Sislaetha Mines to Tina, along with Lamond's perspective.)",
-    "PlotCharactersId": 0,
+    "TextContent": "(I relay the details of the Sislesa Mine to Tina, along with Lamond's perspective.)",
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -9883,6 +10795,14 @@
     "Id": 309010101,
     "SpeakerName": "",
     "TextContent": "Lothar purified the crystal, but it left him weakened.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "309010102": {
+    "Id": 309010102,
+    "SpeakerName": "",
+    "TextContent": "Before long, the buttery scent of grilled meat rises into the air. <br>Hopefully it helps ease Airona's trauma with \"Lallipar cuisine\"...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9898,7 +10818,7 @@
   "309020101": {
     "Id": 309020101,
     "SpeakerName": "",
-    "TextContent": "The Illusory Bloom radiates energy outward. Pilgrims (multiple) flee under the guidance of priests and Creed's Guards (at least one). <br>A little girl (Tessi from Lallipar) trips and falls, Rita (NPC from the pilgrims' rest area) helps her up and they leave together. <br>The protagonist watches the Illusory Bloom solemnly.",
+    "TextContent": "The Illusory Bloom releases a surge of energy, and Pilgrims (several) flee under the guidance of the Priest and Creed Guards (at least one). <br>A little girl (Tessi from Lallipar) trips and falls; Rita (NPC from the Pilgrims' rest area) helps her up, and they leave together. <br>The protagonist watches the Illusory Bloom solemnly.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9914,7 +10834,15 @@
   "309040102": {
     "Id": 309040102,
     "SpeakerName": "",
-    "TextContent": "It's a lively banquet. The protagonist is warmly welcomed by all. <br>The protagonist dodge two kids begging for a story. Hunter nervously tries to toast, but Rita pulls the protagonist away first. <br>Finally, surrounded by NPCs, the protagonist looks up at the sky lit by floating lanterns.",
+    "TextContent": "It's a lively banquet. The protagonist is warmly welcomed by all. <br>The protagonist escapes from two children begging for stories. Federico, nervously clutching his cup, tries to invite the protagonist for a drink, but Nida drags the protagonist away first. <br>Finally, surrounded by NPCs, the protagonist looks up at the sky lit by floating lanterns.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "309040103": {
+    "Id": 309040103,
+    "SpeakerName": "",
+    "TextContent": "Things quiet down. Firelight flickers in the wind. This night folds neatly into memory. <br>For now, I can finally relax... The journey is far from over, but tonight, at least, I can rest.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9970,7 +10898,7 @@
   "420002105": {
     "Id": 420002105,
     "SpeakerName": "",
-    "TextContent": "I bring up the bullions to Griff carefully without accusing him. He Frozens in panic before I even finish my sentence.",
+    "TextContent": "I bring up the bullions to Griff carefully without accusing him. He was frozen in panic before I even finish my sentence.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -9994,7 +10922,7 @@
   "420003102": {
     "Id": 420003102,
     "SpeakerName": "",
-    "TextContent": "When Victor begins pressing me aggressively, Johnny seizes the moment and manage to escape.",
+    "TextContent": "When Victor begins pressing me aggressively, Johnny seizes the moment and manages to escape.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -10042,7 +10970,7 @@
   "420003108": {
     "Id": 420003108,
     "SpeakerName": "",
-    "TextContent": "Johnny walks off under Asterleeds Defense Corps soldiers escort toward the Statue of the Hero to atone for his actions. Now, it's just Victor and me left.",
+    "TextContent": "Johnny walks off under Asterleeds Defense Corps soldiers' escort toward the Statue of the Hero to atone for his actions. Now, it's just Victor and me left.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -10066,7 +10994,7 @@
   "420005101": {
     "Id": 420005101,
     "SpeakerName": "",
-    "TextContent": "Daniel: Oh, my dear Bapharian! I finally find it. Good thing <style=\"emph-gn\">this</style> hasn't been discovered by Emma yet...",
+    "TextContent": "Lucien: By the grace of the Bapharian Divines! I finally found it. Good thing <style=\"emph-gn\">this</style> hasn't been discovered by Emma yet...",
     "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -10074,7 +11002,7 @@
   "420005102": {
     "Id": 420005102,
     "SpeakerName": "",
-    "TextContent": "Daniel: Forgive me, Emma...",
+    "TextContent": "Lucien: Forgive me, Emma...",
     "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -10082,7 +11010,7 @@
   "420005103": {
     "Id": 420005103,
     "SpeakerName": "",
-    "TextContent": "Daniel: I'm sorry, Emma... but I need this money badly.",
+    "TextContent": "Lucien: I'm sorry, Emma... but I need this money badly.",
     "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -10090,7 +11018,7 @@
   "420005104": {
     "Id": 420005104,
     "SpeakerName": "",
-    "TextContent": "Daniel: You'll have to deal with the missing wheat yourself.",
+    "TextContent": "Lucien: You'll have to deal with the missing wheat yourself.",
     "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -10395,7 +11323,7 @@
     "Id": 420009201,
     "SpeakerName": "",
     "TextContent": "Alex: Wait, adventurer. Hold on! Ee-chan seems to have picked up something.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10403,7 +11331,7 @@
     "Id": 420009202,
     "SpeakerName": "",
     "TextContent": "Ee-chan: Yee?",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 12,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10411,7 +11339,7 @@
     "Id": 420009203,
     "SpeakerName": "",
     "TextContent": "Alex: Let's follow it.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10419,7 +11347,7 @@
     "Id": 420009301,
     "SpeakerName": "",
     "TextContent": "Ee-chan: Yee yee!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 12,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10427,7 +11355,7 @@
     "Id": 420009302,
     "SpeakerName": "",
     "TextContent": "Alex: Is that... a statue of Ee-chan?",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10435,7 +11363,7 @@
     "Id": 420009303,
     "SpeakerName": "",
     "TextContent": "???: That's right. It's a statue of it.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 5,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10443,7 +11371,7 @@
     "Id": 420009304,
     "SpeakerName": "",
     "TextContent": "???: Ee-chan, it's been a long time. You're here for this <style=\"emph-gn\">water jar</style>, aren't you?",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 5,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10451,7 +11379,7 @@
     "Id": 420009305,
     "SpeakerName": "",
     "TextContent": "Ee-chan: Yee yee yee!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 12,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10459,7 +11387,7 @@
     "Id": 420009306,
     "SpeakerName": "",
     "TextContent": "Alex: Water jar? Oh! So Ee-chan's \"partner\" isn't another creature but this jar... the exact one shown on the statue!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10467,7 +11395,7 @@
     "Id": 420009307,
     "SpeakerName": "",
     "TextContent": "Alex: Then this must be... the strap from the jar!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10475,7 +11403,7 @@
     "Id": 420009308,
     "SpeakerName": "",
     "TextContent": "Ee-chan: Yee yee.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 12,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10483,7 +11411,7 @@
     "Id": 420009309,
     "SpeakerName": "",
     "TextContent": "Yasser: Ah, I forgot to introduce myself. Name's Yasser. I'm the warden of this forest.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 7,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10491,7 +11419,7 @@
     "Id": 420009310,
     "SpeakerName": "",
     "TextContent": "Yasser: Ever since the Asterleeds Independence War, my family's been watching over this place... six, maybe seven years now.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 7,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10499,7 +11427,7 @@
     "Id": 420009311,
     "SpeakerName": "",
     "TextContent": "Yasser: This statue here... it represents Ee-chan's kindness.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 7,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10507,15 +11435,15 @@
     "Id": 420009312,
     "SpeakerName": "",
     "TextContent": "Yasser: Back during the thick of the war, some wounded soldiers collapsed here... They'd gone too long without water.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 7,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
   "420009313": {
     "Id": 420009313,
     "SpeakerName": "",
-    "TextContent": "Yasser: Ee-chansaw them, hurt, dehydrated. So it fetched clean water... and saved them all.",
-    "PlotCharactersId": 0,
+    "TextContent": "Yasser: Ee-chan saw them, hurt, dehydrated. So it fetched clean water... and saved them all.",
+    "PlotCharactersId": 7,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10523,7 +11451,7 @@
     "Id": 420009314,
     "SpeakerName": "",
     "TextContent": "Yasser: If everyone were as kindhearted as Ee-chan... maybe there wouldn't have been a war in the first place...",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 7,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10531,7 +11459,7 @@
     "Id": 420009315,
     "SpeakerName": "",
     "TextContent": "Alex: Ee-chan... I never knew you did something like that.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10539,7 +11467,7 @@
     "Id": 420009316,
     "SpeakerName": "",
     "TextContent": "Alex: And to think... I'm your friend, a researcher of your kind, and I didn't know any of this. I'm ashamed.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10547,7 +11475,7 @@
     "Id": 420009317,
     "SpeakerName": "",
     "TextContent": "Ee-chan: Yee yee! Yee yee yee!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 12,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10555,7 +11483,7 @@
     "Id": 420009318,
     "SpeakerName": "",
     "TextContent": "Alex: It's alright... I'm just a little overwhelmed.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10563,7 +11491,7 @@
     "Id": 420009319,
     "SpeakerName": "",
     "TextContent": "Alex: Since you've found your \"partner\"... Let's head home. I'll walk with you part of the way.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10571,7 +11499,7 @@
     "Id": 420009320,
     "SpeakerName": "",
     "TextContent": "Ee-chan: Yee.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 12,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10579,7 +11507,7 @@
     "Id": 420009321,
     "SpeakerName": "",
     "TextContent": "Alex: Thank you, adventurer... And thank you, Uncle Yasser. Seems I still have a lot to learn...",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10587,7 +11515,7 @@
     "Id": 420009322,
     "SpeakerName": "",
     "TextContent": "Alex: Oh, by the way... Ee-chan wanted you to have something. It picked this Rudder Anemone along the way while searching for its partner.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10595,7 +11523,7 @@
     "Id": 420009323,
     "SpeakerName": "",
     "TextContent": "Alex: And here's my own thank-you gift. A promise is a promise. Please take it.",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 3,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10603,7 +11531,7 @@
     "Id": 420009324,
     "SpeakerName": "",
     "TextContent": "Ee-chan: Yee yee! Yee yee!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 12,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10634,7 +11562,7 @@
   "420018401": {
     "Id": 420018401,
     "SpeakerName": "",
-    "TextContent": "Castor sends out a signal to the Asterleeds Defense Corps. Soon, reinforcements arrive, securing the area.<br>They recover the damaged Golem... and carry off the severely wounded Brigands.<br><br>Days later, Seth is on his feet again. Grayson sends word, inviting you to catch up at the Spinning Rudder.",
+    "TextContent": "Castor sends out a signal to the Defense Corps. Soon, reinforcements arrive and secure the area. <br>They recover the damaged Golem and carry off the severely wounded brigands.<br><br>Days later, Clement is on his feet again. Grayson sends word, inviting you to catch up at the Spinning Rudder.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -10699,7 +11627,7 @@
     "Id": 420022006,
     "SpeakerName": "",
     "TextContent": "Airona: Look! It's saying thank you!",
-    "PlotCharactersId": 10,
+    "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10858,7 +11786,7 @@
   "420033205": {
     "Id": 420033205,
     "SpeakerName": "",
-    "TextContent": "Lure: Because of the roar of the , the fish here are used to noise. They won't be scared off by voices from shore.",
+    "TextContent": "Lure: Because of the roar of the current, the fish here are used to noise. They won't be scared off by voices from shore.",
     "PlotCharactersId": 5,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -10931,7 +11859,7 @@
     "Id": 420033214,
     "SpeakerName": "",
     "TextContent": "Dog: Woof! Woof!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 14,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -10963,7 +11891,7 @@
     "Id": 420033218,
     "SpeakerName": "",
     "TextContent": "Dog: Woof! Woof! Woof!",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 14,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -11050,7 +11978,7 @@
   "420037201": {
     "Id": 420037201,
     "SpeakerName": "",
-    "TextContent": "The three of them seem to have drawn the attention of nearby Blazing Flamers. Looks like they're heading for a confrontation...<br>...<br>On the way to the Shrine with Gloria, no further trouble arises. We reach Priest Fabian without incident.<br>Still, Gloria seems uneasy about Pirlo's sudden disappearance...",
+    "TextContent": "The three of them seem to have drawn the attention of nearby Blaze Gang members. Looks like they're heading for a confrontation...<br>...<br>On the way to the Shrine with Gloria, no further trouble arises. We reach Priest Fabian without incident.<br>Still, Gloria seems uneasy about Pirlo's sudden disappearance...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11058,7 +11986,7 @@
   "420037301": {
     "Id": 420037301,
     "SpeakerName": "",
-    "TextContent": "Disheveled and covered in dirt, Pirlo recites sacred words aloud.<br>Beside him, a smiling Gloria completes her blessing...<br>Afterward, Pirlo promises to escort her home.<br>Worried the Blazing Gang might return, Pirlo joins Buddy, splitting off to take a different route...",
+    "TextContent": "Disheveled and covered in dirt, Pirlo recites sacred words aloud.<br>Beside him, a smiling Gloria completes her blessing...<br>Afterward, Pirlo promises to escort her home.<br>Worried the Blaze Gang might return, Pirlo joins Buddy, splitting off to take a different route...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11122,7 +12050,7 @@
   "420205101": {
     "Id": 420205101,
     "SpeakerName": "",
-    "TextContent": "You push aside loose stones and dirt. Buried secrets surface once more. In the damp Void rests a filthy backpack.<br>Untouched for who knows how long, its contents remain mostly intact, shielded by the bag's fabric. One item stands out immediately: a weathered diary.<br>Emblazoned on the cover in bold characters-Roy.",
+    "TextContent": "You push aside loose stones and dirt. Buried secrets surface once more. In the damp pit rests a filthy backpack.<br>Untouched for who knows how long, its contents remain mostly intact, shielded by the bag's fabric. One item stands out immediately: a weathered diary.<br>Emblazoned on the cover in bold characters-Roy.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11274,7 +12202,7 @@
   "420300003": {
     "Id": 420300003,
     "SpeakerName": "",
-    "TextContent": "Smith threw the legacy to the automaton, which skillfully caught the square vacuum chamber,<br>then stored it inside its steel body.<br><br>It then disappeared into the mountain stream.",
+    "TextContent": "Smith threw the legacy to the Golem, which skillfully caught the square vacuum chamber,<br>then stored it inside its steel body.<br><br>It then disappeared into the mountain stream.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11322,7 +12250,7 @@
   "420300104": {
     "Id": 420300104,
     "SpeakerName": "",
-    "TextContent": "The automaton attacked Nappo, who couldn't dodge in time and fell off a cliff.<br>Destinee, in an attempt to save Nappo, was also swept by the wind into the valley...",
+    "TextContent": "The Golem attacked Nappo, who couldn't dodge in time and fell off a cliff.<br>Destinee, in an attempt to save Nappo, was also swept by the wind into the valley...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11387,7 +12315,7 @@
     "Id": 420300208,
     "SpeakerName": "",
     "TextContent": "After a short while, Misty finally brought Smith, who was studying the ruins nearby...",
-    "PlotCharactersId": 0,
+    "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
@@ -11530,7 +12458,7 @@
   "423031202": {
     "Id": 423031202,
     "SpeakerName": "",
-    "TextContent": "Defeat the Boarrierrier to obtain the Crimson Pouch (replaced by battle after the cloth monster)",
+    "TextContent": "Defeat the Boarrier to obtain the Crimson Pouch (replaced by battle after placing monsters)",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11578,7 +12506,7 @@
   "423032001": {
     "Id": 423032001,
     "SpeakerName": "",
-    "TextContent": "Wally simply repaired a device strapped to his wrist<br>and then activated this relic.<br>The relic released a seemingly real illusion and emitted a loud taunting sound.<br>The guards at the door were distracted and came over to watch...",
+    "TextContent": "Wally simply repaired a device strapped to his wrist<br>and then activated this Legacy.<br>The Legacy released a seemingly real illusion and emitted a loud taunting sound.<br>The guards at the door were distracted and came over to watch...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11594,7 +12522,7 @@
   "423040401": {
     "Id": 423040401,
     "SpeakerName": "",
-    "TextContent": "The expression on Scar's face gradually became ferocious, and he glared at me fiercely before wrestling with me.<br>While dealing with him, I took the opportunity to ignite the signal flare hidden in my palm.<br>The white light pierced through the oppressive darkness and exploded in the air.<br>Wally and several members of the Robber Gang quickly appeared...",
+    "TextContent": "The expression on Skarl's face gradually became ferocious, and he glared at me fiercely before wrestling with me.<br>While dealing with him, I took the opportunity to ignite the signal flare hidden in my palm.<br>The white light pierced through the oppressive darkness and exploded in the air.<br>Wally and several members of the Robber Gang quickly appeared...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11626,7 +12554,7 @@
   "423041102": {
     "Id": 423041102,
     "SpeakerName": "",
-    "TextContent": "The Riddler sang and danced, <br> disappearing at the end of the corridor with the gigantic machine... <br> Although Carl was quite displeased with this, <br> due to fear of the machine's threat, <br> he could only watch helplessly as the clown left...",
+    "TextContent": "The Riddler sang and danced as he went on,<br>vanishing with the massive Golem at the end of the corridor...<br>Etienne was clearly displeased by it. <br>But the threat of the mech-idol left him shaken,<br>so he could only watch the clown walk away...",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11666,15 +12594,15 @@
   "423051602": {
     "Id": 423051602,
     "SpeakerName": "",
-    "TextContent": "The moment I touched the cobalt liquid, a sharp pain shot through my fingertip.<br>The fluid raced up my arm toward my brain.<br>My vision became shrouded in a strange cobalt haze, and the world began to melt.<br>The nearby cliff trembled violently, and countless coral worms burst out from the cave...<br><br>A slick voice whispered in my ear,<br>\"Don't touch the third coral... That's Zofitton's heart...\"",
-    "PlotCharactersId": 0,
+    "TextContent": "The moment I touched the cobalt liquid, a sharp pain shot through my fingertip.<br>The fluid raced up my arm toward my brain.<br>My vision became shrouded in a strange cobalt haze, and the world began to melt.<br>The nearby cliff trembled violently, and countless coral worms burst out from the cave...<br><br>A slick voice whispered in my ear,<br>\"Don't touch the third coral... That's Zofiton's heart...\"",
+    "PlotCharactersId": 9,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
   "423060101": {
     "Id": 423060101,
     "SpeakerName": "",
-    "TextContent": "After a long while, the Asterleeds Defense Corps finally arrived and drew a close to the incident. <br>The scholars were thrilled and eagerly exchanged their findings on the way back. <br>Destiny quietly left with the egg-shaped artifact that recorded sound...<br>The organization behind Misty and their true agenda<br>remained a mystery for the time being.",
+    "TextContent": "After a long while, the Asterleeds Defense Corps finally arrived and drew a close to the incident. <br>The scholars were thrilled and eagerly exchanged their findings on the way back. <br>Destinee quietly left with the egg-shaped artifact that recorded sound...<br>The organization behind Misty and their true agenda<br>remained a mystery for the time being.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""
@@ -11735,6 +12663,62 @@
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
+  "423063001": {
+    "Id": 423063001,
+    "SpeakerName": "",
+    "TextContent": "The strange bird wobbles through the sky from the village direction.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423063101": {
+    "Id": 423063101,
+    "SpeakerName": "",
+    "TextContent": "Everyone has pitched their tents near the fire. After the goodnights are said, only steady breathing remains...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423063102": {
+    "Id": 423063102,
+    "SpeakerName": "",
+    "TextContent": "Night deepens...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423063103": {
+    "Id": 423063103,
+    "SpeakerName": "",
+    "TextContent": "With a piercing cry, the giant bird leader climbs upward, and the flock drift farther away. The leader casts a long, solemn look at Sparrow before leading its kin into the night...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423064001": {
+    "Id": 423064001,
+    "SpeakerName": "",
+    "TextContent": "Leonard forces his eyes wide open, yet the brush in his hand never comes down. <br>Perhaps his eyes have been strained from not blinking for too long, and now tears stream endlessly from his sockets...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423064401": {
+    "Id": 423064401,
+    "SpeakerName": "",
+    "TextContent": "The Caprahorn herd falls into a long silence, leaving only the little Caprahorn and its father standing in the center of the field.<br>Soon, they move. Their horns clash so hard that it startles birds in the distance.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423064402": {
+    "Id": 423064402,
+    "SpeakerName": "",
+    "TextContent": "Before long, the little Caprahorn collapses from exhaustion. The father was actually forced back several steps, nearly toppled by its small child.<br>It bends down to lick its child, acknowledging its child's coming of age. The herd lets out joyful cries.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
   "423070401": {
     "Id": 423070401,
     "SpeakerName": "",
@@ -11767,6 +12751,78 @@
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
+  "423251501": {
+    "Id": 423251501,
+    "SpeakerName": "",
+    "TextContent": "{*me.name*}: Nimbus's warning us. Something happened in that direction?",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423251502": {
+    "Id": 423251502,
+    "SpeakerName": "",
+    "TextContent": "Nimbus: Meow!",
+    "PlotCharactersId": 13,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423340301": {
+    "Id": 423340301,
+    "SpeakerName": "",
+    "TextContent": "Cabbage Mission Member: B-Boss, we've been spotted!",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423340302": {
+    "Id": 423340302,
+    "SpeakerName": "",
+    "TextContent": "Cabbage Mission Captain: Just one person. What are you afraid of?",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423340303": {
+    "Id": 423340303,
+    "SpeakerName": "",
+    "TextContent": "Cabbage Mission Captain: We're not going home empty-handed. Move!",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430002021": {
+    "Id": 430002021,
+    "SpeakerName": "",
+    "TextContent": "???: Bapharian Ruins​, obviously.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430013001": {
+    "Id": 430013001,
+    "SpeakerName": "",
+    "TextContent": "Carojé: Teacher, can't I just beat that guy in the Garrison Outpost to a pulp?",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430013002": {
+    "Id": 430013002,
+    "SpeakerName": "",
+    "TextContent": "Consultant: Please be patient just a little longer, Boss. We'll retrieve your father's things very soon.",
+    "PlotCharactersId": 5,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430624011": {
+    "Id": 430624011,
+    "SpeakerName": "",
+    "TextContent": "???: Strange... since when was there an Astral Stone Mound here?",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
   "440001101": {
     "Id": 440001101,
     "SpeakerName": "",
@@ -11779,6 +12835,14 @@
     "Id": 440002101,
     "SpeakerName": "",
     "TextContent": "A young artisan peeked out from behind a huge legacy hint of panic flashing in his eyes,<br>but it was quickly replaced by excitement.<br><br>The young artisan quickly put down the tools in his hands and walked towards us.<br>All the while, he kept trying to wipe the sweat from his face, but the grease only smeared further across his cheeks.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "604001001": {
+    "Id": 604001001,
+    "SpeakerName": "",
+    "TextContent": "The energy of the three Legacies bursts outward, and in the next moment, your form vanishes.",
     "PlotCharactersId": 10,
     "VoiceEventName": "",
     "VoiceControlEvent": ""

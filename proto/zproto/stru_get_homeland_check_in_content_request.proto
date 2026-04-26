@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message GetHomelandCheckInContentRequest {
-  int64 community_id = 1;
-  int64 homeland_id = 2;
+	int64 communityId = 1 [json_name = "communityId"];
+	int64 homelandId = 2 [json_name = "homelandId"];
 }
-

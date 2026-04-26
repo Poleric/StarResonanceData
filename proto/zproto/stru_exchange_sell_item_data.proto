@@ -1,17 +1,16 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_exchange_item_state.proto";
 import "stru_item.proto";
 
-message ExchangeSellItemData {
-  zproto.Item item_info = 1;
-  int32 withdraw_type = 2;
-  int64 delay_time = 3;
-  string uuid = 4;
-  int64 end_time = 5;
-  int32 price = 6;
-  zproto.EExchangeItemState state = 7;
-}
+package zproto;
 
+message ExchangeSellItemData {
+	Item itemInfo = 1 [json_name = "itemInfo"];
+	int32 WithdrawType = 2 [json_name = "WithdrawType"];
+	int64 delayTime = 3 [json_name = "delayTime"];
+	string uuid = 4 [json_name = "uuid"];
+	int64 endTime = 5 [json_name = "endTime"];
+	int32 price = 6 [json_name = "price"];
+	EExchangeItemState state = 7 [json_name = "state"];
+}

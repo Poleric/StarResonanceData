@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message DungeonInfo {
-  int32 dungeon_id = 1;
-  int32 complete_count = 2;
-  int32 award_flg = 3;
-  int32 score = 4;
-  int32 pass_time = 5;
-}
+package zproto;
 
+message DungeonInfo {
+	int32 dungeonID = 1 [json_name = "dungeonID"];
+	int32 completeCount = 2 [json_name = "completeCount"];
+	int32 awardFlg = 3 [json_name = "awardFlg"];
+	int32 score = 4 [json_name = "score"];
+	int32 passTime = 5 [json_name = "passTime"];
+}

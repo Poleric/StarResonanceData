@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message GetMailListRequest {
-  int32 page = 2;
-  int32 importance = 3;
-  bool is_collect = 4;
+	int32 page = 2 [json_name = "page"];
+	int32 importance = 3 [json_name = "importance"];
+	bool isCollect = 4 [json_name = "isCollect"];
 }
-

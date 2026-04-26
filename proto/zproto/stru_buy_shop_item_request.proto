@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_buy_shop_item_info.proto";
 
-message BuyShopItemRequest {
-  map<int32, zproto.BuyShopItemInfo> buy_shop_item_info = 2;
-  string ext_data = 6;
-}
+package zproto;
 
+message BuyShopItemRequest {
+	map<int32, BuyShopItemInfo> buyShopItemInfo = 2 [json_name = "buyShopItemInfo"];
+	string extData = 6 [json_name = "extData"];
+}

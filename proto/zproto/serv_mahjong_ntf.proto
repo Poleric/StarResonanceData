@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_notify_mahjong_action_request.proto";
+
+package zproto;
+
+message MahjongNtf {
+	message NotifyMahjongAction {
+		NotifyMahjongActionRequest vRequest = 1 [json_name = "vRequest"];
+	}
+}

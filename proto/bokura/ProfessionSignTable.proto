@@ -1,21 +1,20 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ProfessionSignTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  int_array sign_type = 1653;
-  string card = 483;
-  string item_tips = 491;
-  int_array effect_type = 527;
-  int_array effect_id = 1555;
-  string_table effectkey = 1761;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	int_array SignType = 1653 [json_name = "SignType"];
+	string Card = 483 [json_name = "Card"];
+	string ItemTips = 491 [json_name = "ItemTips"];
+	int_array EffectType = 527 [json_name = "EffectType"];
+	int_array EffectId = 1555 [json_name = "EffectId"];
+	string_table Effectkey = 1761 [json_name = "Effectkey"];
 }
 
 message ProfessionSignTableMgr {
-  map<int32, bokura.ProfessionSignTableBase> datas = 1;
+	map<int32, ProfessionSignTableBase> datas = 1 [json_name = "datas"];
 }
-

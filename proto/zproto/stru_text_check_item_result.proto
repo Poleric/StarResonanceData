@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message TextCheckItemResult {
-  zproto.EErrorCode err_code = 1;
-  string err_msg = 2;
-  int32 item_err_code = 3;
-  string item_err_msg = 4;
-  string context = 5;
-  string request_id = 6;
-  int32 text_check_result = 7;
-  string filtered_text = 8;
-  int32 lable = 9;
-  string check_desc = 10;
-}
+package zproto;
 
+message TextCheckItemResult {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	string errMsg = 2 [json_name = "errMsg"];
+	int32 itemErrCode = 3 [json_name = "itemErrCode"];
+	string itemErrMsg = 4 [json_name = "itemErrMsg"];
+	string context = 5 [json_name = "context"];
+	string requestId = 6 [json_name = "requestId"];
+	int32 textCheckResult = 7 [json_name = "textCheckResult"];
+	string filteredText = 8 [json_name = "filteredText"];
+	int32 lable = 9 [json_name = "lable"];
+	string checkDesc = 10 [json_name = "checkDesc"];
+}

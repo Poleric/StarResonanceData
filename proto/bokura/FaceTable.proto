@@ -1,26 +1,25 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FaceTableBase {
-  int32 id = 1463;
-  int32 type = 673;
-  int32 sex = 1062;
-  int_array model = 421;
-  int32 sort_id = 1586;
-  string icon = 1153;
-  string resource = 578;
-  int_table unlock = 1666;
-  int32 create = 1640;
-  int32 is_hide = 1851;
-  int32 weight = 140;
-  int32 face_shape_id = 345;
-  int32 number = 1714;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Type = 673 [json_name = "Type"];
+	int32 Sex = 1062 [json_name = "Sex"];
+	int_array Model = 421 [json_name = "Model"];
+	int32 SortId = 1586 [json_name = "SortId"];
+	string Icon = 1153 [json_name = "Icon"];
+	string Resource = 578 [json_name = "Resource"];
+	int_table Unlock = 1666 [json_name = "Unlock"];
+	int32 Create = 1640 [json_name = "Create"];
+	int32 IsHide = 1851 [json_name = "IsHide"];
+	int32 Weight = 140 [json_name = "Weight"];
+	int32 FaceShapeId = 345 [json_name = "FaceShapeId"];
+	int32 Number = 1714 [json_name = "Number"];
 }
 
 message FaceTableMgr {
-  map<int32, bokura.FaceTableBase> datas = 1;
+	map<int32, FaceTableBase> datas = 1 [json_name = "datas"];
 }
-

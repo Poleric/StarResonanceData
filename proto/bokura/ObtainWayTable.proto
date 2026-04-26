@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ObtainWayTableBase {
-  int32 id = 1463;
-  int_table get_ways = 498;
+	int32 Id = 1463 [json_name = "Id"];
+	int_table GetWays = 498 [json_name = "GetWays"];
 }
 
 message ObtainWayTableMgr {
-  map<int32, bokura.ObtainWayTableBase> datas = 1;
+	map<int32, ObtainWayTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ReportUnion {
-  string union_id = 1;
+	string unionId = 1 [json_name = "unionId"];
 }
-

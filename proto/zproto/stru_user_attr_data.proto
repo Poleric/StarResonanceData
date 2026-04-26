@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message UserAttrData {
-  int32 state = 3;
-  int64 fight_point = 4;
-}
+package zproto;
 
+message UserAttrData {
+	int32 state = 3 [json_name = "state"];
+	int64 fightPoint = 4 [json_name = "fightPoint"];
+}

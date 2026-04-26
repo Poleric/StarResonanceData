@@ -13,18 +13,7 @@
         "ap_r_weapon01_point"
       ]
     ],
-    "MountOffset": [
-      {
-        "x": 0.2,
-        "y": 0.63,
-        "z": -0.1
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
+    "MountOffset": [],
     "MountRot": [
       {
         "x": 18.0,
@@ -50,7 +39,13 @@
       1794,
       1795,
       2002,
-      1715
+      1715,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 1710,
@@ -66,11 +61,7 @@
       101,
       102
     ],
-    "STRange": [
-      6.0,
-      6.0,
-      6.0
-    ],
+    "STRange": [],
     "STSphereRange": [
       2.0
     ],
@@ -141,7 +132,10 @@
       7601,
       7501
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_tdl-01_dodge_b.bytes",
+      "curve/as_f_tdl-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 1,
     "Tags": [],
@@ -206,7 +200,13 @@
       1293,
       1294,
       2002,
-      1242
+      1242,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 1208,
@@ -297,7 +297,10 @@
       25103,
       25103
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_fz-01_dodge_b.bytes",
+      "curve/as_f_fz-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 2,
     "Tags": [],
@@ -319,11 +322,11 @@
   },
   "3": {
     "Id": 3,
-    "ProfessionIcon": "",
+    "ProfessionIcon": "ui/atlas/hud/profession/profession_horizontal_hud03",
     "IsClose": true,
     "CommonSkillIds": [],
     "HasSecondary": true,
-    "AIConfigFile": "",
+    "AIConfigFile": "auto_battle_tata",
     "AnimTemplate": "animtpl/ch_wp_tata-01_01",
     "Mount": [
       [
@@ -388,14 +391,22 @@
       ]
     ],
     "SkillIds": [
-      1620,
-      1621,
-      1622,
-      1624,
-      2002
+      1693,
+      1694,
+      1697,
+      1609,
+      1610,
+      1611,
+      2002,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
-    "SkySkillId": 1615,
+    "SkySkillId": 0,
     "FightResTemplateId": 4,
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
@@ -403,12 +414,12 @@
     "ChangeWeaponAction": [],
     "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
-    "TalentStage": [],
-    "STRange": [
-      6.0,
-      6.0,
-      6.0
+    "TalentStage": [
+      127,
+      128,
+      129
     ],
+    "STRange": [],
     "STSphereRange": [
       2.0
     ],
@@ -437,7 +448,16 @@
     ],
     "STCancelRange": [
       [
-        14.0
+        8.0,
+        5.0
+      ],
+      [
+        8.0,
+        5.0
+      ],
+      [
+        8.0,
+        5.0
       ]
     ],
     "STCheckEndTime": [
@@ -446,7 +466,9 @@
       15.0
     ],
     "LockCancelRange": [
-      14.0
+      8.0,
+      8.0,
+      8.0
     ],
     "FocusCancelRange": 15.0,
     "FocusCheckEndTime": 2.0,
@@ -468,14 +490,17 @@
       7401,
       7301
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_sf-01_dodge_b.bytes",
+      "curve/as_f_sf-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 1,
     "Tags": [],
     "FightbackSkillIds": [
-      1624,
-      1620,
-      1621
+      1697,
+      1693,
+      1694
     ],
     "PassiveId": 1699,
     "DodgeInvincibleTime": 0.3,
@@ -486,7 +511,7 @@
     "InitialWeaponId": 2000103,
     "AnimFadeTemplate": "",
     "AnimPrefix": "as_f_tata-01_",
-    "DpsPanelColor": ""
+    "DpsPanelColor": "#e99078"
   },
   "4": {
     "Id": 4,
@@ -540,7 +565,13 @@
       1417,
       2002,
       1419,
-      1436
+      1436,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 1406,
@@ -556,11 +587,7 @@
       107,
       108
     ],
-    "STRange": [
-      6.0,
-      6.0,
-      6.0
-    ],
+    "STRange": [],
     "STSphereRange": [
       2.0
     ],
@@ -631,7 +658,10 @@
       8101,
       8001
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_tina-01_dodge_b.bytes",
+      "curve/as_f_tina-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 1,
     "Tags": [],
@@ -720,7 +750,13 @@
       1515,
       1517,
       2002,
-      1507
+      1507,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 1510,
@@ -811,7 +847,10 @@
       8301,
       8201
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_iruna-01_dodge_b.bytes",
+      "curve/as_f_iruna-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 2,
     "Tags": [],
@@ -837,7 +876,7 @@
     "IsClose": false,
     "CommonSkillIds": [],
     "HasSecondary": true,
-    "AIConfigFile": "",
+    "AIConfigFile": "auto_battle_boyce",
     "AnimTemplate": "animtpl/ch_wp_taurus-01_01",
     "Mount": [
       [
@@ -904,18 +943,28 @@
       1810,
       1811,
       1812,
-      2002
+      2002,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 1809,
-    "FightResTemplateId": 8,
+    "FightResTemplateId": 0,
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
     "SpacingDistance": 1.0,
     "ChangeWeaponAction": [],
     "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
-    "TalentStage": [],
+    "TalentStage": [
+      124,
+      125,
+      126
+    ],
     "STRange": [
       20.0,
       20.0,
@@ -980,7 +1029,10 @@
       45121,
       45120
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_fz-01_dodge_b.bytes",
+      "curve/as_f_fz-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 2,
     "Tags": [],
@@ -1050,7 +1102,13 @@
       1914,
       1915,
       2002,
-      1930
+      1930,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 1908,
@@ -1066,11 +1124,7 @@
       113,
       114
     ],
-    "STRange": [
-      6.0,
-      6.0,
-      6.0
-    ],
+    "STRange": [],
     "STSphereRange": [
       2.0
     ],
@@ -1141,7 +1195,10 @@
       50013,
       50012
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_tdl-01_dodge_b.bytes",
+      "curve/as_f_tdl-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 1,
     "Tags": [],
@@ -1229,7 +1286,13 @@
       2113,
       2114,
       2125,
-      2002
+      2002,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 2110,
@@ -1305,7 +1368,10 @@
       55109,
       55108
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_tdl-01_dodge_b.bytes",
+      "curve/as_f_tdl-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 1,
     "Tags": [],
@@ -1396,7 +1462,13 @@
       2002,
       2236,
       2223,
-      2222
+      2222,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 2206,
@@ -1487,7 +1559,10 @@
       55210,
       55211
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_iruna-01_dodge_b.bytes",
+      "curve/as_f_iruna-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 2,
     "Tags": [],
@@ -1575,7 +1650,13 @@
       2002,
       2422,
       2423,
-      2424
+      2424,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 2418,
@@ -1591,11 +1672,7 @@
       122,
       123
     ],
-    "STRange": [
-      6.0,
-      6.0,
-      6.0
-    ],
+    "STRange": [],
     "STSphereRange": [
       2.0
     ],
@@ -1666,7 +1743,10 @@
       50013,
       50012
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_farfara-01_dodge_b.bytes",
+      "curve/as_f_farfara-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 1,
     "Tags": [],
@@ -1754,7 +1834,13 @@
       2327,
       2328,
       2337,
-      2318
+      2318,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106
     ],
     "SpecialSkillIds": [],
     "SkySkillId": 2305,
@@ -1845,7 +1931,10 @@
       7401,
       7301
     ],
-    "RushCurve": [],
+    "RushCurve": [
+      "curve/as_f_guitar-01_dodge_b.bytes",
+      "curve/as_f_guitar-01_dodge_f.bytes"
+    ],
     "TakeWeaponInBattle": true,
     "BasicHitTag": 1,
     "Tags": [],

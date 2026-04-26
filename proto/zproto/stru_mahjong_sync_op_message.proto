@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "stru_mahjong_operation.proto";
+import "stru_mahjong_player_self.proto";
+import "stru_mahjong_player_show.proto";
+
+package zproto;
+
+message MahjongSyncOpMessage {
+	MahjongOperation Operation = 1 [json_name = "Operation"];
+	repeated int32 Doras = 2 [json_name = "Doras"];
+	int32 CurrentIndex = 3 [json_name = "CurrentIndex"];
+	int32 LizhiCount = 4 [json_name = "LizhiCount"];
+	int32 HonbaCounter = 5 [json_name = "HonbaCounter"];
+	int32 CardIndex = 6 [json_name = "CardIndex"];
+	repeated MahjongPlayerShow Players = 7 [json_name = "Players"];
+	MahjongPlayerSelf PlayerSelf = 8 [json_name = "PlayerSelf"];
+}

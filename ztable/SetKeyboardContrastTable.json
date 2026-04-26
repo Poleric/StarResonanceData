@@ -9,6 +9,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "Espaço",
     "RussianKeyboard": "Пробел",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -22,84 +23,91 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
   "303": {
     "Id": 303,
     "Note": "右Shift",
-    "Keyboard": "Right Shift",
+    "Keyboard": "",
     "GermanKeyboard": "",
     "FrenchKeyboard": "",
-    "SpanishKeyboard": "Mayús derecha",
+    "SpanishKeyboard": "Mayús der.",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
-    "RussianKeyboard": "Правый Shift",
+    "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
   "304": {
     "Id": 304,
     "Note": "左Shift",
-    "Keyboard": "Left Shift",
+    "Keyboard": "",
     "GermanKeyboard": "",
     "FrenchKeyboard": "",
-    "SpanishKeyboard": "Mayús izquierda",
+    "SpanishKeyboard": "Mayús izq.",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
-    "RussianKeyboard": "Левый Shift",
+    "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
   "305": {
     "Id": 305,
     "Note": "右Ctrl",
-    "Keyboard": "Right Ctrl",
+    "Keyboard": "",
     "GermanKeyboard": "",
     "FrenchKeyboard": "",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
-    "RussianKeyboard": "Правый Ctrl",
+    "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
   "306": {
     "Id": 306,
     "Note": "左Ctrl",
-    "Keyboard": "Left Ctrl",
+    "Keyboard": "",
     "GermanKeyboard": "",
     "FrenchKeyboard": "",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
-    "RussianKeyboard": "Левый Ctrl",
+    "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
   "307": {
     "Id": 307,
     "Note": "右Alt",
-    "Keyboard": "Right Alt",
+    "Keyboard": "",
     "GermanKeyboard": "",
     "FrenchKeyboard": "",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
-    "RussianKeyboard": "Правый Alt",
+    "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
   "308": {
     "Id": 308,
     "Note": "左Alt",
-    "Keyboard": "Left Alt",
+    "Keyboard": "",
     "GermanKeyboard": "",
     "FrenchKeyboard": "",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
-    "RussianKeyboard": "Левый Alt",
+    "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -113,6 +121,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -126,6 +135,7 @@
     "PolishKeyboard": "↑",
     "PortugueseKeyboard": "↑",
     "RussianKeyboard": "↑",
+    "JapaneseKeyboard": "↑",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -139,6 +149,7 @@
     "PolishKeyboard": "↓",
     "PortugueseKeyboard": "↓",
     "RussianKeyboard": "↓",
+    "JapaneseKeyboard": "↓",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -152,6 +163,7 @@
     "PolishKeyboard": "←",
     "PortugueseKeyboard": "←",
     "RussianKeyboard": "←",
+    "JapaneseKeyboard": "←",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -165,6 +177,7 @@
     "PolishKeyboard": "→",
     "PortugueseKeyboard": "→",
     "RussianKeyboard": "→",
+    "JapaneseKeyboard": "→",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -178,6 +191,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Ф",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -191,6 +205,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "И",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -204,6 +219,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "С",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -217,6 +233,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "В",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -230,6 +247,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "У",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -243,6 +261,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "А",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -256,6 +275,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "П",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -269,6 +289,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Р",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -282,6 +303,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Ш",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -295,6 +317,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "О",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -308,6 +331,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Л",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -321,6 +345,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Д",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -334,6 +359,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Ь",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -347,6 +373,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Т",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -360,6 +387,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Щ",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -373,6 +401,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "З",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -386,6 +415,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Й",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -399,6 +429,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "К",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -412,6 +443,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Ы",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -425,6 +457,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Е",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -438,6 +471,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Г",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -451,6 +485,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "М",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -464,6 +499,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Ц",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -477,6 +513,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Ч",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -490,6 +527,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Н",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -503,6 +541,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Я",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -510,12 +549,13 @@
     "Id": 39,
     "Note": "'",
     "Keyboard": "",
-    "GermanKeyboard": "ä",
-    "FrenchKeyboard": "ù",
-    "SpanishKeyboard": "´",
+    "GermanKeyboard": "Ä",
+    "FrenchKeyboard": "",
+    "SpanishKeyboard": "",
     "PolishKeyboard": "",
-    "PortugueseKeyboard": "º",
+    "PortugueseKeyboard": "",
     "RussianKeyboard": "Э",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -524,11 +564,12 @@
     "Note": "0",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "à",
+    "FrenchKeyboard": "",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -542,6 +583,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": "12"
   },
@@ -550,11 +592,12 @@
     "Note": "2",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "é",
+    "FrenchKeyboard": "",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": "13"
   },
@@ -568,6 +611,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": "14"
   },
@@ -581,6 +625,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -594,6 +639,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -607,6 +653,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -615,11 +662,12 @@
     "Note": "7",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "è",
+    "FrenchKeyboard": "",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -633,6 +681,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -641,11 +690,12 @@
     "Note": "9",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "ç",
+    "FrenchKeyboard": "",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -653,12 +703,13 @@
     "Id": 59,
     "Note": ";",
     "Keyboard": "",
-    "GermanKeyboard": "ö",
+    "GermanKeyboard": "Ö",
     "FrenchKeyboard": "",
     "SpanishKeyboard": "ñ",
     "PolishKeyboard": "Ś",
-    "PortugueseKeyboard": "ç",
+    "PortugueseKeyboard": "",
     "RussianKeyboard": "Ж",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -672,6 +723,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -685,6 +737,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -698,6 +751,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -711,6 +765,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -724,6 +779,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -737,6 +793,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -750,6 +807,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -763,6 +821,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -776,6 +835,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -789,6 +849,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -802,6 +863,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -815,6 +877,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -823,11 +886,12 @@
     "Note": "Num0",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 0",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -836,11 +900,12 @@
     "Note": "Num1",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 1",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -849,11 +914,12 @@
     "Note": "Num2",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 2",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -862,11 +928,12 @@
     "Note": "Num3",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 3",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -875,11 +942,12 @@
     "Note": "Num4",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 4",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -888,11 +956,12 @@
     "Note": "Num5",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 5",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -901,11 +970,12 @@
     "Note": "Num6",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 6",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -914,11 +984,12 @@
     "Note": "Num7",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 7",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -927,11 +998,12 @@
     "Note": "Num8",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 8",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -940,11 +1012,12 @@
     "Note": "Num9",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Pavé num. 9",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -953,11 +1026,12 @@
     "Note": "Enter",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "",
+    "FrenchKeyboard": "Entrée",
     "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -966,11 +1040,12 @@
     "Note": "~",
     "Keyboard": "",
     "GermanKeyboard": "",
-    "FrenchKeyboard": "²",
-    "SpanishKeyboard": "º",
+    "FrenchKeyboard": "",
+    "SpanishKeyboard": "°",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Ё (`~)",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -984,6 +1059,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Б (,)",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -997,6 +1073,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Ю (.)",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1010,6 +1087,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1019,10 +1097,11 @@
     "Keyboard": "",
     "GermanKeyboard": "´",
     "FrenchKeyboard": "",
-    "SpanishKeyboard": "¡",
+    "SpanishKeyboard": "¿",
     "PolishKeyboard": "",
-    "PortugueseKeyboard": "«",
+    "PortugueseKeyboard": "",
     "RussianKeyboard": "Ъ (=)",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1032,10 +1111,11 @@
     "Keyboard": "",
     "GermanKeyboard": "",
     "FrenchKeyboard": "",
-    "SpanishKeyboard": "ç",
+    "SpanishKeyboard": "",
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1049,6 +1129,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1060,8 +1141,9 @@
     "FrenchKeyboard": "",
     "SpanishKeyboard": "",
     "PolishKeyboard": "Ą",
-    "PortugueseKeyboard": "´",
+    "PortugueseKeyboard": "",
     "RussianKeyboard": "Х ([)",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1069,12 +1151,13 @@
     "Id": 91,
     "Note": "[",
     "Keyboard": "",
-    "GermanKeyboard": "ü",
+    "GermanKeyboard": "Ü",
     "FrenchKeyboard": "",
-    "SpanishKeyboard": "",
+    "SpanishKeyboard": "´",
     "PolishKeyboard": "Ż",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "Ь (])",
+    "JapaneseKeyboard": "",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1088,6 +1171,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": "ui/atlas/mainui/main_icon_mouse_1"
   },
@@ -1101,6 +1185,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": "ui/atlas/mainui/main_icon_mouse_2"
   },
@@ -1114,6 +1199,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": "ui/atlas/mainui/main_icon_mouse_3"
   },
@@ -1127,6 +1213,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "Botão 3 do rato",
     "RussianKeyboard": "Кнопка мыши 3",
+    "JapaneseKeyboard": "マウスボタンです3",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1140,6 +1227,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "Botão 4 do rato",
     "RussianKeyboard": "Кнопка мыши 4",
+    "JapaneseKeyboard": "マウスボタンです4",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1153,6 +1241,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "Botão 5 do rato",
     "RussianKeyboard": "Кнопка мыши 5",
+    "JapaneseKeyboard": "マウスボタンです5",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1166,6 +1255,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "Botão 6 do rato",
     "RussianKeyboard": "Кнопка мыши 6",
+    "JapaneseKeyboard": "マウスボタンです6",
     "ShowType": 0,
     "ImageWay": ""
   },
@@ -1179,6 +1269,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": "ui/atlas/mainui/main_icon_mouse_3"
   },
@@ -1192,6 +1283,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1205,6 +1297,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1218,6 +1311,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1231,6 +1325,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1244,6 +1339,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1257,6 +1353,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1270,6 +1367,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1283,6 +1381,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1296,6 +1395,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1309,6 +1409,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1322,6 +1423,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1335,6 +1437,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1348,6 +1451,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1361,6 +1465,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1374,6 +1479,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1387,6 +1493,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1400,6 +1507,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1413,6 +1521,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1426,6 +1535,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1439,6 +1549,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1452,6 +1563,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1465,6 +1577,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1478,6 +1591,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1491,6 +1605,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1504,6 +1619,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1517,6 +1633,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1530,6 +1647,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1543,6 +1661,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1556,6 +1675,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1569,6 +1689,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1582,6 +1703,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1595,6 +1717,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1608,6 +1731,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1621,6 +1745,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1634,6 +1759,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1647,6 +1773,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1660,6 +1787,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1673,6 +1801,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1686,6 +1815,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1699,6 +1829,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1712,6 +1843,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1725,6 +1857,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1738,6 +1871,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1751,6 +1885,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1764,6 +1899,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1777,6 +1913,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1790,6 +1927,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1803,6 +1941,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1816,6 +1955,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1829,6 +1969,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1842,6 +1983,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   },
@@ -1855,6 +1997,7 @@
     "PolishKeyboard": "",
     "PortugueseKeyboard": "",
     "RussianKeyboard": "",
+    "JapaneseKeyboard": "",
     "ShowType": 1,
     "ImageWay": ""
   }

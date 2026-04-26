@@ -1,0 +1,932 @@
+{
+  "1": {
+    "Id": 1,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "Name": "Mount",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": []
+  },
+  "2": {
+    "Id": 2,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_09",
+    "Name": "Settings",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100201
+    ]
+  },
+  "3": {
+    "Id": 3,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_40",
+    "Name": "Adventurer Level Up",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200101
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "Name": "Trial Path",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      3399
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_45",
+    "Name": "Talent Training Quests at Airona",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      3827
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_86",
+    "Name": "Honor Coin",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800818
+    ]
+  },
+  "7": {
+    "Id": 7,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "Name": "Trial Path Rewards",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      3399
+    ]
+  },
+  "8": {
+    "Id": 8,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_147",
+    "Name": "Wild Boss / Elite Loot",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100805,
+      7,
+      2
+    ]
+  },
+  "9": {
+    "Id": 9,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_86",
+    "Name": "Bound Orb Store",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800811
+    ]
+  },
+  "10": {
+    "Id": 10,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_60",
+    "Name": "Activity/Season Pass",
+    "Desc": "Obtained by completing daily activities and increasing your Season Pass level",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800505
+    ]
+  },
+  "11": {
+    "Id": 11,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "Name": "Trial Path",
+    "Desc": "Clear designated stages of Trial Path to earn",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      3399
+    ]
+  },
+  "12": {
+    "Id": 12,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_138",
+    "Name": "World Boss Crusade",
+    "Desc": "Obtained by reaching point thresholds through World Boss Crusade",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800902
+    ]
+  },
+  "13": {
+    "Id": 13,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_40",
+    "Name": "Adventurer Level",
+    "Desc": "Obtained by increasing Adventurer Level",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200101
+    ]
+  },
+  "14": {
+    "Id": 14,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_113",
+    "Name": "Season Title",
+    "Desc": "Obtained by leveling up your Season Title",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800503
+    ]
+  },
+  "15": {
+    "Id": 15,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_109",
+    "Name": "Achievement",
+    "Desc": "Obtained by completing Achievements",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800504
+    ]
+  },
+  "16": {
+    "Id": 16,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_181",
+    "Name": "Trading Center",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800400
+    ]
+  },
+  "17": {
+    "Id": 17,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_181",
+    "Name": "Trading Center",
+    "Desc": "Obtained by completing consigning and successfully selling items",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800400
+    ]
+  },
+  "18": {
+    "Id": 18,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_68",
+    "Name": "Season Pass",
+    "Desc": "Obtained by completing daily activities and increasing your Season Pass level",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800505
+    ]
+  },
+  "19": {
+    "Id": 19,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_170",
+    "Name": "Guild Cargo",
+    "Desc": "Obtained by completing Guild cargo quests daily",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      42
+    ]
+  },
+  "20": {
+    "Id": 20,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_184",
+    "Name": "Monthly Card",
+    "Desc": "Obtained by logging in daily to claim Monthly Card rebates",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      801200
+    ]
+  },
+  "21": {
+    "Id": 21,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_152",
+    "Name": "Life Skill Focus",
+    "Desc": "Obtained by consuming Focus through Life Skills",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      501000
+    ]
+  },
+  "22": {
+    "Id": 22,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "Name": "Unstable Space",
+    "Desc": "Obtained by completing Unstable Space daily",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      421
+    ]
+  },
+  "23": {
+    "Id": 23,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_147",
+    "Name": "Wild Elite / Boss Hunt",
+    "Desc": "Obtained by using keys after defeating Elites or Bosses",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100805,
+      7,
+      2
+    ]
+  },
+  "24": {
+    "Id": 24,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_86",
+    "Name": "Reclaim Hub",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800870
+    ]
+  },
+  "25": {
+    "Id": 25,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_60",
+    "Name": "Daily Mission",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800505
+    ]
+  },
+  "26": {
+    "Id": 26,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "Name": "Unstable Space",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      421
+    ]
+  },
+  "27": {
+    "Id": 27,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_146",
+    "Name": "Wild Elite / Boss Hunt",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100805,
+      7,
+      2
+    ]
+  },
+  "28": {
+    "Id": 28,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_152",
+    "Name": "Life Skill",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      501000
+    ]
+  },
+  "29": {
+    "Id": 29,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "Name": "Chaotic - Normal",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ]
+  },
+  "30": {
+    "Id": 30,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_126",
+    "Name": "Stimen Vaults",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      503376
+    ]
+  },
+  "31": {
+    "Id": 31,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_40",
+    "Name": "Adventurer Level",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200101
+    ]
+  },
+  "32": {
+    "Id": 32,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_45",
+    "Name": "Main Quests",
+    "Desc": "Primary source of EXP",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      600100
+    ]
+  },
+  "33": {
+    "Id": 33,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_60",
+    "Name": "Daily Activities",
+    "Desc": "Daily source of EXP",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800505
+    ]
+  },
+  "34": {
+    "Id": 34,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_45",
+    "Name": "Side Quests",
+    "Desc": "Additional sources of EXP",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      600100
+    ]
+  },
+  "35": {
+    "Id": 35,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_68",
+    "Name": "Deep-Slumber Psychoscope",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800521
+    ]
+  },
+  "36": {
+    "Id": 36,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_87",
+    "Name": "Talents",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      104200
+    ]
+  },
+  "37": {
+    "Id": 37,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_01",
+    "Name": "Gear",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100701
+    ]
+  },
+  "38": {
+    "Id": 38,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_198",
+    "Name": "Skills/Battle Imagine",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200501
+    ]
+  },
+  "39": {
+    "Id": 39,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_62",
+    "Name": "Modules",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      104210
+    ]
+  },
+  "40": {
+    "Id": 40,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_25",
+    "Name": "Character / Ability Rating",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200700
+    ]
+  },
+  "101": {
+    "Id": 101,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_25",
+    "Name": "Newbie Essentials",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500215
+    ]
+  },
+  "102": {
+    "Id": 102,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_25",
+    "Name": "Select Daily Experiences",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500216
+    ]
+  },
+  "103": {
+    "Id": 103,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_25",
+    "Name": "Advanced Gameplay",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500217
+    ]
+  },
+  "104": {
+    "Id": 104,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_01",
+    "Name": "Gear Workshop",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      504026
+    ]
+  },
+  "105": {
+    "Id": 105,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_102",
+    "Name": "Unstable Space",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      421
+    ]
+  },
+  "106": {
+    "Id": 106,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "Name": "Chaotic Realm",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ]
+  },
+  "107": {
+    "Id": 107,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_119",
+    "Name": "Skills",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200500
+    ]
+  },
+  "108": {
+    "Id": 108,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_10",
+    "Name": "Wardrobe",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101101
+    ]
+  },
+  "109": {
+    "Id": 109,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_35",
+    "Name": "Beauty",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      103004
+    ]
+  },
+  "110": {
+    "Id": 110,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_209",
+    "Name": "Meowlux Member Center",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101106
+    ]
+  },
+  "111": {
+    "Id": 111,
+    "Icon": "ui/atlas/mainui/main_btn_camera",
+    "Name": "Camera",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      102001
+    ]
+  },
+  "112": {
+    "Id": 112,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_18",
+    "Name": "Chat",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      102100
+    ]
+  },
+  "113": {
+    "Id": 113,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_308",
+    "Name": "Personal Space",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100908
+    ]
+  },
+  "114": {
+    "Id": 114,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_13",
+    "Name": "Album",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      102400
+    ]
+  },
+  "115": {
+    "Id": 115,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_42",
+    "Name": "Homestead",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      102500
+    ]
+  },
+  "116": {
+    "Id": 116,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_168",
+    "Name": "Fishing",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      300000
+    ]
+  },
+  "117": {
+    "Id": 117,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_66",
+    "Name": "Skills/Terra Resonance",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200301
+    ]
+  },
+  "118": {
+    "Id": 118,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_223",
+    "Name": "Map",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100302
+    ]
+  },
+  "119": {
+    "Id": 119,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_206",
+    "Name": "City Rally",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      505145
+    ]
+  },
+  "120": {
+    "Id": 120,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_206",
+    "Name": "Wasteland Race",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      505145
+    ]
+  },
+  "121": {
+    "Id": 121,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_206",
+    "Name": "Balloon Capture",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      505388
+    ]
+  },
+  "122": {
+    "Id": 122,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_206",
+    "Name": "Ee-chan, Don't Stare at Me!",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      505388
+    ]
+  },
+  "123": {
+    "Id": 123,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_206",
+    "Name": "Casual Mode",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800200
+    ]
+  },
+  "124": {
+    "Id": 124,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_88",
+    "Name": "Bureau Commission",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      5,
+      4361
+    ]
+  },
+  "125": {
+    "Id": 125,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_70",
+    "Name": "Class Exchange",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      4287
+    ]
+  },
+  "126": {
+    "Id": 126,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_146",
+    "Name": "Monster Hunt/Normal",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100815
+    ]
+  },
+  "127": {
+    "Id": 127,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_146",
+    "Name": "Monster Hunt/Elite",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100805
+    ]
+  },
+  "128": {
+    "Id": 128,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_146",
+    "Name": "Monster Hunt/Boss",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100806
+    ]
+  },
+  "129": {
+    "Id": 129,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_146",
+    "Name": "Monster Hunt/Magical Creature",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100814
+    ]
+  },
+  "130": {
+    "Id": 130,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_11",
+    "Name": "Guide",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      103001
+    ]
+  },
+  "131": {
+    "Id": 131,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_200",
+    "Name": "Guild Hunting",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500151
+    ]
+  },
+  "132": {
+    "Id": 132,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_198",
+    "Name": "Imagine Research Institute",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      3226
+    ]
+  },
+  "133": {
+    "Id": 133,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_139",
+    "Name": "Open Basic Star Chest",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      801102
+    ]
+  },
+  "134": {
+    "Id": 134,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_01",
+    "Name": "Gear Workshop Exchange (Epic Gear)",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      504026
+    ]
+  },
+  "135": {
+    "Id": 135,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_102",
+    "Name": "Unstable Space (Epic Gear)",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      421
+    ]
+  },
+  "136": {
+    "Id": 136,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "Name": "Chaotic Realm (Epic Gear, Gold Gear)",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ]
+  },
+  "137": {
+    "Id": 137,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_86",
+    "Name": "Mystery Store",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800803
+    ]
+  },
+  "138": {
+    "Id": 138,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_138",
+    "Name": "Land Where the Illusory Bloom Sleeps Dreambloom Ruins",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      5,
+      3868
+    ]
+  },
+  "139": {
+    "Id": 139,
+    "Icon": "ui/atlas/life_profession/life_icon_foundry",
+    "Name": "Life Skill/Smelting",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      501006
+    ]
+  },
+  "140": {
+    "Id": 140,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_83",
+    "Name": "Grocery Store",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      11
+    ]
+  },
+  "141": {
+    "Id": 141,
+    "Icon": "ui/atlas/life_profession/life_icon_magiccraft",
+    "Name": "Life Skill/Gemcrafting",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      501007
+    ]
+  },
+  "142": {
+    "Id": 142,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_83",
+    "Name": "Sigil Exchange",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      505702
+    ]
+  },
+  "143": {
+    "Id": 143,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_21",
+    "Name": "Weekly Guild Activity Rewards",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500109
+    ]
+  },
+  "144": {
+    "Id": 144,
+    "Icon": "ui/atlas/map/map_icon_hero_grass",
+    "Name": "Hero's Herb",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      7353
+    ]
+  },
+  "145": {
+    "Id": 145,
+    "Icon": "ui/atlas/map/map_icon_phantom",
+    "Name": "Wind Core",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      7352
+    ]
+  },
+  "146": {
+    "Id": 146,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_146",
+    "Name": "Monster Hunt/Elite - Boss",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100805
+    ]
+  },
+  "147": {
+    "Id": 147,
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_206",
+    "Name": "Starland",
+    "Desc": "ui/atlas/item/c_tab_icon/com_icon_tab_94",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      283
+    ]
+  }
+}

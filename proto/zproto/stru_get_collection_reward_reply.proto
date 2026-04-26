@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_item.proto";
 
-message GetCollectionRewardReply {
-  repeated int32 index = 1;
-  repeated zproto.Item rewards = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message GetCollectionRewardReply {
+	repeated int32 index = 1 [json_name = "index"];
+	repeated Item rewards = 2 [json_name = "rewards"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

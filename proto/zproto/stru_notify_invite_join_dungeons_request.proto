@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message NotifyInviteJoinDungeonsRequest {
-  string group_key = 1;
-  int32 dungeon_id = 2;
-  int64 sender_id = 3;
+	string groupKey = 1 [json_name = "groupKey"];
+	int32 dungeonId = 2 [json_name = "dungeonId"];
+	int64 senderId = 3 [json_name = "senderId"];
 }
-

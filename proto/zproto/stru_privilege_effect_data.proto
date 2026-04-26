@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message PrivilegeEffectData {
-  int32 normal_pass_id = 1;
-  int32 prime_pass_id = 2;
-  map<int32, bool> normal_pass_id_map = 3;
-  map<int32, bool> prime_pass_id_map = 4;
-}
+package zproto;
 
+message PrivilegeEffectData {
+	int32 normalPassId = 1 [json_name = "normalPassId"];
+	int32 PrimePassId = 2 [json_name = "PrimePassId"];
+	map<int32, bool> normalPassIdMap = 3 [json_name = "normalPassIdMap"];
+	map<int32, bool> PrimePassIdMap = 4 [json_name = "PrimePassIdMap"];
+}

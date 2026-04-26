@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_union_effect_buff.proto";
 
-message NotifyEffectBufChangeRequest {
-  zproto.UnionEffectBuff set_effect_buff = 2;
-  zproto.UnionEffectBuff cancel_effect_buff = 3;
-}
+package zproto;
 
+message NotifyEffectBufChangeRequest {
+	UnionEffectBuff setEffectBuff = 2 [json_name = "setEffectBuff"];
+	UnionEffectBuff cancelEffectBuff = 3 [json_name = "cancelEffectBuff"];
+}

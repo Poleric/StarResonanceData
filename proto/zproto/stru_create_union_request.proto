@@ -3,10 +3,9 @@ syntax = "proto3";
 package zproto;
 
 message CreateUnionRequest {
-  string union_name = 2;
-  repeated uint32 union_icon = 3;
-  string declaration = 4;
-  bool auto_approval = 5;
-  repeated uint32 tags = 6;
+	string unionName = 2 [json_name = "unionName"];
+	repeated uint32 unionIcon = 3 [json_name = "unionIcon"];
+	string declaration = 4 [json_name = "declaration"];
+	bool autoApproval = 5 [json_name = "autoApproval"];
+	repeated uint32 tags = 6 [json_name = "tags"];
 }
-

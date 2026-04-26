@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ExchangeSaleTakeRequest {
-  string guid = 1;
+	string guid = 1 [json_name = "guid"];
 }
-

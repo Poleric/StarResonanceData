@@ -3,15 +3,11 @@
     "UId": 0,
     "Id": 0,
     "GroupId": 0,
-    "Position": [
-      0.0
-    ],
+    "Position": [],
     "Rotation": 0.0,
     "RefreshMode": 0,
     "RefreshAfterDied": false,
-    "RefreshPosition": [
-      0.0
-    ],
+    "RefreshPosition": [],
     "RefreshTimeType": 0,
     "RefreshTimeParams": [],
     "RefreshMaxTimes": 0,

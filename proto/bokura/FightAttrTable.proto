@@ -1,35 +1,34 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FightAttrTableBase {
-  int32 id = 1463;
-  string enum_name = 1081;
-  string name = 439;
-  string type = 673;
-  bool is_class = 538;
-  bool is_sync_me = 1064;
-  bool is_sync_aoi = 112;
-  int32 attr_lower_limit = 1596;
-  int64 attr_upper_limit = 1398;
-  int32 level = 1120;
-  int32 attr_final = 771;
-  int32 attr_total = 793;
-  int32 attr_add = 215;
-  int32 attr_ex_add = 1814;
-  int32 attr_per = 1755;
-  int32 attr_ex_per = 1937;
-  int32 attr_num_type = 105;
-  mlstring official_name = 543;
-  mlstring tip_template = 1767;
-  mlstring attr_des = 1287;
-  int32 buff_show_attr_hud = 813;
-  string_array attr_icon = 1291;
+	int32 Id = 1463 [json_name = "Id"];
+	string EnumName = 1081 [json_name = "EnumName"];
+	string Name = 439 [json_name = "Name"];
+	string Type = 673 [json_name = "Type"];
+	bool IsClass = 538 [json_name = "IsClass"];
+	bool IsSyncMe = 1064 [json_name = "IsSyncMe"];
+	bool IsSyncAoi = 112 [json_name = "IsSyncAoi"];
+	int32 AttrLowerLimit = 1596 [json_name = "AttrLowerLimit"];
+	int64 AttrUpperLimit = 1398 [json_name = "AttrUpperLimit"];
+	int32 Level = 1120 [json_name = "Level"];
+	int32 AttrFinal = 771 [json_name = "AttrFinal"];
+	int32 AttrTotal = 793 [json_name = "AttrTotal"];
+	int32 AttrAdd = 215 [json_name = "AttrAdd"];
+	int32 AttrExAdd = 1814 [json_name = "AttrExAdd"];
+	int32 AttrPer = 1755 [json_name = "AttrPer"];
+	int32 AttrExPer = 1937 [json_name = "AttrExPer"];
+	int32 AttrNumType = 105 [json_name = "AttrNumType"];
+	mlstring OfficialName = 543 [json_name = "OfficialName"];
+	mlstring TipTemplate = 1767 [json_name = "TipTemplate"];
+	mlstring AttrDes = 1287 [json_name = "AttrDes"];
+	int32 BuffShowAttrHUD = 813 [json_name = "BuffShowAttrHUD"];
+	string_array AttrIcon = 1291 [json_name = "AttrIcon"];
 }
 
 message FightAttrTableMgr {
-  map<int32, bokura.FightAttrTableBase> datas = 1;
+	map<int32, FightAttrTableBase> datas = 1 [json_name = "datas"];
 }
-

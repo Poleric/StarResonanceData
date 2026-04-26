@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "stru_mahjong_config_info.proto";
+import "stru_mahjong_settle_params.proto";
+import "stru_player_mahjong_data.proto";
+
+package zproto;
+
+message StartMessage {
+	repeated PlayerMahjongData players = 1 [json_name = "players"];
+	repeated MahjongConfigInfo config = 2 [json_name = "config"];
+	MahjongSettleParams mahjongSettleParams = 3 [json_name = "mahjongSettleParams"];
+}

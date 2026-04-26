@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "stru_cultivate_big_node_data.proto";
+import "stru_cultivate_middle_node_data.proto";
+import "stru_cultivate_normal_node_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message CultivateAreaData {
+	map<int32, CultivateNormalNodeData> cultivateNormalNodeMap = 1 [json_name = "cultivateNormalNodeMap"];
+	map<int32, CultivateMiddleNodeData> cultivateMiddleNodeMap = 2 [json_name = "cultivateMiddleNodeMap"];
+	map<int32, CultivateBigNodeData> cultivateBigNodeMap = 3 [json_name = "cultivateBigNodeMap"];
+	int32 activateEffectScore = 4 [json_name = "activateEffectScore"];
+	bool isActive = 5 [json_name = "isActive"];
+}

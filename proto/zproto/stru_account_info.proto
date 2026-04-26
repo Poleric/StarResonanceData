@@ -1,15 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_social_data.proto";
 
-message AccountInfo {
-  string account_id = 1;
-  string open_id = 2;
-  repeated zproto.SocialData chars = 3;
-  string token = 5;
-  int64 restrict_time = 6;
-  map<int64, int64> delete_char_ids_left_time = 7;
-}
+package zproto;
 
+message AccountInfo {
+	string accountId = 1 [json_name = "accountId"];
+	string openId = 2 [json_name = "openId"];
+	repeated SocialData chars = 3 [json_name = "chars"];
+	string token = 5 [json_name = "token"];
+	int64 restrictTime = 6 [json_name = "restrictTime"];
+	map<int64, int64> deleteCharIdsLeftTime = 7 [json_name = "deleteCharIdsLeftTime"];
+	uint32 banReason = 8 [json_name = "banReason"];
+}

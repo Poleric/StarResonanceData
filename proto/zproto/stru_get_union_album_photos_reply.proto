@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_photo_graph_show.proto";
 
-message GetUnionAlbumPhotosReply {
-  repeated zproto.PhotoGraphShow photo_graphs = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message GetUnionAlbumPhotosReply {
+	repeated PhotoGraphShow photoGraphs = 1 [json_name = "photoGraphs"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

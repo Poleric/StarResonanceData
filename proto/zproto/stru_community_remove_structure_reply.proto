@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+import "stru_structure_op.proto";
+
+package zproto;
+
+message CommunityRemoveStructureReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	StructureOp structure = 2 [json_name = "structure"];
+}

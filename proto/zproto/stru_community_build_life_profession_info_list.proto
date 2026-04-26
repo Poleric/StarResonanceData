@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_community_build_life_profession_info.proto";
+
+package zproto;
+
+message CommunityBuildLifeProfessionInfoList {
+	repeated CommunityBuildLifeProfessionInfo items = 1 [json_name = "items"];
+}

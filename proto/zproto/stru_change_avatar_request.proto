@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ChangeAvatarRequest {
-  int32 avatar_id = 2;
+	int32 avatarId = 2 [json_name = "avatarId"];
 }
-

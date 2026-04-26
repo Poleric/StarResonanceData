@@ -1,0 +1,302 @@
+{
+  "11001": {
+    "Id": 11001,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Raving",
+    "Type": 1,
+    "Icon": "item_icons_nabao_04",
+    "Description": "Boss ATK <style=\"accent-gn\">+30%</style>, HP <style=\"accent-gn\">+20%</style>; <br>[Slumberdream Sigils] dropped by Bosses are guaranteed to be Epic quality.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101001
+  },
+  "11002": {
+    "Id": 11002,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Somniloquy",
+    "Type": 1,
+    "Icon": "item_icons_nabao_03",
+    "Description": "When a player's HP is not full, damage they take<style=\"accent-gn\">+30%</style>; <br>When a player's HP is full, damage they take<style=\"accent-gn\">-30%</style>",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101002
+  },
+  "11003": {
+    "Id": 11003,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Bewilderment",
+    "Type": 1,
+    "Icon": "item_icons_nabao_10",
+    "Description": "Player ATK <style=\"accent-gn\">-20%</style>, Defense <style=\"accent-gn\">-20%</style>; <br>Monster ATK<style=\"accent-gn\">-30%</style>",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101003
+  },
+  "11004": {
+    "Id": 11004,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Betrayal",
+    "Type": 1,
+    "Icon": "item_icons_nabao_06",
+    "Description": "Elite HP and Boss HP <style=\"accent-gn\">+100%</style>, ATK <style=\"accent-gn\">+50%</style>; <br>Drop rate of [Slumberdream Remnants] from Elites and Bosses <style=\"accent-gn\">+60%</style>.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101004
+  },
+  "11005": {
+    "Id": 11005,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Nightmare",
+    "Type": 1,
+    "Icon": "item_icons_nabao_01",
+    "Description": "Monsters are affected by Void Corruption (HP <style=\"accent-gn\">+20%</style>, ATK <style=\"accent-gn\">+20%</style>; <br>Drop rate of [Slumberdream Sigils] from monsters is doubled.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101005
+  },
+  "11006": {
+    "Id": 11006,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Snicker",
+    "Type": 1,
+    "Icon": "item_icons_nabao_09",
+    "Description": "Player HP cannot exceed <style=\"accent-gn\">50%</style> of Max HP; <br>Monster Max HP <style=\"accent-gn\">-30%</style>",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101006
+  },
+  "11007": {
+    "Id": 11007,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Veiled Moon",
+    "Type": 1,
+    "Icon": "item_icons_nabao_02",
+    "Description": "While out of combat, [Slumberdream Value] gain rate <style=\"accent-gn\">+100%</style>; <br>While in combat, [Slumberdream Value] gain rate <style=\"accent-gn\">−20%</style>",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101007
+  },
+  "11008": {
+    "Id": 11008,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Echo",
+    "Type": 1,
+    "Icon": "item_icons_nabao_05",
+    "Description": "For each unit, damage taken is stored and then settled every <style=\"accent-gn\">5 seconds</style>; <br>Damage taken by monsters <style=\"accent-gn\">+15%</style>",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101008
+  },
+  "11009": {
+    "Id": 11009,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Finale",
+    "Type": 1,
+    "Icon": "item_icons_nabao_08",
+    "Description": "Monster ATK and HP <style=\"accent-gn\">+10%</style>; Elites and stronger monsters gain an additional <style=\"accent-gn\">10%</style>; <br>[Slumberdream Remnants] gained from combat <style=\"accent-gn\">+40%</style>",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101009
+  },
+  "11010": {
+    "Id": 11010,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "Slumberdream Mask - Symmetry",
+    "Type": 1,
+    "Icon": "item_icons_nabao_07",
+    "Description": "Monsters gain [Protection]: DMG Reduction <style=\"accent-gn\">+50%</style>. Each time damage is taken, this effect <style=\"accent-gn\">-0.5%</style>; <br>Damage taken by players <style=\"accent-gn\">−30%</style>",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101010
+  },
+  "12001": {
+    "Id": 12001,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Twilight Seed",
+    "Type": 2,
+    "Icon": "item_icons_hufu_02",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101101
+  },
+  "12002": {
+    "Id": 12002,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Misty Teardrop",
+    "Type": 2,
+    "Icon": "item_icons_hufu_01",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101102
+  },
+  "12003": {
+    "Id": 12003,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Mirage Pendant",
+    "Type": 2,
+    "Icon": "item_icons_hufu_06",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101103
+  },
+  "12004": {
+    "Id": 12004,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Dreamweaver Spindle",
+    "Type": 2,
+    "Icon": "item_icons_hufu_07",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101104
+  },
+  "12005": {
+    "Id": 12005,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Lens of Imagination",
+    "Type": 2,
+    "Icon": "item_icons_hufu_03",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101105
+  },
+  "12006": {
+    "Id": 12006,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Lingering Echo",
+    "Type": 2,
+    "Icon": "item_icons_hufu_04",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101106
+  },
+  "12007": {
+    "Id": 12007,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Realm Wedge",
+    "Type": 2,
+    "Icon": "item_icons_hufu_08",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101107
+  },
+  "12008": {
+    "Id": 12008,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Seal of Truth",
+    "Type": 2,
+    "Icon": "item_icons_hufu_05",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101108
+  },
+  "12009": {
+    "Id": 12009,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Mist Lantern",
+    "Type": 2,
+    "Icon": "item_icons_hufu_09",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101109
+  },
+  "12010": {
+    "Id": 12010,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "Sovereignty of Dreams",
+    "Type": 2,
+    "Icon": "item_icons_hufu_10",
+    "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
+    "Content": "Complete Slumberdream weekly quests to unlock",
+    "Unlock": 1101110
+  }
+}

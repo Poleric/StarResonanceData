@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ParkourStyleActionTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  int32 level = 1120;
-  int32 energy_value = 946;
-  float wait_time = 106;
-  int32 dot = 849;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	int32 Level = 1120 [json_name = "Level"];
+	int32 EnergyValue = 946 [json_name = "EnergyValue"];
+	float WaitTime = 106 [json_name = "WaitTime"];
+	int32 Dot = 849 [json_name = "Dot"];
 }
 
 message ParkourStyleActionTableMgr {
-  map<int32, bokura.ParkourStyleActionTableBase> datas = 1;
+	map<int32, ParkourStyleActionTableBase> datas = 1 [json_name = "datas"];
 }
-

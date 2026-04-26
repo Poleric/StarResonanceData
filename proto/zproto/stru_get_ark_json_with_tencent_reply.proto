@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message GetArkJsonWithTencentReply {
-  string ark_json = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message GetArkJsonWithTencentReply {
+	string arkJson = 1 [json_name = "arkJson"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

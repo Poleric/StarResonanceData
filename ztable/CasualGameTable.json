@@ -1,0 +1,22 @@
+{
+  "1": {
+    "Id": 1,
+    "MaxNum": 4,
+    "Model": [],
+    "GamePlay": [
+      1
+    ],
+    "EnterCondition": [
+      [
+        1,
+        20,
+        60
+      ]
+    ],
+    "WaitingPlayingTimeSec": 10,
+    "PlayingTimeSec": 7200,
+    "WaitEndTimeSec": 20,
+    "TableBuffs": [],
+    "PlayerBuffs": []
+  }
+}

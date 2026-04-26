@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message SignRewardData {
-  repeated int32 sign_days = 1;
-  repeated int32 reward_days = 2;
+	repeated int32 signDays = 1 [json_name = "signDays"];
+	repeated int32 rewardDays = 2 [json_name = "rewardDays"];
 }
-

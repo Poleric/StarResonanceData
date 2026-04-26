@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zproto;
+
+message MahjongSettleMessage {
+	int32 ConfirmIndex = 1 [json_name = "ConfirmIndex"];
+	int64 ConfirmTime = 2 [json_name = "ConfirmTime"];
+}

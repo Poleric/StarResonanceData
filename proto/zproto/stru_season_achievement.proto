@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_achievement.proto";
 import "stru_dirty_mask.proto";
 
-message SeasonAchievement {
-  map<uint32, zproto.Achievement> season_achievement = 1;
-}
+package zproto;
 
+message SeasonAchievement {
+	map<uint32, Achievement> seasonAchievement = 1 [json_name = "seasonAchievement"];
+}

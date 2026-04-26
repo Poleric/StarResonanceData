@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message ParkourRecord {
-  uint32 time = 1;
-  uint32 state = 2;
-  uint32 perfect_time = 3;
-}
+package zproto;
 
+message ParkourRecord {
+	uint32 time = 1 [json_name = "time"];
+	uint32 state = 2 [json_name = "state"];
+	uint32 perfectTime = 3 [json_name = "perfectTime"];
+}

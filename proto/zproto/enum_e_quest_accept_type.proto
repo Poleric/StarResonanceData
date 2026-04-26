@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 enum EQuestAcceptType {
-  QuestAcceptTypeNone = 0;
-  QuestAcceptTypeFlow = 1;
-  QuestAcceptTypeItem = 2;
+	QuestAcceptTypeNone = 0;
+	QuestAcceptTypeFlow = 1;
+	QuestAcceptTypeItem = 2;
 }
-

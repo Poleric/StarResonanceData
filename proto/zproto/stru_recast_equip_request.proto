@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message RecastEquipRequest {
-  uint64 uuid = 1;
-  repeated uint64 consume_uuid = 2;
-  int32 item_config_id = 3;
+	uint64 uuid = 1 [json_name = "uuid"];
+	repeated uint64 consumeUuid = 2 [json_name = "consumeUuid"];
+	int32 itemConfigId = 3 [json_name = "itemConfigId"];
 }
-

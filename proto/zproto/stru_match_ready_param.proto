@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message MatchReadyParam {
-  bool is_ready = 1;
-  string match_token = 2;
+	bool isReady = 1 [json_name = "isReady"];
+	string matchToken = 2 [json_name = "matchToken"];
 }
-

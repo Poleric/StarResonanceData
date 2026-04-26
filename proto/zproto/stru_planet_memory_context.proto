@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message PlanetMemoryContext {
-  int32 room_id = 1;
+	int32 roomId = 1 [json_name = "roomId"];
 }
-

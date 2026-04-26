@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_launch_param.proto";
 
-message PrivilegeActivateRequest {
-  zproto.LaunchParam launch_param = 3;
-}
+package zproto;
 
+message PrivilegeActivateRequest {
+	LaunchParam launchParam = 3 [json_name = "launchParam"];
+}

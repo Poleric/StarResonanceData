@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message EnergyItemInfo {
-  uint32 queue_id = 1;
-  uint32 column_id = 2;
-  uint32 refine_state = 3;
-  int64 gain_time = 4;
-}
+package zproto;
 
+message EnergyItemInfo {
+	uint32 queueId = 1 [json_name = "queueId"];
+	uint32 columnId = 2 [json_name = "columnId"];
+	uint32 refineState = 3 [json_name = "refineState"];
+	int64 gainTime = 4 [json_name = "gainTime"];
+}

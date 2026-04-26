@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message InteractionInfo {
-  int32 interaction_stage = 1;
-  int32 action_id = 2;
-  int64 originator_id = 3;
-  int64 invitee_id = 4;
-  bool is_originator = 5;
-  int32 interaction_type = 6;
-}
+package zproto;
 
+message InteractionInfo {
+	int32 interactionStage = 1 [json_name = "interactionStage"];
+	int32 actionId = 2 [json_name = "actionId"];
+	int64 originatorId = 3 [json_name = "originatorId"];
+	int64 inviteeId = 4 [json_name = "inviteeId"];
+	bool isOriginator = 5 [json_name = "isOriginator"];
+	int32 interactionType = 6 [json_name = "interactionType"];
+}

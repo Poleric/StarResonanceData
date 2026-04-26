@@ -1,0 +1,26 @@
+{
+  "1001": {
+    "Id": 1001,
+    "DungeonId": 9202,
+    "Difficult": 1,
+    "Season": 2,
+    "DiffBgTexture": "ui/textures/rouge/rogue_02_01",
+    "LabPic": "ui/textures/herodungeon/ogue_small_02_01"
+  },
+  "1002": {
+    "Id": 1002,
+    "DungeonId": 9203,
+    "Difficult": 2,
+    "Season": 2,
+    "DiffBgTexture": "ui/textures/rouge/rogue_02_02",
+    "LabPic": "ui/textures/herodungeon/ogue_small_02_01"
+  },
+  "1003": {
+    "Id": 1003,
+    "DungeonId": 9204,
+    "Difficult": 3,
+    "Season": 2,
+    "DiffBgTexture": "ui/textures/rouge/rogue_02_03",
+    "LabPic": "ui/textures/herodungeon/ogue_small_02_01"
+  }
+}

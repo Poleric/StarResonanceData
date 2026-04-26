@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_mark_data.proto";
 import "stru_dirty_mask.proto";
 
-message MapData {
-  map<int32, zproto.MarkData> mark_data_map = 1;
-  map<int32, bool> ares_map = 2;
-  int32 mark_uuid = 3;
-}
+package zproto;
 
+message MapData {
+	map<int32, MarkData> markDataMap = 1 [json_name = "markDataMap"];
+	map<int32, bool> aresMap = 2 [json_name = "aresMap"];
+	int32 markUuid = 3 [json_name = "markUuid"];
+}

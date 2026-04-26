@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message UnionResource {
-  int64 sum_num = 1;
-  int32 timer_limit_num = 2;
+	int64 sumNum = 1 [json_name = "sumNum"];
+	int32 timerLimitNum = 2 [json_name = "timerLimitNum"];
 }
-

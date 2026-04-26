@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message NotifyRefuseBeTransferLeaderRequest {
-  int64 mem_id = 1;
+	int64 memId = 1 [json_name = "memId"];
 }
-

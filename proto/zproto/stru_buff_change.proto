@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message BuffChange {
+	int32 layer = 1 [json_name = "layer"];
+	int64 duration = 2 [json_name = "duration"];
+	int64 createTime = 3 [json_name = "createTime"];
+}

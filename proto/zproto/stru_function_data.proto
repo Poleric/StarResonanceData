@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message FunctionData {
-  map<int32, bool> unlocked_map = 1;
-  repeated int32 drawn_function_ids = 2;
-}
+package zproto;
 
+message FunctionData {
+	map<int32, bool> unlockedMap = 1 [json_name = "unlockedMap"];
+	repeated int32 drawnFunctionIds = 2 [json_name = "drawnFunctionIds"];
+}

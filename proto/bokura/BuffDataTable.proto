@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message BuffDataTableBase {
-  int64 buff_id = 674;
-  int64_array action_array = 1470;
-  int64_array effect_array = 137;
-  int64_array material_array = 1946;
-  int64_array w_wise_array = 1945;
+	int64 BuffId = 674 [json_name = "BuffId"];
+	int64_array ActionArray = 1470 [json_name = "ActionArray"];
+	int64_array EffectArray = 137 [json_name = "EffectArray"];
+	int64_array MaterialArray = 1946 [json_name = "MaterialArray"];
+	int64_array WWiseArray = 1945 [json_name = "WWiseArray"];
 }
 
 message BuffDataTableMgr {
-  map<int64, bokura.BuffDataTableBase> datas = 1;
+	map<int64, BuffDataTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,0 +1,106 @@
+{
+  "1001": {
+    "Id": 1001,
+    "FunctionId": 500218,
+    "Title": "Talent Activation",
+    "AddDesc": "Master your Talents and Skills to forge a unique combat style! <br>Redeem materials in the Reclaim Hub!",
+    "QuickJump": [],
+    "TaskId": [
+      401,
+      402
+    ],
+    "Sort": 1
+  },
+  "1002": {
+    "Id": 1002,
+    "FunctionId": 500218,
+    "Title": "Skill Upgrade",
+    "AddDesc": "Tap [Guide] below to search and view more detailed game instructions.",
+    "QuickJump": [
+      130
+    ],
+    "TaskId": [
+      403,
+      404,
+      405
+    ],
+    "Sort": 2
+  },
+  "1003": {
+    "Id": 1003,
+    "FunctionId": 500219,
+    "Title": "Gear Acquisition",
+    "AddDesc": "Gear is essential in your journey to become strong.<br>Visit the Artisan Guild for gear enhancement!",
+    "QuickJump": [
+      104
+    ],
+    "TaskId": [
+      406
+    ],
+    "Sort": 3
+  },
+  "1004": {
+    "Id": 1004,
+    "FunctionId": 500219,
+    "Title": "Gear Enhancement",
+    "AddDesc": "Tap [Guide] below to search and view more detailed game instructions.",
+    "QuickJump": [
+      130
+    ],
+    "TaskId": [
+      407,
+      408,
+      409
+    ],
+    "Sort": 4
+  },
+  "1005": {
+    "Id": 1005,
+    "FunctionId": 500220,
+    "Title": "Imagine Acquisition",
+    "AddDesc": "Equip and enhance Battle Imagines to grant active skills and passive buffs! <br>Redeem materials in the Reclaim Hub!",
+    "QuickJump": [],
+    "TaskId": [
+      410,
+      411
+    ],
+    "Sort": 5
+  },
+  "1006": {
+    "Id": 1006,
+    "FunctionId": 500220,
+    "Title": "Imagine Development",
+    "AddDesc": "Tap [Guide] below to search and view more detailed game instructions.",
+    "QuickJump": [
+      130
+    ],
+    "TaskId": [
+      412
+    ],
+    "Sort": 6
+  },
+  "1007": {
+    "Id": 1007,
+    "FunctionId": 500221,
+    "Title": "Module Acquisition",
+    "AddDesc": "Equip Modules to activate core effects tailored to your combat style! <br>Redeem materials in the Reclaim Hub!",
+    "QuickJump": [],
+    "TaskId": [
+      413
+    ],
+    "Sort": 7
+  },
+  "1008": {
+    "Id": 1008,
+    "FunctionId": 500221,
+    "Title": "Module Advancement",
+    "AddDesc": "Tap [Guide] below to search and view more detailed game instructions.",
+    "QuickJump": [
+      130
+    ],
+    "TaskId": [
+      414
+    ],
+    "Sort": 8
+  }
+}

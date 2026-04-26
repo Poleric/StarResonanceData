@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_album_right.proto";
 
-message CreateUnionAlbumRequest {
-  int64 union_id = 1;
-  string name = 2;
-  zproto.EAlbumRight access = 3;
-}
+package zproto;
 
+message CreateUnionAlbumRequest {
+	int64 unionId = 1 [json_name = "unionId"];
+	string name = 2 [json_name = "name"];
+	EAlbumRight access = 3 [json_name = "access"];
+}

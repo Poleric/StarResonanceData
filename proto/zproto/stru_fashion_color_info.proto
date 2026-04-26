@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_int_vec3.proto";
 import "stru_dirty_mask.proto";
 
-message FashionColorInfo {
-  int32 id = 1;
-  map<int32, zproto.IntVec3> colors = 2;
-  map<int32, zproto.IntVec3> attachment_color = 3;
-}
+package zproto;
 
+message FashionColorInfo {
+	int32 id = 1 [json_name = "id"];
+	map<int32, IntVec3> colors = 2 [json_name = "colors"];
+	map<int32, IntVec3> attachmentColor = 3 [json_name = "attachmentColor"];
+}

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message EndBubbleActRequest {
-  int32 bubble_act_id = 1;
+	int32 bubbleActId = 1 [json_name = "bubbleActId"];
 }
-

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+message MailMultilingualText {
+	int32 language = 1 [json_name = "language"];
+	string sendName = 2 [json_name = "sendName"];
+	string mailTitle = 3 [json_name = "mailTitle"];
+	string mailContent = 4 [json_name = "mailContent"];
+}

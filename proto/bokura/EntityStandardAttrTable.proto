@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message EntityStandardAttrTableBase {
-  int32 id = 1463;
-  int32 season = 620;
-  int32 equip_level = 367;
-  int_table max_hp = 439;
-  int_table attack = 1316;
-  int32 body_part_max_hp = 482;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Season = 620 [json_name = "Season"];
+	int32 EquipLevel = 367 [json_name = "EquipLevel"];
+	int_table MaxHp = 439 [json_name = "MaxHp"];
+	int_table Attack = 1316 [json_name = "Attack"];
+	int32 BodyPartMaxHp = 482 [json_name = "BodyPartMaxHp"];
 }
 
 message EntityStandardAttrTableMgr {
-  map<int32, bokura.EntityStandardAttrTableBase> datas = 1;
+	map<int32, EntityStandardAttrTableBase> datas = 1 [json_name = "datas"];
 }
-

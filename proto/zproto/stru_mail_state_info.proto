@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message MailStateInfo {
-  uint32 mail_state = 1;
-  uint32 mail_config_id = 2;
+	uint32 mailState = 1 [json_name = "mailState"];
+	uint32 mailConfigId = 2 [json_name = "mailConfigId"];
 }
-

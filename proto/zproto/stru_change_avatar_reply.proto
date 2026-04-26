@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message ChangeAvatarReply {
-  int32 avatar_id = 1;
-  bool success = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message ChangeAvatarReply {
+	int32 avatarId = 1 [json_name = "avatarId"];
+	bool success = 2 [json_name = "success"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

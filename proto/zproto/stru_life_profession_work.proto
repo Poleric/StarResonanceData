@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_life_profession_work_info.proto";
 import "stru_dirty_mask.proto";
 
-message LifeProfessionWork {
-  zproto.LifeProfessionWorkInfo life_profession_work_info = 1;
-  repeated zproto.LifeProfessionWorkInfo life_profession_work_history_info = 2;
-}
+package zproto;
 
+message LifeProfessionWork {
+	LifeProfessionWorkInfo lifeProfessionWorkInfo = 1 [json_name = "lifeProfessionWorkInfo"];
+	repeated LifeProfessionWorkInfo LifeProfessionWorkHistoryInfo = 2 [json_name = "LifeProfessionWorkHistoryInfo"];
+}

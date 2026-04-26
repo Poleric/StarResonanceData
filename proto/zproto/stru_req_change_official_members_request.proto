@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message ReqChangeOfficialMembersRequest {
-  int64 union_id = 2;
-  map<uint32, int32> change_officials = 3;
+	int64 unionId = 2 [json_name = "unionId"];
+	map<uint32, int32> changeOfficials = 3 [json_name = "changeOfficials"];
 }
-

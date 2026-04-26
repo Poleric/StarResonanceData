@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message RideData {
-  int32 ride_id = 1;
-}
+package zproto;
 
+message RideData {
+	int32 rideId = 1 [json_name = "rideId"];
+}

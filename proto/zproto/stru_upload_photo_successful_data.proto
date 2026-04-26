@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_picture_type.proto";
 
-message UploadPhotoSuccessfulData {
-  zproto.EPictureType picture_type = 1;
-  uint32 picture_size = 2;
-  uint32 version = 3;
-  string picture_url = 4;
-}
+package zproto;
 
+message UploadPhotoSuccessfulData {
+	EPictureType pictureType = 1 [json_name = "pictureType"];
+	uint32 pictureSize = 2 [json_name = "pictureSize"];
+	uint32 version = 3 [json_name = "version"];
+	string pictureUrl = 4 [json_name = "pictureUrl"];
+}

@@ -1,24 +1,23 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FieldTableBase {
-  int32 id = 1463;
-  string name = 439;
-  int64 skill_id = 1087;
-  vector2 size = 1135;
-  int32 model_id = 555;
-  int32 min_body = 285;
-  int32 attribute_id = 1825;
-  string be_hit_effect = 8;
-  string birth_effect = 1264;
-  string death_effect = 1887;
-  int_array tags = 232;
+	int32 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	int64 SkillId = 1087 [json_name = "SkillId"];
+	vector2 Size = 1135 [json_name = "Size"];
+	int32 ModelId = 555 [json_name = "ModelId"];
+	int32 MinBody = 285 [json_name = "MinBody"];
+	int32 AttributeId = 1825 [json_name = "AttributeId"];
+	string BeHitEffect = 8 [json_name = "BeHitEffect"];
+	string BirthEffect = 1264 [json_name = "BirthEffect"];
+	string DeathEffect = 1887 [json_name = "DeathEffect"];
+	int_array Tags = 232 [json_name = "Tags"];
 }
 
 message FieldTableMgr {
-  map<int32, bokura.FieldTableBase> datas = 1;
+	map<int32, FieldTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message MovePhotoToAlbumReply {
-  uint32 photo_id = 3;
-  uint32 prev_album_id = 4;
-  uint32 cur_album_id = 5;
-  zproto.EErrorCode err_code = 6;
-}
+package zproto;
 
+message MovePhotoToAlbumReply {
+	uint32 photoId = 3 [json_name = "photoId"];
+	uint32 prevAlbumId = 4 [json_name = "prevAlbumId"];
+	uint32 curAlbumId = 5 [json_name = "curAlbumId"];
+	EErrorCode errCode = 6 [json_name = "errCode"];
+}

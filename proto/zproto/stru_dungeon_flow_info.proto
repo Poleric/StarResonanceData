@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_dungeon_state.proto";
 import "stru_dirty_mask.proto";
 
-message DungeonFlowInfo {
-  zproto.EDungeonState state = 1;
-  int32 active_time = 2;
-  int32 ready_time = 3;
-  int32 play_time = 4;
-  int32 end_time = 5;
-  int32 settlement_time = 6;
-  int32 dungeon_times = 7;
-  int32 result = 8;
-}
+package zproto;
 
+message DungeonFlowInfo {
+	EDungeonState state = 1 [json_name = "state"];
+	int32 activeTime = 2 [json_name = "activeTime"];
+	int32 readyTime = 3 [json_name = "readyTime"];
+	int32 playTime = 4 [json_name = "playTime"];
+	int32 endTime = 5 [json_name = "endTime"];
+	int32 settlementTime = 6 [json_name = "settlementTime"];
+	int32 dungeonTimes = 7 [json_name = "dungeonTimes"];
+	int32 result = 8 [json_name = "result"];
+}

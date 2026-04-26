@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_warehouse_grid.proto";
 
-message WarehouseInfo {
-  int64 warehouse_id = 1;
-  int64 president_id = 2;
-  repeated int64 mem_id_list = 3;
-  repeated zproto.WarehouseGrid warehouse_grids = 4;
-}
+package zproto;
 
+message WarehouseInfo {
+	int64 WarehouseId = 1 [json_name = "WarehouseId"];
+	int64 presidentId = 2 [json_name = "presidentId"];
+	repeated int64 memIdList = 3 [json_name = "memIdList"];
+	repeated WarehouseGrid warehouseGrids = 4 [json_name = "warehouseGrids"];
+}

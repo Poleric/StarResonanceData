@@ -1,13 +1,16 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_item.proto";
 
-message ReceiveUnionActivityAwardReply {
-  repeated int32 received_point_award_ids = 1;
-  repeated zproto.Item items = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message ReceiveUnionActivityAwardReply {
+	repeated int32 receivedPointAwardIds = 1 [json_name = "receivedPointAwardIds"];
+	repeated Item items = 2 [json_name = "items"];
+	int64 unionLastRefreshTime = 3 [json_name = "unionLastRefreshTime"];
+	int64 unionCurrentRefreshTime = 4 [json_name = "unionCurrentRefreshTime"];
+	int64 lastPoint = 5 [json_name = "lastPoint"];
+	int64 currentPoint = 6 [json_name = "currentPoint"];
+	EErrorCode errCode = 7 [json_name = "errCode"];
+}

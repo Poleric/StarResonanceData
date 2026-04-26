@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message BdTagTableBase {
-  int32 id = 1463;
-  mlstring tag_name = 510;
-  mlstring tag_string = 107;
-  int32 tag_type = 847;
-  int32 parent_tag = 38;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring TagName = 510 [json_name = "TagName"];
+	mlstring TagString = 107 [json_name = "TagString"];
+	int32 TagType = 847 [json_name = "TagType"];
+	int32 ParentTag = 38 [json_name = "ParentTag"];
 }
 
 message BdTagTableMgr {
-  map<int32, bokura.BdTagTableBase> datas = 1;
+	map<int32, BdTagTableBase> datas = 1 [json_name = "datas"];
 }
-

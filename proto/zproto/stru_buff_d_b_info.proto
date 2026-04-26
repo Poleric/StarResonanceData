@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_buff_d_b_data.proto";
 import "stru_dirty_mask.proto";
 
-message BuffDBInfo {
-  uint32 max_id = 1;
-  map<uint32, zproto.BuffDBData> all_buff_db_data = 2;
-}
+package zproto;
 
+message BuffDBInfo {
+	uint32 maxID = 1 [json_name = "maxID"];
+	map<uint32, BuffDBData> allBuffDbData = 2 [json_name = "allBuffDbData"];
+}

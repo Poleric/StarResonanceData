@@ -1,21 +1,20 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message EquipEffectDetileTableBase {
-  int32 id = 1463;
-  int32 effect_lib_id = 672;
-  int32 lib_type = 908;
-  int_array equip_part = 1740;
-  int32 effect_type = 527;
-  int32 effect_config = 110;
-  int_table value_range = 1881;
-  int_table random_range = 1236;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 EffectLibID = 672 [json_name = "EffectLibID"];
+	int32 LibType = 908 [json_name = "LibType"];
+	int_array EquipPart = 1740 [json_name = "EquipPart"];
+	int32 EffectType = 527 [json_name = "EffectType"];
+	int32 EffectConfig = 110 [json_name = "EffectConfig"];
+	int_table ValueRange = 1881 [json_name = "ValueRange"];
+	int_table RandomRange = 1236 [json_name = "RandomRange"];
 }
 
 message EquipEffectDetileTableMgr {
-  map<int32, bokura.EquipEffectDetileTableBase> datas = 1;
+	map<int32, EquipEffectDetileTableBase> datas = 1 [json_name = "datas"];
 }
-

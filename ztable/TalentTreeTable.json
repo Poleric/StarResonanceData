@@ -63,7 +63,7 @@
   },
   "267001": {
     "Id": 267001,
-    "TalentId": 267,
+    "TalentId": 264,
     "WeaponType": 2,
     "BdType": 1,
     "TalentStage": 1,
@@ -114,7 +114,7 @@
   },
   "264001": {
     "Id": 264001,
-    "TalentId": 264,
+    "TalentId": 267,
     "WeaponType": 2,
     "BdType": 1,
     "TalentStage": 1,
@@ -1036,7 +1036,7 @@
     ],
     "TalentPosition": [
       210,
-      840
+      810
     ],
     "Unlock": []
   },
@@ -4048,893 +4048,930 @@
     ],
     "Unlock": []
   },
-  "6689": {
-    "Id": 6689,
-    "TalentId": 4,
-    "WeaponType": 4,
+  "350005": {
+    "Id": 350005,
+    "TalentId": 350,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      422010
-    ],
-    "NextTalent": [
-      468001
-    ],
-    "TalentPosition": [
-      2250,
-      6030
-    ],
-    "Unlock": []
-  },
-  "6688": {
-    "Id": 6688,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      421010
-    ],
-    "NextTalent": [
-      457001
-    ],
-    "TalentPosition": [
-      1290,
-      6030
-    ],
-    "Unlock": []
-  },
-  "6687": {
-    "Id": 6687,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      7300
-    ],
-    "NextTalent": [
-      467001
-    ],
-    "TalentPosition": [
-      960,
-      3840
-    ],
-    "Unlock": []
-  },
-  "6686": {
-    "Id": 6686,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      5247
-    ],
-    "NextTalent": [
-      462001
-    ],
-    "TalentPosition": [
-      2580,
-      3840
-    ],
-    "Unlock": []
-  },
-  "470001": {
-    "Id": 470001,
-    "TalentId": 468,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      455001
+      3187
     ],
     "NextTalent": [],
     "TalentPosition": [
-      2460,
+      330,
+      6450
+    ],
+    "Unlock": []
+  },
+  "27150": {
+    "Id": 27150,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      360005,
+      363005
+    ],
+    "NextTalent": [
+      356005
+    ],
+    "TalentPosition": [
+      -480,
+      6180
+    ],
+    "Unlock": []
+  },
+  "3194": {
+    "Id": 3194,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      366005
+    ],
+    "NextTalent": [
+      357005
+    ],
+    "TalentPosition": [
+      -210,
+      5100
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "6923": {
+    "Id": 6923,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      342005
+    ],
+    "NextTalent": [
+      348005
+    ],
+    "TalentPosition": [
+      60,
+      3180
+    ],
+    "Unlock": []
+  },
+  "6922": {
+    "Id": 6922,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      354005
+    ],
+    "NextTalent": [
+      360005,
+      363005
+    ],
+    "TalentPosition": [
+      -480,
+      5640
+    ],
+    "Unlock": []
+  },
+  "341006": {
+    "Id": 341006,
+    "TalentId": 341,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      3180
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      870,
+      6450
+    ],
+    "Unlock": []
+  },
+  "338006": {
+    "Id": 338006,
+    "TalentId": 338,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      27141
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -750,
+      5640
+    ],
+    "Unlock": []
+  },
+  "340006": {
+    "Id": 340006,
+    "TalentId": 340,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6912
+    ],
+    "NextTalent": [
+      3180
+    ],
+    "TalentPosition": [
+      870,
+      5640
+    ],
+    "Unlock": []
+  },
+  "354005": {
+    "Id": 354005,
+    "TalentId": 354,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6914
+    ],
+    "NextTalent": [
+      6908,
+      6922
+    ],
+    "TalentPosition": [
+      -210,
+      5370
+    ],
+    "Unlock": []
+  },
+  "358005": {
+    "Id": 358005,
+    "TalentId": 358,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      3183
+    ],
+    "NextTalent": [
+      6913
+    ],
+    "TalentPosition": [
+      -750,
+      3990
+    ],
+    "Unlock": []
+  },
+  "362005": {
+    "Id": 362005,
+    "TalentId": 362,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      3192
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -210,
+      6450
+    ],
+    "Unlock": []
+  },
+  "359005": {
+    "Id": 359005,
+    "TalentId": 359,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6905
+    ],
+    "NextTalent": [
+      27142
+    ],
+    "TalentPosition": [
+      330,
+      3450
+    ],
+    "Unlock": []
+  },
+  "357005": {
+    "Id": 357005,
+    "TalentId": 357,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6906,
+      3194
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      60,
+      5370
+    ],
+    "Unlock": []
+  },
+  "355005": {
+    "Id": 355005,
+    "TalentId": 355,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6907
+    ],
+    "NextTalent": [
+      3183
+    ],
+    "TalentPosition": [
+      -210,
+      3450
+    ],
+    "Unlock": []
+  },
+  "6920": {
+    "Id": 6920,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      343005
+    ],
+    "NextTalent": [
+      366005
+    ],
+    "TalentPosition": [
+      -210,
+      4410
+    ],
+    "Unlock": []
+  },
+  "345005": {
+    "Id": 345005,
+    "TalentId": 345,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      3186
+    ],
+    "NextTalent": [
+      6912
+    ],
+    "TalentPosition": [
+      1140,
+      5100
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "27149": {
+    "Id": 27149,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      353005
+    ],
+    "NextTalent": [
+      349005
+    ],
+    "TalentPosition": [
+      870,
+      4680
+    ],
+    "Unlock": []
+  },
+  "6921": {
+    "Id": 6921,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      349005
+    ],
+    "NextTalent": [
+      365005
+    ],
+    "TalentPosition": [
+      870,
+      5370
+    ],
+    "Unlock": []
+  },
+  "339006": {
+    "Id": 339006,
+    "TalentId": 339,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      3181
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -750,
+      4830
+    ],
+    "Unlock": []
+  },
+  "343005": {
+    "Id": 343005,
+    "TalentId": 343,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      3182
+    ],
+    "NextTalent": [
+      6920
+    ],
+    "TalentPosition": [
+      -210,
+      4080
+    ],
+    "Unlock": []
+  },
+  "3192": {
+    "Id": 3192,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      363005
+    ],
+    "NextTalent": [
+      362005
+    ],
+    "TalentPosition": [
+      60,
+      6180
+    ],
+    "Unlock": []
+  },
+  "27148": {
+    "Id": 27148,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      330005
+    ],
+    "NextTalent": [
+      335005,
+      3191
+    ],
+    "TalentPosition": [
+      -1830,
+      4800
+    ],
+    "Unlock": []
+  },
+  "27147": {
+    "Id": 27147,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6904
+    ],
+    "NextTalent": [
+      336005
+    ],
+    "TalentPosition": [
+      -3180,
+      5070
+    ],
+    "Unlock": []
+  },
+  "3193": {
+    "Id": 3193,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      322005
+    ],
+    "NextTalent": [
+      339005
+    ],
+    "TalentPosition": [
+      -2910,
+      4530
+    ],
+    "Unlock": []
+  },
+  "3191": {
+    "Id": 3191,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      27148
+    ],
+    "NextTalent": [
+      329005
+    ],
+    "TalentPosition": [
+      -1560,
+      5070
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "331005": {
+    "Id": 331005,
+    "TalentId": 331,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6898
+    ],
+    "NextTalent": [
+      27138,
+      3189
+    ],
+    "TalentPosition": [
+      -1560,
+      5880
+    ],
+    "Unlock": []
+  },
+  "328005": {
+    "Id": 328005,
+    "TalentId": 328,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      27145
+    ],
+    "NextTalent": [
+      6902,
+      3176
+    ],
+    "TalentPosition": [
+      -1830,
+      3990
+    ],
+    "Unlock": []
+  },
+  "315005": {
+    "Id": 315005,
+    "TalentId": 315,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      3179
+    ],
+    "NextTalent": [
+      6915
+    ],
+    "TalentPosition": [
+      -2910,
+      3720
+    ],
+    "Unlock": []
+  },
+  "324005": {
+    "Id": 324005,
+    "TalentId": 324,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6894
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -2370,
       6150
     ],
     "Unlock": []
   },
-  "469001": {
-    "Id": 469001,
-    "TalentId": 463,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6102
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      1080,
-      6150
-    ],
-    "Unlock": []
-  },
-  "468001": {
-    "Id": 468001,
-    "TalentId": 461,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6689
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      2010,
-      6270
-    ],
-    "Unlock": []
-  },
-  "467001": {
-    "Id": 467001,
-    "TalentId": 421,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6687
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      960,
-      4560
-    ],
-    "Unlock": []
-  },
-  "466001": {
-    "Id": 466001,
-    "TalentId": 462,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      5248
-    ],
-    "NextTalent": [
-      6106
-    ],
-    "TalentPosition": [
-      2040,
-      4770
-    ],
-    "Unlock": [
-      [
-        3,
-        50
-      ]
-    ]
-  },
-  "465001": {
-    "Id": 465001,
-    "TalentId": 424,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      458001
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      2580,
-      5310
-    ],
-    "Unlock": []
-  },
-  "464001": {
-    "Id": 464001,
-    "TalentId": 465,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      461001
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      960,
-      5310
-    ],
-    "Unlock": []
-  },
-  "463001": {
-    "Id": 463001,
-    "TalentId": 418,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      7301
-    ],
-    "NextTalent": [
-      6105
-    ],
-    "TalentPosition": [
-      1500,
-      4770
-    ],
-    "Unlock": [
-      [
-        3,
-        50
-      ]
-    ]
-  },
-  "462001": {
-    "Id": 462001,
-    "TalentId": 427,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6686
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      2580,
-      4560
-    ],
-    "Unlock": []
-  },
-  "461001": {
-    "Id": 461001,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      424023
-    ],
-    "NextTalent": [
-      7302,
-      464001
-    ],
-    "TalentPosition": [
-      960,
-      5040
-    ],
-    "Unlock": []
-  },
-  "460001": {
-    "Id": 460001,
-    "TalentId": 460,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      5246
-    ],
-    "NextTalent": [
-      5247
-    ],
-    "TalentPosition": [
-      2310,
-      3570
-    ],
-    "Unlock": []
-  },
-  "459001": {
-    "Id": 459001,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      1504
-    ],
-    "NextTalent": [
-      6107
-    ],
-    "TalentPosition": [
-      1770,
-      4920
-    ],
-    "Unlock": [
-      [
-        3,
-        50
-      ]
-    ]
-  },
-  "458001": {
-    "Id": 458001,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      427024
-    ],
-    "NextTalent": [
-      5249,
-      465001
-    ],
-    "TalentPosition": [
-      2580,
-      5040
-    ],
-    "Unlock": []
-  },
-  "457001": {
-    "Id": 457001,
-    "TalentId": 467,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6688
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      1530,
-      6270
-    ],
-    "Unlock": []
-  },
-  "456001": {
-    "Id": 456001,
-    "TalentId": 455,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      7299
-    ],
-    "NextTalent": [
-      7300
-    ],
-    "TalentPosition": [
-      1230,
-      3570
-    ],
-    "Unlock": []
-  },
-  "455001": {
-    "Id": 455001,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      422010
-    ],
-    "NextTalent": [
-      470001
-    ],
-    "TalentPosition": [
-      2460,
-      5790
-    ],
-    "Unlock": []
-  },
-  "6685": {
-    "Id": 6685,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      413014
-    ],
-    "NextTalent": [
-      440001
-    ],
-    "TalentPosition": [
-      -720,
-      5790
-    ],
-    "Unlock": []
-  },
-  "6684": {
-    "Id": 6684,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      427023
-    ],
-    "NextTalent": [
-      8587,
-      446001
-    ],
-    "TalentPosition": [
-      780,
-      5040
-    ],
-    "Unlock": []
-  },
-  "6683": {
-    "Id": 6683,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      407014
-    ],
-    "NextTalent": [
-      445001
-    ],
-    "TalentPosition": [
-      660,
-      5790
-    ],
-    "Unlock": []
-  },
-  "6682": {
-    "Id": 6682,
+  "27146": {
+    "Id": 27146,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      413014
+      314005
     ],
     "NextTalent": [
-      448001
+      316005,
+      330005
     ],
     "TalentPosition": [
-      -510,
-      6030
+      -2100,
+      4260
     ],
     "Unlock": []
   },
-  "454001": {
-    "Id": 454001,
-    "TalentId": 443,
-    "WeaponType": 4,
+  "3190": {
+    "Id": 3190,
+    "TalentId": 3,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      449001
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      -840,
-      5310
-    ],
-    "Unlock": []
-  },
-  "453001": {
-    "Id": 453001,
-    "TalentId": 446,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      8586
+      6897
     ],
     "NextTalent": [
-      6092
+      338005
     ],
     "TalentPosition": [
-      240,
-      4770
+      -3180,
+      5880
     ],
-    "Unlock": [
-      [
-        3,
-        50
-      ]
-    ]
+    "Unlock": []
   },
-  "452001": {
-    "Id": 452001,
-    "TalentId": 448,
-    "WeaponType": 4,
+  "340005": {
+    "Id": 340005,
+    "TalentId": 340,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      8584
+      3176
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -1560,
+      4800
+    ],
+    "Unlock": []
+  },
+  "327005": {
+    "Id": 327005,
+    "TalentId": 327,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      3189
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -2100,
+      6420
+    ],
+    "Unlock": []
+  },
+  "332005": {
+    "Id": 332005,
+    "TalentId": 332,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6895
     ],
     "NextTalent": [
-      8585
+      3189
     ],
     "TalentPosition": [
-      510,
-      3570
+      -2100,
+      5880
     ],
     "Unlock": []
   },
-  "451001": {
-    "Id": 451001,
-    "TalentId": 424,
-    "WeaponType": 4,
+  "339005": {
+    "Id": 339005,
+    "TalentId": 339,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      441001
+      3193
     ],
     "NextTalent": [],
     "TalentPosition": [
-      -840,
-      4560
+      -3180,
+      4800
     ],
     "Unlock": []
   },
-  "450001": {
-    "Id": 450001,
-    "TalentId": 26,
-    "WeaponType": 4,
+  "341005": {
+    "Id": 341005,
+    "TalentId": 341,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      8585
-    ],
-    "NextTalent": [
-      439001
-    ],
-    "TalentPosition": [
-      780,
-      3840
-    ],
-    "Unlock": []
-  },
-  "449001": {
-    "Id": 449001,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      424022
-    ],
-    "NextTalent": [
-      6387,
-      454001
-    ],
-    "TalentPosition": [
-      -840,
-      5040
-    ],
-    "Unlock": []
-  },
-  "448001": {
-    "Id": 448001,
-    "TalentId": 452,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6682
+      27138
     ],
     "NextTalent": [],
     "TalentPosition": [
-      -270,
-      6270
+      -1560,
+      6420
     ],
     "Unlock": []
   },
-  "447001": {
-    "Id": 447001,
-    "TalentId": 440,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6388
-    ],
-    "NextTalent": [
-      6093
-    ],
-    "TalentPosition": [
-      -300,
-      4770
-    ],
-    "Unlock": [
-      [
-        3,
-        50
-      ]
-    ]
-  },
-  "446001": {
-    "Id": 446001,
-    "TalentId": 445,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6684
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      780,
-      5310
-    ],
-    "Unlock": []
-  },
-  "445001": {
-    "Id": 445001,
-    "TalentId": 450,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6683
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      660,
-      6150
-    ],
-    "Unlock": []
-  },
-  "444002": {
-    "Id": 444002,
-    "TalentId": 447,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6088
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      210,
-      6270
-    ],
-    "Unlock": []
-  },
-  "443002": {
-    "Id": 443002,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      1503
-    ],
-    "NextTalent": [
-      6094
-    ],
-    "TalentPosition": [
-      -30,
-      4920
-    ],
-    "Unlock": [
-      [
-        3,
-        50
-      ]
-    ]
-  },
-  "442001": {
-    "Id": 442001,
-    "TalentId": 439,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6385
-    ],
-    "NextTalent": [
-      6386
-    ],
-    "TalentPosition": [
-      -570,
-      3570
-    ],
-    "Unlock": []
-  },
-  "441001": {
-    "Id": 441001,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6386
-    ],
-    "NextTalent": [
-      451001
-    ],
-    "TalentPosition": [
-      -840,
-      3840
-    ],
-    "Unlock": []
-  },
-  "440001": {
-    "Id": 440001,
-    "TalentId": 453,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6685
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      -720,
-      6150
-    ],
-    "Unlock": []
-  },
-  "439001": {
-    "Id": 439001,
-    "TalentId": 427,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      450001
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      780,
-      4560
-    ],
-    "Unlock": []
-  },
-  "6681": {
-    "Id": 6681,
-    "TalentId": 435,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      435001
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      210,
-      2760
-    ],
-    "Unlock": []
-  },
-  "438001": {
-    "Id": 438001,
-    "TalentId": 438,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      1498
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      -600,
-      2760
-    ],
-    "Unlock": []
-  },
-  "437001": {
-    "Id": 437001,
+  "6919": {
+    "Id": 6919,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 0,
-    "TalentStage": 0,
+    "TalentStage": 1,
     "PreTalent": [
-      6084
+      316005,
+      330005
     ],
     "NextTalent": [
-      1496
+      317005
     ],
     "TalentPosition": [
-      -330,
-      1680
+      -2100,
+      4800
     ],
     "Unlock": []
   },
-  "436001": {
-    "Id": 436001,
-    "TalentId": 436,
-    "WeaponType": 4,
+  "313005": {
+    "Id": 313005,
+    "TalentId": 313,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6896
+    ],
+    "NextTalent": [
+      6900,
+      3179
+    ],
+    "TalentPosition": [
+      -2640,
+      3450
+    ],
+    "Unlock": []
+  },
+  "27145": {
+    "Id": 27145,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      333005
+    ],
+    "NextTalent": [
+      328005
+    ],
+    "TalentPosition": [
+      -1830,
+      3720
+    ],
+    "Unlock": []
+  },
+  "337005": {
+    "Id": 337005,
+    "TalentId": 337,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      3178,
+      334005
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -2640,
+      6420
+    ],
+    "Unlock": []
+  },
+  "325005": {
+    "Id": 325005,
+    "TalentId": 325,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6897
+    ],
+    "NextTalent": [
+      3178
+    ],
+    "TalentPosition": [
+      -2910,
+      5880
+    ],
+    "Unlock": []
+  },
+  "311005": {
+    "Id": 311005,
+    "TalentId": 311,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      1495
+      27144
     ],
-    "NextTalent": [
-      403014
+    "NextTalent": [],
+    "TalentPosition": [
+      480,
+      1470
     ],
+    "Unlock": []
+  },
+  "308005": {
+    "Id": 308005,
+    "TalentId": 308,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      3171,
+      27134
+    ],
+    "NextTalent": [],
     "TalentPosition": [
       -60,
-      1140
+      2280
     ],
     "Unlock": []
   },
-  "435001": {
-    "Id": 435001,
-    "TalentId": 1,
-    "WeaponType": 4,
+  "6918": {
+    "Id": 6918,
+    "TalentId": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      6082
+      304005
     ],
     "NextTalent": [
-      6681
+      27144
     ],
     "TalentPosition": [
       480,
-      2490
+      930
     ],
     "Unlock": []
   },
-  "423012": {
-    "Id": 423012,
-    "TalentId": 425,
-    "WeaponType": 4,
+  "302005": {
+    "Id": 302005,
+    "TalentId": 302,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6888
+    ],
+    "NextTalent": [
+      6891,
+      27135
+    ],
+    "TalentPosition": [
+      -330,
+      930
+    ],
+    "Unlock": []
+  },
+  "27144": {
+    "Id": 27144,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6918
+    ],
+    "NextTalent": [
+      6892,
+      311005
+    ],
+    "TalentPosition": [
+      480,
+      1200
+    ],
+    "Unlock": []
+  },
+  "333005": {
+    "Id": 333005,
+    "TalentId": 333,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6387
+      6901
     ],
-    "NextTalent": [],
+    "NextTalent": [
+      6916,
+      27145
+    ],
     "TalentPosition": [
-      -570,
-      5550
+      -2100,
+      3450
     ],
     "Unlock": []
   },
-  "423011": {
-    "Id": 423011,
-    "TalentId": 423,
-    "WeaponType": 4,
+  "363005": {
+    "Id": 363005,
+    "TalentId": 363,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      7302
+      6908,
+      6922
     ],
-    "NextTalent": [],
+    "NextTalent": [
+      3192,
+      27150
+    ],
     "TalentPosition": [
-      1230,
-      5550
+      -210,
+      5910
     ],
     "Unlock": []
   },
-  "434011": {
-    "Id": 434011,
-    "TalentId": 434,
-    "WeaponType": 4,
+  "349005": {
+    "Id": 349005,
+    "TalentId": 349,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      1502
+      27149,
+      346005
     ],
-    "NextTalent": [],
+    "NextTalent": [
+      6921
+    ],
     "TalentPosition": [
-      1770,
-      4110
+      870,
+      5100
     ],
-    "Unlock": []
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
   },
-  "434012": {
-    "Id": 434012,
-    "TalentId": 434,
-    "WeaponType": 4,
+  "319005": {
+    "Id": 319005,
+    "TalentId": 319,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      1500
+      6900
     ],
-    "NextTalent": [],
+    "NextTalent": [
+      27139
+    ],
     "TalentPosition": [
-      -30,
-      4110
+      -2640,
+      3990
     ],
     "Unlock": []
   },
-  "433007": {
-    "Id": 433007,
-    "TalentId": 433,
-    "WeaponType": 4,
+  "312005": {
+    "Id": 312005,
+    "TalentId": 312,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [],
     "NextTalent": [
-      1499,
-      6385,
-      8584
+      6901,
+      6896
     ],
     "TalentPosition": [
-      -30,
-      3030
+      -2370,
+      2910
     ],
     "Unlock": [
       [
@@ -4943,424 +4980,425 @@
       ]
     ]
   },
-  "1504": {
-    "Id": 1504,
-    "TalentId": 458,
-    "WeaponType": 4,
+  "356005": {
+    "Id": 356005,
+    "TalentId": 356,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      7301,
-      5248
-    ],
-    "NextTalent": [
-      459001
-    ],
-    "TalentPosition": [
-      1770,
-      4650
-    ],
-    "Unlock": []
-  },
-  "1503": {
-    "Id": 1503,
-    "TalentId": 444,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6388,
-      8586
-    ],
-    "NextTalent": [
-      443002
-    ],
-    "TalentPosition": [
-      -30,
-      4650
-    ],
-    "Unlock": []
-  },
-  "43049": {
-    "Id": 43049,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6094
-    ],
-    "NextTalent": [
-      407014
-    ],
-    "TalentPosition": [
-      210,
-      5520
-    ],
-    "Unlock": []
-  },
-  "43048": {
-    "Id": 43048,
-    "TalentId": 411,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      8585
+      27150
     ],
     "NextTalent": [],
     "TalentPosition": [
-      510,
-      4110
+      -480,
+      6450
     ],
     "Unlock": []
   },
-  "8586": {
-    "Id": 8586,
+  "326006": {
+    "Id": 326006,
+    "TalentId": 326,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      3188
+    ],
+    "NextTalent": [
+      6894
+    ],
+    "TalentPosition": [
+      -2370,
+      5340
+    ],
+    "Unlock": []
+  },
+  "3189": {
+    "Id": 3189,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      332005,
+      331005
+    ],
+    "NextTalent": [
+      327005
+    ],
+    "TalentPosition": [
+      -1830,
+      6150
+    ],
+    "Unlock": []
+  },
+  "320005": {
+    "Id": 320005,
+    "TalentId": 320,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      27139
+    ],
+    "NextTalent": [
+      6904
+    ],
+    "TalentPosition": [
+      -2640,
+      4800
+    ],
+    "Unlock": []
+  },
+  "6917": {
+    "Id": 6917,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6089
+      323005
     ],
     "NextTalent": [
-      1503,
-      453001
+      317005
     ],
     "TalentPosition": [
-      240,
-      4380
+      -2370,
+      4530
     ],
     "Unlock": []
   },
-  "8587": {
-    "Id": 8587,
-    "TalentId": 1,
-    "WeaponType": 4,
+  "3188": {
+    "Id": 3188,
+    "TalentId": 3,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6092,
-      427023,
-      6684
+      6904
     ],
     "NextTalent": [
-      428022
+      326006
     ],
     "TalentPosition": [
-      510,
-      5310
+      -2640,
+      5340
     ],
     "Unlock": []
   },
-  "8585": {
-    "Id": 8585,
+  "6915": {
+    "Id": 6915,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6095,
-      452001
+      315005
     ],
     "NextTalent": [
-      6089,
-      43048,
-      450001
+      322005
     ],
     "TalentPosition": [
-      510,
-      3840
+      -3180,
+      3990
     ],
     "Unlock": []
   },
-  "8584": {
-    "Id": 8584,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      433007
-    ],
-    "NextTalent": [
-      6095,
-      452001
-    ],
-    "TalentPosition": [
-      240,
-      3300
-    ],
-    "Unlock": []
-  },
-  "35106": {
-    "Id": 35106,
+  "6916": {
+    "Id": 6916,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6094
+      333005
     ],
     "NextTalent": [
-      413014
+      314005,
+      3175
     ],
     "TalentPosition": [
-      -270,
-      5520
+      -2100,
+      3720
     ],
     "Unlock": []
   },
-  "6388": {
-    "Id": 6388,
+  "6898": {
+    "Id": 6898,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6087
+      335005
     ],
     "NextTalent": [
-      1503,
-      447001
+      331005
     ],
     "TalentPosition": [
-      -300,
-      4380
+      -1560,
+      5610
     ],
     "Unlock": []
   },
-  "6387": {
-    "Id": 6387,
-    "TalentId": 1,
-    "WeaponType": 4,
+  "3176": {
+    "Id": 3176,
+    "TalentId": 3,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6093,
-      424022,
-      449001
+      328005
     ],
     "NextTalent": [
-      423012
+      340005
     ],
     "TalentPosition": [
-      -570,
-      5310
+      -1560,
+      4260
     ],
     "Unlock": []
   },
-  "35105": {
-    "Id": 35105,
-    "TalentId": 412,
-    "WeaponType": 4,
+  "6897": {
+    "Id": 6897,
+    "TalentId": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6386
+      321005
+    ],
+    "NextTalent": [
+      6903,
+      325005,
+      3190
+    ],
+    "TalentPosition": [
+      -2910,
+      5610
+    ],
+    "Unlock": []
+  },
+  "318005": {
+    "Id": 318005,
+    "TalentId": 318,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      3174
     ],
     "NextTalent": [],
     "TalentPosition": [
-      -570,
-      4110
+      -2100,
+      5610
     ],
     "Unlock": []
   },
-  "6386": {
-    "Id": 6386,
+  "3175": {
+    "Id": 3175,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6900,
+      6916
+    ],
+    "NextTalent": [
+      27139,
+      323005
+    ],
+    "TalentPosition": [
+      -2370,
+      3990
+    ],
+    "Unlock": []
+  },
+  "6896": {
+    "Id": 6896,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6086,
-      442001
+      312005
     ],
     "NextTalent": [
-      6087,
-      35105,
-      441001
+      313005
     ],
     "TalentPosition": [
-      -570,
-      3840
+      -2640,
+      3180
     ],
     "Unlock": []
   },
-  "6385": {
-    "Id": 6385,
-    "TalentId": 1,
-    "WeaponType": 4,
+  "334005": {
+    "Id": 334005,
+    "TalentId": 334,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      433007
+      6903
     ],
     "NextTalent": [
-      6086,
-      442001
+      337005
     ],
     "TalentPosition": [
-      -300,
-      3300
+      -2640,
+      6150
     ],
     "Unlock": []
   },
-  "413014": {
-    "Id": 413014,
-    "TalentId": 413,
-    "WeaponType": 4,
+  "330005": {
+    "Id": 330005,
+    "TalentId": 330,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      35106
+      6902,
+      27146
     ],
     "NextTalent": [
-      6682,
-      6685
+      6919,
+      27148
     ],
     "TalentPosition": [
-      -270,
-      5790
+      -1830,
+      4530
     ],
     "Unlock": []
   },
-  "412015": {
-    "Id": 412015,
-    "TalentId": 449,
-    "WeaponType": 4,
+  "336005": {
+    "Id": 336005,
+    "TalentId": 336,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6093
+      27147
     ],
     "NextTalent": [],
     "TalentPosition": [
-      -300,
-      5310
+      -3180,
+      5610
     ],
     "Unlock": []
   },
-  "407014": {
-    "Id": 407014,
-    "TalentId": 454,
-    "WeaponType": 4,
+  "335005": {
+    "Id": 335005,
+    "TalentId": 335,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      43049
+      27148
     ],
     "NextTalent": [
-      6088,
-      6683
+      6895,
+      6898
     ],
     "TalentPosition": [
-      210,
-      5790
+      -1830,
+      5340
     ],
-    "Unlock": []
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
   },
-  "405014": {
-    "Id": 405014,
-    "TalentId": 405,
-    "WeaponType": 4,
+  "338005": {
+    "Id": 338005,
+    "TalentId": 338,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6092
+      3190,
+      3178
     ],
     "NextTalent": [],
     "TalentPosition": [
-      240,
-      5310
+      -3180,
+      6420
     ],
     "Unlock": []
   },
-  "410014": {
-    "Id": 410014,
-    "TalentId": 410,
-    "WeaponType": 4,
+  "322005": {
+    "Id": 322005,
+    "TalentId": 322,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6094
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      -30,
-      6000
-    ],
-    "Unlock": []
-  },
-  "409014": {
-    "Id": 409014,
-    "TalentId": 409,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6087,
-      6089
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      -30,
-      4380
-    ],
-    "Unlock": []
-  },
-  "411014": {
-    "Id": 411014,
-    "TalentId": 451,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6086
+      6915
     ],
     "NextTalent": [
-      6087
+      3193
     ],
     "TalentPosition": [
-      -300,
-      3840
+      -2910,
+      4260
     ],
     "Unlock": []
   },
-  "406014": {
-    "Id": 406014,
-    "TalentId": 406,
-    "WeaponType": 4,
+  "316005": {
+    "Id": 316005,
+    "TalentId": 316,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6095
+      27146
     ],
     "NextTalent": [
-      6089
+      6919
     ],
     "TalentPosition": [
-      240,
-      3840
+      -2100,
+      4530
     ],
     "Unlock": []
   },
-  "432008": {
-    "Id": 432008,
-    "TalentId": 432,
-    "WeaponType": 4,
+  "317005": {
+    "Id": 317005,
+    "TalentId": 317,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6917,
+      6919
+    ],
+    "NextTalent": [
+      3174
+    ],
+    "TalentPosition": [
+      -2370,
+      5070
+    ],
+    "Unlock": []
+  },
+  "342005": {
+    "Id": 342005,
+    "TalentId": 342,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [],
     "NextTalent": [
-      1501,
-      7299,
-      5246
+      6905,
+      6907,
+      6923
     ],
     "TalentPosition": [
-      1770,
-      3030
+      60,
+      2910
     ],
     "Unlock": [
       [
@@ -5369,383 +5407,366 @@
       ]
     ]
   },
-  "37120": {
-    "Id": 37120,
+  "27143": {
+    "Id": 27143,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      3180,
+      365005
+    ],
+    "NextTalent": [
+      364005
+    ],
+    "TalentPosition": [
+      600,
+      6180
+    ],
+    "Unlock": []
+  },
+  "6914": {
+    "Id": 6914,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6107
+      351005,
+      366005
     ],
     "NextTalent": [
-      421010
+      27141,
+      354005
     ],
     "TalentPosition": [
-      1530,
-      5520
+      -480,
+      5100
     ],
-    "Unlock": []
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
   },
-  "33058": {
-    "Id": 33058,
+  "6913": {
+    "Id": 6913,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6107
+      358005
     ],
     "NextTalent": [
-      422010
+      3181,
+      351005
     ],
     "TalentPosition": [
-      2010,
-      5520
+      -480,
+      4260
     ],
     "Unlock": []
   },
-  "6107": {
-    "Id": 6107,
+  "3187": {
+    "Id": 3187,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      361005,
+      365005,
+      6908
+    ],
+    "NextTalent": [
+      350005
+    ],
+    "TalentPosition": [
+      330,
+      5910
+    ],
+    "Unlock": []
+  },
+  "3186": {
+    "Id": 3186,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      353005
+    ],
+    "NextTalent": [
+      345005
+    ],
+    "TalentPosition": [
+      1140,
+      4530
+    ],
+    "Unlock": []
+  },
+  "6912": {
+    "Id": 6912,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      459001
+      345005
     ],
     "NextTalent": [
-      419010,
-      33058,
-      37120
+      340006
     ],
     "TalentPosition": [
-      1770,
-      5280
+      1140,
+      5370
     ],
     "Unlock": []
   },
-  "5249": {
-    "Id": 5249,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6106,
-      427024,
-      458001
-    ],
-    "NextTalent": [
-      425023
-    ],
-    "TalentPosition": [
-      2310,
-      5310
-    ],
-    "Unlock": []
-  },
-  "7302": {
-    "Id": 7302,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6105,
-      424023,
-      461001
-    ],
-    "NextTalent": [
-      423011
-    ],
-    "TalentPosition": [
-      1230,
-      5310
-    ],
-    "Unlock": []
-  },
-  "6106": {
-    "Id": 6106,
+  "6911": {
+    "Id": 6911,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      466001
+      347006
     ],
     "NextTalent": [
-      420010,
-      5249
+      346005
     ],
     "TalentPosition": [
-      2040,
-      5040
+      600,
+      4410
     ],
     "Unlock": []
   },
-  "5248": {
-    "Id": 5248,
+  "3185": {
+    "Id": 3185,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      326005
+    ],
+    "NextTalent": [
+      352005
+    ],
+    "TalentPosition": [
+      60,
+      4530
+    ],
+    "Unlock": []
+  },
+  "27142": {
+    "Id": 27142,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      359005
+    ],
+    "NextTalent": [
+      347006,
+      6910
+    ],
+    "TalentPosition": [
+      600,
+      3720
+    ],
+    "Unlock": []
+  },
+  "353005": {
+    "Id": 353005,
+    "TalentId": 353,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6910
+    ],
+    "NextTalent": [
+      3186,
+      27149
+    ],
+    "TalentPosition": [
+      870,
+      4260
+    ],
+    "Unlock": []
+  },
+  "346005": {
+    "Id": 346005,
+    "TalentId": 346,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6911
+    ],
+    "NextTalent": [
+      3184,
+      349005
+    ],
+    "TalentPosition": [
+      600,
+      4830
+    ],
+    "Unlock": []
+  },
+  "3184": {
+    "Id": 3184,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      346005
+    ],
+    "NextTalent": [
+      361005
+    ],
+    "TalentPosition": [
+      600,
+      5100
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "348005": {
+    "Id": 348005,
+    "TalentId": 348,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6923
+    ],
+    "NextTalent": [
+      3182,
+      27140
+    ],
+    "TalentPosition": [
+      60,
+      3450
+    ],
+    "Unlock": []
+  },
+  "6909": {
+    "Id": 6909,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6103
+      3182,
+      27140
     ],
     "NextTalent": [
-      1504,
-      466001
+      326005
     ],
     "TalentPosition": [
-      2040,
-      4380
+      60,
+      3990
     ],
     "Unlock": []
   },
-  "6105": {
-    "Id": 6105,
+  "6910": {
+    "Id": 6910,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      463001
+      27142
     ],
     "NextTalent": [
-      414010,
-      7302
+      353005
     ],
     "TalentPosition": [
-      1500,
-      5040
+      870,
+      3990
     ],
     "Unlock": []
   },
-  "7301": {
-    "Id": 7301,
-    "TalentId": 4,
-    "WeaponType": 4,
+  "3183": {
+    "Id": 3183,
+    "TalentId": 3,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6099
+      355005
     ],
     "NextTalent": [
-      1504,
-      463001
+      358005
     ],
     "TalentPosition": [
-      1500,
-      4380
+      -480,
+      3720
     ],
     "Unlock": []
   },
-  "6104": {
-    "Id": 6104,
-    "TalentId": 469,
-    "WeaponType": 4,
+  "351005": {
+    "Id": 351005,
+    "TalentId": 351,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6103
+      6913
     ],
     "NextTalent": [
-      427024
+      6914
     ],
     "TalentPosition": [
-      2310,
-      4380
+      -480,
+      4680
     ],
     "Unlock": []
   },
-  "33057": {
-    "Id": 33057,
-    "TalentId": 459,
-    "WeaponType": 4,
+  "344005": {
+    "Id": 344005,
+    "TalentId": 344,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      5247
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      2310,
-      4110
-    ],
-    "Unlock": []
-  },
-  "6102": {
-    "Id": 6102,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      421010
+      27140
     ],
     "NextTalent": [
-      469001
+      6906
     ],
     "TalentPosition": [
-      1080,
-      5790
+      330,
+      4410
     ],
     "Unlock": []
   },
-  "37119": {
-    "Id": 37119,
-    "TalentId": 420,
-    "WeaponType": 4,
+  "27141": {
+    "Id": 27141,
+    "TalentId": 27,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      7300
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      1230,
-      4110
-    ],
-    "Unlock": []
-  },
-  "6103": {
-    "Id": 6103,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      417010,
-      5247,
-      1502
+      6914
     ],
     "NextTalent": [
-      418011,
-      6104,
-      5248
+      338006
     ],
     "TalentPosition": [
-      2040,
-      4110
-    ],
-    "Unlock": []
-  },
-  "1502": {
-    "Id": 1502,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6100
-    ],
-    "NextTalent": [
-      6099,
-      6103,
-      434011
-    ],
-    "TalentPosition": [
-      1770,
-      3840
-    ],
-    "Unlock": []
-  },
-  "6099": {
-    "Id": 6099,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      416010,
-      7300,
-      1502
-    ],
-    "NextTalent": [
-      418011,
-      6101,
-      7301
-    ],
-    "TalentPosition": [
-      1500,
-      4110
-    ],
-    "Unlock": []
-  },
-  "6101": {
-    "Id": 6101,
-    "TalentId": 416,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6099
-    ],
-    "NextTalent": [
-      424023
-    ],
-    "TalentPosition": [
-      1230,
-      4380
-    ],
-    "Unlock": []
-  },
-  "6100": {
-    "Id": 6100,
-    "TalentId": 417,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      1501
-    ],
-    "NextTalent": [
-      1502
-    ],
-    "TalentPosition": [
-      1770,
-      3540
-    ],
-    "Unlock": []
-  },
-  "6098": {
-    "Id": 6098,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      5246,
-      1501
-    ],
-    "NextTalent": [
-      417010,
-      5247
-    ],
-    "TalentPosition": [
-      2040,
-      3570
-    ],
-    "Unlock": []
-  },
-  "6097": {
-    "Id": 6097,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      7299,
-      1501
-    ],
-    "NextTalent": [
-      416010,
-      7300
-    ],
-    "TalentPosition": [
-      1500,
-      3570
+      -480,
+      5370
     ],
     "Unlock": []
   },
@@ -5911,129 +5932,117 @@
     ],
     "Unlock": []
   },
-  "7300": {
-    "Id": 7300,
+  "27140": {
+    "Id": 27140,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      348005
+    ],
+    "NextTalent": [
+      344005,
+      6909
+    ],
+    "TalentPosition": [
+      330,
+      3720
+    ],
+    "Unlock": []
+  },
+  "3182": {
+    "Id": 3182,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      348005
+    ],
+    "NextTalent": [
+      6909,
+      343005
+    ],
+    "TalentPosition": [
+      -210,
+      3720
+    ],
+    "Unlock": []
+  },
+  "6908": {
+    "Id": 6908,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6097,
-      456001
+      354005,
+      361005
     ],
     "NextTalent": [
-      6099,
-      37119,
-      6687
+      3187,
+      363005
     ],
     "TalentPosition": [
-      1230,
-      3840
+      60,
+      5640
     ],
     "Unlock": []
   },
-  "5247": {
-    "Id": 5247,
+  "3181": {
+    "Id": 3181,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6913
+    ],
+    "NextTalent": [
+      339006
+    ],
+    "TalentPosition": [
+      -750,
+      4530
+    ],
+    "Unlock": []
+  },
+  "6907": {
+    "Id": 6907,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6098,
-      460001
+      342005
     ],
     "NextTalent": [
-      6103,
-      33057,
-      6686
+      355005
     ],
     "TalentPosition": [
-      2310,
-      3840
+      -210,
+      3180
     ],
     "Unlock": []
   },
-  "5246": {
-    "Id": 5246,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      432008
-    ],
-    "NextTalent": [
-      6098,
-      460001
-    ],
-    "TalentPosition": [
-      2040,
-      3300
-    ],
-    "Unlock": []
-  },
-  "7299": {
-    "Id": 7299,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      432008
-    ],
-    "NextTalent": [
-      6097,
-      456001
-    ],
-    "TalentPosition": [
-      1500,
-      3300
-    ],
-    "Unlock": []
-  },
-  "1501": {
-    "Id": 1501,
+  "6905": {
+    "Id": 6905,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      432008
+      342005
     ],
     "NextTalent": [
-      6097,
-      6098,
-      6100
+      359005
     ],
     "TalentPosition": [
-      1770,
-      3300
+      330,
+      3180
     ],
     "Unlock": []
-  },
-  "424023": {
-    "Id": 424023,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6101
-    ],
-    "NextTalent": [
-      7302,
-      461001
-    ],
-    "TalentPosition": [
-      1230,
-      4770
-    ],
-    "Unlock": [
-      [
-        3,
-        50
-      ]
-    ]
   },
   "5587": {
     "Id": 5587,
@@ -7652,22 +7661,21 @@
     ],
     "Unlock": []
   },
-  "427024": {
-    "Id": 427024,
-    "TalentId": 1,
-    "WeaponType": 4,
+  "6906": {
+    "Id": 6906,
+    "TalentId": 4,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6104
+      344005
     ],
     "NextTalent": [
-      5249,
-      458001
+      357005
     ],
     "TalentPosition": [
-      2310,
-      4770
+      330,
+      5100
     ],
     "Unlock": [
       [
@@ -7676,95 +7684,94 @@
       ]
     ]
   },
-  "425023": {
-    "Id": 425023,
-    "TalentId": 425,
-    "WeaponType": 4,
+  "3180": {
+    "Id": 3180,
+    "TalentId": 3,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      5249
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      2310,
-      5550
-    ],
-    "Unlock": []
-  },
-  "418011": {
-    "Id": 418011,
-    "TalentId": 422,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6099,
-      6103
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      1770,
-      4380
-    ],
-    "Unlock": [
-      [
-        3,
-        33
-      ]
-    ]
-  },
-  "422010": {
-    "Id": 422010,
-    "TalentId": 466,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      33058
+      340006,
+      365005
     ],
     "NextTalent": [
-      455001,
-      6689
+      27143,
+      341006
     ],
     "TalentPosition": [
-      2010,
-      5790
+      870,
+      5910
     ],
     "Unlock": []
   },
-  "421010": {
-    "Id": 421010,
-    "TalentId": 414,
-    "WeaponType": 4,
+  "364005": {
+    "Id": 364005,
+    "TalentId": 364,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      37120
-    ],
-    "NextTalent": [
-      6102,
-      6688
-    ],
-    "TalentPosition": [
-      1530,
-      5790
-    ],
-    "Unlock": []
-  },
-  "420010": {
-    "Id": 420010,
-    "TalentId": 456,
-    "WeaponType": 4,
-    "BdType": 1,
-    "TalentStage": 1,
-    "PreTalent": [
-      6106
+      27143
     ],
     "NextTalent": [],
     "TalentPosition": [
-      2040,
-      5310
+      600,
+      6450
+    ],
+    "Unlock": []
+  },
+  "352005": {
+    "Id": 352005,
+    "TalentId": 352,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      3185
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      60,
+      4830
+    ],
+    "Unlock": []
+  },
+  "366005": {
+    "Id": 366005,
+    "TalentId": 366,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6920
+    ],
+    "NextTalent": [
+      6914,
+      3194
+    ],
+    "TalentPosition": [
+      -210,
+      4830
+    ],
+    "Unlock": []
+  },
+  "365005": {
+    "Id": 365005,
+    "TalentId": 365,
+    "WeaponType": 3,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6921
+    ],
+    "NextTalent": [
+      3180,
+      3187,
+      27143
+    ],
+    "TalentPosition": [
+      600,
+      5640
     ],
     "Unlock": []
   },
@@ -13598,344 +13605,95 @@
       ]
     ]
   },
-  "417010": {
-    "Id": 417010,
-    "TalentId": 464,
-    "WeaponType": 4,
+  "360005": {
+    "Id": 360005,
+    "TalentId": 360,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6098
+      6922
     ],
     "NextTalent": [
-      6103
+      27150
     ],
     "TalentPosition": [
-      2040,
-      3840
+      -750,
+      5910
     ],
     "Unlock": []
   },
-  "414010": {
-    "Id": 414010,
-    "TalentId": 457,
-    "WeaponType": 4,
+  "361005": {
+    "Id": 361005,
+    "TalentId": 361,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6105
+      3184
     ],
-    "NextTalent": [],
+    "NextTalent": [
+      6908,
+      3187
+    ],
     "TalentPosition": [
-      1500,
-      5310
+      330,
+      5370
     ],
     "Unlock": []
   },
-  "419010": {
-    "Id": 419010,
-    "TalentId": 419,
-    "WeaponType": 4,
+  "326005": {
+    "Id": 326005,
+    "TalentId": 326,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6107
+      6909
     ],
-    "NextTalent": [],
+    "NextTalent": [
+      3185
+    ],
     "TalentPosition": [
-      1770,
-      6000
+      60,
+      4260
     ],
     "Unlock": []
   },
-  "416010": {
-    "Id": 416010,
-    "TalentId": 470,
-    "WeaponType": 4,
+  "347006": {
+    "Id": 347006,
+    "TalentId": 347,
+    "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
     "PreTalent": [
-      6097
+      27142
     ],
     "NextTalent": [
-      6099
+      6911
     ],
     "TalentPosition": [
-      1500,
-      3840
+      600,
+      4080
     ],
     "Unlock": []
   },
-  "6094": {
-    "Id": 6094,
-    "TalentId": 4,
-    "WeaponType": 4,
+  "3174": {
+    "Id": 3174,
+    "TalentId": 3,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      443002
+      317005
     ],
     "NextTalent": [
-      410014,
-      35106,
-      43049
+      6895,
+      318005
     ],
     "TalentPosition": [
-      -30,
-      5280
-    ],
-    "Unlock": []
-  },
-  "6092": {
-    "Id": 6092,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      453001
-    ],
-    "NextTalent": [
-      405014,
-      8587
-    ],
-    "TalentPosition": [
-      240,
-      5040
-    ],
-    "Unlock": []
-  },
-  "6093": {
-    "Id": 6093,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      447001
-    ],
-    "NextTalent": [
-      412015,
-      6387
-    ],
-    "TalentPosition": [
-      -300,
-      5040
-    ],
-    "Unlock": []
-  },
-  "6096": {
-    "Id": 6096,
-    "TalentId": 441,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6089
-    ],
-    "NextTalent": [
-      427023
-    ],
-    "TalentPosition": [
-      510,
-      4380
-    ],
-    "Unlock": []
-  },
-  "6088": {
-    "Id": 6088,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      407014
-    ],
-    "NextTalent": [
-      444002
-    ],
-    "TalentPosition": [
-      450,
-      6030
-    ],
-    "Unlock": []
-  },
-  "6089": {
-    "Id": 6089,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      1500,
-      406014,
-      8585
-    ],
-    "NextTalent": [
-      6096,
-      409014,
-      8586
-    ],
-    "TalentPosition": [
-      240,
-      4110
-    ],
-    "Unlock": []
-  },
-  "1500": {
-    "Id": 1500,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6090
-    ],
-    "NextTalent": [
-      6087,
-      6089,
-      434012
-    ],
-    "TalentPosition": [
-      -30,
-      3840
-    ],
-    "Unlock": []
-  },
-  "6087": {
-    "Id": 6087,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6386,
-      1500,
-      411014
-    ],
-    "NextTalent": [
-      6091,
-      409014,
-      6388
-    ],
-    "TalentPosition": [
-      -300,
-      4110
-    ],
-    "Unlock": []
-  },
-  "6091": {
-    "Id": 6091,
-    "TalentId": 442,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6087
-    ],
-    "NextTalent": [
-      424022
-    ],
-    "TalentPosition": [
-      -570,
-      4380
-    ],
-    "Unlock": []
-  },
-  "6090": {
-    "Id": 6090,
-    "TalentId": 407,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      1499
-    ],
-    "NextTalent": [
-      1500
-    ],
-    "TalentPosition": [
-      -30,
-      3540
-    ],
-    "Unlock": []
-  },
-  "6095": {
-    "Id": 6095,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      8584,
-      1499
-    ],
-    "NextTalent": [
-      406014,
-      8585
-    ],
-    "TalentPosition": [
-      240,
-      3570
-    ],
-    "Unlock": []
-  },
-  "6086": {
-    "Id": 6086,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6385,
-      1499
-    ],
-    "NextTalent": [
-      411014,
-      6386
-    ],
-    "TalentPosition": [
-      -300,
-      3570
-    ],
-    "Unlock": []
-  },
-  "1499": {
-    "Id": 1499,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      433007
-    ],
-    "NextTalent": [
-      6086,
-      6095,
-      6090
-    ],
-    "TalentPosition": [
-      -30,
-      3300
-    ],
-    "Unlock": []
-  },
-  "424022": {
-    "Id": 424022,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 1,
-    "PreTalent": [
-      6091
-    ],
-    "NextTalent": [
-      6387,
-      449001
-    ],
-    "TalentPosition": [
-      -570,
-      4770
+      -2100,
+      5340
     ],
     "Unlock": [
       [
@@ -13944,22 +13702,78 @@
       ]
     ]
   },
-  "427023": {
-    "Id": 427023,
-    "TalentId": 1,
-    "WeaponType": 4,
+  "27138": {
+    "Id": 27138,
+    "TalentId": 27,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      6096
+      331005
     ],
     "NextTalent": [
-      8587,
-      6684
+      341005
     ],
     "TalentPosition": [
-      510,
-      4770
+      -1560,
+      6150
+    ],
+    "Unlock": []
+  },
+  "6895": {
+    "Id": 6895,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      335005,
+      3174
+    ],
+    "NextTalent": [
+      332005
+    ],
+    "TalentPosition": [
+      -1830,
+      5610
+    ],
+    "Unlock": []
+  },
+  "323005": {
+    "Id": 323005,
+    "TalentId": 323,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      3175
+    ],
+    "NextTalent": [
+      6917
+    ],
+    "TalentPosition": [
+      -2370,
+      4260
+    ],
+    "Unlock": []
+  },
+  "6904": {
+    "Id": 6904,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      320005
+    ],
+    "NextTalent": [
+      321005,
+      3188,
+      27147
+    ],
+    "TalentPosition": [
+      -2910,
+      5070
     ],
     "Unlock": [
       [
@@ -13968,246 +13782,427 @@
       ]
     ]
   },
-  "428022": {
-    "Id": 428022,
-    "TalentId": 428,
-    "WeaponType": 4,
+  "6903": {
+    "Id": 6903,
+    "TalentId": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
     "PreTalent": [
-      8587
+      6897,
+      6894
+    ],
+    "NextTalent": [
+      334005
+    ],
+    "TalentPosition": [
+      -2640,
+      5880
+    ],
+    "Unlock": []
+  },
+  "27139": {
+    "Id": 27139,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      319005,
+      3175
+    ],
+    "NextTalent": [
+      320005
+    ],
+    "TalentPosition": [
+      -2640,
+      4260
+    ],
+    "Unlock": []
+  },
+  "6902": {
+    "Id": 6902,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      328005
+    ],
+    "NextTalent": [
+      330005
+    ],
+    "TalentPosition": [
+      -1830,
+      4260
+    ],
+    "Unlock": []
+  },
+  "321005": {
+    "Id": 321005,
+    "TalentId": 321,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6904
+    ],
+    "NextTalent": [
+      6897
+    ],
+    "TalentPosition": [
+      -2910,
+      5340
+    ],
+    "Unlock": []
+  },
+  "314005": {
+    "Id": 314005,
+    "TalentId": 314,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6916
+    ],
+    "NextTalent": [
+      27146
+    ],
+    "TalentPosition": [
+      -2100,
+      3990
+    ],
+    "Unlock": []
+  },
+  "3179": {
+    "Id": 3179,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      313005
+    ],
+    "NextTalent": [
+      315005
+    ],
+    "TalentPosition": [
+      -2910,
+      3450
+    ],
+    "Unlock": []
+  },
+  "6900": {
+    "Id": 6900,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      313005
+    ],
+    "NextTalent": [
+      3175,
+      319005
+    ],
+    "TalentPosition": [
+      -2640,
+      3720
+    ],
+    "Unlock": []
+  },
+  "6901": {
+    "Id": 6901,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      312005
+    ],
+    "NextTalent": [
+      333005
+    ],
+    "TalentPosition": [
+      -2100,
+      3180
+    ],
+    "Unlock": []
+  },
+  "6894": {
+    "Id": 6894,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      326006
+    ],
+    "NextTalent": [
+      6903,
+      324005
+    ],
+    "TalentPosition": [
+      -2370,
+      5610
+    ],
+    "Unlock": []
+  },
+  "3178": {
+    "Id": 3178,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      325005
+    ],
+    "NextTalent": [
+      338005,
+      337005
+    ],
+    "TalentPosition": [
+      -2910,
+      6150
+    ],
+    "Unlock": []
+  },
+  "329005": {
+    "Id": 329005,
+    "TalentId": 329,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      3191
     ],
     "NextTalent": [],
     "TalentPosition": [
-      510,
-      5550
+      -1560,
+      5340
     ],
     "Unlock": []
   },
-  "69128": {
-    "Id": 69128,
-    "TalentId": 26,
-    "WeaponType": 4,
+  "6899": {
+    "Id": 6899,
+    "TalentId": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      6084
+      27135
     ],
     "NextTalent": [
-      1498
-    ],
-    "TalentPosition": [
-      -600,
-      1680
-    ],
-    "Unlock": []
-  },
-  "1496": {
-    "Id": 1496,
-    "TalentId": 437,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      437001
-    ],
-    "NextTalent": [
-      6083
+      310005
     ],
     "TalentPosition": [
       -330,
-      1950
+      1470
     ],
     "Unlock": []
   },
-  "1498": {
-    "Id": 1498,
-    "TalentId": 4,
-    "WeaponType": 4,
+  "305005": {
+    "Id": 305005,
+    "TalentId": 305,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      69128
-    ],
-    "NextTalent": [
-      438001
-    ],
-    "TalentPosition": [
-      -600,
-      2220
-    ],
-    "Unlock": []
-  },
-  "1495": {
-    "Id": 1495,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      69127
-    ],
-    "NextTalent": [
-      436001
-    ],
-    "TalentPosition": [
-      -60,
-      900
-    ],
-    "Unlock": []
-  },
-  "1497": {
-    "Id": 1497,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      69127
-    ],
-    "NextTalent": [
-      401015
-    ],
-    "TalentPosition": [
-      210,
-      630
-    ],
-    "Unlock": []
-  },
-  "431007": {
-    "Id": 431007,
-    "TalentId": 401,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      10443
-    ],
-    "NextTalent": [
-      6084
-    ],
-    "TalentPosition": [
-      -330,
-      990
-    ],
-    "Unlock": []
-  },
-  "430008": {
-    "Id": 430008,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      403014
-    ],
-    "NextTalent": [
-      402013
-    ],
-    "TalentPosition": [
-      -60,
-      1680
-    ],
-    "Unlock": []
-  },
-  "429008": {
-    "Id": 429008,
-    "TalentId": 429,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      400016
-    ],
-    "NextTalent": [],
-    "TalentPosition": [
-      -60,
-      2760
-    ],
-    "Unlock": []
-  },
-  "402013": {
-    "Id": 402013,
-    "TalentId": 402,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      430008
-    ],
-    "NextTalent": [
-      6083
-    ],
-    "TalentPosition": [
-      -60,
-      1950
-    ],
-    "Unlock": []
-  },
-  "401015": {
-    "Id": 401015,
-    "TalentId": 400,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      1497
-    ],
-    "NextTalent": [
-      6081,
-      10445
-    ],
-    "TalentPosition": [
-      210,
-      1140
-    ],
-    "Unlock": []
-  },
-  "69125": {
-    "Id": 69125,
-    "TalentId": 431,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      10445
+      6892
     ],
     "NextTalent": [],
     "TalentPosition": [
       480,
-      1680
+      1740
     ],
     "Unlock": []
   },
-  "69127": {
-    "Id": 69127,
-    "TalentId": 403,
-    "WeaponType": 4,
+  "3177": {
+    "Id": 3177,
+    "TalentId": 3,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      10442
+      309005
     ],
     "NextTalent": [
-      10443,
-      1497,
-      1495
+      6893
     ],
     "TalentPosition": [
-      -60,
-      630
+      -330,
+      660
     ],
     "Unlock": []
   },
-  "69126": {
-    "Id": 69126,
-    "TalentId": 26,
-    "WeaponType": 4,
+  "6893": {
+    "Id": 6893,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      3177
+    ],
+    "NextTalent": [
+      27135,
+      301005
+    ],
+    "TalentPosition": [
+      -600,
+      930
+    ],
+    "Unlock": []
+  },
+  "3172": {
+    "Id": 3172,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6889
+    ],
+    "NextTalent": [
+      304005
+    ],
+    "TalentPosition": [
+      210,
+      390
+    ],
+    "Unlock": []
+  },
+  "301005": {
+    "Id": 301005,
+    "TalentId": 301,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6893
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -600,
+      1470
+    ],
+    "Unlock": []
+  },
+  "3173": {
+    "Id": 3173,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6891
+    ],
+    "NextTalent": [
+      6890,
+      303005
+    ],
+    "TalentPosition": [
+      -60,
+      1470
+    ],
+    "Unlock": []
+  },
+  "310005": {
+    "Id": 310005,
+    "TalentId": 310,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6899
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -600,
+      1740
+    ],
+    "Unlock": []
+  },
+  "306005": {
+    "Id": 306005,
+    "TalentId": 306,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      27134
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -600,
+      2280
+    ],
+    "Unlock": []
+  },
+  "303005": {
+    "Id": 303005,
+    "TalentId": 303,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      3173
+    ],
+    "NextTalent": [
+      27136,
+      3171
+    ],
+    "TalentPosition": [
+      210,
+      1740
+    ],
+    "Unlock": []
+  },
+  "300005": {
+    "Id": 300005,
+    "TalentId": 300,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      3170
+    ],
+    "NextTalent": [
+      6892
+    ],
+    "TalentPosition": [
+      210,
+      1200
+    ],
+    "Unlock": []
+  },
+  "304005": {
+    "Id": 304005,
+    "TalentId": 304,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      3172
+    ],
+    "NextTalent": [
+      6918
+    ],
+    "TalentPosition": [
+      210,
+      660
+    ],
+    "Unlock": []
+  },
+  "27137": {
+    "Id": 27137,
+    "TalentId": 27,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [],
     "NextTalent": [
-      10442
+      6889
     ],
     "TalentPosition": [
       -60,
@@ -14215,198 +14210,201 @@
     ],
     "Unlock": []
   },
-  "404014": {
-    "Id": 404014,
-    "TalentId": 404,
-    "WeaponType": 4,
+  "309005": {
+    "Id": 309005,
+    "TalentId": 309,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      10444
+      6889
+    ],
+    "NextTalent": [
+      3177
+    ],
+    "TalentPosition": [
+      -330,
+      390
+    ],
+    "Unlock": []
+  },
+  "6892": {
+    "Id": 6892,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      27144,
+      300005
+    ],
+    "NextTalent": [
+      305005
+    ],
+    "TalentPosition": [
+      210,
+      1470
+    ],
+    "Unlock": []
+  },
+  "3171": {
+    "Id": 3171,
+    "TalentId": 3,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      303005
+    ],
+    "NextTalent": [
+      308005
+    ],
+    "TalentPosition": [
+      210,
+      2010
+    ],
+    "Unlock": []
+  },
+  "27136": {
+    "Id": 27136,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      303005
+    ],
+    "NextTalent": [
+      307005
+    ],
+    "TalentPosition": [
+      480,
+      2010
+    ],
+    "Unlock": []
+  },
+  "27135": {
+    "Id": 27135,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      302005,
+      6893
+    ],
+    "NextTalent": [
+      6899
+    ],
+    "TalentPosition": [
+      -330,
+      1200
+    ],
+    "Unlock": []
+  },
+  "307005": {
+    "Id": 307005,
+    "TalentId": 307,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      27136
     ],
     "NextTalent": [],
     "TalentPosition": [
-      -330,
-      2760
+      480,
+      2280
     ],
     "Unlock": []
   },
-  "403014": {
-    "Id": 403014,
-    "TalentId": 26,
-    "WeaponType": 4,
+  "6891": {
+    "Id": 6891,
+    "TalentId": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      436001
+      302005
     ],
     "NextTalent": [
-      430008
+      3173
     ],
     "TalentPosition": [
       -60,
-      1410
+      1200
     ],
     "Unlock": []
   },
-  "400016": {
-    "Id": 400016,
-    "TalentId": 1,
-    "WeaponType": 4,
+  "3170": {
+    "Id": 3170,
+    "TalentId": 3,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      6082
+      6888
     ],
     "NextTalent": [
-      429008
+      300005
+    ],
+    "TalentPosition": [
+      210,
+      930
+    ],
+    "Unlock": []
+  },
+  "27134": {
+    "Id": 27134,
+    "TalentId": 27,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6890
+    ],
+    "NextTalent": [
+      306005,
+      308005
+    ],
+    "TalentPosition": [
+      -330,
+      2010
+    ],
+    "Unlock": []
+  },
+  "6888": {
+    "Id": 6888,
+    "TalentId": 4,
+    "WeaponType": 3,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6889
+    ],
+    "NextTalent": [
+      3170,
+      302005
     ],
     "TalentPosition": [
       -60,
-      2490
+      660
     ],
     "Unlock": []
   },
-  "6083": {
-    "Id": 6083,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      1496,
-      402013
-    ],
-    "NextTalent": [
-      10444
-    ],
-    "TalentPosition": [
-      -330,
-      2220
-    ],
-    "Unlock": []
-  },
-  "10445": {
-    "Id": 10445,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      401015
-    ],
-    "NextTalent": [
-      69125
-    ],
-    "TalentPosition": [
-      480,
-      1410
-    ],
-    "Unlock": []
-  },
-  "6085": {
-    "Id": 6085,
-    "TalentId": 430,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      6081
-    ],
-    "NextTalent": [
-      6082
-    ],
-    "TalentPosition": [
-      480,
-      1950
-    ],
-    "Unlock": []
-  },
-  "6082": {
-    "Id": 6082,
-    "TalentId": 26,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      6085
-    ],
-    "NextTalent": [
-      400016,
-      435001
-    ],
-    "TalentPosition": [
-      210,
-      2220
-    ],
-    "Unlock": []
-  },
-  "6084": {
-    "Id": 6084,
-    "TalentId": 1,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      431007
-    ],
-    "NextTalent": [
-      69128,
-      437001
-    ],
-    "TalentPosition": [
-      -330,
-      1410
-    ],
-    "Unlock": []
-  },
-  "10444": {
-    "Id": 10444,
+  "6889": {
+    "Id": 6889,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      6083
+      27137
     ],
     "NextTalent": [
-      404014
-    ],
-    "TalentPosition": [
-      -330,
-      2490
-    ],
-    "Unlock": []
-  },
-  "6081": {
-    "Id": 6081,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      401015
-    ],
-    "NextTalent": [
-      6085
-    ],
-    "TalentPosition": [
-      210,
-      1680
-    ],
-    "Unlock": []
-  },
-  "10442": {
-    "Id": 10442,
-    "TalentId": 4,
-    "WeaponType": 4,
-    "BdType": 0,
-    "TalentStage": 0,
-    "PreTalent": [
-      69126
-    ],
-    "NextTalent": [
-      69127
+      6888,
+      309005,
+      3172
     ],
     "TalentPosition": [
       -60,
@@ -14414,21 +14412,21 @@
     ],
     "Unlock": []
   },
-  "10443": {
-    "Id": 10443,
+  "6890": {
+    "Id": 6890,
     "TalentId": 4,
-    "WeaponType": 4,
+    "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
     "PreTalent": [
-      69127
+      3173
     ],
     "NextTalent": [
-      431007
+      27134
     ],
     "TalentPosition": [
       -330,
-      630
+      1740
     ],
     "Unlock": []
   },
@@ -17222,7 +17220,7 @@
     ],
     "NextTalent": [],
     "TalentPosition": [
-      420,
+      450,
       1500
     ],
     "Unlock": []
@@ -17365,8 +17363,8 @@
       10369
     ],
     "TalentPosition": [
-      420,
-      840
+      450,
+      810
     ],
     "Unlock": []
   },
@@ -17402,7 +17400,7 @@
       200020
     ],
     "TalentPosition": [
-      420,
+      450,
       1050
     ],
     "Unlock": []
@@ -22272,6 +22270,2781 @@
     "TalentPosition": [
       1620,
       1860
+    ],
+    "Unlock": []
+  },
+  "10443": {
+    "Id": 10443,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      69127
+    ],
+    "NextTalent": [
+      431007
+    ],
+    "TalentPosition": [
+      -330,
+      630
+    ],
+    "Unlock": []
+  },
+  "10442": {
+    "Id": 10442,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      69126
+    ],
+    "NextTalent": [
+      69127
+    ],
+    "TalentPosition": [
+      -60,
+      390
+    ],
+    "Unlock": []
+  },
+  "6081": {
+    "Id": 6081,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      401015
+    ],
+    "NextTalent": [
+      6085
+    ],
+    "TalentPosition": [
+      210,
+      1680
+    ],
+    "Unlock": []
+  },
+  "10444": {
+    "Id": 10444,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6083
+    ],
+    "NextTalent": [
+      404014
+    ],
+    "TalentPosition": [
+      -330,
+      2490
+    ],
+    "Unlock": []
+  },
+  "6084": {
+    "Id": 6084,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      431007
+    ],
+    "NextTalent": [
+      69128,
+      437001
+    ],
+    "TalentPosition": [
+      -330,
+      1410
+    ],
+    "Unlock": []
+  },
+  "6082": {
+    "Id": 6082,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6085
+    ],
+    "NextTalent": [
+      400016,
+      435001
+    ],
+    "TalentPosition": [
+      210,
+      2220
+    ],
+    "Unlock": []
+  },
+  "6085": {
+    "Id": 6085,
+    "TalentId": 430,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6081
+    ],
+    "NextTalent": [
+      6082
+    ],
+    "TalentPosition": [
+      480,
+      1950
+    ],
+    "Unlock": []
+  },
+  "10445": {
+    "Id": 10445,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      401015
+    ],
+    "NextTalent": [
+      69125
+    ],
+    "TalentPosition": [
+      480,
+      1410
+    ],
+    "Unlock": []
+  },
+  "6083": {
+    "Id": 6083,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      1496,
+      402013
+    ],
+    "NextTalent": [
+      10444
+    ],
+    "TalentPosition": [
+      -330,
+      2220
+    ],
+    "Unlock": []
+  },
+  "400016": {
+    "Id": 400016,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6082
+    ],
+    "NextTalent": [
+      429008
+    ],
+    "TalentPosition": [
+      -60,
+      2490
+    ],
+    "Unlock": []
+  },
+  "403014": {
+    "Id": 403014,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      436001
+    ],
+    "NextTalent": [
+      430008
+    ],
+    "TalentPosition": [
+      -60,
+      1410
+    ],
+    "Unlock": []
+  },
+  "404014": {
+    "Id": 404014,
+    "TalentId": 404,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      10444
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -330,
+      2760
+    ],
+    "Unlock": []
+  },
+  "69126": {
+    "Id": 69126,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [],
+    "NextTalent": [
+      10442
+    ],
+    "TalentPosition": [
+      -60,
+      150
+    ],
+    "Unlock": []
+  },
+  "69127": {
+    "Id": 69127,
+    "TalentId": 403,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      10442
+    ],
+    "NextTalent": [
+      10443,
+      1497,
+      1495
+    ],
+    "TalentPosition": [
+      -60,
+      630
+    ],
+    "Unlock": []
+  },
+  "69125": {
+    "Id": 69125,
+    "TalentId": 431,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      10445
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      480,
+      1680
+    ],
+    "Unlock": []
+  },
+  "401015": {
+    "Id": 401015,
+    "TalentId": 400,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      1497
+    ],
+    "NextTalent": [
+      6081,
+      10445
+    ],
+    "TalentPosition": [
+      210,
+      1140
+    ],
+    "Unlock": []
+  },
+  "402013": {
+    "Id": 402013,
+    "TalentId": 402,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      430008
+    ],
+    "NextTalent": [
+      6083
+    ],
+    "TalentPosition": [
+      -60,
+      1950
+    ],
+    "Unlock": []
+  },
+  "429008": {
+    "Id": 429008,
+    "TalentId": 429,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      400016
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -60,
+      2760
+    ],
+    "Unlock": []
+  },
+  "430008": {
+    "Id": 430008,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      403014
+    ],
+    "NextTalent": [
+      402013
+    ],
+    "TalentPosition": [
+      -60,
+      1680
+    ],
+    "Unlock": []
+  },
+  "431007": {
+    "Id": 431007,
+    "TalentId": 401,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      10443
+    ],
+    "NextTalent": [
+      6084
+    ],
+    "TalentPosition": [
+      -330,
+      990
+    ],
+    "Unlock": []
+  },
+  "1497": {
+    "Id": 1497,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      69127
+    ],
+    "NextTalent": [
+      401015
+    ],
+    "TalentPosition": [
+      210,
+      630
+    ],
+    "Unlock": []
+  },
+  "1495": {
+    "Id": 1495,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      69127
+    ],
+    "NextTalent": [
+      436001
+    ],
+    "TalentPosition": [
+      -60,
+      900
+    ],
+    "Unlock": []
+  },
+  "1498": {
+    "Id": 1498,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      69128
+    ],
+    "NextTalent": [
+      438001
+    ],
+    "TalentPosition": [
+      -600,
+      2220
+    ],
+    "Unlock": []
+  },
+  "1496": {
+    "Id": 1496,
+    "TalentId": 437,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      437001
+    ],
+    "NextTalent": [
+      6083
+    ],
+    "TalentPosition": [
+      -330,
+      1950
+    ],
+    "Unlock": []
+  },
+  "69128": {
+    "Id": 69128,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6084
+    ],
+    "NextTalent": [
+      1498
+    ],
+    "TalentPosition": [
+      -600,
+      1680
+    ],
+    "Unlock": []
+  },
+  "428022": {
+    "Id": 428022,
+    "TalentId": 428,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      8587
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      510,
+      5550
+    ],
+    "Unlock": []
+  },
+  "427023": {
+    "Id": 427023,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6096
+    ],
+    "NextTalent": [
+      8587,
+      6684
+    ],
+    "TalentPosition": [
+      510,
+      4770
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "424022": {
+    "Id": 424022,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6091
+    ],
+    "NextTalent": [
+      6387,
+      449001
+    ],
+    "TalentPosition": [
+      -570,
+      4770
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "1499": {
+    "Id": 1499,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      433007
+    ],
+    "NextTalent": [
+      6086,
+      6095,
+      6090
+    ],
+    "TalentPosition": [
+      -30,
+      3300
+    ],
+    "Unlock": []
+  },
+  "6086": {
+    "Id": 6086,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6385,
+      1499
+    ],
+    "NextTalent": [
+      411014,
+      6386
+    ],
+    "TalentPosition": [
+      -300,
+      3570
+    ],
+    "Unlock": []
+  },
+  "6095": {
+    "Id": 6095,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      8584,
+      1499
+    ],
+    "NextTalent": [
+      406014,
+      8585
+    ],
+    "TalentPosition": [
+      240,
+      3570
+    ],
+    "Unlock": []
+  },
+  "6090": {
+    "Id": 6090,
+    "TalentId": 407,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      1499
+    ],
+    "NextTalent": [
+      1500
+    ],
+    "TalentPosition": [
+      -30,
+      3540
+    ],
+    "Unlock": []
+  },
+  "6091": {
+    "Id": 6091,
+    "TalentId": 442,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6087
+    ],
+    "NextTalent": [
+      424022
+    ],
+    "TalentPosition": [
+      -570,
+      4380
+    ],
+    "Unlock": []
+  },
+  "6087": {
+    "Id": 6087,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6386,
+      1500,
+      411014
+    ],
+    "NextTalent": [
+      6091,
+      409014,
+      6388
+    ],
+    "TalentPosition": [
+      -300,
+      4110
+    ],
+    "Unlock": []
+  },
+  "1500": {
+    "Id": 1500,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6090
+    ],
+    "NextTalent": [
+      6087,
+      6089,
+      434012
+    ],
+    "TalentPosition": [
+      -30,
+      3840
+    ],
+    "Unlock": []
+  },
+  "6089": {
+    "Id": 6089,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      1500,
+      406014,
+      8585
+    ],
+    "NextTalent": [
+      6096,
+      409014,
+      8586
+    ],
+    "TalentPosition": [
+      240,
+      4110
+    ],
+    "Unlock": []
+  },
+  "6088": {
+    "Id": 6088,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      407014
+    ],
+    "NextTalent": [
+      444002
+    ],
+    "TalentPosition": [
+      450,
+      6030
+    ],
+    "Unlock": []
+  },
+  "6096": {
+    "Id": 6096,
+    "TalentId": 441,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6089
+    ],
+    "NextTalent": [
+      427023
+    ],
+    "TalentPosition": [
+      510,
+      4380
+    ],
+    "Unlock": []
+  },
+  "6093": {
+    "Id": 6093,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      447001
+    ],
+    "NextTalent": [
+      412015,
+      6387
+    ],
+    "TalentPosition": [
+      -300,
+      5040
+    ],
+    "Unlock": []
+  },
+  "6092": {
+    "Id": 6092,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      453001
+    ],
+    "NextTalent": [
+      405014,
+      8587
+    ],
+    "TalentPosition": [
+      240,
+      5040
+    ],
+    "Unlock": []
+  },
+  "6094": {
+    "Id": 6094,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      443002
+    ],
+    "NextTalent": [
+      410014,
+      35106,
+      43049
+    ],
+    "TalentPosition": [
+      -30,
+      5280
+    ],
+    "Unlock": []
+  },
+  "416010": {
+    "Id": 416010,
+    "TalentId": 470,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6097
+    ],
+    "NextTalent": [
+      6099
+    ],
+    "TalentPosition": [
+      1500,
+      3840
+    ],
+    "Unlock": []
+  },
+  "419010": {
+    "Id": 419010,
+    "TalentId": 419,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6107
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      1770,
+      6000
+    ],
+    "Unlock": []
+  },
+  "414010": {
+    "Id": 414010,
+    "TalentId": 457,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6105
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      1500,
+      5310
+    ],
+    "Unlock": []
+  },
+  "417010": {
+    "Id": 417010,
+    "TalentId": 464,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6098
+    ],
+    "NextTalent": [
+      6103
+    ],
+    "TalentPosition": [
+      2040,
+      3840
+    ],
+    "Unlock": []
+  },
+  "420010": {
+    "Id": 420010,
+    "TalentId": 456,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6106
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      2040,
+      5310
+    ],
+    "Unlock": []
+  },
+  "421010": {
+    "Id": 421010,
+    "TalentId": 414,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      37120
+    ],
+    "NextTalent": [
+      6102,
+      6688
+    ],
+    "TalentPosition": [
+      1530,
+      5790
+    ],
+    "Unlock": []
+  },
+  "422010": {
+    "Id": 422010,
+    "TalentId": 466,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      33058
+    ],
+    "NextTalent": [
+      455001,
+      6689
+    ],
+    "TalentPosition": [
+      2010,
+      5790
+    ],
+    "Unlock": []
+  },
+  "418011": {
+    "Id": 418011,
+    "TalentId": 422,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6099,
+      6103
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      1770,
+      4380
+    ],
+    "Unlock": [
+      [
+        3,
+        33
+      ]
+    ]
+  },
+  "425023": {
+    "Id": 425023,
+    "TalentId": 425,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      5249
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      2310,
+      5550
+    ],
+    "Unlock": []
+  },
+  "427024": {
+    "Id": 427024,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6104
+    ],
+    "NextTalent": [
+      5249,
+      458001
+    ],
+    "TalentPosition": [
+      2310,
+      4770
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "424023": {
+    "Id": 424023,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6101
+    ],
+    "NextTalent": [
+      7302,
+      461001
+    ],
+    "TalentPosition": [
+      1230,
+      4770
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "1501": {
+    "Id": 1501,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      432008
+    ],
+    "NextTalent": [
+      6097,
+      6098,
+      6100
+    ],
+    "TalentPosition": [
+      1770,
+      3300
+    ],
+    "Unlock": []
+  },
+  "7299": {
+    "Id": 7299,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      432008
+    ],
+    "NextTalent": [
+      6097,
+      456001
+    ],
+    "TalentPosition": [
+      1500,
+      3300
+    ],
+    "Unlock": []
+  },
+  "5246": {
+    "Id": 5246,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      432008
+    ],
+    "NextTalent": [
+      6098,
+      460001
+    ],
+    "TalentPosition": [
+      2040,
+      3300
+    ],
+    "Unlock": []
+  },
+  "5247": {
+    "Id": 5247,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6098,
+      460001
+    ],
+    "NextTalent": [
+      6103,
+      33057,
+      6686
+    ],
+    "TalentPosition": [
+      2310,
+      3840
+    ],
+    "Unlock": []
+  },
+  "7300": {
+    "Id": 7300,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6097,
+      456001
+    ],
+    "NextTalent": [
+      6099,
+      37119,
+      6687
+    ],
+    "TalentPosition": [
+      1230,
+      3840
+    ],
+    "Unlock": []
+  },
+  "6097": {
+    "Id": 6097,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      7299,
+      1501
+    ],
+    "NextTalent": [
+      416010,
+      7300
+    ],
+    "TalentPosition": [
+      1500,
+      3570
+    ],
+    "Unlock": []
+  },
+  "6098": {
+    "Id": 6098,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      5246,
+      1501
+    ],
+    "NextTalent": [
+      417010,
+      5247
+    ],
+    "TalentPosition": [
+      2040,
+      3570
+    ],
+    "Unlock": []
+  },
+  "6100": {
+    "Id": 6100,
+    "TalentId": 417,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      1501
+    ],
+    "NextTalent": [
+      1502
+    ],
+    "TalentPosition": [
+      1770,
+      3540
+    ],
+    "Unlock": []
+  },
+  "6101": {
+    "Id": 6101,
+    "TalentId": 416,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6099
+    ],
+    "NextTalent": [
+      424023
+    ],
+    "TalentPosition": [
+      1230,
+      4380
+    ],
+    "Unlock": []
+  },
+  "6099": {
+    "Id": 6099,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      416010,
+      7300,
+      1502
+    ],
+    "NextTalent": [
+      418011,
+      6101,
+      7301
+    ],
+    "TalentPosition": [
+      1500,
+      4110
+    ],
+    "Unlock": []
+  },
+  "1502": {
+    "Id": 1502,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6100
+    ],
+    "NextTalent": [
+      6099,
+      6103,
+      434011
+    ],
+    "TalentPosition": [
+      1770,
+      3840
+    ],
+    "Unlock": []
+  },
+  "6103": {
+    "Id": 6103,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      417010,
+      5247,
+      1502
+    ],
+    "NextTalent": [
+      418011,
+      6104,
+      5248
+    ],
+    "TalentPosition": [
+      2040,
+      4110
+    ],
+    "Unlock": []
+  },
+  "37119": {
+    "Id": 37119,
+    "TalentId": 420,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      7300
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      1230,
+      4110
+    ],
+    "Unlock": []
+  },
+  "6102": {
+    "Id": 6102,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      421010
+    ],
+    "NextTalent": [
+      469001
+    ],
+    "TalentPosition": [
+      1080,
+      5790
+    ],
+    "Unlock": []
+  },
+  "33057": {
+    "Id": 33057,
+    "TalentId": 459,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      5247
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      2310,
+      4110
+    ],
+    "Unlock": []
+  },
+  "6104": {
+    "Id": 6104,
+    "TalentId": 469,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6103
+    ],
+    "NextTalent": [
+      427024
+    ],
+    "TalentPosition": [
+      2310,
+      4380
+    ],
+    "Unlock": []
+  },
+  "7301": {
+    "Id": 7301,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6099
+    ],
+    "NextTalent": [
+      1504,
+      463001
+    ],
+    "TalentPosition": [
+      1500,
+      4380
+    ],
+    "Unlock": []
+  },
+  "6105": {
+    "Id": 6105,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      463001
+    ],
+    "NextTalent": [
+      414010,
+      7302
+    ],
+    "TalentPosition": [
+      1500,
+      5040
+    ],
+    "Unlock": []
+  },
+  "5248": {
+    "Id": 5248,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6103
+    ],
+    "NextTalent": [
+      1504,
+      466001
+    ],
+    "TalentPosition": [
+      2040,
+      4380
+    ],
+    "Unlock": []
+  },
+  "6106": {
+    "Id": 6106,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      466001
+    ],
+    "NextTalent": [
+      420010,
+      5249
+    ],
+    "TalentPosition": [
+      2040,
+      5040
+    ],
+    "Unlock": []
+  },
+  "7302": {
+    "Id": 7302,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6105,
+      424023,
+      461001
+    ],
+    "NextTalent": [
+      423011
+    ],
+    "TalentPosition": [
+      1230,
+      5310
+    ],
+    "Unlock": []
+  },
+  "5249": {
+    "Id": 5249,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6106,
+      427024,
+      458001
+    ],
+    "NextTalent": [
+      425023
+    ],
+    "TalentPosition": [
+      2310,
+      5310
+    ],
+    "Unlock": []
+  },
+  "6107": {
+    "Id": 6107,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      459001
+    ],
+    "NextTalent": [
+      419010,
+      33058,
+      37120
+    ],
+    "TalentPosition": [
+      1770,
+      5280
+    ],
+    "Unlock": []
+  },
+  "33058": {
+    "Id": 33058,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6107
+    ],
+    "NextTalent": [
+      422010
+    ],
+    "TalentPosition": [
+      2010,
+      5520
+    ],
+    "Unlock": []
+  },
+  "37120": {
+    "Id": 37120,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6107
+    ],
+    "NextTalent": [
+      421010
+    ],
+    "TalentPosition": [
+      1530,
+      5520
+    ],
+    "Unlock": []
+  },
+  "432008": {
+    "Id": 432008,
+    "TalentId": 432,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [],
+    "NextTalent": [
+      1501,
+      7299,
+      5246
+    ],
+    "TalentPosition": [
+      1770,
+      3030
+    ],
+    "Unlock": [
+      [
+        3,
+        30
+      ]
+    ]
+  },
+  "406014": {
+    "Id": 406014,
+    "TalentId": 406,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6095
+    ],
+    "NextTalent": [
+      6089
+    ],
+    "TalentPosition": [
+      240,
+      3840
+    ],
+    "Unlock": []
+  },
+  "411014": {
+    "Id": 411014,
+    "TalentId": 451,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6086
+    ],
+    "NextTalent": [
+      6087
+    ],
+    "TalentPosition": [
+      -300,
+      3840
+    ],
+    "Unlock": []
+  },
+  "409014": {
+    "Id": 409014,
+    "TalentId": 409,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6087,
+      6089
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -30,
+      4380
+    ],
+    "Unlock": []
+  },
+  "410014": {
+    "Id": 410014,
+    "TalentId": 410,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6094
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -30,
+      6000
+    ],
+    "Unlock": []
+  },
+  "405014": {
+    "Id": 405014,
+    "TalentId": 405,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6092
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      240,
+      5310
+    ],
+    "Unlock": []
+  },
+  "407014": {
+    "Id": 407014,
+    "TalentId": 454,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      43049
+    ],
+    "NextTalent": [
+      6088,
+      6683
+    ],
+    "TalentPosition": [
+      210,
+      5790
+    ],
+    "Unlock": []
+  },
+  "412015": {
+    "Id": 412015,
+    "TalentId": 449,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6093
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -300,
+      5310
+    ],
+    "Unlock": []
+  },
+  "413014": {
+    "Id": 413014,
+    "TalentId": 413,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      35106
+    ],
+    "NextTalent": [
+      6682,
+      6685
+    ],
+    "TalentPosition": [
+      -270,
+      5790
+    ],
+    "Unlock": []
+  },
+  "6385": {
+    "Id": 6385,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      433007
+    ],
+    "NextTalent": [
+      6086,
+      442001
+    ],
+    "TalentPosition": [
+      -300,
+      3300
+    ],
+    "Unlock": []
+  },
+  "6386": {
+    "Id": 6386,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6086,
+      442001
+    ],
+    "NextTalent": [
+      6087,
+      35105,
+      441001
+    ],
+    "TalentPosition": [
+      -570,
+      3840
+    ],
+    "Unlock": []
+  },
+  "35105": {
+    "Id": 35105,
+    "TalentId": 412,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6386
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -570,
+      4110
+    ],
+    "Unlock": []
+  },
+  "6387": {
+    "Id": 6387,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6093,
+      424022,
+      449001
+    ],
+    "NextTalent": [
+      423012
+    ],
+    "TalentPosition": [
+      -570,
+      5310
+    ],
+    "Unlock": []
+  },
+  "6388": {
+    "Id": 6388,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6087
+    ],
+    "NextTalent": [
+      1503,
+      447001
+    ],
+    "TalentPosition": [
+      -300,
+      4380
+    ],
+    "Unlock": []
+  },
+  "35106": {
+    "Id": 35106,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6094
+    ],
+    "NextTalent": [
+      413014
+    ],
+    "TalentPosition": [
+      -270,
+      5520
+    ],
+    "Unlock": []
+  },
+  "8584": {
+    "Id": 8584,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      433007
+    ],
+    "NextTalent": [
+      6095,
+      452001
+    ],
+    "TalentPosition": [
+      240,
+      3300
+    ],
+    "Unlock": []
+  },
+  "8585": {
+    "Id": 8585,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6095,
+      452001
+    ],
+    "NextTalent": [
+      6089,
+      43048,
+      450001
+    ],
+    "TalentPosition": [
+      510,
+      3840
+    ],
+    "Unlock": []
+  },
+  "8587": {
+    "Id": 8587,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6092,
+      427023,
+      6684
+    ],
+    "NextTalent": [
+      428022
+    ],
+    "TalentPosition": [
+      510,
+      5310
+    ],
+    "Unlock": []
+  },
+  "8586": {
+    "Id": 8586,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6089
+    ],
+    "NextTalent": [
+      1503,
+      453001
+    ],
+    "TalentPosition": [
+      240,
+      4380
+    ],
+    "Unlock": []
+  },
+  "43048": {
+    "Id": 43048,
+    "TalentId": 411,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      8585
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      510,
+      4110
+    ],
+    "Unlock": []
+  },
+  "43049": {
+    "Id": 43049,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6094
+    ],
+    "NextTalent": [
+      407014
+    ],
+    "TalentPosition": [
+      210,
+      5520
+    ],
+    "Unlock": []
+  },
+  "1503": {
+    "Id": 1503,
+    "TalentId": 444,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6388,
+      8586
+    ],
+    "NextTalent": [
+      443002
+    ],
+    "TalentPosition": [
+      -30,
+      4650
+    ],
+    "Unlock": []
+  },
+  "1504": {
+    "Id": 1504,
+    "TalentId": 458,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      7301,
+      5248
+    ],
+    "NextTalent": [
+      459001
+    ],
+    "TalentPosition": [
+      1770,
+      4650
+    ],
+    "Unlock": []
+  },
+  "433007": {
+    "Id": 433007,
+    "TalentId": 433,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [],
+    "NextTalent": [
+      1499,
+      6385,
+      8584
+    ],
+    "TalentPosition": [
+      -30,
+      3030
+    ],
+    "Unlock": [
+      [
+        3,
+        30
+      ]
+    ]
+  },
+  "434012": {
+    "Id": 434012,
+    "TalentId": 434,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      1500
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -30,
+      4110
+    ],
+    "Unlock": []
+  },
+  "434011": {
+    "Id": 434011,
+    "TalentId": 434,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      1502
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      1770,
+      4110
+    ],
+    "Unlock": []
+  },
+  "423011": {
+    "Id": 423011,
+    "TalentId": 423,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      7302
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      1230,
+      5550
+    ],
+    "Unlock": []
+  },
+  "423012": {
+    "Id": 423012,
+    "TalentId": 425,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6387
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -570,
+      5550
+    ],
+    "Unlock": []
+  },
+  "435001": {
+    "Id": 435001,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6082
+    ],
+    "NextTalent": [
+      6681
+    ],
+    "TalentPosition": [
+      480,
+      2490
+    ],
+    "Unlock": []
+  },
+  "436001": {
+    "Id": 436001,
+    "TalentId": 436,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      1495
+    ],
+    "NextTalent": [
+      403014
+    ],
+    "TalentPosition": [
+      -60,
+      1140
+    ],
+    "Unlock": []
+  },
+  "437001": {
+    "Id": 437001,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      6084
+    ],
+    "NextTalent": [
+      1496
+    ],
+    "TalentPosition": [
+      -330,
+      1680
+    ],
+    "Unlock": []
+  },
+  "438001": {
+    "Id": 438001,
+    "TalentId": 438,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      1498
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -600,
+      2760
+    ],
+    "Unlock": []
+  },
+  "6681": {
+    "Id": 6681,
+    "TalentId": 435,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 0,
+    "PreTalent": [
+      435001
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      210,
+      2760
+    ],
+    "Unlock": []
+  },
+  "439001": {
+    "Id": 439001,
+    "TalentId": 427,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      450001
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      780,
+      4560
+    ],
+    "Unlock": []
+  },
+  "440001": {
+    "Id": 440001,
+    "TalentId": 453,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6685
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -720,
+      6150
+    ],
+    "Unlock": []
+  },
+  "441001": {
+    "Id": 441001,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6386
+    ],
+    "NextTalent": [
+      451001
+    ],
+    "TalentPosition": [
+      -840,
+      3840
+    ],
+    "Unlock": []
+  },
+  "442001": {
+    "Id": 442001,
+    "TalentId": 439,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6385
+    ],
+    "NextTalent": [
+      6386
+    ],
+    "TalentPosition": [
+      -570,
+      3570
+    ],
+    "Unlock": []
+  },
+  "443002": {
+    "Id": 443002,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      1503
+    ],
+    "NextTalent": [
+      6094
+    ],
+    "TalentPosition": [
+      -30,
+      4920
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "444002": {
+    "Id": 444002,
+    "TalentId": 447,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6088
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      210,
+      6270
+    ],
+    "Unlock": []
+  },
+  "445001": {
+    "Id": 445001,
+    "TalentId": 450,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6683
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      660,
+      6150
+    ],
+    "Unlock": []
+  },
+  "446001": {
+    "Id": 446001,
+    "TalentId": 445,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6684
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      780,
+      5310
+    ],
+    "Unlock": []
+  },
+  "447001": {
+    "Id": 447001,
+    "TalentId": 440,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6388
+    ],
+    "NextTalent": [
+      6093
+    ],
+    "TalentPosition": [
+      -300,
+      4770
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "448001": {
+    "Id": 448001,
+    "TalentId": 452,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      6682
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -270,
+      6270
+    ],
+    "Unlock": []
+  },
+  "449001": {
+    "Id": 449001,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      424022
+    ],
+    "NextTalent": [
+      6387,
+      454001
+    ],
+    "TalentPosition": [
+      -840,
+      5040
+    ],
+    "Unlock": []
+  },
+  "450001": {
+    "Id": 450001,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      8585
+    ],
+    "NextTalent": [
+      439001
+    ],
+    "TalentPosition": [
+      780,
+      3840
+    ],
+    "Unlock": []
+  },
+  "451001": {
+    "Id": 451001,
+    "TalentId": 424,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      441001
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -840,
+      4560
+    ],
+    "Unlock": []
+  },
+  "452001": {
+    "Id": 452001,
+    "TalentId": 448,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      8584
+    ],
+    "NextTalent": [
+      8585
+    ],
+    "TalentPosition": [
+      510,
+      3570
+    ],
+    "Unlock": []
+  },
+  "453001": {
+    "Id": 453001,
+    "TalentId": 446,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      8586
+    ],
+    "NextTalent": [
+      6092
+    ],
+    "TalentPosition": [
+      240,
+      4770
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "454001": {
+    "Id": 454001,
+    "TalentId": 443,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      449001
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      -840,
+      5310
+    ],
+    "Unlock": []
+  },
+  "6682": {
+    "Id": 6682,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      413014
+    ],
+    "NextTalent": [
+      448001
+    ],
+    "TalentPosition": [
+      -510,
+      6030
+    ],
+    "Unlock": []
+  },
+  "6683": {
+    "Id": 6683,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      407014
+    ],
+    "NextTalent": [
+      445001
+    ],
+    "TalentPosition": [
+      660,
+      5790
+    ],
+    "Unlock": []
+  },
+  "6684": {
+    "Id": 6684,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      427023
+    ],
+    "NextTalent": [
+      8587,
+      446001
+    ],
+    "TalentPosition": [
+      780,
+      5040
+    ],
+    "Unlock": []
+  },
+  "6685": {
+    "Id": 6685,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 0,
+    "TalentStage": 1,
+    "PreTalent": [
+      413014
+    ],
+    "NextTalent": [
+      440001
+    ],
+    "TalentPosition": [
+      -720,
+      5790
+    ],
+    "Unlock": []
+  },
+  "455001": {
+    "Id": 455001,
+    "TalentId": 1,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      422010
+    ],
+    "NextTalent": [
+      470001
+    ],
+    "TalentPosition": [
+      2460,
+      5790
+    ],
+    "Unlock": []
+  },
+  "456001": {
+    "Id": 456001,
+    "TalentId": 455,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      7299
+    ],
+    "NextTalent": [
+      7300
+    ],
+    "TalentPosition": [
+      1230,
+      3570
+    ],
+    "Unlock": []
+  },
+  "457001": {
+    "Id": 457001,
+    "TalentId": 467,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6688
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      1530,
+      6270
+    ],
+    "Unlock": []
+  },
+  "458001": {
+    "Id": 458001,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      427024
+    ],
+    "NextTalent": [
+      5249,
+      465001
+    ],
+    "TalentPosition": [
+      2580,
+      5040
+    ],
+    "Unlock": []
+  },
+  "459001": {
+    "Id": 459001,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      1504
+    ],
+    "NextTalent": [
+      6107
+    ],
+    "TalentPosition": [
+      1770,
+      4920
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "460001": {
+    "Id": 460001,
+    "TalentId": 460,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      5246
+    ],
+    "NextTalent": [
+      5247
+    ],
+    "TalentPosition": [
+      2310,
+      3570
+    ],
+    "Unlock": []
+  },
+  "461001": {
+    "Id": 461001,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      424023
+    ],
+    "NextTalent": [
+      7302,
+      464001
+    ],
+    "TalentPosition": [
+      960,
+      5040
+    ],
+    "Unlock": []
+  },
+  "462001": {
+    "Id": 462001,
+    "TalentId": 427,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6686
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      2580,
+      4560
+    ],
+    "Unlock": []
+  },
+  "463001": {
+    "Id": 463001,
+    "TalentId": 418,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      7301
+    ],
+    "NextTalent": [
+      6105
+    ],
+    "TalentPosition": [
+      1500,
+      4770
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "464001": {
+    "Id": 464001,
+    "TalentId": 465,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      461001
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      960,
+      5310
+    ],
+    "Unlock": []
+  },
+  "465001": {
+    "Id": 465001,
+    "TalentId": 424,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      458001
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      2580,
+      5310
+    ],
+    "Unlock": []
+  },
+  "466001": {
+    "Id": 466001,
+    "TalentId": 462,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      5248
+    ],
+    "NextTalent": [
+      6106
+    ],
+    "TalentPosition": [
+      2040,
+      4770
+    ],
+    "Unlock": [
+      [
+        3,
+        50
+      ]
+    ]
+  },
+  "467001": {
+    "Id": 467001,
+    "TalentId": 421,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6687
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      960,
+      4560
+    ],
+    "Unlock": []
+  },
+  "468001": {
+    "Id": 468001,
+    "TalentId": 461,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6689
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      2010,
+      6270
+    ],
+    "Unlock": []
+  },
+  "469001": {
+    "Id": 469001,
+    "TalentId": 463,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      6102
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      1080,
+      6150
+    ],
+    "Unlock": []
+  },
+  "470001": {
+    "Id": 470001,
+    "TalentId": 468,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      455001
+    ],
+    "NextTalent": [],
+    "TalentPosition": [
+      2460,
+      6150
+    ],
+    "Unlock": []
+  },
+  "6686": {
+    "Id": 6686,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      5247
+    ],
+    "NextTalent": [
+      462001
+    ],
+    "TalentPosition": [
+      2580,
+      3840
+    ],
+    "Unlock": []
+  },
+  "6687": {
+    "Id": 6687,
+    "TalentId": 26,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      7300
+    ],
+    "NextTalent": [
+      467001
+    ],
+    "TalentPosition": [
+      960,
+      3840
+    ],
+    "Unlock": []
+  },
+  "6688": {
+    "Id": 6688,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      421010
+    ],
+    "NextTalent": [
+      457001
+    ],
+    "TalentPosition": [
+      1290,
+      6030
+    ],
+    "Unlock": []
+  },
+  "6689": {
+    "Id": 6689,
+    "TalentId": 4,
+    "WeaponType": 4,
+    "BdType": 1,
+    "TalentStage": 1,
+    "PreTalent": [
+      422010
+    ],
+    "NextTalent": [
+      468001
+    ],
+    "TalentPosition": [
+      2250,
+      6030
     ],
     "Unlock": []
   }

@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ShopItemBuyLimit {
-  int32 purchased_count = 1;
-  int32 can_buy_count = 2;
-  int32 max_buy_count = 3;
+	int32 purchasedCount = 1 [json_name = "purchasedCount"];
+	int32 canBuyCount = 2 [json_name = "canBuyCount"];
+	int32 maxBuyCount = 3 [json_name = "maxBuyCount"];
 }
-

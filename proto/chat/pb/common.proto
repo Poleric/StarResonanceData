@@ -2,205 +2,206 @@ syntax = "proto3";
 
 package chat.pb;
 
+option go_package = "./;chat_pb";
+
 message DelPrivateRecordReq {
-  string client_id = 1;
-  string target_client_id = 2;
-  repeated uint64 index = 3;
-  bool all = 4;
+	string ClientID = 1 [json_name = "ClientID"];
+	string TargetClientID = 2 [json_name = "TargetClientID"];
+	repeated uint64 Index = 3 [json_name = "Index"];
+	bool All = 4 [json_name = "All"];
 }
 
 message DelPrivateRecordRsp {
-  chat.pb.DelPrivateRecordRsp.DelPrivateRecordCode code = 1;
-  string msg = 2;
-  string client_id = 3;
-  string target_client_id = 4;
+	enum DelPrivateRecordCode {
+		SUCCESS = 0;
+		INNER_ERR = 1;
+		NOT_REGISTER = 2;
+		INDEX_ERR = 3;
+	}
 
-  enum DelPrivateRecordCode {
-    SUCCESS = 0;
-    INNER_ERR = 1;
-    NOT_REGISTER = 2;
-    INDEX_ERR = 3;
-  }
+	DelPrivateRecordRsp.DelPrivateRecordCode Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	string ClientID = 3 [json_name = "ClientID"];
+	string TargetClientID = 4 [json_name = "TargetClientID"];
 }
 
 message DelChannelRecordReq {
-  string client_id = 1;
-  string channel_id = 2;
-  uint64 index = 3;
+	string ClientID = 1 [json_name = "ClientID"];
+	string ChannelID = 2 [json_name = "ChannelID"];
+	uint64 Index = 3 [json_name = "Index"];
 }
 
 message DelChannelRecordRsp {
-  chat.pb.DelChannelRecordRsp.DelChannelRecordCode code = 1;
-  string msg = 2;
-  string client_id = 3;
-  string channel_id = 4;
+	enum DelChannelRecordCode {
+		SUCCESS = 0;
+		INNER_ERR = 1;
+		NOT_REGISTER = 2;
+	}
 
-  enum DelChannelRecordCode {
-    SUCCESS = 0;
-    INNER_ERR = 1;
-    NOT_REGISTER = 2;
-  }
+	DelChannelRecordRsp.DelChannelRecordCode Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	string ClientID = 3 [json_name = "ClientID"];
+	string ChannelID = 4 [json_name = "ChannelID"];
 }
 
 message DelWorldRecordReq {
-  string client_id = 1;
-  uint64 index = 2;
+	string ClientID = 1 [json_name = "ClientID"];
+	uint64 Index = 2 [json_name = "Index"];
 }
 
 message DelWorldRecordRsp {
-  chat.pb.DelWorldRecordRsp.DelWorldRecordCode code = 1;
-  string msg = 2;
-  string client_id = 3;
+	enum DelWorldRecordCode {
+		SUCCESS = 0;
+		INNER_ERR = 1;
+		NOT_REGISTER = 2;
+	}
 
-  enum DelWorldRecordCode {
-    SUCCESS = 0;
-    INNER_ERR = 1;
-    NOT_REGISTER = 2;
-  }
+	DelWorldRecordRsp.DelWorldRecordCode Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	string ClientID = 3 [json_name = "ClientID"];
 }
 
 message GetChannelGroupInfoReq {
-  string client_id = 1;
-  string group_id = 2;
+	string ClientID = 1 [json_name = "ClientID"];
+	string GroupID = 2 [json_name = "GroupID"];
 }
 
 message ChannelGroupInfo {
-  string channel_id = 1;
-  uint32 member_count = 2;
-  uint32 max_member_count = 3;
+	string ChannelID = 1 [json_name = "ChannelID"];
+	uint32 MemberCount = 2 [json_name = "MemberCount"];
+	uint32 MaxMemberCount = 3 [json_name = "MaxMemberCount"];
 }
 
 message GetChannelGroupInfoRsp {
-  chat.pb.GetChannelGroupInfoRsp.GetChannelGroupInfoCode code = 1;
-  string msg = 2;
-  string client_id = 3;
-  string group_id = 4;
-  repeated chat.pb.ChannelGroupInfo channel_list = 5;
-  string my_channel_id = 6;
+	enum GetChannelGroupInfoCode {
+		SUCCESS = 0;
+		INNER_ERR = 1;
+		NOT_REGISTER = 2;
+		GROUP_ID_INVALID = 3;
+	}
 
-  enum GetChannelGroupInfoCode {
-    SUCCESS = 0;
-    INNER_ERR = 1;
-    NOT_REGISTER = 2;
-    GROUP_ID_INVALID = 3;
-  }
+	GetChannelGroupInfoRsp.GetChannelGroupInfoCode Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	string ClientID = 3 [json_name = "ClientID"];
+	string GroupID = 4 [json_name = "GroupID"];
+	repeated ChannelGroupInfo ChannelList = 5 [json_name = "ChannelList"];
+	string MyChannelID = 6 [json_name = "MyChannelID"];
 }
 
 message ChannelGroupSwitchReq {
-  string client_id = 1;
-  string group_id = 2;
-  string channel_id = 3;
+	string ClientID = 1 [json_name = "ClientID"];
+	string GroupID = 2 [json_name = "GroupID"];
+	string ChannelID = 3 [json_name = "ChannelID"];
 }
 
 message ChannelGroupSwitchRsp {
-  chat.pb.ChannelGroupSwitchRsp.ChannelGroupSwitchCode code = 1;
-  string msg = 2;
-  string client_id = 3;
-  string group_id = 4;
-  string channel_id = 5;
-  uint32 channel_member_count = 6;
+	enum ChannelGroupSwitchCode {
+		SUCCESS = 0;
+		INNER_ERR = 1;
+		NOT_REGISTER = 2;
+		GROUP_ID_INVALID = 3;
+		CHANNEL_ID_INVALID = 4;
+		ALREADY_IN_CHANNEL = 5;
+		LOCKED = 6;
+		MEMBER_COUNT_LIMIT = 7;
+	}
 
-  enum ChannelGroupSwitchCode {
-    SUCCESS = 0;
-    INNER_ERR = 1;
-    NOT_REGISTER = 2;
-    GROUP_ID_INVALID = 3;
-    CHANNEL_ID_INVALID = 4;
-    ALREADY_IN_CHANNEL = 5;
-    LOCKED = 6;
-    MEMBER_COUNT_LIMIT = 7;
-  }
+	ChannelGroupSwitchRsp.ChannelGroupSwitchCode Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	string ClientID = 3 [json_name = "ClientID"];
+	string GroupID = 4 [json_name = "GroupID"];
+	string ChannelID = 5 [json_name = "ChannelID"];
+	uint32 ChannelMemberCount = 6 [json_name = "ChannelMemberCount"];
 }
 
 message AddBlackListReq {
-  string client_id = 1;
-  string target_client_id = 2;
+	string ClientID = 1 [json_name = "ClientID"];
+	string TargetClientID = 2 [json_name = "TargetClientID"];
 }
 
 message AddBlackListRsp {
-  chat.pb.AddBlackListRsp.AddBlackListCode code = 1;
-  string msg = 2;
-  string client_id = 3;
-  string target_client_id = 4;
+	enum AddBlackListCode {
+		SUCCESS = 0;
+		INNER_ERROR = 1;
+		NOT_REGISTER = 2;
+		ALREADY_IN_LIST = 3;
+	}
 
-  enum AddBlackListCode {
-    SUCCESS = 0;
-    INNER_ERROR = 1;
-    NOT_REGISTER = 2;
-    ALREADY_IN_LIST = 3;
-  }
+	AddBlackListRsp.AddBlackListCode Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	string ClientID = 3 [json_name = "ClientID"];
+	string TargetClientID = 4 [json_name = "TargetClientID"];
 }
 
 message RemoveBlackListReq {
-  string client_id = 1;
-  string target_client_id = 2;
+	string ClientID = 1 [json_name = "ClientID"];
+	string TargetClientID = 2 [json_name = "TargetClientID"];
 }
 
 message RemoveBlackListRsp {
-  chat.pb.RemoveBlackListRsp.RemoveBlackListCode code = 1;
-  string msg = 2;
-  string client_id = 3;
-  string target_client_id = 4;
+	enum RemoveBlackListCode {
+		SUCCESS = 0;
+		INNER_ERROR = 1;
+		NOT_REGISTER = 2;
+		NOT_IN_LIST = 3;
+	}
 
-  enum RemoveBlackListCode {
-    SUCCESS = 0;
-    INNER_ERROR = 1;
-    NOT_REGISTER = 2;
-    NOT_IN_LIST = 3;
-  }
+	RemoveBlackListRsp.RemoveBlackListCode Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	string ClientID = 3 [json_name = "ClientID"];
+	string TargetClientID = 4 [json_name = "TargetClientID"];
 }
 
 message GetBlackListReq {
-  string client_id = 1;
+	string ClientID = 1 [json_name = "ClientID"];
 }
 
 message GetBlackListRsp {
-  chat.pb.GetBlackListRsp.GetBlackListCode code = 1;
-  string msg = 2;
-  repeated string black_list = 3;
-  string client_id = 4;
+	enum GetBlackListCode {
+		SUCCESS = 0;
+		INNER_ERROR = 1;
+		NOT_REGISTER = 2;
+	}
 
-  enum GetBlackListCode {
-    SUCCESS = 0;
-    INNER_ERROR = 1;
-    NOT_REGISTER = 2;
-  }
+	GetBlackListRsp.GetBlackListCode Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	repeated string BlackList = 3 [json_name = "BlackList"];
+	string ClientID = 4 [json_name = "ClientID"];
 }
 
 message SyncBlackListReq {
-  string client_id = 1;
-  repeated string black_list = 2;
+	string ClientID = 1 [json_name = "ClientID"];
+	repeated string BlackList = 2 [json_name = "BlackList"];
 }
 
 message SyncBlackListRsp {
-  chat.pb.SyncBlackListRsp.SyncBlackListCode code = 1;
-  string msg = 2;
-  string client_id = 3;
+	enum SyncBlackListCode {
+		SUCCESS = 0;
+		INNER_ERROR = 1;
+		NOT_REGISTER = 2;
+	}
 
-  enum SyncBlackListCode {
-    SUCCESS = 0;
-    INNER_ERROR = 1;
-    NOT_REGISTER = 2;
-  }
+	SyncBlackListRsp.SyncBlackListCode Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	string ClientID = 3 [json_name = "ClientID"];
 }
 
 message GetPersonalBanInfoReq {
-  string client_id = 1;
+	string ClientID = 1 [json_name = "ClientID"];
 }
 
 message GetPersonalBanInfoRsp {
-  chat.pb.GetPersonalBanInfoRsp.GetPersonalBanInfo code = 1;
-  string msg = 2;
-  string client_id = 3;
-  bool is_ban = 4;
-  uint64 ban_time_out = 5;
-  uint32 private_left_cd = 6;
-  uint32 channel_left_cd = 7;
-  uint32 world_left_cd = 8;
+	enum GetPersonalBanInfo {
+		SUCCESS = 0;
+		NOT_REGISTER = 1;
+	}
 
-  enum GetPersonalBanInfo {
-    SUCCESS = 0;
-    NOT_REGISTER = 1;
-  }
+	GetPersonalBanInfoRsp.GetPersonalBanInfo Code = 1 [json_name = "Code"];
+	string Msg = 2 [json_name = "Msg"];
+	string ClientID = 3 [json_name = "ClientID"];
+	bool IsBan = 4 [json_name = "IsBan"];
+	uint64 BanTimeOut = 5 [json_name = "BanTimeOut"];
+	uint32 PrivateLeftCD = 6 [json_name = "PrivateLeftCD"];
+	uint32 ChannelLeftCD = 7 [json_name = "ChannelLeftCD"];
+	uint32 WorldLeftCD = 8 [json_name = "WorldLeftCD"];
 }
-

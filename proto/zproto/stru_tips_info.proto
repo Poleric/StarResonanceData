@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message TipsInfo {
-  int32 tips_type = 1;
-  zproto.EErrorCode err_code = 2;
-  bytes tips_params = 3;
-}
+package zproto;
 
+message TipsInfo {
+	int32 tipsType = 1 [json_name = "tipsType"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+	bytes tipsParams = 3 [json_name = "tipsParams"];
+}

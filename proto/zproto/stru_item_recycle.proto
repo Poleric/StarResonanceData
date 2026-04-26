@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ItemRecycle {
-  int32 recycle_id = 1;
-  int64 item_uuid = 2;
-  int64 count = 3;
+	int32 recycleId = 1 [json_name = "recycleId"];
+	int64 itemUuid = 2 [json_name = "itemUuid"];
+	int64 count = 3 [json_name = "count"];
 }
-

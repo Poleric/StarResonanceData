@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_homeland_warehouse_info.proto";
 
-message GetHomelandWarehouseInfoReply {
-  zproto.HomelandWarehouseInfo warehouse = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message GetHomelandWarehouseInfoReply {
+	HomelandWarehouseInfo warehouse = 1 [json_name = "warehouse"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

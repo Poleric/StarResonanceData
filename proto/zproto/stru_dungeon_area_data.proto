@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message DungeonAreaData {
+	repeated int32 targetList = 1 [json_name = "targetList"];
+}

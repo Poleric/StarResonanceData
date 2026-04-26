@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_team_info.proto";
 
-message NotifyCharMatchResultRequest {
-  bool success = 1;
-  zproto.TeamInfo team_info = 2;
-}
+package zproto;
 
+message NotifyCharMatchResultRequest {
+	bool success = 1 [json_name = "success"];
+	TeamInfo teamInfo = 2 [json_name = "teamInfo"];
+}

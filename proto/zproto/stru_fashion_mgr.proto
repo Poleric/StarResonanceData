@@ -1,29 +1,29 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_fashion_advance_info.proto";
 import "stru_fashion_color_info.proto";
 import "stru_unlock_color_info.proto";
 import "stru_dirty_mask.proto";
 
-message FashionMgr {
-  map<int32, int32> wear_info = 1;
-  map<int32, zproto.FashionColorInfo> fashion_datas = 2;
-  map<int32, zproto.UnlockColorInfo> unlock_color = 3;
-  map<int32, bool> fashion_reward = 4;
-  map<int32, bool> all_fashion = 5;
-  map<int32, bool> all_ride = 6;
-  map<int32, bool> all_weapon_skin = 7;
-  map<int32, zproto.FashionAdvanceInfo> fashion_advance = 8;
-  int32 fashion_collect_point = 9;
-  int32 ride_collect_point = 10;
-  int32 weapon_skin_collect_point = 11;
-  map<int32, int32> all_fashion_num = 12;
-  map<int32, int32> all_ride_num = 13;
-  map<int32, int32> all_weapon_skin_num = 14;
-  bool is_fashion_init = 15;
-  bool is_ride_init = 16;
-  bool is_weapon_skin_init = 17;
-}
+package zproto;
 
+message FashionMgr {
+	map<int32, int32> wearInfo = 1 [json_name = "wearInfo"];
+	map<int32, FashionColorInfo> fashionDatas = 2 [json_name = "fashionDatas"];
+	map<int32, UnlockColorInfo> UnlockColor = 3 [json_name = "UnlockColor"];
+	map<int32, bool> fashionReward = 4 [json_name = "fashionReward"];
+	map<int32, bool> allFashion = 5 [json_name = "allFashion"];
+	map<int32, bool> allRide = 6 [json_name = "allRide"];
+	map<int32, bool> allWeaponSkin = 7 [json_name = "allWeaponSkin"];
+	map<int32, FashionAdvanceInfo> fashionAdvance = 8 [json_name = "fashionAdvance"];
+	int32 fashionCollectPoint = 9 [json_name = "fashionCollectPoint"];
+	int32 rideCollectPoint = 10 [json_name = "rideCollectPoint"];
+	int32 weaponSkinCollectPoint = 11 [json_name = "weaponSkinCollectPoint"];
+	map<int32, int32> allFashionNum = 12 [json_name = "allFashionNum"];
+	map<int32, int32> allRideNum = 13 [json_name = "allRideNum"];
+	map<int32, int32> allWeaponSkinNum = 14 [json_name = "allWeaponSkinNum"];
+	bool isFashionInit = 15 [json_name = "isFashionInit"];
+	bool isRideInit = 16 [json_name = "isRideInit"];
+	bool isWeaponSkinInit = 17 [json_name = "isWeaponSkinInit"];
+	int32 fashionUnlockFixFlag = 18 [json_name = "fashionUnlockFixFlag"];
+}

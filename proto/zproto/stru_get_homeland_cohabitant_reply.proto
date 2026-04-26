@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_community_player_info.proto";
 import "stru_community_transfer.proto";
 import "enum_e_error_code.proto";
 
-message GetHomelandCohabitantReply {
-  zproto.CommunityTransfer transfer_community = 1;
-  map<int64, zproto.CommunityPlayerInfo> cohabitant = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message GetHomelandCohabitantReply {
+	CommunityTransfer transferCommunity = 1 [json_name = "transferCommunity"];
+	map<int64, CommunityPlayerInfo> cohabitant = 2 [json_name = "cohabitant"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

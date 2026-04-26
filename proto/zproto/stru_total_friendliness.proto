@@ -3,10 +3,9 @@ syntax = "proto3";
 package zproto;
 
 message TotalFriendliness {
-  int32 level = 1;
-  int32 cur_exp = 2;
-  int64 update_time_stamp = 3;
-  int32 today_total_add_exps = 4;
-  repeated int32 got_level_awards = 5;
+	int32 level = 1 [json_name = "level"];
+	int32 curExp = 2 [json_name = "curExp"];
+	int64 updateTimeStamp = 3 [json_name = "updateTimeStamp"];
+	int32 todayTotalAddExps = 4 [json_name = "todayTotalAddExps"];
+	repeated int32 gotLevelAwards = 5 [json_name = "gotLevelAwards"];
 }
-

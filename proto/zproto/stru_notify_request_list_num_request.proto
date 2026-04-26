@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message NotifyRequestListNumRequest {
-  int32 num = 2;
+	int32 num = 2 [json_name = "num"];
 }
-

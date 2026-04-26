@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message ReplyJoinEnsembleActivityRequest {
+	bool isAgree = 1 [json_name = "isAgree"];
+}

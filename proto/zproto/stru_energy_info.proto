@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_energy_item_info.proto";
 import "stru_dirty_mask.proto";
 
-message EnergyInfo {
-  uint32 energy_value = 1;
-  uint32 unlock_num = 2;
-  map<uint32, zproto.EnergyItemInfo> energy_item_info = 3;
-}
+package zproto;
 
+message EnergyInfo {
+	uint32 energyValue = 1 [json_name = "energyValue"];
+	uint32 unlockNum = 2 [json_name = "unlockNum"];
+	map<uint32, EnergyItemInfo> energyItemInfo = 3 [json_name = "energyItemInfo"];
+}

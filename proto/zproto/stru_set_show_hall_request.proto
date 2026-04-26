@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message SetShowHallRequest {
-  bool is_show = 2;
-  bool is_server_set = 3;
+	bool isShow = 2 [json_name = "isShow"];
+	bool isServerSet = 3 [json_name = "isServerSet"];
 }
-

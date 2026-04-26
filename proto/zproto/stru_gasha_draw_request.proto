@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message GashaDrawRequest {
-  int32 count = 1;
-  int32 pool_id = 2;
+	int32 count = 1 [json_name = "count"];
+	int32 poolId = 2 [json_name = "poolId"];
 }
-

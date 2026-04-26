@@ -3,10 +3,9 @@ syntax = "proto3";
 package zproto;
 
 message PlayActionParam {
-  int32 action_id = 1;
-  bool is_upper = 2;
-  bool is_dance_together = 3;
-  int32 mount_id = 4;
-  int32 mount_size = 5;
+	int32 actionId = 1 [json_name = "actionId"];
+	bool isUpper = 2 [json_name = "isUpper"];
+	bool IsDanceTogether = 3 [json_name = "IsDanceTogether"];
+	int32 mountId = 4 [json_name = "mountId"];
+	int32 mountSize = 5 [json_name = "mountSize"];
 }
-

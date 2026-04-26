@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_apply_time.proto";
 import "enum_e_team_member_type.proto";
 import "stru_team_mem_data.proto";
 
-message ShowTeam {
-  int64 team_id = 1;
-  int64 leader_id = 2;
-  uint32 target_id = 3;
-  bool matching = 4;
-  string desc = 5;
-  repeated zproto.TeamMemData mems = 6;
-  uint64 set_target_time = 7;
-  repeated zproto.ApplyTime apply_time_list = 8;
-  zproto.ETeamMemberType team_member_type = 9;
-}
+package zproto;
 
+message ShowTeam {
+	int64 teamId = 1 [json_name = "teamId"];
+	int64 leaderId = 2 [json_name = "leaderId"];
+	uint32 targetId = 3 [json_name = "targetId"];
+	bool matching = 4 [json_name = "matching"];
+	string desc = 5 [json_name = "desc"];
+	repeated TeamMemData mems = 6 [json_name = "mems"];
+	uint64 setTargetTime = 7 [json_name = "setTargetTime"];
+	repeated ApplyTime applyTimeList = 8 [json_name = "applyTimeList"];
+	ETeamMemberType teamMemberType = 9 [json_name = "teamMemberType"];
+}

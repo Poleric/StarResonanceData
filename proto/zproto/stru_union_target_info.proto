@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message UnionTargetInfo {
+	int32 targetId = 1 [json_name = "targetId"];
+	int32 targetNum = 2 [json_name = "targetNum"];
+	bool hasFinished = 3 [json_name = "hasFinished"];
+}

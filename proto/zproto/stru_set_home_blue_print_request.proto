@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "enum_blue_print_type.proto";
+import "stru_homeland_decoration_info.proto";
+import "stru_structure.proto";
+
+package zproto;
+
+message SetHomeBluePrintRequest {
+	int64 homelandId = 1 [json_name = "homelandId"];
+	BluePrintType bluePrintType = 2 [json_name = "bluePrintType"];
+	int32 slot = 3 [json_name = "slot"];
+	repeated Structure saveStructuresIds = 4 [json_name = "saveStructuresIds"];
+	HomelandDecorationInfo decorationInfo = 5 [json_name = "decorationInfo"];
+	string shareCode = 6 [json_name = "shareCode"];
+}

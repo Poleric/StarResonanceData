@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_profession_talent_info.proto";
+
+package zproto;
+
+message ProjectExtraSyncData {
+	ProfessionTalentInfo currentTalentIdList = 1 [json_name = "currentTalentIdList"];
+	map<int32, int32> currentSkillIdList = 2 [json_name = "currentSkillIdList"];
+}

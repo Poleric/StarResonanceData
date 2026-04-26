@@ -9,30 +9,48 @@
     "Id": 102,
     "Episode": "Episode II",
     "EpisodeName": "The Light and Shadow",
-    "ChapterPreview": "Complete Episode I"
+    "ChapterPreview": "Complete Chapter 1, Episode 1"
   },
   "103": {
     "Id": 103,
     "Episode": "Episode III",
     "EpisodeName": "Under the Firmament",
-    "ChapterPreview": "Complete Episode III"
+    "ChapterPreview": "Complete Chapter 1, Episode 2"
   },
   "104": {
     "Id": 104,
     "Episode": "Episode IV",
     "EpisodeName": "Unknown Roads Ahead",
-    "ChapterPreview": "Complete Episode III"
+    "ChapterPreview": "Complete Chapter 1, Episode 3"
   },
   "105": {
     "Id": 105,
     "Episode": "Episode V",
     "EpisodeName": "Countdown to the End",
-    "ChapterPreview": "Complete Episode IV"
+    "ChapterPreview": "Complete Chapter 1, Episode 4"
   },
   "201": {
     "Id": 201,
     "Episode": "Episode I",
-    "EpisodeName": "Chapter Two, Episode I",
+    "EpisodeName": "Dawn's Twilight",
     "ChapterPreview": "Complete Chapter 1"
+  },
+  "202": {
+    "Id": 202,
+    "Episode": "Episode 2",
+    "EpisodeName": "Where All Fervor Sleeps",
+    "ChapterPreview": "Complete Chapter 2, Episode 1"
+  },
+  "203": {
+    "Id": 203,
+    "Episode": "Episode 3",
+    "EpisodeName": "The Buried and the Broken",
+    "ChapterPreview": "Complete Chapter 2, Episode 2"
+  },
+  "204": {
+    "Id": 204,
+    "Episode": "Episode 4",
+    "EpisodeName": "Giving Meaning to Every Bloom",
+    "ChapterPreview": "Complete Chapter 2, Episode 3"
   }
 }

@@ -110,7 +110,7 @@
     "TargetType": [
       1031011
     ],
-    "WorksName": "Annual Quest Report",
+    "WorksName": "Annual Quest Completion Report for Adventurers",
     "ReadingBookDes": "Some old and ancient documents.",
     "Icon": "item_icons_wenjiandai2",
     "Quality": 2,
@@ -809,7 +809,7 @@
     "TargetType": [
       1031104
     ],
-    "WorksName": "\"Former Top Artisan Now Fixing Boilerst\"",
+    "WorksName": "\"Former Top Artisan Now Fixing Boilers\"",
     "ReadingBookDes": "From genius to outcast, and finally, a legend! The rise of a former guild elite, now reborn from the underground artisan ranks.",
     "Icon": "item_icons_item_icons_citizen_book_thin",
     "Quality": 2,
@@ -836,7 +836,7 @@
       1031109
     ],
     "WorksName": "A Call to All Citizens",
-    "ReadingBookDes": "A poster with the emblem of the Asterleeds Defense Corps printed on the back.",
+    "ReadingBookDes": "A poster with the badge of the Defense Corps printed on the back.",
     "Icon": "item_icons_item_icons_citizen_note",
     "Quality": 2,
     "IsHide": false
@@ -1876,7 +1876,7 @@
       1031211
     ],
     "WorksName": "\"The Way Elders Think\"",
-    "ReadingBookDes": "A book about the Kanamia Tribe, its pages still carrying a fresh scent of ink. By Imogen Fair",
+    "ReadingBookDes": "A book about the Kanamia Tribe, its pages still carrying a fresh scent of ink. Written by Imogen Feier.",
     "Icon": "item_icons_item_icons_citizen_book_thin",
     "Quality": 2,
     "IsHide": false
@@ -2114,7 +2114,7 @@
       1031233
     ],
     "WorksName": "\"The White Wolf Mystery: An Inquiry into the Existence of Kanamia Ancestral Spirits\"",
-    "ReadingBookDes": "A book about Kanamia, with a fresh ink scent. <br>Written by Imogen Fair.",
+    "ReadingBookDes": "A book about Kanamia, with a fresh ink scent. <br>Written by Imogen Feier.",
     "Icon": "item_icons_item_icons_citizen_book_thick",
     "Quality": 2,
     "IsHide": false
@@ -2302,7 +2302,7 @@
       1031253
     ],
     "WorksName": "The Flyer for the Spinning Rudder",
-    "ReadingBookDes": "A poster advertising the Spinning Rudder, its bold, curling letters dancing as if caught in the sea breeze.",
+    "ReadingBookDes": "A poster advertising the Spinning Rudder, its bold, curling letters dancing as if caught in the seabreeze.",
     "Icon": "item_icons_item_icons_citizen_note",
     "Quality": 2,
     "IsHide": false
@@ -2342,6 +2342,420 @@
     ],
     "WorksName": "\"Peacegrass of a Foreign Land\"",
     "ReadingBookDes": "A book advocating peace and anti-war ideals.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1223": {
+    "Id": 1223,
+    "Episode": 1094,
+    "WorksType": 104,
+    "TargetType": [
+      1031334,
+      1031335,
+      1031336,
+      1031337,
+      1031338,
+      1031339,
+      1031340,
+      1031341,
+      1031342,
+      1031343
+    ],
+    "WorksName": "Renewal Light Riddle",
+    "ReadingBookDes": "A thick sheet of pale red paper. Under the light, you can see traces of ink seeping into the paper's fibers, a sign of the writer's exceptional care. Neatly punched holes at the top allow it to be threaded with a fine string to form a commemorative booklet.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1179": {
+    "Id": 1179,
+    "Episode": 1050,
+    "WorksType": 101,
+    "TargetType": [
+      1031257,
+      1031265,
+      1031284
+    ],
+    "WorksName": "Tales of the Sislesa Mine",
+    "ReadingBookDes": "A meticulously bound set of supernatural tales, with a cover depicting an aerial view of Sislesa Mine. Its perspective and colors are deeply uncanny.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1180": {
+    "Id": 1180,
+    "Episode": 1051,
+    "WorksType": 104,
+    "TargetType": [
+      1031258,
+      1031269,
+      1031273,
+      1031280,
+      1031298
+    ],
+    "WorksName": "The Art of Absolute Tongue",
+    "ReadingBookDes": "\"This book explores all aspects of the art of language. The moment you begin reading this book, you set foot on the one and only correct path to mastering this art. The value of this book lies in the fact that it perfectly explains what value is, and your reading it right now is the best interpretation of the value of reading. \"",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1181": {
+    "Id": 1181,
+    "Episode": 1052,
+    "WorksType": 101,
+    "TargetType": [
+      1031259,
+      1031263,
+      1031274,
+      1031278,
+      1031291
+    ],
+    "WorksName": "The Bahamar Obelisk",
+    "ReadingBookDes": "\"This series presents an in-depth exploration of the Needle Rocks of the Bahamar Highlands, aiming to reveal the stories and insights behind the spectacle by analyzing mainstream hypotheses such as 'Xeno Engram contamination' and 'Pillar of Divinity influence.' Written by Julian Field. \"",
+    "Icon": "item_icons_item_icons_citizen_book_thick",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1182": {
+    "Id": 1182,
+    "Episode": 1053,
+    "WorksType": 103,
+    "TargetType": [
+      1031260
+    ],
+    "WorksName": "Wanted: Geronimo the Hammersmith",
+    "ReadingBookDes": "A hand-drawn wanted poster. The subject wears a confident smile. It's not stamped by the Asterleeds Defense Corps or the Council. Perhaps it's a stage prop.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1183": {
+    "Id": 1183,
+    "Episode": 1054,
+    "WorksType": 101,
+    "TargetType": [
+      1031261,
+      1031267,
+      1031282
+    ],
+    "WorksName": "Bahamar Calamity Archives",
+    "ReadingBookDes": "A hardcover chronicle introducing the calamities that struck the Bahamar Highlands.",
+    "Icon": "item_icons_item_icons_citizen_book_thick",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1184": {
+    "Id": 1184,
+    "Episode": 1055,
+    "WorksType": 103,
+    "TargetType": [
+      1031262,
+      1031264,
+      1031272,
+      1031277,
+      1031279
+    ],
+    "WorksName": "Pilgrimage to Bahamar",
+    "ReadingBookDes": "A series of promotional pamphlets produced by a tour group, with covers showing hand-drawn scenic spots of the Bahamar Highlands and several exaggerated lines: \"79 Entertainment District, Black Cat Tour Group! President Fiore awaits your arrival! \"",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1185": {
+    "Id": 1185,
+    "Episode": 1056,
+    "WorksType": 101,
+    "TargetType": [
+      1031266,
+      1031276,
+      1031283,
+      1031286
+    ],
+    "WorksName": "New Ideas for Post-Plague Intervention Based on Shared Dreams",
+    "ReadingBookDes": "A stack of yellowed, coarse manuscripts, carrying the scent of old books and dried herbs. Author: Elias Victor.",
+    "Icon": "item_icons_wenjiandai1",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1186": {
+    "Id": 1186,
+    "Episode": 1057,
+    "WorksType": 102,
+    "TargetType": [
+      1031268
+    ],
+    "WorksName": "Letter to Mr. Wilp",
+    "ReadingBookDes": "A letter sent by the Pioneer Bureau, the handwriting elegant, the wording professional.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1187": {
+    "Id": 1187,
+    "Episode": 1058,
+    "WorksType": 103,
+    "TargetType": [
+      1031270
+    ],
+    "WorksName": "Wanted: Nael the Illusionist",
+    "ReadingBookDes": "A hand-drawn wanted poster. The subject looks friendly and refined. It's not stamped by the Asterleeds Defense Corps or the Council. Perhaps it's a stage prop.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1188": {
+    "Id": 1188,
+    "Episode": 1059,
+    "WorksType": 103,
+    "TargetType": [
+      1031271
+    ],
+    "WorksName": "Wanted: Darya the Starsoul Flask Thief",
+    "ReadingBookDes": "A hand-drawn wanted poster. The subject looks playful and lively. It's not stamped by the Asterleeds Defense Corps or the Council. Perhaps it's a stage prop.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1189": {
+    "Id": 1189,
+    "Episode": 1060,
+    "WorksType": 101,
+    "TargetType": [
+      1031275
+    ],
+    "WorksName": "Visions Born of the Heart",
+    "ReadingBookDes": "A book introducing Illusory Bloom and Illusory Plague. Author: Elias Victor.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1190": {
+    "Id": 1190,
+    "Episode": 1061,
+    "WorksType": 104,
+    "TargetType": [
+      1031281,
+      1031285,
+      1031292
+    ],
+    "WorksName": "The One True Theory of Everything",
+    "ReadingBookDes": "The newest masterpiece by the author of \"Mind-Blowing Thoughts\"! <br>It's said no one has ever finished reading the entire set.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1191": {
+    "Id": 1191,
+    "Episode": 1062,
+    "WorksType": 102,
+    "TargetType": [
+      1031287
+    ],
+    "WorksName": "Letter to Marcel",
+    "ReadingBookDes": "A crumpled piece of letter paper, never placed into an envelope, as though the writer had no intention of sending it.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1192": {
+    "Id": 1192,
+    "Episode": 1063,
+    "WorksType": 102,
+    "TargetType": [
+      1031288
+    ],
+    "WorksName": "Crumpled Note",
+    "ReadingBookDes": "A blackened, crumpled scrap of paper. Without careful inspection, one might mistake it for a rock.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1193": {
+    "Id": 1193,
+    "Episode": 1064,
+    "WorksType": 101,
+    "TargetType": [
+      1031289
+    ],
+    "WorksName": "Echoes Beneath the Earth",
+    "ReadingBookDes": "A magazine secretly circulated among miners, bound with rough straw paper, each page hand-copied.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1194": {
+    "Id": 1194,
+    "Episode": 1065,
+    "WorksType": 103,
+    "TargetType": [
+      1031290
+    ],
+    "WorksName": "Shocking! Captain Reiner's New Boots Stolen by a Mine Rat!",
+    "ReadingBookDes": "A handwritten notice from the mines. The messy letters suggested the writer was struggling not to laugh.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1195": {
+    "Id": 1195,
+    "Episode": 1066,
+    "WorksType": 101,
+    "TargetType": [
+      1031293,
+      1031294,
+      1031295
+    ],
+    "WorksName": "Veteran Miners' Field Guide",
+    "ReadingBookDes": "A set of oil-stained miners' manuals, each page copied by hand and filled with miners' slang.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1196": {
+    "Id": 1196,
+    "Episode": 1067,
+    "WorksType": 102,
+    "TargetType": [
+      1031296
+    ],
+    "WorksName": "Lost Soldier's Letter Home",
+    "ReadingBookDes": "A letter bearing the Blackstone Legion's emblem, left here for unknown reasons.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1197": {
+    "Id": 1197,
+    "Episode": 1068,
+    "WorksType": 104,
+    "TargetType": [
+      1031297
+    ],
+    "WorksName": "Torn Diary Pages",
+    "ReadingBookDes": "A stain-covered diary page, seemingly torn out violently and discarded.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1198": {
+    "Id": 1198,
+    "Episode": 1069,
+    "WorksType": 102,
+    "TargetType": [
+      1031299
+    ],
+    "WorksName": "Letter to Valeria",
+    "ReadingBookDes": "An unsent letter, with dark red stains on its envelope. One can faintly make out the words \"Letter to Valeria.\"",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1215": {
+    "Id": 1215,
+    "Episode": 1086,
+    "WorksType": 102,
+    "TargetType": [
+      1031318
+    ],
+    "WorksName": "A Reply Sent to Sister (Undated)",
+    "ReadingBookDes": "A letter with clear handwriting and a youthful tone, revealing a mix of excitement and nervousness.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1216": {
+    "Id": 1216,
+    "Episode": 1087,
+    "WorksType": 102,
+    "TargetType": [
+      1031319
+    ],
+    "WorksName": "A Reply to Mother (Undated)",
+    "ReadingBookDes": "A family letter written with a controlled tone and neat penmanship, hiding unspoken fragility between the lines.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1217": {
+    "Id": 1217,
+    "Episode": 1088,
+    "WorksType": 102,
+    "TargetType": [
+      1031320
+    ],
+    "WorksName": "A Draft Sent by Mistake",
+    "ReadingBookDes": "A half-finished draft, its pages filled with corrections and hastily scrawled annotations.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1218": {
+    "Id": 1218,
+    "Episode": 1089,
+    "WorksType": 102,
+    "TargetType": [
+      1031321
+    ],
+    "WorksName": "A Letter from Sister (Undated)",
+    "ReadingBookDes": "A reply penned in a cheerful script, with a smile tucked between the lines.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1219": {
+    "Id": 1219,
+    "Episode": 1090,
+    "WorksType": 101,
+    "TargetType": [
+      1031325
+    ],
+    "WorksName": "The Rift",
+    "ReadingBookDes": "A book of transcribed poems, left behind by some unknown soul. Lacking in craft, but overflowing with feeling.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1220": {
+    "Id": 1220,
+    "Episode": 1091,
+    "WorksType": 101,
+    "TargetType": [
+      1031326
+    ],
+    "WorksName": "Sleepwhisper",
+    "ReadingBookDes": "A book of transcribed poems, left behind by some unknown soul. Lacking in craft, but overflowing with feeling.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1221": {
+    "Id": 1221,
+    "Episode": 1092,
+    "WorksType": 102,
+    "TargetType": [
+      1031327
+    ],
+    "WorksName": "A Merchant's Complaints",
+    "ReadingBookDes": "A journal entry of messy scrawls, filled with complaints and self-mockery. It recounts a nightmare as though it were a catastrophic business failure.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1222": {
+    "Id": 1222,
+    "Episode": 1093,
+    "WorksType": 102,
+    "TargetType": [
+      1031328,
+      1031329,
+      1031330,
+      1031331,
+      1031332,
+      1031333
+    ],
+    "WorksName": "Lost Painting Notes",
+    "ReadingBookDes": "An artist's misplaced notebook, capturing a sudden flash of inspiration.",
     "Icon": "item_icons_item_icons_citizen_book_thin",
     "Quality": 2,
     "IsHide": false

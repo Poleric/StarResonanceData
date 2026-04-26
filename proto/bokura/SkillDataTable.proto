@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SkillDataTableBase {
-  int64 s_kill_level_id = 84;
-  int64_array action_array = 1470;
-  int64_array event_array = 1310;
-  int64_array effect_array = 137;
-  int64_array camera_array = 1936;
-  int64_array material_array = 1946;
-  int64_array audio_array = 3994;
-  int64_array bullet_array = 947;
-  int64_array time_scale_array = 1615;
+	int64 SKillLevelId = 84 [json_name = "SKillLevelId"];
+	int64_array ActionArray = 1470 [json_name = "ActionArray"];
+	int64_array EventArray = 1310 [json_name = "EventArray"];
+	int64_array EffectArray = 137 [json_name = "EffectArray"];
+	int64_array CameraArray = 1936 [json_name = "CameraArray"];
+	int64_array MaterialArray = 1946 [json_name = "MaterialArray"];
+	int64_array AudioArray = 3994 [json_name = "AudioArray"];
+	int64_array BulletArray = 947 [json_name = "BulletArray"];
+	int64_array TimeScaleArray = 1615 [json_name = "TimeScaleArray"];
 }
 
 message SkillDataTableMgr {
-  map<int64, bokura.SkillDataTableBase> datas = 1;
+	map<int64, SkillDataTableBase> datas = 1 [json_name = "datas"];
 }
-

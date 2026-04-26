@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_ichiban_kuji_pool.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message IchibanKujiData {
+	map<int32, IchibanKujiPool> pools = 1 [json_name = "pools"];
+}

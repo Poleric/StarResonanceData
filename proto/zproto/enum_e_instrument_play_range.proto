@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EInstrumentPlayRange {
+	EInstrumentPlayRangeAll = 0;
+	EInstrumentPlayRangeUnion = 1;
+	EInstrumentPlayRangeTeam = 2;
+}

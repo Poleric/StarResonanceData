@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ReportHome {
-  int64 home_id = 1;
+	int64 homeId = 1 [json_name = "homeId"];
 }
-

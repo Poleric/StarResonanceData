@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_game_info.proto";
+import "stru_user_game_table_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message UserGamesInfo {
+	map<int32, GameInfo> gamesData = 1 [json_name = "gamesData"];
+	UserGameTableInfo userGameTableInfo = 2 [json_name = "userGameTableInfo"];
+}

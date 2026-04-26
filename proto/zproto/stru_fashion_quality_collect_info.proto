@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message FashionQualityCollectInfo {
-  map<int32, int32> quality_count = 1;
-}
+package zproto;
 
+message FashionQualityCollectInfo {
+	map<int32, int32> qualityCount = 1 [json_name = "qualityCount"];
+}

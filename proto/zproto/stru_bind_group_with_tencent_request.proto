@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message BindGroupWithTencentRequest {
-  int64 union_id = 1;
-  int32 group_type = 2;
-  string group_id = 3;
+	int64 unionId = 1 [json_name = "unionId"];
+	int32 groupType = 2 [json_name = "groupType"];
+	string groupId = 3 [json_name = "groupId"];
 }
-

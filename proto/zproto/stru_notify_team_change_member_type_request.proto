@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "enum_e_team_member_type.proto";
 
-message NotifyTeamChangeMemberTypeRequest {
-  zproto.EErrorCode error_code = 1;
-  zproto.ETeamMemberType team_member_type = 2;
-  int32 target_id = 3;
-}
+package zproto;
 
+message NotifyTeamChangeMemberTypeRequest {
+	EErrorCode errorCode = 1 [json_name = "errorCode"];
+	ETeamMemberType teamMemberType = 2 [json_name = "teamMemberType"];
+	int32 targetId = 3 [json_name = "targetId"];
+}

@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_team_member_type.proto";
 import "stru_team_member_group_info.proto";
 
-message TeamBaseInfo {
-  int64 team_id = 1;
-  uint32 target_id = 2;
-  int64 leader_id = 3;
-  string desc = 4;
-  bool auto_match = 5;
-  bool hall_show = 6;
-  bool matching = 7;
-  zproto.ETeamMemberType team_member_type = 8;
-  map<int32, zproto.TeamMemberGroupInfo> team_member_group_infos = 9;
-  int64 create_time = 10;
-}
+package zproto;
 
+message TeamBaseInfo {
+	int64 teamId = 1 [json_name = "teamId"];
+	uint32 targetId = 2 [json_name = "targetId"];
+	int64 leaderId = 3 [json_name = "leaderId"];
+	string desc = 4 [json_name = "desc"];
+	bool autoMatch = 5 [json_name = "autoMatch"];
+	bool hallShow = 6 [json_name = "hallShow"];
+	bool matching = 7 [json_name = "matching"];
+	ETeamMemberType teamMemberType = 8 [json_name = "teamMemberType"];
+	map<int32, TeamMemberGroupInfo> teamMemberGroupInfos = 9 [json_name = "teamMemberGroupInfos"];
+	int64 createTime = 10 [json_name = "createTime"];
+}

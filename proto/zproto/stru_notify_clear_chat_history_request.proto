@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_chit_chat_channel_type.proto";
 
-message NotifyClearChatHistoryRequest {
-  zproto.ChitChatChannelType channel_type = 1;
-  string target_id = 2;
-}
+package zproto;
 
+message NotifyClearChatHistoryRequest {
+	ChitChatChannelType channelType = 1 [json_name = "channelType"];
+	string targetId = 2 [json_name = "targetId"];
+}

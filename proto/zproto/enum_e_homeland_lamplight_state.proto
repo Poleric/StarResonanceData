@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 enum EHomelandLamplightState {
-  HomelandLamplightStateDefault = 0;
-  HomelandLamplightStateOn = 1;
-  HomelandLamplightStateOff = 2;
+	HomelandLamplightStateDefault = 0;
+	HomelandLamplightStateOn = 1;
+	HomelandLamplightStateOff = 2;
 }
-

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "stru_multi_language_content_text_info.proto";
+
+package zproto;
+
+message NoticeMultiLanguageInfo {
+	uint64 sendTime = 2 [json_name = "sendTime"];
+	bool isLoop = 3 [json_name = "isLoop"];
+	int32 loopNumber = 4 [json_name = "loopNumber"];
+	uint32 loopTimeInterval = 5 [json_name = "loopTimeInterval"];
+	int64 endTime = 6 [json_name = "endTime"];
+	repeated MultiLanguageContentTextInfo contentTextInfo = 7 [json_name = "contentTextInfo"];
+}

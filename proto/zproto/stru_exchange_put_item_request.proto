@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message ExchangePutItemRequest {
-  int64 uuid = 2;
-  int32 num = 3;
-  int32 step = 4;
-  bool is_public = 5;
+	int64 uuid = 2 [json_name = "uuid"];
+	int32 num = 3 [json_name = "num"];
+	int32 step = 4 [json_name = "step"];
+	bool isPublic = 5 [json_name = "isPublic"];
 }
-

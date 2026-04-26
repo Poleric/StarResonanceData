@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_trial_road_room_target_award.proto";
 import "stru_trial_road_target_award.proto";
 import "stru_dirty_mask.proto";
 
-message TrialRoad {
-  repeated int32 pass_room = 1;
-  map<int32, zproto.TrialRoadRoomTargetAward> room_target_award = 2;
-  zproto.TrialRoadTargetAward target_award = 3;
-}
+package zproto;
 
+message TrialRoad {
+	repeated int32 passRoom = 1 [json_name = "passRoom"];
+	map<int32, TrialRoadRoomTargetAward> roomTargetAward = 2 [json_name = "roomTargetAward"];
+	TrialRoadTargetAward targetAward = 3 [json_name = "targetAward"];
+}

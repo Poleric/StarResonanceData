@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_show_piece_type.proto";
 import "stru_dirty_mask.proto";
 
-message ShowPiecePair {
-  zproto.EShowPieceType piece_type = 1;
-  int32 piece_id = 2;
-}
+package zproto;
 
+message ShowPiecePair {
+	EShowPieceType pieceType = 1 [json_name = "pieceType"];
+	int32 pieceId = 2 [json_name = "pieceId"];
+}

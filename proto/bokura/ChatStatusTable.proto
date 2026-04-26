@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ChatStatusTableBase {
-  int32 id = 1463;
-  mlstring status_name = 1457;
-  string res = 1275;
-  bool status_switch = 2033;
-  int32 sequence = 831;
-  int32 priority = 1712;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring StatusName = 1457 [json_name = "StatusName"];
+	string Res = 1275 [json_name = "Res"];
+	bool StatusSwitch = 2033 [json_name = "StatusSwitch"];
+	int32 Sequence = 831 [json_name = "Sequence"];
+	int32 Priority = 1712 [json_name = "Priority"];
 }
 
 message ChatStatusTableMgr {
-  map<int32, bokura.ChatStatusTableBase> datas = 1;
+	map<int32, ChatStatusTableBase> datas = 1 [json_name = "datas"];
 }
-

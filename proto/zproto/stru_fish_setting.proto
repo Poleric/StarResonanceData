@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_fish_record.proto";
 import "stru_dirty_mask.proto";
 
-message FishSetting {
-  int32 bait_id = 2;
-  int32 experiences = 3;
-  int32 research_fish_id = 4;
-  map<int32, zproto.FishRecord> fish_records = 5;
-  map<uint64, int32> fish_rod_durability = 6;
-  uint64 rod_uuid = 7;
-  map<int32, bool> level_reward = 8;
-  map<int32, int64> zero_fish_times = 9;
-}
+package zproto;
 
+message FishSetting {
+	int32 baitId = 2 [json_name = "baitId"];
+	int32 experiences = 3 [json_name = "experiences"];
+	int32 researchFishId = 4 [json_name = "researchFishId"];
+	map<int32, FishRecord> fishRecords = 5 [json_name = "fishRecords"];
+	map<uint64, int32> fishRodDurability = 6 [json_name = "fishRodDurability"];
+	uint64 rodUuid = 7 [json_name = "rodUuid"];
+	map<int32, bool> levelReward = 8 [json_name = "levelReward"];
+	map<int32, int64> zeroFishTimes = 9 [json_name = "zeroFishTimes"];
+}

@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_team_member_group_info.proto";
 
-message NotifyTeamGroupUpdateRequest {
-  zproto.EErrorCode err_code = 1;
-  map<int32, zproto.TeamMemberGroupInfo> team_member_group_infos = 2;
-}
+package zproto;
 
+message NotifyTeamGroupUpdateRequest {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	map<int32, TeamMemberGroupInfo> teamMemberGroupInfos = 2 [json_name = "teamMemberGroupInfos"];
+}

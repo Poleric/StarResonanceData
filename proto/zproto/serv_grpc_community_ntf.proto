@@ -1,7 +1,7 @@
 syntax = "proto3";
 
-package zproto;
-
+import "stru_blue_print_cover_update_ntf_request.proto";
+import "stru_blue_print_upload_complete_ntf_request.proto";
 import "stru_notify_community_apply_request.proto";
 import "stru_notify_community_apply_update_request.proto";
 import "stru_notify_community_check_in_change_request.proto";
@@ -20,94 +20,107 @@ import "stru_notify_community_level_update_request.proto";
 import "stru_notify_community_name_change_request.proto";
 import "stru_notify_community_transfer_change_request.proto";
 import "stru_notify_community_transfer_info_update_request.proto";
+import "stru_notify_flower_time_update_request.proto";
 import "stru_notify_home_land_player_task_info_update_request.proto";
 import "stru_notify_homeland_build_furniture_op_request.proto";
 import "stru_notify_homeland_warehouse_grid_change_request.proto";
 
+package zproto;
+
 message GrpcCommunityNtf {
+	message NotifyHomelandWarehouseGridChange {
+		NotifyHomelandWarehouseGridChangeRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyHomelandWarehouseGridChange {
-    zproto.NotifyHomelandWarehouseGridChangeRequest request = 1;
-  }
+	message NotifyCommunityApplyUpdate {
+		NotifyCommunityApplyUpdateRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityApplyUpdate {
-    zproto.NotifyCommunityApplyUpdateRequest request = 1;
-  }
+	message NotifyCommunityInfoUpdate {
+		NotifyCommunityInfoUpdateRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityInfoUpdate {
-    zproto.NotifyCommunityInfoUpdateRequest request = 1;
-  }
+	message NotifyCommunityTransferInfoUpdate {
+		NotifyCommunityTransferInfoUpdateRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityTransferInfoUpdate {
-    zproto.NotifyCommunityTransferInfoUpdateRequest request = 1;
-  }
+	message NotifyCommunityNameChange {
+		NotifyCommunityNameChangeRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityNameChange {
-    zproto.NotifyCommunityNameChangeRequest request = 1;
-  }
+	message NotifyCommunityIntroductionChange {
+		NotifyCommunityIntroductionChangeRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityIntroductionChange {
-    zproto.NotifyCommunityIntroductionChangeRequest request = 1;
-  }
+	message NotifyCommunityCheckInChange {
+		NotifyCommunityCheckInChangeRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityCheckInChange {
-    zproto.NotifyCommunityCheckInChangeRequest request = 1;
-  }
+	message NotifyHomelandBuildFurnitureOp {
+		NotifyHomelandBuildFurnitureOpRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyHomelandBuildFurnitureOp {
-    zproto.NotifyHomelandBuildFurnitureOpRequest request = 1;
-  }
+	message NotifyCommunityCohabitantInfo {
+		NotifyCommunityCohabitantInfoRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityCohabitantInfo {
-    zproto.NotifyCommunityCohabitantInfoRequest request = 1;
-  }
+	message NotifyCommunityTransferChange {
+		NotifyCommunityTransferChangeRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityTransferChange {
-    zproto.NotifyCommunityTransferChangeRequest request = 1;
-  }
+	message NotifyCommunityGlobalAuthorityChange {
+		NotifyCommunityGlobalAuthorityChangeRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityGlobalAuthorityChange {
-    zproto.NotifyCommunityGlobalAuthorityChangeRequest request = 1;
-  }
+	message NotifyCommunityLevelUpdate {
+		NotifyCommunityLevelUpdateRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityLevelUpdate {
-    zproto.NotifyCommunityLevelUpdateRequest request = 1;
-  }
+	message NotifyCommunityCleanlinessUpdate {
+		NotifyCommunityCleanlinessUpdateRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityCleanlinessUpdate {
-    zproto.NotifyCommunityCleanlinessUpdateRequest request = 1;
-  }
+	message NotifyCommunityHomeLandClutterInfoAdd {
+		NotifyCommunityHomeLandClutterInfoAddRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityHomeLandClutterInfoAdd {
-    zproto.NotifyCommunityHomeLandClutterInfoAddRequest request = 1;
-  }
+	message NotifyCommunityHomeLandClutterInfoRemove {
+		NotifyCommunityHomeLandClutterInfoRemoveRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityHomeLandClutterInfoRemove {
-    zproto.NotifyCommunityHomeLandClutterInfoRemoveRequest request = 1;
-  }
+	message NotifyHomeLandPlayerTaskInfoUpdate {
+		NotifyHomeLandPlayerTaskInfoUpdateRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyHomeLandPlayerTaskInfoUpdate {
-    zproto.NotifyHomeLandPlayerTaskInfoUpdateRequest request = 1;
-  }
+	message NotifyCommunityHomeLandSellShopUpdate {
+		NotifyCommunityHomeLandSellShopUpdateRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityHomeLandSellShopUpdate {
-    zproto.NotifyCommunityHomeLandSellShopUpdateRequest request = 1;
-  }
+	message NotifyCommunityHomeLandDecorationInfo {
+		NotifyCommunityHomeLandDecorationInfoRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityHomeLandDecorationInfo {
-    zproto.NotifyCommunityHomeLandDecorationInfoRequest request = 1;
-  }
+	message NotifyCommunityItemUpdate {
+		NotifyCommunityItemUpdateRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityItemUpdate {
-    zproto.NotifyCommunityItemUpdateRequest request = 1;
-  }
+	message NotifyCommunityFurnitureItemUpdate {
+		NotifyCommunityFurnitureItemUpdateRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityFurnitureItemUpdate {
-    zproto.NotifyCommunityFurnitureItemUpdateRequest request = 1;
-  }
+	message NotifyCommunityApply {
+		NotifyCommunityApplyRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyCommunityApply {
-    zproto.NotifyCommunityApplyRequest request = 1;
-  }
+	message NotifyFlowerTimeUpdate {
+		NotifyFlowerTimeUpdateRequest request = 1 [json_name = "request"];
+	}
+
+	message BluePrintUploadCompleteNtf {
+		BluePrintUploadCompleteNtfRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message BluePrintCoverUpdateNtf {
+		BluePrintCoverUpdateNtfRequest vRequest = 1 [json_name = "vRequest"];
+	}
 }
-

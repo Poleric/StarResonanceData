@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_structure_op.proto";
 
-message CommunityUpdateStructureReplyOpt {
-  zproto.EErrorCode err_code = 1;
-  zproto.StructureOp structure_op = 2;
-}
+package zproto;
 
+message CommunityUpdateStructureReplyOpt {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	StructureOp structureOp = 2 [json_name = "structureOp"];
+}

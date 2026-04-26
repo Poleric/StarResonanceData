@@ -1,0 +1,429 @@
+{
+  "1001": {
+    "ButtonID": 1001,
+    "Note": "L1",
+    "KeyNote": "Z",
+    "KeyBoard": 124,
+    "CanChange": []
+  },
+  "1002": {
+    "ButtonID": 1002,
+    "Note": "L1#",
+    "KeyNote": "1",
+    "KeyBoard": 125,
+    "CanChange": []
+  },
+  "1003": {
+    "ButtonID": 1003,
+    "Note": "L2",
+    "KeyNote": "X",
+    "KeyBoard": 126,
+    "CanChange": []
+  },
+  "1004": {
+    "ButtonID": 1004,
+    "Note": "L3b",
+    "KeyNote": "2",
+    "KeyBoard": 127,
+    "CanChange": []
+  },
+  "1005": {
+    "ButtonID": 1005,
+    "Note": "L3",
+    "KeyNote": "C",
+    "KeyBoard": 128,
+    "CanChange": []
+  },
+  "1006": {
+    "ButtonID": 1006,
+    "Note": "L4",
+    "KeyNote": "V",
+    "KeyBoard": 129,
+    "CanChange": []
+  },
+  "1007": {
+    "ButtonID": 1007,
+    "Note": "L4#",
+    "KeyNote": "3",
+    "KeyBoard": 130,
+    "CanChange": []
+  },
+  "1008": {
+    "ButtonID": 1008,
+    "Note": "L5",
+    "KeyNote": "B",
+    "KeyBoard": 131,
+    "CanChange": []
+  },
+  "1009": {
+    "ButtonID": 1009,
+    "Note": "L5#",
+    "KeyNote": "4",
+    "KeyBoard": 132,
+    "CanChange": []
+  },
+  "1010": {
+    "ButtonID": 1010,
+    "Note": "L6",
+    "KeyNote": "N",
+    "KeyBoard": 133,
+    "CanChange": []
+  },
+  "1011": {
+    "ButtonID": 1011,
+    "Note": "L7b",
+    "KeyNote": "5",
+    "KeyBoard": 134,
+    "CanChange": []
+  },
+  "1012": {
+    "ButtonID": 1012,
+    "Note": "L7",
+    "KeyNote": "M",
+    "KeyBoard": 135,
+    "CanChange": []
+  },
+  "1013": {
+    "ButtonID": 1013,
+    "Note": "M1",
+    "KeyNote": "A",
+    "KeyBoard": 136,
+    "CanChange": []
+  },
+  "1014": {
+    "ButtonID": 1014,
+    "Note": "M1#",
+    "KeyNote": "6",
+    "KeyBoard": 137,
+    "CanChange": []
+  },
+  "1015": {
+    "ButtonID": 1015,
+    "Note": "M2",
+    "KeyNote": "S",
+    "KeyBoard": 138,
+    "CanChange": []
+  },
+  "1016": {
+    "ButtonID": 1016,
+    "Note": "M3b",
+    "KeyNote": "7",
+    "KeyBoard": 139,
+    "CanChange": []
+  },
+  "1017": {
+    "ButtonID": 1017,
+    "Note": "M3",
+    "KeyNote": "D",
+    "KeyBoard": 140,
+    "CanChange": []
+  },
+  "1018": {
+    "ButtonID": 1018,
+    "Note": "M4",
+    "KeyNote": "F",
+    "KeyBoard": 141,
+    "CanChange": []
+  },
+  "1019": {
+    "ButtonID": 1019,
+    "Note": "M4#",
+    "KeyNote": "8",
+    "KeyBoard": 142,
+    "CanChange": []
+  },
+  "1020": {
+    "ButtonID": 1020,
+    "Note": "M5",
+    "KeyNote": "G",
+    "KeyBoard": 143,
+    "CanChange": []
+  },
+  "1021": {
+    "ButtonID": 1021,
+    "Note": "M5#",
+    "KeyNote": "9",
+    "KeyBoard": 144,
+    "CanChange": []
+  },
+  "1022": {
+    "ButtonID": 1022,
+    "Note": "M6",
+    "KeyNote": "H",
+    "KeyBoard": 145,
+    "CanChange": []
+  },
+  "1023": {
+    "ButtonID": 1023,
+    "Note": "M7b",
+    "KeyNote": "0",
+    "KeyBoard": 146,
+    "CanChange": []
+  },
+  "1024": {
+    "ButtonID": 1024,
+    "Note": "M7",
+    "KeyNote": "J",
+    "KeyBoard": 147,
+    "CanChange": []
+  },
+  "1025": {
+    "ButtonID": 1025,
+    "Note": "R1",
+    "KeyNote": "Q",
+    "KeyBoard": 148,
+    "CanChange": []
+  },
+  "1026": {
+    "ButtonID": 1026,
+    "Note": "R1#",
+    "KeyNote": "I",
+    "KeyBoard": 149,
+    "CanChange": []
+  },
+  "1027": {
+    "ButtonID": 1027,
+    "Note": "R2",
+    "KeyNote": "W",
+    "KeyBoard": 150,
+    "CanChange": []
+  },
+  "1028": {
+    "ButtonID": 1028,
+    "Note": "R3b",
+    "KeyNote": "O",
+    "KeyBoard": 151,
+    "CanChange": []
+  },
+  "1029": {
+    "ButtonID": 1029,
+    "Note": "R3",
+    "KeyNote": "E",
+    "KeyBoard": 152,
+    "CanChange": []
+  },
+  "1030": {
+    "ButtonID": 1030,
+    "Note": "R4",
+    "KeyNote": "R",
+    "KeyBoard": 153,
+    "CanChange": []
+  },
+  "1031": {
+    "ButtonID": 1031,
+    "Note": "R4#",
+    "KeyNote": "P",
+    "KeyBoard": 154,
+    "CanChange": []
+  },
+  "1032": {
+    "ButtonID": 1032,
+    "Note": "R5",
+    "KeyNote": "T",
+    "KeyBoard": 155,
+    "CanChange": []
+  },
+  "1033": {
+    "ButtonID": 1033,
+    "Note": "R5#",
+    "KeyNote": "[",
+    "KeyBoard": 156,
+    "CanChange": []
+  },
+  "1034": {
+    "ButtonID": 1034,
+    "Note": "R6",
+    "KeyNote": "Y",
+    "KeyBoard": 157,
+    "CanChange": []
+  },
+  "1035": {
+    "ButtonID": 1035,
+    "Note": "R7b",
+    "KeyNote": "]",
+    "KeyBoard": 158,
+    "CanChange": []
+  },
+  "1036": {
+    "ButtonID": 1036,
+    "Note": "R7",
+    "KeyNote": "U",
+    "KeyBoard": 159,
+    "CanChange": []
+  },
+  "1037": {
+    "ButtonID": 1037,
+    "Note": "奏法-不处理",
+    "KeyNote": "F4",
+    "KeyBoard": 160,
+    "CanChange": []
+  },
+  "1038": {
+    "ButtonID": 1038,
+    "Note": "奏法-自然泛音",
+    "KeyNote": "F5",
+    "KeyBoard": 161,
+    "CanChange": []
+  },
+  "1039": {
+    "ButtonID": 1039,
+    "Note": "奏法-长音",
+    "KeyNote": "F6",
+    "KeyBoard": 162,
+    "CanChange": []
+  },
+  "1040": {
+    "ButtonID": 1040,
+    "Note": "奏法-闷音",
+    "KeyNote": "F7",
+    "KeyBoard": 163,
+    "CanChange": []
+  },
+  "1041": {
+    "ButtonID": 1041,
+    "Note": "奏法-装饰滑音",
+    "KeyNote": "F8",
+    "KeyBoard": 164,
+    "CanChange": []
+  },
+  "1042": {
+    "ButtonID": 1042,
+    "Note": "音色-原音",
+    "KeyNote": "F9",
+    "KeyBoard": 165,
+    "CanChange": []
+  },
+  "1043": {
+    "ButtonID": 1043,
+    "Note": "音色-清音",
+    "KeyNote": "F10",
+    "KeyBoard": 166,
+    "CanChange": []
+  },
+  "1044": {
+    "ButtonID": 1044,
+    "Note": "音色-过载",
+    "KeyNote": "F11",
+    "KeyBoard": 167,
+    "CanChange": []
+  },
+  "1045": {
+    "ButtonID": 1045,
+    "Note": "音色-失真",
+    "KeyNote": "F12",
+    "KeyBoard": 168,
+    "CanChange": []
+  },
+  "1046": {
+    "ButtonID": 1046,
+    "Note": "延音踏板",
+    "KeyNote": "SPACE",
+    "KeyBoard": 169,
+    "CanChange": []
+  },
+  "1047": {
+    "ButtonID": 1047,
+    "Note": "左切音域",
+    "KeyNote": "<",
+    "KeyBoard": 170,
+    "CanChange": []
+  },
+  "1048": {
+    "ButtonID": 1048,
+    "Note": "右切音域",
+    "KeyNote": ">",
+    "KeyBoard": 171,
+    "CanChange": []
+  },
+  "1049": {
+    "ButtonID": 1049,
+    "Note": "快捷音域1",
+    "KeyNote": "F1",
+    "KeyBoard": 172,
+    "CanChange": []
+  },
+  "1050": {
+    "ButtonID": 1050,
+    "Note": "快捷音域2",
+    "KeyNote": "F2",
+    "KeyBoard": 173,
+    "CanChange": []
+  },
+  "1051": {
+    "ButtonID": 1051,
+    "Note": "快捷音域3",
+    "KeyNote": "F3",
+    "KeyBoard": 174,
+    "CanChange": []
+  },
+  "1052": {
+    "ButtonID": 1052,
+    "Note": "乐器选择",
+    "KeyNote": "~",
+    "KeyBoard": 175,
+    "CanChange": []
+  },
+  "1053": {
+    "ButtonID": 1053,
+    "Note": "节拍器",
+    "KeyNote": "\\",
+    "KeyBoard": 176,
+    "CanChange": []
+  },
+  "1054": {
+    "ButtonID": 1054,
+    "Note": "设置",
+    "KeyNote": "\"",
+    "KeyBoard": 177,
+    "CanChange": []
+  },
+  "1055": {
+    "ButtonID": 1055,
+    "Note": "队伍",
+    "KeyNote": ";",
+    "KeyBoard": 178,
+    "CanChange": []
+  },
+  "1056": {
+    "ButtonID": 1056,
+    "Note": "退出界面",
+    "KeyNote": "Esc",
+    "KeyBoard": 179,
+    "CanChange": []
+  },
+  "1057": {
+    "ButtonID": 1057,
+    "Note": "聊天",
+    "KeyNote": "/",
+    "KeyBoard": 180,
+    "CanChange": []
+  },
+  "1058": {
+    "ButtonID": 1058,
+    "Note": "高八度",
+    "KeyNote": "左Shift",
+    "KeyBoard": 181,
+    "CanChange": []
+  },
+  "1059": {
+    "ButtonID": 1059,
+    "Note": "低八度",
+    "KeyNote": "左Crtl",
+    "KeyBoard": 182,
+    "CanChange": []
+  },
+  "1060": {
+    "ButtonID": 1060,
+    "Note": "高半音",
+    "KeyNote": "右Shift",
+    "KeyBoard": 183,
+    "CanChange": []
+  },
+  "1061": {
+    "ButtonID": 1061,
+    "Note": "低半音",
+    "KeyNote": "右Crtl",
+    "KeyBoard": 184,
+    "CanChange": []
+  }
+}

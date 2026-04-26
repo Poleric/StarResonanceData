@@ -1,28 +1,26 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_notify_add_private_chat_session_request.proto";
 import "stru_notify_be_muted_request.proto";
 import "stru_notify_clear_chat_history_request.proto";
 import "stru_notify_newest_chit_chat_msgs_request.proto";
 
+package zproto;
+
 message ChitChatNtf {
+	message NotifyNewestChitChatMsgs {
+		NotifyNewestChitChatMsgsRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyNewestChitChatMsgs {
-    zproto.NotifyNewestChitChatMsgsRequest v_request = 1;
-  }
+	message NotifyBeMuted {
+		NotifyBeMutedRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyBeMuted {
-    zproto.NotifyBeMutedRequest v_request = 1;
-  }
+	message NotifyAddPrivateChatSession {
+		NotifyAddPrivateChatSessionRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyAddPrivateChatSession {
-    zproto.NotifyAddPrivateChatSessionRequest v_request = 1;
-  }
-
-  message NotifyClearChatHistory {
-    zproto.NotifyClearChatHistoryRequest v_request = 1;
-  }
+	message NotifyClearChatHistory {
+		NotifyClearChatHistoryRequest vRequest = 1 [json_name = "vRequest"];
+	}
 }
-

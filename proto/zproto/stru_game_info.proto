@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "enum_e_game_play_type.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message GameInfo {
+	EGamePlayType gamePlayType = 1 [json_name = "gamePlayType"];
+	int32 gamePlayId = 2 [json_name = "gamePlayId"];
+	string gameGuid = 3 [json_name = "gameGuid"];
+}

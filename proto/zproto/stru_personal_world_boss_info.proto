@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_common_award_info.proto";
 import "stru_dirty_mask.proto";
 
-message PersonalWorldBossInfo {
-  int32 score = 1;
-  map<int32, zproto.CommonAwardInfo> score_award_info = 2;
-  map<int32, zproto.CommonAwardInfo> boss_award_info = 3;
-  int32 uuid = 4;
-}
+package zproto;
 
+message PersonalWorldBossInfo {
+	int32 score = 1 [json_name = "score"];
+	map<int32, CommonAwardInfo> scoreAwardInfo = 2 [json_name = "scoreAwardInfo"];
+	map<int32, CommonAwardInfo> bossAwardInfo = 3 [json_name = "bossAwardInfo"];
+	int32 uuid = 4 [json_name = "uuid"];
+}

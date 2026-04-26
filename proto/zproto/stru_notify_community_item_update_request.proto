@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_home_land_item_instance.proto";
 
-message NotifyCommunityItemUpdateRequest {
-  map<int64, int64> remove_instances = 1;
-  map<int64, zproto.HomeLandItemInstance> add_instances = 2;
-  map<int64, zproto.HomeLandItemInstance> update_instances = 3;
-}
+package zproto;
 
+message NotifyCommunityItemUpdateRequest {
+	map<int64, int64> removeInstances = 1 [json_name = "removeInstances"];
+	map<int64, HomeLandItemInstance> addInstances = 2 [json_name = "addInstances"];
+	map<int64, HomeLandItemInstance> updateInstances = 3 [json_name = "updateInstances"];
+}

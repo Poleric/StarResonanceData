@@ -1,12 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message QueryChatMuteReply {
-  bool is_ban = 1;
-  int64 end_timestamp = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message QueryChatMuteReply {
+	bool isBan = 1 [json_name = "isBan"];
+	int64 endTimestamp = 2 [json_name = "endTimestamp"];
+	int32 banReason = 3 [json_name = "banReason"];
+	EErrorCode errCode = 4 [json_name = "errCode"];
+}

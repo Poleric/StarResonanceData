@@ -5,7 +5,7 @@
     "SeasonTitle": "Season Entry",
     "PreviewType": 2,
     "ResourceRoute": [],
-    "Content": "Bane Lord has become a source of corruption, eroding every corner of the world with Void Corruption Power!\\n\\n\\nMonsters chosen by Bane Lord awaken as <color=#ffcd97>Void Hosts</color>, gaining three enhanced abilities and evolving over time!\\n\\nDuring battles in Chaotic Realm, the seasonal entry <color=#ffcd97>Void Corruption</color> activates rhythmically like a heartbeat. Every skill cast is a battle against the environment!\\n\\nBeware! Bane Lord may directly tear open the battlefield as a <color=#ffcd97>Dimensional Observer</color>, invading player dimensions in Chaotic Realm! \\nWill the partys facing Bane Lord survive his devastating Void Corruption Power? Let's wait and see!",
+    "Content": "Bane Lord has become a source of corruption, eroding every corner of the world with Void Corruption Power!\\n\\n\\nMonsters chosen by Bane Lord awaken as <color=#ffcd97>Void Hosts</color>, gaining three enhanced abilities and evolving over time!\\n\\nDuring battles in Chaotic Realm, the seasonal entry <color=#ffcd97>Void Corruption</color> activates rhythmically like a heartbeat. Every skill cast is a battle against the environment!\\n\\nBeware! Bane Lord may directly tear open the battlefield as a <color=#ffcd97>Dimensional Observer</color>, invading player dimensions in Chaotic Realm! \\nWill the party facing Bane Lord survive his devastating Void Corruption Power? Let's wait and see!",
     "Sort": 101
   },
   "102": {
@@ -13,7 +13,9 @@
     "SeasonId": 1,
     "SeasonTitle": "Season Title and Emblem",
     "PreviewType": 1,
-    "ResourceRoute": [],
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_01"
+    ],
     "Content": "Increase your Season Title to unlock exclusive Emblems. Enhancing emblems boosts power this season to better face all challenges!",
     "Sort": 102
   },
@@ -22,7 +24,9 @@
     "SeasonId": 1,
     "SeasonTitle": "Void Pass I - Outfits",
     "PreviewType": 1,
-    "ResourceRoute": [],
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_02"
+    ],
     "Content": "A maid outfit infused with technology, suitable for combat and stylish enough to show off futuristic fashion. Claimable after you purchase the Void Pass I and raise it to Level 30.",
     "Sort": 103
   },
@@ -31,7 +35,9 @@
     "SeasonId": 1,
     "SeasonTitle": "Limited Title Outfit",
     "PreviewType": 1,
-    "ResourceRoute": [],
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_05"
+    ],
     "Content": "Alloy Armor with detachable gauntlets and greaves. Cold metal surfaces shimmer with golden energy circuits. Curves redesigned with bionic spine mechanics for precise joint fit. A perfect fusion of mechanical aesthetics and ergonomics.",
     "Sort": 105
   },
@@ -40,26 +46,112 @@
     "SeasonId": 1,
     "SeasonTitle": "Void Pass II - Outfits",
     "PreviewType": 1,
-    "ResourceRoute": [],
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_06"
+    ],
     "Content": "In the stillness of the night, they walk the edge between light and shadow. Every movement, breath, and emotion is swallowed by the darkness, only to deliver fate's verdict in silence. Claimable after you purchase the Void Pass II and raise it to Level 30.",
     "Sort": 104
   },
   "201": {
     "Id": 201,
     "SeasonId": 2,
-    "SeasonTitle": "Season Entry S2",
+    "SeasonTitle": "Seasonal Theme",
     "PreviewType": 2,
-    "ResourceRoute": [],
-    "Content": "Comming soon...",
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_12",
+      "ui/textures/large_ui/season_window/season_main_window_13"
+    ],
+    "Content": "Adventurers who enter the Drowning Dreamlands will experience hallucinations, seeing monsters that exist only in their minds.\\n\\n\\nDrifting Cocoons can be found in the wild. Touch one to enter the Drowning Dreamlands.\\n\\nIn the Drowning Dreamlands, your Hallucination Value steadily grows. When it reaches maximum, you will be forced out of the Drowning Dreamlands.\\n\\nAfter the Hallucination Value reaches maximum, you enter the Lost state. During its duration, you cannot re-enter the Drowning Dreamlands.\\n\\nDifferent Drowning Dreamlands induce hallucinations at different intensities. The higher the adventurer's Deep-Slumber Psychoscope Level, the slower the Hallucination Value increases.",
     "Sort": 201
   },
   "202": {
     "Id": 202,
     "SeasonId": 2,
-    "SeasonTitle": "Season Title and Emblem S2",
-    "PreviewType": 1,
-    "ResourceRoute": [],
-    "Content": "Comming soon...",
+    "SeasonTitle": "Season Affix",
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_10",
+      "ui/textures/large_ui/season_window/season_main_window_11"
+    ],
+    "Content": "The Drowning Dreamlands have invaded the Chaotic Realm. Their immense power plunges adventurers into a Dreamflood, subjecting them to harsher challenges.\\n\\nAfter interacting with a spatial investigation device, Dreamflood Value will slowly increase over time.\\nDefeating monsters also builds Dreamflood Value. The stronger the monster, the more it adds.\\n\\nWhen Dreamflood Value reaches maximum, a Dreamflood Manifestation will appear. This is a powerful creature, and defeating it grants significant combat buffs.\\n\\nDreamflood Manifestations come in 4 different forms, each testing the adventurer's abilities in different ways. Manage your Dreamflood Value in real time to avoid prolonged battles.\\n\\nBeware! The mischievous Nappo may sneak into the adventurer's plane, causing all kinds of trouble! \\nCan you stay calm when faced with sudden \"scares\"? Let's wait and see!",
     "Sort": 202
+  },
+  "203": {
+    "Id": 203,
+    "SeasonId": 2,
+    "SeasonTitle": "Season Title and Deep-Slumber Psychoscope",
+    "PreviewType": 1,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_14"
+    ],
+    "Content": "Take on the new season's achievements, raise your season Title, and prove your strength for all to see! \\nNew seasonal system: Deep‑Slumber Psychoscope with flexible and diverse build options.",
+    "Sort": 203
+  },
+  "204": {
+    "Id": 204,
+    "SeasonId": 2,
+    "SeasonTitle": "Battle Pass: Part I Costume",
+    "PreviewType": 1,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_08"
+    ],
+    "Content": "Purchase the Dream Pass I and reach Lv.30 to obtain the limited-edition Love & Remembrance set.",
+    "Sort": 204
+  },
+  "205": {
+    "Id": 205,
+    "SeasonId": 2,
+    "SeasonTitle": "Season-Exclusive Title Costume",
+    "PreviewType": 1,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_09"
+    ],
+    "Content": "Participate in seasonal Features and reach the title rank \"Visionary Guest I\" to obtain the limited-edition White Night Combatwear set!",
+    "Sort": 207
+  },
+  "206": {
+    "Id": 206,
+    "SeasonId": 2,
+    "SeasonTitle": "Season Pass II - Outfits",
+    "PreviewType": 1,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_15"
+    ],
+    "Content": "Purchase the Dream Pass II and reach Lv.30 to obtain the limited-edition Nocturnal Romance set.",
+    "Sort": 205
+  },
+  "207": {
+    "Id": 207,
+    "SeasonId": 2,
+    "SeasonTitle": "Dream Pass III Outfit",
+    "PreviewType": 1,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_16"
+    ],
+    "Content": "Purchase the Dream Pass III and reach Lv.30 to obtain the limited-edition Dreams & Illusions set.",
+    "Sort": 206
+  },
+  "301": {
+    "Id": 301,
+    "SeasonId": 3,
+    "SeasonTitle": "Season Affix S3",
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_03",
+      "ui/textures/large_ui/season_window/season_main_window_04"
+    ],
+    "Content": "",
+    "Sort": 301
+  },
+  "302": {
+    "Id": 302,
+    "SeasonId": 3,
+    "SeasonTitle": "Season Title and Emblem S3",
+    "PreviewType": 1,
+    "ResourceRoute": [
+      "ui/textures/large_ui/season_window/season_main_window_01"
+    ],
+    "Content": "",
+    "Sort": 302
   }
 }

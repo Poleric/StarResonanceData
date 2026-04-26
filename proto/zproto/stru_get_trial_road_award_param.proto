@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message GetTrialRoadAwardParam {
-  int32 target_id = 1;
+	int32 targetId = 1 [json_name = "targetId"];
 }
-

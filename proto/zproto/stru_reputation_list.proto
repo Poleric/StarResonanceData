@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_reputation_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ReputationList {
+	map<uint32, ReputationInfo> reputationMap = 1 [json_name = "reputationMap"];
+}

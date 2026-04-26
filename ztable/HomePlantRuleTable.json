@@ -1,7 +1,7 @@
 {
   "1": {
     "Id": 1,
-    "Name": "郁金香",
+    "Name": "Tulip",
     "GrowthModel": 5991,
     "HybridizationModel": 5992,
     "MatureModel": 5995,
@@ -38,7 +38,7 @@
   },
   "2": {
     "Id": 2,
-    "Name": "玫瑰",
+    "Name": "Rose",
     "GrowthModel": 5991,
     "HybridizationModel": 5993,
     "MatureModel": 5996,
@@ -82,7 +82,7 @@
   },
   "3": {
     "Id": 3,
-    "Name": "绣球",
+    "Name": "Hydrangea",
     "GrowthModel": 5991,
     "HybridizationModel": 5994,
     "MatureModel": 5997,

@@ -1,29 +1,31 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_device_info.proto";
 import "stru_launch_param.proto";
 
-message LoginRequest {
-  string open_id = 2;
-  string token = 3;
-  int32 sdk_type = 4;
-  int32 channel_id = 5;
-  int32 os = 6;
-  int32 platform_type = 7;
-  zproto.DeviceInfo device_info = 8;
-  string client_version = 9;
-  string protocol_version = 10;
-  string config_version = 11;
-  int32 area_id = 12;
-  string i_os_ad_service_token = 13;
-  string pay_ext_data = 14;
-  string client_resource_version = 15;
-  zproto.LaunchParam launch_param = 18;
-  string area_id_token = 19;
-  bool is_cloud_game = 20;
-  string distinct_id = 21;
-  repeated string bound_providers = 22;
-}
+package zproto;
 
+message LoginRequest {
+	string openId = 2 [json_name = "openId"];
+	string token = 3 [json_name = "token"];
+	int32 sdkType = 4 [json_name = "sdkType"];
+	int32 channelId = 5 [json_name = "channelId"];
+	int32 os = 6 [json_name = "os"];
+	int32 platformType = 7 [json_name = "platformType"];
+	DeviceInfo deviceInfo = 8 [json_name = "deviceInfo"];
+	string clientVersion = 9 [json_name = "clientVersion"];
+	string protocolVersion = 10 [json_name = "protocolVersion"];
+	string configVersion = 11 [json_name = "configVersion"];
+	int32 areaId = 12 [json_name = "areaId"];
+	string iOSAdServiceToken = 13 [json_name = "iOSAdServiceToken"];
+	string payExtData = 14 [json_name = "payExtData"];
+	string clientResourceVersion = 15 [json_name = "clientResourceVersion"];
+	LaunchParam launchParam = 18 [json_name = "launchParam"];
+	string areaIdToken = 19 [json_name = "areaIdToken"];
+	bool isCloudGame = 20 [json_name = "isCloudGame"];
+	string distinctID = 21 [json_name = "distinctID"];
+	repeated string boundProviders = 22 [json_name = "boundProviders"];
+	int32 language = 23 [json_name = "language"];
+	string gclid = 24 [json_name = "gclid"];
+	bool unsafeContainerSyncMode = 25 [json_name = "unsafeContainerSyncMode"];
+}

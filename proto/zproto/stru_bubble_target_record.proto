@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message BubbleTargetRecord {
+	uint32 finishCount = 1 [json_name = "finishCount"];
+	uint64 lastFinishTime = 2 [json_name = "lastFinishTime"];
+}

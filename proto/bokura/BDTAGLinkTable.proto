@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message BDTAGLinkTableBase {
-  int32 id = 1463;
-  string note = 453;
-  int32 note_type = 256;
-  int32 find_type = 830;
-  string find_body = 1554;
-  string_table find_conditions = 1892;
-  string target_para = 1655;
-  int32 skill_level_type = 1660;
-  int32 target_node_type = 1957;
+	int32 Id = 1463 [json_name = "Id"];
+	string Note = 453 [json_name = "Note"];
+	int32 NoteType = 256 [json_name = "NoteType"];
+	int32 FindType = 830 [json_name = "FindType"];
+	string FindBody = 1554 [json_name = "FindBody"];
+	string_table FindConditions = 1892 [json_name = "FindConditions"];
+	string TargetPara = 1655 [json_name = "TargetPara"];
+	int32 SkillLevelType = 1660 [json_name = "SkillLevelType"];
+	int32 TargetNodeType = 1957 [json_name = "TargetNodeType"];
 }
 
 message BDTAGLinkTableMgr {
-  map<int32, bokura.BDTAGLinkTableBase> datas = 1;
+	map<int32, BDTAGLinkTableBase> datas = 1 [json_name = "datas"];
 }
-

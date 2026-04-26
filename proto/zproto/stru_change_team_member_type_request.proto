@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_team_member_type.proto";
 
-message ChangeTeamMemberTypeRequest {
-  zproto.ETeamMemberType team_member_type = 1;
-  int32 target_id = 2;
-}
+package zproto;
 
+message ChangeTeamMemberTypeRequest {
+	ETeamMemberType teamMemberType = 1 [json_name = "teamMemberType"];
+	int32 targetId = 2 [json_name = "targetId"];
+}

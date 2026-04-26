@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message Vec4 {
-  float x = 1;
-  float y = 2;
-  float z = 3;
-  float w = 4;
+	float x = 1 [json_name = "x"];
+	float y = 2 [json_name = "y"];
+	float z = 3 [json_name = "z"];
+	float w = 4 [json_name = "w"];
 }
-

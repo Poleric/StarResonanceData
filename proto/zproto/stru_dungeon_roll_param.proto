@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message DungeonRollParam {
-  int32 index = 1;
-  bool give_up = 2;
+	int32 index = 1 [json_name = "index"];
+	bool giveUp = 2 [json_name = "giveUp"];
 }
-

@@ -2,7 +2,7 @@
   "1": {
     "Id": 1,
     "FunctionId": 500151,
-    "SeasonId": 1,
+    "SeasonId": 2,
     "Type": 1,
     "Sort": 1,
     "Name": "Guild Hunt",
@@ -51,7 +51,7 @@
   "2": {
     "Id": 2,
     "FunctionId": 900200,
-    "SeasonId": 1,
+    "SeasonId": 2,
     "Type": 2,
     "Sort": 2,
     "Name": "Guild Dance",

@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message IntVec3Db {
-  int32 x = 1;
-  int32 y = 2;
-  int32 z = 3;
+	int32 x = 1 [json_name = "x"];
+	int32 y = 2 [json_name = "y"];
+	int32 z = 3 [json_name = "z"];
 }
-

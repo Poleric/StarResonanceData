@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "enum_e_world_act_state.proto";
+import "stru_world_act_time_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message WorldActFlowInfo {
+	EWorldActState state = 1 [json_name = "state"];
+	WorldActTimeInfo timeInfo = 2 [json_name = "timeInfo"];
+}

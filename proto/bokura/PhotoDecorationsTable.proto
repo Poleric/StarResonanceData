@@ -3,13 +3,12 @@ syntax = "proto3";
 package bokura;
 
 message PhotoDecorationsTableBase {
-  int32 id = 1463;
-  int32 type = 673;
-  int32 sequence = 831;
-  string res = 1275;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Type = 673 [json_name = "Type"];
+	int32 Sequence = 831 [json_name = "Sequence"];
+	string Res = 1275 [json_name = "Res"];
 }
 
 message PhotoDecorationsTableMgr {
-  map<int32, bokura.PhotoDecorationsTableBase> datas = 1;
+	map<int32, PhotoDecorationsTableBase> datas = 1 [json_name = "datas"];
 }
-

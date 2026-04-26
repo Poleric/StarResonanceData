@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_union_crowd_fund.proto";
 
-message JoinUnionGrowFuncReply {
-  zproto.UnionCrowdFund crowd_fund = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message JoinUnionGrowFuncReply {
+	UnionCrowdFund crowdFund = 1 [json_name = "crowdFund"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

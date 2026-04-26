@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_equip_attr_set.proto";
 import "stru_dirty_mask.proto";
 
-message EquipAttr {
-  map<uint32, uint32> base_attrs = 4;
-  int32 perfection_value = 7;
-  int32 recast_count = 8;
-  int32 total_recast_count = 9;
-  map<int32, int32> basic_attr = 10;
-  map<int32, int32> advance_attr = 11;
-  map<int32, int32> recast_attr = 12;
-  int32 perfection_level = 13;
-  map<int32, int32> rare_quality_attr = 14;
-  int32 max_perfection_value = 15;
-  zproto.EquipAttrSet equip_attr_set = 17;
-  int32 break_through_time = 18;
-}
+package zproto;
 
+message EquipAttr {
+	map<uint32, uint32> baseAttrs = 4 [json_name = "baseAttrs"];
+	int32 perfectionValue = 7 [json_name = "perfectionValue"];
+	int32 recastCount = 8 [json_name = "recastCount"];
+	int32 totalRecastCount = 9 [json_name = "totalRecastCount"];
+	map<int32, int32> basicAttr = 10 [json_name = "basicAttr"];
+	map<int32, int32> advanceAttr = 11 [json_name = "advanceAttr"];
+	map<int32, int32> recastAttr = 12 [json_name = "recastAttr"];
+	int32 perfectionLevel = 13 [json_name = "perfectionLevel"];
+	map<int32, int32> rareQualityAttr = 14 [json_name = "rareQualityAttr"];
+	int32 maxPerfectionValue = 15 [json_name = "maxPerfectionValue"];
+	EquipAttrSet equipAttrSet = 17 [json_name = "equipAttrSet"];
+	int32 breakThroughTime = 18 [json_name = "breakThroughTime"];
+}

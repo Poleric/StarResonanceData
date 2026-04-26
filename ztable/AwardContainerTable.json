@@ -253,7 +253,7 @@
     "CountGrow": [],
     "AttrMapping": [],
     "LowerLimit": 0,
-    "UpperLimit": 100,
+    "UpperLimit": 11000,
     "InitialValue": 0,
     "RefreshTime": 0
   },
@@ -264,8 +264,8 @@
     "ParaTwo": [],
     "CountGrow": [],
     "AttrMapping": [],
-    "LowerLimit": 0,
-    "UpperLimit": 10000,
+    "LowerLimit": -250,
+    "UpperLimit": 23000,
     "InitialValue": 0,
     "RefreshTime": 0
   },
@@ -276,8 +276,8 @@
     "ParaTwo": [],
     "CountGrow": [],
     "AttrMapping": [],
-    "LowerLimit": 0,
-    "UpperLimit": 100,
+    "LowerLimit": -50,
+    "UpperLimit": 10000,
     "InitialValue": 0,
     "RefreshTime": 0
   },
@@ -289,7 +289,7 @@
     "CountGrow": [],
     "AttrMapping": [],
     "LowerLimit": 0,
-    "UpperLimit": 100,
+    "UpperLimit": 11000,
     "InitialValue": 0,
     "RefreshTime": 0
   },
@@ -1158,6 +1158,30 @@
     "InitialValue": 0,
     "RefreshTime": 0
   },
+  "2008": {
+    "Id": 2008,
+    "EventType": 0,
+    "ParaOne": [],
+    "ParaTwo": [],
+    "CountGrow": [],
+    "AttrMapping": [],
+    "LowerLimit": 0,
+    "UpperLimit": 100,
+    "InitialValue": 0,
+    "RefreshTime": 0
+  },
+  "2009": {
+    "Id": 2009,
+    "EventType": 0,
+    "ParaOne": [],
+    "ParaTwo": [],
+    "CountGrow": [],
+    "AttrMapping": [],
+    "LowerLimit": -10000,
+    "UpperLimit": 10000,
+    "InitialValue": 0,
+    "RefreshTime": 0
+  },
   "3001": {
     "Id": 3001,
     "EventType": 2,
@@ -1180,12 +1204,12 @@
       ],
       [
         101,
-        148,
+        298,
         20000
       ],
       [
-        149,
-        149,
+        299,
+        299,
         190000
       ]
     ],
@@ -1195,15 +1219,229 @@
     "InitialValue": 0,
     "RefreshTime": 0
   },
-  "2008": {
-    "Id": 2008,
+  "3002": {
+    "Id": 3002,
+    "EventType": 2,
+    "ParaOne": [
+      70030410
+    ],
+    "ParaTwo": [
+      1
+    ],
+    "CountGrow": [
+      [
+        1,
+        6,
+        0
+      ],
+      [
+        7,
+        9,
+        30000
+      ],
+      [
+        10,
+        999,
+        90000
+      ]
+    ],
+    "AttrMapping": [],
+    "LowerLimit": 0,
+    "UpperLimit": 190000,
+    "InitialValue": 0,
+    "RefreshTime": 0
+  },
+  "3003": {
+    "Id": 3003,
+    "EventType": 2,
+    "ParaOne": [
+      70030420
+    ],
+    "ParaTwo": [
+      1
+    ],
+    "CountGrow": [
+      [
+        1,
+        5,
+        0
+      ],
+      [
+        6,
+        9,
+        30000
+      ],
+      [
+        10,
+        999,
+        90000
+      ]
+    ],
+    "AttrMapping": [],
+    "LowerLimit": 0,
+    "UpperLimit": 190000,
+    "InitialValue": 0,
+    "RefreshTime": 0
+  },
+  "3004": {
+    "Id": 3004,
+    "EventType": 2,
+    "ParaOne": [
+      70030420
+    ],
+    "ParaTwo": [
+      1
+    ],
+    "CountGrow": [
+      [
+        1,
+        12,
+        0
+      ],
+      [
+        13,
+        19,
+        80000
+      ],
+      [
+        20,
+        999,
+        320000
+      ]
+    ],
+    "AttrMapping": [],
+    "LowerLimit": 0,
+    "UpperLimit": 190000,
+    "InitialValue": 0,
+    "RefreshTime": 0
+  },
+  "3005": {
+    "Id": 3005,
+    "EventType": 2,
+    "ParaOne": [
+      70030420
+    ],
+    "ParaTwo": [
+      1
+    ],
+    "CountGrow": [
+      [
+        1,
+        30,
+        0
+      ],
+      [
+        31,
+        39,
+        120000
+      ],
+      [
+        40,
+        999,
+        660000
+      ]
+    ],
+    "AttrMapping": [],
+    "LowerLimit": 0,
+    "UpperLimit": 190000,
+    "InitialValue": 0,
+    "RefreshTime": 0
+  },
+  "3006": {
+    "Id": 3006,
+    "EventType": 2,
+    "ParaOne": [
+      70030430
+    ],
+    "ParaTwo": [
+      1
+    ],
+    "CountGrow": [
+      [
+        1,
+        4,
+        0
+      ],
+      [
+        5,
+        99,
+        40000
+      ]
+    ],
+    "AttrMapping": [],
+    "LowerLimit": 0,
+    "UpperLimit": 190000,
+    "InitialValue": 0,
+    "RefreshTime": 0
+  },
+  "3007": {
+    "Id": 3007,
+    "EventType": 2,
+    "ParaOne": [
+      70030430
+    ],
+    "ParaTwo": [
+      1
+    ],
+    "CountGrow": [
+      [
+        1,
+        9,
+        0
+      ],
+      [
+        10,
+        999,
+        90000
+      ]
+    ],
+    "AttrMapping": [],
+    "LowerLimit": 0,
+    "UpperLimit": 190000,
+    "InitialValue": 0,
+    "RefreshTime": 0
+  },
+  "3008": {
+    "Id": 3008,
+    "EventType": 2,
+    "ParaOne": [
+      70030440
+    ],
+    "ParaTwo": [
+      1
+    ],
+    "CountGrow": [
+      [
+        1,
+        30,
+        0
+      ],
+      [
+        31,
+        39,
+        50000
+      ],
+      [
+        40,
+        999,
+        500000
+      ]
+    ],
+    "AttrMapping": [],
+    "LowerLimit": 0,
+    "UpperLimit": 190000,
+    "InitialValue": 0,
+    "RefreshTime": 0
+  },
+  "3009": {
+    "Id": 3009,
     "EventType": 0,
     "ParaOne": [],
     "ParaTwo": [],
     "CountGrow": [],
     "AttrMapping": [],
     "LowerLimit": 0,
-    "UpperLimit": 100,
+    "UpperLimit": 190000,
     "InitialValue": 0,
     "RefreshTime": 0
   }

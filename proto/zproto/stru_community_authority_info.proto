@@ -1,8 +1,10 @@
 syntax = "proto3";
 
+import "stru_community_single_authority_info.proto";
+
 package zproto;
 
 message CommunityAuthorityInfo {
-  map<int32, bool> authority = 1;
+	map<int32, bool> authority = 1 [json_name = "authority"];
+	map<int32, CommunitySingleAuthorityInfo> authorityData = 2 [json_name = "authorityData"];
 }
-

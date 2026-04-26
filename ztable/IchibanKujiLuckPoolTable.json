@@ -1,0 +1,107 @@
+{
+  "1001001": {
+    "Id": 1001001,
+    "PoolId": 1001,
+    "DrawTime": [],
+    "LuckEvent": [
+      1,
+      0
+    ],
+    "Weight": 500
+  },
+  "1001002": {
+    "Id": 1001002,
+    "PoolId": 1001,
+    "DrawTime": [],
+    "LuckEvent": [
+      2,
+      3
+    ],
+    "Weight": 800
+  },
+  "1001003": {
+    "Id": 1001003,
+    "PoolId": 1001,
+    "DrawTime": [],
+    "LuckEvent": [
+      3,
+      1,
+      10000
+    ],
+    "Weight": 1000
+  },
+  "1001004": {
+    "Id": 1001004,
+    "PoolId": 1001,
+    "DrawTime": [],
+    "LuckEvent": [
+      4,
+      4,
+      5,
+      6
+    ],
+    "Weight": 200
+  },
+  "1001005": {
+    "Id": 1001005,
+    "PoolId": 1001,
+    "DrawTime": [],
+    "LuckEvent": [
+      999,
+      0
+    ],
+    "Weight": 7500
+  },
+  "1002001": {
+    "Id": 1002001,
+    "PoolId": 1002,
+    "DrawTime": [],
+    "LuckEvent": [
+      1,
+      0
+    ],
+    "Weight": 500
+  },
+  "1002002": {
+    "Id": 1002002,
+    "PoolId": 1002,
+    "DrawTime": [],
+    "LuckEvent": [
+      2,
+      3
+    ],
+    "Weight": 800
+  },
+  "1002003": {
+    "Id": 1002003,
+    "PoolId": 1002,
+    "DrawTime": [],
+    "LuckEvent": [
+      3,
+      1,
+      10000
+    ],
+    "Weight": 1000
+  },
+  "1002004": {
+    "Id": 1002004,
+    "PoolId": 1002,
+    "DrawTime": [],
+    "LuckEvent": [
+      4,
+      5,
+      6
+    ],
+    "Weight": 200
+  },
+  "1002005": {
+    "Id": 1002005,
+    "PoolId": 1002,
+    "DrawTime": [],
+    "LuckEvent": [
+      999,
+      0
+    ],
+    "Weight": 7500
+  }
+}

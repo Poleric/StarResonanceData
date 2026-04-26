@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_delay_hit_target_info.proto";
 
-message DelayHitInfo {
-  int32 effect_id = 1;
-  int32 buff_uuid = 2;
-  int32 event_id = 3;
-  float play_time = 4;
-  repeated zproto.DelayHitTargetInfo target_infos = 5;
-}
+package zproto;
 
+message DelayHitInfo {
+	int32 effectId = 1 [json_name = "effectId"];
+	int32 buffUuid = 2 [json_name = "buffUuid"];
+	int32 eventId = 3 [json_name = "eventId"];
+	float playTime = 4 [json_name = "playTime"];
+	repeated DelayHitTargetInfo targetInfos = 5 [json_name = "targetInfos"];
+}

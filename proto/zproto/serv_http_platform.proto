@@ -1,18 +1,16 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_text_check_reply.proto";
 import "stru_text_check_request.proto";
 
+package zproto;
+
 message HttpPlatform {
+	message TextCheck_Ret {
+		TextCheckReply ret = 1 [json_name = "ret"];
+	}
 
-  message TextCheck_Ret {
-    zproto.TextCheckReply ret = 1;
-  }
-
-  message TextCheck {
-    zproto.TextCheckRequest v_request = 1;
-  }
+	message TextCheck {
+		TextCheckRequest vRequest = 1 [json_name = "vRequest"];
+	}
 }
-

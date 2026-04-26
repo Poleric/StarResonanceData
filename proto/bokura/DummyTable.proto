@@ -1,27 +1,26 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message DummyTableBase {
-  int32 id = 1463;
-  string name = 439;
-  int32 skill_id = 1087;
-  float walk_speed = 601;
-  float run_speed = 82;
-  int_array skill_ids = 1496;
-  int32 ai_table_reference = 995;
-  bool is_initiative = 235;
-  bool is_flying = 1877;
-  string birth_effect = 1264;
-  string dead_effect = 346;
-  string birth_audio = 594;
-  string dead_audio = 535;
-  int_array tags = 232;
+	int32 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	int32 SkillId = 1087 [json_name = "SkillId"];
+	float WalkSpeed = 601 [json_name = "WalkSpeed"];
+	float RunSpeed = 82 [json_name = "RunSpeed"];
+	int_array SkillIds = 1496 [json_name = "SkillIds"];
+	int32 AITableReference = 995 [json_name = "AITableReference"];
+	bool IsInitiative = 235 [json_name = "IsInitiative"];
+	bool IsFlying = 1877 [json_name = "IsFlying"];
+	string BirthEffect = 1264 [json_name = "BirthEffect"];
+	string DeadEffect = 346 [json_name = "DeadEffect"];
+	string BirthAudio = 594 [json_name = "BirthAudio"];
+	string DeadAudio = 535 [json_name = "DeadAudio"];
+	int_array Tags = 232 [json_name = "Tags"];
 }
 
 message DummyTableMgr {
-  map<int32, bokura.DummyTableBase> datas = 1;
+	map<int32, DummyTableBase> datas = 1 [json_name = "datas"];
 }
-

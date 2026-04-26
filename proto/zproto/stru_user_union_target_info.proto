@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message UserUnionTargetInfo {
+	int32 targetId = 1 [json_name = "targetId"];
+	int32 targetNum = 2 [json_name = "targetNum"];
+	int64 refreshTime = 3 [json_name = "refreshTime"];
+}

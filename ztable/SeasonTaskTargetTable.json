@@ -98,7 +98,7 @@
     "Param": [
       8
     ],
-    "Describe": "Complete \"Unstable Space\" challenge {*val*} time"
+    "Describe": "Clear Unstable Space {*val*} time(s)"
   },
   "1010": {
     "Id": 1010,
@@ -131,7 +131,13 @@
       10069,
       10086,
       10077,
-      10029
+      10029,
+      11007,
+      11014,
+      10118,
+      10119,
+      10041,
+      11023
     ],
     "Describe": "Defeat {*val*} Boss"
   },
@@ -163,7 +169,7 @@
     "Param": [
       3
     ],
-    "Describe": "Take a photo in selfie mode once"
+    "Describe": "Take a photo in selfie mode 1 time"
   },
   "1015": {
     "Id": 1015,
@@ -171,7 +177,7 @@
     "Num": 1,
     "SceneId": 0,
     "Param": [],
-    "Describe": "Complete the setup of the quick wheel once"
+    "Describe": "Complete the setup of the quick wheel 1 time"
   },
   "1016": {
     "Id": 1016,
@@ -211,7 +217,8 @@
       2013,
       2014,
       2015,
-      2016
+      2016,
+      2017
     ],
     "Describe": "Complete {*val*} objectives on this page"
   },
@@ -242,7 +249,7 @@
     "Param": [
       1010102001
     ],
-    "Describe": "Obtain Season Title \"Apprentice Investigator II\""
+    "Describe": "Obtain Season Title \"Novice Ranger II\""
   },
   "2006": {
     "Id": 2006,
@@ -326,7 +333,13 @@
       10069,
       10086,
       10077,
-      10029
+      10029,
+      11007,
+      11014,
+      10118,
+      10119,
+      10041,
+      11023
     ],
     "Describe": "Defeat {*val*} Boss(es)"
   },
@@ -349,7 +362,7 @@
     "Param": [
       2
     ],
-    "Describe": "Participate in a multiplayer photo session once"
+    "Describe": "Participate in a multiplayer photo session 1 time"
   },
   "2015": {
     "Id": 2015,
@@ -369,6 +382,16 @@
     "SceneId": 0,
     "Param": [],
     "Describe": "Purchase {*val*} items in the Season Store"
+  },
+  "2017": {
+    "Id": 2017,
+    "TargetType": 53,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      1020102001
+    ],
+    "Describe": "Reach the Season Title \"Dreamer II\""
   },
   "3001": {
     "Id": 3001,
@@ -433,7 +456,7 @@
       3,
       10
     ],
-    "Describe": "Equip 2 Epic gears with a perfection level of 10"
+    "Describe": "Equip 2 pieces of Epic gear with 10 Perfection"
   },
   "3006": {
     "Id": 3006,
@@ -471,7 +494,7 @@
     "Param": [
       8
     ],
-    "Describe": "Clear the \"Unstable Space\" {*val*} times"
+    "Describe": "Clear Unstable Space {*val*} times in total"
   },
   "3010": {
     "Id": 3010,
@@ -497,7 +520,13 @@
       1331,
       6007,
       6021,
-      6043
+      6043,
+      1421,
+      1531,
+      6121,
+      6221,
+      6331,
+      6421
     ],
     "Describe": "Clear the normal mode of any \"Chaotic Realm\" 1 time."
   },
@@ -517,7 +546,7 @@
     "Num": 1,
     "SceneId": 0,
     "Param": [],
-    "Describe": "Complete {*val*} Guild Cargos"
+    "Describe": "Complete {*val*} Guild Cargo"
   },
   "3014": {
     "Id": 3014,
@@ -590,7 +619,7 @@
     "Num": 5,
     "SceneId": 0,
     "Param": [],
-    "Describe": "Refine gear {*val*} times"
+    "Describe": "Refine gear {*val*} time(s)"
   },
   "4006": {
     "Id": 4006,
@@ -624,7 +653,13 @@
       1222,
       6008,
       6022,
-      6044
+      6044,
+      1422,
+      1532,
+      6122,
+      6222,
+      6332,
+      6422
     ],
     "Describe": "Clear \"Chaotic Realm\" on Hard Mode 1 time."
   },
@@ -664,7 +699,16 @@
       10008,
       10034,
       10076,
-      10052
+      10052,
+      11005,
+      11012,
+      11013,
+      10116,
+      10117,
+      10110,
+      10111,
+      10044,
+      11022
     ],
     "Describe": "Defeat {*val*} elite monsters"
   },
@@ -686,7 +730,7 @@
     "Param": [
       13
     ],
-    "Describe": "Clear difficulty of the Guild's hunting event once"
+    "Describe": "Clear difficulty of the Guild's hunting event 1 time"
   },
   "4013": {
     "Id": 4013,
@@ -745,7 +789,8 @@
       5013,
       5014,
       5015,
-      5016
+      5016,
+      5017
     ],
     "Describe": "Complete {*val*} objectives on this page"
   },
@@ -842,7 +887,13 @@
       1331,
       6007,
       6021,
-      6043
+      6043,
+      1421,
+      1531,
+      6121,
+      6221,
+      6331,
+      6421
     ],
     "Describe": "Clear \"Chaotic Realm\" on Normal Mode {*val*} times"
   },
@@ -873,7 +924,13 @@
       10069,
       10086,
       10077,
-      10029
+      10029,
+      11007,
+      11014,
+      10118,
+      10119,
+      10041,
+      11023
     ],
     "Describe": "Defeat {*val*} Bosses"
   },
@@ -907,6 +964,16 @@
       3
     ],
     "Describe": "Purchase {*val*} item(s) from the Friendship Store"
+  },
+  "5017": {
+    "Id": 5017,
+    "TargetType": 53,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      1020103001
+    ],
+    "Describe": "Reach the Season Title \"Dreamer III\""
   },
   "6001": {
     "Id": 6001,
@@ -958,7 +1025,7 @@
       3,
       10
     ],
-    "Describe": "Equip 6 Epic pieces of gears with a perfection level of 10"
+    "Describe": "Equip 6 pieces of Epic gear with 10 Perfection"
   },
   "6005": {
     "Id": 6005,
@@ -983,7 +1050,13 @@
       1331,
       6007,
       6021,
-      6043
+      6043,
+      1421,
+      1531,
+      6121,
+      6221,
+      6331,
+      6421
     ],
     "Describe": "Clear \"Chaotic Realm\" on Normal Mode {*val*} times"
   },
@@ -1029,7 +1102,16 @@
       10008,
       10034,
       10076,
-      10052
+      10052,
+      11005,
+      11012,
+      11013,
+      10116,
+      10117,
+      10110,
+      10111,
+      10044,
+      11022
     ],
     "Describe": "Defeat {*val*} elite monsters"
   },
@@ -1183,7 +1265,10 @@
       6011,
       6012,
       6013,
-      6014
+      6014,
+      2017,
+      5017,
+      7016
     ],
     "Describe": "Complete the {*val*} objectives of this manual"
   },
@@ -1217,7 +1302,7 @@
     "Param": [
       1010201001
     ],
-    "Describe": "Achieve the season title \"Novice Tracker I\""
+    "Describe": "Achieve the season title \"Rookie Tracker I\""
   },
   "7006": {
     "Id": 7006,
@@ -1279,7 +1364,13 @@
       1222,
       6008,
       6022,
-      6044
+      6044,
+      1422,
+      1532,
+      6122,
+      6222,
+      6332,
+      6422
     ],
     "Describe": "Clear \"Chaotic Realm\" on Hard Mode {*val*} times"
   },
@@ -1303,7 +1394,7 @@
     "Param": [
       20
     ],
-    "Describe": "Clear Stimen Vaults Lv.20"
+    "Describe": "Clear Stimen Vaults Floor 20"
   },
   "7014": {
     "Id": 7014,
@@ -1324,7 +1415,13 @@
       10069,
       10086,
       10077,
-      10029
+      10029,
+      11007,
+      11014,
+      10118,
+      10119,
+      10041,
+      11023
     ],
     "Describe": "Defeat {*val*} Bosses"
   },
@@ -1337,5 +1434,15 @@
       3
     ],
     "Describe": "Monster Hunt manual reaches Lv.3"
+  },
+  "7016": {
+    "Id": 7016,
+    "TargetType": 53,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      1020201001
+    ],
+    "Describe": "Reach the Season Title \"Dream Traveler I\""
   }
 }

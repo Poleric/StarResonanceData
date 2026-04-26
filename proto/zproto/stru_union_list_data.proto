@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_union_base_data.proto";
 import "stru_user_summary_data.proto";
 
-message UnionListData {
-  zproto.UnionBaseData base_info = 1;
-  bool is_req = 2;
-  zproto.UserSummaryData president_info = 3;
-  bool auto_pass = 4;
-}
+package zproto;
 
+message UnionListData {
+	UnionBaseData baseInfo = 1 [json_name = "baseInfo"];
+	bool isReq = 2 [json_name = "isReq"];
+	UserSummaryData presidentInfo = 3 [json_name = "presidentInfo"];
+	bool autoPass = 4 [json_name = "autoPass"];
+}

@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message CommunityBuildFurnitureRequest {
-  int32 recipe_id = 1;
-  uint32 count = 2;
+	int32 recipeId = 1 [json_name = "recipeId"];
+	uint32 count = 2 [json_name = "count"];
 }
-

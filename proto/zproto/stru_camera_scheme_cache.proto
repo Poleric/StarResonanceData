@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_camera_scheme_info.proto";
 
-message cameraSchemeCache {
-  map<string, zproto.cameraSchemeInfo> camera_scheme_dict = 1;
-}
+package zproto;
 
+message cameraSchemeCache {
+	map<string, cameraSchemeInfo> cameraSchemeDict = 1 [json_name = "cameraSchemeDict"];
+}

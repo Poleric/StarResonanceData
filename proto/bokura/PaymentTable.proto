@@ -1,24 +1,23 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message PaymentTableBase {
-  int32 id = 1463;
-  string product_name = 1541;
-  string desc = 1953;
-  int32 product_type = 618;
-  string currency = 968;
-  int32 price = 310;
-  int32 award_id = 1197;
-  int_table items = 669;
-  int32 mail_id = 583;
-  int32 platform = 1857;
-  int32 is_sale = 1626;
+	int32 Id = 1463 [json_name = "Id"];
+	string ProductName = 1541 [json_name = "ProductName"];
+	string Desc = 1953 [json_name = "Desc"];
+	int32 ProductType = 618 [json_name = "ProductType"];
+	string Currency = 968 [json_name = "Currency"];
+	int32 Price = 310 [json_name = "Price"];
+	int32 AwardId = 1197 [json_name = "AwardId"];
+	int_table Items = 669 [json_name = "Items"];
+	int32 MailId = 583 [json_name = "MailId"];
+	int32 Platform = 1857 [json_name = "Platform"];
+	int32 IsSale = 1626 [json_name = "IsSale"];
 }
 
 message PaymentTableMgr {
-  map<int32, bokura.PaymentTableBase> datas = 1;
+	map<int32, PaymentTableBase> datas = 1 [json_name = "datas"];
 }
-

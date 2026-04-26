@@ -1,13 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_mail_level_condition.proto";
 
-message MailExtraCondition {
-  zproto.MailLevelCondition level = 1;
-  repeated int32 login_channels = 2;
-  int32 last_active_days = 3;
-  repeated string area_ids = 4;
-}
+package zproto;
 
+message MailExtraCondition {
+	MailLevelCondition level = 1 [json_name = "level"];
+	repeated int32 loginChannels = 2 [json_name = "loginChannels"];
+	int32 lastActiveDays = 3 [json_name = "lastActiveDays"];
+	repeated string areaIds = 4 [json_name = "areaIds"];
+	int64 registerAfterTime = 5 [json_name = "registerAfterTime"];
+}

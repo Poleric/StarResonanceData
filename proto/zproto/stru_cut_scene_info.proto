@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_event_data.proto";
 import "stru_dirty_mask.proto";
 
-message CutSceneInfo {
-  int32 cut_scene_id = 1;
-  uint32 flag = 2;
-  uint32 scene_id = 3;
-  zproto.EventData event_data = 4;
-}
+package zproto;
 
+message CutSceneInfo {
+	int32 cutSceneId = 1 [json_name = "cutSceneId"];
+	uint32 flag = 2 [json_name = "flag"];
+	uint32 sceneId = 3 [json_name = "sceneId"];
+	EventData eventData = 4 [json_name = "eventData"];
+}

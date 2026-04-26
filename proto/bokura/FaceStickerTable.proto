@@ -1,23 +1,22 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FaceStickerTableBase {
-  int32 id = 1463;
-  int_array default_color = 1931;
-  int32 color_id = 1137;
-  int32 back = 251;
-  int32 move = 1173;
-  int32 rotate = 1421;
-  int32 scale = 1925;
-  vector3 default_scale = 537;
-  vector2 default_position = 1451;
-  float default_rotate = 1670;
+	int32 Id = 1463 [json_name = "Id"];
+	int_array DefaultColor = 1931 [json_name = "DefaultColor"];
+	int32 ColorId = 1137 [json_name = "ColorId"];
+	int32 Back = 251 [json_name = "Back"];
+	int32 Move = 1173 [json_name = "Move"];
+	int32 Rotate = 1421 [json_name = "Rotate"];
+	int32 Scale = 1925 [json_name = "Scale"];
+	vector3 DefaultScale = 537 [json_name = "DefaultScale"];
+	vector2 DefaultPosition = 1451 [json_name = "DefaultPosition"];
+	float DefaultRotate = 1670 [json_name = "DefaultRotate"];
 }
 
 message FaceStickerTableMgr {
-  map<int32, bokura.FaceStickerTableBase> datas = 1;
+	map<int32, FaceStickerTableBase> datas = 1 [json_name = "datas"];
 }
-

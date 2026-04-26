@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ExploreTableBase {
-  int32 id = 1463;
-  int32 type = 673;
-  int32 target_id = 856;
-  int32 exploration = 229;
-  mlstring param = 1207;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Type = 673 [json_name = "Type"];
+	int32 TargetID = 856 [json_name = "TargetID"];
+	int32 Exploration = 229 [json_name = "Exploration"];
+	mlstring Param = 1207 [json_name = "Param"];
 }
 
 message ExploreTableMgr {
-  map<int32, bokura.ExploreTableBase> datas = 1;
+	map<int32, ExploreTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message LifeProfessionRDAlchemyReq {
-  int32 materials = 3;
+	int32 materials = 3 [json_name = "materials"];
 }
-

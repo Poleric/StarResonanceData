@@ -1,0 +1,177 @@
+{
+  "1001": {
+    "Id": 1001,
+    "PoolName": "Shangri-La Frontier",
+    "FunctionId": 850101,
+    "PrizePoolId": 1001,
+    "LuckPoolId": 1001,
+    "OnePrizeConsume": [],
+    "MallItemId": 11001,
+    "LotteryTime": [
+      1,
+      5
+    ],
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": [
+      "Draw 1",
+      "Draw 5"
+    ],
+    "OnePrizeReturn": [
+      [
+        1,
+        50
+      ],
+      [
+        2,
+        30
+      ],
+      [
+        3,
+        20
+      ],
+      [
+        4,
+        15
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "MiniGuaranteeDetails": [
+      [
+        1,
+        60
+      ]
+    ],
+    "BaseDetailsDes": "Basic Events for this pool include:<br>1. Every draw guarantees <style=\"accent-gn\">Shangri-La Frontier - Gold Meow Point</style> rebates. The exact amount depends on the prize rarity: S Prize returns 50 Gold Meow Points, A Prize returns 30 Gold Meow Points, B Prize returns 20 Gold Meow Points, C Prize returns 15 Gold Meow Points, D Prize returns 10 Gold Meow Points, and E Prize returns 5 Gold Meow Points. <br>2. <style=\"accent-gn\">The 60th draw</style> is guaranteed to be an <style=\"accent-gn\">S Prize Ticket</style>!",
+    "LuckDetailsDes": "Each draw in this pool has a <style=\"accent-gn\">25.0000%</style> chance to trigger a Lucky Event! Once triggered, you will randomly receive one of the following Luck effects based on their probabilities: <br> Next Draw Free: 20.0000%<br> Next Draw Returns 3x Bonus Points: 32.0000%<br> Next Draw S Prize Probability UP: 40.0000%<br> Next Draw Excludes C/D/E Prizes: 8.0000%",
+    "OpenCondition": [],
+    "OpenTime": 70001,
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_main_funcs_ichibankuji_carousel",
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_ip001/img_ichibankuji_main_title",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_bg",
+    "PoolTabIcon": "ui/atlas/ichibankuji_ip001/img_ichibankuji_main_tab_01",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_ip001_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_ip001_tpl"
+    ],
+    "PoolShowTV": [
+      "ichibankuji/ichibankuji_ip001",
+      "ichibankuji/ichibankuji_ip001"
+    ],
+    "PrizeShowDetails": [
+      100101,
+      100102,
+      100103,
+      100104,
+      100105,
+      100106,
+      100107,
+      100108,
+      100109,
+      100110,
+      100111,
+      100112
+    ],
+    "ExchangeQuickJumpType": 2,
+    "ExchangeQuickJumpParam": [
+      850200
+    ],
+    "PointsActivityFunctionId": 20001,
+    "PoolType": 1,
+    "Sort": 1
+  },
+  "1002": {
+    "Id": 1002,
+    "PoolName": "Phase 2",
+    "FunctionId": 850102,
+    "PrizePoolId": 1002,
+    "LuckPoolId": 1002,
+    "OnePrizeConsume": [
+      12002,
+      100
+    ],
+    "MallItemId": 11002,
+    "LotteryTime": [
+      1,
+      5
+    ],
+    "InitialfreeLotteryTime": 1,
+    "LotteryName": [
+      "Draw 1",
+      "Draw 5"
+    ],
+    "OnePrizeReturn": [
+      [
+        1,
+        50
+      ],
+      [
+        2,
+        36
+      ],
+      [
+        3,
+        24
+      ],
+      [
+        4,
+        18
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "MiniGuaranteeDetails": [
+      [
+        2,
+        30
+      ]
+    ],
+    "BaseDetailsDes": "Basic Events for this pool include: <br>1. Every draw guarantees <style=\"accent-gn\">point rebates</style>, with the amount dependent on the prize rarity: S Prize returns 50 points, A Prize returns 36 points, B Prize returns 24 points, C Prize returns 18 points, D Prize returns 10 points, E Prize returns 6 points. <br>2. <style=\"accent-gn\">The 30th draw</style> is guaranteed to be an <style=\"accent-gn\">A Prize</style>!",
+    "LuckDetailsDes": "Every draw in this pool has a <style=\"accent-gn\">25.0000%</style> chance of triggering a Lucky Event! Once triggered, you will randomly receive one of the following Luck effects based on their probabilities: <br>  Next Draw Free: 20.0000%<br>  Next Draw Returns 3x Points: 32.0000%<br>  Next Draw S Prize Probability UP (Weight Doubled): 40.0000%<br>  Next Draw Excludes C/D/E Prizes: 8.0000%",
+    "OpenCondition": [],
+    "OpenTime": 0,
+    "PoolEnterIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_entry_banner1",
+    "PoolBaseBigIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_bg",
+    "PoolTitleIcon": "ui/textures/ichibankuji/ichibankuji_star_resonance/img_ichibankuji_main_title",
+    "PoolTabIconBg": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_bg",
+    "PoolTabIcon": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_tab_01",
+    "DrawOneIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg1",
+    "DrawMultIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_lottery_bg2",
+    "DrawPopupCardPath": [
+      "ui/prefabs/ichibankuji/ichibankuji_card_tpl",
+      "ui/prefabs/ichibankuji/ichibankuji_card_five_tpl"
+    ],
+    "PoolShowTV": [
+      "ichibankuji/ichibankuji_default",
+      "ichibankuji/ichibankuji_default"
+    ],
+    "PrizeShowDetails": [
+      100201,
+      100202,
+      100203,
+      100204,
+      100205,
+      100206
+    ],
+    "ExchangeQuickJumpType": 0,
+    "ExchangeQuickJumpParam": [],
+    "PointsActivityFunctionId": 20002,
+    "PoolType": 1,
+    "Sort": 2
+  }
+}

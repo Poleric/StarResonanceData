@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_scene_record.proto";
 import "stru_dirty_mask.proto";
 
-message StatRecord {
-  uint64 cnt = 1;
-  map<int32, uint64> group_cnts = 2;
-  map<int32, zproto.SceneRecord> scene_records = 3;
-}
+package zproto;
 
+message StatRecord {
+	uint64 cnt = 1 [json_name = "cnt"];
+	map<int32, uint64> groupCnts = 2 [json_name = "groupCnts"];
+	map<int32, SceneRecord> sceneRecords = 3 [json_name = "sceneRecords"];
+}

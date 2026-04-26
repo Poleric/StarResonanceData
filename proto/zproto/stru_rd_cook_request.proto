@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message RdCookRequest {
-  repeated int32 main_materials = 1;
-  repeated int32 cook_methods = 2;
+	repeated int32 mainMaterials = 1 [json_name = "mainMaterials"];
+	repeated int32 cookMethods = 2 [json_name = "cookMethods"];
 }
-

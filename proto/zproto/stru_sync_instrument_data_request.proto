@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_instrument_sync_data.proto";
+
+package zproto;
+
+message SyncInstrumentDataRequest {
+	repeated InstrumentSyncData instrumentSyncDatas = 1 [json_name = "instrumentSyncDatas"];
+}

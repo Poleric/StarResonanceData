@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message BulletShapeTableBase {
-  int64 id = 1463;
-  int32 shape_type = 881;
-  number_array shape_data = 1901;
-  number_table scale_curve = 627;
-  number_table scale_curve_sample = 638;
+	int64 Id = 1463 [json_name = "Id"];
+	int32 ShapeType = 881 [json_name = "ShapeType"];
+	number_array ShapeData = 1901 [json_name = "ShapeData"];
+	number_table ScaleCurve = 627 [json_name = "ScaleCurve"];
+	number_table ScaleCurveSample = 638 [json_name = "ScaleCurveSample"];
 }
 
 message BulletShapeTableMgr {
-  map<int64, bokura.BulletShapeTableBase> datas = 1;
+	map<int64, BulletShapeTableBase> datas = 1 [json_name = "datas"];
 }
-

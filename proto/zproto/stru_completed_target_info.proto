@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message CompletedTargetInfo {
-  map<int32, bool> completed_target_list = 1;
-}
+package zproto;
 
+message CompletedTargetInfo {
+	map<int32, bool> completedTargetList = 1 [json_name = "completedTargetList"];
+}

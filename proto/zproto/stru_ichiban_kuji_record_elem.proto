@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+message IchibanKujiRecordElem {
+	int32 type = 1 [json_name = "type"];
+	int32 giftId = 2 [json_name = "giftId"];
+	uint32 count = 3 [json_name = "count"];
+	int32 luckKeyId = 4 [json_name = "luckKeyId"];
+	int64 time = 5 [json_name = "time"];
+}

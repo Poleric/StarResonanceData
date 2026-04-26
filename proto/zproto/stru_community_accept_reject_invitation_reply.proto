@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message CommunityAcceptRejectInvitationReply {
-  zproto.EErrorCode err_code = 1;
-  string check_in_content = 2;
-}
+package zproto;
 
+message CommunityAcceptRejectInvitationReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	string checkInContent = 2 [json_name = "checkInContent"];
+}

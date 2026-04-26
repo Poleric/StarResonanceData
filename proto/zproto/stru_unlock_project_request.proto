@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message UnlockProjectRequest {
+	int32 projectId = 1 [json_name = "projectId"];
+}

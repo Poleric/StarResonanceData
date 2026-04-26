@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_cut_scene_info.proto";
 import "stru_dirty_mask.proto";
 
-message CutSceneInfos {
-  map<int32, zproto.CutSceneInfo> cut_scene_infos = 1;
-  map<int32, bool> finished_cut_scenes = 2;
-  map<int64, bool> finished_infos = 3;
-}
+package zproto;
 
+message CutSceneInfos {
+	map<int32, CutSceneInfo> cutSceneInfos = 1 [json_name = "cutSceneInfos"];
+	map<int32, bool> finishedCutScenes = 2 [json_name = "finishedCutScenes"];
+	map<int64, bool> finishedInfos = 3 [json_name = "finishedInfos"];
+}

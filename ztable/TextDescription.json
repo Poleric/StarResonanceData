@@ -1,7 +1,7 @@
 {
   "1001": {
     "Id": 1001,
-    "Text": "Normal Attack",
+    "Text": "Basic Attack",
     "Type": 1,
     "Par": 0,
     "Description": "Various weapon attacks using the attack key",
@@ -28,7 +28,7 @@
     "Text": "Plunge Attack",
     "Type": 1,
     "Par": 0,
-    "Description": "Plunge attack performed by executing a normal attack at a certain height above the ground",
+    "Description": "Plunge attack performed by executing a Basic Attack at a certain height above the ground",
     "ShowRule": 1
   },
   "1005": {
@@ -329,18 +329,18 @@
   },
   "1042": {
     "Id": 1042,
-    "Text": "Thunder Element damage",
+    "Text": "Thunder damage",
     "Type": 1,
     "Par": 0,
-    "Description": "Deal Thunder Element damage",
+    "Description": "Deal Thunder damage",
     "ShowRule": 1
   },
   "1043": {
     "Id": 1043,
-    "Text": "Thunder Element",
+    "Text": "Thunder",
     "Type": 1,
     "Par": 0,
-    "Description": "Damage with the power of Thunder Element",
+    "Description": "Damage with the power of Thunder",
     "ShowRule": 1
   },
   "1044": {
@@ -377,10 +377,10 @@
   },
   "1048": {
     "Id": 1048,
-    "Text": "Verdant Damage",
+    "Text": "Forest Damage",
     "Type": 1,
     "Par": 0,
-    "Description": "Deal Verdant Damage",
+    "Description": "Deal Forest Damage",
     "ShowRule": 1
   },
   "1049": {
@@ -492,7 +492,7 @@
     "Text": "Suppress",
     "Type": 1,
     "Par": 0,
-    "Description": "A state when one's own HP is higher than the target's HP, providing damage and Defense bonuses, with additional effects if developed under certain talents",
+    "Description": "A state when one's own HP is higher than the target's HP, providing damage and DMG Reduction bonuses, with additional effects if developed under certain talents",
     "ShowRule": 1
   },
   "1063": {
@@ -764,7 +764,7 @@
     "Text": "Piercing Slash",
     "Type": 3,
     "Par": 3401096,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">100%</style> ATK and allows your next <style=\"accent-gn\">Overdrive</style> to gain <style=\"accent-gn\">2</style> extra <style=\"accent-gn\">Thunder Sigil</style>.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">100%</style> ATK and allows your next <style=\"accent-gn\">Overdrive</style> to gain <style=\"accent-gn\">2</style> extra <style=\"accent-gn\">Thunder Sigil</style>.",
     "ShowRule": 1
   },
   "1097": {
@@ -780,7 +780,7 @@
     "Text": "Thundercleave",
     "Type": 3,
     "Par": 3401098,
-    "Description": "A hidden technique from <style=\"accent-gn\">Thundercut</style>. Performs a rapid rising slash, dealing <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">300%</style> ATK (which scales with the Level/Tier of <style=\"accent-gn\">Flurry Slash</style>). Once Attack Speed reaches <style=\"accent-gn\">25%</style>|<style=\"accent-gn\">50%</style>|<style=\"accent-gn\">80%</style>, your attack count +<style=\"accent-gn\">1</style>|<style=\"accent-gn\">2</style>|<style=\"accent-gn\">3</style>.",
+    "Description": "A hidden technique from <style=\"accent-gn\">Thundercut</style>. Performs a rapid rising slash, dealing <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">300%</style> ATK (which scales with the Level/Tier of <style=\"accent-gn\">Flurry Slash</style>). Once Attack Speed reaches <style=\"accent-gn\">25%</style>|<style=\"accent-gn\">50%</style>|<style=\"accent-gn\">80%</style>, your attack count +<style=\"accent-gn\">1</style>|<style=\"accent-gn\">2</style>|<style=\"accent-gn\">3</style>.",
     "ShowRule": 1
   },
   "1099": {
@@ -788,7 +788,7 @@
     "Text": "Bladewind Domain",
     "Type": 3,
     "Par": 3401099,
-    "Description": "Each wave deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">100%</style> ATK.<br>Starts with <style=\"accent-gn\">1</style> wave. Gains <style=\"accent-gn\">1</style> extra wave for every <style=\"accent-gn\">10%</style> Mastery, up to <style=\"accent-gn\">4</style> waves.",
+    "Description": "Each wave deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">100%</style> ATK.<br>Starts with <style=\"accent-gn\">1</style> wave. Gains <style=\"accent-gn\">1</style> extra wave for every <style=\"accent-gn\">10%</style> Mastery, up to <style=\"accent-gn\">4</style> waves.",
     "ShowRule": 1
   },
   "1100": {
@@ -796,15 +796,15 @@
     "Text": "Thunderstrike",
     "Type": 3,
     "Par": 3401100,
-    "Description": "Luck Effect: Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">80%</style> ATK to the enemy.",
+    "Description": "Luck Effect: Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">80%</style> ATK to the enemy.",
     "ShowRule": 1
   },
   "1101": {
     "Id": 1101,
-    "Text": "Moonstrike",
+    "Text": "MoonBlades",
     "Type": 3,
     "Par": 3401101,
-    "Description": "Spins continuously for <style=\"accent-gn\">35s</style>, dealing <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">50%</style> ATK every <style=\"accent-gn\">2s</style> (which scales with the Level/Tier of Scythe Wheel).",
+    "Description": "Spin continuously for <style=\"accent-gn\">35s</style>, dealing <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">50%</style> ATK every <style=\"accent-gn\">2s</style> (which scales with the Level/Tier of Scythe Wheel).",
     "ShowRule": 1
   },
   "1102": {
@@ -820,7 +820,7 @@
     "Text": "Thunderburst",
     "Type": 3,
     "Par": 3401103,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters.",
     "ShowRule": 1
   },
   "1104": {
@@ -836,7 +836,7 @@
     "Text": "Ultimate Slash",
     "Type": 3,
     "Par": 3401105,
-    "Description": "Deals massive DMG based on the number of <style=\"accent-gn\">Thunder Sigil</style> consumed over the past <style=\"accent-gn\">10s</style>.<br><style=\"accent-gn\">Each</style> consumed <style=\"accent-gn\">Thunder Sigil</style> deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">100%</style> ATK, up to <style=\"accent-gn\">1000%</style>.",
+    "Description": "Deals massive DMG based on the number of <style=\"accent-gn\">Thunder Sigils</style> consumed in the past <style=\"accent-gn\">10s</style>.<br><style=\"accent-gn\">Each</style> <style=\"accent-gn\">Thunder Sigil</style> consumed deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">100%</style> ATK, up to <style=\"accent-gn\">15,000%</style>.",
     "ShowRule": 1
   },
   "1106": {
@@ -844,7 +844,7 @@
     "Text": "Charge Seed",
     "Type": 3,
     "Par": 3401106,
-    "Description": "Can accumulate up to <style=\"accent-gn\">20</style> <style=\"accent-gn\">Charge Seed</style>s. When casting <style=\"accent-gn\">Thundercut</style>, consumes <style=\"accent-gn\">15</style> <style=\"accent-gn\">Charge Seed</style>s to trigger <style=\"accent-gn\">Storm Scythe</style>, dealing <style=\"physical\">Attack Damage</style> to surrounding targets.",
+    "Description": "Can accumulate up to <style=\"accent-gn\">20</style> <style=\"accent-gn\">Charge Seed</style>s. When casting <style=\"accent-gn\">Thundercut</style>, consumes <style=\"accent-gn\">15</style> <style=\"accent-gn\">Charge Seed</style>s to trigger <style=\"accent-gn\">Storm Scythe</style>, dealing <style=\"physical\">Attack DMG</style> to surrounding targets.",
     "ShowRule": 1
   },
   "1107": {
@@ -852,7 +852,7 @@
     "Text": "Inspiration",
     "Type": 3,
     "Par": 3401107,
-    "Description": "Grants the blessed target <style=\"accent-gn\">50</style> bonus <style=\"accent-gn\">Intellect</style>, <style=\"accent-gn\">Strength</style>, <style=\"accent-gn\">Agility</style>, and <style=\"accent-gn\">Endurance</style>.",
+    "Description": "Grants the blessed target <style=\"accent-gn\">100</style> <style=\"accent-gn\">Intellect</style>, <style=\"accent-gn\">Strength</style>, <style=\"accent-gn\">Agility</style>, and <style=\"accent-gn\">Endurance</style>, as well as <style=\"accent-gn\">1.5%</style> <style=\"accent-gn\">Crit</style>, <style=\"accent-gn\">Haste</style>, <style=\"accent-gn\">Luck</style>, <style=\"accent-gn\">Mastery</style>, and <style=\"accent-gn\">Versatility</style>.",
     "ShowRule": 1
   },
   "1108": {
@@ -924,7 +924,7 @@
     "Text": "Wild Seed",
     "Type": 3,
     "Par": 3401116,
-    "Description": "Explodes upon contact with an enemy, dealing <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">100%</style> ATK.",
+    "Description": "Explodes upon contact with an enemy, dealing <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">100%</style> ATK.",
     "ShowRule": 1
   },
   "1117": {
@@ -932,7 +932,7 @@
     "Text": "Thorn",
     "Type": 3,
     "Par": 3401117,
-    "Description": "Deals <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">20%</style> ATK per second to the enemy for <style=\"accent-gn\">10s</style>.",
+    "Description": "Deals <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">20%</style> ATK per second to the enemy for <style=\"accent-gn\">10s</style>.",
     "ShowRule": 1
   },
   "1118": {
@@ -977,10 +977,10 @@
   },
   "1123": {
     "Id": 1123,
-    "Text": "Weak Point Strike",
+    "Text": "Weakness Strike",
     "Type": 3,
     "Par": 3401123,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">50%</style> ATK to an enemy and grants <style=\"accent-gn\">1</style> <style=\"accent-gn\">Sand Crystal</style>.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">50%</style> ATK to an enemy and grants <style=\"accent-gn\">1</style> <style=\"accent-gn\">Sand Crystal</style>.",
     "ShowRule": 1
   },
   "1124": {
@@ -996,7 +996,7 @@
     "Text": "Countercrush",
     "Type": 3,
     "Par": 3401125,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters, ignores <style=\"accent-gn\">Block</style>, and generates significant Threat.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters, ignores <style=\"accent-gn\">Block</style>, and generates significant Threat.",
     "ShowRule": 1
   },
   "1126": {
@@ -1020,7 +1020,7 @@
     "Text": "Shield Echo",
     "Type": 3,
     "Par": 3401128,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">300%</style> ATK to enemies within <style=\"accent-gn\">5</style> meters. For the next <style=\"accent-gn\">5s</style>, recover <style=\"accent-gn\">20</style> <style=\"accent-gn\">Rage</style> every <style=\"accent-gn\">1</style> second. This effect cannot stack.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">300%</style> ATK to enemies within <style=\"accent-gn\">5</style> meters. For the next <style=\"accent-gn\">5s</style>, recover <style=\"accent-gn\">20</style> <style=\"accent-gn\">Rage</style> every <style=\"accent-gn\">1</style> second. This effect cannot stack.",
     "ShowRule": 1
   },
   "1129": {
@@ -1036,7 +1036,7 @@
     "Text": "Law of Energy Surge",
     "Type": 3,
     "Par": 3401130,
-    "Description": "Restores <style=\"accent-gn\">5%</style> of your max <style=\"accent-gn\">Ice Energy</style> (scales with Mastery and Haste) every second for <style=\"accent-gn\">5s</style>.",
+    "Description": "Restores <style=\"accent-gn\">3%</style> of Max <style=\"accent-gn\">Ice Energy</style> per second (scales with Mastery and Haste), lasting for <style=\"accent-gn\">10s</style>.",
     "ShowRule": 1
   },
   "1131": {
@@ -1044,7 +1044,7 @@
     "Text": "Granite",
     "Type": 3,
     "Par": 3401131,
-    "Description": "Strikes the nearest <style=\"accent-gn\">1</style> enemy, dealing <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">30%</style> ATK.",
+    "Description": "Strikes the nearest <style=\"accent-gn\">1</style> enemy, dealing <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">70%</style> ATK.",
     "ShowRule": 1
   },
   "1132": {
@@ -1068,7 +1068,7 @@
     "Text": "Terra Sunder",
     "Type": 3,
     "Par": 3401134,
-    "Description": "An enhanced version of <style=\"accent-gn\">Rageburst</style> that summons giant rocks around you, which then explode to deal <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">750%</style> ATK (which scales with the Level/Tier of <style=\"accent-gn\">Rage Burst</style>. <br>Earthsplitter does not consume <style=\"accent-gn\">Sand Crystals</style>.",
+    "Description": "An enhanced version of <style=\"accent-gn\">Rageburst</style> that summons giant rocks around you, which then explode to deal <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">750%</style> ATK (which scales with the Level/Tier of <style=\"accent-gn\">Rage Burst</style>. <br>It does not consume <style=\"accent-gn\">Sand Crystals</style>.",
     "ShowRule": 1
   },
   "1135": {
@@ -1084,7 +1084,7 @@
     "Text": "Sand Crystal Shock",
     "Type": 3,
     "Par": 3401136,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">300%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">300%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters.",
     "ShowRule": 1
   },
   "1137": {
@@ -1092,7 +1092,7 @@
     "Text": "Sandfield",
     "Type": 3,
     "Par": 3401137,
-    "Description": "Within the zone, reduces your <style=\"magic\">Magic Damage</style> taken by <style=\"accent-gn\">50%</style>, and <style=\"accent-gn\">50%</style> of the DMG taken by Allies (up to <style=\"accent-gn\">10</style>) is redirected to you.",
+    "Description": "Reduces <style=\"magic\">Magic DMG</style> taken by the caster within the circle by <style=\"accent-gn\">50%</style>. Allies (up to <style=\"accent-gn\">10</style>) inside have <style=\"accent-gn\">50%</style> of the damage they take absorbed directly.",
     "ShowRule": 1
   },
   "1138": {
@@ -1108,7 +1108,7 @@
     "Text": "Tail Sweep",
     "Type": 3,
     "Par": 3401139,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">80%</style> ATK to enemies within <style=\"accent-gn\">5</style> meters. For each additional enemy hit, increases the DMG dealt by <style=\"accent-gn\">30%</style> (up to +<style=\"accent-gn\">120%</style>, which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>).",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">80%</style> ATK to enemies within <style=\"accent-gn\">5</style> meters. For each additional enemy hit, increases the DMG dealt by <style=\"accent-gn\">30%</style> (up to +<style=\"accent-gn\">120%</style>, which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>).",
     "ShowRule": 1
   },
   "1140": {
@@ -1116,7 +1116,7 @@
     "Text": "Pounce and Bite",
     "Type": 3,
     "Par": 3401140,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">100%</style> ATK to an enemy and inflicts <style=\"accent-gn\">Bleed</style>.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">100%</style> ATK to an enemy and inflicts <style=\"accent-gn\">Bleed</style>.",
     "ShowRule": 1
   },
   "1141": {
@@ -1124,7 +1124,7 @@
     "Text": "Bleed",
     "Type": 3,
     "Par": 3401141,
-    "Description": "The effect lasts <style=\"accent-gn\">5s</style>, dealing <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">10%</style> ATK per second. If applied again from the same source before the previous <style=\"accent-gn\">Bleed</style> ends, it deals all remaining DMG of the previous <style=\"accent-gn\">Bleed</style> immediately.",
+    "Description": "The effect lasts <style=\"accent-gn\">5s</style>, dealing <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">10%</style> ATK per second. If applied again from the same source before the previous <style=\"accent-gn\">Bleed</style> ends, it deals all remaining DMG of the previous <style=\"accent-gn\">Bleed</style> immediately.",
     "ShowRule": 1
   },
   "1142": {
@@ -1132,7 +1132,7 @@
     "Text": "Lightseeker Arrow",
     "Type": 3,
     "Par": 3401142,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">50%</style> ATK to the enemy.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">50%</style> ATK to the enemy.",
     "ShowRule": 1
   },
   "1143": {
@@ -1140,7 +1140,7 @@
     "Text": "Lightning Strike",
     "Type": 3,
     "Par": 3401143,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">350%</style> ATK to the enemy.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">410%</style> ATK to the enemy.",
     "ShowRule": 1
   },
   "1144": {
@@ -1148,7 +1148,7 @@
     "Text": "Explosive Arrow",
     "Type": 3,
     "Par": 3401144,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters.",
     "ShowRule": 1
   },
   "1145": {
@@ -1156,7 +1156,7 @@
     "Text": "Stomp",
     "Type": 3,
     "Par": 3401145,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">250%</style> ATK to the enemies within range.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">250%</style> ATK to the enemies within range.",
     "ShowRule": 1
   },
   "1146": {
@@ -1164,7 +1164,7 @@
     "Text": "Legendary Eagle",
     "Type": 3,
     "Par": 3401146,
-    "Description": "Flaps its wings on the spot, enhancing the effectiveness of Haste by <style=\"accent-gn\">30%</style> for <style=\"accent-gn\">10s</style>.",
+    "Description": "Flaps wings in place, increasing Photon Energy gain rate by <style=\"accent-gn\">100%</style> for the next <style=\"accent-gn\">10</style>s.",
     "ShowRule": 1
   },
   "1147": {
@@ -1180,7 +1180,7 @@
     "Text": "Steel Beak",
     "Type": 3,
     "Par": 3401148,
-    "Description": "When the stacks of <style=\"accent-gn\">Steel Beak</style> reach <style=\"accent-gn\">5</style> or more, grants a fixed <style=\"accent-gn\">30%</style> chance to trigger an <style=\"accent-gn\">Implosion</style> each time a new stack is gained, dealing <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">60%</style> ATK to the enemies within range. <style=\"accent-gn\">The Steel Beak effect</style> stacks up to <style=\"accent-gn\">20</style> times, and loses <style=\"accent-gn\">1</style> stack <style=\"accent-gn\">per second</style>.",
+    "Description": "When <style=\"accent-gn\">Steel Beak</style> stacks reach <style=\"accent-gn\">5</style> or more, each additional <style=\"accent-gn\">Steel Beak</style> stack gained has a fixed <style=\"accent-gn\">30%</style> chance to trigger <style=\"accent-gn\">Implosion</style>, dealing <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">100%</style> ATK to the enemies within range. <style=\"accent-gn\">Steel Beak</style> loses <style=\"accent-gn\">1</style> stack <style=\"accent-gn\">per</style> second and stacks up to <style=\"accent-gn\">20</style> times.",
     "ShowRule": 1
   },
   "1149": {
@@ -1188,7 +1188,7 @@
     "Text": "Celestial Eagle",
     "Type": 3,
     "Par": 3401149,
-    "Description": "Creates a storm with a <style=\"accent-gn\">5</style>-meter radius, dealing <style=\"accent-gn\">80%</style> ATK as <style=\"magic\">Attack Damage</style> ignoring Armor to targets marked with <style=\"accent-gn\">Steel Beak</style> inside the storm every <style=\"accent-gn\">0</style>.<style=\"accent-gn\">5s</style>. After <style=\"accent-gn\">5s</style>, <style=\"accent-gn\">Celestial Eagle</style> dives to the ground, dealing <style=\"accent-gn\">500%</style> ATK as <style=\"magic\">Attack Damage</style> ignoring Armor.",
+    "Description": "Creates a storm with a <style=\"accent-gn\">5</style>-meter radius, dealing <style=\"accent-gn\">80%</style> ATK as <style=\"magic\">Attack DMG</style> ignoring Armor to targets marked with <style=\"accent-gn\">Steel Beak</style> inside the storm every <style=\"accent-gn\">0</style>.<style=\"accent-gn\">5s</style>. After <style=\"accent-gn\">5s</style>, <style=\"accent-gn\">Celestial Eagle</style> dives to the ground, dealing <style=\"accent-gn\">500%</style> ATK as <style=\"magic\">Attack DMG</style> ignoring Armor.",
     "ShowRule": 1
   },
   "1150": {
@@ -1196,7 +1196,7 @@
     "Text": "Phantom Falcon",
     "Type": 3,
     "Par": 3401150,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">400%</style> ATK to the enemy.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">400%</style> ATK to the enemy.",
     "ShowRule": 1
   },
   "1151": {
@@ -1204,7 +1204,7 @@
     "Text": "Split Arrow",
     "Type": 3,
     "Par": 3401151,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">35%</style> ATK to the enemy (which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>).",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">35%</style> ATK to the enemy (which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>).",
     "ShowRule": 1
   },
   "1152": {
@@ -1244,7 +1244,7 @@
     "Text": "Spear Thrust",
     "Type": 3,
     "Par": 3401156,
-    "Description": "Luck Effect: Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">150%</style> ATK.",
+    "Description": "Luck Effect: Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">150%</style> ATK.",
     "ShowRule": 1
   },
   "1157": {
@@ -1260,7 +1260,7 @@
     "Text": "Tornado",
     "Type": 3,
     "Par": 3401158,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">350%</style> ATK to the enemies within range. DMG reduces by <style=\"accent-gn\">20%</style> with each attack, down to 40% of the original Damage. Each Tornado maintains independent.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">350%</style> ATK to the enemies within range.",
     "ShowRule": 1
   },
   "1159": {
@@ -1268,7 +1268,7 @@
     "Text": "Typhoon: Sharp Impact",
     "Type": 3,
     "Par": 3401159,
-    "Description": "An enhanced version of <style=\"accent-gn\">Sharp Impact</style>. Leaps into the air, dealing <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">800%</style> ATK in total to the target and surrounding enemies (which scales with the Level/Tier of <style=\"accent-gn\">Sharp Impact</style>)",
+    "Description": "An enhanced version of <style=\"accent-gn\">Sharp Impact</style>. Leaps into the air, dealing <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">800%</style> ATK in total to the target and surrounding enemies (which scales with the Level/Tier of <style=\"accent-gn\">Sharp Impact</style>)",
     "ShowRule": 1
   },
   "1160": {
@@ -1276,7 +1276,7 @@
     "Text": "Talent: Shattering Strike",
     "Type": 3,
     "Par": 3401160,
-    "Description": "When Ice Meteor deals DMG, <style=\"accent-gn\">Ice Core</style> fires <style=\"accent-gn\">Ice Arrow</style>, granting 1 <style=\"accent-gn\">Frost Crystal</style>.",
+    "Description": "When Ice Meteor deals DMG, <style=\"accent-gn\">Ice Crystal Core</style> fires <style=\"accent-gn\">Ice Arrow</style>, granting 1 <style=\"accent-gn\">Frost Crystal</style>.",
     "ShowRule": 1
   },
   "1161": {
@@ -1292,7 +1292,7 @@
     "Text": "Icy Bolt",
     "Type": 3,
     "Par": 3401162,
-    "Description": "Deals <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">100%</style> ATK to the target.",
+    "Description": "Deals <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">100%</style> ATK to the target.",
     "ShowRule": 1
   },
   "1163": {
@@ -1300,15 +1300,15 @@
     "Text": "Frost Shock",
     "Type": 3,
     "Par": 3401163,
-    "Description": "Deals <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters.",
+    "Description": "Deals <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies within <style=\"accent-gn\">3</style> meters.",
     "ShowRule": 1
   },
   "1164": {
     "Id": 1164,
-    "Text": "Piercing Ice Spear",
+    "Text": "Piercing Ice Lance",
     "Type": 3,
     "Par": 3401164,
-    "Description": "Throws a <style=\"accent-gn\">Frost Lance</style> that pierces targets, dealing <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">250%</style> ATK.",
+    "Description": "Throws a <style=\"accent-gn\">Frost Lance</style> that pierces targets, dealing <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">250%</style> ATK.",
     "ShowRule": 1
   },
   "1165": {
@@ -1316,7 +1316,7 @@
     "Text": "Frost Comet",
     "Type": 3,
     "Par": 3401165,
-    "Description": "Luck Effect: Summon a <style=\"accent-gn\">Frost Comet</style> from the sky, dealing <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">200%</style> ATK to the enemy.",
+    "Description": "Luck Effect: Summons a <style=\"accent-gn\">Frost Comet</style> from the sky, dealing <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">200%</style> ATK to the enemy.",
     "ShowRule": 1
   },
   "1166": {
@@ -1324,7 +1324,7 @@
     "Text": "Cold Pulse",
     "Type": 3,
     "Par": 3401166,
-    "Description": "Unleashes a powerful pulse from the Frost Ray, dealing <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">500%</style> ATK to enemies it hits.",
+    "Description": "Unleashes a powerful pulse from the Frost Ray, dealing <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">500%</style> ATK to enemies it hits.",
     "ShowRule": 1
   },
   "1167": {
@@ -1348,7 +1348,7 @@
     "Text": "Rageblow",
     "Type": 3,
     "Par": 3401169,
-    "Description": "Jumps and deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">400%</style> ATK to enemies within range. Always triggers <style=\"accent-gn\">Weakness Strike</style> (which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>).",
+    "Description": "Jumps and deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">400%</style> ATK to enemies within range. Always triggers <style=\"accent-gn\">Weakness Strike</style> (which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>).",
     "ShowRule": 1
   },
   "1170": {
@@ -1356,7 +1356,7 @@
     "Text": "Block",
     "Type": 3,
     "Par": 3401170,
-    "Description": "Grants a chance to <style=\"accent-gn\">block</style> <style=\"physical\">Attack Damage</style> and to reduce it by <style=\"accent-gn\">30%</style>.",
+    "Description": "Grants a chance to <style=\"accent-gn\">block</style> <style=\"physical\">Attack DMG</style> and to reduce it by <style=\"accent-gn\">30%</style>.",
     "ShowRule": 1
   },
   "1171": {
@@ -1369,7 +1369,7 @@
   },
   "1172": {
     "Id": 1172,
-    "Text": "Radiant shield",
+    "Text": "Radiant Shield",
     "Type": 3,
     "Par": 3401172,
     "Description": "Infuses the Shield with light, absorbing <style=\"accent-gn\">50%</style> of incoming DMG. The effect can stack absorption and reset duration when the Skill is reused. Max absorption cannot exceed <style=\"accent-gn\">100%</style> of Max HP.",
@@ -1388,7 +1388,7 @@
     "Text": "Radiant Impact",
     "Type": 3,
     "Par": 3401174,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">150%</style> ATK to the enemy.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">150%</style> ATK to the enemy.",
     "ShowRule": 1
   },
   "1175": {
@@ -1404,7 +1404,7 @@
     "Text": "Vanguard Hunt",
     "Type": 3,
     "Par": 3401176,
-    "Description": "Deals <style=\"physical\">Attack Damage</style>equal to <style=\"accent-gn\">240%</style> ATK to target, which scales with the Level/Tier of <style=\"accent-gn\">Vanguard Strike</style>. <br>When <style=\"accent-gn\">Vanguard Hunt</style> deals DMG, restores <style=\"accent-gn\">2%</style> of Max HP and grants <style=\"accent-gn\">Indomitable Courage</style>.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">240%</style> ATK to target, which scales with the Level/Tier of <style=\"accent-gn\">Vanguard Strike</style>. <br>When <style=\"accent-gn\">Vanguard Hunt</style> deals DMG, restores <style=\"accent-gn\">2%</style> of Max HP and grants <style=\"accent-gn\">Bold Fearless</style>.",
     "ShowRule": 1
   },
   "1177": {
@@ -1412,7 +1412,7 @@
     "Text": "Divine Strike",
     "Type": 3,
     "Par": 3401177,
-    "Description": "Deal <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">50%</style> ATK and reduces the target's movement speed by <style=\"accent-gn\">25%</style>.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">50%</style> ATK and reduces the target's movement speed by <style=\"accent-gn\">25%</style>.",
     "ShowRule": 1
   },
   "1178": {
@@ -1452,7 +1452,7 @@
     "Text": "Burn",
     "Type": 3,
     "Par": 3401182,
-    "Description": "Deals <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">50%</style> *stacks of ATK per second for <style=\"accent-gn\">10s</style>.",
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">50%</style> *stacks of ATK per second for <style=\"accent-gn\">10s</style>.",
     "ShowRule": 1
   },
   "1183": {
@@ -1500,7 +1500,7 @@
     "Text": "Photon Arrow",
     "Type": 3,
     "Par": 3401188,
-    "Description": "Deals <style=\"accent-gn\">80%</style> ATK <style=\"physical\">Attack Damage</style> to enemy targets.",
+    "Description": "Deals <style=\"accent-gn\">80%</style> ATK <style=\"physical\">Attack DMG</style> to enemy targets.",
     "ShowRule": 1
   },
   "1189": {
@@ -1508,7 +1508,7 @@
     "Text": "Verdant Impact",
     "Type": 3,
     "Par": 3401189,
-    "Description": "Deals <style=\"accent-gn\">300%</style> ATK <style=\"magic\">Magic Damage</style> to enemy targets around self.",
+    "Description": "Deals <style=\"accent-gn\">300%</style> ATK <style=\"magic\">Magic DMG</style> to enemy targets around self.",
     "ShowRule": 1
   },
   "1190": {
@@ -1516,7 +1516,7 @@
     "Text": "Flame Pillar Blash",
     "Type": 3,
     "Par": 3401190,
-    "Description": "Deals <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">60%</style> ATK to the enemies within range (which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>).",
+    "Description": "Deals <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">60%</style> ATK to the enemies within range (which scales with the Level/Tier of <style=\"accent-gn\">Basic Attack</style>).",
     "ShowRule": 1
   },
   "1191": {
@@ -1524,7 +1524,7 @@
     "Text": "Scorching Impact",
     "Type": 3,
     "Par": 3401191,
-    "Description": "Unleashes a fiery shockwave in a <style=\"accent-gn\">5</style>-meter radius around yourself, dealing <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies hit.",
+    "Description": "Unleashes a fiery shockwave in a <style=\"accent-gn\">5</style>-meter radius around yourself, dealing <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">100%</style> ATK to enemies hit.",
     "ShowRule": 1
   },
   "1192": {
@@ -1564,7 +1564,7 @@
     "Text": "Shield Impact",
     "Type": 3,
     "Par": 3401196,
-    "Description": "Raises the Shield and charges forward, dealing <style=\"physical\">Attack Damage</style> equal to <style=\"accent-gn\">200%</style> ATK to any enemies hit.",
+    "Description": "Raises the Shield and charges forward, dealing <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">200%</style> ATK to any enemies hit.",
     "ShowRule": 1
   },
   "1197": {
@@ -1572,7 +1572,7 @@
     "Text": "Flame Shock",
     "Type": 3,
     "Par": 3401197,
-    "Description": "Deals <style=\"magic\">Magic Damage</style> equal to <style=\"accent-gn\">100%</style> ATK to the enemies within range.",
+    "Description": "Deals <style=\"magic\">Magic DMG</style> equal to <style=\"accent-gn\">100%</style> ATK to the enemies within range.",
     "ShowRule": 1
   },
   "1198": {
@@ -1580,7 +1580,7 @@
     "Text": "Radiant Core",
     "Type": 3,
     "Par": 3401198,
-    "Description": "After <style=\"accent-gn\">10s</style>, unleashes a burst of Holy <style=\"accent-gn\">Energy</style> around, dealing Attack Damage equal to <style=\"accent-gn\">500%</style> of <style=\"physical\">ATK</style> and restoring <style=\"accent-gn\">15%</style> of Max HP.",
+    "Description": "After <style=\"accent-gn\">10s</style>, unleashes a burst of Holy <style=\"accent-gn\">Energy</style> around, dealing Attack DMG equal to <style=\"accent-gn\">500%</style> of <style=\"physical\">ATK</style> and restoring <style=\"accent-gn\">15%</style> of Max HP.",
     "ShowRule": 1
   },
   "1199": {
@@ -1589,6 +1589,142 @@
     "Type": 3,
     "Par": 3401199,
     "Description": "The target takes DMG equal to <style=\"accent-gn\">20%</style> ATK every second for the next <style=\"accent-gn\">10s</style>. During this time, each time the target deals DMG to you, there is a fixed <style=\"accent-gn\">10%</style> chance to restore HP equal to <style=\"accent-gn\">0.5%</style> of your Max HP.",
+    "ShowRule": 1
+  },
+  "1200": {
+    "Id": 1200,
+    "Text": "Fantasia Impact",
+    "Type": 3,
+    "Par": 3401200,
+    "Description": "Luck Effect: Deals Adaptive DMG equal to <style=\"accent-gn\">1250%</style> ATK to enemies within <style=\"accent-gn\">3m</style>.",
+    "ShowRule": 1
+  },
+  "1201": {
+    "Id": 1201,
+    "Text": "Phantom Execution",
+    "Type": 3,
+    "Par": 3401201,
+    "Description": "Deals Adaptive DMG equal to <style=\"accent-gn\">650%</style> ATK to the enemies within <style=\"accent-gn\">3m</style>, and the Crit DMG reaches <style=\"accent-gn\">500%</style>.",
+    "ShowRule": 1
+  },
+  "1202": {
+    "Id": 1202,
+    "Text": "Phantom Arrow",
+    "Type": 3,
+    "Par": 3401202,
+    "Description": "Deals Adaptive DMG equal to <style=\"accent-gn\">165%</style> ATK to the enemies within <style=\"accent-gn\">3m</style>.",
+    "ShowRule": 1
+  },
+  "1203": {
+    "Id": 1203,
+    "Text": "Mirage Dream",
+    "Type": 3,
+    "Par": 3401203,
+    "Description": "ATK +<style=\"accent-gn\">18</style> per stack (up to +<style=\"accent-gn\">50</style>, scaling with season level).",
+    "ShowRule": 1
+  },
+  "1204": {
+    "Id": 1204,
+    "Text": "Dreamforce",
+    "Type": 3,
+    "Par": 3401204,
+    "Description": "Increases Main Stats by <style=\"accent-gn\">450</style> (up to <style=\"accent-gn\">1050</style>, scaling with season level). Cannot gain Vestige during the duration.",
+    "ShowRule": 1
+  },
+  "1205": {
+    "Id": 1205,
+    "Text": "Oblivion",
+    "Type": 3,
+    "Par": 3401205,
+    "Description": "ATK –<style=\"accent-gn\">20%</style>, Dream DMG taken +<style=\"accent-gn\">10%</style>, Movement Speed –<style=\"accent-gn\">20%</style> (cannot stack).",
+    "ShowRule": 1
+  },
+  "1206": {
+    "Id": 1206,
+    "Text": "Annihilation Strike",
+    "Type": 3,
+    "Par": 3401206,
+    "Description": "Deals Adaptive DMG equal to <style=\"accent-gn\">200%</style> ATK to enemies within <style=\"accent-gn\">5m</style> and <linktext=3005><style=\"ItemQuality_5\">Stuns</style></linktext> them for <style=\"accent-gn\">1</style>.<style=\"accent-gn\">5s</style>.",
+    "ShowRule": 1
+  },
+  "1207": {
+    "Id": 1207,
+    "Text": "Near Death",
+    "Type": 3,
+    "Par": 3401207,
+    "Description": "Immune to death.",
+    "ShowRule": 1
+  },
+  "1208": {
+    "Id": 1208,
+    "Text": "Shattered Illusion",
+    "Type": 3,
+    "Par": 3401208,
+    "Description": "Deals Adaptive DMG equal to <style=\"accent-gn\">330%</style> Armor to the enemies within <style=\"accent-gn\">5m</style>.",
+    "ShowRule": 1
+  },
+  "1209": {
+    "Id": 1209,
+    "Text": "Endless Mind",
+    "Type": 3,
+    "Par": 3401209,
+    "Description": "Max HP +<style=\"accent-gn\">3%</style>, Mastery +<style=\"accent-gn\">2%</style>, up to <style=\"accent-gn\">3</style> stacks.",
+    "ShowRule": 1
+  },
+  "1210": {
+    "Id": 1210,
+    "Text": "Artisan's Power",
+    "Type": 1,
+    "Par": 0,
+    "Description": "Every <style=\"accent-gn\">2</style> STR/INT/AGI converts to <style=\"accent-gn\">1</style> ATK.<br>Every <style=\"accent-gn\">1</style> Endurance converts to <style=\"accent-gn\">8</style> Max HP.<br>Every <style=\"accent-gn\">1%</style> Haste converts to <style=\"accent-gn\">0.6%</style> Attack SPD and <style=\"accent-gn\">1%</style> Casting SPD.<br>Every <style=\"accent-gn\">1%</style> Versatility increases outgoing DMG, healing, and shields by <style=\"accent-gn\">0.35%</style> and DMG Reduction by <style=\"accent-gn\">0.15%</style>.<br>Every <style=\"accent-gn\">1%</style> Mastery converts to a <style=\"accent-gn\">0.5%</style> universal damage bonus.",
+    "ShowRule": 2
+  },
+  "1211": {
+    "Id": 1211,
+    "Text": "Infernal Combo.",
+    "Type": 3,
+    "Par": 3401211,
+    "Description": "<style=\"accent-gn\">Expertise Skill</style> Attack SPD +<style=\"accent-gn\">5%</style> for <style=\"accent-gn\">10</style>s, stacking up to <style=\"accent-gn\">5</style> times.",
+    "ShowRule": 1
+  },
+  "1212": {
+    "Id": 1212,
+    "Text": "Blaze.",
+    "Type": 3,
+    "Par": 3401212,
+    "Description": "Grants <style=\"accent-gn\">10%</style> Fire Bonus for <style=\"accent-gn\">8</style>s.",
+    "ShowRule": 1
+  },
+  "1213": {
+    "Id": 1213,
+    "Text": "Burn.",
+    "Type": 3,
+    "Par": 3401213,
+    "Description": "Deals <style=\"accent-gn\">30% x stack count</style> ATK as <style=\"physical\">Attack DMG</style> every <style=\"accent-gn\">2</style>s for <style=\"accent-gn\">10</style>s. Stacks up to <style=\"accent-gn\">10</style> times. When <style=\"accent-gn\">Burn</style> reaches max stacks, newly inflicted <style=\"accent-gn\">Burn</style> stacks immediately deal <style=\"accent-gn\">30%</style> ATK as <style=\"physical\">Attack DMG</style> once.",
+    "ShowRule": 1
+  },
+  "1214": {
+    "Id": 1214,
+    "Text": "Explosion.",
+    "Type": 3,
+    "Par": 3401214,
+    "Description": "Deals <style=\"accent-gn\">60%</style> ATK as <style=\"physical\">Attack DMG</style> to enemies in range, and grants <style=\"accent-gn\">10</style> <style=\"accent-gn\">Flame Soul</style>.",
+    "ShowRule": 1
+  },
+  "1215": {
+    "Id": 1215,
+    "Text": "Hellfire Meteor.",
+    "Type": 3,
+    "Par": 3401215,
+    "Description": "Deals <style=\"accent-gn\">300%</style> ATK as <style=\"physical\">Attack DMG</style> to enemy targets.",
+    "ShowRule": 1
+  },
+  "1216": {
+    "Id": 1216,
+    "Text": "Formless Flame Slash.",
+    "Type": 3,
+    "Par": 3401216,
+    "Description": "Every hit has a chance to add further stages:<br>Formless Flame Slash<style=\"accent-gn\"> Stage 1</style> Chance: <style=\"accent-gn\">30%</style>. <br>Formless Flame Slash<style=\"accent-gn\"> Stage 2</style> Chance: <style=\"accent-gn\">10%</style>.<br>Formless Flame Slash<style=\"accent-gn\"> Stage 3</style> Chance: <style=\"accent-gn\">3%</style>.",
     "ShowRule": 1
   },
   "1500": {
@@ -1601,7 +1737,7 @@
   },
   "1501": {
     "Id": 1501,
-    "Text": "Flash strike",
+    "Text": "Flash Strike",
     "Type": 2,
     "Par": 1717,
     "Description": "",
@@ -1881,7 +2017,7 @@
   },
   "1536": {
     "Id": 1536,
-    "Text": "Tectonic Ring",
+    "Text": "Cracking Echo",
     "Type": 2,
     "Par": 1907,
     "Description": "",
@@ -2257,7 +2393,7 @@
   },
   "1583": {
     "Id": 1583,
-    "Text": "Growth Arcane",
+    "Text": "Fast Growth",
     "Type": 2,
     "Par": 1524,
     "Description": "",
@@ -2535,6 +2671,102 @@
     "Description": "",
     "ShowRule": 1
   },
+  "1619": {
+    "Id": 1619,
+    "Text": "Blazing Ascension.",
+    "Type": 2,
+    "Par": 1605,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1620": {
+    "Id": 1620,
+    "Text": "Soaring Flame.",
+    "Type": 2,
+    "Par": 1619,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1621": {
+    "Id": 1621,
+    "Text": "Frenzied Slash.",
+    "Type": 2,
+    "Par": 1606,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1622": {
+    "Id": 1622,
+    "Text": "Blazing Assault.",
+    "Type": 2,
+    "Par": 1607,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1623": {
+    "Id": 1623,
+    "Text": "Rage Cleave.",
+    "Type": 2,
+    "Par": 1608,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1624": {
+    "Id": 1624,
+    "Text": "Whirlwind Slash.",
+    "Type": 2,
+    "Par": 1612,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1625": {
+    "Id": 1625,
+    "Text": "Wasteland's End.",
+    "Type": 2,
+    "Par": 1615,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1626": {
+    "Id": 1626,
+    "Text": "Wildfire Dance.",
+    "Type": 2,
+    "Par": 1613,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1627": {
+    "Id": 1627,
+    "Text": "Unbound Meteor.",
+    "Type": 2,
+    "Par": 1614,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1628": {
+    "Id": 1628,
+    "Text": "Falling Hellfire.",
+    "Type": 2,
+    "Par": 1621,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1629": {
+    "Id": 1629,
+    "Text": "Endless Hellfire.",
+    "Type": 2,
+    "Par": 1617,
+    "Description": "",
+    "ShowRule": 1
+  },
+  "1630": {
+    "Id": 1630,
+    "Text": "Flowing Splendor Slash.",
+    "Type": 2,
+    "Par": 1616,
+    "Description": "",
+    "ShowRule": 1
+  },
   "3000": {
     "Id": 3000,
     "Text": "Interrupt",
@@ -2660,7 +2892,7 @@
     "Text": "Status Effects",
     "Type": 3,
     "Par": 3403020,
-    "Description": "Includes: <style=\"accent-gn\">Stun</style>, <style=\"accent-gn\">Frozen</style>, <style=\"accent-gn\">Petrified</style>, <style=\"accent-gn\">Paralyzed</style>, <style=\"accent-gn\">Dazzled</style>, <style=\"accent-gn\">Feared</style>, <style=\"accent-gn\">Silenced</style>, <style=\"accent-gn\">Slowed</style>,<style=\"accent-gn\">Rooted</style>, <style=\"accent-gn\">Wounded</style>,<style=\"accent-gn\">Poisoned</style>, <style=\"accent-gn\">Bleeding</style>, <style=\"accent-gn\">Burning</style>.",
+    "Description": "Includes <style=\"accent-gn\">Stun</style>, <style=\"accent-gn\">Frozen</style>, <style=\"accent-gn\">Petrified</style>, <style=\"accent-gn\">Paralyzed</style>, <style=\"accent-gn\">Dazzle</style>, and <style=\"accent-gn\">Fear</style>.",
     "ShowRule": 1
   },
   "3021": {

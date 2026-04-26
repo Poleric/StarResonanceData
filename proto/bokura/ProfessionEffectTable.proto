@@ -1,26 +1,25 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ProfessionEffectTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  mlstring short_description = 1271;
-  mlstring description = 75;
-  int_array arrtr_id = 1648;
-  int_array value_range = 1881;
-  int_table sign_id = 1578;
-  int32 res_type = 39;
-  int_array buffs = 3;
-  int_table arrtrs = 558;
-  int32 normal_lib_id = 1543;
-  int32 pro_lib_id = 586;
-  bool if_close = 838;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	mlstring ShortDescription = 1271 [json_name = "ShortDescription"];
+	mlstring Description = 75 [json_name = "Description"];
+	int_array ArrtrId = 1648 [json_name = "ArrtrId"];
+	int_array ValueRange = 1881 [json_name = "ValueRange"];
+	int_table SignId = 1578 [json_name = "SignId"];
+	int32 ResType = 39 [json_name = "ResType"];
+	int_array Buffs = 3 [json_name = "Buffs"];
+	int_table Arrtrs = 558 [json_name = "Arrtrs"];
+	int32 NormalLibID = 1543 [json_name = "NormalLibID"];
+	int32 ProLibID = 586 [json_name = "ProLibID"];
+	bool IfClose = 838 [json_name = "IfClose"];
 }
 
 message ProfessionEffectTableMgr {
-  map<int32, bokura.ProfessionEffectTableBase> datas = 1;
+	map<int32, ProfessionEffectTableBase> datas = 1 [json_name = "datas"];
 }
-

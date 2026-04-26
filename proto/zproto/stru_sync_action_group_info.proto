@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_action_group_info.proto";
+
+package zproto;
+
+message SyncActionGroupInfo {
+	ActionGroupInfo actionGroupInfo = 1 [json_name = "actionGroupInfo"];
+	int64 beginTime = 2 [json_name = "beginTime"];
+}

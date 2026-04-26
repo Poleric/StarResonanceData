@@ -1,62 +1,61 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message NpcTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  int32 model_id = 2011;
-  string ai_config_file = 1218;
-  float walk_speed = 601;
-  float run_speed = 82;
-  bool export_voxel = 328;
-  string voxel_path = 434;
-  int32 default_camp = 1466;
-  bool is_show_hp = 36;
-  number_array entity_turn_velocity = 1703;
-  string map_icon = 39;
-  mlstring title = 695;
-  int32 dialog_flow = 107;
-  string comment = 11;
-  string npc_icon = 3266;
-  bool show_type = 1131;
-  int32 show_name = 1078;
-  mlstring_table npc_function_id = 1777;
-  int32 scene_tag_id = 1393;
-  bool is_turn_to_player = 1069;
-  int32 talk_action_id = 1687;
-  vector3 look_at_position = 506;
-  int32 look_at_npc = 1277;
-  string look_at_player = 1060;
-  int32 look_at_distance = 1940;
-  int32 look_at_angle = 910;
-  number_array loot_at_weight = 1459;
-  int32 response_range = 47;
-  int32 scare_action_id = 361;
-  int32 praise_action_id = 1770;
-  int_array be_pushed_action_id = 1647;
-  int32 layer = 1227;
-  int32 insightusable = 71;
-  string born_effect = 1140;
-  int32 born_time = 1588;
-  int_array born_client_buffs = 1364;
-  string dead_effect = 346;
-  int_array dead_client_buffs = 1638;
-  bool use_ik = 1262;
-  bool is_dissolution = 1579;
-  int32 plot_characters_id = 1282;
-  int_table status_info = 1979;
-  int_table status_transition = 109;
-  int_table interaction_template = 1682;
-  string_array interaction_event = 1343;
-  int32 default_state = 1528;
-  int_table show_status_info = 1473;
-  int_table show_status_transition = 1771;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	int32 ModelID = 2011 [json_name = "ModelID"];
+	string AIConfigFile = 1218 [json_name = "AIConfigFile"];
+	float WalkSpeed = 601 [json_name = "WalkSpeed"];
+	float RunSpeed = 82 [json_name = "RunSpeed"];
+	bool ExportVoxel = 328 [json_name = "ExportVoxel"];
+	string VoxelPath = 434 [json_name = "VoxelPath"];
+	int32 DefaultCamp = 1466 [json_name = "DefaultCamp"];
+	bool IsShowHp = 36 [json_name = "IsShowHp"];
+	number_array EntityTurnVelocity = 1703 [json_name = "EntityTurnVelocity"];
+	string MapIcon = 39 [json_name = "MapIcon"];
+	mlstring Title = 695 [json_name = "Title"];
+	int32 DialogFlow = 107 [json_name = "DialogFlow"];
+	string Comment = 11 [json_name = "Comment"];
+	string NpcIcon = 3266 [json_name = "NpcIcon"];
+	bool ShowType = 1131 [json_name = "ShowType"];
+	int32 ShowName = 1078 [json_name = "ShowName"];
+	mlstring_table NpcFunctionID = 1777 [json_name = "NpcFunctionID"];
+	int32 SceneTagId = 1393 [json_name = "SceneTagId"];
+	bool IsTurnToPlayer = 1069 [json_name = "IsTurnToPlayer"];
+	int32 TalkActionId = 1687 [json_name = "TalkActionId"];
+	vector3 LookAtPosition = 506 [json_name = "LookAtPosition"];
+	int32 LookAtNpc = 1277 [json_name = "LookAtNpc"];
+	string LookAtPlayer = 1060 [json_name = "LookAtPlayer"];
+	int32 LookAtDistance = 1940 [json_name = "LookAtDistance"];
+	int32 LookAtAngle = 910 [json_name = "LookAtAngle"];
+	number_array LootAtWeight = 1459 [json_name = "LootAtWeight"];
+	int32 ResponseRange = 47 [json_name = "ResponseRange"];
+	int32 ScareActionId = 361 [json_name = "ScareActionId"];
+	int32 PraiseActionId = 1770 [json_name = "PraiseActionId"];
+	int_array BePushedActionId = 1647 [json_name = "BePushedActionId"];
+	int32 Layer = 1227 [json_name = "Layer"];
+	int32 Insightusable = 71 [json_name = "Insightusable"];
+	string BornEffect = 1140 [json_name = "BornEffect"];
+	int32 BornTime = 1588 [json_name = "BornTime"];
+	int_array BornClientBuffs = 1364 [json_name = "BornClientBuffs"];
+	string DeadEffect = 346 [json_name = "DeadEffect"];
+	int_array DeadClientBuffs = 1638 [json_name = "DeadClientBuffs"];
+	bool UseIk = 1262 [json_name = "UseIk"];
+	bool IsDissolution = 1579 [json_name = "IsDissolution"];
+	int32 PlotCharactersId = 1282 [json_name = "PlotCharactersId"];
+	int_table StatusInfo = 1979 [json_name = "StatusInfo"];
+	int_table StatusTransition = 109 [json_name = "StatusTransition"];
+	int_table InteractionTemplate = 1682 [json_name = "InteractionTemplate"];
+	string_array InteractionEvent = 1343 [json_name = "InteractionEvent"];
+	int32 DefaultState = 1528 [json_name = "DefaultState"];
+	int_table ShowStatusInfo = 1473 [json_name = "ShowStatusInfo"];
+	int_table ShowStatusTransition = 1771 [json_name = "ShowStatusTransition"];
 }
 
 message NpcTableMgr {
-  map<int32, bokura.NpcTableBase> datas = 1;
+	map<int32, NpcTableBase> datas = 1 [json_name = "datas"];
 }
-

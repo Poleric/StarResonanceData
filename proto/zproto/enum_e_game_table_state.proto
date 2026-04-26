@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EGameTableState {
+	GameTableStateNull = 0;
+	GameTableStateReadying = 1;
+	GameTableStateWaitingPlaying = 2;
+	GameTableStatePlaying = 3;
+	GameTableStateWaitEnd = 4;
+	GameTableStateEnd = 5;
+}

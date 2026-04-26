@@ -32,7 +32,7 @@
   "101001": {
     "Id": 101001,
     "Comment": "第一赛季展示时装",
-    "Name": "Type Zero - Set",
+    "Name": "Type Zero",
     "BasicAvatar": [],
     "FashionItemId": [
       [
@@ -48,6 +48,28 @@
       ],
       [
         "ui/textures/season_title/season_reward_f_01"
+      ]
+    ]
+  },
+  "102001": {
+    "Id": 102001,
+    "Comment": "第二赛季展示时装",
+    "Name": "White Night Combatwear",
+    "BasicAvatar": [],
+    "FashionItemId": [
+      [
+        7015097
+      ],
+      [
+        7015098
+      ]
+    ],
+    "DesignPage": [
+      [
+        "ui/textures/season_title/season_reward_m_02"
+      ],
+      [
+        "ui/textures/season_title/season_reward_f_02"
       ]
     ]
   }

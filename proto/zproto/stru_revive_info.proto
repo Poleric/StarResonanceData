@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ReviveInfo {
-  map<int32, int32> revive_count = 1;
+	map<int32, int32> reviveCount = 1 [json_name = "reviveCount"];
 }
-

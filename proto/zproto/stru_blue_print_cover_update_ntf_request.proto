@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "enum_blue_print_type.proto";
+import "enum_e_error_code.proto";
+import "enum_e_picture_review_type.proto";
+
+package zproto;
+
+message BluePrintCoverUpdateNtfRequest {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	int32 slot = 2 [json_name = "slot"];
+	BluePrintType bluePrintType = 3 [json_name = "bluePrintType"];
+	string coverUrl = 4 [json_name = "coverUrl"];
+	EPictureReviewType reviewState = 5 [json_name = "reviewState"];
+}

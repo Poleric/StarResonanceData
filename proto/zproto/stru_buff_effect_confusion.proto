@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_buff_effect_confusion_type.proto";
 
-message BuffEffectConfusion {
-  zproto.EBuffEffectConfusionType type = 1;
-  float rand_radius = 2;
-}
+package zproto;
 
+message BuffEffectConfusion {
+	EBuffEffectConfusionType type = 1 [json_name = "type"];
+	float randRadius = 2 [json_name = "randRadius"];
+}

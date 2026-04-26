@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_community_homeland_recipe.proto";
 import "stru_dirty_mask.proto";
 
-message CommunityHomeData {
-  int64 community_id = 1;
-  int64 homeland_id = 2;
-  int32 buy_count = 3;
-  map<int32, zproto.CommunityHomelandRecipe> unlocked_recipes = 4;
-  int32 level = 5;
-}
+package zproto;
 
+message CommunityHomeData {
+	int64 communityId = 1 [json_name = "communityId"];
+	int64 homelandId = 2 [json_name = "homelandId"];
+	int32 buyCount = 3 [json_name = "buyCount"];
+	map<int32, CommunityHomelandRecipe> unlockedRecipes = 4 [json_name = "unlockedRecipes"];
+	int32 level = 5 [json_name = "level"];
+}

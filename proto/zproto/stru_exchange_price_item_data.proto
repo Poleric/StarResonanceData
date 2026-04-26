@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_item.proto";
 
-message ExchangePriceItemData {
-  int32 price = 1;
-  int32 num = 2;
-  zproto.Item item_info = 3;
-  string guid = 4;
-  int64 notice_time = 5;
-}
+package zproto;
 
+message ExchangePriceItemData {
+	int32 price = 1 [json_name = "price"];
+	int32 num = 2 [json_name = "num"];
+	Item itemInfo = 3 [json_name = "itemInfo"];
+	string guid = 4 [json_name = "guid"];
+	int64 noticeTime = 5 [json_name = "noticeTime"];
+}

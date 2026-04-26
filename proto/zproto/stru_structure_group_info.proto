@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message StructureGroupInfo {
-  int64 group_id = 1;
-  string group_name = 2;
-  repeated int64 structure_ids = 3;
+	int64 groupId = 1 [json_name = "groupId"];
+	string groupName = 2 [json_name = "groupName"];
+	repeated int64 structureIds = 3 [json_name = "structureIds"];
 }
-

@@ -7,6 +7,134 @@
     "DurationTime": 4.0,
     "Interrupt": 0
   },
+  "2": {
+    "Id": 2,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "2002401": {
+    "Id": 2002401,
+    "Content": "You hear a sound coming from not far away, rising and falling. <br>You first thought it was just the bleating of Caprahorns, but upon closer listening, you pick up a faint call for help...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "2002402": {
+    "Id": 2002402,
+    "Content": "You bring the priest named Heliodor back to the Scholar Camp. He tries to escape several times along the way, but each time you catch him. <br>Lisette is startled when she sees the Heliodor you dragged back, then immediately becomes furious.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3000801": {
+    "Id": 3000801,
+    "Content": "As you and Lure chatted while fishing, time flew by...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "5010301": {
+    "Id": 5010301,
+    "Content": "Rose saw the little kitten under the tree and called out to it with soft \"meows.\"<br>The kitten trotted over and rubbed against Rose, meowing softly.<br>Before long, Rose came back to my side and nudged me to follow it.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 14.0,
+    "Interrupt": 0
+  },
+  "3000901": {
+    "Id": 3000901,
+    "Content": "Perhaps it really was the fishing spot. Soon after casting her line, Sylvaine caught a half-meter long Bluefin Gurnard. A smile appeared on her face for the first time in a long while.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3001001": {
+    "Id": 3001001,
+    "Content": "Sylvaine stares intently at the float, while Lure rubs his chin absent-mindedly, clearly trying to make up a \"third stage\" of fishing...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "3001002": {
+    "Id": 3001002,
+    "Content": "Lure's hearty laughter echoes through the Fallen Valley, startling the fish in the underground river into hiding.<br>As a result, the three Longnose Gar Sylvaine caught earlier became the only spoils of our journey...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 13.0,
+    "Interrupt": 0
+  },
+  "3001003": {
+    "Id": 3001003,
+    "Content": "You told Lure what had happened...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3001101": {
+    "Id": 3001101,
+    "Content": "The Crimson Foxen has once again been defeated by the joint efforts of the Adventurers. Yet just as you are preparing to leave, you discover...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3001102": {
+    "Id": 3001102,
+    "Content": "Meanwhile, Orlando called over Alexia and carefully examined the girl's body...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "3001103": {
+    "Id": 3001103,
+    "Content": "After a short while, Orlando hands you a potion brewed from the Fullmoon Soulgrass.<br>You help the girl to her feet and carefully feed her the potion...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "3001104": {
+    "Id": 3001104,
+    "Content": "You bring Cheryl back to the camp. Just as she said, a group of people arrive shortly after to take her away...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3001201": {
+    "Id": 3001201,
+    "Content": "With a mournful cry, the Flamehorn crashes to the ground, its massive antlers growing dim...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "3001202": {
+    "Id": 3001202,
+    "Content": "A brilliant flash of light washes over you, and you feel yourself \"floating\" in the sky. You catch sight of a mountain-sized Caprahorn slam against an equally massive Golem...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "3001301": {
+    "Id": 3001301,
+    "Content": "Afterward, the three of you return to Asterleeds, and Edward expresses his heartfelt gratitude to you on behalf of the Pioneer Bureau...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
   "3061001": {
     "Id": 3061001,
     "Content": "With a crisp snap, the chest opens. But inside is no treasure-just a note: <br>What isn't yours will eventually vanish.",
@@ -23,12 +151,268 @@
     "DurationTime": 8.0,
     "Interrupt": 0
   },
+  "3062001": {
+    "Id": 3062001,
+    "Content": "After you whisper a few words to Magne and Pombo, they nod and run a short distance away. Serafina fiddles with her fingers, watching everything with a detached air.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3062002": {
+    "Id": 3062002,
+    "Content": "You wave, and Magne and Pombo dash back like swift little birds.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "3062003": {
+    "Id": 3062003,
+    "Content": "Leave with Magne and Pombo...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "3062201": {
+    "Id": 3062201,
+    "Content": "Gracie hides behind a tree, taking off her favorite dress and changing into drab clothes that are easier to move in.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3062801": {
+    "Id": 3062801,
+    "Content": "After a patter of footsteps, the door opens.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "3063001": {
+    "Id": 3063001,
+    "Content": "While Aubrey inspects the strange bird, Pani and Kabo tell him what happened this morning...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3063002": {
+    "Id": 3063002,
+    "Content": "The strange bird wobbles through the sky from the village direction.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "3063101": {
+    "Id": 3063101,
+    "Content": "Everyone has pitched their tents near the fire. After the goodnights are said, only steady breathing remains...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3063102": {
+    "Id": 3063102,
+    "Content": "Night deepens...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3063103": {
+    "Id": 3063103,
+    "Content": "With a piercing cry, the giant bird leader climbs upward, and the flock drift farther away. The leader casts a long, solemn look at Sparrow before leading its kin into the night...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "3063301": {
+    "Id": 3063301,
+    "Content": "Pheebo covers its eyes with the leaf on its head and runs off, looking very upset...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3063305": {
+    "Id": 3063305,
+    "Content": "\"Young one, why is it that we fish?\" <br>Lure asks with a placid smile, betraying none of the frustration from when a fish slipped his hook moments before. <br>\"Because the fish are there.\"",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3063401": {
+    "Id": 3063401,
+    "Content": "Afterwards, Cochran successfully strikes a deal with The Caravan. <br>Cochran avoided a hefty contract termination fee, and Aubrey's precious Caprahorns didn't lose their horns. <br>All in all, a happy ending... <br>I guess?",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3063501": {
+    "Id": 3063501,
+    "Content": "After an endless wait, just as you're all about to doze off, a few sneaky figures creep along the wall, heading deeper into the Garrison Outpost...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3063502": {
+    "Id": 3063502,
+    "Content": "The commotion from the fight quickly attracts the next shift of guards. The downcast soldier tells you to leave first while he handles things here.<br>You later learn that he received a commendation from the Corps for the incident. But was that a good thing or a bad thing?",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3063701": {
+    "Id": 3063701,
+    "Content": "You watch as the two little ones dart off like a flash. <br>Adrian keeps staring at the sky, refusing to look at Orlando, pretending nothing is happening.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3063901": {
+    "Id": 3063901,
+    "Content": "The sudden situation startles both you and Zemirah, and Jolon hurriedly shuts down the device. <br>You all stand there in shock for a while, then rest briefly before gathering around the Engram Monitor to examine it.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3064001": {
+    "Id": 3064001,
+    "Content": "As Leonard finishes speaking, a long, clear cry echoes across the night sky over the Moonshadow Wilds...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3064002": {
+    "Id": 3064002,
+    "Content": "Leonard forces his eyes wide open, yet the brush in his hand never comes down. <br>Perhaps his eyes have been strained from not blinking for too long, and now tears stream endlessly from his sockets...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3064003": {
+    "Id": 3064003,
+    "Content": "He falls silent, so you also keep quiet, until the Crimson Foxen leaves...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3064101": {
+    "Id": 3064101,
+    "Content": "Enjoy Rainbean Rice together with Alfonso...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3910302": {
+    "Id": 3910302,
+    "Content": "The emotional Julian falls silent. <br>Only the sounds of the wind, the chirping of insects, <br>and the paint-covered brush on canvas remain. <br><br>A long time passes... then a cry of surprise breaks the silence...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "5013101": {
+    "Id": 5013101,
+    "Content": "\"Come! Let's see if you have the power to discern that light!\"",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
   "10010401": {
     "Id": 10010401,
     "Content": "The Man in Black disappeared into the Void Engram.<br>By the time I regained consciousness, I was already back in reality.",
     "Type": 140,
     "FadeInTime": 0,
     "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "5013201": {
+    "Id": 5013201,
+    "Content": "\"Come! You must find the item that still shines even when it is as old as the ancient Renewal Light!\"",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "10050501": {
+    "Id": 10050501,
+    "Content": "Time keeps slipping away, yet Airona still hasn't shown up. <br>Standing around won't help... I should go look for her.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "10050502": {
+    "Id": 10050502,
+    "Content": "Afterwards Airona and I let Jerrad know we are safe and return to the Double-Faced Coin.<br>After all the tension and chaos, we can finally take a breather.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "10050503": {
+    "Id": 10050503,
+    "Content": "I still don't understand what the drifting mist truly means. <br>Nor do I know how the highlands are connected to these strange events.<br><br>Why Airona got trapped in an illusion and what she saw within it remain a mystery.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "10060301": {
+    "Id": 10060301,
+    "Content": "Taylor leaves with a stiff expression. His arrival was abrupt; his departure even more so.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "10080101": {
+    "Id": 10080101,
+    "Content": "The door creaked open. A hand shot out, groped quickly, grabbed the supplies, and whooshed back.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "10080102": {
+    "Id": 10080102,
+    "Content": "After the monsters were repelled...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "10080103": {
+    "Id": 10080103,
+    "Content": "And so, Darya's work as a guide came to an end.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "10080221": {
+    "Id": 10080221,
+    "Content": "I close my eyes, my fingertips gently brushing the outer shell of the Engram Monitor. <br>The coldness seeps through my skin, crawling swiftly up my arm. <br>An instant later, I detect a faint pulse. It starts as a steady wave, but deep within, I can feel nearly invisible fractures. <br>I hold my breath, tracing the fissure to investigate further. <br>But then, I sense another familiar energy, potent and dangerous, flowing silently... <br>It pulsates in perfect sync with the Crimson Marrow.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
     "Interrupt": 0
   },
   "10080301": {
@@ -47,36 +431,12 @@
     "DurationTime": 4.0,
     "Interrupt": 0
   },
-  "30015301": {
-    "Id": 30015301,
-    "Content": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 6.0,
-    "Interrupt": 0
-  },
-  "30070801": {
-    "Id": 30070801,
-    "Content": "Moved the heavy Golem elsewhere with the other scavengers in the camp...",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 4.0,
-    "Interrupt": 0
-  },
-  "30070802": {
-    "Id": 30070802,
-    "Content": "Some time later, 6 people in black appeared in sight...",
+  "10080403": {
+    "Id": 10080403,
+    "Content": "The atmosphere in this district is so uncomfortable. It feels like standing here means there's an endless amount of work to be done. <br>If Jerrad doesn't get here soon, it's probably fine if I just take off, right?",
     "Type": 140,
     "FadeInTime": 0,
-    "DurationTime": 4.0,
-    "Interrupt": 0
-  },
-  "30070803": {
-    "Id": 30070803,
-    "Content": "Huskstar's right hand lifted instantly, and a miniature Legacy flew from his hand.<br>The Legacy arced gracefully through the air and landed near the place where the Golem was hidden. <br>But aside from a noticeable arc of electricity, nothing else happened...",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 12.0,
+    "DurationTime": 9.0,
     "Interrupt": 0
   },
   "17100106": {
@@ -141,6 +501,646 @@
     "Type": 140,
     "FadeInTime": 1,
     "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "30015301": {
+    "Id": 30015301,
+    "Content": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "30070801": {
+    "Id": 30070801,
+    "Content": "Moved the heavy Golem elsewhere with the other scavengers in the camp...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "30070802": {
+    "Id": 30070802,
+    "Content": "Some time later, 6 people in black appeared in sight...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "30070803": {
+    "Id": 30070803,
+    "Content": "Huskstar's right hand lifted instantly, and a miniature Legacy flew from his hand.<br>The Legacy arced gracefully through the air and landed near the place where the Golem was hidden. <br>But aside from a noticeable arc of electricity, nothing else happened...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "30270202": {
+    "Id": 30270202,
+    "Content": "(Explain to the clerk where the problem is.)",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "30420101": {
+    "Id": 30420101,
+    "Content": "After some more catching up, the two, who hadn't seen each other in years, chatted more and more enthusiastically...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33000201": {
+    "Id": 33000201,
+    "Content": "\"3, 2, 1—\" <br>An intense light flooded the entire cave...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33000401": {
+    "Id": 33000401,
+    "Content": "Some time ago<br><br>Asteria Plains - Outside the Ruins of Andra City - The Creed's Camp",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33062403": {
+    "Id": 33062403,
+    "Content": "You told them everything that had happened...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33062404": {
+    "Id": 33062404,
+    "Content": "Heath uses gestures to explain what happened, and you nod along, adding some of the finer details...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "33062405": {
+    "Id": 33062405,
+    "Content": "You tell the administrator the whole story, with Heath nodding along and adding details...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "33062406": {
+    "Id": 33062406,
+    "Content": "You tell the clerk in charge the whole story...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33062407": {
+    "Id": 33062407,
+    "Content": "You tell the quiet miner the whole story...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33062408": {
+    "Id": 33062408,
+    "Content": "You tell Grieg everything that happened...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33062409": {
+    "Id": 33062409,
+    "Content": "\"I'm sorry, everyone...\"<br>\"Ah, finally... I can go home...\"",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33251501": {
+    "Id": 33251501,
+    "Content": "The kitten doesn't reject your affection, but you notice its gaze is still fixed on something in the distance. <br>So, dissatisfied, you use both hands...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "33251502": {
+    "Id": 33251502,
+    "Content": "Tell Pearl about the kitten.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33251503": {
+    "Id": 33251503,
+    "Content": "As you all chat, the sky slowly darkens, and the children head home one by one...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33251504": {
+    "Id": 33251504,
+    "Content": "The corrupted monster has been defeated, and the villagers gradually gather around. <br>Pearl and Nimbus both suffered some superficial wounds, but thankfully, they're not serious...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "33340101": {
+    "Id": 33340101,
+    "Content": "Relay Anemone's commission truthfully.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33340201": {
+    "Id": 33340201,
+    "Content": "(Clean up the Goblin-vandalized cemetery with Feliz.)",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33340202": {
+    "Id": 33340202,
+    "Content": "Feliz holds out the letter with both hands, his fingers trembling nonstop. <br>Alphonse takes the letter. He says nothing, just gives Feliz a deep, profound look, then turns and vanishes into the darkness of the night.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "33350801": {
+    "Id": 33350801,
+    "Content": "Gently stroke the leaf on Nappo's head.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33350802": {
+    "Id": 33350802,
+    "Content": "The cat-loving clerk cautiously extends his hand, but Beebo takes the initiative to nuzzle his palm. It's clear that Beebo is happy to be petted by humans.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "33350803": {
+    "Id": 33350803,
+    "Content": "Before you even reach out, Beebo perks up its leaf expectantly. It's clear that Beebo is happy to be petted by humans.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "33351101": {
+    "Id": 33351101,
+    "Content": "(Tell the chronicler about Triffin's predicament.)",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33351201": {
+    "Id": 33351201,
+    "Content": "(Tell Maire about the difficulties Triffin is facing.)",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33360301": {
+    "Id": 33360301,
+    "Content": "(Tell Hebard about the exciting chase with the Swift Eagle.)",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33360302": {
+    "Id": 33360302,
+    "Content": "(Tell Varnell the whole story of the raid on the Goblin camp and the exciting chase with the Swift Eagle.)",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "33420101": {
+    "Id": 33420101,
+    "Content": "Despite what you said, you grab his clothes and leap lightly back to the ground...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "33450101": {
+    "Id": 33450101,
+    "Content": "Some time passes...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "30818001": {
+    "Id": 30818001,
+    "Content": "Just as I spoke, birds scattered from the forest, and a heavy, low growl came from behind.<br>At the same time, thousands of gazes flickered among the trees—it was a herd of Caprahorn hiding in the woods.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "30818002": {
+    "Id": 30818002,
+    "Content": "Thanks to the adventurers' close cooperation, the giant Flamehorn slowly retreated back into the forest, and the gazes of the thousands of Caprahorn vanished.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "33450102": {
+    "Id": 33450102,
+    "Content": "A while later...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33450201": {
+    "Id": 33450201,
+    "Content": "Holmes has barely finished speaking when a monster's roar echoes from nearby...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33450202": {
+    "Id": 33450202,
+    "Content": "A long wait ensues, during which Holmes continuously holds Walson's hand, muttering to himself...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "33540101": {
+    "Id": 33540101,
+    "Content": "Cochran closes his eyes, a little expectant and a little shy. He puckers his lips slightly and slowly leans toward the male Caprahorn, which is flicking its tail helplessly...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "33540102": {
+    "Id": 33540102,
+    "Content": "Isabella bites her finger, dabbing a fiery crimson drop of blood on Cochran's forehead. <br>In an instant, Cochran quiets down, trembling like a frightened animal.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "33540103": {
+    "Id": 33540103,
+    "Content": "Smack!",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "33540104": {
+    "Id": 33540104,
+    "Content": "You can't believe the sound of a hand hitting a face could be so loud, and you can't help but applaud.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "33540105": {
+    "Id": 33540105,
+    "Content": "After you tell Cochran what he did while under the influence of the Illusory Bloom, he falls silent for a long time...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "33540106": {
+    "Id": 33540106,
+    "Content": "Cochran leaves, clutching his face.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33540107": {
+    "Id": 33540107,
+    "Content": "Afterwards, to soothe Cochran's wounded soul, Isabella grants him the publishing rights to the short story collection. <br>But knowing what's in the book, he probably has mixed feelings about it...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "33080701": {
+    "Id": 33080701,
+    "Content": "Alp ran off angrily...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "60904241": {
+    "Id": 60904241,
+    "Content": "You taste the stone-wheat flatbread with Caprahorn meat made by Anemone, but you can't chew the crust no matter how hard you try. <br>Anemone went to great lengths to salvage the texture of the ingredients, but it's clear her efforts were all for nothing.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "3064201": {
+    "Id": 3064201,
+    "Content": "\"Wait! \"<br>Someone suddenly darts out just as I try to approach the Caprahorn.<br>Even though he lowers his voice, the abrupt sound still breaks the forest's quiet.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3064202": {
+    "Id": 3064202,
+    "Content": "Two Foxens emerge quietly from the bushes, staring at the injured Caprahorn, their gazes filled with ferocity.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "4050001": {
+    "Id": 4050001,
+    "Content": "Horrace and his party left...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050101": {
+    "Id": 4050101,
+    "Content": "Darya and I found the person in charge of the Blackstone Legion and explained the situation.<br>The leader was astounded and immediately led his men to resolve the issue.<br>Only after the soldiers were settled did we plan to ask about the full story.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "4050002": {
+    "Id": 4050002,
+    "Content": "Luca grabbed the money and dashed away...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050102": {
+    "Id": 4050102,
+    "Content": "I parted ways with Darya after that, though I occasionally hear news of her working hard to earn Luno.<br>Sometimes, she sends mementos from the plateau where she's hard at work, telling me that everything is going well for her.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "4050003": {
+    "Id": 4050003,
+    "Content": "The villagers, still in shock, kept their distance from me.<br>It seemed they'd rather walk along the dangerous cliff edge than get close...<br>Lysa babbled nonsense the whole way, bursting into tears at the mere mention of Boyce.<br>After much trouble, I finally managed to escort them back to their homes...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "4050103": {
+    "Id": 4050103,
+    "Content": "Some time later, I received another letter from Darya.<br>With the note was a drawing of a little figure in pain. She said that she had fallen ill and urgently needed a kind adventurer to care for her.<br>I rushed over, only to find her sitting on her bed, looking listless.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 14.0,
+    "Interrupt": 0
+  },
+  "4050004": {
+    "Id": 4050004,
+    "Content": "Horrace, Lothar, and their party left...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050005": {
+    "Id": 4050005,
+    "Content": "The boss lady left.<br>I felt like I could hear faint, hearty laughter coming from the direction she went...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050006": {
+    "Id": 4050006,
+    "Content": "Boyce began skillfully brewing the potion...<br>A strange fragrance filled the air,<br>like the scent of dew at dawn,<br>or damp earth after a rainshower,<br>finally condensing into the freshness of an insect flitting past one's nose...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "4050007": {
+    "Id": 4050007,
+    "Content": "Boyce closed his eyes and began to meditate...<br>After a while, Olsonne was the first to wake up.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050008": {
+    "Id": 4050008,
+    "Content": "With Olsonne taken away by the cultists,<br>the Dreamweaver incident came to a close.<br>But the truth of the matter,<br>like the light that once shone in Boyce's eyes,<br>was frozen once more...<br>After that,<br>I didn't see Boyce for a long time.<br>Perhaps I will never again see<br>that heat amid the frost.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "4050009": {
+    "Id": 4050009,
+    "Content": "Boyce held the dim staff in front of him.<br>Without hesitation, he made a motion with both hands,<br>and with a crisp snap, the staff broke in two.<br>The Creed soldiers swarmed in<br>and took Boyce away...<br>Because of my connection with the Pioneer Bureau,<br>they didn't give me much trouble.<br>Boyce didn't appear again for a long time after that,<br>but the news that he would be judged by the Creed<br>had already spread...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 15.0,
+    "Interrupt": 0
+  },
+  "4050010": {
+    "Id": 4050010,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 1.5,
+    "Interrupt": 0
+  },
+  "4050301": {
+    "Id": 4050301,
+    "Content": "Magne seemed to have finally let go of a long-held worry. She waved as she ran into the distance and soon disappeared at the other end of the village.<br>Now, only Airona and I remained.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "4050011": {
+    "Id": 4050011,
+    "Content": "...Only when one no longer fears falling can one learn to fly.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "581201": {
+    "Id": 581201,
+    "Content": "(The adult Boyce hugged the young Boyce, and the young Boyce vanished in a burst of light.)",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "4050012": {
+    "Id": 4050012,
+    "Content": "(Boyce took a doll out of his pocket.)",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050302": {
+    "Id": 4050302,
+    "Content": "Belleet finished speaking and slowly walked away.<br>I stood under the tree, her words ringing in my mind.<br>About the moonlight, about the flower that blooms only once...<br><br>Before I knew it, the sky had darkened.<br>When I came to, a familiar figure was standing by the Sea Lily under the tree.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 13.0,
+    "Interrupt": 0
+  },
+  "2002501": {
+    "Id": 2002501,
+    "Content": "There was the brief sound of a weapon being unsheathed, and the informer's voice stopped abruptly.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "2002601": {
+    "Id": 2002601,
+    "Content": "I arrived at the Garrison Outpost with fifty guards disguised as adventurers.<br>Reynold called out the soldiers inside and loudly questioned them about the mine.<br>They laughed, acting as if they didn't care at all.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "2002502": {
+    "Id": 2002502,
+    "Content": "The Imagine Seed was activated, and a clear image appeared in my mind—",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "2002503": {
+    "Id": 2002503,
+    "Content": "The soldiers skillfully carried away the bodies of Reiner and the others, barely sparing us a glance.<br>Their black military boots trampled the torn List on the ground, as if it were garbage that had never held any meaning.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "50070001": {
+    "Id": 50070001,
+    "Content": "The mysterious figure abruptly vanishes before your very eyes, as if they were never there.<br>But your conversation drives you to join this insane treasure hunt...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "2002602": {
+    "Id": 2002602,
+    "Content": "After intercepting the pursuing soldiers, I didn't waste time fighting, but rather retreated immediately,<br>heading toward Asterleeds.<br>When I reached the city entrance, I saw Jerrad and the others waiting anxiously.<br>Seeing me return safely, everyone smiled and breathed a sigh of relief.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "50070002": {
+    "Id": 50070002,
+    "Content": "I took a deep breath, braced myself, and dived down, bringing up the sparkling object.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "17021001": {
+    "Id": 17021001,
+    "Content": "I boarded the cruise with Luyanis.<br>The ship slowly left the shore, the sea breeze brushing my cheeks with a damp chill.<br>Mist soon swallowed the beach behind us, leaving only the sound of waves and the ship's movement.<br><br>I don't know how much time passed before the fog gradually lifted. A strange and brilliant island floated before my eyes like a dream.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 16.0,
+    "Interrupt": 0
+  },
+  "31101001": {
+    "Id": 31101001,
+    "Content": "No one expected the grand prize to be working as a staff member on Starland.<br>I spent the whole day busy—handing out balloons, guiding crowds, operating attractions, and doing other random tasks...<br>In the end, I was exhausted, lying catatonic on the beach. Maybe the person who won this super-special reward knew what the prize entailed, and that's why...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 14.0,
+    "Interrupt": 0
+  },
+  "31105001": {
+    "Id": 31105001,
+    "Content": "After the Lost and Found broadcast, a lady came looking for one of the items, calling herself Nyx.<br>She said she was Ometawi's companion and was sent to pick it up before describing the letter's features perfectly.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "3911701": {
+    "Id": 3911701,
+    "Content": "Lushuna sang an a cappella tidal tune on the spot. Not just me, but other tourists on the beach stopped to listen.<br>The song was melodious and moving, carrying the unique gentleness and vastness of the ocean.<br>It felt as if the tide rose and fell with the melody, melting the freshness of the sea breeze and the weight of the reefs into his voice...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 13.0,
+    "Interrupt": 0
+  },
+  "31107001": {
+    "Id": 31107001,
+    "Content": "The children excitedly hid in the nearby Cherry Blossom Forest...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "31110001": {
+    "Id": 31110001,
+    "Content": "Tachi-Tachi relished the lamb chops, eating with gusto.<br>Boto's face squeezed itself into a forced smile,<br>as if he were enduring a tragic battle...<br>Finally, under the supervision of the Starland staff,<br>Boto and Tachi-Tachi left the island.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "31110002": {
+    "Id": 31110002,
+    "Content": "Special lamb chop held tightly in his arms,<br>Boto left Starland with Tachi-Tachi.<br>There was still a hint of roast meat in the wind,<br>but it was soon overpowered by the scent of the sea.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "31110003": {
+    "Id": 31110003,
+    "Content": "At Boto's insistence,<br>the staff was forced to helplessly watch Tachi-Tachi gorge himself.<br>A triumphant smile adorned Boto's face the entire time,<br>as if he had won an unprecedented victory.<br>After Tachi-Tachi had eaten his fill, Boto thanked you profusely<br>and took Tachi-Tachi for a walk on the beach.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
     "Interrupt": 0
   }
 }

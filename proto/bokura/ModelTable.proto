@@ -1,54 +1,53 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ModelTableBase {
-  int32 model_id = 2011;
-  string model_desc = 1227;
-  int32 model_type = 1034;
-  string image = 958;
-  string bust = 1934;
-  int32 model_prefab_id = 5;
-  float model_scale = 1070;
-  string_array mount = 278;
-  number_table mount_offset = 1939;
-  number_table mount_rot = 380;
-  number_table mount_scale = 1962;
-  string weapon_idle_anim = 102;
-  int32 go_type = 1223;
-  number_array go_data = 1790;
-  int_array body_parts = 682;
-  vector3 rt_pos = 808;
-  vector3 rt_rot = 508;
-  float weight_factor = 1330;
-  string_array stiff_air_curve = 812;
-  string_array stiff_down_curve = 775;
-  string_array stiff_fall_curve = 989;
-  number_array stiff_time = 106;
-  float stiff_stand_time = 1664;
-  float stiff_down_time = 1774;
-  int32 death_action_time = 1799;
-  float break_end_anim_time = 689;
-  string_array audio_bank = 1796;
-  bool ignore_far_cull = 847;
-  int32 size_type = 57;
-  int32 basic_fleshy_type = 2041;
-  float walk_velocity = 2105;
-  float run_velocity = 1804;
-  float dash_velocity = 1551;
-  float move_anim_speed = 334;
-  string model_effect = 1811;
-  bool is_multipod = 1464;
-  float be_hit_offset = 391;
-  number_array scale_params = 1778;
-  string be_hit_addi_anim_name = 1240;
-  number_table state_additive_hit_weight = 1556;
-  float blood_hud_offset = 189;
+	int32 ModelID = 2011 [json_name = "ModelID"];
+	string ModelDesc = 1227 [json_name = "ModelDesc"];
+	int32 ModelType = 1034 [json_name = "ModelType"];
+	string Image = 958 [json_name = "Image"];
+	string Bust = 1934 [json_name = "Bust"];
+	int32 ModelPrefabID = 5 [json_name = "ModelPrefabID"];
+	float ModelScale = 1070 [json_name = "ModelScale"];
+	string_array Mount = 278 [json_name = "Mount"];
+	number_table MountOffset = 1939 [json_name = "MountOffset"];
+	number_table MountRot = 380 [json_name = "MountRot"];
+	number_table MountScale = 1962 [json_name = "MountScale"];
+	string WeaponIdleAnim = 102 [json_name = "WeaponIdleAnim"];
+	int32 GoType = 1223 [json_name = "GoType"];
+	number_array GoData = 1790 [json_name = "GoData"];
+	int_array BodyParts = 682 [json_name = "BodyParts"];
+	vector3 RTPos = 808 [json_name = "RTPos"];
+	vector3 RTRot = 508 [json_name = "RTRot"];
+	float WeightFactor = 1330 [json_name = "WeightFactor"];
+	string_array StiffAirCurve = 812 [json_name = "StiffAirCurve"];
+	string_array StiffDownCurve = 775 [json_name = "StiffDownCurve"];
+	string_array StiffFallCurve = 989 [json_name = "StiffFallCurve"];
+	number_array StiffTime = 106 [json_name = "StiffTime"];
+	float StiffStandTime = 1664 [json_name = "StiffStandTime"];
+	float StiffDownTime = 1774 [json_name = "StiffDownTime"];
+	int32 DeathActionTime = 1799 [json_name = "DeathActionTime"];
+	float BreakEndAnimTime = 689 [json_name = "BreakEndAnimTime"];
+	string_array AudioBank = 1796 [json_name = "AudioBank"];
+	bool IgnoreFarCull = 847 [json_name = "IgnoreFarCull"];
+	int32 SizeType = 57 [json_name = "SizeType"];
+	int32 BasicFleshyType = 2041 [json_name = "BasicFleshyType"];
+	float WalkVelocity = 2105 [json_name = "WalkVelocity"];
+	float RunVelocity = 1804 [json_name = "RunVelocity"];
+	float DashVelocity = 1551 [json_name = "DashVelocity"];
+	float MoveAnimSpeed = 334 [json_name = "MoveAnimSpeed"];
+	string ModelEffect = 1811 [json_name = "ModelEffect"];
+	bool IsMultipod = 1464 [json_name = "IsMultipod"];
+	float BeHitOffset = 391 [json_name = "BeHitOffset"];
+	number_array ScaleParams = 1778 [json_name = "ScaleParams"];
+	string BeHitAddiAnimName = 1240 [json_name = "BeHitAddiAnimName"];
+	number_table StateAdditiveHitWeight = 1556 [json_name = "StateAdditiveHitWeight"];
+	float BloodHudOffset = 189 [json_name = "BloodHudOffset"];
 }
 
 message ModelTableMgr {
-  map<int32, bokura.ModelTableBase> datas = 1;
+	map<int32, ModelTableBase> datas = 1 [json_name = "datas"];
 }
-

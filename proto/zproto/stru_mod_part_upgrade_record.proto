@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message ModPartUpgradeRecord {
-  int32 part_id = 1;
-  bool is_success = 2;
-}
+package zproto;
 
+message ModPartUpgradeRecord {
+	int32 partId = 1 [json_name = "partId"];
+	bool isSuccess = 2 [json_name = "isSuccess"];
+}

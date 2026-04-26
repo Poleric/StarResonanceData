@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_shop_tab_info.proto";
 
-message GetShopItemListReply {
-  map<int32, zproto.ShopTabInfo> tab = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message GetShopItemListReply {
+	map<int32, ShopTabInfo> tab = 2 [json_name = "tab"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_item_counter_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ItemCounterList {
+	map<int32, ItemCounterInfo> itemCounterMap = 1 [json_name = "itemCounterMap"];
+}

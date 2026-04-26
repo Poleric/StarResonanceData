@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message worldQuestList {
-  repeated int32 quest_list = 1;
-}
+package zproto;
 
+message worldQuestList {
+	repeated int32 questList = 1 [json_name = "questList"];
+}

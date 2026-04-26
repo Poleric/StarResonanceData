@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_exchange_item_info.proto";
 
-message ExchangeNoticeReply {
-  repeated zproto.ExchangeItemInfo items = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message ExchangeNoticeReply {
+	repeated ExchangeItemInfo items = 2 [json_name = "items"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

@@ -3,10 +3,9 @@ syntax = "proto3";
 package zproto;
 
 message NotifyQuestChangeStepParam {
-  int32 quest_id = 1;
-  int32 last_step = 2;
-  int32 last_step_status = 3;
-  int32 curr_setp = 4;
-  int32 last_quest_status = 5;
+	int32 questId = 1 [json_name = "questId"];
+	int32 lastStep = 2 [json_name = "lastStep"];
+	int32 lastStepStatus = 3 [json_name = "lastStepStatus"];
+	int32 currSetp = 4 [json_name = "currSetp"];
+	int32 lastQuestStatus = 5 [json_name = "lastQuestStatus"];
 }
-

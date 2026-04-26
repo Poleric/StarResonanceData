@@ -3,10 +3,9 @@ syntax = "proto3";
 package zproto;
 
 enum EPrivilegeEffectType {
-  EPrivilegeEffectTypeNone = 0;
-  EPrivilegeEffectTypeItemDropBonus = 1;
-  EPrivilegeEffectTypeDailyActivityBonus = 2;
-  EPrivilegeEffectTypeBattlePassLevAdd = 3;
-  EPrivilegeEffectTypeShopRefreshTimesBonus = 4;
+	EPrivilegeEffectTypeNone = 0;
+	EPrivilegeEffectTypeItemDropBonus = 1;
+	EPrivilegeEffectTypeDailyActivityBonus = 2;
+	EPrivilegeEffectTypeBattlePassLevAdd = 3;
+	EPrivilegeEffectTypeShopRefreshTimesBonus = 4;
 }
-

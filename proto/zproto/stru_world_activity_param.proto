@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_activity.proto";
 
-message WorldActivityParam {
-  zproto.Activity activity = 1;
-}
+package zproto;
 
+message WorldActivityParam {
+	Activity activity = 1 [json_name = "activity"];
+}

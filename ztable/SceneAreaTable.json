@@ -7,7 +7,9 @@
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "40001": {
     "Id": 40001,
@@ -16,8 +18,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "40002": {
     "Id": 40002,
@@ -26,8 +34,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLandCrowded",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "40003": {
     "Id": 40003,
@@ -36,8 +50,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "40004": {
     "Id": 40004,
@@ -46,8 +66,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "40100": {
     "Id": 40100,
@@ -56,8 +82,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80001": {
     "Id": 80001,
@@ -70,7 +102,9 @@
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80002": {
     "Id": 80002,
@@ -82,8 +116,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLandCrowded",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80003": {
     "Id": 80003,
@@ -95,8 +135,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80004": {
     "Id": 80004,
@@ -108,8 +154,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_Beach",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_Yes"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80005": {
     "Id": 80005,
@@ -121,8 +173,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLandCrowded",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80006": {
     "Id": 80006,
@@ -134,8 +192,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Leafy",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80007": {
     "Id": 80007,
@@ -147,8 +211,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Leafy",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80008": {
     "Id": 80008,
@@ -160,8 +230,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Leafy",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80009": {
     "Id": 80009,
@@ -173,8 +249,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80010": {
     "Id": 80010,
@@ -183,8 +265,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToHarbor"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80011": {
     "Id": 80011,
@@ -193,8 +280,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand",
+      "Amb_2D_Cty001_SetToHarbor"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80012": {
     "Id": 80012,
@@ -203,8 +295,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Leafy",
+      "Amb_2D_Cty001_SetToDistantSea"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80013": {
     "Id": 80013,
@@ -213,8 +310,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Leafy",
+      "Amb_2D_Cty001_SetToDistantSea"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80014": {
     "Id": 80014,
@@ -223,8 +325,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToDistantSea"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80015": {
     "Id": 80015,
@@ -233,8 +340,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_Beach",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand",
+      "Amb_2D_Cty001_SetToBeach",
+      "FireworksCrowded_Yes"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80101": {
     "Id": 80101,
@@ -243,8 +356,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_InDoor",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80102": {
     "Id": 80102,
@@ -253,8 +371,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80201": {
     "Id": 80201,
@@ -263,8 +386,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_InDoor",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80301": {
     "Id": 80301,
@@ -273,8 +401,13 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Cty001_Area_Bureau",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_InDoor",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80302": {
     "Id": 80302,
@@ -283,8 +416,13 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_InDoor",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80303": {
     "Id": 80303,
@@ -293,8 +431,13 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Cty001_Area_Hotel",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_InDoor",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80304": {
     "Id": 80304,
@@ -303,8 +446,13 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_InDoor",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80305": {
     "Id": 80305,
@@ -313,8 +461,13 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Cty001_Area_Bar",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_InDoor",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80306": {
     "Id": 80306,
@@ -323,8 +476,13 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Cty001_Area_Hotel",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_InDoor",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80307": {
     "Id": 80307,
@@ -333,8 +491,13 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_InDoor",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80098": {
     "Id": 80098,
@@ -346,8 +509,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "80099": {
     "Id": 80099,
@@ -359,8 +528,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToLand",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70001": {
     "Id": 70001,
@@ -369,8 +544,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70002": {
     "Id": 70002,
@@ -379,8 +559,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70003": {
     "Id": 70003,
@@ -389,8 +574,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70004": {
     "Id": 70004,
@@ -399,8 +589,13 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "FireworksCrowded_No"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70005": {
     "Id": 70005,
@@ -412,10 +607,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70006": {
     "Id": 70006,
@@ -427,10 +626,15 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_BirdInsect_Loop",
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70007": {
     "Id": 70007,
@@ -442,10 +646,15 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_ValeCitadel",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_BirdInsect_Loop",
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70008": {
     "Id": 70008,
@@ -457,11 +666,16 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_StelesOfHeroes",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_BirdInsect_Loop",
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001,
       7000002
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70009": {
     "Id": 70009,
@@ -470,10 +684,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70010": {
     "Id": 70010,
@@ -485,10 +703,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_ValeCitadel",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70011": {
     "Id": 70011,
@@ -500,10 +722,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_Carniman",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70012": {
     "Id": 70012,
@@ -515,10 +741,15 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_Misthoen",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_BirdInsect_Loop",
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70013": {
     "Id": 70013,
@@ -530,11 +761,16 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_Carniman",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_BirdInsect_Loop",
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001,
       7000002
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70014": {
     "Id": 70014,
@@ -546,10 +782,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70015": {
     "Id": 70015,
@@ -561,10 +801,15 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_DuskbloodFort",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_BirdInsect_Loop",
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70016": {
     "Id": 70016,
@@ -576,10 +821,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70017": {
     "Id": 70017,
@@ -588,10 +837,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70018": {
     "Id": 70018,
@@ -603,10 +856,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70019": {
     "Id": 70019,
@@ -615,10 +872,15 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_BirdInsect_Loop",
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70020": {
     "Id": 70020,
@@ -627,10 +889,14 @@
     "RegionType": 0,
     "BgmEvent": "",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70021": {
     "Id": 70021,
@@ -639,10 +905,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToBeach"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70022": {
     "Id": 70022,
@@ -651,10 +921,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToDistantSea"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70023": {
     "Id": 70023,
@@ -663,10 +937,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_Carniman",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToDistantSea"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70024": {
     "Id": 70024,
@@ -675,10 +953,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToDistantSea"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70025": {
     "Id": 70025,
@@ -687,10 +969,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToDistantSea"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70026": {
     "Id": 70026,
@@ -699,10 +985,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToDistantSea"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70027": {
     "Id": 70027,
@@ -711,10 +1001,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_CliffRuins",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToDistantSea"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70028": {
     "Id": 70028,
@@ -723,10 +1017,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_ValeCitadel",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToDistantSea"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70029": {
     "Id": 70029,
@@ -735,10 +1033,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_StelesOfHeroes",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToDistantSea"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70030": {
     "Id": 70030,
@@ -747,10 +1049,14 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Area_DuskbloodFort",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToDistantSea"
+    ],
     "EnvClientBuffArray": [
       7000001
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70101": {
     "Id": 70101,
@@ -759,8 +1065,12 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Fld001_Area_CliffRuins",
     "ReverEvent": "Reverb_Cave",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Fld001_Cave_YaZhiYiJi_Loop"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70102": {
     "Id": 70102,
@@ -769,8 +1079,12 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Fld001_Area_AndraCave",
     "ReverEvent": "Reverb_Cave",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Fld001_Cave_Spider_Loop"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70103": {
     "Id": 70103,
@@ -779,8 +1093,12 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Fld001_Area_DuskbloodFort",
     "ReverEvent": "Reverb_Cave",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70104": {
     "Id": 70104,
@@ -789,8 +1107,12 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70105": {
     "Id": 70105,
@@ -799,8 +1121,12 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Fld001_Area_CarnimanRuins",
     "ReverEvent": "Reverb_Normal",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Fld001_Cave_Kahneman_Loop"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70106": {
     "Id": 70106,
@@ -809,8 +1135,27 @@
     "RegionType": 1,
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_Cave_Kahneman_Loop"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "70095": {
+    "Id": 70095,
+    "Name": "Bahamar Highlands",
+    "NamePosition": [
+      0.623,
+      0.707
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_North_Area_General",
+    "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70096": {
     "Id": 70096,
@@ -822,8 +1167,12 @@
     "RegionType": 0,
     "BgmEvent": "BGM_Fld001_Underwater_Area_A",
     "ReverEvent": "Reverb_Cave",
-    "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "AmbEvent": [
+      "Amb_2D_Fld001_Cave_YaZhiYiJi_Loop"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70097": {
     "Id": 70097,
@@ -836,7 +1185,9 @@
     "BgmEvent": "BGM_Fld001_Dragonscar_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70098": {
     "Id": 70098,
@@ -849,7 +1200,9 @@
     "BgmEvent": "BGM_Cty001_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "70099": {
     "Id": 70099,
@@ -862,7 +1215,403 @@
     "BgmEvent": "BGM_Fld001_North_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90001": {
+    "Id": 90001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90002": {
+    "Id": 90002,
+    "Name": "Lallipar Village",
+    "NamePosition": [
+      0.518,
+      0.355
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld002_Area_Larpal",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90003": {
+    "Id": 90003,
+    "Name": "Pillar of Divinity",
+    "NamePosition": [
+      0.485,
+      0.578
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90004": {
+    "Id": 90004,
+    "Name": "Barracks",
+    "NamePosition": [
+      0.645,
+      0.415
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90005": {
+    "Id": 90005,
+    "Name": "Bekmar Transport Station",
+    "NamePosition": [
+      0.72,
+      0.52
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld002_Area_Bekmar",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90006": {
+    "Id": 90006,
+    "Name": "Fallen River",
+    "NamePosition": [
+      0.32,
+      0.42
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90007": {
+    "Id": 90007,
+    "Name": "Augurus Ruins",
+    "NamePosition": [
+      0.205,
+      0.435
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90008": {
+    "Id": 90008,
+    "Name": "Sislesa Mine",
+    "NamePosition": [
+      0.65,
+      0.318
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld002_Area_Sislesa_Overground",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld002_MingingField_DayNight_Loop"
+    ],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90101": {
+    "Id": 90101,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld002_Area_Sislesa_Underground",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld002_MiningUnderground_Loop"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": -1,
+    "FootstepFxOverride": []
+  },
+  "90102": {
+    "Id": 90102,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld002_SetToLand_InDoor"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90103": {
+    "Id": 90103,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld002_SetToLand_InDoor"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": -1,
+    "FootstepFxOverride": []
+  },
+  "90104": {
+    "Id": 90104,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld002_IllusionFlower_Loop"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": -1,
+    "FootstepFxOverride": []
+  },
+  "90105": {
+    "Id": 90105,
+    "Name": "Abandoned Mine",
+    "NamePosition": [
+      0.688,
+      0.215
+    ],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld002_Area_Sislesa_Underground",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": -1,
+    "FootstepFxOverride": []
+  },
+  "90106": {
+    "Id": 90106,
+    "Name": "Mine No. 1",
+    "NamePosition": [
+      0.87,
+      0.36
+    ],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld002_Area_Sislesa_Underground",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": -1,
+    "FootstepFxOverride": []
+  },
+  "90107": {
+    "Id": 90107,
+    "Name": "Sorting and Transfer Zone",
+    "NamePosition": [
+      0.665,
+      0.335
+    ],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld002_Area_Sislesa_Underground",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": -1,
+    "FootstepFxOverride": []
+  },
+  "90108": {
+    "Id": 90108,
+    "Name": "Mining Cave",
+    "NamePosition": [
+      0.755,
+      0.58
+    ],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld002_Area_Sislesa_Underground",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": -1,
+    "FootstepFxOverride": []
+  },
+  "90109": {
+    "Id": 90109,
+    "Name": "Fallen Valley",
+    "NamePosition": [
+      0.315,
+      0.365
+    ],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Fld001_SetToLand"
+    ],
+    "EnvClientBuffArray": [],
+    "Hierarchy": -1,
+    "FootstepFxOverride": []
+  },
+  "90090": {
+    "Id": 90090,
+    "Name": "Asteria Plains",
+    "NamePosition": [
+      0.269,
+      0.229
+    ],
+    "RegionType": 0,
+    "BgmEvent": "",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90091": {
+    "Id": 90091,
+    "Name": "Moonshadow Wilds",
+    "NamePosition": [
+      0.248,
+      0.611
+    ],
+    "RegionType": 0,
+    "BgmEvent": "",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "110001": {
+    "Id": 110001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "110002": {
+    "Id": 110002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "110003": {
+    "Id": 110003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [
+      "Amb_2D_Cty001_SetToLand_Grass",
+      "Amb_2D_Cty001_SetToHarbor"
+    ],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "110004": {
+    "Id": 110004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "90092": {
+    "Id": 90092,
+    "Name": "Stray Starway",
+    "NamePosition": [
+      0.833,
+      0.369
+    ],
+    "RegionType": 0,
+    "BgmEvent": "",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "710001": {
     "Id": 710001,
@@ -878,7 +1627,9 @@
     "EnvClientBuffArray": [
       7000001,
       7000002
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "710002": {
     "Id": 710002,
@@ -888,7 +1639,9 @@
     "BgmEvent": "BGM_Fld001_North_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "710098": {
     "Id": 710098,
@@ -901,7 +1654,9 @@
     "BgmEvent": "BGM_Fld001_East_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "710099": {
     "Id": 710099,
@@ -914,7 +1669,9 @@
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "720001": {
     "Id": 720001,
@@ -929,7 +1686,9 @@
     "AmbEvent": [],
     "EnvClientBuffArray": [
       7920060
-    ]
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "720099": {
     "Id": 720099,
@@ -942,7 +1701,9 @@
     "BgmEvent": "BGM_Fld001_North_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "730001": {
     "Id": 730001,
@@ -955,7 +1716,9 @@
     "BgmEvent": "BGM_Fld001_Dragonscar_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "730002": {
     "Id": 730002,
@@ -965,7 +1728,9 @@
     "BgmEvent": "BGM_Fld001_Dragonscar_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "730099": {
     "Id": 730099,
@@ -978,7 +1743,9 @@
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "740001": {
     "Id": 740001,
@@ -991,7 +1758,9 @@
     "BgmEvent": "BGM_Fld001_Underground_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "740099": {
     "Id": 740099,
@@ -1004,7 +1773,9 @@
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "750001": {
     "Id": 750001,
@@ -1017,7 +1788,9 @@
     "BgmEvent": "BGM_Fld001_Underwater_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "750002": {
     "Id": 750002,
@@ -1027,7 +1800,9 @@
     "BgmEvent": "BGM_Fld001_Underwater_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "750003": {
     "Id": 750003,
@@ -1037,7 +1812,9 @@
     "BgmEvent": "BGM_Fld001_Underwater_Area_C",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "750098": {
     "Id": 750098,
@@ -1050,7 +1827,9 @@
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "750099": {
     "Id": 750099,
@@ -1063,7 +1842,23 @@
     "BgmEvent": "BGM_Fld001_Area_General",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "950001": {
+    "Id": 950001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld002_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11010001": {
     "Id": 11010001,
@@ -1073,7 +1868,9 @@
     "BgmEvent": "BGM_Dng002_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11010002": {
     "Id": 11010002,
@@ -1083,7 +1880,9 @@
     "BgmEvent": "BGM_Dng002_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11010003": {
     "Id": 11010003,
@@ -1093,7 +1892,9 @@
     "BgmEvent": "BGM_Dng002_Area_C",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11010004": {
     "Id": 11010004,
@@ -1103,7 +1904,9 @@
     "BgmEvent": "BGM_Dng002_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11020001": {
     "Id": 11020001,
@@ -1113,7 +1916,9 @@
     "BgmEvent": "BGM_Dng002_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11020002": {
     "Id": 11020002,
@@ -1123,7 +1928,9 @@
     "BgmEvent": "BGM_Dng002_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11020003": {
     "Id": 11020003,
@@ -1133,7 +1940,9 @@
     "BgmEvent": "BGM_Dng002_Area_C",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11020004": {
     "Id": 11020004,
@@ -1143,7 +1952,9 @@
     "BgmEvent": "BGM_Dng002_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11210001": {
     "Id": 11210001,
@@ -1153,7 +1964,9 @@
     "BgmEvent": "BGM_Dng002_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11210002": {
     "Id": 11210002,
@@ -1163,7 +1976,9 @@
     "BgmEvent": "BGM_Dng002_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11210003": {
     "Id": 11210003,
@@ -1173,7 +1988,9 @@
     "BgmEvent": "BGM_Dng002_Area_C",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11210004": {
     "Id": 11210004,
@@ -1183,7 +2000,9 @@
     "BgmEvent": "BGM_Dng002_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11110001": {
     "Id": 11110001,
@@ -1193,7 +2012,9 @@
     "BgmEvent": "BGM_Dng002_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11110002": {
     "Id": 11110002,
@@ -1203,7 +2024,9 @@
     "BgmEvent": "BGM_Dng002_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11110003": {
     "Id": 11110003,
@@ -1213,7 +2036,9 @@
     "BgmEvent": "BGM_Dng002_Area_C",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11110004": {
     "Id": 11110004,
@@ -1223,7 +2048,9 @@
     "BgmEvent": "BGM_Dng002_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11220001": {
     "Id": 11220001,
@@ -1233,7 +2060,9 @@
     "BgmEvent": "BGM_Dng002_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11220002": {
     "Id": 11220002,
@@ -1243,7 +2072,9 @@
     "BgmEvent": "BGM_Dng002_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11220003": {
     "Id": 11220003,
@@ -1253,7 +2084,9 @@
     "BgmEvent": "BGM_Dng002_Area_C",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11220004": {
     "Id": 11220004,
@@ -1263,7 +2096,9 @@
     "BgmEvent": "BGM_Dng002_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11120001": {
     "Id": 11120001,
@@ -1273,7 +2108,9 @@
     "BgmEvent": "BGM_Dng002_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11120002": {
     "Id": 11120002,
@@ -1283,7 +2120,9 @@
     "BgmEvent": "BGM_Dng002_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11120003": {
     "Id": 11120003,
@@ -1293,7 +2132,9 @@
     "BgmEvent": "BGM_Dng002_Area_C",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11120004": {
     "Id": 11120004,
@@ -1303,7 +2144,9 @@
     "BgmEvent": "BGM_Dng002_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11130001": {
     "Id": 11130001,
@@ -1313,7 +2156,9 @@
     "BgmEvent": "BGM_Dng002_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11130002": {
     "Id": 11130002,
@@ -1323,7 +2168,9 @@
     "BgmEvent": "BGM_Dng002_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11130003": {
     "Id": 11130003,
@@ -1333,7 +2180,9 @@
     "BgmEvent": "BGM_Dng002_Area_C",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11130004": {
     "Id": 11130004,
@@ -1343,7 +2192,9 @@
     "BgmEvent": "BGM_Dng002_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11140001": {
     "Id": 11140001,
@@ -1353,7 +2204,9 @@
     "BgmEvent": "BGM_Dng002_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11140002": {
     "Id": 11140002,
@@ -1363,7 +2216,9 @@
     "BgmEvent": "BGM_Dng002_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11140003": {
     "Id": 11140003,
@@ -1373,7 +2228,9 @@
     "BgmEvent": "BGM_Dng002_Area_C",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "11140004": {
     "Id": 11140004,
@@ -1383,7 +2240,9 @@
     "BgmEvent": "BGM_Dng002_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12010001": {
     "Id": 12010001,
@@ -1393,7 +2252,9 @@
     "BgmEvent": "BGM_Dng1201_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12010002": {
     "Id": 12010002,
@@ -1403,7 +2264,9 @@
     "BgmEvent": "BGM_Dng1201_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12010003": {
     "Id": 12010003,
@@ -1413,7 +2276,9 @@
     "BgmEvent": "BGM_Dng1201_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12020001": {
     "Id": 12020001,
@@ -1423,7 +2288,9 @@
     "BgmEvent": "BGM_Dng1201_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12020002": {
     "Id": 12020002,
@@ -1433,7 +2300,9 @@
     "BgmEvent": "BGM_Dng1201_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12020003": {
     "Id": 12020003,
@@ -1443,7 +2312,9 @@
     "BgmEvent": "BGM_Dng1201_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12110001": {
     "Id": 12110001,
@@ -1453,7 +2324,9 @@
     "BgmEvent": "BGM_Dng1201_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12110002": {
     "Id": 12110002,
@@ -1463,7 +2336,9 @@
     "BgmEvent": "BGM_Dng1201_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12110003": {
     "Id": 12110003,
@@ -1473,7 +2348,9 @@
     "BgmEvent": "BGM_Dng1201_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12120001": {
     "Id": 12120001,
@@ -1483,7 +2360,9 @@
     "BgmEvent": "BGM_Dng1201_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12120002": {
     "Id": 12120002,
@@ -1493,7 +2372,9 @@
     "BgmEvent": "BGM_Dng1201_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12120003": {
     "Id": 12120003,
@@ -1503,7 +2384,9 @@
     "BgmEvent": "BGM_Dng1201_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12210001": {
     "Id": 12210001,
@@ -1513,7 +2396,9 @@
     "BgmEvent": "BGM_Dng1201_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12210002": {
     "Id": 12210002,
@@ -1523,7 +2408,9 @@
     "BgmEvent": "BGM_Dng1201_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12210003": {
     "Id": 12210003,
@@ -1533,7 +2420,9 @@
     "BgmEvent": "BGM_Dng1201_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12220001": {
     "Id": 12220001,
@@ -1543,7 +2432,9 @@
     "BgmEvent": "BGM_Dng1201_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12220002": {
     "Id": 12220002,
@@ -1553,7 +2444,9 @@
     "BgmEvent": "BGM_Dng1201_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12220003": {
     "Id": 12220003,
@@ -1563,7 +2456,9 @@
     "BgmEvent": "BGM_Dng1201_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12230001": {
     "Id": 12230001,
@@ -1573,7 +2468,9 @@
     "BgmEvent": "BGM_Dng1201_Area_A",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12230002": {
     "Id": 12230002,
@@ -1583,7 +2480,9 @@
     "BgmEvent": "BGM_Dng1201_Area_B",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "12230003": {
     "Id": 12230003,
@@ -1593,7 +2492,93 @@
     "BgmEvent": "BGM_Dng1201_Area_Boss",
     "ReverEvent": "Reverb_Normal",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14010001": {
+    "Id": 14010001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14010002": {
+    "Id": 14010002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14010003": {
+    "Id": 14010003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14020001": {
+    "Id": 14020001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14020002": {
+    "Id": 14020002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14020003": {
+    "Id": 14020003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14030001": {
+    "Id": 14030001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "120500001": {
     "Id": 120500001,
@@ -1603,7 +2588,21 @@
     "BgmEvent": "",
     "ReverEvent": "",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14030002": {
+    "Id": 14030002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "120500002": {
     "Id": 120500002,
@@ -1613,7 +2612,21 @@
     "BgmEvent": "",
     "ReverEvent": "",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14030003": {
+    "Id": 14030003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "120500003": {
     "Id": 120500003,
@@ -1623,7 +2636,21 @@
     "BgmEvent": "",
     "ReverEvent": "",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14110001": {
+    "Id": 14110001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "120500004": {
     "Id": 120500004,
@@ -1633,7 +2660,21 @@
     "BgmEvent": "",
     "ReverEvent": "",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14110002": {
+    "Id": 14110002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "130101": {
     "Id": 130101,
@@ -1643,7 +2684,21 @@
     "BgmEvent": "BGM_Dng1301_Area_A",
     "ReverEvent": "",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14110003": {
+    "Id": 14110003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   },
   "130102": {
     "Id": 130102,
@@ -1653,6 +2708,488 @@
     "BgmEvent": "BGM_Dng1301_Area_B",
     "ReverEvent": "",
     "AmbEvent": [],
-    "EnvClientBuffArray": []
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14120001": {
+    "Id": 14120001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15010001": {
+    "Id": 15010001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_General",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14120002": {
+    "Id": 14120002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15010002": {
+    "Id": 15010002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15010003": {
+    "Id": 15010003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14120003": {
+    "Id": 14120003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14210001": {
+    "Id": 14210001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15110001": {
+    "Id": 15110001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_General",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14210002": {
+    "Id": 14210002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15110002": {
+    "Id": 15110002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15110003": {
+    "Id": 15110003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14210003": {
+    "Id": 14210003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14220001": {
+    "Id": 14220001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15210001": {
+    "Id": 15210001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_General",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14220002": {
+    "Id": 14220002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15210002": {
+    "Id": 15210002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15210003": {
+    "Id": 15210003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14220003": {
+    "Id": 14220003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14230001": {
+    "Id": 14230001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15310001": {
+    "Id": 15310001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_General",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14230002": {
+    "Id": 14230002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Illusion",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15310002": {
+    "Id": 15310002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15310003": {
+    "Id": 15310003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "14230003": {
+    "Id": 14230003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1401_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15320001": {
+    "Id": 15320001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_General",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15320002": {
+    "Id": 15320002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15320003": {
+    "Id": 15320003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15330001": {
+    "Id": 15330001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_General",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15330002": {
+    "Id": 15330002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "15330003": {
+    "Id": 15330003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1501_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61110001": {
+    "Id": 61110001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61110002": {
+    "Id": 61110002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_A",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61120001": {
+    "Id": 61120001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61120002": {
+    "Id": 61120002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_A",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61210001": {
+    "Id": 61210001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61210002": {
+    "Id": 61210002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_A",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61220001": {
+    "Id": 61220001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61220002": {
+    "Id": 61220002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_A",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61230001": {
+    "Id": 61230001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_Boss",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "61230002": {
+    "Id": 61230002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng6101_Area_A",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
   }
 }

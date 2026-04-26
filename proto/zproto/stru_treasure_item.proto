@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_item.proto";
 import "stru_dirty_mask.proto";
 
-message TreasureItem {
-  repeated zproto.Item items = 1;
-  int32 type = 2;
-}
+package zproto;
 
+message TreasureItem {
+	repeated Item items = 1 [json_name = "items"];
+	int32 type = 2 [json_name = "type"];
+}

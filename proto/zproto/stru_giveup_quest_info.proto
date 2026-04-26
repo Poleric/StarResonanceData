@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message GiveupQuestInfo {
-  int32 quest_id = 1;
+	int32 questId = 1 [json_name = "questId"];
 }
-

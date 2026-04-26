@@ -18,130 +18,67 @@
     ],
     "ConfirmTime": 30,
     "MatchMaxTime": 300,
-    "MatchPic": "ui/background/seasonact/activity_huntboss"
+    "MatchPic": ""
   },
-  "50001": {
-    "Id": 50001,
-    "Mark": "环城坐骑赛",
+  "2": {
+    "Id": 2,
+    "Mark": "适格者训练",
     "MatchType": 2,
     "MatchStrategy": 2,
-    "MatchMinNum": 5,
-    "MatchMaxNum": 50,
+    "MatchMinNum": 1,
+    "MatchMaxNum": 5,
+    "MatchProfessionLimitNum": [],
+    "ConfirmTime": 20,
+    "MatchMaxTime": 300,
+    "MatchPic": ""
+  },
+  "3": {
+    "Id": 3,
+    "Mark": "千梦织灵之夜",
+    "MatchType": 2,
+    "MatchStrategy": 2,
+    "MatchMinNum": 1,
+    "MatchMaxNum": 5,
+    "MatchProfessionLimitNum": [],
+    "ConfirmTime": 20,
+    "MatchMaxTime": 300,
+    "MatchPic": ""
+  },
+  "4": {
+    "Id": 4,
+    "Mark": "雀牌游戏",
+    "MatchType": 2,
+    "MatchStrategy": 2,
+    "MatchMinNum": 4,
+    "MatchMaxNum": 4,
     "MatchProfessionLimitNum": [],
     "ConfirmTime": 30,
     "MatchMaxTime": 300,
-    "MatchPic": "ui/background/seasonact/activity_seasonact_201"
+    "MatchPic": ""
   },
-  "50002": {
-    "Id": 50002,
-    "Mark": "安德拉障碍赛",
+  "5": {
+    "Id": 5,
+    "Mark": "沉梦的裂隙",
     "MatchType": 2,
     "MatchStrategy": 2,
-    "MatchMinNum": 5,
-    "MatchMaxNum": 15,
+    "MatchMinNum": 1,
+    "MatchMaxNum": 1,
     "MatchProfessionLimitNum": [],
     "ConfirmTime": 30,
-    "MatchMaxTime": 300,
-    "MatchPic": "ui/background/seasonact/activity_seasonact_202"
+    "MatchMaxTime": 10,
+    "MatchPic": ""
   },
-  "50003": {
-    "Id": 50003,
-    "Mark": "气球捕获大作战",
-    "MatchType": 2,
-    "MatchStrategy": 2,
-    "MatchMinNum": 5,
-    "MatchMaxNum": 10,
-    "MatchProfessionLimitNum": [],
-    "ConfirmTime": 30,
-    "MatchMaxTime": 180,
-    "MatchPic": "ui/background/seasonact/activity_seasonact_203"
-  },
-  "50004": {
-    "Id": 50004,
-    "Mark": "小伊别盯我！",
+  "6": {
+    "Id": 6,
+    "Mark": "不思议的追逃游戏(躲猫猫)",
     "MatchType": 2,
     "MatchStrategy": 2,
     "MatchMinNum": 5,
     "MatchMaxNum": 20,
     "MatchProfessionLimitNum": [],
-    "ConfirmTime": 30,
-    "MatchMaxTime": 180,
-    "MatchPic": "ui/background/seasonact/activity_seasonact_209"
-  },
-  "2001": {
-    "Id": 2001,
-    "Mark": "组队大厅匹配1",
-    "MatchType": 1,
-    "MatchStrategy": 1,
-    "MatchMinNum": 5,
-    "MatchMaxNum": 5,
-    "MatchProfessionLimitNum": [
-      [
-        2,
-        1
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        1,
-        1
-      ]
-    ],
     "ConfirmTime": 20,
-    "MatchMaxTime": 600,
-    "MatchPic": "ui/background/seasonact/activity_dina_4"
-  },
-  "3001": {
-    "Id": 3001,
-    "Mark": "组队大厅匹配2",
-    "MatchType": 1,
-    "MatchStrategy": 1,
-    "MatchMinNum": 5,
-    "MatchMaxNum": 5,
-    "MatchProfessionLimitNum": [
-      [
-        2,
-        1
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        1,
-        1
-      ]
-    ],
-    "ConfirmTime": 20,
-    "MatchMaxTime": 600,
-    "MatchPic": "ui/background/seasonact/activity_dina_5"
-  },
-  "5001": {
-    "Id": 5001,
-    "Mark": "组队大厅匹配3",
-    "MatchType": 1,
-    "MatchStrategy": 1,
-    "MatchMinNum": 5,
-    "MatchMaxNum": 5,
-    "MatchProfessionLimitNum": [
-      [
-        2,
-        1
-      ],
-      [
-        3,
-        1
-      ],
-      [
-        1,
-        3
-      ]
-    ],
-    "ConfirmTime": 20,
-    "MatchMaxTime": 600,
-    "MatchPic": "ui/background/seasonact/activity_dina_7"
+    "MatchMaxTime": 300,
+    "MatchPic": ""
   },
   "1001": {
     "Id": 1001,
@@ -166,7 +103,7 @@
     ],
     "ConfirmTime": 30,
     "MatchMaxTime": 600,
-    "MatchPic": "ui/background/seasonact/activity_raid_1"
+    "MatchPic": ""
   },
   "1002": {
     "Id": 1002,
@@ -191,7 +128,7 @@
     ],
     "ConfirmTime": 30,
     "MatchMaxTime": 600,
-    "MatchPic": "ui/background/seasonact/activity_raid_1"
+    "MatchPic": ""
   },
   "1003": {
     "Id": 1003,
@@ -216,18 +153,6 @@
     ],
     "ConfirmTime": 30,
     "MatchMaxTime": 600,
-    "MatchPic": "ui/background/seasonact/activity_raid_1"
-  },
-  "2": {
-    "Id": 2,
-    "Mark": "适格者训练",
-    "MatchType": 2,
-    "MatchStrategy": 2,
-    "MatchMinNum": 1,
-    "MatchMaxNum": 5,
-    "MatchProfessionLimitNum": [],
-    "ConfirmTime": 20,
-    "MatchMaxTime": 120,
     "MatchPic": ""
   },
   "1004": {
@@ -253,6 +178,166 @@
     ],
     "ConfirmTime": 20,
     "MatchMaxTime": 600,
+    "MatchPic": ""
+  },
+  "1005": {
+    "Id": 1005,
+    "Mark": "沉梦林谷",
+    "MatchType": 1,
+    "MatchStrategy": 1,
+    "MatchMinNum": 5,
+    "MatchMaxNum": 5,
+    "MatchProfessionLimitNum": [
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "ConfirmTime": 20,
+    "MatchMaxTime": 600,
+    "MatchPic": ""
+  },
+  "2001": {
+    "Id": 2001,
+    "Mark": "组队大厅匹配1",
+    "MatchType": 1,
+    "MatchStrategy": 1,
+    "MatchMinNum": 5,
+    "MatchMaxNum": 5,
+    "MatchProfessionLimitNum": [
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "ConfirmTime": 20,
+    "MatchMaxTime": 600,
+    "MatchPic": ""
+  },
+  "3001": {
+    "Id": 3001,
+    "Mark": "组队大厅匹配2",
+    "MatchType": 1,
+    "MatchStrategy": 1,
+    "MatchMinNum": 5,
+    "MatchMaxNum": 5,
+    "MatchProfessionLimitNum": [
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "ConfirmTime": 20,
+    "MatchMaxTime": 600,
+    "MatchPic": ""
+  },
+  "5001": {
+    "Id": 5001,
+    "Mark": "组队大厅匹配3",
+    "MatchType": 1,
+    "MatchStrategy": 1,
+    "MatchMinNum": 5,
+    "MatchMaxNum": 5,
+    "MatchProfessionLimitNum": [
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "ConfirmTime": 20,
+    "MatchMaxTime": 600,
+    "MatchPic": ""
+  },
+  "50001": {
+    "Id": 50001,
+    "Mark": "环城坐骑赛",
+    "MatchType": 2,
+    "MatchStrategy": 2,
+    "MatchMinNum": 1,
+    "MatchMaxNum": 50,
+    "MatchProfessionLimitNum": [],
+    "ConfirmTime": 30,
+    "MatchMaxTime": 300,
+    "MatchPic": ""
+  },
+  "50002": {
+    "Id": 50002,
+    "Mark": "安德拉障碍赛",
+    "MatchType": 2,
+    "MatchStrategy": 2,
+    "MatchMinNum": 1,
+    "MatchMaxNum": 15,
+    "MatchProfessionLimitNum": [],
+    "ConfirmTime": 30,
+    "MatchMaxTime": 300,
+    "MatchPic": ""
+  },
+  "50003": {
+    "Id": 50003,
+    "Mark": "气球捕获大作战",
+    "MatchType": 2,
+    "MatchStrategy": 2,
+    "MatchMinNum": 1,
+    "MatchMaxNum": 10,
+    "MatchProfessionLimitNum": [],
+    "ConfirmTime": 30,
+    "MatchMaxTime": 300,
+    "MatchPic": ""
+  },
+  "50004": {
+    "Id": 50004,
+    "Mark": "小伊别盯我！",
+    "MatchType": 2,
+    "MatchStrategy": 2,
+    "MatchMinNum": 1,
+    "MatchMaxNum": 20,
+    "MatchProfessionLimitNum": [],
+    "ConfirmTime": 30,
+    "MatchMaxTime": 300,
+    "MatchPic": ""
+  },
+  "10001": {
+    "Id": 10001,
+    "Mark": "岁魔、袭来",
+    "MatchType": 2,
+    "MatchStrategy": 2,
+    "MatchMinNum": 1,
+    "MatchMaxNum": 20,
+    "MatchProfessionLimitNum": [],
+    "ConfirmTime": 30,
+    "MatchMaxTime": 300,
     "MatchPic": ""
   }
 }

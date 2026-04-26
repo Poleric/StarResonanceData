@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message WeaponLevelTableBase {
-  int32 id = 1463;
-  int32 exp = 970;
-  bool broke = 1739;
-  int_table item_price = 1450;
-  int_table extr_cost = 1404;
-  int32 skill_max_level = 111;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Exp = 970 [json_name = "Exp"];
+	bool Broke = 1739 [json_name = "Broke"];
+	int_table ItemPrice = 1450 [json_name = "ItemPrice"];
+	int_table ExtrCost = 1404 [json_name = "ExtrCost"];
+	int32 SkillMaxLevel = 111 [json_name = "SkillMaxLevel"];
 }
 
 message WeaponLevelTableMgr {
-  map<int32, bokura.WeaponLevelTableBase> datas = 1;
+	map<int32, WeaponLevelTableBase> datas = 1 [json_name = "datas"];
 }
-

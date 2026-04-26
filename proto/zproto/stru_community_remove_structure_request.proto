@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_structure_land_op.proto";
+
+package zproto;
+
+message CommunityRemoveStructureRequest {
+	int64 homeId = 1 [json_name = "homeId"];
+	StructureLandOp op = 2 [json_name = "op"];
+}

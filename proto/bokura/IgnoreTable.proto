@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message IgnoreTableBase {
-  int32 id = 1463;
-  int_array function_ids = 28;
+	int32 Id = 1463 [json_name = "Id"];
+	int_array FunctionIds = 28 [json_name = "FunctionIds"];
 }
 
 message IgnoreTableMgr {
-  map<int32, bokura.IgnoreTableBase> datas = 1;
+	map<int32, IgnoreTableBase> datas = 1 [json_name = "datas"];
 }
-

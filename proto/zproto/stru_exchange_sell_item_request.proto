@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ExchangeSellItemRequest {
-  bool month_card_valid = 1;
+	bool monthCardValid = 1 [json_name = "monthCardValid"];
 }
-

@@ -3,12 +3,11 @@ syntax = "proto3";
 package bokura;
 
 message HousingItemsTypeBase {
-  int32 id = 1463;
-  int32 type_name = 1505;
-  int32 group_id = 196;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 TypeName = 1505 [json_name = "TypeName"];
+	int32 GroupId = 196 [json_name = "GroupId"];
 }
 
 message HousingItemsTypeMgr {
-  map<int32, bokura.HousingItemsTypeBase> datas = 1;
+	map<int32, HousingItemsTypeBase> datas = 1 [json_name = "datas"];
 }
-

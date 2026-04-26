@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FantasyHoleTableBase {
-  int32 id = 1463;
-  string des = 1550;
-  string hole_icon = 1560;
-  int_table unlock = 1666;
-  int_table unlock_consume = 1645;
-  int32 fantasytype = 36;
+	int32 Id = 1463 [json_name = "Id"];
+	string des = 1550 [json_name = "des"];
+	string HoleIcon = 1560 [json_name = "HoleIcon"];
+	int_table Unlock = 1666 [json_name = "Unlock"];
+	int_table UnlockConsume = 1645 [json_name = "UnlockConsume"];
+	int32 Fantasytype = 36 [json_name = "Fantasytype"];
 }
 
 message FantasyHoleTableMgr {
-  map<int32, bokura.FantasyHoleTableBase> datas = 1;
+	map<int32, FantasyHoleTableBase> datas = 1 [json_name = "datas"];
 }
-

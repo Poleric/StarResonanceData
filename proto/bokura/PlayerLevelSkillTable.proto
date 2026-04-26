@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message PlayerLevelSkillTableBase {
-  int32 buff_id = 674;
-  string buff_name = 1105;
-  int32 active_level = 1815;
-  int32 style = 1874;
-  int_table lock_item = 1936;
+	int32 BuffId = 674 [json_name = "BuffId"];
+	string BuffName = 1105 [json_name = "BuffName"];
+	int32 ActiveLevel = 1815 [json_name = "ActiveLevel"];
+	int32 Style = 1874 [json_name = "Style"];
+	int_table LockItem = 1936 [json_name = "LockItem"];
 }
 
 message PlayerLevelSkillTableMgr {
-  map<int32, bokura.PlayerLevelSkillTableBase> datas = 1;
+	map<int32, PlayerLevelSkillTableBase> datas = 1 [json_name = "datas"];
 }
-

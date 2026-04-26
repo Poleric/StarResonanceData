@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ExchangeTableBase {
-  int32 id = 1463;
-  mlstring shop_name = 1379;
-  int32 system_id = 518;
-  string npc = 854;
-  int32 show_type = 1131;
-  string currency_display = 1022;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring ShopName = 1379 [json_name = "ShopName"];
+	int32 SystemId = 518 [json_name = "SystemId"];
+	string Npc = 854 [json_name = "Npc"];
+	int32 ShowType = 1131 [json_name = "ShowType"];
+	string CurrencyDisplay = 1022 [json_name = "CurrencyDisplay"];
 }
 
 message ExchangeTableMgr {
-  map<int32, bokura.ExchangeTableBase> datas = 1;
+	map<int32, ExchangeTableBase> datas = 1 [json_name = "datas"];
 }
-

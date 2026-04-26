@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ReportPicture {
-  string picture_id = 1;
-  int64 target_uuid = 2;
-  bool union = 3;
+	string pictureId = 1 [json_name = "pictureId"];
+	int64 targetUuid = 2 [json_name = "targetUuid"];
+	bool union = 3 [json_name = "union"];
 }
-

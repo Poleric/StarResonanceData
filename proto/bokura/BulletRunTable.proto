@@ -1,43 +1,42 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message BulletRunTableBase {
-  int64 id = 1463;
-  int32 motion_type = 1988;
-  float start_speed = 475;
-  float accelerated_speed = 1871;
-  float max_speed = 818;
-  int32 direction_type = 956;
-  bool is_follow_target = 1689;
-  float max_follow_angle = 221;
-  float ex_start_speed = 1374;
-  float ex_accelerated_speed = 686;
-  float ex_max_speed = 625;
-  string curve_path = 35;
-  int64 curve_id = 431;
-  bool is_random_radian = 314;
-  float random_pos_top = 441;
-  float random_pos_bottom = 417;
-  float random_pos_left = 1923;
-  float random_pos_right = 463;
-  int32 follow_type = 1184;
-  vector3 offset_pos = 1569;
-  float original_dir = 964;
-  float min_zoom = 1209;
-  float max_zoom = 1411;
-  float zoom_speed = 583;
-  bool zoom_is_loop = 832;
-  int32 follow_config_id = 684;
-  bool check_obstacle = 934;
-  bool is_stand = 1391;
-  bool is_lock_target = 804;
-  bool is_can_dodge = 394;
+	int64 Id = 1463 [json_name = "Id"];
+	int32 MotionType = 1988 [json_name = "MotionType"];
+	float StartSpeed = 475 [json_name = "StartSpeed"];
+	float AcceleratedSpeed = 1871 [json_name = "AcceleratedSpeed"];
+	float MaxSpeed = 818 [json_name = "MaxSpeed"];
+	int32 DirectionType = 956 [json_name = "DirectionType"];
+	bool IsFollowTarget = 1689 [json_name = "IsFollowTarget"];
+	float MaxFollowAngle = 221 [json_name = "MaxFollowAngle"];
+	float ExStartSpeed = 1374 [json_name = "ExStartSpeed"];
+	float ExAcceleratedSpeed = 686 [json_name = "ExAcceleratedSpeed"];
+	float ExMaxSpeed = 625 [json_name = "ExMaxSpeed"];
+	string CurvePath = 35 [json_name = "CurvePath"];
+	int64 CurveId = 431 [json_name = "CurveId"];
+	bool IsRandomRadian = 314 [json_name = "IsRandomRadian"];
+	float RandomPosTop = 441 [json_name = "RandomPosTop"];
+	float RandomPosBottom = 417 [json_name = "RandomPosBottom"];
+	float RandomPosLeft = 1923 [json_name = "RandomPosLeft"];
+	float RandomPosRight = 463 [json_name = "RandomPosRight"];
+	int32 FollowType = 1184 [json_name = "FollowType"];
+	vector3 OffsetPos = 1569 [json_name = "OffsetPos"];
+	float OriginalDir = 964 [json_name = "OriginalDir"];
+	float MinZoom = 1209 [json_name = "MinZoom"];
+	float MaxZoom = 1411 [json_name = "MaxZoom"];
+	float ZoomSpeed = 583 [json_name = "ZoomSpeed"];
+	bool ZoomIsLoop = 832 [json_name = "ZoomIsLoop"];
+	int32 FollowConfigId = 684 [json_name = "FollowConfigId"];
+	bool CheckObstacle = 934 [json_name = "CheckObstacle"];
+	bool IsStand = 1391 [json_name = "IsStand"];
+	bool IsLockTarget = 804 [json_name = "IsLockTarget"];
+	bool IsCanDodge = 394 [json_name = "IsCanDodge"];
 }
 
 message BulletRunTableMgr {
-  map<int64, bokura.BulletRunTableBase> datas = 1;
+	map<int64, BulletRunTableBase> datas = 1 [json_name = "datas"];
 }
-

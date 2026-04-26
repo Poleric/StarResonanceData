@@ -1,0 +1,133 @@
+{
+  "2200": {
+    "FishingAreaSceneObjId": 2200,
+    "SceneObjectId": 2200,
+    "AreaSize": [],
+    "ShiftDistance": 15.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2201": {
+    "FishingAreaSceneObjId": 2201,
+    "SceneObjectId": 2201,
+    "AreaSize": [],
+    "ShiftDistance": 15.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2202": {
+    "FishingAreaSceneObjId": 2202,
+    "SceneObjectId": 2202,
+    "AreaSize": [],
+    "ShiftDistance": 15.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2203": {
+    "FishingAreaSceneObjId": 2203,
+    "SceneObjectId": 2203,
+    "AreaSize": [
+      7.0,
+      15.0
+    ],
+    "ShiftDistance": 12.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2204": {
+    "FishingAreaSceneObjId": 2204,
+    "SceneObjectId": 2204,
+    "AreaSize": [],
+    "ShiftDistance": 15.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2205": {
+    "FishingAreaSceneObjId": 2205,
+    "SceneObjectId": 2203,
+    "AreaSize": [
+      12.0,
+      30.0
+    ],
+    "ShiftDistance": 30.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2206": {
+    "FishingAreaSceneObjId": 2206,
+    "SceneObjectId": 2203,
+    "AreaSize": [
+      8.0,
+      30.0
+    ],
+    "ShiftDistance": 30.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2207": {
+    "FishingAreaSceneObjId": 2207,
+    "SceneObjectId": 2204,
+    "AreaSize": [
+      6.0,
+      12.0
+    ],
+    "ShiftDistance": 9.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2208": {
+    "FishingAreaSceneObjId": 2208,
+    "SceneObjectId": 2204,
+    "AreaSize": [
+      6.0,
+      12.0
+    ],
+    "ShiftDistance": 15.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2209": {
+    "FishingAreaSceneObjId": 2209,
+    "SceneObjectId": 2204,
+    "AreaSize": [
+      5.0,
+      10.0
+    ],
+    "ShiftDistance": 8.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2210": {
+    "FishingAreaSceneObjId": 2210,
+    "SceneObjectId": 2204,
+    "AreaSize": [
+      6.0,
+      10.0
+    ],
+    "ShiftDistance": 8.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  }
+}

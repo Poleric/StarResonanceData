@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_gm_parsing_type.proto";
 
-message GmCmd {
-  string command = 1;
-  int64 target_char_id = 2;
-  zproto.EGmParsingType parsing_type = 3;
-  string parameter = 4;
-}
+package zproto;
 
+message GmCmd {
+	string command = 1 [json_name = "command"];
+	int64 targetCharId = 2 [json_name = "targetCharId"];
+	EGmParsingType parsingType = 3 [json_name = "parsingType"];
+	string parameter = 4 [json_name = "parameter"];
+}

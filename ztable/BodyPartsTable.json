@@ -4,19 +4,11 @@
     "ModelID": 1110,
     "BodyPartsDesc": "核心",
     "Type": 1,
-    "Radius": [
-      0.7
-    ],
+    "Radius": [],
     "Height": [
       1.5
     ],
-    "Direction": [
-      {
-        "x": 90.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
+    "Direction": [],
     "Rotate": [
       {
         "x": 0.0,
@@ -75,7 +67,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_l_claviclearmor_j_point"
+    ],
     "ShaderIndex": 5,
     "BeHitAnimMaskIndex": 1,
     "MaxHp": 80000,
@@ -119,7 +113,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_lm_arm_j_point"
+    ],
     "ShaderIndex": 6,
     "BeHitAnimMaskIndex": 3,
     "MaxHp": 999999,
@@ -163,7 +159,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_r_claviclearmor_j_point"
+    ],
     "ShaderIndex": 2,
     "BeHitAnimMaskIndex": 2,
     "MaxHp": 80000,
@@ -207,7 +205,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_rm_arm_j_point"
+    ],
     "ShaderIndex": 0,
     "BeHitAnimMaskIndex": 4,
     "MaxHp": 999999,
@@ -251,7 +251,9 @@
         "z": 1.92
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_root_foot_point"
+    ],
     "ShaderIndex": 8,
     "BeHitAnimMaskIndex": -1,
     "MaxHp": 400,
@@ -295,7 +297,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_spine03_j_point"
+    ],
     "ShaderIndex": 8,
     "BeHitAnimMaskIndex": 5,
     "MaxHp": 30000,
@@ -339,7 +343,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_tail06_j_point"
+    ],
     "ShaderIndex": 3,
     "BeHitAnimMaskIndex": 5,
     "MaxHp": 30000,
@@ -383,7 +389,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_tail03_j_point"
+    ],
     "ShaderIndex": 8,
     "BeHitAnimMaskIndex": 5,
     "MaxHp": 30000,
@@ -427,7 +435,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_l_leg_j_point"
+    ],
     "ShaderIndex": 6,
     "BeHitAnimMaskIndex": 3,
     "MaxHp": 9000,
@@ -471,7 +481,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_r_leg_j_point"
+    ],
     "ShaderIndex": 0,
     "BeHitAnimMaskIndex": 4,
     "MaxHp": 1000,
@@ -515,7 +527,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_l_arm_j_point"
+    ],
     "ShaderIndex": 7,
     "BeHitAnimMaskIndex": 1,
     "MaxHp": 1000,
@@ -559,7 +573,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_head_j_point"
+    ],
     "ShaderIndex": 5,
     "BeHitAnimMaskIndex": 0,
     "MaxHp": 3000,
@@ -603,7 +619,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_r_arm_j_point"
+    ],
     "ShaderIndex": 1,
     "BeHitAnimMaskIndex": 2,
     "MaxHp": 1000,
@@ -647,7 +665,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_tail_3_j_point"
+    ],
     "ShaderIndex": 3,
     "BeHitAnimMaskIndex": 5,
     "MaxHp": 1000,
@@ -691,7 +711,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_l_toe_j_point"
+    ],
     "ShaderIndex": 6,
     "BeHitAnimMaskIndex": 3,
     "MaxHp": 700,
@@ -735,7 +757,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_r_toe_j_point"
+    ],
     "ShaderIndex": 0,
     "BeHitAnimMaskIndex": 4,
     "MaxHp": 700,
@@ -779,7 +803,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_l_hend_j_point"
+    ],
     "ShaderIndex": 7,
     "BeHitAnimMaskIndex": 1,
     "MaxHp": 700,
@@ -823,7 +849,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_r_hend_j_point"
+    ],
     "ShaderIndex": 1,
     "BeHitAnimMaskIndex": 2,
     "MaxHp": 700,
@@ -867,7 +895,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_spine2_j_point"
+    ],
     "ShaderIndex": 0,
     "BeHitAnimMaskIndex": -1,
     "MaxHp": 400,
@@ -911,7 +941,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_l_toe_j_point"
+    ],
     "ShaderIndex": 6,
     "BeHitAnimMaskIndex": 3,
     "MaxHp": 1,
@@ -955,7 +987,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_l_leg_j_point"
+    ],
     "ShaderIndex": 6,
     "BeHitAnimMaskIndex": 3,
     "MaxHp": 1,
@@ -999,7 +1033,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_r_toe_j_point"
+    ],
     "ShaderIndex": 0,
     "BeHitAnimMaskIndex": 4,
     "MaxHp": 1,
@@ -1043,7 +1079,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_r_leg_j_point"
+    ],
     "ShaderIndex": 0,
     "BeHitAnimMaskIndex": 4,
     "MaxHp": 1,
@@ -1087,7 +1125,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_l_hend_j_point"
+    ],
     "ShaderIndex": 7,
     "BeHitAnimMaskIndex": 1,
     "MaxHp": 1,
@@ -1131,7 +1171,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_l_arm_j_point"
+    ],
     "ShaderIndex": 7,
     "BeHitAnimMaskIndex": 1,
     "MaxHp": 1,
@@ -1175,7 +1217,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_head_j_point"
+    ],
     "ShaderIndex": 5,
     "BeHitAnimMaskIndex": 0,
     "MaxHp": 1,
@@ -1219,7 +1263,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_r_hend_j_point"
+    ],
     "ShaderIndex": 1,
     "BeHitAnimMaskIndex": 2,
     "MaxHp": 1,
@@ -1263,7 +1309,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_r_arm_j_point"
+    ],
     "ShaderIndex": 1,
     "BeHitAnimMaskIndex": 2,
     "MaxHp": 1,
@@ -1307,7 +1355,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_spine2_j_point"
+    ],
     "ShaderIndex": 0,
     "BeHitAnimMaskIndex": -1,
     "MaxHp": 1,
@@ -1351,7 +1401,9 @@
         "z": 0.0
       }
     ],
-    "Bone": [],
+    "Bone": [
+      "pt_tail_3_j_point"
+    ],
     "ShaderIndex": 3,
     "BeHitAnimMaskIndex": 5,
     "MaxHp": 1,

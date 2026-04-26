@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_newbie_backflow_target_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message NewbieBackflowElective {
+	map<uint32, NewbieBackflowTargetData> targetMap = 1 [json_name = "targetMap"];
+	repeated int32 progressAwardState = 2 [json_name = "progressAwardState"];
+}

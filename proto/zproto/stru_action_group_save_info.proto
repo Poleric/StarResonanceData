@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "stru_action_group_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ActionGroupSaveInfo {
+	ActionGroupInfo actionGroupInfo = 1 [json_name = "actionGroupInfo"];
+	int32 iconId = 2 [json_name = "iconId"];
+	string name = 3 [json_name = "name"];
+	uint64 saveTime = 4 [json_name = "saveTime"];
+}

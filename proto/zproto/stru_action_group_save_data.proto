@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_action_group_save_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ActionGroupSaveData {
+	map<int32, ActionGroupSaveInfo> actionGroupSaveInfos = 1 [json_name = "actionGroupSaveInfos"];
+	bool isInit = 2 [json_name = "isInit"];
+}

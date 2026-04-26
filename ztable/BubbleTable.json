@@ -20,7 +20,16 @@
     "AdditionalTargetIdleScore": [
       3
     ],
-    "TargetCompleteClientBuff": []
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [
+      2
+    ],
+    "AdditionalTargetCompleteMaxNum": [
+      999
+    ],
+    "AdditionalTargetCompleteCoolDown": [
+      1
+    ]
   },
   "1002": {
     "Id": 1002,
@@ -43,7 +52,16 @@
     "AdditionalTargetIdleScore": [
       3
     ],
-    "TargetCompleteClientBuff": []
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [
+      2
+    ],
+    "AdditionalTargetCompleteMaxNum": [
+      999
+    ],
+    "AdditionalTargetCompleteCoolDown": [
+      1
+    ]
   },
   "1003": {
     "Id": 1003,
@@ -66,7 +84,16 @@
     "AdditionalTargetIdleScore": [
       3
     ],
-    "TargetCompleteClientBuff": []
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [
+      2
+    ],
+    "AdditionalTargetCompleteMaxNum": [
+      999
+    ],
+    "AdditionalTargetCompleteCoolDown": [
+      1
+    ]
   },
   "2001": {
     "Id": 2001,
@@ -91,7 +118,10 @@
     "AdditionalTargetIdleScore": [
       15
     ],
-    "TargetCompleteClientBuff": []
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetCompleteCoolDown": []
   },
   "2002": {
     "Id": 2002,
@@ -105,9 +135,10 @@
     "AdditionalTargetName": [
       "1. Stay in target area to obtain score",
       "2. Receive 1 vote ticket every 150s",
-      "3. Recipients gain 1 Popularity per vote. Both the voter and the recipient gain extra score.",
-      "4. Your character will ​grow larger​ upon reaching ​5, 10, 15, and 20 Popularity.",
-      "5. Popularity ​clears after 10min. Gaining new Popularity ​resets this timer."
+      "3. Recipients gain 1 Popularity per vote. Voters gain extra score ({*val1*}/{*val2*}).",
+      "4. Recipients also gain extra score ({*val1*}/{*val2*}).",
+      "5. Your character will ​grow larger​ upon reaching ​5, 10, 15, and 20 Popularity.",
+      "6. Popularity ​clears after 5min. Gaining new Popularity ​resets this timer."
     ],
     "AdditionalTarget": [
       [
@@ -127,7 +158,19 @@
       50,
       25
     ],
-    "TargetCompleteClientBuff": []
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [
+      3,
+      4
+    ],
+    "AdditionalTargetCompleteMaxNum": [
+      50,
+      100
+    ],
+    "AdditionalTargetCompleteCoolDown": [
+      5,
+      0
+    ]
   },
   "2003": {
     "Id": 2003,
@@ -144,7 +187,168 @@
     ],
     "AdditionalTarget": [],
     "AdditionalTargetIdleScore": [],
-    "TargetCompleteClientBuff": []
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetCompleteCoolDown": []
+  },
+  "2004": {
+    "Id": 2004,
+    "Name": "Spirit Dance​",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      1,
+      5
+    ],
+    "AdditionalTargetName": [
+      "Earn periodic points by performing Spirit Dance in the zone"
+    ],
+    "AdditionalTarget": [],
+    "AdditionalTargetIdleScore": [],
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetCompleteCoolDown": []
+  },
+  "2005": {
+    "Id": 2005,
+    "Name": "Morph Party",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      3,
+      5
+    ],
+    "AdditionalTargetName": [
+      "1. Stay in target area to obtain score",
+      "2. There are two morphable zones within the event area. Interact with them to transform into a random Winterfest object."
+    ],
+    "AdditionalTarget": [],
+    "AdditionalTargetIdleScore": [],
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetCompleteCoolDown": []
+  },
+  "2008": {
+    "Id": 2008,
+    "Name": "Colorflare Trial",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      3,
+      5
+    ],
+    "AdditionalTargetName": [
+      "1. Stay in target area to obtain score",
+      "2. There are red, green, and blue fireworks, and 1 random firework is granted every 15s.",
+      "3. Load fireworks into the firework base to gain extra score ({*val1*}/{*val2*}).",
+      "4. Launch a loaded firework launcher to grant extra score to all players in the area ({*val1*}/{*val2*})."
+    ],
+    "AdditionalTarget": [
+      [
+        24,
+        1,
+        8,
+        200801
+      ],
+      [
+        24,
+        1,
+        8,
+        200802
+      ]
+    ],
+    "AdditionalTargetIdleScore": [
+      200,
+      100
+    ],
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [
+      3,
+      4
+    ],
+    "AdditionalTargetCompleteMaxNum": [
+      10,
+      20
+    ],
+    "AdditionalTargetCompleteCoolDown": [
+      5,
+      1
+    ]
+  },
+  "2009": {
+    "Id": 2009,
+    "Name": "Spring Lantern Fair",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      3,
+      5
+    ],
+    "AdditionalTargetName": [
+      "1. Stay in target area to obtain score",
+      "2. Receive 1 lantern shard every 100s while in the area. Collect 3 shards to summon a Spring Lantern.",
+      "3. Release a lantern to gain extra score ({*val1*}/{*val2*})."
+    ],
+    "AdditionalTarget": [
+      [
+        24,
+        1,
+        7,
+        200901
+      ]
+    ],
+    "AdditionalTargetIdleScore": [
+      300
+    ],
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [
+      3
+    ],
+    "AdditionalTargetCompleteMaxNum": [
+      10
+    ],
+    "AdditionalTargetCompleteCoolDown": [
+      5
+    ]
+  },
+  "2010": {
+    "Id": 2010,
+    "Name": "Glimmering Rhythm",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      3,
+      5
+    ],
+    "AdditionalTargetName": [
+      "1. Stay in target area to obtain score",
+      "2. The dance troupe switches dances every ten minutes—keep up with the rhythm and don't fall behind!",
+      "3. Groove with the Lead Dancer to earn extra points ({*val1*}/{*val2*})"
+    ],
+    "AdditionalTarget": [
+      [
+        24,
+        1,
+        11,
+        201001
+      ]
+    ],
+    "AdditionalTargetIdleScore": [
+      10
+    ],
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [
+      3
+    ],
+    "AdditionalTargetCompleteMaxNum": [
+      240
+    ],
+    "AdditionalTargetCompleteCoolDown": [
+      0
+    ]
   },
   "3001": {
     "Id": 3001,
@@ -160,7 +364,10 @@
     ],
     "AdditionalTarget": [],
     "AdditionalTargetIdleScore": [],
-    "TargetCompleteClientBuff": []
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetCompleteCoolDown": []
   },
   "3002": {
     "Id": 3002,
@@ -176,6 +383,28 @@
     ],
     "AdditionalTarget": [],
     "AdditionalTargetIdleScore": [],
-    "TargetCompleteClientBuff": []
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetCompleteCoolDown": []
+  },
+  "3003": {
+    "Id": 3003,
+    "Name": "Ee-chan Drum Band",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      3,
+      5
+    ],
+    "AdditionalTargetName": [
+      "Follow Leader Ee-chan to earn points"
+    ],
+    "AdditionalTarget": [],
+    "AdditionalTargetIdleScore": [],
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetCompleteCoolDown": []
   }
 }

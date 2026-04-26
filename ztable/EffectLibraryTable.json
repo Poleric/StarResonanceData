@@ -676,7 +676,10 @@
     "Name": "",
     "Path": "effect\\character\\p_fx_death",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "关卡",
+      "怪物生成"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_death(Clone).png"
   },
   "114": {
@@ -684,7 +687,10 @@
     "Name": "",
     "Path": "effect\\character\\p_fx_fuhuo_revive_01",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "怪物生成",
+      "关卡"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_fuhuo_revive_01(Clone).png"
   },
   "115": {
@@ -692,7 +698,10 @@
     "Name": "",
     "Path": "effect\\character\\p_fx_fuhuo_revive_02",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "关卡",
+      "怪物生成"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_fuhuo_revive_02(Clone).png"
   },
   "116": {
@@ -748,7 +757,10 @@
     "Name": "",
     "Path": "effect\\character\\p_fx_resurrection",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "怪物生成",
+      "关卡"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_resurrection(Clone).png"
   },
   "123": {
@@ -780,7 +792,10 @@
     "Name": "",
     "Path": "effect\\character\\p_fx_transfer_01",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "怪物生成",
+      "关卡"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_transfer_01(Clone).png"
   },
   "127": {
@@ -788,7 +803,10 @@
     "Name": "",
     "Path": "effect\\character\\p_fx_transfer_02",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "关卡",
+      "怪物生成"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_transfer_02(Clone).png"
   },
   "128": {
@@ -820,7 +838,11 @@
     "Name": "",
     "Path": "effect\\character\\p_fx_typeochaozai_diancidan_04",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "子弹",
+      "雷",
+      "战斗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_typeochaozai_diancidan_04(Clone).png"
   },
   "132": {
@@ -876,7 +898,11 @@
     "Name": "",
     "Path": "effect\\character\\p_fx_typeochaozai_nianzhuodan_yujing",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "子弹",
+      "雷",
+      "战斗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_typeochaozai_nianzhuodan_yujing(Clone).png"
   },
   "139": {
@@ -964,7 +990,11 @@
     "Name": "",
     "Path": "effect\\character\\p_fx_typeochaozai_zhongyourandan_03",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "子弹",
+      "雷"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_typeochaozai_zhongyourandan_03(Clone).png"
   },
   "150": {
@@ -3140,7 +3170,9 @@
     "Name": "树叶飘落",
     "Path": "effect\\common_new\\p_fx_common_monster_sen_lingyu",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_monster_sen_lingyu(Clone).png"
   },
   "422": {
@@ -3164,7 +3196,10 @@
     "Name": "",
     "Path": "effect\\env\\p_fx_env_fld001_spot_prop_001",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效",
+      "关卡"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_env_fld001_spot_prop_001(Clone).png"
   },
   "425": {
@@ -3196,7 +3231,10 @@
     "Name": "",
     "Path": "effect\\env\\p_fx_env_transmit_build_light",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "关卡",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_env_transmit_build_light(Clone).png"
   },
   "429": {
@@ -3532,7 +3570,11 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_axegoblins_sword_03",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "无属性"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_axegoblins_sword_03(Clone).png"
   },
   "471": {
@@ -3908,7 +3950,11 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_doujiafuzhu-dm_3",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "子弹",
+      "雷"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_doujiafuzhu-dm_3(Clone).png"
   },
   "518": {
@@ -3916,7 +3962,11 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_doujiafuzhu-dm_3_fire",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "子弹",
+      "雷"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_doujiafuzhu-dm_3_fire(Clone).png"
   },
   "519": {
@@ -3924,7 +3974,11 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_doujiafuzhu-dm_4",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "子弹",
+      "雷"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_doujiafuzhu-dm_4(Clone).png"
   },
   "520": {
@@ -3940,7 +3994,11 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_doujiafuzhu-pt",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "无属性"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_doujiafuzhu-pt(Clone).png"
   },
   "522": {
@@ -3956,7 +4014,11 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_doujiafuzhu-zb_1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "火"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_doujiafuzhu-zb_1(Clone).png"
   },
   "524": {
@@ -3964,7 +4026,11 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_doujiafuzhu-zb_2",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "火",
+      "地板"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_doujiafuzhu-zb_2(Clone).png"
   },
   "525": {
@@ -4172,7 +4238,10 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_gebulin_cast",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_gebulin_cast(Clone).png"
   },
   "551": {
@@ -4708,7 +4777,11 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_mon_dng001robot_01_missile_flying_03",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "子弹",
+      "火"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_mon_dng001robot_01_missile_flying_03(Clone).png"
   },
   "618": {
@@ -4740,7 +4813,11 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_mon_dng001robot_01_missile_flying_04",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "子弹",
+      "雷"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_mon_dng001robot_01_missile_flying_04(Clone).png"
   },
   "622": {
@@ -5292,7 +5369,10 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_wizardgoblinsflux_meteorites_boom",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_wizardgoblinsflux_meteorites_boom(Clone).png"
   },
   "691": {
@@ -5308,7 +5388,10 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_wizardgoblinsflux_meteorites_stone",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "地板",
+      "战斗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_wizardgoblinsflux_meteorites_stone(Clone).png"
   },
   "693": {
@@ -5492,7 +5575,10 @@
     "Name": "",
     "Path": "effect\\monster\\p_fx_wizardgoblins_wind_xuli_qy",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_wizardgoblins_wind_xuli_qy(Clone).png"
   },
   "716": {
@@ -7124,7 +7210,11 @@
     "Name": "",
     "Path": "effect\\zone\\p_fx_zone_air_wall_block",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "路径指引",
+      "区域范围",
+      "关卡"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_zone_air_wall_block(Clone).png"
   },
   "920": {
@@ -7132,7 +7222,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_atk_knife",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_atk_knife(Clone).png"
   },
   "921": {
@@ -7140,7 +7234,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_atk_knife1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_atk_knife1(Clone).png"
   },
   "922": {
@@ -7148,7 +7246,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_atk_knife2",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_atk_knife2(Clone).png"
   },
   "923": {
@@ -7156,7 +7258,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_atk_zadi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_atk_zadi(Clone).png"
   },
   "924": {
@@ -7164,7 +7270,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_atk_zadi_knife",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_atk_zadi_knife(Clone).png"
   },
   "925": {
@@ -7172,7 +7282,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting1_kuosan",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting1_kuosan(Clone).png"
   },
   "926": {
@@ -7180,7 +7294,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting1_start",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting1_start(Clone).png"
   },
   "927": {
@@ -7188,7 +7306,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting1_xushi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting1_xushi(Clone).png"
   },
   "928": {
@@ -7196,7 +7318,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting2_fentan",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "暗",
+      "buff",
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting2_fentan(Clone).png"
   },
   "929": {
@@ -7204,7 +7330,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting2_start",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting2_start(Clone).png"
   },
   "930": {
@@ -7212,7 +7342,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting2_xuli",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting2_xuli(Clone).png"
   },
   "931": {
@@ -7220,7 +7354,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting2_xushi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting2_xushi(Clone).png"
   },
   "932": {
@@ -7228,7 +7366,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting_start",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting_start(Clone).png"
   },
   "933": {
@@ -7236,7 +7378,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting_xushi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting_xushi(Clone).png"
   },
   "934": {
@@ -7244,7 +7390,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting_xushiloop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting_xushiloop(Clone).png"
   },
   "935": {
@@ -7252,7 +7402,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_casting_zadi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_casting_zadi(Clone).png"
   },
   "936": {
@@ -7260,7 +7414,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_coerce_end",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "暗",
+      "地板",
+      "战斗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_coerce_end(Clone).png"
   },
   "937": {
@@ -7268,7 +7426,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_coerce_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_coerce_loop(Clone).png"
   },
   "938": {
@@ -7276,7 +7438,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_coerce_shifa",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_coerce_shifa(Clone).png"
   },
   "939": {
@@ -7284,7 +7450,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_coerce_shifa1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_coerce_shifa1(Clone).png"
   },
   "940": {
@@ -7300,7 +7470,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_danger_knife1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_danger_knife1(Clone).png"
   },
   "942": {
@@ -7308,7 +7482,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_danger_knife2",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_danger_knife2(Clone).png"
   },
   "943": {
@@ -7316,7 +7494,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_danger_stone",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_danger_stone(Clone).png"
   },
   "944": {
@@ -7324,7 +7506,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_danger_xuanzhuan",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_danger_xuanzhuan(Clone).png"
   },
   "945": {
@@ -7332,7 +7518,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_danger_xuli",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_danger_xuli(Clone).png"
   },
   "946": {
@@ -7340,7 +7530,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_danger_xuli2",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_danger_xuli2(Clone).png"
   },
   "947": {
@@ -7348,7 +7542,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_danger_zadi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_danger_zadi(Clone).png"
   },
   "948": {
@@ -7356,7 +7554,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_diff_xuli",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_diff_xuli(Clone).png"
   },
   "949": {
@@ -7364,7 +7566,9 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_diff_zadi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_diff_zadi(Clone).png"
   },
   "950": {
@@ -7372,7 +7576,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_diff_zidan",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_diff_zidan(Clone).png"
   },
   "951": {
@@ -7380,7 +7588,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_elude_aoe",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_elude_aoe(Clone).png"
   },
   "952": {
@@ -7388,7 +7600,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_elude_boom",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_elude_boom(Clone).png"
   },
   "953": {
@@ -7396,7 +7612,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_elude_start",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_elude_start(Clone).png"
   },
   "954": {
@@ -7404,7 +7624,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_follow_end",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_follow_end(Clone).png"
   },
   "955": {
@@ -7412,7 +7636,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_follow_start",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_follow_start(Clone).png"
   },
   "956": {
@@ -7420,7 +7648,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_follow_xushi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_follow_xushi(Clone).png"
   },
   "957": {
@@ -7428,7 +7660,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_half_end",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_half_end(Clone).png"
   },
   "958": {
@@ -7436,7 +7672,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_half_jump",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_half_jump(Clone).png"
   },
   "959": {
@@ -7444,7 +7684,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_half_knife",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_half_knife(Clone).png"
   },
   "960": {
@@ -7452,7 +7696,9 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_half_start",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_half_start(Clone).png"
   },
   "961": {
@@ -7460,7 +7706,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_invade_end",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "关卡",
+      "怪物生成",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_invade_end(Clone).png"
   },
   "962": {
@@ -7468,7 +7718,10 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_invade_jiyiqiu",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "关卡",
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_invade_jiyiqiu(Clone).png"
   },
   "963": {
@@ -7476,7 +7729,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_invade_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "关卡",
+      "场景特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_invade_loop(Clone).png"
   },
   "964": {
@@ -7484,7 +7741,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_parclos_aoe",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_parclos_aoe(Clone).png"
   },
   "965": {
@@ -7492,7 +7753,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_parclos_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_parclos_loop(Clone).png"
   },
   "966": {
@@ -7500,7 +7765,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_shield_boom",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_shield_boom(Clone).png"
   },
   "967": {
@@ -7508,7 +7777,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_shield_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_shield_loop(Clone).png"
   },
   "968": {
@@ -7516,7 +7789,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_berserkdenvel_shield_shifa",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_berserkdenvel_shield_shifa(Clone).png"
   },
   "969": {
@@ -7524,7 +7801,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_atk_hit",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_atk_hit(Clone).png"
   },
   "970": {
@@ -7532,7 +7813,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_atk_knife",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_atk_knife(Clone).png"
   },
   "971": {
@@ -7540,7 +7825,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_atk_zadi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_atk_zadi(Clone).png"
   },
   "972": {
@@ -7548,7 +7837,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_atk_zadi_knife",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_atk_zadi_knife(Clone).png"
   },
   "973": {
@@ -7556,7 +7849,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_chop_failed",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_chop_failed(Clone).png"
   },
   "974": {
@@ -7564,7 +7861,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_chop_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_chop_loop(Clone).png"
   },
   "975": {
@@ -7572,7 +7873,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_chop_start",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_chop_start(Clone).png"
   },
   "976": {
@@ -7580,7 +7885,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_chop_succeed",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_chop_succeed(Clone).png"
   },
   "977": {
@@ -7588,7 +7897,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_chop_weapon",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_chop_weapon(Clone).png"
   },
   "978": {
@@ -7596,7 +7909,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_diff_xuli",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_diff_xuli(Clone).png"
   },
   "979": {
@@ -7604,7 +7921,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_diff_zadi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_diff_zadi(Clone).png"
   },
   "980": {
@@ -7612,7 +7933,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_diff_zidan",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_diff_zidan(Clone).png"
   },
   "981": {
@@ -7620,7 +7945,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_follow_end",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_follow_end(Clone).png"
   },
   "982": {
@@ -7628,7 +7957,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_follow_start",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_follow_start(Clone).png"
   },
   "983": {
@@ -7636,7 +7969,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_follow_xushi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_follow_xushi(Clone).png"
   },
   "984": {
@@ -7644,7 +7981,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_shield_boom",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_shield_boom(Clone).png"
   },
   "985": {
@@ -7652,7 +7993,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_shield_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_shield_loop(Clone).png"
   },
   "986": {
@@ -7660,7 +8005,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_shield_shifa",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "buff",
+      "身体特效",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_shield_shifa(Clone).png"
   },
   "987": {
@@ -7668,7 +8017,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_struggle_chop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "挥砍",
+      "地板",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_struggle_chop(Clone).png"
   },
   "988": {
@@ -7676,7 +8029,11 @@
     "Name": "",
     "Path": "effect\\boss\\denvel\\p_fx_denvel_struggle_knife",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "战斗",
+      "挥砍",
+      "暗"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_denvel_struggle_knife(Clone).png"
   },
   "989": {
@@ -10836,7 +11193,9 @@
     "Name": "超长超粗毁灭激光",
     "Path": "effect\\boss\\typeochaozai\\p_fx_typeochaozai_huimiejiguang_new",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "关卡"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_typeochaozai_huimiejiguang_new(Clone).png"
   },
   "1384": {
@@ -10852,7 +11211,10 @@
     "Name": "水系扩散波",
     "Path": "effect\\boss\\typeochaozai\\p_fx_typeochaozai_huimiejiguang_xuli1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "关卡",
+      "水"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_typeochaozai_huimiejiguang_xuli1(Clone).png"
   },
   "1386": {
@@ -11844,7 +12206,9 @@
     "Name": "",
     "Path": "effect\\common_new\\buff\\p_fx_common_buff_damage_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_buff_damage_loop(Clone).png"
   },
   "1510": {
@@ -11852,7 +12216,9 @@
     "Name": "格挡成功（？）",
     "Path": "effect\\common_new\\buff\\p_fx_common_buff_defense",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "挥砍"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_buff_defense(Clone).png"
   },
   "1511": {
@@ -11860,7 +12226,9 @@
     "Name": "增防持续表现buff",
     "Path": "effect\\common_new\\buff\\p_fx_common_buff_defense_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_buff_defense_loop(Clone).png"
   },
   "1512": {
@@ -11868,7 +12236,9 @@
     "Name": "加速buff",
     "Path": "effect\\common_new\\buff\\p_fx_common_buff_speed",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_buff_speed(Clone).png"
   },
   "1513": {
@@ -11876,7 +12246,9 @@
     "Name": "加速持续表现buff",
     "Path": "effect\\common_new\\buff\\p_fx_common_buff_speed_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_buff_speed_loop(Clone).png"
   },
   "1514": {
@@ -11884,7 +12256,9 @@
     "Name": "致死标记",
     "Path": "effect\\common_new\\buff\\p_fx_common_ui_zhisi_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "头顶特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_ui_zhisi_loop(Clone).png"
   },
   "1515": {
@@ -11892,7 +12266,9 @@
     "Name": "致死标记消失",
     "Path": "effect\\common_new\\buff\\p_fx_common_ui_zhisi_star",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "头顶特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_ui_zhisi_star(Clone).png"
   },
   "1516": {
@@ -11908,7 +12284,9 @@
     "Name": "弓箭射击",
     "Path": "effect\\common_new\\bullet\\p_fx_common_arrow_01",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "子弹"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_arrow_01(Clone).png"
   },
   "1518": {
@@ -11916,7 +12294,9 @@
     "Name": "风",
     "Path": "effect\\common_new\\bullet\\p_fx_common_bullet_wind_01",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_bullet_wind_01(Clone).png"
   },
   "1519": {
@@ -11924,7 +12304,9 @@
     "Name": "石头",
     "Path": "effect\\common_new\\bullet\\p_fx_common_stone_01",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_stone_01(Clone).png"
   },
   "1520": {
@@ -12148,7 +12530,10 @@
     "Name": "风系子弹",
     "Path": "effect\\common_new\\dandao\\p_fx_common_dandao_wind",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "风",
+      "子弹"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_dandao_wind(Clone).png"
   },
   "1548": {
@@ -12292,7 +12677,9 @@
     "Name": "场景箭头",
     "Path": "effect\\common_new\\env\\p_fx_changjing_jiantou",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_changjing_jiantou(Clone).png"
   },
   "1566": {
@@ -12300,7 +12687,9 @@
     "Name": "场景交互箭头",
     "Path": "effect\\common_new\\env\\p_fx_changjing_jiaohui_jiantou_001",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_changjing_jiaohui_jiantou_001(Clone).png"
   },
   "1567": {
@@ -12308,7 +12697,9 @@
     "Name": "小物件交互出现消失烟雾",
     "Path": "effect\\common_new\\env\\p_fx_common_interactive_xiao_smoke",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_interactive_xiao_smoke(Clone).png"
   },
   "1568": {
@@ -12316,7 +12707,9 @@
     "Name": "普通怪物-出生",
     "Path": "effect\\common_new\\env\\p_fx_common_monster_appear",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "怪物生成"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_monster_appear(Clone).png"
   },
   "1569": {
@@ -12324,7 +12717,9 @@
     "Name": "强敌-出生",
     "Path": "effect\\common_new\\env\\p_fx_common_monster_appear_qiangdi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "怪物生成"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_monster_appear_qiangdi(Clone).png"
   },
   "1570": {
@@ -12332,7 +12727,9 @@
     "Name": "虚蚀怪物-出现",
     "Path": "effect\\common_new\\env\\p_fx_common_monster_appear_xushi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "怪物生成"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_monster_appear_xushi(Clone).png"
   },
   "1571": {
@@ -12340,7 +12737,9 @@
     "Name": "法术类怪物-出现",
     "Path": "effect\\common_new\\env\\p_fx_common_monster_fashulei_appear",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "怪物生成"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_monster_fashulei_appear(Clone).png"
   },
   "1572": {
@@ -12348,7 +12747,9 @@
     "Name": "法术类怪物-消失",
     "Path": "effect\\common_new\\env\\p_fx_common_monster_fashulei_disappear",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "怪物生成"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_monster_fashulei_disappear(Clone).png"
   },
   "1573": {
@@ -12428,7 +12829,9 @@
     "Name": "npc虚蚀",
     "Path": "effect\\common_new\\env\\p_fx_common_npc_xushi_buff01_point",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_npc_xushi_buff01_point(Clone).png"
   },
   "1583": {
@@ -12452,7 +12855,9 @@
     "Name": "npc虚蚀-左大腿",
     "Path": "effect\\common_new\\env\\p_fx_common_npc_xushi_l_leg_j_point",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_npc_xushi_l_leg_j_point(Clone).png"
   },
   "1586": {
@@ -12460,7 +12865,9 @@
     "Name": "npc虚蚀-左大腿",
     "Path": "effect\\common_new\\env\\p_fx_common_npc_xushi_l_upleg_j_point",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_npc_xushi_l_upleg_j_point(Clone).png"
   },
   "1587": {
@@ -12468,7 +12875,9 @@
     "Name": "npc虚蚀-右大臂",
     "Path": "effect\\common_new\\env\\p_fx_common_npc_xushi_r_arm_j_point",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_npc_xushi_r_arm_j_point(Clone).png"
   },
   "1588": {
@@ -12476,7 +12885,9 @@
     "Name": "npc虚蚀-右小臂",
     "Path": "effect\\common_new\\env\\p_fx_common_npc_xushi_r_forearm_j_point",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_npc_xushi_r_forearm_j_point(Clone).png"
   },
   "1589": {
@@ -12484,7 +12895,9 @@
     "Name": "npc虚蚀-右小腿",
     "Path": "effect\\common_new\\env\\p_fx_common_npc_xushi_r_leg_j_point",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_npc_xushi_r_leg_j_point(Clone).png"
   },
   "1590": {
@@ -12492,7 +12905,9 @@
     "Name": "npc虚蚀-右大腿",
     "Path": "effect\\common_new\\env\\p_fx_common_npc_xushi_r_upleg_j_point",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "身体特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_npc_xushi_r_upleg_j_point(Clone).png"
   },
   "1591": {
@@ -12500,7 +12915,9 @@
     "Name": "安全范围",
     "Path": "effect\\common_new\\env\\p_fx_common_safe_ring",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "区域范围"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_common_safe_ring(Clone).png"
   },
   "1592": {
@@ -12532,7 +12949,9 @@
     "Name": "水晶表面",
     "Path": "effect\\common_new\\env\\p_fx_crystal",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_crystal(Clone).png"
   },
   "1596": {
@@ -12540,7 +12959,9 @@
     "Name": "激活节点-蓝",
     "Path": "effect\\common_new\\env\\p_fx_damijing_jihuojiedian_04_blue",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "标点指引"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_damijing_jihuojiedian_04_blue(Clone).png"
   },
   "1597": {
@@ -12548,7 +12969,9 @@
     "Name": "激活节点-红",
     "Path": "effect\\common_new\\env\\p_fx_damijing_jihuojiedian_04_red",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "标点指引"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_damijing_jihuojiedian_04_red(Clone).png"
   },
   "1598": {
@@ -12556,7 +12979,9 @@
     "Name": "激活节点-黄",
     "Path": "effect\\common_new\\env\\p_fx_damijing_jihuojiedian_04_yellow",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "标点指引"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_damijing_jihuojiedian_04_yellow(Clone).png"
   },
   "1599": {
@@ -12564,7 +12989,9 @@
     "Name": "节点解锁成功",
     "Path": "effect\\common_new\\env\\p_fx_damijing_jihuojiedian_jihuo_jiesuo_chengong",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "标点指引"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_damijing_jihuojiedian_jihuo_jiesuo_chengong(Clone).png"
   },
   "1600": {
@@ -12572,7 +12999,9 @@
     "Name": "节点解锁失败",
     "Path": "effect\\common_new\\env\\p_fx_damijing_jihuojiedian_jihuo_jiesuo_shibai",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "标点指引"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_damijing_jihuojiedian_jihuo_jiesuo_shibai(Clone).png"
   },
   "1601": {
@@ -12580,7 +13009,9 @@
     "Name": "星元门",
     "Path": "effect\\common_new\\env\\p_fx_door_xingyuan",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_door_xingyuan(Clone).png"
   },
   "1602": {
@@ -12588,7 +13019,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_env_daoju_loop",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_env_daoju_loop(Clone).png"
   },
   "1603": {
@@ -12604,7 +13037,9 @@
     "Name": "怪物副本传送门",
     "Path": "effect\\common_new\\env\\p_fx_env_pve_portal",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_env_pve_portal(Clone).png"
   },
   "1605": {
@@ -12612,7 +13047,9 @@
     "Name": "怪物副本传送门-打开",
     "Path": "effect\\common_new\\env\\p_fx_env_pve_portal_open",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_env_pve_portal_open(Clone).png"
   },
   "1606": {
@@ -12660,7 +13097,9 @@
     "Name": "交互闪光点",
     "Path": "effect\\common_new\\env\\p_fx_jiaohuishanguang_01",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "标点指引"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_jiaohuishanguang_01(Clone).png"
   },
   "1612": {
@@ -12668,7 +13107,9 @@
     "Name": "角色站位提示",
     "Path": "effect\\common_new\\env\\p_fx_juese_zhanwei_tishi",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "标点指引"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_juese_zhanwei_tishi(Clone).png"
   },
   "1613": {
@@ -12676,7 +13117,9 @@
     "Name": "足迹线",
     "Path": "effect\\common_new\\env\\p_fx_lujing_yingdao",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "路径指引"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_lujing_yingdao(Clone).png"
   },
   "1614": {
@@ -12684,7 +13127,9 @@
     "Name": "恢复血包",
     "Path": "effect\\common_new\\env\\p_fx_recoverpackage",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "标点指引"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_recoverpackage(Clone).png"
   },
   "1615": {
@@ -12700,7 +13145,9 @@
     "Name": "石门-关闭",
     "Path": "effect\\common_new\\env\\p_fx_scenes_gear_shimen_close",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scenes_gear_shimen_close(Clone).png"
   },
   "1617": {
@@ -12708,7 +13155,9 @@
     "Name": "石门-打开",
     "Path": "effect\\common_new\\env\\p_fx_scenes_gear_shimen_open",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scenes_gear_shimen_open(Clone).png"
   },
   "1618": {
@@ -12716,7 +13165,9 @@
     "Name": "传送点",
     "Path": "effect\\common_new\\env\\p_fx_scene_chuanson_bigball",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_chuanson_bigball(Clone).png"
   },
   "1619": {
@@ -12724,7 +13175,9 @@
     "Name": "传送点-持续效果",
     "Path": "effect\\common_new\\env\\p_fx_scene_chuanson_loop_1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_chuanson_loop_1(Clone).png"
   },
   "1620": {
@@ -12732,7 +13185,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_chuanson_loop_2",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_chuanson_loop_2(Clone).png"
   },
   "1621": {
@@ -12740,7 +13195,9 @@
     "Name": "传送点-持续效果-光柱",
     "Path": "effect\\common_new\\env\\p_fx_scene_chuanson_loop_guangzhu",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_chuanson_loop_guangzhu(Clone).png"
   },
   "1622": {
@@ -12756,7 +13213,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_chuanson_smallball",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_chuanson_smallball(Clone).png"
   },
   "1624": {
@@ -12764,7 +13223,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_chuanson_zhen",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_chuanson_zhen(Clone).png"
   },
   "1625": {
@@ -12772,7 +13233,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_chuanson_zhen_small",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "互动项"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_chuanson_zhen_small(Clone).png"
   },
   "1626": {
@@ -12780,7 +13243,9 @@
     "Name": "石头碎裂",
     "Path": "effect\\common_new\\env\\p_fx_scene_dm_stone",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dm_stone(Clone).png"
   },
   "1627": {
@@ -12788,7 +13253,10 @@
     "Name": "雷核心",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragonscar_core_lei",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "雷",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragonscar_core_lei(Clone).png"
   },
   "1628": {
@@ -12796,7 +13264,10 @@
     "Name": "雷核心爆炸",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragonscar_core_lei_boom",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "雷",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragonscar_core_lei_boom(Clone).png"
   },
   "1629": {
@@ -12820,7 +13291,10 @@
     "Name": "雷核心失去",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragonscar_core_lei_shiqu",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效",
+      "雷"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragonscar_core_lei_shiqu(Clone).png"
   },
   "1632": {
@@ -12836,7 +13310,10 @@
     "Name": "雷核心未激活",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragonscar_core_lei_weijihuo",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "雷",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragonscar_core_lei_weijihuo(Clone).png"
   },
   "1634": {
@@ -12844,7 +13321,10 @@
     "Name": "风",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragonscar_core_wind_shiqu",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "风",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragonscar_core_wind_shiqu(Clone).png"
   },
   "1635": {
@@ -12852,7 +13332,10 @@
     "Name": "雷核心电弧",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragonscar_dianhu",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "雷",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragonscar_dianhu(Clone).png"
   },
   "1636": {
@@ -12860,7 +13343,10 @@
     "Name": "雷云",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragonscar_leiyun",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "雷",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragonscar_leiyun(Clone).png"
   },
   "1637": {
@@ -12884,7 +13370,10 @@
     "Name": "雷墙",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragon_lightning_wall",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "雷",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragon_lightning_wall(Clone).png"
   },
   "1640": {
@@ -12892,7 +13381,10 @@
     "Name": "雷墙-爆发",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragon_lightning_wall_burst",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "雷",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragon_lightning_wall_burst(Clone).png"
   },
   "1641": {
@@ -12900,7 +13392,10 @@
     "Name": "雷墙-碎裂",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragon_lightning_wall_posui",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "雷",
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragon_lightning_wall_posui(Clone).png"
   },
   "1642": {
@@ -12908,7 +13403,9 @@
     "Name": "地面烟雾",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragon_windsmoke",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragon_windsmoke(Clone).png"
   },
   "1643": {
@@ -12916,7 +13413,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragon_windsmoke_intensity",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragon_windsmoke_intensity(Clone).png"
   },
   "1644": {
@@ -12924,7 +13423,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_dragon_wind_tongdao",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_dragon_wind_tongdao(Clone).png"
   },
   "1645": {
@@ -12956,7 +13457,9 @@
     "Name": "烟火1-a",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_01",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_01(Clone).png"
   },
   "1649": {
@@ -12964,7 +13467,9 @@
     "Name": "烟火1-b",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_01_b",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_01_b(Clone).png"
   },
   "1650": {
@@ -12980,7 +13485,9 @@
     "Name": "烟火1-d",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_01_d",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_01_d(Clone).png"
   },
   "1652": {
@@ -12988,7 +13495,9 @@
     "Name": "烟火1-d-2",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_01_d_02",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_01_d_02(Clone).png"
   },
   "1653": {
@@ -12996,7 +13505,9 @@
     "Name": "烟火1-e",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_01_e",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_01_e(Clone).png"
   },
   "1654": {
@@ -13004,7 +13515,9 @@
     "Name": "烟火1-地面",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_01_earth",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_01_earth(Clone).png"
   },
   "1655": {
@@ -13012,7 +13525,9 @@
     "Name": "烟火1-地面-2",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_01_earth_02",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_01_earth_02(Clone).png"
   },
   "1656": {
@@ -13020,7 +13535,9 @@
     "Name": "烟火1-f",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_01_f",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_01_f(Clone).png"
   },
   "1657": {
@@ -13028,7 +13545,9 @@
     "Name": "烟火1-g",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_01_g",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_01_g(Clone).png"
   },
   "1658": {
@@ -13052,7 +13571,9 @@
     "Name": "烟花2-蓝-1",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_blue_1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_blue_1(Clone).png"
   },
   "1661": {
@@ -13060,7 +13581,9 @@
     "Name": "烟花2-彩-1",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_colorful_1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_colorful_1(Clone).png"
   },
   "1662": {
@@ -13068,7 +13591,9 @@
     "Name": "烟火2-彩-2",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_colorful_2",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_colorful_2(Clone).png"
   },
   "1663": {
@@ -13076,7 +13601,9 @@
     "Name": "烟火2-绿-1",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_green",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_green(Clone).png"
   },
   "1664": {
@@ -13084,7 +13611,9 @@
     "Name": "烟火2-绿-2",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_green_1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_green_1(Clone).png"
   },
   "1665": {
@@ -13092,7 +13621,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_green_zq",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_green_zq(Clone).png"
   },
   "1666": {
@@ -13100,7 +13631,9 @@
     "Name": "烟火2-紫-1",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_purple",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_purple(Clone).png"
   },
   "1667": {
@@ -13108,7 +13641,9 @@
     "Name": "烟火2-紫-1",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_purplr_1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_purplr_1(Clone).png"
   },
   "1668": {
@@ -13116,7 +13651,9 @@
     "Name": "烟火2-红-1",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_red",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_red(Clone).png"
   },
   "1669": {
@@ -13124,7 +13661,9 @@
     "Name": "烟火2-红-1",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_red_1",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_red_1(Clone).png"
   },
   "1670": {
@@ -13132,7 +13671,9 @@
     "Name": "烟火2-黄-1",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_yellow",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_yellow(Clone).png"
   },
   "1671": {
@@ -13140,7 +13681,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_02_yellow_zq",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_02_yellow_zq(Clone).png"
   },
   "1672": {
@@ -13156,7 +13699,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_03_blue_zq",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_03_blue_zq(Clone).png"
   },
   "1674": {
@@ -13164,7 +13709,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_03_blue_zq02",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_03_blue_zq02(Clone).png"
   },
   "1675": {
@@ -13172,7 +13719,9 @@
     "Name": "",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_03_purple_zq",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_03_purple_zq(Clone).png"
   },
   "1676": {
@@ -13188,7 +13737,9 @@
     "Name": "烟火3-红",
     "Path": "effect\\common_new\\env\\p_fx_scene_fireworks_03_red",
     "EffectType": "",
-    "Tags": [],
+    "Tags": [
+      "场景特效"
+    ],
     "Thumbnail": "Assets/Art/effect_preview/manual/p_fx_scene_fireworks_03_red(Clone).png"
   },
   "1678": {

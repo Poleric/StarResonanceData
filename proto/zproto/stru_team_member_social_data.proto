@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_avatar_info.proto";
 import "stru_basic_data.proto";
 import "stru_equip_data.proto";
@@ -13,15 +11,16 @@ import "stru_user_attr_data.proto";
 import "stru_user_scene_info.proto";
 import "stru_dirty_mask.proto";
 
-message TeamMemberSocialData {
-  zproto.BasicData basic_data = 1;
-  zproto.AvatarInfo avatar_info = 2;
-  zproto.FaceData face_data = 3;
-  zproto.ProfessionData profession_data = 4;
-  zproto.EquipData equip_data = 5;
-  zproto.FashionData fashion_data = 6;
-  zproto.UserSceneInfo user_scene_info = 7;
-  zproto.UserAttrData user_attr_data = 8;
-  zproto.PersonalZoneShow personal_zone = 9;
-}
+package zproto;
 
+message TeamMemberSocialData {
+	BasicData basicData = 1 [json_name = "basicData"];
+	AvatarInfo avatarInfo = 2 [json_name = "avatarInfo"];
+	FaceData faceData = 3 [json_name = "faceData"];
+	ProfessionData professionData = 4 [json_name = "professionData"];
+	EquipData equipData = 5 [json_name = "equipData"];
+	FashionData fashionData = 6 [json_name = "fashionData"];
+	UserSceneInfo userSceneInfo = 7 [json_name = "userSceneInfo"];
+	UserAttrData userAttrData = 8 [json_name = "userAttrData"];
+	PersonalZoneShow personalZone = 9 [json_name = "personalZone"];
+}

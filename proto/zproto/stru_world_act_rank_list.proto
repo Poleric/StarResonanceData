@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_world_act_rank_info.proto";
+
+package zproto;
+
+message WorldActRankList {
+	int32 activityId = 1 [json_name = "activityId"];
+	map<int64, WorldActRankInfo> rankInfos = 2 [json_name = "rankInfos"];
+	int32 currentRank = 3 [json_name = "currentRank"];
+	int32 selfScore = 4 [json_name = "selfScore"];
+}

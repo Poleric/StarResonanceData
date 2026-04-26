@@ -1,0 +1,30 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Name": "Fish Parade Leader",
+    "ParadePathName": "bubble_route01",
+    "Interval": 1.5,
+    "MoveSpeed": 0.8
+  },
+  "1002": {
+    "Id": 1002,
+    "Name": "Boarlet Parade Leader",
+    "ParadePathName": "bubble_route02",
+    "Interval": 1.8,
+    "MoveSpeed": 1.8
+  },
+  "1004": {
+    "Id": 1004,
+    "Name": "Ee-chan Drum Band",
+    "ParadePathName": "bubble_route04",
+    "Interval": 1.8,
+    "MoveSpeed": 1.5
+  },
+  "1005": {
+    "Id": 1005,
+    "Name": "Ee-chan Drum Band (Test)",
+    "ParadePathName": "bubble_route05",
+    "Interval": 1.8,
+    "MoveSpeed": 1.5
+  }
+}

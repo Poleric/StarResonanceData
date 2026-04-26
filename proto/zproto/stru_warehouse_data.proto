@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message WarehouseData {
-  int64 warehouse_id = 1;
-}
+package zproto;
 
+message WarehouseData {
+	int64 warehouseId = 1 [json_name = "warehouseId"];
+}

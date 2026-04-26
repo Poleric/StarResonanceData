@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message TeamActivityResultRequest {
-  int64 v_char_id = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message TeamActivityResultRequest {
+	int64 vCharId = 1 [json_name = "vCharId"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

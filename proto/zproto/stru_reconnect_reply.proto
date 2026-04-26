@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message ReconnectReply {
-  string account_id = 1;
-  int64 char_id = 2;
-  bool is_privilege = 3;
-  bool is_change_account = 4;
-  zproto.EErrorCode err_code = 5;
-}
+package zproto;
 
+message ReconnectReply {
+	string accountId = 1 [json_name = "accountId"];
+	int64 charId = 2 [json_name = "charId"];
+	bool isPrivilege = 3 [json_name = "isPrivilege"];
+	bool isChangeAccount = 4 [json_name = "isChangeAccount"];
+	EErrorCode errCode = 5 [json_name = "errCode"];
+}

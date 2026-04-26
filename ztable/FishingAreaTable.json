@@ -3,19 +3,7 @@
     "SceneObjectId": 2200,
     "AreaName": "City Harbor",
     "FishGroup": [],
-    "WaitTime": [
-      7.0,
-      10.0
-    ],
-    "AreaSize": [
-      9.0,
-      12.0
-    ],
-    "ShiftDistance": 15.0,
-    "InitialPos": [
-      0.0,
-      0.0
-    ]
+    "WaitTime": []
   },
   "2201": {
     "SceneObjectId": 2201,
@@ -32,19 +20,7 @@
       1096009,
       1096010
     ],
-    "WaitTime": [
-      7.0,
-      10.0
-    ],
-    "AreaSize": [
-      9.0,
-      12.0
-    ],
-    "ShiftDistance": 15.0,
-    "InitialPos": [
-      0.0,
-      0.0
-    ]
+    "WaitTime": []
   },
   "2202": {
     "SceneObjectId": 2202,
@@ -53,6 +29,7 @@
       1094009,
       1094010,
       1094011,
+      1094021,
       1095003,
       1096011,
       1096012,
@@ -61,18 +38,44 @@
       1096015,
       1096016
     ],
-    "WaitTime": [
-      7.0,
-      10.0
+    "WaitTime": []
+  },
+  "2203": {
+    "SceneObjectId": 2203,
+    "AreaName": "Highland Stream",
+    "FishGroup": [
+      1094016,
+      1094017,
+      1094018,
+      1094019,
+      1095005,
+      1096017,
+      1096018,
+      1096019,
+      1096020,
+      1096021,
+      1096022,
+      1096023
     ],
-    "AreaSize": [
-      9.0,
-      12.0
+    "WaitTime": []
+  },
+  "2204": {
+    "SceneObjectId": 2204,
+    "AreaName": "Highland Valley",
+    "FishGroup": [
+      1094020,
+      1094022,
+      1094023,
+      1094024,
+      1095006,
+      1096024,
+      1096025,
+      1096026,
+      1096027,
+      1096028,
+      1096029,
+      1096030
     ],
-    "ShiftDistance": 15.0,
-    "InitialPos": [
-      0.0,
-      0.0
-    ]
+    "WaitTime": []
   }
 }

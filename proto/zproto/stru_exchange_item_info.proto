@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message ExchangeItemInfo {
-  uint32 config_id = 1;
-  uint32 num = 2;
-  uint32 min_price = 3;
-  bool is_care = 4;
+	uint32 configId = 1 [json_name = "configId"];
+	uint32 num = 2 [json_name = "num"];
+	uint32 minPrice = 3 [json_name = "minPrice"];
+	bool isCare = 4 [json_name = "isCare"];
 }
-

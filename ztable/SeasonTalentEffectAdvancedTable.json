@@ -1,0 +1,1298 @@
+{
+  "101": {
+    "Id": 101,
+    "Name": "General 1",
+    "EffectId": 100,
+    "Level": 1,
+    "Effect": [
+      [
+        3,
+        3003610,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 100,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_fullattack",
+    "UnlockFraction": 2
+  },
+  "102": {
+    "Id": 102,
+    "Name": "General 2",
+    "EffectId": 100,
+    "Level": 2,
+    "Effect": [
+      [
+        3,
+        3003620,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 200,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_draw",
+    "UnlockFraction": 5
+  },
+  "103": {
+    "Id": 103,
+    "Name": "General 3",
+    "EffectId": 100,
+    "Level": 3,
+    "Effect": [
+      [
+        3,
+        3003630,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 350,
+    "Icon": "ui/atlas/talent_passive_1/taidao144",
+    "UnlockFraction": 12
+  },
+  "104": {
+    "Id": 104,
+    "Name": "General 4",
+    "EffectId": 100,
+    "Level": 4,
+    "Effect": [
+      [
+        3,
+        3003640,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 450,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_fullattack",
+    "UnlockFraction": 20
+  },
+  "105": {
+    "Id": 105,
+    "Name": "General 5",
+    "EffectId": 100,
+    "Level": 5,
+    "Effect": [
+      [
+        3,
+        3003650,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 600,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_draw",
+    "UnlockFraction": 25
+  },
+  "106": {
+    "Id": 106,
+    "Name": "Fantasia Impact - Exclusive",
+    "EffectId": 100,
+    "Level": 6,
+    "Effect": [
+      [
+        3,
+        3003660,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 800,
+    "Icon": "ui/atlas/talent_passive_1/taidao144",
+    "UnlockFraction": 35
+  },
+  "107": {
+    "Id": 107,
+    "Name": "General 1",
+    "EffectId": 101,
+    "Level": 1,
+    "Effect": [
+      [
+        3,
+        3003610,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 100,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_instant",
+    "UnlockFraction": 2
+  },
+  "108": {
+    "Id": 108,
+    "Name": "General 2",
+    "EffectId": 101,
+    "Level": 2,
+    "Effect": [
+      [
+        3,
+        3003620,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 200,
+    "Icon": "ui/atlas/talent_passive_1/taidao136",
+    "UnlockFraction": 5
+  },
+  "109": {
+    "Id": 109,
+    "Name": "General 3",
+    "EffectId": 101,
+    "Level": 3,
+    "Effect": [
+      [
+        3,
+        3003630,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 350,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_pursue",
+    "UnlockFraction": 12
+  },
+  "110": {
+    "Id": 110,
+    "Name": "General 4",
+    "EffectId": 101,
+    "Level": 4,
+    "Effect": [
+      [
+        3,
+        3003640,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 450,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_instant",
+    "UnlockFraction": 20
+  },
+  "111": {
+    "Id": 111,
+    "Name": "General 5",
+    "EffectId": 101,
+    "Level": 5,
+    "Effect": [
+      [
+        3,
+        3003650,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 600,
+    "Icon": "ui/atlas/talent_passive_1/taidao136",
+    "UnlockFraction": 25
+  },
+  "112": {
+    "Id": 112,
+    "Name": "Phantom Execution - Exclusive",
+    "EffectId": 101,
+    "Level": 6,
+    "Effect": [
+      [
+        3,
+        3003670,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 800,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_pursue",
+    "UnlockFraction": 35
+  },
+  "113": {
+    "Id": 113,
+    "Name": "General 1",
+    "EffectId": 102,
+    "Level": 1,
+    "Effect": [
+      [
+        3,
+        3003610,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 100,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_swordbullet",
+    "UnlockFraction": 2
+  },
+  "114": {
+    "Id": 114,
+    "Name": "General 2",
+    "EffectId": 102,
+    "Level": 2,
+    "Effect": [
+      [
+        3,
+        3003620,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 200,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thundermastery",
+    "UnlockFraction": 5
+  },
+  "115": {
+    "Id": 115,
+    "Name": "General 3",
+    "EffectId": 102,
+    "Level": 3,
+    "Effect": [
+      [
+        3,
+        3003630,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 350,
+    "Icon": "ui/atlas/talent_passive_1/talent_skill_360105",
+    "UnlockFraction": 12
+  },
+  "116": {
+    "Id": 116,
+    "Name": "General 4",
+    "EffectId": 102,
+    "Level": 4,
+    "Effect": [
+      [
+        3,
+        3003640,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 450,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_swordbullet",
+    "UnlockFraction": 20
+  },
+  "117": {
+    "Id": 117,
+    "Name": "General 5",
+    "EffectId": 102,
+    "Level": 5,
+    "Effect": [
+      [
+        3,
+        3003650,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 600,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thundermastery",
+    "UnlockFraction": 25
+  },
+  "118": {
+    "Id": 118,
+    "Name": "Phantom Arrow - Exclusive",
+    "EffectId": 102,
+    "Level": 6,
+    "Effect": [
+      [
+        3,
+        3003680,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 800,
+    "Icon": "ui/atlas/talent_passive_1/talent_skill_360105",
+    "UnlockFraction": 35
+  },
+  "119": {
+    "Id": 119,
+    "Name": "General 1",
+    "EffectId": 103,
+    "Level": 1,
+    "Effect": [
+      [
+        3,
+        3003610,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 100,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderstrike",
+    "UnlockFraction": 2
+  },
+  "120": {
+    "Id": 120,
+    "Name": "General 2",
+    "EffectId": 103,
+    "Level": 2,
+    "Effect": [
+      [
+        3,
+        3003620,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 200,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderrepro",
+    "UnlockFraction": 5
+  },
+  "121": {
+    "Id": 121,
+    "Name": "General 3",
+    "EffectId": 103,
+    "Level": 3,
+    "Effect": [
+      [
+        3,
+        3003630,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 350,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderseed",
+    "UnlockFraction": 12
+  },
+  "122": {
+    "Id": 122,
+    "Name": "General 4",
+    "EffectId": 103,
+    "Level": 4,
+    "Effect": [
+      [
+        3,
+        3003640,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 450,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderstrike",
+    "UnlockFraction": 20
+  },
+  "123": {
+    "Id": 123,
+    "Name": "General 5",
+    "EffectId": 103,
+    "Level": 5,
+    "Effect": [
+      [
+        3,
+        3003650,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 600,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderrepro",
+    "UnlockFraction": 25
+  },
+  "124": {
+    "Id": 124,
+    "Name": "Mirage Dream - Exclusive",
+    "EffectId": 103,
+    "Level": 6,
+    "Effect": [
+      [
+        3,
+        3003690,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 800,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderseed",
+    "UnlockFraction": 35
+  },
+  "125": {
+    "Id": 125,
+    "Name": "General 1",
+    "EffectId": 104,
+    "Level": 1,
+    "Effect": [
+      [
+        3,
+        3003610,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 100,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_fullattack",
+    "UnlockFraction": 2
+  },
+  "126": {
+    "Id": 126,
+    "Name": "General 2",
+    "EffectId": 104,
+    "Level": 2,
+    "Effect": [
+      [
+        3,
+        3003620,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 200,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_draw",
+    "UnlockFraction": 5
+  },
+  "127": {
+    "Id": 127,
+    "Name": "General 3",
+    "EffectId": 104,
+    "Level": 3,
+    "Effect": [
+      [
+        3,
+        3003630,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 350,
+    "Icon": "ui/atlas/talent_passive_1/taidao144",
+    "UnlockFraction": 12
+  },
+  "128": {
+    "Id": 128,
+    "Name": "General 4",
+    "EffectId": 104,
+    "Level": 4,
+    "Effect": [
+      [
+        3,
+        3003640,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 450,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_fullattack",
+    "UnlockFraction": 20
+  },
+  "129": {
+    "Id": 129,
+    "Name": "General 5",
+    "EffectId": 104,
+    "Level": 5,
+    "Effect": [
+      [
+        3,
+        3003650,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 600,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_draw",
+    "UnlockFraction": 25
+  },
+  "130": {
+    "Id": 130,
+    "Name": "Dreamforce - Exclusive",
+    "EffectId": 104,
+    "Level": 6,
+    "Effect": [
+      [
+        3,
+        3003700,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 800,
+    "Icon": "ui/atlas/talent_passive_1/taidao144",
+    "UnlockFraction": 35
+  },
+  "131": {
+    "Id": 131,
+    "Name": "General 1",
+    "EffectId": 105,
+    "Level": 1,
+    "Effect": [
+      [
+        3,
+        3003610,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 100,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_instant",
+    "UnlockFraction": 2
+  },
+  "132": {
+    "Id": 132,
+    "Name": "General 2",
+    "EffectId": 105,
+    "Level": 2,
+    "Effect": [
+      [
+        3,
+        3003620,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 200,
+    "Icon": "ui/atlas/talent_passive_1/taidao136",
+    "UnlockFraction": 5
+  },
+  "133": {
+    "Id": 133,
+    "Name": "General 3",
+    "EffectId": 105,
+    "Level": 3,
+    "Effect": [
+      [
+        3,
+        3003630,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 350,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_pursue",
+    "UnlockFraction": 12
+  },
+  "134": {
+    "Id": 134,
+    "Name": "General 4",
+    "EffectId": 105,
+    "Level": 4,
+    "Effect": [
+      [
+        3,
+        3003640,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 450,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_instant",
+    "UnlockFraction": 20
+  },
+  "135": {
+    "Id": 135,
+    "Name": "General 5",
+    "EffectId": 105,
+    "Level": 5,
+    "Effect": [
+      [
+        3,
+        3003650,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 600,
+    "Icon": "ui/atlas/talent_passive_1/taidao136",
+    "UnlockFraction": 25
+  },
+  "136": {
+    "Id": 136,
+    "Name": "Oblivion Dream - Exclusive",
+    "EffectId": 105,
+    "Level": 6,
+    "Effect": [
+      [
+        3,
+        3003710,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 800,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_pursue",
+    "UnlockFraction": 35
+  },
+  "137": {
+    "Id": 137,
+    "Name": "General 1",
+    "EffectId": 106,
+    "Level": 1,
+    "Effect": [
+      [
+        3,
+        3003610,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 100,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_swordbullet",
+    "UnlockFraction": 2
+  },
+  "138": {
+    "Id": 138,
+    "Name": "General 2",
+    "EffectId": 106,
+    "Level": 2,
+    "Effect": [
+      [
+        3,
+        3003620,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 200,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thundermastery",
+    "UnlockFraction": 5
+  },
+  "139": {
+    "Id": 139,
+    "Name": "General 3",
+    "EffectId": 106,
+    "Level": 3,
+    "Effect": [
+      [
+        3,
+        3003630,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 350,
+    "Icon": "ui/atlas/talent_passive_1/talent_skill_360105",
+    "UnlockFraction": 12
+  },
+  "140": {
+    "Id": 140,
+    "Name": "General 4",
+    "EffectId": 106,
+    "Level": 4,
+    "Effect": [
+      [
+        3,
+        3003640,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 450,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_swordbullet",
+    "UnlockFraction": 20
+  },
+  "141": {
+    "Id": 141,
+    "Name": "General 5",
+    "EffectId": 106,
+    "Level": 5,
+    "Effect": [
+      [
+        3,
+        3003650,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 600,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thundermastery",
+    "UnlockFraction": 25
+  },
+  "142": {
+    "Id": 142,
+    "Name": "Shattered Illusion - Exclusive",
+    "EffectId": 106,
+    "Level": 6,
+    "Effect": [
+      [
+        3,
+        3003720,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 800,
+    "Icon": "ui/atlas/talent_passive_1/talent_skill_360105",
+    "UnlockFraction": 35
+  },
+  "143": {
+    "Id": 143,
+    "Name": "General 1",
+    "EffectId": 107,
+    "Level": 1,
+    "Effect": [
+      [
+        3,
+        3003610,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 100,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderstrike",
+    "UnlockFraction": 2
+  },
+  "144": {
+    "Id": 144,
+    "Name": "General 2",
+    "EffectId": 107,
+    "Level": 2,
+    "Effect": [
+      [
+        3,
+        3003620,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 200,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderrepro",
+    "UnlockFraction": 5
+  },
+  "145": {
+    "Id": 145,
+    "Name": "General 3",
+    "EffectId": 107,
+    "Level": 3,
+    "Effect": [
+      [
+        3,
+        3003630,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 350,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderseed",
+    "UnlockFraction": 12
+  },
+  "146": {
+    "Id": 146,
+    "Name": "General 4",
+    "EffectId": 107,
+    "Level": 4,
+    "Effect": [
+      [
+        3,
+        3003640,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 450,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderstrike",
+    "UnlockFraction": 20
+  },
+  "147": {
+    "Id": 147,
+    "Name": "General 5",
+    "EffectId": 107,
+    "Level": 5,
+    "Effect": [
+      [
+        3,
+        3003650,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 600,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderrepro",
+    "UnlockFraction": 25
+  },
+  "148": {
+    "Id": 148,
+    "Name": "Endless Mind - Exclusive",
+    "EffectId": 107,
+    "Level": 6,
+    "Effect": [
+      [
+        3,
+        3003730,
+        1
+      ]
+    ],
+    "BuffValueKey": [
+      [
+        "a"
+      ]
+    ],
+    "BuffPar": [
+      [
+        0
+      ]
+    ],
+    "EffectDes": "a",
+    "FightValue": 800,
+    "Icon": "ui/atlas/talent_passive_1/talent_passive_icon_general_dps_thunderseed",
+    "UnlockFraction": 35
+  }
+}

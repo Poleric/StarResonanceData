@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_scene_data.proto";
 import "stru_transfer_info.proto";
 
-message SceneInfo {
-  zproto.SceneData data = 1;
-  uint32 server_id = 2;
-  int64 scene_id = 3;
-  string host = 4;
-  bool changemap = 5;
-  uint32 old_scene_id = 6;
-  uint32 old_scene_sub_type = 7;
-  uint32 scene_sub_type = 8;
-  zproto.TransferInfo transfer_info = 9;
-}
+package zproto;
 
+message SceneInfo {
+	SceneData data = 1 [json_name = "data"];
+	uint32 serverId = 2 [json_name = "serverId"];
+	int64 sceneId = 3 [json_name = "sceneId"];
+	string host = 4 [json_name = "host"];
+	bool changemap = 5 [json_name = "changemap"];
+	uint32 oldSceneId = 6 [json_name = "oldSceneId"];
+	uint32 oldSceneSubType = 7 [json_name = "oldSceneSubType"];
+	uint32 sceneSubType = 8 [json_name = "sceneSubType"];
+	TransferInfo transferInfo = 9 [json_name = "transferInfo"];
+}

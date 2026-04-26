@@ -3,14 +3,13 @@ syntax = "proto3";
 package bokura;
 
 message ConditionTableBase {
-  int32 type = 673;
-  string param = 1207;
-  bool is_lua = 1695;
-  string example = 522;
-  string refresh_num = 1376;
+	int32 Type = 673 [json_name = "Type"];
+	string Param = 1207 [json_name = "Param"];
+	bool IsLua = 1695 [json_name = "IsLua"];
+	string Example = 522 [json_name = "Example"];
+	string RefreshNum = 1376 [json_name = "RefreshNum"];
 }
 
 message ConditionTableMgr {
-  map<int32, bokura.ConditionTableBase> datas = 1;
+	map<int32, ConditionTableBase> datas = 1 [json_name = "datas"];
 }
-

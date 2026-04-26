@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message SelectCharRequest {
-  string token = 2;
-  int64 char_id = 3;
-  int32 area_id = 5;
+	string token = 2 [json_name = "token"];
+	int64 charId = 3 [json_name = "charId"];
+	int32 areaId = 5 [json_name = "areaId"];
 }
-

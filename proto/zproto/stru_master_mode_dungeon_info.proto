@@ -1,12 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_season_master_mode_dungeon_info.proto";
 import "stru_dirty_mask.proto";
 
-message MasterModeDungeonInfo {
-  map<int32, zproto.SeasonMasterModeDungeonInfo> master_mode_dungeon_info = 1;
-  bool is_show = 2;
-}
+package zproto;
 
+message MasterModeDungeonInfo {
+	map<int32, SeasonMasterModeDungeonInfo> masterModeDungeonInfo = 1 [json_name = "masterModeDungeonInfo"];
+	bool isShow = 2 [json_name = "isShow"];
+	int32 curShowSeason = 3 [json_name = "curShowSeason"];
+}

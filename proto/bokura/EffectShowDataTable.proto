@@ -1,33 +1,32 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message EffectShowDataTableBase {
-  int64 id = 1463;
-  float start = 678;
-  float duration = 544;
-  float end = 1415;
-  bool is_attacker = 920;
-  int32 state_id = 308;
-  int32 group_id = 196;
-  string fx_path = 1140;
-  string fx_name = 1384;
-  string attach = 1167;
-  string end_attach = 1297;
-  float fadeout_time = 44;
-  vector3 scale = 1925;
-  vector3 rotate = 1421;
-  vector3 offset = 223;
-  bool bind_bone = 519;
-  bool bind_position = 112;
-  bool break_clear = 1126;
-  bool is_target_pos = 291;
-  bool bind_target = 714;
+	int64 Id = 1463 [json_name = "Id"];
+	float Start = 678 [json_name = "Start"];
+	float Duration = 544 [json_name = "Duration"];
+	float End = 1415 [json_name = "End"];
+	bool IsAttacker = 920 [json_name = "IsAttacker"];
+	int32 StateId = 308 [json_name = "StateId"];
+	int32 GroupId = 196 [json_name = "GroupId"];
+	string FxPath = 1140 [json_name = "FxPath"];
+	string FxName = 1384 [json_name = "FxName"];
+	string Attach = 1167 [json_name = "Attach"];
+	string EndAttach = 1297 [json_name = "EndAttach"];
+	float FadeoutTime = 44 [json_name = "FadeoutTime"];
+	vector3 Scale = 1925 [json_name = "Scale"];
+	vector3 Rotate = 1421 [json_name = "Rotate"];
+	vector3 Offset = 223 [json_name = "Offset"];
+	bool BindBone = 519 [json_name = "BindBone"];
+	bool BindPosition = 112 [json_name = "BindPosition"];
+	bool BreakClear = 1126 [json_name = "BreakClear"];
+	bool IsTargetPos = 291 [json_name = "IsTargetPos"];
+	bool BindTarget = 714 [json_name = "BindTarget"];
 }
 
 message EffectShowDataTableMgr {
-  map<int64, bokura.EffectShowDataTableBase> datas = 1;
+	map<int64, EffectShowDataTableBase> datas = 1 [json_name = "datas"];
 }
-

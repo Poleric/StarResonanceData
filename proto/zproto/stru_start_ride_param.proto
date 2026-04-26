@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message StartRideParam {
-  int32 ride_type = 1;
+	int32 RideType = 1 [json_name = "RideType"];
 }
-

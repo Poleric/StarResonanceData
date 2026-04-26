@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_team_base_info.proto";
 import "stru_team_mem_data.proto";
 
-message TeamInfo {
-  int64 team_id = 1;
-  map<int64, zproto.TeamMemData> members = 2;
-  zproto.TeamBaseInfo base_info = 3;
-}
+package zproto;
 
+message TeamInfo {
+	int64 teamId = 1 [json_name = "teamId"];
+	map<int64, TeamMemData> members = 2 [json_name = "members"];
+	TeamBaseInfo baseInfo = 3 [json_name = "baseInfo"];
+}

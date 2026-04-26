@@ -1,33 +1,31 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_notify_warehouse_grid_change_request.proto";
 import "stru_notify_warehouse_invite_request.proto";
 import "stru_notify_warehouse_new_joiner_request.proto";
 import "stru_notify_warehouse_passive_exist_request.proto";
 import "stru_notify_warehouse_refuse_to_join_request.proto";
 
+package zproto;
+
 message GrpcWarehouseNtf {
+	message NotifyWarehouseInvite {
+		NotifyWarehouseInviteRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyWarehouseInvite {
-    zproto.NotifyWarehouseInviteRequest request = 1;
-  }
+	message NotifyWarehouseGridChange {
+		NotifyWarehouseGridChangeRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyWarehouseGridChange {
-    zproto.NotifyWarehouseGridChangeRequest request = 1;
-  }
+	message NotifyWarehousePassiveExist {
+		NotifyWarehousePassiveExistRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyWarehousePassiveExist {
-    zproto.NotifyWarehousePassiveExistRequest request = 1;
-  }
+	message NotifyWarehouseNewJoiner {
+		NotifyWarehouseNewJoinerRequest request = 1 [json_name = "request"];
+	}
 
-  message NotifyWarehouseNewJoiner {
-    zproto.NotifyWarehouseNewJoinerRequest request = 1;
-  }
-
-  message NotifyWarehouseRefuseToJoin {
-    zproto.NotifyWarehouseRefuseToJoinRequest request = 1;
-  }
+	message NotifyWarehouseRefuseToJoin {
+		NotifyWarehouseRefuseToJoinRequest request = 1 [json_name = "request"];
+	}
 }
-

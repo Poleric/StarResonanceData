@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message TakeAwardByCdKeyRequest {
-  string cd_key = 1;
+	string cdKey = 1 [json_name = "cdKey"];
 }
-

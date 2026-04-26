@@ -1,25 +1,24 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message AffixTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  mlstring description = 75;
-  string remark = 1391;
-  string icon = 1153;
-  int32 effect_type = 527;
-  int32 target_type = 736;
-  int32 level = 1120;
-  int_array mutex = 924;
-  int_table effect = 602;
-  number_table effect_time = 1664;
-  int32 gs_change = 1558;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	mlstring Description = 75 [json_name = "Description"];
+	string Remark = 1391 [json_name = "Remark"];
+	string Icon = 1153 [json_name = "Icon"];
+	int32 EffectType = 527 [json_name = "EffectType"];
+	int32 TargetType = 736 [json_name = "TargetType"];
+	int32 Level = 1120 [json_name = "Level"];
+	int_array Mutex = 924 [json_name = "Mutex"];
+	int_table Effect = 602 [json_name = "Effect"];
+	number_table EffectTime = 1664 [json_name = "EffectTime"];
+	int32 GsChange = 1558 [json_name = "GsChange"];
 }
 
 message AffixTableMgr {
-  map<int32, bokura.AffixTableBase> datas = 1;
+	map<int32, AffixTableBase> datas = 1 [json_name = "datas"];
 }
-

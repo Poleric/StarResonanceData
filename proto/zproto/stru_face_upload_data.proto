@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message FaceUploadData {
-  string short_guid = 1;
-  string file_suffix = 2;
+	string shortGuid = 1 [json_name = "shortGuid"];
+	string fileSuffix = 2 [json_name = "fileSuffix"];
 }
-

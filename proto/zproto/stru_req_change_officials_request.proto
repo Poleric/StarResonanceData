@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_union_official.proto";
 
-message ReqChangeOfficialsRequest {
-  int64 union_id = 2;
-  repeated zproto.UnionOfficial change_officials = 3;
-  int32 change_type = 4;
-}
+package zproto;
 
+message ReqChangeOfficialsRequest {
+	int64 unionId = 2 [json_name = "unionId"];
+	repeated UnionOfficial changeOfficials = 3 [json_name = "changeOfficials"];
+	int32 changeType = 4 [json_name = "changeType"];
+}

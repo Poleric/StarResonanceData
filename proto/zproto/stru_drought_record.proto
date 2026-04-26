@@ -3,11 +3,10 @@ syntax = "proto3";
 package zproto;
 
 message DroughtRecord {
-  int64 trigger_time = 1;
-  int32 segment_id = 2;
-  int64 duration = 3;
-  int64 actual_end_time = 4;
-  bool is_watered = 5;
-  bool is_expired = 6;
+	int64 triggerTime = 1 [json_name = "triggerTime"];
+	int32 segmentId = 2 [json_name = "segmentId"];
+	int64 duration = 3 [json_name = "duration"];
+	int64 actualEndTime = 4 [json_name = "actualEndTime"];
+	bool isWatered = 5 [json_name = "isWatered"];
+	bool IsExpired = 6 [json_name = "IsExpired"];
 }
-

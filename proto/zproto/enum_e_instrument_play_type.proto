@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EInstrumentPlayType {
+	InstrumentPlayTypeNone = 0;
+	InstrumentPlayTypePlayNote = 1;
+	InstrumentPlayTypeReleaseNote = 2;
+}

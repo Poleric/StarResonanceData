@@ -3,10 +3,10 @@ syntax = "proto3";
 package zproto;
 
 message PlaceHolderScenePosition {
-  int32 scene_id = 1;
-  int32 line_id = 2;
-  int32 positionx = 3;
-  int32 positiony = 4;
-  int32 positionz = 5;
+	int32 SceneId = 1 [json_name = "SceneId"];
+	int32 LineId = 2 [json_name = "LineId"];
+	int32 PositionX = 3 [json_name = "PositionX"];
+	int32 PositionY = 4 [json_name = "PositionY"];
+	int32 PositionZ = 5 [json_name = "PositionZ"];
+	int32 MapLayerId = 6 [json_name = "MapLayerId"];
 }
-

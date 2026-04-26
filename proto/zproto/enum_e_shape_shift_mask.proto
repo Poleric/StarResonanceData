@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EShapeShiftMask {
+	EShapeShiftMaskDef = 0;
+	EShapeShiftChangeProfession = 1;
+	EShapeShiftTakeoffProfession = 2;
+	EShapeShiftReplaceModel = 4;
+	EShapeShiftUseModelAnimTpl = 8;
+	EShapeShiftUseModelWeapon = 16;
+	EShapeShiftHideWeapon = 32;
+	EShapeShiftReplaceModelLayer = 64;
+}

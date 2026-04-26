@@ -1,25 +1,24 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FightResAttrTemplateTableBase {
-  int64 id = 1463;
-  int_array res_i_ds = 924;
-  string desc = 483;
-  int_array int_params = 1505;
-  int_table int_params1 = 977;
-  int_table int_params2 = 108;
-  string ui_name = 597;
-  int32 bind_elemental = 1555;
-  int_array bind_skill_id = 1884;
-  float inner_ring_factor = 749;
-  string battle_res_icon = 1652;
-  int_array inner_color = 1655;
+	int64 Id = 1463 [json_name = "Id"];
+	int_array ResIDs = 924 [json_name = "ResIDs"];
+	string desc = 483 [json_name = "desc"];
+	int_array IntParams = 1505 [json_name = "IntParams"];
+	int_table IntParams1 = 977 [json_name = "IntParams1"];
+	int_table IntParams2 = 108 [json_name = "IntParams2"];
+	string UIName = 597 [json_name = "UIName"];
+	int32 BindElemental = 1555 [json_name = "BindElemental"];
+	int_array BindSkillId = 1884 [json_name = "BindSkillId"];
+	float InnerRingFactor = 749 [json_name = "InnerRingFactor"];
+	string BattleResIcon = 1652 [json_name = "BattleResIcon"];
+	int_array InnerColor = 1655 [json_name = "InnerColor"];
 }
 
 message FightResAttrTemplateTableMgr {
-  map<int64, bokura.FightResAttrTemplateTableBase> datas = 1;
+	map<int64, FightResAttrTemplateTableBase> datas = 1 [json_name = "datas"];
 }
-

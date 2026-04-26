@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message DungeonRankInfo {
-  int32 num = 1;
-  int32 rank = 2;
-}
+package zproto;
 
+message DungeonRankInfo {
+	int32 num = 1 [json_name = "num"];
+	int32 rank = 2 [json_name = "rank"];
+}

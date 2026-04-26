@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message ApplyJoinTeamReply {
-  repeated int64 team_id = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message ApplyJoinTeamReply {
+	repeated int64 teamId = 1 [json_name = "teamId"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

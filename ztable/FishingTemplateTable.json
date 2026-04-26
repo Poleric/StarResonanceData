@@ -14,10 +14,7 @@
         5
       ]
     ],
-    "BiteTime": [
-      5.0,
-      -2000.0
-    ],
+    "BiteTime": [],
     "OffHookTime": [
       0.0,
       0.0
@@ -75,10 +72,7 @@
         5
       ]
     ],
-    "BiteTime": [
-      5.0,
-      -2000.0
-    ],
+    "BiteTime": [],
     "OffHookTime": [
       0.0,
       0.0
@@ -319,10 +313,7 @@
         5
       ]
     ],
-    "BiteTime": [
-      5.0,
-      -2000.0
-    ],
+    "BiteTime": [],
     "OffHookTime": [
       0.0,
       0.0
@@ -672,7 +663,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly Increases Hook Speed"
+    "Describe": "Slightly increases hook speed"
   },
   "60003": {
     "FishingTemplateId": 60003,
@@ -735,6 +726,128 @@
     ],
     "Describe": "Greatly Reduces Fishing Line Tension Accumulation Speed"
   },
+  "70001": {
+    "FishingTemplateId": 70001,
+    "Name": "Reward Pack Bait 1",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": ""
+  },
+  "70002": {
+    "FishingTemplateId": 70002,
+    "Name": "Reward Pack Bait 2",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": ""
+  },
   "40001": {
     "FishingTemplateId": 40001,
     "Name": "Research Lv.1 - Asterscad",
@@ -794,7 +907,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increases the Probability of Catching 3-Star Asterscad"
+    "Describe": "Increases the chance of catching 3-star Asterscad."
   },
   "40002": {
     "FishingTemplateId": 40002,
@@ -855,7 +968,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increases the Probability of Catching 3-Star and 4-Star Asterscad<br>Slightly Increases the Time from Bite to Escape"
+    "Describe": "Increases the chance of catching 3-star and 4-star Asterscad.<br>Slightly increases the time before a fish escapes after biting."
   },
   "40003": {
     "FishingTemplateId": 40003,
@@ -916,7 +1029,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly Increases the Probability of Catching 5-Star Asterscad<br>Slightly Increases the Time from Bite to Escape"
+    "Describe": "Slightly increases the chance of catching 5-star Asterscad.<br>Slightly increases the time before a fish escapes after biting."
   },
   "40004": {
     "FishingTemplateId": 40004,
@@ -977,7 +1090,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Greatly Increases the Probability of Catching 5-Star Asterscad<br>Slightly Increases the Time from Bite to Escape"
+    "Describe": "Greatly increases the chance of catching 5-star Asterscad.<br>Slightly increases the time before a fish escapes after biting."
   },
   "40005": {
     "FishingTemplateId": 40005,
@@ -1038,7 +1151,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increases the Probability of Catching 3-Star Continental Puffer"
+    "Describe": "Increases the chance of catching 3-star Continental Puffer."
   },
   "40006": {
     "FishingTemplateId": 40006,
@@ -1099,7 +1212,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching a 3-star and 4-star Continental Puffer<br>Slightly increase the duration of fish escaping during reeling"
+    "Describe": "Increases the chance of catching 3-star and 4-star Continental Puffer.<br>Slightly increases the escape timer during reeling."
   },
   "40007": {
     "FishingTemplateId": 40007,
@@ -1160,7 +1273,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly increase the probability of catching a 5-star Continental Puffer<br>Slightly increase the duration of fish escaping during reeling"
+    "Describe": "Slightly increases the chance of catching 5-star Continental Puffer.<br>Slightly increases the escape timer during reeling."
   },
   "40008": {
     "FishingTemplateId": 40008,
@@ -1221,7 +1334,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Greatly increase the probability of catching a 5-star Continental Puffer<br>Slightly increase the duration of fish escaping during reeling"
+    "Describe": "Greatly increases the chance of catching 5-star Continental Puffer.<br>Slightly increases the escape timer during reeling."
   },
   "40009": {
     "FishingTemplateId": 40009,
@@ -1282,7 +1395,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching a 3-star Rockpea"
+    "Describe": "Increases the chance of catching 3-star Rockpea."
   },
   "40010": {
     "FishingTemplateId": 40010,
@@ -1343,7 +1456,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching a 3-star and 4-star Rockpea<br>Slightly increase the interval of fish escaping backward during reeling"
+    "Describe": "Increases the chance of catching 3-star and 4-star Rockpea.<br>Slightly increases the interval between the fish's backward escapes during reeling."
   },
   "40011": {
     "FishingTemplateId": 40011,
@@ -1404,7 +1517,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly increase the probability of catching a 5-star Rockpea<br>Slightly increase the interval of fish escaping backward during reeling"
+    "Describe": "Slightly increases the chance of catching 5-star Rockpea.<br>Slightly increases the interval between the fish's backward escapes during reeling."
   },
   "40012": {
     "FishingTemplateId": 40012,
@@ -1465,7 +1578,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Greatly increase the probability of catching a 5-star Rockpea<br>Slightly increase the interval of fish escaping backward during reeling"
+    "Describe": "Greatly increases the chance of catching 5-star Rockpea.<br>Slightly increases the interval between the fish's backward escapes during reeling."
   },
   "40013": {
     "FishingTemplateId": 40013,
@@ -1526,7 +1639,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching a 3-star Azure Damsel"
+    "Describe": "Increases the chance of catching 3-star Azure Damsel."
   },
   "40014": {
     "FishingTemplateId": 40014,
@@ -1587,7 +1700,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching a 3-star and 4-star Azure Damsel<br>Slightly increase the speed of reeling in fish, while also slightly increasing the growth rate of line tension"
+    "Describe": "Increases the chance of catching 3-star and 4-star Azure Damsel.<br>Slightly increases pull speed during reeling, and slightly increases line tension growth."
   },
   "40015": {
     "FishingTemplateId": 40015,
@@ -1648,7 +1761,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly increase the probability of catching a 5-star Azure Damsel<br>Increase the speed of reeling in fish, while also increasing the growth rate of line tension"
+    "Describe": "Slightly increases the chance of catching 5-star Azure Damsel.<br>Increases pull speed during reeling, and increases line tension growth."
   },
   "40016": {
     "FishingTemplateId": 40016,
@@ -1709,7 +1822,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Greatly increase the probability of catching a 5-star Azure Damsel<br>Greatly increase the speed of reeling in fish, while also greatly increasing the growth rate of line tension"
+    "Describe": "Greatly increases the chance of catching 5-star Azure Damsel.<br>Greatly increases pull speed, and greatly increases line tension growth."
   },
   "40017": {
     "FishingTemplateId": 40017,
@@ -1770,7 +1883,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching 3-star Astermackere"
+    "Describe": "Increases the chance of catching 3-star Astermackere."
   },
   "40018": {
     "FishingTemplateId": 40018,
@@ -1831,7 +1944,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching 3-star and 4-star Astermackere<br>Slightly reduce the speed of fish returning"
+    "Describe": "Increases the chance of catching 3-star and 4-star Astermackere.<br>Slightly reduces the fish's swim speed as it returns."
   },
   "40019": {
     "FishingTemplateId": 40019,
@@ -1892,7 +2005,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly increase the probability of catching 5-star Astermackere<br>Slightly reduce the speed of fish returning"
+    "Describe": "Slightly increases the chance of catching 5-star Astermackere.<br>Slightly reduces the fish's swim speed as it returns."
   },
   "40020": {
     "FishingTemplateId": 40020,
@@ -1953,7 +2066,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Significantly increase the probability of catching 5-star Astermackere<br>Reduce the speed of fish returning"
+    "Describe": "Greatly increases the chance of catching 5-star Astermackere.<br>Reduces the fish's swim speed as it returns."
   },
   "40021": {
     "FishingTemplateId": 40021,
@@ -2014,7 +2127,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching 3-star Regnus Bighead"
+    "Describe": "Increases the chance of catching 3-star Regnus Bighead."
   },
   "40022": {
     "FishingTemplateId": 40022,
@@ -2075,7 +2188,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching 3-star and 4-star Regnus Bighead<br>Slightly reduce the rate of line tension increase when not pulling fish"
+    "Describe": "Increases the chance of catching 3-star and 4-star Regnus Bighead.<br>Slightly reduces line tension growth while not pulling."
   },
   "40023": {
     "FishingTemplateId": 40023,
@@ -2136,7 +2249,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly increase the probability of catching 5-star Regnus Bighead<br>Slightly reduce the rate of line tension increase when not pulling fish"
+    "Describe": "Slightly increases the chance of catching 5-star Regnus Bighead.<br>Moderately reduces line tension growth while not pulling."
   },
   "40024": {
     "FishingTemplateId": 40024,
@@ -2197,7 +2310,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Significantly increase the probability of catching 5-star Regnus Bighead<br>Reduce the rate of line tension increase when not pulling fish"
+    "Describe": "Greatly increases the chance of catching 5-star Regnus Bighead.<br>Reduces line tension growth while not pulling."
   },
   "40025": {
     "FishingTemplateId": 40025,
@@ -2258,7 +2371,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increases the probability of catching a 3-star Stellar Squirrelfish"
+    "Describe": "Increases the chance of catching 3-star Stellar Squirrelfish."
   },
   "40026": {
     "FishingTemplateId": 40026,
@@ -2319,7 +2432,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increases the probability of catching 3-star and 4-star Stellar Squirrelfish<br>Slightly reduces the rate of tension increase on the fishing line when pulling the fish"
+    "Describe": "Increases the chance of catching 3-star and 4-star Stellar Squirrelfish.<br>Slightly reduces line tension growth while pulling."
   },
   "40027": {
     "FishingTemplateId": 40027,
@@ -2380,7 +2493,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly increases the probability of catching a 5-star Stellar Squirrelfish<br>Reduces the rate of tension increase on the fishing line when pulling the fish"
+    "Describe": "Slightly increases the chance of catching 5-star Stellar Squirrelfish.<br>Moderately reduces line tension growth while pulling."
   },
   "40028": {
     "FishingTemplateId": 40028,
@@ -2441,7 +2554,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Significantly increases the probability of catching a 5-star Stellar Squirrelfish<br>Significantly reduces the rate of tension increase on the fishing line when pulling the fish"
+    "Describe": "Greatly increases the chance of catching 5-star Stellar Squirrelfish.<br>Greatly reduces line tension growth while pulling."
   },
   "40029": {
     "FishingTemplateId": 40029,
@@ -2502,7 +2615,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increases the probability of catching a 3-star Lantern Puffer"
+    "Describe": "Increases the chance of catching 3-star Lantern Puffer."
   },
   "40030": {
     "FishingTemplateId": 40030,
@@ -2563,7 +2676,7 @@
       0.0,
       -1000.0
     ],
-    "Describe": "Increases the probability of catching 3-star and 4-star Lantern Puffer<br>Slightly reduces the swimming speed of the fish in water"
+    "Describe": "Increases the chance of catching 3-star and 4-star Lantern Puffer.<br>Slightly reduces the swimming speed of the fish in water."
   },
   "40031": {
     "FishingTemplateId": 40031,
@@ -2624,7 +2737,7 @@
       0.0,
       -1750.0
     ],
-    "Describe": "Slightly increases the probability of catching a 5-star Lantern Puffer<br>Slightly reduces the swimming speed of the fish in water"
+    "Describe": "Slightly increases the chance of catching 5-star Lantern Puffer.<br>Slightly reduces the swimming speed of the fish in water."
   },
   "40032": {
     "FishingTemplateId": 40032,
@@ -2685,7 +2798,7 @@
       0.0,
       -2500.0
     ],
-    "Describe": "Significantly increases the probability of catching a 5-star Lantern Puffer<br>Significantly reduces the swimming speed of the fish in water"
+    "Describe": "Greatly increases the chance of catching 5-star Lantern Puffer.<br>Greatly reduces the swimming speed of the fish in water."
   },
   "40033": {
     "FishingTemplateId": 40033,
@@ -2746,7 +2859,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching a 3-star Flaming Grouper"
+    "Describe": "Increases the chance of catching 3-star Flaming Grouper."
   },
   "40034": {
     "FishingTemplateId": 40034,
@@ -2807,7 +2920,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching 3-star and 4-star Flaming Grouper<br>Slightly reduce the fish's return speed"
+    "Describe": "Increases the chance of catching 3-star and 4-star Flaming Grouper.<br>Slightly reduces the fish's swim speed as it returns."
   },
   "40035": {
     "FishingTemplateId": 40035,
@@ -2868,7 +2981,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly increase the probability of catching a 5-star Flaming Grouper<br>Slightly reduce the fish's return speed"
+    "Describe": "Slightly increases the chance of catching 5-star Flaming Grouper.<br>Slightly reduces the fish's swim speed as it returns."
   },
   "40036": {
     "FishingTemplateId": 40036,
@@ -2929,7 +3042,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Significantly increase the probability of catching a 5-star Flaming Grouper<br>Reduce the fish's return speed"
+    "Describe": "Greatly increases the chance of catching 5-star Flaming Grouper.<br>Reduces the fish's swim speed as it returns."
   },
   "40037": {
     "FishingTemplateId": 40037,
@@ -2990,7 +3103,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching a 3-star Snowy Bighead"
+    "Describe": "Increases the chance of catching 3-star Snowy Bighead."
   },
   "40038": {
     "FishingTemplateId": 40038,
@@ -3051,7 +3164,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching 3-star and 4-star Snowy Bighead<br>Slightly increase the interval of fish escaping backward during reeling"
+    "Describe": "Increases the chance of catching 3-star and 4-star Snowy Bighead.<br>Slightly increases the interval between the fish's backward escapes during reeling."
   },
   "40039": {
     "FishingTemplateId": 40039,
@@ -3112,7 +3225,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly increase the probability of catching a 5-star Snowy Bighead<br>Slightly increase the interval of fish escaping backward during reeling"
+    "Describe": "Slightly increases the chance of catching 5-star Snowy Bighead.<br>Slightly increases the interval between the fish's backward escapes during reeling."
   },
   "40040": {
     "FishingTemplateId": 40040,
@@ -3173,7 +3286,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Significantly increase the probability of catching a 5-star Snowy Bighead<br>Slightly increase the interval of fish escaping backward during reeling"
+    "Describe": "Greatly increases the chance of catching 5-star Snowy Bighead.<br>Slightly increases the interval between the fish's backward escapes during reeling."
   },
   "40041": {
     "FishingTemplateId": 40041,
@@ -3234,7 +3347,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching a 3-star Hanikon Bighead"
+    "Describe": "Increases the chance of catching 3-star Hanikon Bighead."
   },
   "40042": {
     "FishingTemplateId": 40042,
@@ -3295,7 +3408,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Increase the probability of catching 3-star and 4-star Hanikon Bighead<br>Slightly increase the reeling speed, while also slightly increasing the growth rate of line tension"
+    "Describe": "Increases the chance of catching 3-star and 4-star Hanikon Bighead.<br>Slightly increases pull speed during reeling, and slightly increases line tension growth."
   },
   "40043": {
     "FishingTemplateId": 40043,
@@ -3356,7 +3469,7 @@
       0.0,
       0.0
     ],
-    "Describe": "Slightly increase the probability of catching a 5-star Hanikon Bighead<br>Increase the reeling speed, while also increasing the growth rate of line tension"
+    "Describe": "Slightly increases the chance of catching 5-star Hanikon Bighead.<br>Increases pull speed during reeling, and increases line tension growth."
   },
   "40044": {
     "FishingTemplateId": 40044,
@@ -3417,6 +3530,2202 @@
       0.0,
       0.0
     ],
-    "Describe": "Greatly increase the probability of catching a 5-star Hanikon Bighead<br>Greatly increase the speed of reeling in the fish while also significantly increasing the growth rate of the fishing line tension"
+    "Describe": "Greatly increases the chance of catching 5-star Hanikon Bighead.<br>Greatly increases pull speed, and greatly increases line tension growth."
+  },
+  "40045": {
+    "FishingTemplateId": 40045,
+    "Name": "Reach Research Level 1 - Lionfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star Lionfish."
+  },
+  "40046": {
+    "FishingTemplateId": 40046,
+    "Name": "Reach Research Level 2 - Lionfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.2,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star and 4-star Lionfish.<br>Slightly increases the time before the fish escapes after biting."
+  },
+  "40047": {
+    "FishingTemplateId": 40047,
+    "Name": "Reach Research Level 3 - Lionfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.3,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increases the chance of catching 5-star Lionfish.<br>Slightly increases the time before the fish escapes after biting."
+  },
+  "40048": {
+    "FishingTemplateId": 40048,
+    "Name": "Reach Research Level 4 - Lionfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.4,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increases the chance of catching 5-star Lionfish.<br>Slightly increases the time before the fish escapes after biting."
+  },
+  "40049": {
+    "FishingTemplateId": 40049,
+    "Name": "Reach Research Level 1 - Icefeather Drifter",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star Icefeather Drifter."
+  },
+  "40050": {
+    "FishingTemplateId": 40050,
+    "Name": "Reach Research Level 2 - Icefeather Drifter",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.2,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star and 4-star Icefeather Drifter.<br>Slightly increases the escape timer during reeling."
+  },
+  "40051": {
+    "FishingTemplateId": 40051,
+    "Name": "Reach Research Level 2 - Icefeather Drifter",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.3,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increases the chance of catching 5-star Icefeather Drifter.<br>Slightly increases the escape timer during reeling."
+  },
+  "40052": {
+    "FishingTemplateId": 40052,
+    "Name": "Reach Research Level 4 - Icefeather Drifter",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.4,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increases the chance of catching 5-star Icefeather Drifter.<br>Slightly increases the escape timer during reeling."
+  },
+  "40053": {
+    "FishingTemplateId": 40053,
+    "Name": "Reach Research Level 1 - Bluefin Gurnard",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star Bluefin Gurnard."
+  },
+  "40054": {
+    "FishingTemplateId": 40054,
+    "Name": "Reach Research Level 2 - Bluefin Gurnard",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.1,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star and 4-star Bluefin Gurnard.<br>Slightly increases the interval between the fish's backward escapes during reeling."
+  },
+  "40055": {
+    "FishingTemplateId": 40055,
+    "Name": "Reach Research Level 2 - Bluefin Gurnard",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.2,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increases the chance of catching 5-star Bluefin Gurnard.<br>Slightly increases the interval between the fish's backward escapes during reeling."
+  },
+  "40056": {
+    "FishingTemplateId": 40056,
+    "Name": "Reach Research Level 4 - Bluefin Gurnard",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.3,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increases the chance of catching 5-star Bluefin Gurnard.<br>Slightly increases the interval between the fish's backward escapes during reeling."
+  },
+  "40057": {
+    "FishingTemplateId": 40057,
+    "Name": "Reach Research Level 1 - Butterflyfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star Butterflyfish."
+  },
+  "40058": {
+    "FishingTemplateId": 40058,
+    "Name": "Reach Research Level 2 - Butterflyfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      2000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      2000
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star and 4-star Butterflyfish.<br>Slightly increases pull speed during reeling, and slightly increases line tension growth."
+  },
+  "40059": {
+    "FishingTemplateId": 40059,
+    "Name": "Reach Research Level 2 - Butterflyfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      3500
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      3500
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increases the chance of catching 5-star Butterflyfish.<br>Increases pull speed during reeling, and increases line tension growth."
+  },
+  "40060": {
+    "FishingTemplateId": 40060,
+    "Name": "Reach Research Level 4 - Butterflyfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      5000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      5000
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increases the chance of catching 5-star Butterflyfish.<br>Greatly increases pull speed, and greatly increases line tension growth."
+  },
+  "40061": {
+    "FishingTemplateId": 40061,
+    "Name": "Reach Research Level 1 - Ocean Sunfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star Ocean Sunfish."
+  },
+  "40062": {
+    "FishingTemplateId": 40062,
+    "Name": "Reach Research Level 2 - Ocean Sunfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -1,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star and 4-star Ocean Sunfish.<br>Slightly reduces the fish's swim speed as it returns."
+  },
+  "40063": {
+    "FishingTemplateId": 40063,
+    "Name": "Reach Research Level 2 - Ocean Sunfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -2,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increases the chance of catching 5-star Ocean Sunfish.<br>Slightly reduces the fish's swim speed as it returns."
+  },
+  "40064": {
+    "FishingTemplateId": 40064,
+    "Name": "Reach Research Level 4 - Ocean Sunfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -3,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increases the chance of catching 5-star Ocean Sunfish.<br>Reduces the fish's swim speed as it returns."
+  },
+  "40065": {
+    "FishingTemplateId": 40065,
+    "Name": "Reach Research Level 1 - Oarfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star Oarfish."
+  },
+  "40066": {
+    "FishingTemplateId": 40066,
+    "Name": "Reach Research Level 2 - Oarfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      -2,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -2,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star and 4-star Oarfish.<br>Slightly reduces line tension growth while not pulling."
+  },
+  "40067": {
+    "FishingTemplateId": 40067,
+    "Name": "Reach Research Level 2 - Oarfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      -3,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -3,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increases the chance of catching 5-star Oarfish.<br>Moderately reduces line tension growth while not pulling."
+  },
+  "40068": {
+    "FishingTemplateId": 40068,
+    "Name": "Reach Research Level 4 - Oarfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      -5,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -5,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increases the chance of catching 5-star Oarfish.<br>Reduces line tension growth while not pulling."
+  },
+  "40069": {
+    "FishingTemplateId": 40069,
+    "Name": "Reach Research Level 1 - Betta Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star Betta Fish."
+  },
+  "40070": {
+    "FishingTemplateId": 40070,
+    "Name": "Reach Research Level 2 - Betta Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      -2,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      -2,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star and 4-star Betta Fish.<br>Slightly reduces line tension growth while pulling."
+  },
+  "40071": {
+    "FishingTemplateId": 40071,
+    "Name": "Reach Research Level 2 - Betta Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      -3,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      -3,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increases the chance of catching 5-star Betta Fish.<br>Moderately reduces line tension growth while pulling."
+  },
+  "40072": {
+    "FishingTemplateId": 40072,
+    "Name": "Reach Research Level 4 - Betta Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      -5,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      -5,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increases the chance of catching 5-star Betta Fish.<br>Greatly reduces line tension growth while pulling."
+  },
+  "40073": {
+    "FishingTemplateId": 40073,
+    "Name": "Reach Research Level 1 - Longnose Gar",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star Longnose Gar."
+  },
+  "40074": {
+    "FishingTemplateId": 40074,
+    "Name": "Reach Research Level 2 - Longnose Gar",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      -1000.0
+    ],
+    "Describe": "Increases the chance of catching 3-star and 4-star Longnose Gar.<br>Slightly reduces fish's swim speed."
+  },
+  "40075": {
+    "FishingTemplateId": 40075,
+    "Name": "Reach Research Level 2 - Longnose Gar",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      -1750.0
+    ],
+    "Describe": "Slightly increases the chance of catching 5-star Longnose Gar.<br>Moderately reduces fish's swim speed."
+  },
+  "40076": {
+    "FishingTemplateId": 40076,
+    "Name": "Reach Research Level 4 - Longnose Gar",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      -2500.0
+    ],
+    "Describe": "Greatly increases the chance of catching 5-star Longnose Gar.<br>Greatly reduces fish's swim speed."
+  },
+  "40077": {
+    "FishingTemplateId": 40077,
+    "Name": "Reach Research Level 1 - Ranchu",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star Ranchu."
+  },
+  "40078": {
+    "FishingTemplateId": 40078,
+    "Name": "Reach Research Level 2 - Ranchu",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -1,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the chance of catching 3-star and 4-star Ranchu.<br>Slightly reduces the fish's swim speed as it returns."
+  },
+  "40079": {
+    "FishingTemplateId": 40079,
+    "Name": "Reach Research Level 2 - Ranchu",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -2,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increases the chance of catching 5-star Ranchu.<br>Slightly reduces the fish's swim speed as it returns."
+  },
+  "40080": {
+    "FishingTemplateId": 40080,
+    "Name": "Reach Research Level 4 - Ranchu",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -3,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increases the chance of catching 5-star Ranchu.<br>Reduces the fish's swim speed as it returns."
   }
 }

@@ -1,29 +1,28 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message QteTableBase {
-  int32 id = 1463;
-  string name = 176;
-  int32 qte_type = 1505;
-  int32 ui_type = 914;
-  float max_time = 1798;
-  number_table time_quantum = 900;
-  int_array trigger_count = 2;
-  number_table trigger_time = 451;
-  int_table play_skill = 1549;
-  int_table buff_id_when_success = 1259;
-  int_array buff_id_when_failure = 959;
-  int32 qte_show_skill_id = 1403;
-  number_table event_params = 1429;
-  int32 function_id = 818;
-  int_array impact_function_id = 1586;
-  int32 impact_type = 357;
+	int32 Id = 1463 [json_name = "Id"];
+	string name = 176 [json_name = "name"];
+	int32 QTEType = 1505 [json_name = "QTEType"];
+	int32 UIType = 914 [json_name = "UIType"];
+	float maxTime = 1798 [json_name = "maxTime"];
+	number_table timeQuantum = 900 [json_name = "timeQuantum"];
+	int_array triggerCount = 2 [json_name = "triggerCount"];
+	number_table triggerTime = 451 [json_name = "triggerTime"];
+	int_table playSkill = 1549 [json_name = "playSkill"];
+	int_table buffIdWhenSuccess = 1259 [json_name = "buffIdWhenSuccess"];
+	int_array buffIdWhenFailure = 959 [json_name = "buffIdWhenFailure"];
+	int32 QTEShowSkillId = 1403 [json_name = "QTEShowSkillId"];
+	number_table EventParams = 1429 [json_name = "EventParams"];
+	int32 functionId = 818 [json_name = "functionId"];
+	int_array impactFunctionId = 1586 [json_name = "impactFunctionId"];
+	int32 impactType = 357 [json_name = "impactType"];
 }
 
 message QteTableMgr {
-  map<int32, bokura.QteTableBase> datas = 1;
+	map<int32, QteTableBase> datas = 1 [json_name = "datas"];
 }
-

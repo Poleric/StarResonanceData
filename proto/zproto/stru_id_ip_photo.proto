@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_id_ip_image.proto";
 
-message IdIpPhoto {
-  uint32 photo_id = 1;
-  repeated zproto.IdIpImage image_list = 2;
-}
+package zproto;
 
+message IdIpPhoto {
+	uint32 photoId = 1 [json_name = "photoId"];
+	repeated IdIpImage imageList = 2 [json_name = "imageList"];
+}

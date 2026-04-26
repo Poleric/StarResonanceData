@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_blue_print_slot_data.proto";
+import "enum_e_error_code.proto";
+
+package zproto;
+
+message GetBluePrintDataReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	map<int32, BluePrintSlotData> typeSlotData = 2 [json_name = "typeSlotData"];
+}

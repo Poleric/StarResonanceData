@@ -1,21 +1,20 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SeasonNodeDataTableBase {
-  int32 id = 1463;
-  int32 node_id = 1205;
-  int32 node_level = 1559;
-  mlstring node_name = 830;
-  string node_icon = 1736;
-  int_table node_effect = 1425;
-  string_table buff_value_key = 668;
-  int_table buff_par = 1688;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 NodeId = 1205 [json_name = "NodeId"];
+	int32 NodeLevel = 1559 [json_name = "NodeLevel"];
+	mlstring NodeName = 830 [json_name = "NodeName"];
+	string NodeIcon = 1736 [json_name = "NodeIcon"];
+	int_table NodeEffect = 1425 [json_name = "NodeEffect"];
+	string_table BuffValueKey = 668 [json_name = "BuffValueKey"];
+	int_table BuffPar = 1688 [json_name = "BuffPar"];
 }
 
 message SeasonNodeDataTableMgr {
-  map<int32, bokura.SeasonNodeDataTableBase> datas = 1;
+	map<int32, SeasonNodeDataTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message IchibanKujiPool {
+	int32 poolId = 1 [json_name = "poolId"];
+	int32 totalTimes = 2 [json_name = "totalTimes"];
+	int32 usedFreeTimes = 3 [json_name = "usedFreeTimes"];
+	int32 luckPoolId = 4 [json_name = "luckPoolId"];
+	map<int32, int32> prizePools = 5 [json_name = "prizePools"];
+}

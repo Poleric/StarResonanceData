@@ -3,25 +3,24 @@ syntax = "proto3";
 package bokura;
 
 message FacialLibraryTableBase {
-  int32 id = 1463;
-  string facial_name = 1569;
-  string remark = 1391;
-  string face_clip = 396;
-  string mouth_clip = 327;
-  string eye_clip = 828;
-  string brow_clip = 631;
-  string nose_clip = 550;
-  string DFM_Brow = 711;
-  string DFM_Eye = 995;
-  string ADJ_Brow = 40;
-  string ADJ_Eye = 1045;
-  string ADJ_Nose = 855;
-  string ADJ_Mouth = 1501;
-  string ADJ_Face = 1054;
-  string preview_picture = 981;
+	int32 Id = 1463 [json_name = "Id"];
+	string FacialName = 1569 [json_name = "FacialName"];
+	string Remark = 1391 [json_name = "Remark"];
+	string FaceClip = 396 [json_name = "FaceClip"];
+	string MouthClip = 327 [json_name = "MouthClip"];
+	string EyeClip = 828 [json_name = "EyeClip"];
+	string BrowClip = 631 [json_name = "BrowClip"];
+	string NoseClip = 550 [json_name = "NoseClip"];
+	string DFM_Brow = 711 [json_name = "DFMBrow"];
+	string DFM_Eye = 995 [json_name = "DFMEye"];
+	string ADJ_Brow = 40 [json_name = "ADJBrow"];
+	string ADJ_Eye = 1045 [json_name = "ADJEye"];
+	string ADJ_Nose = 855 [json_name = "ADJNose"];
+	string ADJ_Mouth = 1501 [json_name = "ADJMouth"];
+	string ADJ_Face = 1054 [json_name = "ADJFace"];
+	string PreviewPicture = 981 [json_name = "PreviewPicture"];
 }
 
 message FacialLibraryTableMgr {
-  map<int32, bokura.FacialLibraryTableBase> datas = 1;
+	map<int32, FacialLibraryTableBase> datas = 1 [json_name = "datas"];
 }
-

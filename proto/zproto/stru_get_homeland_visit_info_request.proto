@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zproto;
+
+message GetHomelandVisitInfoRequest {
+	int64 communityId = 1 [json_name = "communityId"];
+	int64 homelandId = 2 [json_name = "homelandId"];
+}

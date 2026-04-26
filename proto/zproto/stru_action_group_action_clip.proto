@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "stru_action_group_mount_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ActionGroupActionClip {
+	float beginTime = 1 [json_name = "beginTime"];
+	float endTime = 2 [json_name = "endTime"];
+	float fadeTime = 3 [json_name = "fadeTime"];
+	int32 actionId = 4 [json_name = "actionId"];
+	float actionBeginTime = 5 [json_name = "actionBeginTime"];
+	float actionEndTime = 6 [json_name = "actionEndTime"];
+	ActionGroupMountInfo mountInfo = 7 [json_name = "mountInfo"];
+}

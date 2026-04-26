@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message NotifyBuildingUpgradeEndRequest {
-  int32 building_id = 2;
-  int32 build_level = 3;
+	int32 buildingId = 2 [json_name = "buildingId"];
+	int32 buildLevel = 3 [json_name = "buildLevel"];
 }
-

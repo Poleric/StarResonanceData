@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message LifeProfessionRDCookingReq {
-  repeated int32 materials = 3;
+	repeated int32 materials = 3 [json_name = "materials"];
 }
-

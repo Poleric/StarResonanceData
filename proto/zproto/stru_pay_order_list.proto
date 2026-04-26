@@ -1,17 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_pay_data.proto";
 import "stru_refund_item_info.proto";
 import "stru_dirty_mask.proto";
 
-message PayOrderList {
-  repeated string pay_order_list = 1;
-  repeated string pay_refund_list = 2;
-  zproto.PayData first_pay = 3;
-  map<string, int32> order_list = 4;
-  map<int64, int32> order_index_list = 5;
-  map<int64, zproto.RefundItemInfo> order_index_refund_list = 6;
-}
+package zproto;
 
+message PayOrderList {
+	repeated string payOrderList = 1 [json_name = "payOrderList"];
+	repeated string payRefundList = 2 [json_name = "payRefundList"];
+	PayData firstPay = 3 [json_name = "firstPay"];
+	map<int64, int32> orderIndexList = 5 [json_name = "orderIndexList"];
+	map<int64, RefundItemInfo> orderIndexRefundList = 6 [json_name = "orderIndexRefundList"];
+}

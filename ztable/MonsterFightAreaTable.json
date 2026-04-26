@@ -13,18 +13,10 @@
       15
     ],
     "AreaRadius": [
-      [
-        25.0
-      ],
-      [
-        25.0
-      ],
-      [
-        25.0
-      ],
-      [
-        25.0
-      ],
+      [],
+      [],
+      [],
+      [],
       [
         25.0,
         100.0
@@ -161,7 +153,13 @@
   },
   "3000": {
     "Id": 3000,
-    "AreaName": [],
+    "AreaName": [
+      "near",
+      "head_far",
+      "left_far",
+      "right_far",
+      "back_far"
+    ],
     "AreaHateWeight": [
       50,
       20,
@@ -217,7 +215,13 @@
   },
   "3017": {
     "Id": 3017,
-    "AreaName": [],
+    "AreaName": [
+      "left_near",
+      "right_near",
+      "back_near",
+      "around_far",
+      "around_near"
+    ],
     "AreaHateWeight": [
       50,
       50,
@@ -226,15 +230,9 @@
       30
     ],
     "AreaRadius": [
-      [
-        25.0
-      ],
-      [
-        25.0
-      ],
-      [
-        25.0
-      ],
+      [],
+      [],
+      [],
       [
         32.0,
         120.0

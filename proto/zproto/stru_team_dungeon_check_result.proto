@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message TeamDungeonCheckResult {
-  int32 dungeon_id = 1;
-  map<int64, int32> check_result = 2;
+	int32 dungeonId = 1 [json_name = "dungeonId"];
+	map<int64, int32> checkResult = 2 [json_name = "checkResult"];
 }
-

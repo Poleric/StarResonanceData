@@ -1,0 +1,14 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Mahjong",
+    "PlayType": 1,
+    "PlayID": 2,
+    "FunctionID": 303101,
+    "MiniNum": 4,
+    "MaxNum": 4,
+    "Content": 5101,
+    "GamePic": "ui/textures/game_table/game_table_play_icon_1",
+    "GameIcon": "ui/atlas/game_table/game_table_play_icon_1"
+  }
+}

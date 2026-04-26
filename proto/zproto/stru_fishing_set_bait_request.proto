@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message FishingSetBaitRequest {
-  int32 bait_id = 1;
+	int32 baitId = 1 [json_name = "baitId"];
 }
-

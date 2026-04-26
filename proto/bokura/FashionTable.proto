@@ -1,34 +1,33 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FashionTableBase {
-  int32 id = 1463;
-  int32 type = 673;
-  int32 sort_id = 504;
-  string model = 421;
-  string_table model2 = 1679;
-  string model_id = 555;
-  int32 fashion_type = 397;
-  int_array hide_part = 471;
-  int_array hair_id = 650;
-  int_table default_color = 1931;
-  int_array color_part = 539;
-  int32 color_group_id = 1091;
-  int32 is_hide = 1851;
-  int32 arm_length = 1431;
-  int32 arm_width = 1263;
-  int32 waist_length = 1949;
-  int32 waist_width = 1480;
-  int32 leg_length = 538;
-  int32 leg_width = 1990;
-  string switch_name = 227;
-  int32 headwear_type = 528;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Type = 673 [json_name = "Type"];
+	int32 SortID = 504 [json_name = "SortID"];
+	string Model = 421 [json_name = "Model"];
+	string_table Model2 = 1679 [json_name = "Model2"];
+	string ModelId = 555 [json_name = "ModelId"];
+	int32 FashionType = 397 [json_name = "FashionType"];
+	int_array HidePart = 471 [json_name = "HidePart"];
+	int_array HairId = 650 [json_name = "HairId"];
+	int_table DefaultColor = 1931 [json_name = "DefaultColor"];
+	int_array ColorPart = 539 [json_name = "ColorPart"];
+	int32 ColorGroupId = 1091 [json_name = "ColorGroupId"];
+	int32 IsHide = 1851 [json_name = "IsHide"];
+	int32 ArmLength = 1431 [json_name = "ArmLength"];
+	int32 ArmWidth = 1263 [json_name = "ArmWidth"];
+	int32 WaistLength = 1949 [json_name = "WaistLength"];
+	int32 WaistWidth = 1480 [json_name = "WaistWidth"];
+	int32 LegLength = 538 [json_name = "LegLength"];
+	int32 LegWidth = 1990 [json_name = "LegWidth"];
+	string SwitchName = 227 [json_name = "SwitchName"];
+	int32 HeadwearType = 528 [json_name = "HeadwearType"];
 }
 
 message FashionTableMgr {
-  map<int32, bokura.FashionTableBase> datas = 1;
+	map<int32, FashionTableBase> datas = 1 [json_name = "datas"];
 }
-

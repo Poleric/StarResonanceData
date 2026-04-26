@@ -3,19 +3,18 @@ syntax = "proto3";
 package bokura;
 
 message QuestTypeTableBase {
-  int32 quest_type_id = 562;
-  string quest_type_name = 217;
-  int32 quest_type_group_id = 299;
-  string quest_type_ui = 956;
-  bool show_quest_ui = 873;
-  int32 reset_type = 1146;
-  bool forced_tracking = 1221;
-  int32 auto_tracking = 1125;
-  bool quest_list_hide = 1962;
-  int32 order = 1680;
+	int32 QuestTypeId = 562 [json_name = "QuestTypeId"];
+	string QuestTypeName = 217 [json_name = "QuestTypeName"];
+	int32 QuestTypeGroupID = 299 [json_name = "QuestTypeGroupID"];
+	string QuestTypeUI = 956 [json_name = "QuestTypeUI"];
+	bool ShowQuestUI = 873 [json_name = "ShowQuestUI"];
+	int32 ResetType = 1146 [json_name = "ResetType"];
+	bool ForcedTracking = 1221 [json_name = "ForcedTracking"];
+	int32 AutoTracking = 1125 [json_name = "AutoTracking"];
+	bool QuestListHide = 1962 [json_name = "QuestListHide"];
+	int32 order = 1680 [json_name = "order"];
 }
 
 message QuestTypeTableMgr {
-  map<int32, bokura.QuestTypeTableBase> datas = 1;
+	map<int32, QuestTypeTableBase> datas = 1 [json_name = "datas"];
 }
-

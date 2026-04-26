@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message LifeProfessionAlchemyReq {
-  int32 recipe_id = 1;
-  int32 count = 2;
+	int32 recipeId = 1 [json_name = "recipeId"];
+	int32 count = 2 [json_name = "count"];
 }
-

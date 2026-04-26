@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message UninstallModRequest {
-  int32 slot_id = 1;
+	int32 slotId = 1 [json_name = "slotId"];
 }
-

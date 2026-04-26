@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SeasonBPTaskTargetTableBase {
-  int32 id = 1463;
-  int32 target_type = 736;
-  int32 num = 947;
-  int32 scene_id = 1506;
-  int_array param = 1207;
-  mlstring describe = 1195;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 TargetType = 736 [json_name = "TargetType"];
+	int32 Num = 947 [json_name = "Num"];
+	int32 SceneId = 1506 [json_name = "SceneId"];
+	int_array Param = 1207 [json_name = "Param"];
+	mlstring Describe = 1195 [json_name = "Describe"];
 }
 
 message SeasonBPTaskTargetTableMgr {
-  map<int32, bokura.SeasonBPTaskTargetTableBase> datas = 1;
+	map<int32, SeasonBPTaskTargetTableBase> datas = 1 [json_name = "datas"];
 }
-

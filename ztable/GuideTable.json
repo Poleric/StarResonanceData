@@ -105,7 +105,10 @@
     "UIView": "mainui",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "7"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -145,7 +148,10 @@
     "UIView": "mainui",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "7"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -278,8 +284,8 @@
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 10,
     "IsShowUIFrame": true,
-    "MobileTextAround": "Release a normal attack",
-    "TextAround": "Release a normal attack",
+    "MobileTextAround": "Release a Basic Attack",
+    "TextAround": "Release a Basic Attack",
     "TextShowDirection": [
       0,
       0
@@ -292,7 +298,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "11"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -332,7 +341,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "120"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -372,7 +384,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "12"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -412,7 +427,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "13"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -452,7 +470,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "14"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -492,7 +513,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "119"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -532,7 +556,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "8"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -752,7 +779,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "12",
+      "3170"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -790,7 +820,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       2
     ],
@@ -870,7 +903,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "16",
+      "4"
+    ],
     "Pcchoice": [
       2
     ],
@@ -947,7 +983,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "16",
+      "4"
+    ],
     "Pcchoice": [
       2
     ],
@@ -1024,7 +1063,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "16",
+      "4"
+    ],
     "Pcchoice": [
       2
     ],
@@ -1102,7 +1144,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -1142,7 +1187,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       3
     ],
@@ -1264,7 +1312,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "16",
+      "4"
+    ],
     "Pcchoice": [
       1,
       3
@@ -1346,7 +1397,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "16",
+      "4"
+    ],
     "Pcchoice": [
       1,
       3
@@ -1428,7 +1482,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "16",
+      "4"
+    ],
     "Pcchoice": [
       1,
       3
@@ -1471,7 +1528,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -1509,7 +1569,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "101101"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -1585,7 +1648,11 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "21",
+      "713",
+      "2"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -1663,7 +1730,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       1,
       2
@@ -1703,7 +1773,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -1743,7 +1816,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       3
     ],
@@ -1940,7 +2016,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "12",
+      "14780"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -1980,7 +2059,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       1,
       2
@@ -2020,7 +2102,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -2060,7 +2145,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       3
     ],
@@ -2128,8 +2216,8 @@
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 0,
     "IsShowUIFrame": true,
-    "MobileTextAround": "Here to view gears",
-    "TextAround": "Here to view gears",
+    "MobileTextAround": "Here to view Gear",
+    "TextAround": "Here to view Gear",
     "TextShowDirection": [
       1,
       0
@@ -2140,7 +2228,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "10",
+      "2"
+    ],
     "Pcchoice": [
       2
     ],
@@ -2180,7 +2271,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "16",
+      "5"
+    ],
     "Pcchoice": [
       2
     ],
@@ -2290,8 +2384,8 @@
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 0,
     "IsShowUIFrame": true,
-    "MobileTextAround": "Here to view gears",
-    "TextAround": "Here to view gears",
+    "MobileTextAround": "Here to view Gear",
+    "TextAround": "Here to view Gear",
     "TextShowDirection": [
       1,
       0
@@ -2302,7 +2396,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "10",
+      "2"
+    ],
     "Pcchoice": [
       1,
       3
@@ -2343,7 +2440,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "16",
+      "5"
+    ],
     "Pcchoice": [
       1,
       3
@@ -2462,7 +2562,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "800500"
+    ],
     "Pcchoice": [
       1,
       2
@@ -2502,7 +2605,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -2530,8 +2636,8 @@
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 0,
     "IsShowUIFrame": true,
-    "MobileTextAround": "Open Profile",
-    "TextAround": "Open Profile",
+    "MobileTextAround": "Open the Season Hub",
+    "TextAround": "Open the Season Hub",
     "TextShowDirection": [
       2,
       0
@@ -2542,7 +2648,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "800500"
+    ],
     "Pcchoice": [
       3
     ],
@@ -2620,7 +2729,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "13",
+      "800510"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -2886,7 +2998,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -2924,7 +3039,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "500100"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -3076,7 +3194,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -3114,7 +3235,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "100804"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -3520,7 +3644,7 @@
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 0,
     "IsShowUIFrame": true,
-    "MobileTextAround": "Vew the challenges of this level here",
+    "MobileTextAround": "View the challenges of this level here",
     "TextAround": "Vew the challenges of this level here",
     "TextShowDirection": [
       2,
@@ -3800,7 +3924,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "100601"
+    ],
     "Pcchoice": [
       2
     ],
@@ -3840,7 +3967,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "2",
+      "2"
+    ],
     "Pcchoice": [
       2
     ],
@@ -3880,7 +4010,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "3",
+      "9020"
+    ],
     "Pcchoice": [
       2
     ],
@@ -3920,7 +4053,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "100601"
+    ],
     "Pcchoice": [
       2
     ],
@@ -3962,7 +4098,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "100601"
+    ],
     "Pcchoice": [
       2
     ],
@@ -4002,7 +4141,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "2",
+      "2"
+    ],
     "Pcchoice": [
       2
     ],
@@ -4042,7 +4184,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "3",
+      "9012"
+    ],
     "Pcchoice": [
       2
     ],
@@ -4082,7 +4227,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "100601"
+    ],
     "Pcchoice": [
       2
     ],
@@ -4124,7 +4272,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "100601"
+    ],
     "Pcchoice": [
       2
     ],
@@ -4152,7 +4303,7 @@
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 0,
     "IsShowUIFrame": true,
-    "MobileTextAround": "Switch to continuous action",
+    "MobileTextAround": "Switch to basic action",
     "TextAround": "Switch to basic action",
     "TextShowDirection": [
       2,
@@ -4164,7 +4315,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "2",
+      "1"
+    ],
     "Pcchoice": [
       2
     ],
@@ -4204,7 +4358,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "3",
+      "9011"
+    ],
     "Pcchoice": [
       2
     ],
@@ -4244,7 +4401,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "100601"
+    ],
     "Pcchoice": [
       2
     ],
@@ -4327,7 +4487,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "22",
+      "2"
+    ],
     "Pcchoice": [
       1,
       3
@@ -4368,7 +4531,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "3",
+      "9020"
+    ],
     "Pcchoice": [
       1,
       3
@@ -4452,7 +4618,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "22",
+      "2"
+    ],
     "Pcchoice": [
       1,
       3
@@ -4493,7 +4662,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "3",
+      "9012"
+    ],
     "Pcchoice": [
       1,
       3
@@ -4577,7 +4749,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "22",
+      "1"
+    ],
     "Pcchoice": [
       1,
       3
@@ -4618,7 +4793,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "3",
+      "9011"
+    ],
     "Pcchoice": [
       1,
       3
@@ -4737,7 +4915,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       1,
       2
@@ -4777,7 +4958,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -4817,7 +5001,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       3
     ],
@@ -5015,7 +5202,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "17",
+      "7"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -5093,7 +5283,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       1,
       2
@@ -5133,7 +5326,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -5173,7 +5369,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       3
     ],
@@ -5342,8 +5541,8 @@
     "ShowConditionValue": "mainui",
     "IfShowcheck": false,
     "CheckCompletion": false,
-    "TriggerConditionType": "520",
-    "TriggerConditionValue": "800506",
+    "TriggerConditionType": "",
+    "TriggerConditionValue": "",
     "CompletionConditionType": "518|516",
     "CompletionConditionValue": "|3471",
     "AutoCompleteConditionType": "",
@@ -5364,7 +5563,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "800500"
+    ],
     "Pcchoice": [
       1,
       2
@@ -5385,8 +5587,8 @@
     "ShowConditionValue": "mainui",
     "IfShowcheck": false,
     "CheckCompletion": false,
-    "TriggerConditionType": "520",
-    "TriggerConditionValue": "800506",
+    "TriggerConditionType": "",
+    "TriggerConditionValue": "",
     "CompletionConditionType": "503",
     "CompletionConditionValue": "weapon_role_main_pc",
     "AutoCompleteConditionType": "",
@@ -5404,7 +5606,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -5424,16 +5629,16 @@
     "ShowConditionValue": "mainui_funcs_list",
     "IfShowcheck": false,
     "CheckCompletion": false,
-    "TriggerConditionType": "520",
-    "TriggerConditionValue": "800506",
+    "TriggerConditionType": "",
+    "TriggerConditionValue": "",
     "CompletionConditionType": "503",
     "CompletionConditionValue": "weapon_role_main_pc",
     "AutoCompleteConditionType": "",
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 0,
     "IsShowUIFrame": true,
-    "MobileTextAround": "Open Profile",
-    "TextAround": "Open Profile",
+    "MobileTextAround": "Open the Seasonal Manual",
+    "TextAround": "Open the Seasonal Manual",
     "TextShowDirection": [
       2,
       0
@@ -5444,7 +5649,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "800500"
+    ],
     "Pcchoice": [
       3
     ],
@@ -5464,8 +5672,8 @@
     "ShowConditionValue": "season_main",
     "IfShowcheck": true,
     "CheckCompletion": false,
-    "TriggerConditionType": "520",
-    "TriggerConditionValue": "800506",
+    "TriggerConditionType": "",
+    "TriggerConditionValue": "",
     "CompletionConditionType": "518",
     "CompletionConditionValue": "",
     "AutoCompleteConditionType": "",
@@ -5484,7 +5692,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "13",
+      "800510"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -5502,8 +5713,8 @@
     "ShowConditionValue": "season_main",
     "IfShowcheck": true,
     "CheckCompletion": false,
-    "TriggerConditionType": "516",
-    "TriggerConditionValue": "3471",
+    "TriggerConditionType": "",
+    "TriggerConditionValue": "",
     "CompletionConditionType": "518",
     "CompletionConditionValue": "",
     "AutoCompleteConditionType": "",
@@ -5540,8 +5751,8 @@
     "ShowConditionValue": "season_main",
     "IfShowcheck": true,
     "CheckCompletion": false,
-    "TriggerConditionType": "516",
-    "TriggerConditionValue": "3472",
+    "TriggerConditionType": "",
+    "TriggerConditionValue": "",
     "CompletionConditionType": "515",
     "CompletionConditionValue": "",
     "AutoCompleteConditionType": "",
@@ -5578,8 +5789,8 @@
     "ShowConditionValue": "season_main",
     "IfShowcheck": true,
     "CheckCompletion": false,
-    "TriggerConditionType": "516",
-    "TriggerConditionValue": "3473",
+    "TriggerConditionType": "",
+    "TriggerConditionValue": "",
     "CompletionConditionType": "515",
     "CompletionConditionValue": "",
     "AutoCompleteConditionType": "",
@@ -5638,7 +5849,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       1,
       2
@@ -5678,7 +5892,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -5718,7 +5935,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       3
     ],
@@ -6404,7 +6624,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       1,
       2
@@ -6444,7 +6667,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -6484,7 +6710,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       3
     ],
@@ -6713,7 +6942,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "11",
+      "3910"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -6938,7 +7170,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "14",
+      "1"
+    ],
     "Pcchoice": [
       2
     ],
@@ -7007,7 +7242,7 @@
     "AutoCompleteTime": 0,
     "IsShowUIFrame": true,
     "MobileTextAround": "Tap to use",
-    "TextAround": "Clickto use",
+    "TextAround": "Click to use",
     "TextShowDirection": [
       0,
       0
@@ -7018,7 +7253,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "14",
+      "2"
+    ],
     "Pcchoice": [
       2
     ],
@@ -7178,7 +7416,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "14",
+      "1"
+    ],
     "Pcchoice": [
       1,
       3
@@ -7259,7 +7500,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "14",
+      "2"
+    ],
     "Pcchoice": [
       1,
       3
@@ -7342,7 +7586,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -7380,7 +7627,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "100201"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -7458,7 +7708,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -7496,7 +7749,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "100908"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -7610,7 +7866,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "18",
+      "1"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -7723,7 +7982,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       1,
       2
@@ -7763,7 +8025,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [
       3
     ],
@@ -7803,7 +8068,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200001"
+    ],
     "Pcchoice": [
       3
     ],
@@ -7997,7 +8265,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -8035,7 +8306,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "102800"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -8151,7 +8425,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "102803"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -8307,7 +8584,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "19",
+      "1"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -9105,7 +9385,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "123"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -9797,7 +10080,7 @@
     "OnlyKey": false,
     "UIView": "",
     "IsBlack": false,
-    "ShowHelplibraryId": 4013,
+    "ShowHelplibraryId": 4027,
     "DynamicUI": [],
     "Pcchoice": [],
     "DelayTime": 0,
@@ -9830,7 +10113,7 @@
     "OnlyKey": false,
     "UIView": "",
     "IsBlack": false,
-    "ShowHelplibraryId": 4014,
+    "ShowHelplibraryId": 4028,
     "DynamicUI": [],
     "Pcchoice": [],
     "DelayTime": 0,
@@ -9970,6 +10253,39 @@
     "IfCheck": false,
     "IfDynamic": false
   },
+  "1045": {
+    "Id": 1045,
+    "Priority": 1028,
+    "GuideGroup": 0,
+    "ShowConditionType": [],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "",
+    "IfShowcheck": false,
+    "CheckCompletion": false,
+    "TriggerConditionType": "506",
+    "TriggerConditionValue": "",
+    "CompletionConditionType": "",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": false,
+    "MobileTextAround": "",
+    "TextAround": "",
+    "TextShowDirection": [],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 4019,
+    "DynamicUI": [],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
   "1050": {
     "Id": 1050,
     "Priority": 1050,
@@ -10001,7 +10317,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "7",
+      "123"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -10437,6 +10756,72 @@
     "IfCheck": false,
     "IfDynamic": false
   },
+  "1074": {
+    "Id": 1074,
+    "Priority": 1074,
+    "GuideGroup": 0,
+    "ShowConditionType": [],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "",
+    "IfShowcheck": false,
+    "CheckCompletion": false,
+    "TriggerConditionType": "506",
+    "TriggerConditionValue": "",
+    "CompletionConditionType": "",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": false,
+    "MobileTextAround": "",
+    "TextAround": "",
+    "TextShowDirection": [],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 4507,
+    "DynamicUI": [],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "1075": {
+    "Id": 1075,
+    "Priority": 1075,
+    "GuideGroup": 0,
+    "ShowConditionType": [],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "",
+    "IfShowcheck": false,
+    "CheckCompletion": false,
+    "TriggerConditionType": "501",
+    "TriggerConditionValue": "",
+    "CompletionConditionType": "",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": false,
+    "MobileTextAround": "",
+    "TextAround": "",
+    "TextShowDirection": [],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 4601,
+    "DynamicUI": [],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
   "1101": {
     "Id": 1101,
     "Priority": 1101,
@@ -10839,7 +11224,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "12",
+      "502291"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -10917,7 +11305,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "12",
+      "1265"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -11145,7 +11536,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "12",
+      "17"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -11166,7 +11560,7 @@
     "TriggerConditionType": "505",
     "TriggerConditionValue": "171012",
     "CompletionConditionType": "508",
-    "CompletionConditionValue": "51",
+    "CompletionConditionValue": "98",
     "AutoCompleteConditionType": "",
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 0,
@@ -11174,7 +11568,7 @@
     "MobileTextAround": "",
     "TextAround": "",
     "TextShowDirection": [],
-    "TextMiddle": "Press {*keyboard.key150*} to open the Homestead interface",
+    "TextMiddle": "Click {*keyboard.key153*} to open the Homestead interface",
     "KeyboardId": [
       153
     ],
@@ -11258,7 +11652,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "23",
+      "15"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -11296,7 +11693,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "24",
+      "1501"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -11641,7 +12041,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "102803"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -11755,7 +12158,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "26",
+      "10011"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -11795,7 +12201,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -11833,7 +12242,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "1",
+      "600400"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -11947,7 +12359,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "25",
+      "1"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -12023,7 +12438,10 @@
     "UIView": "",
     "IsBlack": false,
     "ShowHelplibraryId": 0,
-    "DynamicUI": [],
+    "DynamicUI": [
+      "25",
+      "10101"
+    ],
     "Pcchoice": [],
     "DelayTime": 0,
     "CameraID": 0,
@@ -12125,8 +12543,8 @@
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 0,
     "IsShowUIFrame": true,
-    "MobileTextAround": "The higher the Master difficulty level, the higher the clear score",
-    "TextAround": "The higher the Master difficulty level, the higher the clear score",
+    "MobileTextAround": "The higher the Master level, the higher the clear score",
+    "TextAround": "The higher the Master level, the higher the clear score",
     "TextShowDirection": [
       0,
       0
@@ -12163,7 +12581,7 @@
     "AutoCompleteConditionValue": "",
     "AutoCompleteTime": 0,
     "IsShowUIFrame": true,
-    "MobileTextAround": "Only Master Levels 1 and 6 grant first-clear rewards",
+    "MobileTextAround": "Only Master 1 and 6 grant first-clear rewards",
     "TextAround": "Only Master Levels 1 and 6 grant first-clear rewards",
     "TextShowDirection": [
       2,
@@ -12509,6 +12927,710 @@
     "TextAround": "Select a Will",
     "TextShowDirection": [
       0,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "4580": {
+    "Id": 4580,
+    "Priority": 4580,
+    "GuideGroup": 4580,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui",
+    "IfShowcheck": false,
+    "CheckCompletion": false,
+    "TriggerConditionType": "502",
+    "TriggerConditionValue": "1220004",
+    "CompletionConditionType": "518|516",
+    "CompletionConditionValue": "|4583",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Open the Seasonal Manual",
+    "TextAround": "Open the Seasonal Manual",
+    "TextShowDirection": [
+      1,
+      0
+    ],
+    "TextMiddle": "Press [{*keyboard.key111*}] to view the Seasonal Manual",
+    "KeyboardId": [
+      111
+    ],
+    "OnlyKey": true,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "1",
+      "800500"
+    ],
+    "Pcchoice": [
+      1,
+      2
+    ],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "4581": {
+    "Id": 4581,
+    "Priority": 4581,
+    "GuideGroup": 4580,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui",
+    "IfShowcheck": false,
+    "CheckCompletion": false,
+    "TriggerConditionType": "502",
+    "TriggerConditionValue": "1220004",
+    "CompletionConditionType": "516",
+    "CompletionConditionValue": "4582",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": false,
+    "MobileTextAround": "",
+    "TextAround": "",
+    "TextShowDirection": [],
+    "TextMiddle": "Press [{*keyboard.key108*}] to open the menu",
+    "KeyboardId": [
+      108
+    ],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "1",
+      "200000"
+    ],
+    "Pcchoice": [
+      3
+    ],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": true
+  },
+  "4582": {
+    "Id": 4582,
+    "Priority": 4582,
+    "GuideGroup": 4580,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui_funcs_list",
+    "IfShowcheck": false,
+    "CheckCompletion": false,
+    "TriggerConditionType": "502",
+    "TriggerConditionValue": "1220004",
+    "CompletionConditionType": "518",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Open the Seasonal Manual",
+    "TextAround": "Open the Seasonal Manual",
+    "TextShowDirection": [
+      1,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "1",
+      "800500"
+    ],
+    "Pcchoice": [
+      3
+    ],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": true
+  },
+  "4583": {
+    "Id": 4583,
+    "Priority": 4583,
+    "GuideGroup": 4580,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "season_main",
+    "IfShowcheck": true,
+    "CheckCompletion": false,
+    "TriggerConditionType": "502",
+    "TriggerConditionValue": "1220004",
+    "CompletionConditionType": "518",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap to view Season Title",
+    "TextAround": "Tap to view Season Title",
+    "TextShowDirection": [
+      3,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "13",
+      "800510"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "4584": {
+    "Id": 4584,
+    "Priority": 4584,
+    "GuideGroup": 4580,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "season_main",
+    "IfShowcheck": true,
+    "CheckCompletion": false,
+    "TriggerConditionType": "516",
+    "TriggerConditionValue": "4583",
+    "CompletionConditionType": "518",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap Deep-Slumber Psychoscope",
+    "TextAround": "Tap Deep-Slumber Psychoscope",
+    "TextShowDirection": [
+      3,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "4585": {
+    "Id": 4585,
+    "Priority": 4585,
+    "GuideGroup": 4580,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "season_main",
+    "IfShowcheck": true,
+    "CheckCompletion": false,
+    "TriggerConditionType": "516",
+    "TriggerConditionValue": "4584",
+    "CompletionConditionType": "518",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Select a Mind Projection",
+    "TextAround": "Select a Mind Projection",
+    "TextShowDirection": [
+      1,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "27",
+      "1"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "4586": {
+    "Id": 4586,
+    "Priority": 4586,
+    "GuideGroup": 4580,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "season_main",
+    "IfShowcheck": true,
+    "CheckCompletion": true,
+    "TriggerConditionType": "516",
+    "TriggerConditionValue": "4585",
+    "CompletionConditionType": "518",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap to activate Mind Projection",
+    "TextAround": "Tap to activate Mind Projection",
+    "TextShowDirection": [
+      0,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "4587": {
+    "Id": 4587,
+    "Priority": 4587,
+    "GuideGroup": 4580,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "",
+    "IfShowcheck": false,
+    "CheckCompletion": false,
+    "TriggerConditionType": "516",
+    "TriggerConditionValue": "4587",
+    "CompletionConditionType": "",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": false,
+    "MobileTextAround": "",
+    "TextAround": "",
+    "TextShowDirection": [],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 1014,
+    "DynamicUI": [],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "5500": {
+    "Id": 5500,
+    "Priority": 5500,
+    "GuideGroup": 5500,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui",
+    "IfShowcheck": false,
+    "CheckCompletion": true,
+    "TriggerConditionType": "506",
+    "TriggerConditionValue": "",
+    "CompletionConditionType": "500",
+    "CompletionConditionValue": "11=1",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 10,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap Basic Attack to view skill info.",
+    "TextAround": "Click Basic Attack to view skill info.",
+    "TextShowDirection": [
+      0,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [
+      11
+    ],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "7",
+      "11"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "5501": {
+    "Id": 5501,
+    "Priority": 5501,
+    "GuideGroup": 5500,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui",
+    "IfShowcheck": false,
+    "CheckCompletion": true,
+    "TriggerConditionType": "506",
+    "TriggerConditionValue": "5500",
+    "CompletionConditionType": "500",
+    "CompletionConditionValue": "11=2",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 10,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap Skill 1 to view Skill Info.",
+    "TextAround": "Click Skill 1 to view Skill Info.",
+    "TextShowDirection": [
+      0,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [
+      120
+    ],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "7",
+      "120"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "5502": {
+    "Id": 5502,
+    "Priority": 5502,
+    "GuideGroup": 5500,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui",
+    "IfShowcheck": false,
+    "CheckCompletion": true,
+    "TriggerConditionType": "506",
+    "TriggerConditionValue": "5501",
+    "CompletionConditionType": "500",
+    "CompletionConditionValue": "11=3",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 10,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap Skill 2 to view Skill Info.",
+    "TextAround": "Click Skill 2 to view Skill Info.",
+    "TextShowDirection": [
+      0,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [
+      12
+    ],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "7",
+      "12"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "5503": {
+    "Id": 5503,
+    "Priority": 5503,
+    "GuideGroup": 5500,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui",
+    "IfShowcheck": false,
+    "CheckCompletion": true,
+    "TriggerConditionType": "506",
+    "TriggerConditionValue": "5502",
+    "CompletionConditionType": "500",
+    "CompletionConditionValue": "11=3",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 10,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap Skill 2 again for Skill Info.",
+    "TextAround": "Click Skill 2 again for Skill Info.",
+    "TextShowDirection": [
+      0,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [
+      12
+    ],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "7",
+      "12"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "5600": {
+    "Id": 5600,
+    "Priority": 5600,
+    "GuideGroup": 5600,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui",
+    "IfShowcheck": false,
+    "CheckCompletion": true,
+    "TriggerConditionType": "506",
+    "TriggerConditionValue": "",
+    "CompletionConditionType": "500",
+    "CompletionConditionValue": "11=1",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 10,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap Basic Attack again  to view skill info.",
+    "TextAround": "Click Basic Attack again  to view skill info.",
+    "TextShowDirection": [
+      0,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [
+      11
+    ],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "7",
+      "11"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "5601": {
+    "Id": 5601,
+    "Priority": 5601,
+    "GuideGroup": 5600,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui",
+    "IfShowcheck": false,
+    "CheckCompletion": true,
+    "TriggerConditionType": "506",
+    "TriggerConditionValue": "5601",
+    "CompletionConditionType": "500",
+    "CompletionConditionValue": "11=2",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 10,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap Skill 1 to view Skill Info.",
+    "TextAround": "Click Skill 1 to view Skill Info.",
+    "TextShowDirection": [
+      0,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [
+      120
+    ],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "7",
+      "120"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "5602": {
+    "Id": 5602,
+    "Priority": 5602,
+    "GuideGroup": 5600,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "mainui",
+    "IfShowcheck": false,
+    "CheckCompletion": true,
+    "TriggerConditionType": "506",
+    "TriggerConditionValue": "5602",
+    "CompletionConditionType": "500",
+    "CompletionConditionValue": "11=3",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 10,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap Skill 2 to view Skill Info.",
+    "TextAround": "Click Skill 2 again for Skill Info.",
+    "TextShowDirection": [
+      0,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [
+      12
+    ],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "7",
+      "12"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "5701": {
+    "Id": 5701,
+    "Priority": 5701,
+    "GuideGroup": 5700,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "map_main",
+    "IfShowcheck": false,
+    "CheckCompletion": true,
+    "TriggerConditionType": "503",
+    "TriggerConditionValue": "map_main",
+    "CompletionConditionType": "518",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Starland Unlocked. Explore now!",
+    "TextAround": "Starland Unlocked. Explore now!",
+    "TextShowDirection": [
+      1,
+      0
+    ],
+    "TextMiddle": "",
+    "KeyboardId": [],
+    "OnlyKey": false,
+    "UIView": "",
+    "IsBlack": false,
+    "ShowHelplibraryId": 0,
+    "DynamicUI": [
+      "28",
+      "11"
+    ],
+    "Pcchoice": [],
+    "DelayTime": 0,
+    "CameraID": 0,
+    "IfCheck": false,
+    "IfDynamic": false
+  },
+  "5702": {
+    "Id": 5702,
+    "Priority": 5702,
+    "GuideGroup": 5700,
+    "ShowConditionType": [
+      2
+    ],
+    "PriorityGlobal": 0,
+    "ShowConditionValue": "map_main",
+    "IfShowcheck": false,
+    "CheckCompletion": true,
+    "TriggerConditionType": "516",
+    "TriggerConditionValue": "5701",
+    "CompletionConditionType": "518",
+    "CompletionConditionValue": "",
+    "AutoCompleteConditionType": "",
+    "AutoCompleteConditionValue": "",
+    "AutoCompleteTime": 0,
+    "IsShowUIFrame": true,
+    "MobileTextAround": "Tap to return to Magna Continent Map.",
+    "TextAround": "Click to return to Magna Continent Map.",
+    "TextShowDirection": [
+      3,
       0
     ],
     "TextMiddle": "",

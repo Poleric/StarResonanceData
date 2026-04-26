@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zproto;
+
+message SwitchProjectRequest {
+	int32 oldProjectId = 1 [json_name = "oldProjectId"];
+	int32 newProjectId = 2 [json_name = "newProjectId"];
+}

@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_life_profession_work_info.proto";
 
-message NotifyLifeProfessionWorkHistoryChangeInfo {
-  repeated zproto.LifeProfessionWorkInfo work_infos = 1;
-}
+package zproto;
 
+message NotifyLifeProfessionWorkHistoryChangeInfo {
+	repeated LifeProfessionWorkInfo workInfos = 1 [json_name = "workInfos"];
+}

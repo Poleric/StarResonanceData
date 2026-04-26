@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_hero_key_item_info.proto";
 import "stru_item.proto";
 import "stru_dirty_mask.proto";
 
-message DungeonHeroKeyInfo {
-  int64 char_id = 1;
-  repeated zproto.Item hero_key_item = 2;
-  map<uint32, zproto.HeroKeyItemInfo> key_info = 3;
-  zproto.Item use_item = 4;
-  repeated zproto.Item hero_key_award_item = 5;
-}
+package zproto;
 
+message DungeonHeroKeyInfo {
+	int64 charId = 1 [json_name = "charId"];
+	repeated Item heroKeyItem = 2 [json_name = "heroKeyItem"];
+	map<uint32, HeroKeyItemInfo> keyInfo = 3 [json_name = "keyInfo"];
+	Item useItem = 4 [json_name = "useItem"];
+	repeated Item heroKeyAwardItem = 5 [json_name = "heroKeyAwardItem"];
+}

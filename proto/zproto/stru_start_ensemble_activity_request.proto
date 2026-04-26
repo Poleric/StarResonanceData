@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_instrument_play_range.proto";
+
+package zproto;
+
+message StartEnsembleActivityRequest {
+	int32 bpm = 1 [json_name = "bpm"];
+	int32 beat = 2 [json_name = "beat"];
+	EInstrumentPlayRange playRange = 3 [json_name = "playRange"];
+}

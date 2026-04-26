@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "stru_game_table_key.proto";
+import "stru_match_key_info.proto";
+
+package zproto;
+
+message MahjongContext {
+	string tableGuid = 1 [json_name = "tableGuid"];
+	MatchKeyInfo matchKeyInfo = 2 [json_name = "matchKeyInfo"];
+	GameTableKey tableKey = 3 [json_name = "tableKey"];
+	int32 mahjongConfigId = 4 [json_name = "mahjongConfigId"];
+	string worldGuid = 5 [json_name = "worldGuid"];
+}

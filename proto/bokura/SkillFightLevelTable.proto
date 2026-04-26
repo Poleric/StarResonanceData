@@ -1,23 +1,22 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SkillFightLevelTableBase {
-  int32 id = 1463;
-  int32 skill_id = 1087;
-  int32 level = 1120;
-  int32 skill_effect_id = 897;
-  string name = 439;
-  int_table skill_cost = 619;
-  int_table skill_res_check = 487;
-  float pve_cool_time = 2001;
-  string_table float_parameter = 1246;
-  int_array show_parameter = 661;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 SkillId = 1087 [json_name = "SkillId"];
+	int32 Level = 1120 [json_name = "Level"];
+	int32 SkillEffectId = 897 [json_name = "SkillEffectId"];
+	string Name = 439 [json_name = "Name"];
+	int_table SkillCost = 619 [json_name = "SkillCost"];
+	int_table SkillResCheck = 487 [json_name = "SkillResCheck"];
+	float PVECoolTime = 2001 [json_name = "PVECoolTime"];
+	string_table FloatParameter = 1246 [json_name = "FloatParameter"];
+	int_array ShowParameter = 661 [json_name = "ShowParameter"];
 }
 
 message SkillFightLevelTableMgr {
-  map<int32, bokura.SkillFightLevelTableBase> datas = 1;
+	map<int32, SkillFightLevelTableBase> datas = 1 [json_name = "datas"];
 }
-

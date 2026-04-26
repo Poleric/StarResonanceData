@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_player_box_data.proto";
 import "stru_dirty_mask.proto";
 
-message PlayerBox {
-  map<uint64, zproto.PlayerBoxData> scenes = 1;
-}
+package zproto;
 
+message PlayerBox {
+	map<uint64, PlayerBoxData> scenes = 1 [json_name = "scenes"];
+}

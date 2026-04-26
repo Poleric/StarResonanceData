@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message GameTableVoteEndInfo {
+	int64 playerId = 1 [json_name = "playerId"];
+	int32 voteStartTimeSec = 2 [json_name = "voteStartTimeSec"];
+	map<int64, int32> voteResult = 3 [json_name = "voteResult"];
+}

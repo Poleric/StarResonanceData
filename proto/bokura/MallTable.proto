@@ -1,28 +1,27 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message MallTableBase {
-  int32 id = 1463;
-  int32 function_id = 149;
-  mlstring name = 439;
-  string name_remark = 1535;
-  int32 has_father_type = 1360;
-  int32 mall_type = 1688;
-  int_table refresh_interval_type = 1604;
-  int_table weight_id = 2007;
-  int32 timer_id = 190;
-  int32 sort = 1643;
-  int32 show_count_down = 1192;
-  int32 mall_manual_refresh = 1340;
-  int_table refresh_cost_item = 1637;
-  string icon = 1153;
-  int_array currency_display = 1022;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 FunctionId = 149 [json_name = "FunctionId"];
+	mlstring Name = 439 [json_name = "Name"];
+	string NameRemark = 1535 [json_name = "NameRemark"];
+	int32 HasFatherType = 1360 [json_name = "HasFatherType"];
+	int32 MallType = 1688 [json_name = "MallType"];
+	int_table RefreshIntervalType = 1604 [json_name = "RefreshIntervalType"];
+	int_table WeightId = 2007 [json_name = "WeightId"];
+	int32 TimerId = 190 [json_name = "TimerId"];
+	int32 Sort = 1643 [json_name = "Sort"];
+	int32 ShowCountDown = 1192 [json_name = "ShowCountDown"];
+	int32 MallManualRefresh = 1340 [json_name = "MallManualRefresh"];
+	int_table RefreshCostItem = 1637 [json_name = "RefreshCostItem"];
+	string Icon = 1153 [json_name = "Icon"];
+	int_array CurrencyDisplay = 1022 [json_name = "CurrencyDisplay"];
 }
 
 message MallTableMgr {
-  map<int32, bokura.MallTableBase> datas = 1;
+	map<int32, MallTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message HomelandSetMaterialInfoRequest {
-  int32 structure_type = 1;
-  int32 material_id = 2;
-  bool is_outer = 3;
+	int32 structureType = 1 [json_name = "structureType"];
+	int32 materialId = 2 [json_name = "materialId"];
+	bool isOuter = 3 [json_name = "isOuter"];
 }
-

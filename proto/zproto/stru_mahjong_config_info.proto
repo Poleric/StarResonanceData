@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "enum_mahjong_config_type.proto";
+
+package zproto;
+
+message MahjongConfigInfo {
+	MahjongConfigType configType = 1 [json_name = "configType"];
+	string value = 2 [json_name = "value"];
+}

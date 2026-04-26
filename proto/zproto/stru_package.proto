@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_item.proto";
 import "stru_dirty_mask.proto";
 
-message Package {
-  int32 type = 1;
-  int32 max_capacity = 2;
-  map<int32, int64> item_cd = 3;
-  map<int64, zproto.Item> items = 4;
-  int64 public_cd = 5;
-  int32 change_version = 6;
-}
+package zproto;
 
+message Package {
+	int32 type = 1 [json_name = "type"];
+	int32 maxCapacity = 2 [json_name = "maxCapacity"];
+	map<int32, int64> itemCd = 3 [json_name = "itemCd"];
+	map<int64, Item> items = 4 [json_name = "items"];
+	int64 publicCd = 5 [json_name = "publicCd"];
+	int32 changeVersion = 6 [json_name = "changeVersion"];
+}

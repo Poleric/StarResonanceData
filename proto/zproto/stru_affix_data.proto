@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message AffixData {
-  repeated int32 affix_ids = 1;
-}
+package zproto;
 
+message AffixData {
+	repeated int32 affixIds = 1 [json_name = "affixIds"];
+}

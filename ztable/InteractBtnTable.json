@@ -1,4 +1,32 @@
 {
+  "100": {
+    "Id": 100,
+    "Name": "Sign Up",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_box",
+    "FunctionOrder": []
+  },
+  "101": {
+    "Id": 101,
+    "Name": "+100 Points",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_box",
+    "FunctionOrder": []
+  },
+  "102": {
+    "Id": 102,
+    "Name": "-50 Points",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_box",
+    "FunctionOrder": []
+  },
+  "103": {
+    "Id": 103,
+    "Name": "Eliminate",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_box",
+    "FunctionOrder": []
+  },
   "1001": {
     "Id": 1001,
     "Name": "Open",
@@ -136,7 +164,7 @@
     "Id": 1020,
     "Name": "Sit down",
     "BtnType": 1,
-    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "IconPath": "ui/atlas/npc/talk_icon_sit",
     "FunctionOrder": []
   },
   "1021": {
@@ -328,6 +356,20 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
+  "1048": {
+    "Id": 1048,
+    "Name": "Pull the lever",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1049": {
+    "Id": 1049,
+    "Name": "Go to the depths of the mine",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
   "1050": {
     "Id": 1050,
     "Name": "Interact",
@@ -440,6 +482,34 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
+  "1066": {
+    "Id": 1066,
+    "Name": "Calix's letter I",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1067": {
+    "Id": 1067,
+    "Name": "Calix's letter II",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1068": {
+    "Id": 1068,
+    "Name": "Calix's letter III",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1069": {
+    "Id": 1069,
+    "Name": "Make flyers",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
   "1070": {
     "Id": 1070,
     "Name": "Talk",
@@ -459,6 +529,13 @@
     "Name": "Water Splash Magic",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1074": {
+    "Id": 1074,
+    "Name": "Rose",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
   "1080": {
@@ -512,7 +589,7 @@
   },
   "1087": {
     "Id": 1087,
-    "Name": "Activate wind tunnel",
+    "Name": "Activate Wind Channel",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -598,7 +675,7 @@
     "Id": 1106,
     "Name": "Sit down",
     "BtnType": 1,
-    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "IconPath": "ui/atlas/npc/talk_icon_sit",
     "FunctionOrder": []
   },
   "1107": {
@@ -613,14 +690,22 @@
     "Name": "Culinary",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_cook",
-    "FunctionOrder": []
+    "FunctionOrder": [
+      "OpenCookView",
+      "cook",
+      "4000"
+    ]
   },
   "1109": {
     "Id": 1109,
     "Name": "Culinary",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_cook",
-    "FunctionOrder": []
+    "FunctionOrder": [
+      "OpenCookView",
+      "cook",
+      "4005"
+    ]
   },
   "1110": {
     "Id": 1110,
@@ -685,6 +770,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
+  "1119": {
+    "Id": 1119,
+    "Name": "Release Illusion Energy",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
   "1120": {
     "Id": 1120,
     "Name": "Guard Area",
@@ -709,6 +801,13 @@
   "1123": {
     "Id": 1123,
     "Name": "Mechanical Graveyard",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1124": {
+    "Id": 1124,
+    "Name": "Start the minecart",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -785,7 +884,7 @@
   },
   "1140": {
     "Id": 1140,
-    "Name": "Guild Store",
+    "Name": "Grocery Store",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_union_10",
     "FunctionOrder": []
@@ -923,6 +1022,27 @@
     "IconPath": "ui/atlas/npc/talk_icon_union_72",
     "FunctionOrder": []
   },
+  "1169": {
+    "Id": 1169,
+    "Name": "Ride",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_sit",
+    "FunctionOrder": []
+  },
+  "1170": {
+    "Id": 1170,
+    "Name": "Ride - Outer Ring",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_sit",
+    "FunctionOrder": []
+  },
+  "1171": {
+    "Id": 1171,
+    "Name": "Ride - Inner Ring",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_sit",
+    "FunctionOrder": []
+  },
   "1201": {
     "Id": 1201,
     "Name": "Kanamia Fire Memory",
@@ -1030,7 +1150,7 @@
   },
   "1216": {
     "Id": 1216,
-    "Name": "Obtain the light domain pointer",
+    "Name": "Obtain the Illuminator",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
@@ -1059,6 +1179,20 @@
   "1220": {
     "Id": 1220,
     "Name": "Held down swiftly",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "1221": {
+    "Id": 1221,
+    "Name": "Activate the Light Domain",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "1222": {
+    "Id": 1222,
+    "Name": "Dive",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
@@ -1093,35 +1227,35 @@
   },
   "1258": {
     "Id": 1258,
-    "Name": "Pilot Melee Mech",
+    "Name": "Pilot Melee Golem",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
   "1259": {
     "Id": 1259,
-    "Name": "Pilot Ranged Mech",
+    "Name": "Pilot Ranged Golem",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
   "1260": {
     "Id": 1260,
-    "Name": "Drive Mech Type 3",
+    "Name": "Pilot Golem T-3",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
   "1261": {
     "Id": 1261,
-    "Name": "Drive Mech Type 4",
+    "Name": "Pilot Golem T-4",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
   "1262": {
     "Id": 1262,
-    "Name": "Pilot Mech",
+    "Name": "Acquire Golem",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
@@ -1203,6 +1337,76 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
+  "1400": {
+    "Id": 1400,
+    "Name": "Slumberdream Valley",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/map_season_02",
+    "FunctionOrder": []
+  },
+  "1500": {
+    "Id": 1500,
+    "Name": "Flora of Asterleeds",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1501": {
+    "Id": 1501,
+    "Name": "Floral Tales: A Few Words",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1502": {
+    "Id": 1502,
+    "Name": "Legend of Airona - Deluxe Special Edition",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1503": {
+    "Id": 1503,
+    "Name": "Post-War Chronicles: Profiles",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1504": {
+    "Id": 1504,
+    "Name": "Compilation of Unnamed Chronicles",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1505": {
+    "Id": 1505,
+    "Name": "Herbalism Book",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1506": {
+    "Id": 1506,
+    "Name": "Old Notebook",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1507": {
+    "Id": 1507,
+    "Name": "Old Portrait",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1508": {
+    "Id": 1508,
+    "Name": "View Layer 1",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
   "2001": {
     "Id": 2001,
     "Name": "Flame Orc (Active)",
@@ -1219,14 +1423,14 @@
   },
   "2003": {
     "Id": 2003,
-    "Name": "Rathalos (Active)",
+    "Name": "Ignisor (Active)",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
   "2004": {
     "Id": 2004,
-    "Name": "Rathalos (Passive)",
+    "Name": "Ignisor (Passive)",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -1292,7 +1496,10 @@
     "Name": "Weapon Forge",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_forging",
-    "FunctionOrder": []
+    "FunctionOrder": [
+      "OpenWeaponBuildView",
+      "weapon"
+    ]
   },
   "2015": {
     "Id": 2015,
@@ -1303,28 +1510,28 @@
   },
   "2016": {
     "Id": 2016,
-    "Name": "Select A",
+    "Name": "Select Option A",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
   "2017": {
     "Id": 2017,
-    "Name": "Select B",
+    "Name": "Select Option B",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
   "2018": {
     "Id": 2018,
-    "Name": "Select C",
+    "Name": "Select Option C",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
   "2019": {
     "Id": 2019,
-    "Name": "Select D",
+    "Name": "Select Option D",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
@@ -1338,7 +1545,7 @@
   },
   "2093": {
     "Id": 2093,
-    "Name": "Switch On/Off Homestead Lights",
+    "Name": "On/Off Lights",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_union_85",
     "FunctionOrder": []
@@ -1390,7 +1597,10 @@
     "Name": "Start",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
-    "FunctionOrder": []
+    "FunctionOrder": [
+      "PivotInteraction",
+      "pivot"
+    ]
   },
   "2102": {
     "Id": 2102,
@@ -1411,6 +1621,48 @@
     "Name": "Conjure Imagine Fragments!",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "2290": {
+    "Id": 2290,
+    "Name": "Commission Gathering",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "2295": {
+    "Id": 2295,
+    "Name": "Homestead Smelting",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_32",
+    "FunctionOrder": []
+  },
+  "2296": {
+    "Id": 2296,
+    "Name": "Homestead Alchemy",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_35",
+    "FunctionOrder": []
+  },
+  "2297": {
+    "Id": 2297,
+    "Name": "Homestead Gemcrafting",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_31",
+    "FunctionOrder": []
+  },
+  "2298": {
+    "Id": 2298,
+    "Name": "Homestead Artisanry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_70",
+    "FunctionOrder": []
+  },
+  "2299": {
+    "Id": 2299,
+    "Name": "Homestead Weaving",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_72",
     "FunctionOrder": []
   },
   "3000": {
@@ -1444,6 +1696,13 @@
   "3004": {
     "Id": 3004,
     "Name": "North (Test)",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "3603": {
+    "Id": 3603,
+    "Name": "Wondrous Tag",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -1579,21 +1838,30 @@
     "Name": "Engram Hub",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
-    "FunctionOrder": []
+    "FunctionOrder": [
+      "PivotInteraction",
+      "pivot"
+    ]
   },
   "5002": {
     "Id": 5002,
     "Name": "Resonate",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
-    "FunctionOrder": []
+    "FunctionOrder": [
+      "AsyncPivotPortResonance",
+      "pivot"
+    ]
   },
   "5003": {
     "Id": 5003,
     "Name": "Resonate",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
-    "FunctionOrder": []
+    "FunctionOrder": [
+      "AsyncResonanceSkill",
+      "env"
+    ]
   },
   "5004": {
     "Id": 5004,
@@ -1619,6 +1887,13 @@
   "5101": {
     "Id": 5101,
     "Name": "Take Photos",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_clock",
+    "FunctionOrder": []
+  },
+  "5102": {
+    "Id": 5102,
+    "Name": "Take a Photo",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_clock",
     "FunctionOrder": []
@@ -1675,6 +1950,20 @@
   "5208": {
     "Id": 5208,
     "Name": "Gather Pollen",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "5209": {
+    "Id": 5209,
+    "Name": "Clear away",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_96",
+    "FunctionOrder": []
+  },
+  "5210": {
+    "Id": 5210,
+    "Name": "Assist with harvesting",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
@@ -1870,7 +2159,7 @@
   },
   "6028": {
     "Id": 6028,
-    "Name": "Identify Daniel",
+    "Name": "Identify Lucien",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -1980,6 +2269,48 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
+  "6044": {
+    "Id": 6044,
+    "Name": "Cheer the child up",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/emote_icon/emo_icon_action_dance",
+    "FunctionOrder": []
+  },
+  "6048": {
+    "Id": 6048,
+    "Name": "Take Out Bottle",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "6050": {
+    "Id": 6050,
+    "Name": "",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "6150": {
+    "Id": 6150,
+    "Name": "Go to Starland",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_19",
+    "FunctionOrder": []
+  },
+  "6151": {
+    "Id": 6151,
+    "Name": "Go to Asterleeds",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_19",
+    "FunctionOrder": []
+  },
+  "6530": {
+    "Id": 6530,
+    "Name": "Hang lanterns",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
   "7001": {
     "Id": 7001,
     "Name": "View",
@@ -2059,7 +2390,7 @@
   },
   "7021": {
     "Id": 7021,
-    "Name": "Something Shiny",
+    "Name": "Rusty Key",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
@@ -2150,7 +2481,7 @@
   },
   "7034": {
     "Id": 7034,
-    "Name": "Ruby Shard",
+    "Name": "Crimson Marrow Shard",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
@@ -2202,6 +2533,27 @@
     "Name": "Catch the eavesdropper",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "FunctionOrder": []
+  },
+  "7042": {
+    "Id": 7042,
+    "Name": "Drop the supplies",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "7043": {
+    "Id": 7043,
+    "Name": "Knock",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "7044": {
+    "Id": 7044,
+    "Name": "Search",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
   "7101": {
@@ -2540,6 +2892,20 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
+  "7501": {
+    "Id": 7501,
+    "Name": "Street Corner News: Today's Extra",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "7502": {
+    "Id": 7502,
+    "Name": "Purify",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
   "8001": {
     "Id": 8001,
     "Name": "Attempt to Lower the Gate",
@@ -2575,6 +2941,55 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
+  "9005": {
+    "Id": 9005,
+    "Name": "Go to Horncall Plains",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "9006": {
+    "Id": 9006,
+    "Name": "Go to Stonehusk Court",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "9007": {
+    "Id": 9007,
+    "Name": "Go to Abyss of Erosion",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "9008": {
+    "Id": 9008,
+    "Name": "Go to where Illusory Blooms withered",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "9009": {
+    "Id": 9009,
+    "Name": "Enter 01",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "9010": {
+    "Id": 9010,
+    "Name": "Enter 02",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "9011": {
+    "Id": 9011,
+    "Name": "Enter 03",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
   "12010": {
     "Id": 12010,
     "Name": "Release Purification Pulse",
@@ -2606,6 +3021,13 @@
   "12014": {
     "Id": 12014,
     "Name": "Open [Void Corruption Loot]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "12015": {
+    "Id": 12015,
+    "Name": "Activate the Treasure Cluster",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
@@ -2799,9 +3221,58 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
+  "30225": {
+    "Id": 30225,
+    "Name": "Collect Caprahorn Wool",
+    "BtnType": 0,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "30226": {
+    "Id": 30226,
+    "Name": "Realign Bones",
+    "BtnType": 0,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "30227": {
+    "Id": 30227,
+    "Name": "Infuse Engram Energy",
+    "BtnType": 0,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "30228": {
+    "Id": 30228,
+    "Name": "Cook Rainbean Rice.",
+    "BtnType": 0,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
   "30300": {
     "Id": 30300,
     "Name": "Take a Photo",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "30400": {
+    "Id": 30400,
+    "Name": "Gather Cleansing Saffron",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "30401": {
+    "Id": 30401,
+    "Name": "Examine \"Crown\"",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "40501": {
+    "Id": 40501,
+    "Name": "Purify the Undead",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -2897,6 +3368,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
+  "54100": {
+    "Id": 54100,
+    "Name": "Collect Cargo",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
   "54101": {
     "Id": 54101,
     "Name": "Carry the cargo",
@@ -2914,6 +3392,20 @@
   "54103": {
     "Id": 54103,
     "Name": "[Revealing Stone]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "55010": {
+    "Id": 55010,
+    "Name": "Exit Drowning Dreamland",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "55011": {
+    "Id": 55011,
+    "Name": "Enter Drowning Dreamland",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
@@ -3012,6 +3504,167 @@
   "56015": {
     "Id": 56015,
     "Name": "\"Touch of Luck\"",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "56016": {
+    "Id": 56016,
+    "Name": "Claim Discard",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "56017": {
+    "Id": 56017,
+    "Name": "Claim Discard",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "56018": {
+    "Id": 56018,
+    "Name": "Claim Discard",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "56019": {
+    "Id": 56019,
+    "Name": "Claim Discard",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57001": {
+    "Id": 57001,
+    "Name": "Submit Cargo",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57002": {
+    "Id": 57002,
+    "Name": "Submit Special Cargo",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57003": {
+    "Id": 57003,
+    "Name": "Test - Summon Cargo",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57004": {
+    "Id": 57004,
+    "Name": "Pick up Cargo",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57005": {
+    "Id": 57005,
+    "Name": "Pick up Special Cargo",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57006": {
+    "Id": 57006,
+    "Name": "Pick up Inscription No.1",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57007": {
+    "Id": 57007,
+    "Name": "Pick up Inscription No.2",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57008": {
+    "Id": 57008,
+    "Name": "Pick up Inscription No.3",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57009": {
+    "Id": 57009,
+    "Name": "Pick up Inscription No.4",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57010": {
+    "Id": 57010,
+    "Name": "Resonate with Wall of Inscriptions",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57011": {
+    "Id": 57011,
+    "Name": "Test - Summon Illusion Inscription",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57012": {
+    "Id": 57012,
+    "Name": "Test - Summon Dynamic Template Monster",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57013": {
+    "Id": 57013,
+    "Name": "Resonate with Inscription No.1",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57014": {
+    "Id": 57014,
+    "Name": "Resonate with Inscription No.2",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57015": {
+    "Id": 57015,
+    "Name": "Resonate with Inscription No.3",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57016": {
+    "Id": 57016,
+    "Name": "Resonate with Inscription No.4",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57017": {
+    "Id": 57017,
+    "Name": "Start Channeling Power",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57045": {
+    "Id": 57045,
+    "Name": "Help Goblins",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "57046": {
+    "Id": 57046,
+    "Name": "Help Mukus",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
@@ -3289,6 +3942,153 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
+  "140201": {
+    "Id": 140201,
+    "Name": "Upgrade Inventory",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "140202": {
+    "Id": 140202,
+    "Name": "Create Weapon",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_89",
+    "FunctionOrder": []
+  },
+  "140203": {
+    "Id": 140203,
+    "Name": "Modify Weapon",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_90",
+    "FunctionOrder": []
+  },
+  "140204": {
+    "Id": 140204,
+    "Name": "Invent",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_83",
+    "FunctionOrder": []
+  },
+  "140205": {
+    "Id": 140205,
+    "Name": "Supplies",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_27",
+    "FunctionOrder": []
+  },
+  "140206": {
+    "Id": 140206,
+    "Name": "Ingredients",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_cook",
+    "FunctionOrder": []
+  },
+  "140207": {
+    "Id": 140207,
+    "Name": "Culinary",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_cook",
+    "FunctionOrder": []
+  },
+  "140208": {
+    "Id": 140208,
+    "Name": "Train",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "140210": {
+    "Id": 140210,
+    "Name": "Return to Camp",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "140211": {
+    "Id": 140211,
+    "Name": "Crescent Cliff",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "140212": {
+    "Id": 140212,
+    "Name": "Moonwatch Slope",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "140213": {
+    "Id": 140213,
+    "Name": "Flowmoon Pool",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "140214": {
+    "Id": 140214,
+    "Name": "Heaven's Land",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "140215": {
+    "Id": 140215,
+    "Name": "Ocean of Nowhere",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "140216": {
+    "Id": 140216,
+    "Name": "Farwild",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "140217": {
+    "Id": 140217,
+    "Name": "Desolation Ridge",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "142101": {
+    "Id": 142101,
+    "Name": "Activate the Crystal Event",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "142102": {
+    "Id": 142102,
+    "Name": "Activate the Nimbus Event",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "142103": {
+    "Id": 142103,
+    "Name": "Activate the Bomb-Disposal Event",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "142104": {
+    "Id": 142104,
+    "Name": "Activate the Event of Intercepting Nappo",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "142105": {
+    "Id": 142105,
+    "Name": "Return to the Starting Point",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
   "200000": {
     "Id": 200000,
     "Name": "Shared Warehouse",
@@ -3340,7 +4140,7 @@
   },
   "200007": {
     "Id": 200007,
-    "Name": "Lv.40 Gear Exchange",
+    "Name": "Gear Exchange",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_union_52",
     "FunctionOrder": []
@@ -3445,7 +4245,7 @@
   },
   "200022": {
     "Id": 200022,
-    "Name": "Enter Exchange Center",
+    "Name": "Enter Trading Center",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -3585,14 +4385,14 @@
   },
   "200042": {
     "Id": 200042,
-    "Name": "Flower Recycle",
+    "Name": "Flower & Seed Recycle",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_union_75",
     "FunctionOrder": []
   },
   "200043": {
     "Id": 200043,
-    "Name": "Life Skills Exchange",
+    "Name": "Class Exchange",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_union_68",
     "FunctionOrder": []
@@ -3697,7 +4497,7 @@
   },
   "200065": {
     "Id": 200065,
-    "Name": "Junk Recycling",
+    "Name": "Goods Recycling",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -3707,6 +4507,90 @@
     "Name": "Skill Reset",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_skill_reset",
+    "FunctionOrder": []
+  },
+  "200067": {
+    "Id": 200067,
+    "Name": "Dreamweave Silk & Dust Shop",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_52",
+    "FunctionOrder": []
+  },
+  "200068": {
+    "Id": 200068,
+    "Name": "<style=\"emph-sq\">Dreambloom Ruins</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_26",
+    "FunctionOrder": []
+  },
+  "200069": {
+    "Id": 200069,
+    "Name": "Mahjong",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_mahjong",
+    "FunctionOrder": []
+  },
+  "200070": {
+    "Id": 200070,
+    "Name": "Meowlux Candy House",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_exchange_05",
+    "FunctionOrder": []
+  },
+  "200071": {
+    "Id": 200071,
+    "Name": "Claim Today's Candy",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_gift",
+    "FunctionOrder": []
+  },
+  "200072": {
+    "Id": 200072,
+    "Name": "Illusion Relic Exchange",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_91",
+    "FunctionOrder": []
+  },
+  "200075": {
+    "Id": 200075,
+    "Name": "Forge Crafting",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_89",
+    "FunctionOrder": []
+  },
+  "200076": {
+    "Id": 200076,
+    "Name": "Sit Down",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_94",
+    "FunctionOrder": []
+  },
+  "200077": {
+    "Id": 200077,
+    "Name": "Meowlux Special",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "200078": {
+    "Id": 200078,
+    "Name": "Astral Store",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_shop",
+    "FunctionOrder": []
+  },
+  "200079": {
+    "Id": 200079,
+    "Name": "Meowlux Special Item Recycle",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_75",
+    "FunctionOrder": []
+  },
+  "200080": {
+    "Id": 200080,
+    "Name": "Starland Store",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_09",
     "FunctionOrder": []
   },
   "307021": {
@@ -3721,6 +4605,118 @@
     "Name": "Dewdrop Snaketail",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "327021": {
+    "Id": 327021,
+    "Name": "Take inventory",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "327031": {
+    "Id": 327031,
+    "Name": "Sand",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "327032": {
+    "Id": 327032,
+    "Name": "Gravel",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "335021": {
+    "Id": 335021,
+    "Name": "Place the marker stone.",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "335051": {
+    "Id": 335051,
+    "Name": "Fill the canteen",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "335081": {
+    "Id": 335081,
+    "Name": "Water",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "335101": {
+    "Id": 335101,
+    "Name": "Recover marker stones",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "335111": {
+    "Id": 335111,
+    "Name": "Eavesdrop",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "335112": {
+    "Id": 335112,
+    "Name": "Brew medicine",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "335113": {
+    "Id": 335113,
+    "Name": "Cook food",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "500101": {
+    "Id": 500101,
+    "Name": "Sign Up: Laser Cyclone",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "500102": {
+    "Id": 500102,
+    "Name": "Sign Up: Fish Frenzy",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "500103": {
+    "Id": 500103,
+    "Name": "Sign Up: One-Punch Brawl",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "500104": {
+    "Id": 500104,
+    "Name": "Sign Up: Extreme Low Tide",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "500105": {
+    "Id": 500105,
+    "Name": "Sign Up: Wave Dodgeball",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "500106": {
+    "Id": 500106,
+    "Name": "Sign Up: Interdimensional Punishment",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
   "500401": {
@@ -3807,6 +4803,20 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
+  "570301": {
+    "Id": 570301,
+    "Name": "Held down swiftly",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "570401": {
+    "Id": 570401,
+    "Name": "Place",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
   "590101": {
     "Id": 590101,
     "Name": "Chest A",
@@ -3842,9 +4852,51 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
+  "604001": {
+    "Id": 604001,
+    "Name": "Pick up",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "604002": {
+    "Id": 604002,
+    "Name": "Talk",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "604003": {
+    "Id": 604003,
+    "Name": "Seize",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "621101": {
+    "Id": 621101,
+    "Name": "Teleport",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "621102": {
+    "Id": 621102,
+    "Name": "Teleport to the boss area",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "621103": {
+    "Id": 621103,
+    "Name": "Activate \"Dream Invasion\"",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
   "700002": {
     "Id": 700002,
-    "Name": "[Investigate the Rift]",
+    "Name": "[Goblin Rampage]",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_worldquest",
     "FunctionOrder": []
@@ -3858,7 +4910,7 @@
   },
   "700004": {
     "Id": 700004,
-    "Name": "[Investigate the Rift]",
+    "Name": "[Defeat the Goblin Mage]",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_worldquest",
     "FunctionOrder": []
@@ -3893,7 +4945,7 @@
   },
   "700009": {
     "Id": 700009,
-    "Name": "Obtain Fire Seed",
+    "Name": "Start Delivery",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_worldquest",
     "FunctionOrder": []
@@ -3970,7 +5022,7 @@
   },
   "700020": {
     "Id": 700020,
-    "Name": "[Blue Sky Trial]",
+    "Name": "[Sky Trial]",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_worldquest",
     "FunctionOrder": []
@@ -3985,6 +5037,90 @@
   "700022": {
     "Id": 700022,
     "Name": "Challenge",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700023": {
+    "Id": 700023,
+    "Name": "[Village Defense Battle]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700024": {
+    "Id": 700024,
+    "Name": "Open Rift",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700025": {
+    "Id": 700025,
+    "Name": "[Golem Arena]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700026": {
+    "Id": 700026,
+    "Name": "Challenge",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700027": {
+    "Id": 700027,
+    "Name": "[Urgent Delivery]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700028": {
+    "Id": 700028,
+    "Name": "Start Delivery",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700029": {
+    "Id": 700029,
+    "Name": "[Urgent Delivery]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700030": {
+    "Id": 700030,
+    "Name": "Start Delivery",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700031": {
+    "Id": 700031,
+    "Name": "[Demi-Human Duel]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700032": {
+    "Id": 700032,
+    "Name": "Selection Complete",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700033": {
+    "Id": 700033,
+    "Name": "[Demi-Human Duel]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_worldquest",
+    "FunctionOrder": []
+  },
+  "700034": {
+    "Id": 700034,
+    "Name": "Selection Complete",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_worldquest",
     "FunctionOrder": []
@@ -4031,6 +5167,41 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
+  "710001": {
+    "Id": 710001,
+    "Name": "Pick up [Flame Golem]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "710002": {
+    "Id": 710002,
+    "Name": "Pick up [Barrage Golem]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "710003": {
+    "Id": 710003,
+    "Name": "Pick up [Skyfire Golem]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "710004": {
+    "Id": 710004,
+    "Name": "Pick up [Slow Device]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "710005": {
+    "Id": 710005,
+    "Name": "Pick up [Gravity Device]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
   "720006": {
     "Id": 720006,
     "Name": "Participate in Charming Fish Parade",
@@ -4059,6 +5230,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
+  "720010": {
+    "Id": 720010,
+    "Name": "Start Spirit Dance",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
   "720100": {
     "Id": 720100,
     "Name": "Join \"Balloon Capture\"",
@@ -4069,6 +5247,13 @@
   "720101": {
     "Id": 720101,
     "Name": "Join \"Ee-chan, don't stare at me!\"",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "720102": {
+    "Id": 720102,
+    "Name": "Join <Year Demon Strikes>",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -4085,6 +5270,27 @@
     "Name": "Leave Boarlet Knight Parade",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "721008": {
+    "Id": 721008,
+    "Name": "Obtain <style=\"emph-gn\">Abundant Food</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "721009": {
+    "Id": 721009,
+    "Name": "Obtain <style=\"emph-gn\">Magic Food</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "721010": {
+    "Id": 721010,
+    "Name": "Morph",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
   "731001": {
@@ -4113,6 +5319,167 @@
     "Name": "Summon cloud particle",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731005": {
+    "Id": 731005,
+    "Name": "Display Tour Route",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731016": {
+    "Id": 731016,
+    "Name": "Join Winterfest Morph",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731050": {
+    "Id": 731050,
+    "Name": "Summon Parade Test",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "720011": {
+    "Id": 720011,
+    "Name": "Join Ee-chan Drum Band",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "720013": {
+    "Id": 720013,
+    "Name": "Groove with the Lead Dancer!",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/emote_icon/emo_icon_action_dance",
+    "FunctionOrder": []
+  },
+  "730301": {
+    "Id": 730301,
+    "Name": "Enjoy the Feast",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731017": {
+    "Id": 731017,
+    "Name": "Join Winterfest Morph",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731018": {
+    "Id": 731018,
+    "Name": "Load <style=\"emph-gn\">Red</style> Fireworks",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731019": {
+    "Id": 731019,
+    "Name": "Load <style=\"emph-gn\">Green</style> Fireworks",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731020": {
+    "Id": 731020,
+    "Name": "Load <style=\"emph-gn\">Blue</style> Fireworks",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731021": {
+    "Id": 731021,
+    "Name": "<style=\"emph-gn\">Launch Fireworks</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731022": {
+    "Id": 731022,
+    "Name": "Claim <style=\"emph-gn\">White Lucky Bag</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731023": {
+    "Id": 731023,
+    "Name": "Claim <style=\"emph-gn\">Red Lucky Bag</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731024": {
+    "Id": 731024,
+    "Name": "Claim <style=\"emph-gn\">Blue Lucky Bag</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731025": {
+    "Id": 731025,
+    "Name": "Claim <style=\"emph-gn\">Green Lucky Bag</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731026": {
+    "Id": 731026,
+    "Name": "Claim <style=\"emph-gn\">Yellow Lucky Bag</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731027": {
+    "Id": 731027,
+    "Name": "Summon the Year Demon",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731031": {
+    "Id": 731031,
+    "Name": "Obtain <style=\"emph-gn\">Red Firecrackers</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731032": {
+    "Id": 731032,
+    "Name": "Obtain <style=\"emph-gn\">Green Firecrackers</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731033": {
+    "Id": 731033,
+    "Name": "Obtain <style=\"emph-gn\">Blue Firecrackers</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731034": {
+    "Id": 731034,
+    "Name": "Obtain <style=\"emph-gn\">Yellow Firecrackers</style>",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731035": {
+    "Id": 731035,
+    "Name": "Release Spring Lantern",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "731036": {
+    "Id": 731036,
+    "Name": "Renewal Store",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_shop",
     "FunctionOrder": []
   },
   "732000": {
@@ -4150,6 +5517,90 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
+  "732005": {
+    "Id": 732005,
+    "Name": "Obtain",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "732006": {
+    "Id": 732006,
+    "Name": "Obtain Abundant Food",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "732100": {
+    "Id": 732100,
+    "Name": "Pray 1 Time with Elder Splasha's Ash Pact",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "732101": {
+    "Id": 732101,
+    "Name": "Pray 10 Times with Elder Splasha's Ash Pacts",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "732102": {
+    "Id": 732102,
+    "Name": "Pray 1 Time with Elder Voidmind's Ash Pact",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "732103": {
+    "Id": 732103,
+    "Name": "Pray 10 Times with Elder Voidmind's Ash Pacts",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "732104": {
+    "Id": 732104,
+    "Name": "Pray 1 Time with White Wolf's Ash Pact",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "732105": {
+    "Id": 732105,
+    "Name": "Pray 10 Times with White Wolf's Ash Pacts",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "732106": {
+    "Id": 732106,
+    "Name": "Pray 1 Time with Elder Mushroom's Ash Pact",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "732107": {
+    "Id": 732107,
+    "Name": "Pray 10 Times with Elder Mushroom's Ash Pacts",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "732120": {
+    "Id": 732120,
+    "Name": "Exchange with Snow's Gift",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "732121": {
+    "Id": 732121,
+    "Name": "Open Gift Box",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
   "739001": {
     "Id": 739001,
     "Name": "Matches with Adept's Trial",
@@ -4157,58 +5608,548 @@
     "IconPath": "ui/atlas/npc/talk_icon_battle",
     "FunctionOrder": []
   },
+  "739002": {
+    "Id": 739002,
+    "Name": "Match with Loom of Dreams​",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "FunctionOrder": []
+  },
+  "739003": {
+    "Id": 739003,
+    "Name": "Enter the Rift of Slumberdream",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "FunctionOrder": []
+  },
+  "760000": {
+    "Id": 760000,
+    "Name": "Pick up 100 Dreamstones",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760001": {
+    "Id": 760001,
+    "Name": "[500 Dreamstones] Transform into Heavy Guardian",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760002": {
+    "Id": 760002,
+    "Name": "[800 Dreamstones] Transform into Mage",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760003": {
+    "Id": 760003,
+    "Name": "[300 Dreamstones] Transform into Swordsman",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760004": {
+    "Id": 760004,
+    "Name": "Open",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760005": {
+    "Id": 760005,
+    "Name": "[Lv.+1] Main Stats +100",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760006": {
+    "Id": 760006,
+    "Name": "[Lv.+1] Armor +300",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760007": {
+    "Id": 760007,
+    "Name": "[Lv.+1] Crit +300",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760008": {
+    "Id": 760008,
+    "Name": "[Lv.+1] Haste +300",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760009": {
+    "Id": 760009,
+    "Name": "[Lv.+1] Mastery +300",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760010": {
+    "Id": 760010,
+    "Name": "[Lv.+1] Luck +300",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760011": {
+    "Id": 760011,
+    "Name": "[50 Dreamstones] Epic Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760012": {
+    "Id": 760012,
+    "Name": "[100 Dreamstones] Legendary Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760013": {
+    "Id": 760013,
+    "Name": "[50 Dreamstones] Curse Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760014": {
+    "Id": 760014,
+    "Name": "[200 Dreamstones] Dreamfloat Crystal Cluster",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760015": {
+    "Id": 760015,
+    "Name": "Advanced Dreamfloat Crystal Cluster",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760016": {
+    "Id": 760016,
+    "Name": "[900 Dreamstones] Shining Dreamfloat Crystal Cluster",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760017": {
+    "Id": 760017,
+    "Name": "Open the door",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "760018": {
+    "Id": 760018,
+    "Name": "Teleport to Safe Zone 1",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "760019": {
+    "Id": 760019,
+    "Name": "Teleport to Safe Zone 2",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "760020": {
+    "Id": 760020,
+    "Name": "Teleport to Safe Zone 3",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "760021": {
+    "Id": 760021,
+    "Name": "Teleport to Safe Zone 4",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "800524": {
+    "Id": 800524,
+    "Name": "Factor Dismantle",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_factorde_compose",
+    "FunctionOrder": []
+  },
+  "800525": {
+    "Id": 800525,
+    "Name": "Factor Exchange",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_exchange_05",
+    "FunctionOrder": []
+  },
+  "800526": {
+    "Id": 800526,
+    "Name": "Sigil Exchange",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_66",
+    "FunctionOrder": []
+  },
+  "800527": {
+    "Id": 800527,
+    "Name": "Sigil Recycling",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_64",
+    "FunctionOrder": []
+  },
   "920001": {
     "Id": 920001,
-    "Name": "Upgrade Crit",
+    "Name": "[2 Training Coins] Crit +400",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
   "920002": {
     "Id": 920002,
-    "Name": "Upgrade Haste",
+    "Name": "[2 Training Coins] Haste +400",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
   "920003": {
     "Id": 920003,
-    "Name": "Upgrade Luck",
+    "Name": "[2 Training Coins] Luck +400",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
   "920004": {
     "Id": 920004,
-    "Name": "Upgrade Mastery",
+    "Name": "[2 Training Coins] Mastery +400",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
   "920005": {
     "Id": 920005,
-    "Name": "Upgrade Extra Skill",
+    "Name": "[5 Training Coins] Upgrade Skill",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
   "920006": {
     "Id": 920006,
-    "Name": "Star the trial",
+    "Name": "Start the trial",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
   "920010": {
     "Id": 920010,
-    "Name": "Obtain attribute",
+    "Name": "[5 Training Coins] Purchase Entry",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
   "920011": {
     "Id": 920011,
-    "Name": "Select the skill",
+    "Name": "[5 Training Coins] Purchase Skill",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920101": {
+    "Id": 920101,
+    "Name": "[3 Dreamdusts] Purchase Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920102": {
+    "Id": 920102,
+    "Name": "[5 Dreamdusts] Purchase Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920103": {
+    "Id": 920103,
+    "Name": "[10 Dreamdusts] Purchase Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920104": {
+    "Id": 920104,
+    "Name": "[20 Dreamdusts] Purchase Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920105": {
+    "Id": 920105,
+    "Name": "[30 Dreamdusts] Purchase Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920106": {
+    "Id": 920106,
+    "Name": "[10 Dreamdusts] Purchase Skill",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920107": {
+    "Id": 920107,
+    "Name": "[20 Dreamdusts] Upgrade Skill",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920108": {
+    "Id": 920108,
+    "Name": "[2 Dreamdusts] ATK +30",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920109": {
+    "Id": 920109,
+    "Name": "[2 Dreamdusts] HP +1,000, Armor +300",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920110": {
+    "Id": 920110,
+    "Name": "Enter Dreams",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920111": {
+    "Id": 920111,
+    "Name": "[2 Dreamdusts] Crit +400",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920112": {
+    "Id": 920112,
+    "Name": "[2 Dreamdusts] Haste +400",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920113": {
+    "Id": 920113,
+    "Name": "[2 Dreamdusts] Luck +400",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920114": {
+    "Id": 920114,
+    "Name": "[2 Dreamdusts] Mastery +400",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920115": {
+    "Id": 920115,
+    "Name": "Select Initial Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920200": {
+    "Id": 920200,
+    "Name": "Start Dreamscape",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920201": {
+    "Id": 920201,
+    "Name": "Awaken from Dreamscape",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920202": {
+    "Id": 920202,
+    "Name": "Remove Slumberdream State [100 Remnants]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920203": {
+    "Id": 920203,
+    "Name": "Open",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920204": {
+    "Id": 920204,
+    "Name": "Start Event",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920205": {
+    "Id": 920205,
+    "Name": "Activate Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920206": {
+    "Id": 920206,
+    "Name": "Upgrade Entry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920207": {
+    "Id": 920207,
+    "Name": "Pick Up Parts",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "920208": {
+    "Id": 920208,
+    "Name": "Repair Device",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "920209": {
+    "Id": 920209,
+    "Name": "Equip Mask",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "920210": {
+    "Id": 920210,
+    "Name": "Disperse Fog",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "920211": {
+    "Id": 920211,
+    "Name": "Remove Mask",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "920212": {
+    "Id": 920212,
+    "Name": "Collect Node",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "920213": {
+    "Id": 920213,
+    "Name": "Remove Slumberdream State [Less than 100 Remnants]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920214": {
+    "Id": 920214,
+    "Name": "Remove Barrier",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920215": {
+    "Id": 920215,
+    "Name": "Enter the Space Rift",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920216": {
+    "Id": 920216,
+    "Name": "Leave the Space Rift",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920217": {
+    "Id": 920217,
+    "Name": "Select Strength",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920218": {
+    "Id": 920218,
+    "Name": "Select Wealth",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920219": {
+    "Id": 920219,
+    "Name": "I Want Both",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "920220": {
+    "Id": 920220,
+    "Name": "Forcefully Awaken [Lose 50% Remnants]",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1030049": {
+    "Id": 1030049,
+    "Name": "Old Envelope",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "1030050": {
+    "Id": 1030050,
+    "Name": "Enter the Mustard Tavern.",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1030051": {
+    "Id": 1030051,
+    "Name": "Chat with the people in the Mining Zone.",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "1030052": {
+    "Id": 1030052,
+    "Name": "Illusory Plague monsters are attacking.",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "FunctionOrder": []
+  },
+  "1030053": {
+    "Id": 1030053,
+    "Name": "Delve deeper into the cave.",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "FunctionOrder": []
+  },
+  "1030054": {
+    "Id": 1030054,
+    "Name": "Inspect the rock wall",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -4245,14 +6186,21 @@
     "Id": 1090101,
     "Name": "Cook Meal",
     "BtnType": 1,
-    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "1090102": {
+    "Id": 1090102,
+    "Name": "Knock",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
   "1090201": {
     "Id": 1090201,
     "Name": "Complete Box-Moving Minigame",
     "BtnType": 1,
-    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
   "1090301": {
@@ -4563,6 +6511,76 @@
     "IconPath": "ui/atlas/npc/talk_icon_hand",
     "FunctionOrder": []
   },
+  "1203050": {
+    "Id": 1203050,
+    "Name": "Cooking Pot",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_cook",
+    "FunctionOrder": []
+  },
+  "1203051": {
+    "Id": 1203051,
+    "Name": "Chop Vegetables",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "1203052": {
+    "Id": 1203052,
+    "Name": "Place on Dining Table",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "1203053": {
+    "Id": 1203053,
+    "Name": "Tomato",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_75",
+    "FunctionOrder": []
+  },
+  "1203054": {
+    "Id": 1203054,
+    "Name": "Fish",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_61",
+    "FunctionOrder": []
+  },
+  "1203055": {
+    "Id": 1203055,
+    "Name": "Mushrooms",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_46",
+    "FunctionOrder": []
+  },
+  "1203056": {
+    "Id": 1203056,
+    "Name": "Meat",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_62",
+    "FunctionOrder": []
+  },
+  "1203057": {
+    "Id": 1203057,
+    "Name": "Meat and Mushroom Stir-Fry",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "1203058": {
+    "Id": 1203058,
+    "Name": "Chopped Mushrooms",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_46",
+    "FunctionOrder": []
+  },
+  "1203059": {
+    "Id": 1203059,
+    "Name": "Chopped Meat",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_62",
+    "FunctionOrder": []
+  },
   "1302001": {
     "Id": 1302001,
     "Name": "Radical's Notes",
@@ -4626,6 +6644,13 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
+  "1600001": {
+    "Id": 1600001,
+    "Name": "Ignite the Altar",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
   "2000101": {
     "Id": 2000101,
     "Name": "About the trial",
@@ -4640,9 +6665,79 @@
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
   },
+  "2002101": {
+    "Id": 2002101,
+    "Name": "Use the signal detector.",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
   "3000001": {
     "Id": 3000001,
     "Name": "Wait for nightfall",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "3000002": {
+    "Id": 3000002,
+    "Name": "Confiscated Little Bow",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "3000003": {
+    "Id": 3000003,
+    "Name": "Something Shiny",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "3000004": {
+    "Id": 3000004,
+    "Name": "Talk about what to do with Pheebo.",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "3000005": {
+    "Id": 3000005,
+    "Name": "Fullmoon Soulgrass",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "3000006": {
+    "Id": 3000006,
+    "Name": "Stroll Through the Woods",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "3000007": {
+    "Id": 3000007,
+    "Name": "The Mists of History",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
+  "3000008": {
+    "Id": 3000008,
+    "Name": "Damaged Golem",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "3000009": {
+    "Id": 3000009,
+    "Name": "Engram Caprahorn",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "3000010": {
+    "Id": 3000010,
+    "Name": "Cabbage Rescue",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
@@ -4719,7 +6814,28 @@
   },
   "3021001": {
     "Id": 3021001,
-    "Name": "Touch",
+    "Name": "Dark Rift Hiding a Ferocious Beast",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "3021002": {
+    "Id": 3021002,
+    "Name": "Seal the malevolent Dark Rift",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "3021003": {
+    "Id": 3021003,
+    "Name": "Disperse the frenzied Dark Rift",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
+    "FunctionOrder": []
+  },
+  "3021004": {
+    "Id": 3021004,
+    "Name": "Activate the device to complete the fusion",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
@@ -4740,7 +6856,7 @@
   },
   "3040202": {
     "Id": 3040202,
-    "Name": "Sharp dagger",
+    "Name": "Sharp Dagger",
     "BtnType": 0,
     "IconPath": "ui/atlas/npc/talk_icon_evn",
     "FunctionOrder": []
@@ -4787,6 +6903,20 @@
     "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
+  "3063001": {
+    "Id": 3063001,
+    "Name": "Make camp",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "3063501": {
+    "Id": 3063501,
+    "Name": "Wait quietly",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_evn",
+    "FunctionOrder": []
+  },
   "3070801": {
     "Id": 3070801,
     "Name": "Vines",
@@ -4820,6 +6950,41 @@
     "Name": "Expel murlocs!",
     "BtnType": 1,
     "IconPath": "ui/atlas/npc/talk_icon_battle",
+    "FunctionOrder": []
+  },
+  "5010201": {
+    "Id": 5010201,
+    "Name": "Shell",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "5010202": {
+    "Id": 5010202,
+    "Name": "Fruit",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "5010203": {
+    "Id": 5010203,
+    "Name": "Pack presents",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_hand",
+    "FunctionOrder": []
+  },
+  "5702001": {
+    "Id": 5702001,
+    "Name": "Transform into a snowman!",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_union_59",
+    "FunctionOrder": []
+  },
+  "6439001": {
+    "Id": 6439001,
+    "Name": "Inquire",
+    "BtnType": 1,
+    "IconPath": "ui/atlas/npc/talk_icon_chat",
     "FunctionOrder": []
   },
   "17100101": {

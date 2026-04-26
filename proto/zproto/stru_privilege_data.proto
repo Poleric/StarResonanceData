@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_launch_platform.proto";
 import "stru_dirty_mask.proto";
 
-message PrivilegeData {
-  zproto.LaunchPlatform launch_platform = 1;
-  bool is_privilege = 2;
-  int64 last_update_time = 3;
-}
+package zproto;
 
+message PrivilegeData {
+	LaunchPlatform launchPlatform = 1 [json_name = "launchPlatform"];
+	bool isPrivilege = 2 [json_name = "isPrivilege"];
+	int64 lastUpdateTime = 3 [json_name = "lastUpdateTime"];
+}

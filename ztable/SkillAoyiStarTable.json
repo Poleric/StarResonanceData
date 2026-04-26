@@ -2,7 +2,7 @@
   "1": {
     "Id": 1,
     "Name": "Modification 1",
-    "Des": "Stunt! Chaotic Barrage 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3910,
     "Level": 1,
     "FloatParameter": [],
@@ -37,25 +37,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "2": {
     "Id": 2,
     "Name": "Modification 2",
-    "Des": "Stunt! Chaotic Barrage 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3910,
     "Level": 2,
     "FloatParameter": [],
@@ -90,25 +78,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "3": {
     "Id": 3,
     "Name": "Modification 3",
-    "Des": "Stunt! Chaotic Barrage 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3910,
     "Level": 3,
     "FloatParameter": [],
@@ -143,25 +119,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "4": {
     "Id": 4,
     "Name": "Modification 4",
-    "Des": "Stunt! Chaotic Barrage 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3910,
     "Level": 4,
     "FloatParameter": [],
@@ -196,25 +160,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "5": {
     "Id": 5,
     "Name": "Modification 5",
-    "Des": "Stunt! Chaotic Barrage 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3910,
     "Level": 5,
     "FloatParameter": [],
@@ -249,25 +201,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "6": {
     "Id": 6,
     "Name": "Modification 1",
-    "Des": "Stunt! Super Critical 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3904,
     "Level": 1,
     "FloatParameter": [
@@ -277,7 +217,15 @@
       ],
       [
         "attrAdd",
-        "80"
+        "358"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "358"
       ]
     ],
     "UlockSkillLevel": [
@@ -315,25 +263,13 @@
       ]
     ],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "7": {
     "Id": 7,
     "Name": "Modification 2",
-    "Des": "Stunt! Super Critical 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3904,
     "Level": 2,
     "FloatParameter": [
@@ -343,7 +279,15 @@
       ],
       [
         "attrAdd",
-        "160"
+        "716"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "716"
       ]
     ],
     "UlockSkillLevel": [
@@ -381,25 +325,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "8": {
     "Id": 8,
     "Name": "Modification 3",
-    "Des": "Stunt! Super Critical 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3904,
     "Level": 3,
     "FloatParameter": [
@@ -409,7 +341,15 @@
       ],
       [
         "attrAdd",
-        "240"
+        "1075"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1075"
       ]
     ],
     "UlockSkillLevel": [
@@ -452,25 +392,13 @@
       ]
     ],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "9": {
     "Id": 9,
     "Name": "Modification 4",
-    "Des": "Stunt! Super Critical 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3904,
     "Level": 4,
     "FloatParameter": [
@@ -480,7 +408,15 @@
       ],
       [
         "attrAdd",
-        "320"
+        "1433"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1433"
       ]
     ],
     "UlockSkillLevel": [
@@ -523,25 +459,13 @@
       ]
     ],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "10": {
     "Id": 10,
     "Name": "Modification 5",
-    "Des": "Stunt! Super Critical 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3904,
     "Level": 5,
     "FloatParameter": [
@@ -551,7 +475,15 @@
       ],
       [
         "attrAdd",
-        "400"
+        "1792"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1792"
       ]
     ],
     "UlockSkillLevel": [
@@ -594,25 +526,13 @@
       ]
     ],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "11": {
     "Id": 11,
     "Name": "Modification 1",
-    "Des": "Stunt! Falling Star 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3907,
     "Level": 1,
     "FloatParameter": [
@@ -652,25 +572,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "12": {
     "Id": 12,
     "Name": "Modification 2",
-    "Des": "Stunt! Falling Star 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3907,
     "Level": 2,
     "FloatParameter": [
@@ -710,25 +618,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "13": {
     "Id": 13,
     "Name": "Modification 3",
-    "Des": "Stunt! Falling Star 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3907,
     "Level": 3,
     "FloatParameter": [
@@ -773,25 +669,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "14": {
     "Id": 14,
     "Name": "Modification 4",
-    "Des": "Stunt! Falling Star 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3907,
     "Level": 4,
     "FloatParameter": [
@@ -836,25 +720,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "15": {
     "Id": 15,
     "Name": "Modification 5",
-    "Des": "Stunt! Falling Star 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3907,
     "Level": 5,
     "FloatParameter": [
@@ -899,25 +771,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "16": {
     "Id": 16,
     "Name": "Modification 1",
-    "Des": "Stunt! Electro Bomb 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3913,
     "Level": 1,
     "FloatParameter": [
@@ -961,25 +821,13 @@
       ]
     ],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "17": {
     "Id": 17,
     "Name": "Modification 2",
-    "Des": "Stunt! Electro Bomb 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3913,
     "Level": 2,
     "FloatParameter": [
@@ -1023,25 +871,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "18": {
     "Id": 18,
     "Name": "Modification 3",
-    "Des": "Stunt! Electro Bomb 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3913,
     "Level": 3,
     "FloatParameter": [
@@ -1090,25 +926,13 @@
       ]
     ],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "19": {
     "Id": 19,
     "Name": "Modification 4",
-    "Des": "Stunt! Electro Bomb 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3913,
     "Level": 4,
     "FloatParameter": [
@@ -1157,25 +981,13 @@
       ]
     ],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "20": {
     "Id": 20,
     "Name": "Modification 5",
-    "Des": "Stunt! Electro Bomb 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3913,
     "Level": 5,
     "FloatParameter": [
@@ -1224,25 +1036,13 @@
       ]
     ],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "21": {
     "Id": 21,
     "Name": "Modification 1",
-    "Des": "Stunt! Boarrier Rush 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3905,
     "Level": 1,
     "FloatParameter": [
@@ -1286,25 +1086,13 @@
       ]
     ],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "22": {
     "Id": 22,
     "Name": "Modification 2",
-    "Des": "Stunt! Boarrier Rush 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3905,
     "Level": 2,
     "FloatParameter": [
@@ -1348,25 +1136,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "23": {
     "Id": 23,
     "Name": "Modification 3",
-    "Des": "Stunt! Boarrier Rush 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3905,
     "Level": 3,
     "FloatParameter": [
@@ -1415,25 +1191,13 @@
       ]
     ],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "24": {
     "Id": 24,
     "Name": "Modification 4",
-    "Des": "Stunt! Boarrier Rush 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3905,
     "Level": 4,
     "FloatParameter": [
@@ -1482,25 +1246,13 @@
       ]
     ],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "25": {
     "Id": 25,
     "Name": "Modification 5",
-    "Des": "Stunt! Boarrier Rush 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3905,
     "Level": 5,
     "FloatParameter": [
@@ -1549,25 +1301,13 @@
       ]
     ],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "26": {
     "Id": 26,
     "Name": "Modification 1",
-    "Des": "Ultimate! Pulse Benediction 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3908,
     "Level": 1,
     "FloatParameter": [
@@ -1617,25 +1357,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "27": {
     "Id": 27,
     "Name": "Modification 2",
-    "Des": "Ultimate! Pulse Benediction 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3908,
     "Level": 2,
     "FloatParameter": [
@@ -1685,25 +1413,13 @@
       ]
     ],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "28": {
     "Id": 28,
     "Name": "Modification 3",
-    "Des": "Ultimate! Pulse Benediction 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3908,
     "Level": 3,
     "FloatParameter": [
@@ -1758,25 +1474,13 @@
       ]
     ],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "29": {
     "Id": 29,
     "Name": "Modification 4",
-    "Des": "Ultimate! Pulse Benediction 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3908,
     "Level": 4,
     "FloatParameter": [
@@ -1831,25 +1535,13 @@
       ]
     ],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "30": {
     "Id": 30,
     "Name": "Modification 5",
-    "Des": "Ultimate! Pulse Benediction 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3908,
     "Level": 5,
     "FloatParameter": [
@@ -1916,12 +1608,13 @@
       2.0,
       2.0,
       2.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "31": {
     "Id": 31,
     "Name": "Modification 1",
-    "Des": "Ultimate! Blessing of Life 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3920,
     "Level": 1,
     "FloatParameter": [
@@ -1975,25 +1668,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "32": {
     "Id": 32,
     "Name": "Modification 2",
-    "Des": "Ultimate! Blessing of Life 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3920,
     "Level": 2,
     "FloatParameter": [
@@ -2047,25 +1728,13 @@
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "33": {
     "Id": 33,
     "Name": "Modification 3",
-    "Des": "Ultimate! Blessing of Life 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3920,
     "Level": 3,
     "FloatParameter": [
@@ -2124,25 +1793,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "34": {
     "Id": 34,
     "Name": "Modification 4",
-    "Des": "Ultimate! Blessing of Life 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3920,
     "Level": 4,
     "FloatParameter": [
@@ -2201,25 +1858,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "35": {
     "Id": 35,
     "Name": "Modification 5",
-    "Des": "Ultimate! Blessing of Life 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3920,
     "Level": 5,
     "FloatParameter": [
@@ -2290,12 +1935,13 @@
       1.2,
       1.2,
       1.2
-    ]
+    ],
+    "BondsFraction": 12
   },
   "36": {
     "Id": 36,
     "Name": "Modification 1",
-    "Des": "Ultimate! Thunderfall Grasp 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3902,
     "Level": 1,
     "FloatParameter": [],
@@ -2336,25 +1982,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "37": {
     "Id": 37,
     "Name": "Modification 2",
-    "Des": "Ultimate! Thunderfall Grasp 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3902,
     "Level": 2,
     "FloatParameter": [],
@@ -2395,25 +2029,13 @@
       ]
     ],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "38": {
     "Id": 38,
     "Name": "Modification 3",
-    "Des": "Ultimate! Thunderfall Grasp 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3902,
     "Level": 3,
     "FloatParameter": [],
@@ -2459,25 +2081,13 @@
       ]
     ],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "39": {
     "Id": 39,
     "Name": "Modification 4",
-    "Des": "Ultimate! Thunderfall Grasp 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3902,
     "Level": 4,
     "FloatParameter": [],
@@ -2523,25 +2133,13 @@
       ]
     ],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "40": {
     "Id": 40,
     "Name": "Modification 5",
-    "Des": "Ultimate! Thunderfall Grasp 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3902,
     "Level": 5,
     "FloatParameter": [],
@@ -2599,12 +2197,13 @@
       5.0,
       5.0,
       5.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "41": {
     "Id": 41,
     "Name": "Modification 1",
-    "Des": "Ultimate! Frostquake 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3906,
     "Level": 1,
     "FloatParameter": [
@@ -2644,25 +2243,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "42": {
     "Id": 42,
     "Name": "Modification 2",
-    "Des": "Ultimate! Frostquake 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3906,
     "Level": 2,
     "FloatParameter": [
@@ -2702,25 +2289,13 @@
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "43": {
     "Id": 43,
     "Name": "Modification 3",
-    "Des": "Ultimate! Frostquake 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3906,
     "Level": 3,
     "FloatParameter": [
@@ -2765,25 +2340,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "44": {
     "Id": 44,
     "Name": "Modification 4",
-    "Des": "Ultimate! Frostquake 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3906,
     "Level": 4,
     "FloatParameter": [
@@ -2828,25 +2391,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "45": {
     "Id": 45,
     "Name": "Modification 5",
-    "Des": "Ultimate! Frostquake 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3906,
     "Level": 5,
     "FloatParameter": [
@@ -2903,12 +2454,13 @@
       5.0,
       5.0,
       5.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "46": {
     "Id": 46,
     "Name": "Modification 1",
-    "Des": "Ultimate! Time Decree 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3921,
     "Level": 1,
     "FloatParameter": [
@@ -2958,25 +2510,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "47": {
     "Id": 47,
     "Name": "Modification 2",
-    "Des": "Ultimate! Time Decree 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3921,
     "Level": 2,
     "FloatParameter": [
@@ -3026,25 +2566,13 @@
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "48": {
     "Id": 48,
     "Name": "Modification 3",
-    "Des": "Ultimate! Time Decree 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3921,
     "Level": 3,
     "FloatParameter": [
@@ -3099,25 +2627,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "49": {
     "Id": 49,
     "Name": "Modification 4",
-    "Des": "Ultimate! Time Decree 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3921,
     "Level": 4,
     "FloatParameter": [
@@ -3172,25 +2688,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "50": {
     "Id": 50,
     "Name": "Modification 5",
-    "Des": "Ultimate! Time Decree 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3921,
     "Level": 5,
     "FloatParameter": [
@@ -3257,12 +2761,13 @@
       1.2,
       1.2,
       1.2
-    ]
+    ],
+    "BondsFraction": 12
   },
   "51": {
     "Id": 51,
     "Name": "Modification 1",
-    "Des": "Ultimate! Flame Roar 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3901,
     "Level": 1,
     "FloatParameter": [],
@@ -3302,25 +2807,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "52": {
     "Id": 52,
     "Name": "Modification 2",
-    "Des": "Ultimate! Flame Roar 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3901,
     "Level": 2,
     "FloatParameter": [],
@@ -3360,25 +2853,13 @@
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "53": {
     "Id": 53,
     "Name": "Modification 3",
-    "Des": "Ultimate! Flame Roar 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3901,
     "Level": 3,
     "FloatParameter": [],
@@ -3423,25 +2904,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "54": {
     "Id": 54,
     "Name": "Modification 4",
-    "Des": "Ultimate! Flame Roar 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3901,
     "Level": 4,
     "FloatParameter": [],
@@ -3486,25 +2955,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "55": {
     "Id": 55,
     "Name": "Modification 5",
-    "Des": "Ultimate! Flame Roar 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3901,
     "Level": 5,
     "FloatParameter": [],
@@ -3561,12 +3018,13 @@
       5.0,
       5.0,
       5.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "56": {
     "Id": 56,
     "Name": "Modification 1",
-    "Des": "Ultimate! Blazing Axe 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3903,
     "Level": 1,
     "FloatParameter": [
@@ -3614,25 +3072,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "57": {
     "Id": 57,
     "Name": "Modification 2",
-    "Des": "Ultimate! Blazing Axe 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3903,
     "Level": 2,
     "FloatParameter": [
@@ -3680,25 +3126,13 @@
       ]
     ],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "58": {
     "Id": 58,
     "Name": "Modification 3",
-    "Des": "Ultimate! Blazing Axe 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3903,
     "Level": 3,
     "FloatParameter": [
@@ -3751,25 +3185,13 @@
       ]
     ],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "59": {
     "Id": 59,
     "Name": "Modification 4",
-    "Des": "Ultimate! Blazing Axe 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3903,
     "Level": 4,
     "FloatParameter": [
@@ -3822,25 +3244,13 @@
       ]
     ],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "60": {
     "Id": 60,
     "Name": "Modification 5",
-    "Des": "Ultimate! Blazing Axe 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3903,
     "Level": 5,
     "FloatParameter": [
@@ -3905,12 +3315,13 @@
       1.5,
       1.5,
       1.5
-    ]
+    ],
+    "BondsFraction": 12
   },
   "61": {
     "Id": 61,
     "Name": "Modification 1",
-    "Des": "Stunt! Blade Sweep 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3914,
     "Level": 1,
     "FloatParameter": [
@@ -3949,30 +3360,18 @@
       [
         1,
         11172,
-        260
+        1159
       ]
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "62": {
     "Id": 62,
     "Name": "Modification 2",
-    "Des": "Stunt! Blade Sweep 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3914,
     "Level": 2,
     "FloatParameter": [
@@ -4011,30 +3410,18 @@
       [
         1,
         11172,
-        320
+        1422
       ]
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "63": {
     "Id": 63,
     "Name": "Modification 3",
-    "Des": "Stunt! Blade Sweep 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3914,
     "Level": 3,
     "FloatParameter": [
@@ -4073,7 +3460,7 @@
       [
         1,
         11172,
-        380
+        1685
       ],
       [
         8,
@@ -4083,25 +3470,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "64": {
     "Id": 64,
     "Name": "Modification 4",
-    "Des": "Stunt! Blade Sweep 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3914,
     "Level": 4,
     "FloatParameter": [
@@ -4140,7 +3515,7 @@
       [
         1,
         11172,
-        440
+        1948
       ],
       [
         8,
@@ -4150,25 +3525,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "65": {
     "Id": 65,
     "Name": "Modification 5",
-    "Des": "Stunt! Blade Sweep 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3914,
     "Level": 5,
     "FloatParameter": [
@@ -4207,7 +3570,7 @@
       [
         1,
         11172,
-        500
+        2240
       ],
       [
         8,
@@ -4217,25 +3580,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "66": {
     "Id": 66,
     "Name": "Modification 1",
-    "Des": "Stunt! Frenzied Shot 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3915,
     "Level": 1,
     "FloatParameter": [
@@ -4245,7 +3596,15 @@
       ],
       [
         "attrAdd",
-        "80"
+        "358"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "358"
       ]
     ],
     "UlockSkillLevel": [
@@ -4283,25 +3642,13 @@
       ]
     ],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "67": {
     "Id": 67,
     "Name": "Modification 2",
-    "Des": "Stunt! Frenzied Shot 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3915,
     "Level": 2,
     "FloatParameter": [
@@ -4311,7 +3658,15 @@
       ],
       [
         "attrAdd",
-        "160"
+        "716"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "716"
       ]
     ],
     "UlockSkillLevel": [
@@ -4349,25 +3704,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "68": {
     "Id": 68,
     "Name": "Modification 3",
-    "Des": "Stunt! Frenzied Shot 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3915,
     "Level": 3,
     "FloatParameter": [
@@ -4377,7 +3720,15 @@
       ],
       [
         "attrAdd",
-        "240"
+        "1075"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1075"
       ]
     ],
     "UlockSkillLevel": [
@@ -4420,25 +3771,13 @@
       ]
     ],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "69": {
     "Id": 69,
     "Name": "Modification 4",
-    "Des": "Stunt! Frenzied Shot 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3915,
     "Level": 4,
     "FloatParameter": [
@@ -4448,7 +3787,15 @@
       ],
       [
         "attrAdd",
-        "320"
+        "1433"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1433"
       ]
     ],
     "UlockSkillLevel": [
@@ -4491,25 +3838,13 @@
       ]
     ],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "70": {
     "Id": 70,
     "Name": "Modification 5",
-    "Des": "Stunt! Frenzied Shot 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3915,
     "Level": 5,
     "FloatParameter": [
@@ -4519,7 +3854,15 @@
       ],
       [
         "attrAdd",
-        "400"
+        "1792"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1792"
       ]
     ],
     "UlockSkillLevel": [
@@ -4562,25 +3905,13 @@
       ]
     ],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "71": {
     "Id": 71,
     "Name": "Modification 1",
-    "Des": "Stunt! Heavy Slash 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3917,
     "Level": 1,
     "FloatParameter": [],
@@ -4619,25 +3950,13 @@
       ]
     ],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "72": {
     "Id": 72,
     "Name": "Modification 2",
-    "Des": "Stunt! Heavy Slash 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3917,
     "Level": 2,
     "FloatParameter": [],
@@ -4676,25 +3995,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "73": {
     "Id": 73,
     "Name": "Modification 3",
-    "Des": "Stunt! Heavy Slash 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3917,
     "Level": 3,
     "FloatParameter": [],
@@ -4738,25 +4045,13 @@
       ]
     ],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "74": {
     "Id": 74,
     "Name": "Modification 4",
-    "Des": "Stunt! Heavy Slash 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3917,
     "Level": 4,
     "FloatParameter": [],
@@ -4800,25 +4095,13 @@
       ]
     ],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "75": {
     "Id": 75,
     "Name": "Modification 5",
-    "Des": "Stunt! Heavy Slash 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3917,
     "Level": 5,
     "FloatParameter": [],
@@ -4862,25 +4145,13 @@
       ]
     ],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "76": {
     "Id": 76,
     "Name": "Modification 1",
-    "Des": "Ultimate! Flash Execution 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3922,
     "Level": 1,
     "FloatParameter": [
@@ -4930,25 +4201,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "77": {
     "Id": 77,
     "Name": "Modification 2",
-    "Des": "Ultimate! Flash Execution 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3922,
     "Level": 2,
     "FloatParameter": [
@@ -4998,25 +4257,13 @@
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "78": {
     "Id": 78,
     "Name": "Modification 3",
-    "Des": "Ultimate! Flash Execution 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3922,
     "Level": 3,
     "FloatParameter": [
@@ -5071,25 +4318,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "79": {
     "Id": 79,
     "Name": "Modification 4",
-    "Des": "Ultimate! Flash Execution 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3922,
     "Level": 4,
     "FloatParameter": [
@@ -5144,25 +4379,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "80": {
     "Id": 80,
     "Name": "Modification 5",
-    "Des": "Ultimate! Flash Execution 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3922,
     "Level": 5,
     "FloatParameter": [
@@ -5229,12 +4452,13 @@
       1.5,
       1.5,
       1.5
-    ]
+    ],
+    "BondsFraction": 12
   },
   "81": {
     "Id": 81,
     "Name": "Modification 1",
-    "Des": "Ultimate! Furious Hammer 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3923,
     "Level": 1,
     "FloatParameter": [
@@ -5244,7 +4468,15 @@
       ],
       [
         "attrAdd",
-        "100"
+        "448"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "448"
       ]
     ],
     "UlockSkillLevel": [
@@ -5278,25 +4510,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "82": {
     "Id": 82,
     "Name": "Modification 2",
-    "Des": "Ultimate! Furious Hammer 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3923,
     "Level": 2,
     "FloatParameter": [
@@ -5306,7 +4526,15 @@
       ],
       [
         "attrAdd",
-        "200"
+        "896"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "896"
       ]
     ],
     "UlockSkillLevel": [
@@ -5340,25 +4568,13 @@
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "83": {
     "Id": 83,
     "Name": "Modification 3",
-    "Des": "Ultimate! Furious Hammer 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3923,
     "Level": 3,
     "FloatParameter": [
@@ -5368,7 +4584,15 @@
       ],
       [
         "attrAdd",
-        "300"
+        "1344"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1344"
       ]
     ],
     "UlockSkillLevel": [
@@ -5407,25 +4631,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "84": {
     "Id": 84,
     "Name": "Modification 4",
-    "Des": "Ultimate! Furious Hammer 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3923,
     "Level": 4,
     "FloatParameter": [
@@ -5435,7 +4647,15 @@
       ],
       [
         "attrAdd",
-        "400"
+        "1792"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1792"
       ]
     ],
     "UlockSkillLevel": [
@@ -5474,25 +4694,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "85": {
     "Id": 85,
     "Name": "Modification 5",
-    "Des": "Ultimate! Furious Hammer 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3923,
     "Level": 5,
     "FloatParameter": [
@@ -5502,7 +4710,15 @@
       ],
       [
         "attrAdd",
-        "500"
+        "2240"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "2240"
       ]
     ],
     "UlockSkillLevel": [
@@ -5553,12 +4769,13 @@
       2.0,
       2.0,
       2.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "86": {
     "Id": 86,
     "Name": "Modification 1",
-    "Des": "Stunt! Invisible Impact 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3925,
     "Level": 1,
     "FloatParameter": [
@@ -5598,25 +4815,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "87": {
     "Id": 87,
     "Name": "Modification 2",
-    "Des": "Stunt! Invisible Impact 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3925,
     "Level": 2,
     "FloatParameter": [
@@ -5656,25 +4861,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "88": {
     "Id": 88,
     "Name": "Modification 3",
-    "Des": "Stunt! Invisible Impact 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3925,
     "Level": 3,
     "FloatParameter": [
@@ -5719,25 +4912,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "89": {
     "Id": 89,
     "Name": "Modification 4",
-    "Des": "Stunt! Invisible Impact 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3925,
     "Level": 4,
     "FloatParameter": [
@@ -5782,25 +4963,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "90": {
     "Id": 90,
     "Name": "Modification 5",
-    "Des": "Stunt! Invisible Impact 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3925,
     "Level": 5,
     "FloatParameter": [
@@ -5845,25 +5014,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "91": {
     "Id": 91,
     "Name": "Modification 1",
-    "Des": "Ultimate! Meteorfall 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3926,
     "Level": 1,
     "FloatParameter": [
@@ -5873,7 +5030,15 @@
       ],
       [
         "attrAdd",
-        "100"
+        "448"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "448"
       ]
     ],
     "UlockSkillLevel": [
@@ -5911,25 +5076,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "92": {
     "Id": 92,
     "Name": "Modification 2",
-    "Des": "Ultimate! Meteorfall 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3926,
     "Level": 2,
     "FloatParameter": [
@@ -5939,7 +5092,15 @@
       ],
       [
         "attrAdd",
-        "200"
+        "896"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "896"
       ]
     ],
     "UlockSkillLevel": [
@@ -5977,25 +5138,13 @@
       ]
     ],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "93": {
     "Id": 93,
     "Name": "Modification 3",
-    "Des": "Ultimate! Meteorfall 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3926,
     "Level": 3,
     "FloatParameter": [
@@ -6005,7 +5154,15 @@
       ],
       [
         "attrAdd",
-        "300"
+        "1344"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1344"
       ]
     ],
     "UlockSkillLevel": [
@@ -6048,25 +5205,13 @@
       ]
     ],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "94": {
     "Id": 94,
     "Name": "Modification 4",
-    "Des": "Ultimate! Meteorfall 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3926,
     "Level": 4,
     "FloatParameter": [
@@ -6076,7 +5221,15 @@
       ],
       [
         "attrAdd",
-        "400"
+        "1792"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1792"
       ]
     ],
     "UlockSkillLevel": [
@@ -6119,25 +5272,13 @@
       ]
     ],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "95": {
     "Id": 95,
     "Name": "Modification 5",
-    "Des": "Ultimate! Meteorfall 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3926,
     "Level": 5,
     "FloatParameter": [
@@ -6147,7 +5288,15 @@
       ],
       [
         "attrAdd",
-        "500"
+        "2240"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "2240"
       ]
     ],
     "UlockSkillLevel": [
@@ -6202,12 +5351,13 @@
       2.5,
       2.5,
       2.5
-    ]
+    ],
+    "BondsFraction": 12
   },
   "96": {
     "Id": 96,
     "Name": "Modification 1",
-    "Des": "Stunt! Commanding Roar 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3927,
     "Level": 1,
     "FloatParameter": [
@@ -6247,25 +5397,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "97": {
     "Id": 97,
     "Name": "Modification 2",
-    "Des": "Stunt! Commanding Roar 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3927,
     "Level": 2,
     "FloatParameter": [
@@ -6305,25 +5443,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "98": {
     "Id": 98,
     "Name": "Modification 3",
-    "Des": "Stunt! Commanding Roar 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3927,
     "Level": 3,
     "FloatParameter": [
@@ -6368,25 +5494,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "99": {
     "Id": 99,
     "Name": "Modification 4",
-    "Des": "Stunt! Commanding Roar 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3927,
     "Level": 4,
     "FloatParameter": [
@@ -6431,25 +5545,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "100": {
     "Id": 100,
     "Name": "Modification 5",
-    "Des": "Stunt! Commanding Roar 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3927,
     "Level": 5,
     "FloatParameter": [
@@ -6494,25 +5596,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "101": {
     "Id": 101,
     "Name": "Modification 1",
-    "Des": "Stunt! Predator Slash 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3928,
     "Level": 1,
     "FloatParameter": [
@@ -6556,25 +5646,13 @@
       ]
     ],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "102": {
     "Id": 102,
     "Name": "Modification 2",
-    "Des": "Stunt! Predator Slash 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3928,
     "Level": 2,
     "FloatParameter": [
@@ -6618,25 +5696,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "103": {
     "Id": 103,
     "Name": "Modification 3",
-    "Des": "Stunt! Predator Slash 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3928,
     "Level": 3,
     "FloatParameter": [
@@ -6685,25 +5751,13 @@
       ]
     ],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "104": {
     "Id": 104,
     "Name": "Modification 4",
-    "Des": "Stunt! Predator Slash 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3928,
     "Level": 4,
     "FloatParameter": [
@@ -6752,25 +5806,13 @@
       ]
     ],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "105": {
     "Id": 105,
     "Name": "Modification 5",
-    "Des": "Stunt! Predator Slash 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3928,
     "Level": 5,
     "FloatParameter": [
@@ -6819,25 +5861,13 @@
       ]
     ],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "106": {
     "Id": 106,
     "Name": "Modification 1",
-    "Des": "Stunt! Shell Defense 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3929,
     "Level": 1,
     "FloatParameter": [],
@@ -6877,25 +5907,13 @@
       ]
     ],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "107": {
     "Id": 107,
     "Name": "Modification 2",
-    "Des": "Stunt! Shell Defense 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3929,
     "Level": 2,
     "FloatParameter": [],
@@ -6935,25 +5953,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "108": {
     "Id": 108,
     "Name": "Modification 3",
-    "Des": "Stunt! Shell Defense 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3929,
     "Level": 3,
     "FloatParameter": [],
@@ -6998,25 +6004,13 @@
       ]
     ],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "109": {
     "Id": 109,
     "Name": "Modification 4",
-    "Des": "Stunt! Shell Defense 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3929,
     "Level": 4,
     "FloatParameter": [],
@@ -7061,25 +6055,13 @@
       ]
     ],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "110": {
     "Id": 110,
     "Name": "Modification 5",
-    "Des": "Stunt! Shell Defense 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3929,
     "Level": 5,
     "FloatParameter": [],
@@ -7124,25 +6106,13 @@
       ]
     ],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "111": {
     "Id": 111,
     "Name": "Modification 1",
-    "Des": "Stunt! Earth Shield 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3930,
     "Level": 1,
     "FloatParameter": [
@@ -7186,25 +6156,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "112": {
     "Id": 112,
     "Name": "Modification 2",
-    "Des": "Stunt! Earth Shield 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3930,
     "Level": 2,
     "FloatParameter": [
@@ -7248,25 +6206,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "113": {
     "Id": 113,
     "Name": "Modification 3",
-    "Des": "Stunt! Earth Shield 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3930,
     "Level": 3,
     "FloatParameter": [
@@ -7315,25 +6261,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "114": {
     "Id": 114,
     "Name": "Modification 4",
-    "Des": "Stunt! Earth Shield 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3930,
     "Level": 4,
     "FloatParameter": [
@@ -7382,25 +6316,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "115": {
     "Id": 115,
     "Name": "Modification 5",
-    "Des": "Stunt! Earth Shield 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3930,
     "Level": 5,
     "FloatParameter": [
@@ -7449,25 +6371,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "116": {
     "Id": 116,
     "Name": "Modification 1",
-    "Des": "Stunt! Blink Ambush 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3934,
     "Level": 1,
     "FloatParameter": [
@@ -7507,25 +6417,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "117": {
     "Id": 117,
     "Name": "Modification 2",
-    "Des": "Stunt! Blink Ambush 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3934,
     "Level": 2,
     "FloatParameter": [
@@ -7565,25 +6463,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "118": {
     "Id": 118,
     "Name": "Modification 3",
-    "Des": "Stunt! Blink Ambush 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3934,
     "Level": 3,
     "FloatParameter": [
@@ -7628,25 +6514,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "119": {
     "Id": 119,
     "Name": "Modification 4",
-    "Des": "Stunt! Blink Ambush 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3934,
     "Level": 4,
     "FloatParameter": [
@@ -7691,25 +6565,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "120": {
     "Id": 120,
     "Name": "Modification 5",
-    "Des": "Stunt! Blink Ambush 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3934,
     "Level": 5,
     "FloatParameter": [
@@ -7754,25 +6616,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "121": {
     "Id": 121,
     "Name": "Modification 1",
-    "Des": "Ultimate! Thunder Roar 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3935,
     "Level": 1,
     "FloatParameter": [
@@ -7812,25 +6662,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "122": {
     "Id": 122,
     "Name": "Modification 2",
-    "Des": "Ultimate! Thunder Roar 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3935,
     "Level": 2,
     "FloatParameter": [
@@ -7870,25 +6708,13 @@
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "123": {
     "Id": 123,
     "Name": "Modification 3",
-    "Des": "Ultimate! Thunder Roar 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3935,
     "Level": 3,
     "FloatParameter": [
@@ -7933,25 +6759,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "124": {
     "Id": 124,
     "Name": "Modification 4",
-    "Des": "Ultimate! Thunder Roar 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3935,
     "Level": 4,
     "FloatParameter": [
@@ -7996,25 +6810,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "125": {
     "Id": 125,
     "Name": "Modification 5",
-    "Des": "Ultimate! Thunder Roar 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3935,
     "Level": 5,
     "FloatParameter": [
@@ -8071,12 +6873,13 @@
       2.5,
       2.5,
       2.5
-    ]
+    ],
+    "BondsFraction": 12
   },
   "126": {
     "Id": 126,
     "Name": "Modification 1",
-    "Des": "Stunt! Water of Silence 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3936,
     "Level": 1,
     "FloatParameter": [
@@ -8116,25 +6919,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "127": {
     "Id": 127,
     "Name": "Modification 2",
-    "Des": "Stunt! Water of Silence 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3936,
     "Level": 2,
     "FloatParameter": [
@@ -8174,25 +6965,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "128": {
     "Id": 128,
     "Name": "Modification 3",
-    "Des": "Stunt! Water of Silence 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3936,
     "Level": 3,
     "FloatParameter": [
@@ -8237,25 +7016,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "129": {
     "Id": 129,
     "Name": "Modification 4",
-    "Des": "Stunt! Water of Silence 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3936,
     "Level": 4,
     "FloatParameter": [
@@ -8300,25 +7067,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "130": {
     "Id": 130,
     "Name": "Modification 5",
-    "Des": "Stunt! Water of Silence 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3936,
     "Level": 5,
     "FloatParameter": [
@@ -8363,25 +7118,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "131": {
     "Id": 131,
     "Name": "Modification 1",
-    "Des": "Stunt! Thunder Suppress 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3937,
     "Level": 1,
     "FloatParameter": [
@@ -8391,7 +7134,15 @@
       ],
       [
         "attrAdd",
-        "80"
+        "358"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "358"
       ]
     ],
     "UlockSkillLevel": [
@@ -8429,25 +7180,13 @@
       ]
     ],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "132": {
     "Id": 132,
     "Name": "Modification 2",
-    "Des": "Stunt! Thunder Suppress 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3937,
     "Level": 2,
     "FloatParameter": [
@@ -8457,7 +7196,15 @@
       ],
       [
         "attrAdd",
-        "160"
+        "716"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "716"
       ]
     ],
     "UlockSkillLevel": [
@@ -8495,25 +7242,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "133": {
     "Id": 133,
     "Name": "Modification 3",
-    "Des": "Stunt! Thunder Suppress 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3937,
     "Level": 3,
     "FloatParameter": [
@@ -8523,7 +7258,15 @@
       ],
       [
         "attrAdd",
-        "240"
+        "1075"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1075"
       ]
     ],
     "UlockSkillLevel": [
@@ -8566,25 +7309,13 @@
       ]
     ],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "134": {
     "Id": 134,
     "Name": "Modification 4",
-    "Des": "Stunt! Thunder Suppress 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3937,
     "Level": 4,
     "FloatParameter": [
@@ -8594,7 +7325,15 @@
       ],
       [
         "attrAdd",
-        "320"
+        "1433"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1433"
       ]
     ],
     "UlockSkillLevel": [
@@ -8637,25 +7376,13 @@
       ]
     ],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "135": {
     "Id": 135,
     "Name": "Modification 5",
-    "Des": "Stunt! Thunder Suppress 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3937,
     "Level": 5,
     "FloatParameter": [
@@ -8665,7 +7392,15 @@
       ],
       [
         "attrAdd",
-        "400"
+        "1792"
+      ],
+      [
+        "attrLv",
+        "0"
+      ],
+      [
+        "attrMax",
+        "1792"
       ]
     ],
     "UlockSkillLevel": [
@@ -8708,25 +7443,13 @@
       ]
     ],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "136": {
     "Id": 136,
     "Name": "Modification 1",
-    "Des": "Ultimate! Cocoon Technique 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3938,
     "Level": 1,
     "FloatParameter": [
@@ -8761,30 +7484,18 @@
       [
         1,
         11142,
-        1040
+        4636
       ]
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "137": {
     "Id": 137,
     "Name": "Modification 2",
-    "Des": "Ultimate! Cocoon Technique 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3938,
     "Level": 2,
     "FloatParameter": [
@@ -8819,30 +7530,18 @@
       [
         1,
         11142,
-        1280
+        5688
       ]
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "138": {
     "Id": 138,
     "Name": "Modification 3",
-    "Des": "Ultimate! Cocoon Technique 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3938,
     "Level": 3,
     "FloatParameter": [
@@ -8877,7 +7576,7 @@
       [
         1,
         11142,
-        1520
+        6740
       ],
       [
         8,
@@ -8887,25 +7586,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "139": {
     "Id": 139,
     "Name": "Modification 4",
-    "Des": "Ultimate! Cocoon Technique 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3938,
     "Level": 4,
     "FloatParameter": [
@@ -8940,7 +7627,7 @@
       [
         1,
         11142,
-        1760
+        7792
       ],
       [
         8,
@@ -8950,25 +7637,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "140": {
     "Id": 140,
     "Name": "Modification 5",
-    "Des": "Ultimate! Cocoon Technique 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3938,
     "Level": 5,
     "FloatParameter": [
@@ -9003,7 +7678,7 @@
       [
         1,
         11142,
-        2000
+        8960
       ],
       [
         8,
@@ -9025,12 +7700,13 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "141": {
     "Id": 141,
     "Name": "Modification 1",
-    "Des": "Ultimate! Heart of Flame 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3911,
     "Level": 1,
     "FloatParameter": [
@@ -9084,25 +7760,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "142": {
     "Id": 142,
     "Name": "Modification 2",
-    "Des": "Ultimate! Heart of Flame 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3911,
     "Level": 2,
     "FloatParameter": [
@@ -9156,25 +7820,13 @@
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "143": {
     "Id": 143,
     "Name": "Modification 3",
-    "Des": "Ultimate! Heart of Flame 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3911,
     "Level": 3,
     "FloatParameter": [
@@ -9233,25 +7885,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "144": {
     "Id": 144,
     "Name": "Modification 4",
-    "Des": "Ultimate! Heart of Flame 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3911,
     "Level": 4,
     "FloatParameter": [
@@ -9310,25 +7950,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "145": {
     "Id": 145,
     "Name": "Modification 5",
-    "Des": "Ultimate! Heart of Flame 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3911,
     "Level": 5,
     "FloatParameter": [
@@ -9399,12 +8027,13 @@
       1.2,
       1.2,
       1.2
-    ]
+    ],
+    "BondsFraction": 12
   },
   "146": {
     "Id": 146,
     "Name": "Modification 1",
-    "Des": "Stunt! Lightning Orb 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3939,
     "Level": 1,
     "FloatParameter": [
@@ -9444,25 +8073,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "147": {
     "Id": 147,
     "Name": "Modification 2",
-    "Des": "Stunt! Lightning Orb 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3939,
     "Level": 2,
     "FloatParameter": [
@@ -9502,25 +8119,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "148": {
     "Id": 148,
     "Name": "Modification 3",
-    "Des": "Stunt! Lightning Orb 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3939,
     "Level": 3,
     "FloatParameter": [
@@ -9565,25 +8170,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "149": {
     "Id": 149,
     "Name": "Modification 4",
-    "Des": "Stunt! Lightning Orb 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3939,
     "Level": 4,
     "FloatParameter": [
@@ -9628,25 +8221,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "150": {
     "Id": 150,
     "Name": "Modification 5",
-    "Des": "Stunt! Lightning Orb 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3939,
     "Level": 5,
     "FloatParameter": [
@@ -9691,25 +8272,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "151": {
     "Id": 151,
     "Name": "Modification 1",
-    "Des": "Stunt! Whirlwind Strike 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3940,
     "Level": 1,
     "FloatParameter": [
@@ -9749,25 +8318,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "152": {
     "Id": 152,
     "Name": "Modification 2",
-    "Des": "Stunt! Whirlwind Strike 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3940,
     "Level": 2,
     "FloatParameter": [
@@ -9807,25 +8364,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "153": {
     "Id": 153,
     "Name": "Modification 3",
-    "Des": "Stunt! Whirlwind Strike 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3940,
     "Level": 3,
     "FloatParameter": [
@@ -9870,25 +8415,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "154": {
     "Id": 154,
     "Name": "Modification 4",
-    "Des": "Stunt! Whirlwind Strike 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3940,
     "Level": 4,
     "FloatParameter": [
@@ -9933,25 +8466,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "155": {
     "Id": 155,
     "Name": "Modification 5",
-    "Des": "Stunt! Whirlwind Strike 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3940,
     "Level": 5,
     "FloatParameter": [
@@ -9996,25 +8517,13 @@
     ],
     "BuffPar": [],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "156": {
     "Id": 156,
     "Name": "Modification 1",
-    "Des": "Stunt! Transform into Bee 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3941,
     "Level": 1,
     "FloatParameter": [
@@ -10058,25 +8567,13 @@
       ]
     ],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "157": {
     "Id": 157,
     "Name": "Modification 2",
-    "Des": "Stunt! Transform into Bee 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3941,
     "Level": 2,
     "FloatParameter": [
@@ -10120,25 +8617,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "158": {
     "Id": 158,
     "Name": "Modification 3",
-    "Des": "Stunt! Transform into Bee 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3941,
     "Level": 3,
     "FloatParameter": [
@@ -10187,25 +8672,13 @@
       ]
     ],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "159": {
     "Id": 159,
     "Name": "Modification 4",
-    "Des": "Stunt! Transform into Bee 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3941,
     "Level": 4,
     "FloatParameter": [
@@ -10254,25 +8727,13 @@
       ]
     ],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "160": {
     "Id": 160,
     "Name": "Modification 5",
-    "Des": "Stunt! Transform into Bee 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3941,
     "Level": 5,
     "FloatParameter": [
@@ -10321,25 +8782,13 @@
       ]
     ],
     "FightValue": 298,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "161": {
     "Id": 161,
     "Name": "Modification 1",
-    "Des": "Ultimate! Poison Explosion 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3942,
     "Level": 1,
     "FloatParameter": [
@@ -10393,25 +8842,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "162": {
     "Id": 162,
     "Name": "Modification 2",
-    "Des": "Ultimate! Poison Explosion 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3942,
     "Level": 2,
     "FloatParameter": [
@@ -10465,25 +8902,13 @@
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "163": {
     "Id": 163,
     "Name": "Modification 3",
-    "Des": "Ultimate! Poison Explosion 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3942,
     "Level": 3,
     "FloatParameter": [
@@ -10542,25 +8967,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "164": {
     "Id": 164,
     "Name": "Modification 4",
-    "Des": "Ultimate! Poison Explosion 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3942,
     "Level": 4,
     "FloatParameter": [
@@ -10619,25 +9032,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "165": {
     "Id": 165,
     "Name": "Modification 5",
-    "Des": "Ultimate! Poison Explosion 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3942,
     "Level": 5,
     "FloatParameter": [
@@ -10708,12 +9109,13 @@
       4.0,
       4.0,
       4.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "166": {
     "Id": 166,
     "Name": "Modification 1",
-    "Des": "Ultimate! Hellthrust 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3943,
     "Level": 1,
     "FloatParameter": [],
@@ -10752,25 +9154,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "167": {
     "Id": 167,
     "Name": "Modification 2",
-    "Des": "Ultimate! Hellthrust 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3943,
     "Level": 2,
     "FloatParameter": [],
@@ -10809,25 +9199,13 @@
       ]
     ],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "168": {
     "Id": 168,
     "Name": "Modification 3",
-    "Des": "Ultimate! Hellthrust 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3943,
     "Level": 3,
     "FloatParameter": [],
@@ -10871,25 +9249,13 @@
       ]
     ],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "169": {
     "Id": 169,
     "Name": "Modification 4",
-    "Des": "Ultimate! Hellthrust 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3943,
     "Level": 4,
     "FloatParameter": [],
@@ -10933,25 +9299,13 @@
       ]
     ],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "170": {
     "Id": 170,
     "Name": "Modification 5",
-    "Des": "Ultimate! Hellthrust 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3943,
     "Level": 5,
     "FloatParameter": [],
@@ -11007,12 +9361,13 @@
       2.0,
       2.0,
       2.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "171": {
     "Id": 171,
     "Name": "Modification 1",
-    "Des": "Ultimate! Azure Tempest 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3944,
     "Level": 1,
     "FloatParameter": [
@@ -11047,30 +9402,18 @@
       [
         1,
         11122,
-        1040
+        4636
       ]
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "172": {
     "Id": 172,
     "Name": "Modification 2",
-    "Des": "Ultimate! Azure Tempest 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3944,
     "Level": 2,
     "FloatParameter": [
@@ -11105,30 +9448,18 @@
       [
         1,
         11122,
-        1280
+        5688
       ]
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "173": {
     "Id": 173,
     "Name": "Modification 3",
-    "Des": "Ultimate! Azure Tempest 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3944,
     "Level": 3,
     "FloatParameter": [
@@ -11163,7 +9494,7 @@
       [
         1,
         11122,
-        1520
+        6740
       ],
       [
         8,
@@ -11173,25 +9504,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "174": {
     "Id": 174,
     "Name": "Modification 4",
-    "Des": "Ultimate! Azure Tempest 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3944,
     "Level": 4,
     "FloatParameter": [
@@ -11226,7 +9545,7 @@
       [
         1,
         11122,
-        1760
+        7792
       ],
       [
         8,
@@ -11236,25 +9555,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "175": {
     "Id": 175,
     "Name": "Modification 5",
-    "Des": "Ultimate! Azure Tempest 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3944,
     "Level": 5,
     "FloatParameter": [
@@ -11289,7 +9596,7 @@
       [
         1,
         11122,
-        2000
+        8960
       ],
       [
         8,
@@ -11311,12 +9618,13 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "176": {
     "Id": 176,
     "Name": "Modification 1",
-    "Des": "Ultimate! Silent Tide 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3945,
     "Level": 1,
     "FloatParameter": [],
@@ -11355,25 +9663,13 @@
       ]
     ],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "177": {
     "Id": 177,
     "Name": "Modification 2",
-    "Des": "Ultimate! Silent Tide 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3945,
     "Level": 2,
     "FloatParameter": [],
@@ -11412,25 +9708,13 @@
       ]
     ],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "178": {
     "Id": 178,
     "Name": "Modification 3",
-    "Des": "Ultimate! Silent Tide 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3945,
     "Level": 3,
     "FloatParameter": [],
@@ -11474,25 +9758,13 @@
       ]
     ],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "179": {
     "Id": 179,
     "Name": "Modification 4",
-    "Des": "Ultimate! Silent Tide 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3945,
     "Level": 4,
     "FloatParameter": [],
@@ -11536,25 +9808,13 @@
       ]
     ],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "180": {
     "Id": 180,
     "Name": "Modification 5",
-    "Des": "Ultimate! Silent Tide 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3945,
     "Level": 5,
     "FloatParameter": [],
@@ -11610,12 +9870,13 @@
       2.0,
       2.0,
       2.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "181": {
     "Id": 181,
     "Name": "Modification 1",
-    "Des": "Ultimate! Goblin Grand March 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3946,
     "Level": 1,
     "FloatParameter": [
@@ -11633,7 +9894,7 @@
       ],
       [
         "attrAdd3915",
-        "80"
+        "358"
       ],
       [
         "attrPer3927",
@@ -11645,7 +9906,7 @@
       ],
       [
         "attrAdd3926",
-        "100"
+        "448"
       ],
       [
         "attrPer3940",
@@ -11658,6 +9919,22 @@
       [
         "prob2",
         "2000"
+      ],
+      [
+        "attrLv3915",
+        "0"
+      ],
+      [
+        "attrMax3915",
+        "358"
+      ],
+      [
+        "attrLv3926",
+        "0"
+      ],
+      [
+        "attrMax3926",
+        "448"
       ]
     ],
     "UlockSkillLevel": [
@@ -11686,30 +9963,18 @@
       [
         1,
         11152,
-        1040
+        4636
       ]
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 8
   },
   "182": {
     "Id": 182,
     "Name": "Modification 2",
-    "Des": "Ultimate! Goblin Grand March 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3946,
     "Level": 2,
     "FloatParameter": [
@@ -11727,7 +9992,7 @@
       ],
       [
         "attrAdd3915",
-        "160"
+        "716"
       ],
       [
         "attrPer3927",
@@ -11739,7 +10004,7 @@
       ],
       [
         "attrAdd3926",
-        "200"
+        "896"
       ],
       [
         "attrPer3940",
@@ -11752,6 +10017,22 @@
       [
         "prob2",
         "2000"
+      ],
+      [
+        "attrLv3915",
+        "0"
+      ],
+      [
+        "attrMax3915",
+        "716"
+      ],
+      [
+        "attrLv3926",
+        "0"
+      ],
+      [
+        "attrMax3926",
+        "896"
       ]
     ],
     "UlockSkillLevel": [
@@ -11780,30 +10061,18 @@
       [
         1,
         11152,
-        1280
+        5688
       ]
     ],
     "BuffPar": [],
     "FightValue": 179,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 9
   },
   "183": {
     "Id": 183,
     "Name": "Modification 3",
-    "Des": "Ultimate! Goblin Grand March 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3946,
     "Level": 3,
     "FloatParameter": [
@@ -11821,7 +10090,7 @@
       ],
       [
         "attrAdd3915",
-        "240"
+        "1075"
       ],
       [
         "attrPer3927",
@@ -11833,7 +10102,7 @@
       ],
       [
         "attrAdd3926",
-        "300"
+        "1344"
       ],
       [
         "attrPer3940",
@@ -11846,6 +10115,22 @@
       [
         "prob2",
         "4000"
+      ],
+      [
+        "attrLv3915",
+        "0"
+      ],
+      [
+        "attrMax3915",
+        "1075"
+      ],
+      [
+        "attrLv3926",
+        "0"
+      ],
+      [
+        "attrMax3926",
+        "1344"
       ]
     ],
     "UlockSkillLevel": [
@@ -11874,7 +10159,7 @@
       [
         1,
         11152,
-        1520
+        6740
       ],
       [
         8,
@@ -11884,25 +10169,13 @@
     ],
     "BuffPar": [],
     "FightValue": 328,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 10
   },
   "184": {
     "Id": 184,
     "Name": "Modification 4",
-    "Des": "Ultimate! Goblin Grand March 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3946,
     "Level": 4,
     "FloatParameter": [
@@ -11920,7 +10193,7 @@
       ],
       [
         "attrAdd3915",
-        "320"
+        "1433"
       ],
       [
         "attrPer3927",
@@ -11932,7 +10205,7 @@
       ],
       [
         "attrAdd3926",
-        "400"
+        "1792"
       ],
       [
         "attrPer3940",
@@ -11945,6 +10218,22 @@
       [
         "prob2",
         "4000"
+      ],
+      [
+        "attrLv3915",
+        "0"
+      ],
+      [
+        "attrMax3915",
+        "1433"
+      ],
+      [
+        "attrLv3926",
+        "0"
+      ],
+      [
+        "attrMax3926",
+        "1792"
       ]
     ],
     "UlockSkillLevel": [
@@ -11973,7 +10262,7 @@
       [
         1,
         11152,
-        1760
+        7792
       ],
       [
         8,
@@ -11983,25 +10272,13 @@
     ],
     "BuffPar": [],
     "FightValue": 418,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 11
   },
   "185": {
     "Id": 185,
     "Name": "Modification 5",
-    "Des": "Ultimate! Goblin Grand March 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3946,
     "Level": 5,
     "FloatParameter": [
@@ -12019,7 +10296,7 @@
       ],
       [
         "attrAdd3915",
-        "400"
+        "1792"
       ],
       [
         "attrPer3927",
@@ -12031,7 +10308,7 @@
       ],
       [
         "attrAdd3926",
-        "500"
+        "2240"
       ],
       [
         "attrPer3940",
@@ -12044,6 +10321,22 @@
       [
         "prob2",
         "6000"
+      ],
+      [
+        "attrLv3915",
+        "0"
+      ],
+      [
+        "attrMax3915",
+        "1792"
+      ],
+      [
+        "attrLv3926",
+        "0"
+      ],
+      [
+        "attrMax3926",
+        "2240"
       ]
     ],
     "UlockSkillLevel": [
@@ -12072,7 +10365,7 @@
       [
         1,
         11152,
-        2000
+        8960
       ],
       [
         8,
@@ -12094,12 +10387,13 @@
       2.0,
       2.0,
       2.0
-    ]
+    ],
+    "BondsFraction": 12
   },
   "186": {
     "Id": 186,
     "Name": "Modification 1",
-    "Des": "Stunt! Spiral Fracture 1",
+    "Des": "Skill Effect Boost, Stage 1",
     "SkillId": 3947,
     "Level": 1,
     "FloatParameter": [
@@ -12139,25 +10433,13 @@
     ],
     "BuffPar": [],
     "FightValue": 44,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 4
   },
   "187": {
     "Id": 187,
     "Name": "Modification 2",
-    "Des": "Stunt! Spiral Fracture 2",
+    "Des": "Skill Effect Boost, Stage 2",
     "SkillId": 3947,
     "Level": 2,
     "FloatParameter": [
@@ -12197,25 +10479,13 @@
     ],
     "BuffPar": [],
     "FightValue": 89,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 5
   },
   "188": {
     "Id": 188,
     "Name": "Modification 3",
-    "Des": "Stunt! Spiral Fracture 3",
+    "Des": "Skill Effect Boost, Stage 3",
     "SkillId": 3947,
     "Level": 3,
     "FloatParameter": [
@@ -12260,25 +10530,13 @@
     ],
     "BuffPar": [],
     "FightValue": 164,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 6
   },
   "189": {
     "Id": 189,
     "Name": "Modification 4",
-    "Des": "Stunt! Spiral Fracture 4",
+    "Des": "Skill Effect Boost, Stage 4",
     "SkillId": 3947,
     "Level": 4,
     "FloatParameter": [
@@ -12323,25 +10581,13 @@
     ],
     "BuffPar": [],
     "FightValue": 209,
-    "ModelPointScale": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-    ]
+    "ModelPointScale": [],
+    "BondsFraction": 7
   },
   "190": {
     "Id": 190,
     "Name": "Modification 5",
-    "Des": "Stunt! Spiral Fracture 5",
+    "Des": "Skill Effect Boost, Stage 5",
     "SkillId": 3947,
     "Level": 5,
     "FloatParameter": [
@@ -12398,6 +10644,5942 @@
       2.0,
       2.0,
       2.0
-    ]
+    ],
+    "BondsFraction": 8
+  },
+  "191": {
+    "Id": 191,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3948,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "200"
+      ],
+      [
+        "attrPerElse",
+        "24"
+      ],
+      [
+        "hpPer",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010101,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3948,
+        1
+      ],
+      [
+        1,
+        11014,
+        780
+      ],
+      [
+        1,
+        11024,
+        780
+      ],
+      [
+        1,
+        11034,
+        780
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "192": {
+    "Id": 192,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3948,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "400"
+      ],
+      [
+        "attrPerElse",
+        "48"
+      ],
+      [
+        "hpPer",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010101,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3948,
+        2
+      ],
+      [
+        1,
+        11014,
+        960
+      ],
+      [
+        1,
+        11024,
+        960
+      ],
+      [
+        1,
+        11034,
+        960
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "193": {
+    "Id": 193,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3948,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "600"
+      ],
+      [
+        "attrPerElse",
+        "72"
+      ],
+      [
+        "hpPer",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010101,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        40
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3948,
+        3
+      ],
+      [
+        1,
+        11014,
+        1140
+      ],
+      [
+        1,
+        11024,
+        1140
+      ],
+      [
+        1,
+        11034,
+        1140
+      ],
+      [
+        9,
+        3948,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "194": {
+    "Id": 194,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3948,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "800"
+      ],
+      [
+        "attrPerElse",
+        "96"
+      ],
+      [
+        "hpPer",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010101,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        50
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3948,
+        4
+      ],
+      [
+        1,
+        11014,
+        1320
+      ],
+      [
+        1,
+        11024,
+        1320
+      ],
+      [
+        1,
+        11034,
+        1320
+      ],
+      [
+        9,
+        3948,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "195": {
+    "Id": 195,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3948,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "1000"
+      ],
+      [
+        "attrPerElse",
+        "120"
+      ],
+      [
+        "hpPer",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010101,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        70
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3948,
+        5
+      ],
+      [
+        1,
+        11014,
+        1500
+      ],
+      [
+        1,
+        11024,
+        1500
+      ],
+      [
+        1,
+        11034,
+        1500
+      ],
+      [
+        9,
+        3948,
+        40000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 597,
+    "ModelPointScale": [
+      1.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "BondsFraction": 12
+  },
+  "196": {
+    "Id": 196,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3949,
+    "Level": 1,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010102,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3949,
+        1
+      ],
+      [
+        1,
+        11014,
+        780
+      ],
+      [
+        1,
+        11024,
+        780
+      ],
+      [
+        1,
+        11034,
+        780
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "197": {
+    "Id": 197,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3949,
+    "Level": 2,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010102,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3949,
+        2
+      ],
+      [
+        1,
+        11014,
+        960
+      ],
+      [
+        1,
+        11024,
+        960
+      ],
+      [
+        1,
+        11034,
+        960
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "198": {
+    "Id": 198,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3949,
+    "Level": 3,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010102,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        40
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3949,
+        3
+      ],
+      [
+        1,
+        11014,
+        1140
+      ],
+      [
+        1,
+        11024,
+        1140
+      ],
+      [
+        1,
+        11034,
+        1140
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "199": {
+    "Id": 199,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3949,
+    "Level": 4,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010102,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        50
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3949,
+        4
+      ],
+      [
+        1,
+        11014,
+        1320
+      ],
+      [
+        1,
+        11024,
+        1320
+      ],
+      [
+        1,
+        11034,
+        1320
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "200": {
+    "Id": 200,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3949,
+    "Level": 5,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010102,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052107,
+        70
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3949,
+        5
+      ],
+      [
+        1,
+        11014,
+        1500
+      ],
+      [
+        1,
+        11024,
+        1500
+      ],
+      [
+        1,
+        11034,
+        1500
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 597,
+    "ModelPointScale": [
+      1.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "BondsFraction": 12
+  },
+  "201": {
+    "Id": 201,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3950,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "160"
+      ],
+      [
+        "attrPerElse",
+        "20"
+      ],
+      [
+        "speed1",
+        "100"
+      ],
+      [
+        "speed2",
+        "200"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010104,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052109,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3950,
+        1
+      ],
+      [
+        1,
+        11014,
+        780
+      ],
+      [
+        1,
+        11024,
+        780
+      ],
+      [
+        1,
+        11034,
+        780
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "202": {
+    "Id": 202,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3950,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "320"
+      ],
+      [
+        "attrPerElse",
+        "40"
+      ],
+      [
+        "speed1",
+        "200"
+      ],
+      [
+        "speed2",
+        "400"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010104,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052109,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3950,
+        2
+      ],
+      [
+        1,
+        11014,
+        960
+      ],
+      [
+        1,
+        11024,
+        960
+      ],
+      [
+        1,
+        11034,
+        960
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "203": {
+    "Id": 203,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3950,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "480"
+      ],
+      [
+        "attrPerElse",
+        "60"
+      ],
+      [
+        "speed1",
+        "300"
+      ],
+      [
+        "speed2",
+        "600"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010104,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052109,
+        40
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3950,
+        3
+      ],
+      [
+        1,
+        11014,
+        1140
+      ],
+      [
+        1,
+        11024,
+        1140
+      ],
+      [
+        1,
+        11034,
+        1140
+      ],
+      [
+        9,
+        3950,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "204": {
+    "Id": 204,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3950,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "640"
+      ],
+      [
+        "attrPerElse",
+        "80"
+      ],
+      [
+        "speed1",
+        "400"
+      ],
+      [
+        "speed2",
+        "800"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010104,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052109,
+        50
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3950,
+        4
+      ],
+      [
+        1,
+        11014,
+        1320
+      ],
+      [
+        1,
+        11024,
+        1320
+      ],
+      [
+        1,
+        11034,
+        1320
+      ],
+      [
+        9,
+        3950,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "205": {
+    "Id": 205,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3950,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "800"
+      ],
+      [
+        "attrPerElse",
+        "100"
+      ],
+      [
+        "speed1",
+        "500"
+      ],
+      [
+        "speed2",
+        "1000"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010104,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052109,
+        70
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3950,
+        5
+      ],
+      [
+        1,
+        11014,
+        1500
+      ],
+      [
+        1,
+        11024,
+        1500
+      ],
+      [
+        1,
+        11034,
+        1500
+      ],
+      [
+        9,
+        3950,
+        40000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 597,
+    "ModelPointScale": [
+      1.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "BondsFraction": 12
+  },
+  "206": {
+    "Id": 206,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3951,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "300"
+      ],
+      [
+        "skillPer",
+        "4000"
+      ],
+      [
+        "time",
+        "0"
+      ],
+      [
+        "skillPerElse",
+        "20"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010103,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052108,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3951,
+        1
+      ],
+      [
+        1,
+        11014,
+        780
+      ],
+      [
+        1,
+        11024,
+        780
+      ],
+      [
+        1,
+        11034,
+        780
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "207": {
+    "Id": 207,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3951,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "600"
+      ],
+      [
+        "skillPer",
+        "8000"
+      ],
+      [
+        "time",
+        "0"
+      ],
+      [
+        "skillPerElse",
+        "40"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010103,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052108,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3951,
+        2
+      ],
+      [
+        1,
+        11014,
+        960
+      ],
+      [
+        1,
+        11024,
+        960
+      ],
+      [
+        1,
+        11034,
+        960
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "208": {
+    "Id": 208,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3951,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "900"
+      ],
+      [
+        "skillPer",
+        "12000"
+      ],
+      [
+        "time",
+        "0"
+      ],
+      [
+        "skillPerElse",
+        "60"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010103,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052108,
+        40
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3951,
+        3
+      ],
+      [
+        1,
+        11014,
+        1140
+      ],
+      [
+        1,
+        11024,
+        1140
+      ],
+      [
+        1,
+        11034,
+        1140
+      ],
+      [
+        8,
+        3951,
+        15000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "209": {
+    "Id": 209,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3951,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "1200"
+      ],
+      [
+        "skillPer",
+        "16000"
+      ],
+      [
+        "time",
+        "0"
+      ],
+      [
+        "skillPerElse",
+        "80"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010103,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052108,
+        50
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3951,
+        4
+      ],
+      [
+        1,
+        11014,
+        1320
+      ],
+      [
+        1,
+        11024,
+        1320
+      ],
+      [
+        1,
+        11034,
+        1320
+      ],
+      [
+        8,
+        3951,
+        15000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "210": {
+    "Id": 210,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3951,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "1500"
+      ],
+      [
+        "skillPer",
+        "20000"
+      ],
+      [
+        "time",
+        "0"
+      ],
+      [
+        "skillPerElse",
+        "100"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010103,
+        1
+      ],
+      [
+        1052100,
+        10
+      ],
+      [
+        1052108,
+        70
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3951,
+        5
+      ],
+      [
+        1,
+        11014,
+        1500
+      ],
+      [
+        1,
+        11024,
+        1500
+      ],
+      [
+        1,
+        11034,
+        1500
+      ],
+      [
+        8,
+        3951,
+        30000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 597,
+    "ModelPointScale": [
+      0.6,
+      0.3,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2
+    ],
+    "BondsFraction": 12
+  },
+  "211": {
+    "Id": 211,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3952,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "speed1",
+        "200"
+      ],
+      [
+        "speed2",
+        "600"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010109,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3952,
+        1
+      ],
+      [
+        3,
+        3200032,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1690
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "212": {
+    "Id": 212,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3952,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "speed1",
+        "400"
+      ],
+      [
+        "speed2",
+        "1200"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010109,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3952,
+        2
+      ],
+      [
+        3,
+        3200032,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        2080
+      ]
+    ],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "213": {
+    "Id": 213,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3952,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "speed1",
+        "600"
+      ],
+      [
+        "speed2",
+        "1800"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010109,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3952,
+        3
+      ],
+      [
+        3,
+        3200032,
+        1
+      ],
+      [
+        8,
+        3952,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        2470
+      ]
+    ],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "214": {
+    "Id": 214,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3952,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "speed1",
+        "800"
+      ],
+      [
+        "speed2",
+        "2400"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010109,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        25
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3952,
+        4
+      ],
+      [
+        3,
+        3200032,
+        1
+      ],
+      [
+        8,
+        3952,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        2860
+      ]
+    ],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "215": {
+    "Id": 215,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3952,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "speed1",
+        "1000"
+      ],
+      [
+        "speed2",
+        "3000"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010109,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3952,
+        5
+      ],
+      [
+        3,
+        3200032,
+        1
+      ],
+      [
+        8,
+        3952,
+        40000
+      ]
+    ],
+    "BuffPar": [
+      [
+        3250
+      ]
+    ],
+    "FightValue": 597,
+    "ModelPointScale": [
+      0.6,
+      0.3,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2
+    ],
+    "BondsFraction": 12
+  },
+  "216": {
+    "Id": 216,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3953,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "440"
+      ],
+      [
+        "time",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010112,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3953,
+        1
+      ],
+      [
+        3,
+        3200033,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1170
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "217": {
+    "Id": 217,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3953,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "880"
+      ],
+      [
+        "time",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010112,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3953,
+        2
+      ],
+      [
+        3,
+        3200033,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1440
+      ]
+    ],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "218": {
+    "Id": 218,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3953,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "1320"
+      ],
+      [
+        "time",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010112,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3953,
+        3
+      ],
+      [
+        3,
+        3200033,
+        1
+      ],
+      [
+        8,
+        3953,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        1710
+      ]
+    ],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "219": {
+    "Id": 219,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3953,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "1760"
+      ],
+      [
+        "time",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010112,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        25
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3953,
+        4
+      ],
+      [
+        3,
+        3200033,
+        1
+      ],
+      [
+        8,
+        3953,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        1980
+      ]
+    ],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "220": {
+    "Id": 220,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3953,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "2200"
+      ],
+      [
+        "time",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010112,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3953,
+        5
+      ],
+      [
+        3,
+        3200033,
+        1
+      ],
+      [
+        8,
+        3953,
+        40000
+      ]
+    ],
+    "BuffPar": [
+      [
+        2250
+      ]
+    ],
+    "FightValue": 597,
+    "ModelPointScale": [
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.5,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2
+    ],
+    "BondsFraction": 12
+  },
+  "221": {
+    "Id": 221,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3954,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "400"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010117,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3954,
+        1
+      ],
+      [
+        3,
+        3210120,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        312
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "222": {
+    "Id": 222,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3954,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "800"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010117,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3954,
+        2
+      ],
+      [
+        3,
+        3210120,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        384
+      ]
+    ],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "223": {
+    "Id": 223,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3954,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "1200"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010117,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3954,
+        3
+      ],
+      [
+        3,
+        3210120,
+        1
+      ],
+      [
+        8,
+        3954,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        456
+      ]
+    ],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "224": {
+    "Id": 224,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3954,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "1600"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010117,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        25
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3954,
+        4
+      ],
+      [
+        3,
+        3210120,
+        1
+      ],
+      [
+        8,
+        3954,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        528
+      ]
+    ],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "225": {
+    "Id": 225,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3954,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "2000"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010117,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3954,
+        5
+      ],
+      [
+        3,
+        3210120,
+        1
+      ],
+      [
+        8,
+        3954,
+        40000
+      ]
+    ],
+    "BuffPar": [
+      [
+        600
+      ]
+    ],
+    "FightValue": 597,
+    "ModelPointScale": [
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2,
+      1.2
+    ],
+    "BondsFraction": 12
+  },
+  "226": {
+    "Id": 226,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3955,
+    "Level": 1,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010115,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3955,
+        1
+      ],
+      [
+        3,
+        3210130,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        390,
+        390,
+        292,
+        3180,
+        0,
+        3180
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "227": {
+    "Id": 227,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3955,
+    "Level": 2,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010115,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3955,
+        2
+      ],
+      [
+        3,
+        3210130,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        480,
+        480,
+        359,
+        3896,
+        0,
+        3896
+      ]
+    ],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "228": {
+    "Id": 228,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3955,
+    "Level": 3,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010115,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3955,
+        3
+      ],
+      [
+        3,
+        3210130,
+        1
+      ],
+      [
+        8,
+        3955,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        570,
+        570,
+        426,
+        4612,
+        0,
+        4612
+      ]
+    ],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "229": {
+    "Id": 229,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3955,
+    "Level": 4,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010115,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        25
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3955,
+        4
+      ],
+      [
+        3,
+        3210130,
+        1
+      ],
+      [
+        8,
+        3955,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        660,
+        660,
+        493,
+        5328,
+        0,
+        5328
+      ]
+    ],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "230": {
+    "Id": 230,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3955,
+    "Level": 5,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010115,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052108,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3955,
+        5
+      ],
+      [
+        3,
+        3210130,
+        1
+      ],
+      [
+        8,
+        3955,
+        40000
+      ]
+    ],
+    "BuffPar": [
+      [
+        750,
+        750,
+        560,
+        6160,
+        0,
+        6160
+      ]
+    ],
+    "FightValue": 597,
+    "ModelPointScale": [
+      1.0,
+      0.6,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "BondsFraction": 12
+  },
+  "231": {
+    "Id": 231,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3956,
+    "Level": 1,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010119,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3956,
+        1
+      ],
+      [
+        3,
+        3210140,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1040,
+        2912,
+        0,
+        2912
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "232": {
+    "Id": 232,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3956,
+    "Level": 2,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010119,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3956,
+        2
+      ],
+      [
+        3,
+        3210140,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1280,
+        3584,
+        0,
+        3584
+      ]
+    ],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "233": {
+    "Id": 233,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3956,
+    "Level": 3,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010119,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3956,
+        3
+      ],
+      [
+        3,
+        3210140,
+        1
+      ],
+      [
+        8,
+        3956,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        1520,
+        4256,
+        0,
+        4256
+      ]
+    ],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "234": {
+    "Id": 234,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3956,
+    "Level": 4,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010119,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        25
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3956,
+        4
+      ],
+      [
+        3,
+        3210140,
+        1
+      ],
+      [
+        8,
+        3956,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        1760,
+        4928,
+        0,
+        4928
+      ]
+    ],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "235": {
+    "Id": 235,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3956,
+    "Level": 5,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010119,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052107,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3956,
+        5
+      ],
+      [
+        3,
+        3210140,
+        1
+      ],
+      [
+        8,
+        3956,
+        40000
+      ]
+    ],
+    "BuffPar": [
+      [
+        2000,
+        5600,
+        0,
+        5600
+      ]
+    ],
+    "FightValue": 597,
+    "ModelPointScale": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "BondsFraction": 12
+  },
+  "236": {
+    "Id": 236,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3957,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "100"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010106,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3957,
+        1
+      ],
+      [
+        1,
+        11014,
+        780
+      ],
+      [
+        1,
+        11024,
+        780
+      ],
+      [
+        1,
+        11034,
+        780
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "237": {
+    "Id": 237,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3957,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "200"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010106,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3957,
+        2
+      ],
+      [
+        1,
+        11014,
+        960
+      ],
+      [
+        1,
+        11024,
+        960
+      ],
+      [
+        1,
+        11034,
+        960
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 179,
+    "ModelPointScale": [],
+    "BondsFraction": 9
+  },
+  "238": {
+    "Id": 238,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3957,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "300"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010106,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        20
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3957,
+        3
+      ],
+      [
+        1,
+        11014,
+        1140
+      ],
+      [
+        1,
+        11024,
+        1140
+      ],
+      [
+        1,
+        11034,
+        1140
+      ],
+      [
+        8,
+        3957,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 328,
+    "ModelPointScale": [],
+    "BondsFraction": 10
+  },
+  "239": {
+    "Id": 239,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3957,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "400"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010106,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        25
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3957,
+        4
+      ],
+      [
+        1,
+        11014,
+        1320
+      ],
+      [
+        1,
+        11024,
+        1320
+      ],
+      [
+        1,
+        11034,
+        1320
+      ],
+      [
+        8,
+        3957,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 418,
+    "ModelPointScale": [],
+    "BondsFraction": 11
+  },
+  "240": {
+    "Id": 240,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3957,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "500"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010106,
+        1
+      ],
+      [
+        1052100,
+        5
+      ],
+      [
+        1052109,
+        30
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3957,
+        5
+      ],
+      [
+        1,
+        11014,
+        1500
+      ],
+      [
+        1,
+        11024,
+        1500
+      ],
+      [
+        1,
+        11034,
+        1500
+      ],
+      [
+        8,
+        3957,
+        40000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 597,
+    "ModelPointScale": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.8,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "BondsFraction": 12
+  },
+  "241": {
+    "Id": 241,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3958,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "130"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010105,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        7
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3958,
+        1
+      ],
+      [
+        1,
+        11152,
+        2615
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 44,
+    "ModelPointScale": [],
+    "BondsFraction": 4
+  },
+  "242": {
+    "Id": 242,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3958,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "260"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010105,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        9
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3958,
+        2
+      ],
+      [
+        1,
+        11152,
+        3214
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 5
+  },
+  "243": {
+    "Id": 243,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3958,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "390"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010105,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        11
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3958,
+        3
+      ],
+      [
+        1,
+        11152,
+        3813
+      ],
+      [
+        8,
+        3958,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 164,
+    "ModelPointScale": [],
+    "BondsFraction": 6
+  },
+  "244": {
+    "Id": 244,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3958,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "520"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010105,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        13
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3958,
+        4
+      ],
+      [
+        1,
+        11152,
+        4412
+      ],
+      [
+        8,
+        3958,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 209,
+    "ModelPointScale": [],
+    "BondsFraction": 7
+  },
+  "245": {
+    "Id": 245,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3958,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "650"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010105,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3958,
+        5
+      ],
+      [
+        1,
+        11152,
+        5040
+      ],
+      [
+        8,
+        3958,
+        40000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 298,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "246": {
+    "Id": 246,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3959,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attr",
+        "2000"
+      ],
+      [
+        "attrElse",
+        "10"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010107,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        7
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3959,
+        1
+      ],
+      [
+        1,
+        11354,
+        780
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 44,
+    "ModelPointScale": [],
+    "BondsFraction": 4
+  },
+  "247": {
+    "Id": 247,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3959,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attr",
+        "4000"
+      ],
+      [
+        "attrElse",
+        "20"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010107,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        9
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3959,
+        2
+      ],
+      [
+        1,
+        11354,
+        960
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 5
+  },
+  "248": {
+    "Id": 248,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3959,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attr",
+        "6000"
+      ],
+      [
+        "attrElse",
+        "30"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010107,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        11
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3959,
+        3
+      ],
+      [
+        1,
+        11354,
+        1140
+      ],
+      [
+        8,
+        3959,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 164,
+    "ModelPointScale": [],
+    "BondsFraction": 6
+  },
+  "249": {
+    "Id": 249,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3959,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attr",
+        "8000"
+      ],
+      [
+        "attrElse",
+        "40"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010107,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        13
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3959,
+        4
+      ],
+      [
+        1,
+        11354,
+        1320
+      ],
+      [
+        8,
+        3959,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 209,
+    "ModelPointScale": [],
+    "BondsFraction": 7
+  },
+  "250": {
+    "Id": 250,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3959,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attr",
+        "10000"
+      ],
+      [
+        "attrElse",
+        "50"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010107,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3959,
+        5
+      ],
+      [
+        1,
+        11354,
+        1500
+      ],
+      [
+        8,
+        3959,
+        40000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 298,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "251": {
+    "Id": 251,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3960,
+    "Level": 1,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010108,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        7
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3960,
+        1
+      ],
+      [
+        3,
+        3210150,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1000
+      ]
+    ],
+    "FightValue": 44,
+    "ModelPointScale": [],
+    "BondsFraction": 4
+  },
+  "252": {
+    "Id": 252,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3960,
+    "Level": 2,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010108,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        9
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3960,
+        2
+      ],
+      [
+        3,
+        3210150,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1000
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 5
+  },
+  "253": {
+    "Id": 253,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3960,
+    "Level": 3,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010108,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        11
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3960,
+        3
+      ],
+      [
+        3,
+        3210150,
+        1
+      ],
+      [
+        8,
+        3960,
+        15000
+      ]
+    ],
+    "BuffPar": [
+      [
+        2500
+      ]
+    ],
+    "FightValue": 164,
+    "ModelPointScale": [],
+    "BondsFraction": 6
+  },
+  "254": {
+    "Id": 254,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3960,
+    "Level": 4,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010108,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        13
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3960,
+        4
+      ],
+      [
+        3,
+        3210150,
+        1
+      ],
+      [
+        8,
+        3960,
+        15000
+      ]
+    ],
+    "BuffPar": [
+      [
+        2500
+      ]
+    ],
+    "FightValue": 209,
+    "ModelPointScale": [],
+    "BondsFraction": 7
+  },
+  "255": {
+    "Id": 255,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3960,
+    "Level": 5,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010108,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3960,
+        5
+      ],
+      [
+        3,
+        3210150,
+        1
+      ],
+      [
+        8,
+        3960,
+        30000
+      ]
+    ],
+    "BuffPar": [
+      [
+        4000
+      ]
+    ],
+    "FightValue": 298,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "256": {
+    "Id": 256,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3961,
+    "Level": 1,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010110,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        7
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3961,
+        1
+      ],
+      [
+        3,
+        3210160,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1560
+      ]
+    ],
+    "FightValue": 44,
+    "ModelPointScale": [],
+    "BondsFraction": 4
+  },
+  "257": {
+    "Id": 257,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3961,
+    "Level": 2,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010110,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        9
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3961,
+        2
+      ],
+      [
+        3,
+        3210160,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1920
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 5
+  },
+  "258": {
+    "Id": 258,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3961,
+    "Level": 3,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010110,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        11
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3961,
+        3
+      ],
+      [
+        3,
+        3210160,
+        1
+      ],
+      [
+        8,
+        3961,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        2280
+      ]
+    ],
+    "FightValue": 164,
+    "ModelPointScale": [],
+    "BondsFraction": 6
+  },
+  "259": {
+    "Id": 259,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3961,
+    "Level": 4,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010110,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        13
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3961,
+        4
+      ],
+      [
+        3,
+        3210160,
+        1
+      ],
+      [
+        8,
+        3961,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        2640
+      ]
+    ],
+    "FightValue": 209,
+    "ModelPointScale": [],
+    "BondsFraction": 7
+  },
+  "260": {
+    "Id": 260,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3961,
+    "Level": 5,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010110,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3961,
+        5
+      ],
+      [
+        3,
+        3210160,
+        1
+      ],
+      [
+        8,
+        3961,
+        40000
+      ]
+    ],
+    "BuffPar": [
+      [
+        3000
+      ]
+    ],
+    "FightValue": 298,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "261": {
+    "Id": 261,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3962,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attr",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010111,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        7
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3962,
+        1
+      ],
+      [
+        3,
+        3200034,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        500,
+        80000,
+        5850
+      ]
+    ],
+    "FightValue": 44,
+    "ModelPointScale": [],
+    "BondsFraction": 4
+  },
+  "262": {
+    "Id": 262,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3962,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attr",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010111,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        9
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3962,
+        2
+      ],
+      [
+        3,
+        3200034,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        500,
+        80000,
+        7200
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 5
+  },
+  "263": {
+    "Id": 263,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3962,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attr",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010111,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        11
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3962,
+        3
+      ],
+      [
+        3,
+        3200034,
+        1
+      ],
+      [
+        8,
+        3962,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        500,
+        80000,
+        8550
+      ]
+    ],
+    "FightValue": 164,
+    "ModelPointScale": [],
+    "BondsFraction": 6
+  },
+  "264": {
+    "Id": 264,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3962,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attr",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010111,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        13
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3962,
+        4
+      ],
+      [
+        3,
+        3200034,
+        1
+      ],
+      [
+        8,
+        3962,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        500,
+        80000,
+        9900
+      ]
+    ],
+    "FightValue": 209,
+    "ModelPointScale": [],
+    "BondsFraction": 7
+  },
+  "265": {
+    "Id": 265,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3962,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attr",
+        "0"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010111,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052209,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3962,
+        5
+      ],
+      [
+        3,
+        3200034,
+        1
+      ],
+      [
+        8,
+        3962,
+        40000
+      ]
+    ],
+    "BuffPar": [
+      [
+        500,
+        80000,
+        11250
+      ]
+    ],
+    "FightValue": 298,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "266": {
+    "Id": 266,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3963,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "130"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010116,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        7
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3963,
+        1
+      ],
+      [
+        1,
+        11142,
+        2615
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 44,
+    "ModelPointScale": [],
+    "BondsFraction": 4
+  },
+  "267": {
+    "Id": 267,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3963,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "260"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010116,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        9
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3963,
+        2
+      ],
+      [
+        1,
+        11142,
+        3214
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 5
+  },
+  "268": {
+    "Id": 268,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3963,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "390"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010116,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        11
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3963,
+        3
+      ],
+      [
+        1,
+        11142,
+        3813
+      ],
+      [
+        8,
+        3963,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 164,
+    "ModelPointScale": [],
+    "BondsFraction": 6
+  },
+  "269": {
+    "Id": 269,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3963,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "520"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010116,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        13
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3963,
+        4
+      ],
+      [
+        1,
+        11142,
+        4412
+      ],
+      [
+        8,
+        3963,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 209,
+    "ModelPointScale": [],
+    "BondsFraction": 7
+  },
+  "270": {
+    "Id": 270,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3963,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "650"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010116,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3963,
+        5
+      ],
+      [
+        1,
+        11142,
+        5040
+      ],
+      [
+        8,
+        3963,
+        40000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 298,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "271": {
+    "Id": 271,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3964,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attr1",
+        "268"
+      ],
+      [
+        "attrLv1",
+        "0"
+      ],
+      [
+        "attrMax1",
+        "268"
+      ],
+      [
+        "attr2",
+        "358"
+      ],
+      [
+        "attrLv2",
+        "0"
+      ],
+      [
+        "attrMax2",
+        "358"
+      ],
+      [
+        "attr3",
+        "448"
+      ],
+      [
+        "attrLv3",
+        "0"
+      ],
+      [
+        "attrMax3",
+        "448"
+      ],
+      [
+        "attrPer1",
+        "120"
+      ],
+      [
+        "attrPer2",
+        "160"
+      ],
+      [
+        "attrPer3",
+        "200"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010113,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        7
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3964,
+        1
+      ],
+      [
+        3,
+        3200035,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        650,
+        910
+      ]
+    ],
+    "FightValue": 44,
+    "ModelPointScale": [],
+    "BondsFraction": 4
+  },
+  "272": {
+    "Id": 272,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3964,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attr1",
+        "537"
+      ],
+      [
+        "attrLv1",
+        "0"
+      ],
+      [
+        "attrMax1",
+        "537"
+      ],
+      [
+        "attr2",
+        "716"
+      ],
+      [
+        "attrLv2",
+        "0"
+      ],
+      [
+        "attrMax2",
+        "716"
+      ],
+      [
+        "attr3",
+        "896"
+      ],
+      [
+        "attrLv3",
+        "0"
+      ],
+      [
+        "attrMax3",
+        "896"
+      ],
+      [
+        "attrPer1",
+        "240"
+      ],
+      [
+        "attrPer2",
+        "320"
+      ],
+      [
+        "attrPer3",
+        "400"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010113,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        9
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3964,
+        2
+      ],
+      [
+        3,
+        3200035,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        800,
+        1120
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 5
+  },
+  "273": {
+    "Id": 273,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3964,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attr1",
+        "806"
+      ],
+      [
+        "attrLv1",
+        "0"
+      ],
+      [
+        "attrMax1",
+        "806"
+      ],
+      [
+        "attr2",
+        "1075"
+      ],
+      [
+        "attrLv2",
+        "0"
+      ],
+      [
+        "attrMax2",
+        "1075"
+      ],
+      [
+        "attr3",
+        "1344"
+      ],
+      [
+        "attrLv3",
+        "0"
+      ],
+      [
+        "attrMax3",
+        "1344"
+      ],
+      [
+        "attrPer1",
+        "360"
+      ],
+      [
+        "attrPer2",
+        "480"
+      ],
+      [
+        "attrPer3",
+        "600"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010113,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        11
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3964,
+        3
+      ],
+      [
+        3,
+        3200035,
+        1
+      ],
+      [
+        8,
+        3964,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        950,
+        1330
+      ]
+    ],
+    "FightValue": 164,
+    "ModelPointScale": [],
+    "BondsFraction": 6
+  },
+  "274": {
+    "Id": 274,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3964,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attr1",
+        "1075"
+      ],
+      [
+        "attrLv1",
+        "0"
+      ],
+      [
+        "attrMax1",
+        "1075"
+      ],
+      [
+        "attr2",
+        "1433"
+      ],
+      [
+        "attrLv2",
+        "0"
+      ],
+      [
+        "attrMax2",
+        "1433"
+      ],
+      [
+        "attr3",
+        "1792"
+      ],
+      [
+        "attrLv3",
+        "0"
+      ],
+      [
+        "attrMax3",
+        "1792"
+      ],
+      [
+        "attrPer1",
+        "480"
+      ],
+      [
+        "attrPer2",
+        "640"
+      ],
+      [
+        "attrPer3",
+        "800"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010113,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        13
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3964,
+        4
+      ],
+      [
+        3,
+        3200035,
+        1
+      ],
+      [
+        8,
+        3964,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        1100,
+        1540
+      ]
+    ],
+    "FightValue": 209,
+    "ModelPointScale": [],
+    "BondsFraction": 7
+  },
+  "275": {
+    "Id": 275,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3964,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attr1",
+        "1344"
+      ],
+      [
+        "attrLv1",
+        "0"
+      ],
+      [
+        "attrMax1",
+        "1344"
+      ],
+      [
+        "attr2",
+        "1792"
+      ],
+      [
+        "attrLv2",
+        "0"
+      ],
+      [
+        "attrMax2",
+        "1792"
+      ],
+      [
+        "attr3",
+        "2240"
+      ],
+      [
+        "attrLv3",
+        "0"
+      ],
+      [
+        "attrMax3",
+        "2240"
+      ],
+      [
+        "attrPer1",
+        "600"
+      ],
+      [
+        "attrPer2",
+        "800"
+      ],
+      [
+        "attrPer3",
+        "1000"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010113,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3964,
+        5
+      ],
+      [
+        3,
+        3200035,
+        1
+      ],
+      [
+        8,
+        3964,
+        40000
+      ]
+    ],
+    "BuffPar": [
+      [
+        1250,
+        1750
+      ]
+    ],
+    "FightValue": 298,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "276": {
+    "Id": 276,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3965,
+    "Level": 1,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010114,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        7
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3965,
+        1
+      ],
+      [
+        3,
+        3210170,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        650
+      ]
+    ],
+    "FightValue": 44,
+    "ModelPointScale": [],
+    "BondsFraction": 4
+  },
+  "277": {
+    "Id": 277,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3965,
+    "Level": 2,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010114,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        9
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3965,
+        2
+      ],
+      [
+        3,
+        3210170,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        800
+      ]
+    ],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 5
+  },
+  "278": {
+    "Id": 278,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3965,
+    "Level": 3,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010114,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        11
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3965,
+        3
+      ],
+      [
+        3,
+        3210170,
+        1
+      ],
+      [
+        8,
+        3965,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        950
+      ]
+    ],
+    "FightValue": 164,
+    "ModelPointScale": [],
+    "BondsFraction": 6
+  },
+  "279": {
+    "Id": 279,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3965,
+    "Level": 4,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010114,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        13
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3965,
+        4
+      ],
+      [
+        3,
+        3210170,
+        1
+      ],
+      [
+        8,
+        3965,
+        20000
+      ]
+    ],
+    "BuffPar": [
+      [
+        1100
+      ]
+    ],
+    "FightValue": 209,
+    "ModelPointScale": [],
+    "BondsFraction": 7
+  },
+  "280": {
+    "Id": 280,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3965,
+    "Level": 5,
+    "FloatParameter": [],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010114,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052208,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3965,
+        5
+      ],
+      [
+        3,
+        3210170,
+        1
+      ],
+      [
+        8,
+        3965,
+        40000
+      ]
+    ],
+    "BuffPar": [
+      [
+        1250
+      ]
+    ],
+    "FightValue": 298,
+    "ModelPointScale": [],
+    "BondsFraction": 8
+  },
+  "281": {
+    "Id": 281,
+    "Name": "Modification Stage 1",
+    "Des": "Skill Effect Boost, Stage 1",
+    "SkillId": 3966,
+    "Level": 1,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "130"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        2
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010118,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        7
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3966,
+        1
+      ],
+      [
+        1,
+        11122,
+        2615
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 44,
+    "ModelPointScale": [],
+    "BondsFraction": 4
+  },
+  "282": {
+    "Id": 282,
+    "Name": "Modification Stage 2",
+    "Des": "Skill Effect Boost, Stage 2",
+    "SkillId": 3966,
+    "Level": 2,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "260"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        4
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010118,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        9
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3966,
+        2
+      ],
+      [
+        1,
+        11122,
+        3214
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 89,
+    "ModelPointScale": [],
+    "BondsFraction": 5
+  },
+  "283": {
+    "Id": 283,
+    "Name": "Modification Stage 3",
+    "Des": "Skill Effect Boost, Stage 3",
+    "SkillId": 3966,
+    "Level": 3,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "390"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        6
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010118,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        11
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3966,
+        3
+      ],
+      [
+        1,
+        11122,
+        3813
+      ],
+      [
+        8,
+        3966,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 164,
+    "ModelPointScale": [],
+    "BondsFraction": 6
+  },
+  "284": {
+    "Id": 284,
+    "Name": "Modification Stage 4",
+    "Des": "Skill Effect Boost, Stage 4",
+    "SkillId": 3966,
+    "Level": 4,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "520"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        8
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010118,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        13
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3966,
+        4
+      ],
+      [
+        1,
+        11122,
+        4412
+      ],
+      [
+        8,
+        3966,
+        20000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 209,
+    "ModelPointScale": [],
+    "BondsFraction": 7
+  },
+  "285": {
+    "Id": 285,
+    "Name": "Modification Stage 5",
+    "Des": "Skill Effect Boost, Stage 5",
+    "SkillId": 3966,
+    "Level": 5,
+    "FloatParameter": [
+      [
+        "attrPer",
+        "650"
+      ]
+    ],
+    "UlockSkillLevel": [
+      [
+        1,
+        10
+      ]
+    ],
+    "UpgradeCost": [
+      [
+        3010118,
+        1
+      ],
+      [
+        1052200,
+        5
+      ],
+      [
+        1052207,
+        15
+      ]
+    ],
+    "UpgradeExtraCost": [],
+    "TransformationType": [
+      [
+        7,
+        3966,
+        5
+      ],
+      [
+        1,
+        11122,
+        5040
+      ],
+      [
+        8,
+        3966,
+        40000
+      ]
+    ],
+    "BuffPar": [],
+    "FightValue": 298,
+    "ModelPointScale": [],
+    "BondsFraction": 8
   }
 }

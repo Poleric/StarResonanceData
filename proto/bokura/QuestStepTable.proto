@@ -1,33 +1,32 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message QuestStepTableBase {
-  int32 quest_step_id = 481;
-  int_table step_param = 562;
-  string lua_jump = 566;
-  int32 fail_to_step = 1368;
-  int32 complete_to_step = 1878;
-  int_array complete_all_step = 972;
-  int_table npc_talk_change = 1023;
-  int_table quest_items = 1419;
-  mlstring step_tips = 336;
-  int32 quest_click_jump = 1941;
-  int_array time_limited_step = 944;
-  int32 step_target_type = 1603;
-  string_table step_target_condition = 1291;
-  string_table step_target_pos = 1340;
-  mlstring step_main_title = 1328;
-  mlstring_array step_target_info = 491;
-  int32 disable_transport = 758;
-  int32 scene_check = 302;
-  int32 visual_layer_check = 84;
-  bool hide_track_bar = 235;
+	int32 QuestStepId = 481 [json_name = "QuestStepId"];
+	int_table StepParam = 562 [json_name = "StepParam"];
+	string LuaJump = 566 [json_name = "LuaJump"];
+	int32 FailToStep = 1368 [json_name = "FailToStep"];
+	int32 CompleteToStep = 1878 [json_name = "CompleteToStep"];
+	int_array CompleteAllStep = 972 [json_name = "CompleteAllStep"];
+	int_table NpcTalkChange = 1023 [json_name = "NpcTalkChange"];
+	int_table QuestItems = 1419 [json_name = "QuestItems"];
+	mlstring StepTips = 336 [json_name = "StepTips"];
+	int32 QuestClickJump = 1941 [json_name = "QuestClickJump"];
+	int_array TimeLimitedStep = 944 [json_name = "TimeLimitedStep"];
+	int32 StepTargetType = 1603 [json_name = "StepTargetType"];
+	string_table StepTargetCondition = 1291 [json_name = "StepTargetCondition"];
+	string_table StepTargetPos = 1340 [json_name = "StepTargetPos"];
+	mlstring StepMainTitle = 1328 [json_name = "StepMainTitle"];
+	mlstring_array StepTargetInfo = 491 [json_name = "StepTargetInfo"];
+	int32 DisableTransport = 758 [json_name = "DisableTransport"];
+	int32 SceneCheck = 302 [json_name = "SceneCheck"];
+	int32 VisualLayerCheck = 84 [json_name = "VisualLayerCheck"];
+	bool HideTrackBar = 235 [json_name = "HideTrackBar"];
 }
 
 message QuestStepTableMgr {
-  map<int32, bokura.QuestStepTableBase> datas = 1;
+	map<int32, QuestStepTableBase> datas = 1 [json_name = "datas"];
 }
-

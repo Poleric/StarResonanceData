@@ -1,17 +1,16 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message FreightData {
-  int64 refresh_time = 1;
-  int32 goods_value = 2;
-  bool set_off = 3;
-  bool can_receive = 4;
-  repeated int32 up_goods_list = 5;
-  repeated int32 keep_goods_list = 6;
-  repeated int32 down_goods_list = 7;
-  int64 can_reward_time = 8;
-}
+package zproto;
 
+message FreightData {
+	int64 refreshTime = 1 [json_name = "refreshTime"];
+	int32 goodsValue = 2 [json_name = "goodsValue"];
+	bool setOff = 3 [json_name = "setOff"];
+	bool canReceive = 4 [json_name = "canReceive"];
+	repeated int32 upGoodsList = 5 [json_name = "upGoodsList"];
+	repeated int32 keepGoodsList = 6 [json_name = "keepGoodsList"];
+	repeated int32 downGoodsList = 7 [json_name = "downGoodsList"];
+	int64 canRewardTime = 8 [json_name = "canRewardTime"];
+}

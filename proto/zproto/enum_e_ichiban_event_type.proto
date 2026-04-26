@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EIchibanEventType {
+	EIchibanEventTypeNull = 0;
+	EIchibanEventLuckFree = 1;
+	EIchibanEventLuckReturn = 2;
+	EIchibanEventLuckAddProb = 3;
+	EIchibanEventLuckExclude = 4;
+	EIchibanEventInevitableRandomGift = 990;
+	EIchibanEventInevitableGuarantee = 991;
+	EIchibanEventInevitableReturn = 992;
+	EIchibanEventTypeNone = 999;
+}

@@ -3,18 +3,17 @@ syntax = "proto3";
 package bokura;
 
 message ComposeTableBase {
-  int32 id = 1463;
-  int32 system_id = 518;
-  int32 nums = 1546;
-  string name = 439;
-  int32 successful_probability = 1228;
-  int32 obtain_id = 1071;
-  int32 obtain_num = 1929;
-  string obtain_name = 1627;
-  int32 consumable_tips = 901;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 SystemId = 518 [json_name = "SystemId"];
+	int32 Nums = 1546 [json_name = "Nums"];
+	string Name = 439 [json_name = "Name"];
+	int32 SuccessfulProbability = 1228 [json_name = "SuccessfulProbability"];
+	int32 ObtainID = 1071 [json_name = "ObtainID"];
+	int32 ObtainNum = 1929 [json_name = "ObtainNum"];
+	string ObtainName = 1627 [json_name = "ObtainName"];
+	int32 ConsumableTips = 901 [json_name = "ConsumableTips"];
 }
 
 message ComposeTableMgr {
-  map<int32, bokura.ComposeTableBase> datas = 1;
+	map<int32, ComposeTableBase> datas = 1 [json_name = "datas"];
 }
-

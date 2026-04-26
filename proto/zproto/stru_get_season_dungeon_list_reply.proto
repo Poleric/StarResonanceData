@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_season_dungeon_affix.proto";
 
-message GetSeasonDungeonListReply {
-  repeated uint32 dungeon_id_list = 2;
-  map<uint32, zproto.SeasonDungeonAffix> dungeon_affixes = 3;
-  zproto.EErrorCode err_code = 4;
-}
+package zproto;
 
+message GetSeasonDungeonListReply {
+	repeated uint32 dungeonIdList = 2 [json_name = "dungeonIdList"];
+	map<uint32, SeasonDungeonAffix> dungeonAffixes = 3 [json_name = "dungeonAffixes"];
+	EErrorCode errCode = 4 [json_name = "errCode"];
+}

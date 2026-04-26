@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_home_land_item_instance.proto";
 
-message HomelandPlayerWarehouseInfo {
-  map<int64, zproto.HomeLandItemInstance> furniture_items = 1;
-}
+package zproto;
 
+message HomelandPlayerWarehouseInfo {
+	map<int64, HomeLandItemInstance> furnitureItems = 1 [json_name = "furnitureItems"];
+}

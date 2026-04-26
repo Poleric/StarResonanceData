@@ -1,21 +1,20 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_level_proficiency.proto";
 import "stru_dirty_mask.proto";
 
-message RoleLevel {
-  int32 level = 1;
-  int64 cur_level_exp = 2;
-  map<int32, bool> received_level_list = 3;
-  zproto.LevelProficiency proficiency_info = 4;
-  map<int32, int64> active_exp_map = 5;
-  int32 last_season_day = 6;
-  int64 bless_exp_pool = 7;
-  int64 grant_bless_exp = 8;
-  int64 accumulate_bless_exp = 9;
-  int64 accumulate_exp = 10;
-  int32 prev_season_max_lv = 11;
-}
+package zproto;
 
+message RoleLevel {
+	int32 level = 1 [json_name = "level"];
+	int64 curLevelExp = 2 [json_name = "curLevelExp"];
+	map<int32, bool> ReceivedLevelList = 3 [json_name = "ReceivedLevelList"];
+	LevelProficiency proficiencyInfo = 4 [json_name = "proficiencyInfo"];
+	map<int32, int64> activeExpMap = 5 [json_name = "activeExpMap"];
+	int32 lastSeasonDay = 6 [json_name = "lastSeasonDay"];
+	int64 blessExpPool = 7 [json_name = "blessExpPool"];
+	int64 grantBlessExp = 8 [json_name = "grantBlessExp"];
+	int64 accumulateBlessExp = 9 [json_name = "accumulateBlessExp"];
+	int64 accumulateExp = 10 [json_name = "accumulateExp"];
+	int32 prevSeasonMaxLv = 11 [json_name = "prevSeasonMaxLv"];
+}

@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FaceOptionTableBase {
-  int32 id = 1463;
-  int32 option = 773;
-  int32 color_group = 68;
-  int32 random = 1636;
-  int_table random_type = 575;
-  int32 tab = 860;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Option = 773 [json_name = "Option"];
+	int32 ColorGroup = 68 [json_name = "ColorGroup"];
+	int32 Random = 1636 [json_name = "Random"];
+	int_table RandomType = 575 [json_name = "RandomType"];
+	int32 Tab = 860 [json_name = "Tab"];
 }
 
 message FaceOptionTableMgr {
-  map<int32, bokura.FaceOptionTableBase> datas = 1;
+	map<int32, FaceOptionTableBase> datas = 1 [json_name = "datas"];
 }
-

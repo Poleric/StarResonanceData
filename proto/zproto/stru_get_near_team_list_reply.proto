@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_show_team.proto";
 
-message GetNearTeamListReply {
-  repeated zproto.ShowTeam team_list = 1;
-  bool is_refresh = 2;
-  int32 member_count = 4;
-  bool ignore_self_talent = 5;
-  zproto.EErrorCode err_code = 6;
-}
+package zproto;
 
+message GetNearTeamListReply {
+	repeated ShowTeam teamList = 1 [json_name = "teamList"];
+	bool isRefresh = 2 [json_name = "isRefresh"];
+	int32 memberCount = 4 [json_name = "memberCount"];
+	bool IgnoreSelfTalent = 5 [json_name = "IgnoreSelfTalent"];
+	EErrorCode errCode = 6 [json_name = "errCode"];
+}

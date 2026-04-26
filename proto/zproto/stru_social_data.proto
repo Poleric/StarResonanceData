@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_account_data.proto";
 import "stru_avatar_info.proto";
 import "stru_basic_data.proto";
@@ -24,28 +22,29 @@ import "stru_user_attr_data.proto";
 import "stru_warehouse_data.proto";
 import "stru_dirty_mask.proto";
 
-message SocialData {
-  int64 char_id = 1;
-  string account_id = 2;
-  zproto.BasicData basic_data = 3;
-  zproto.AvatarInfo avatar_info = 4;
-  zproto.FaceData face_data = 5;
-  zproto.ProfessionData profession_data = 6;
-  zproto.EquipData equip_data = 7;
-  zproto.FashionData fashion_data = 8;
-  zproto.SettingData setting_data = 9;
-  zproto.SceneData scene_data = 10;
-  zproto.UserAttrData user_attr_data = 11;
-  zproto.CharTeam team_data = 12;
-  zproto.UnionData union_data = 13;
-  zproto.AccountData account_data = 14;
-  zproto.FunctionData function_data = 15;
-  zproto.PersonalZone personal_zone = 16;
-  zproto.WarehouseData warehouse = 17;
-  zproto.SeasonRankData season_rank = 18;
-  zproto.FishSocialData fish_data = 19;
-  zproto.CommunityData community_data = 20;
-  zproto.PrivilegeData privilege_data = 21;
-  zproto.MasterModeDungeonData master_mode_dungeon_data = 22;
-}
+package zproto;
 
+message SocialData {
+	int64 charId = 1 [json_name = "charId"];
+	string accountId = 2 [json_name = "accountId"];
+	BasicData basicData = 3 [json_name = "basicData"];
+	AvatarInfo avatarInfo = 4 [json_name = "avatarInfo"];
+	FaceData faceData = 5 [json_name = "faceData"];
+	ProfessionData professionData = 6 [json_name = "professionData"];
+	EquipData equipData = 7 [json_name = "equipData"];
+	FashionData fashionData = 8 [json_name = "fashionData"];
+	SettingData settingData = 9 [json_name = "settingData"];
+	SceneData sceneData = 10 [json_name = "sceneData"];
+	UserAttrData userAttrData = 11 [json_name = "userAttrData"];
+	CharTeam teamData = 12 [json_name = "teamData"];
+	UnionData unionData = 13 [json_name = "unionData"];
+	AccountData accountData = 14 [json_name = "accountData"];
+	FunctionData functionData = 15 [json_name = "functionData"];
+	PersonalZone personalZone = 16 [json_name = "personalZone"];
+	WarehouseData warehouse = 17 [json_name = "warehouse"];
+	SeasonRankData seasonRank = 18 [json_name = "seasonRank"];
+	FishSocialData fishData = 19 [json_name = "fishData"];
+	CommunityData communityData = 20 [json_name = "communityData"];
+	PrivilegeData privilegeData = 21 [json_name = "privilegeData"];
+	MasterModeDungeonData masterModeDungeonData = 22 [json_name = "masterModeDungeonData"];
+}

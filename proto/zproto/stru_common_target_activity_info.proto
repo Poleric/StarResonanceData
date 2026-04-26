@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message CommonTargetActivityInfo {
+	uint32 finishNum = 1 [json_name = "finishNum"];
+	bool hasReceived = 2 [json_name = "hasReceived"];
+}

@@ -3,7 +3,7 @@
     "Id": 1001,
     "Name": "Moonlight Cha-Cha",
     "RecipeText": "One serving of Blue Citrus Serum and Lemonade each",
-    "IntroductionText": "\"Dear, let the moon and sea breeze intertwine into a kiss, and dance with me on the deck.\" A drink favored by couples in Asterleeds, if tasted during a date, <style=\"emph-gn\">romance</style> points conservatively increase by 0.01%!",
+    "IntroductionText": "\"Dear, let the moon and seabreeze intertwine into a kiss, and dance with me on the deck.\" A drink favored by couples in Asterleeds, if tasted during a date, <style=\"emph-gn\">romance</style> points conservatively increase by 0.01%!",
     "Recipe": [
       [
         1030007,
@@ -71,7 +71,7 @@
   },
   "1004": {
     "Id": 1004,
-    "Name": "Silent Sea Breeze",
+    "Name": "Silent Seabreeze",
     "RecipeText": "One serving of Blue Citrus Serum and one serving of Soda, needs to be served with ice",
     "IntroductionText": "\"If you hate or love someone, order this drink for him/her.\" No need for words, the <style=\"emph-gn\">silence</style> after drinking is the best answer.",
     "Recipe": [

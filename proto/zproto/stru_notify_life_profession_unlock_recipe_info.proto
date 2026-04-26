@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message NotifyLifeProfessionUnlockRecipeInfo {
-  repeated int32 recipe_ids = 1;
+	repeated int32 recipeIds = 1 [json_name = "recipeIds"];
 }
-

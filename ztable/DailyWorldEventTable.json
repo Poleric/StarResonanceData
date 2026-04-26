@@ -1,8 +1,8 @@
 {
   "7050": {
     "EventId": 7050,
-    "Name": "Purify the Void",
-    "Desc": "Void Corruption Rifts appeared on the plains, and local monsters were corrupted. The Bureau commissioned adventurers to investigate and clear out the Void Monsters.",
+    "Name": "Goblin Rampage",
+    "Desc": "A fissure has appeared on the plains, and the Goblins have begun a rampage! The Pioneer Bureau has commissioned adventurers to investigate and clear out the rampaging monsters.",
     "Target": [],
     "Scene": 7,
     "Entity": [
@@ -17,8 +17,8 @@
   },
   "7051": {
     "EventId": 7051,
-    "Name": "Purify the Void",
-    "Desc": "Void Corruption Rifts appeared on the plains, and local monsters were corrupted. The Bureau Commissioned adventurers to investigate and clear out the Void Monsters.",
+    "Name": "Goblin Rampage",
+    "Desc": "A fissure has appeared on the plains, and the Goblins have begun a rampage! The Pioneer Bureau has commissioned adventurers to investigate and clear out the rampaging monsters.",
     "Target": [
       1,
       1,
@@ -38,8 +38,8 @@
   },
   "7052": {
     "EventId": 7052,
-    "Name": "Purify the Void",
-    "Desc": "Void Corruption Rifts appeared on the plains, and local monsters were corrupted. The Bureau Commissioned adventurers to investigate and clear out the Void Monsters.",
+    "Name": "Goblin Rampage",
+    "Desc": "A fissure has appeared on the plains, and the Goblins have begun a rampage! The Pioneer Bureau has commissioned adventurers to investigate and clear out the rampaging monsters.",
     "Target": [
       1,
       1,
@@ -59,8 +59,8 @@
   },
   "7053": {
     "EventId": 7053,
-    "Name": "Purify the Void",
-    "Desc": "Void Corruption Rifts appeared on the plains, and local monsters were corrupted. The Bureau Commissioned adventurers to investigate and clear out the Void Monsters.",
+    "Name": "Goblin Rampage",
+    "Desc": "A fissure has appeared on the plains, and the Goblins have begun a rampage! The Pioneer Bureau has commissioned adventurers to investigate and clear out the rampaging monsters.",
     "Target": [
       1,
       1,
@@ -80,8 +80,8 @@
   },
   "7055": {
     "EventId": 7055,
-    "Name": "Void Mage Hunt",
-    "Desc": "Void Corruption Rift appeared on the plains, and Goblin Magees were corrupted. The Pioneering Bureau commissioned adventurers to eliminate the eroded goblin liches.",
+    "Name": "Defeat the Goblin Mage",
+    "Desc": "A fissure has appeared on the plains, causing the Goblin Mage to become frenzied. The Pioneer Bureau has commissioned adventurers to eliminate the Goblin Mage.",
     "Target": [
       1,
       1,
@@ -94,7 +94,7 @@
       7886
     ],
     "DungeonId": 7055,
-    "Type": 2,
+    "Type": 1,
     "TimerId": 683,
     "Award": 11000010,
     "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_2"
@@ -158,7 +158,7 @@
     ],
     "DungeonId": 7072,
     "Type": 2,
-    "TimerId": 683,
+    "TimerId": 0,
     "Award": 11000010,
     "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_10"
   },
@@ -228,7 +228,7 @@
   "7085": {
     "EventId": 7085,
     "Name": "Boars Run",
-    "Desc": "At the cult's base, a Boarlet owner has commissioned adventurers to help catch Boarlets in the pen.",
+    "Desc": "At the Creed's base, a Boarlet owner has commissioned adventurers to help catch Boars in the pen.",
     "Target": [
       1,
       1,
@@ -241,7 +241,7 @@
       18504
     ],
     "DungeonId": 7085,
-    "Type": 3,
+    "Type": 2,
     "TimerId": 682,
     "Award": 11000010,
     "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_7"
@@ -262,8 +262,8 @@
       18734
     ],
     "DungeonId": 7090,
-    "Type": 2,
-    "TimerId": 682,
+    "Type": 0,
+    "TimerId": 0,
     "Award": 11000010,
     "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_8"
   },
@@ -287,5 +287,131 @@
     "TimerId": 682,
     "Award": 11000010,
     "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_9"
+  },
+  "8001": {
+    "EventId": 8001,
+    "Name": "Golem Defensive Patrol",
+    "Desc": "Although humans haven't yet figured out how to activate Golems, some experts have managed to build a few replicas based on the Legacy... reportedly reaching 66% of the original's power. Please assist with testing them and repel the monsters in the rift.",
+    "Target": [
+      1,
+      1,
+      0,
+      8001
+    ],
+    "Scene": 9,
+    "Entity": [
+      3,
+      3913
+    ],
+    "DungeonId": 8001,
+    "Type": 4,
+    "TimerId": 681,
+    "Award": 11000030,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_13"
+  },
+  "8002": {
+    "EventId": 8002,
+    "Name": "Golem Steel Fist Battle",
+    "Desc": "To evaluate the melee performance of the replica Golems, civilian Legacy experts have initiated a combat test. Repel the formidable enemies in the rift to complete the final assessment.",
+    "Target": [
+      1,
+      1,
+      0,
+      8002
+    ],
+    "Scene": 9,
+    "Entity": [
+      3,
+      3915
+    ],
+    "DungeonId": 8002,
+    "Type": 4,
+    "TimerId": 681,
+    "Award": 11000030,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_14"
+  },
+  "8005": {
+    "EventId": 8005,
+    "Name": "Urgent Delivery: Highlands",
+    "Desc": "The courier has encountered unexpected obstacles in the highlands. Adventurers are needed to escort the supplies and ensure the route stays clear.",
+    "Target": [
+      1,
+      1,
+      0,
+      8005
+    ],
+    "Scene": 9,
+    "Entity": [
+      3,
+      3918
+    ],
+    "DungeonId": 8005,
+    "Type": 5,
+    "TimerId": 681,
+    "Award": 11000030,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_12"
+  },
+  "8006": {
+    "EventId": 8006,
+    "Name": "Urgent Delivery: Mountains",
+    "Desc": "The rugged mountain route has become treacherous once again. Adventurers are needed to help the courier navigate the hazards and deliver the supplies safely.",
+    "Target": [
+      1,
+      1,
+      0,
+      8006
+    ],
+    "Scene": 9,
+    "Entity": [
+      3,
+      3921
+    ],
+    "DungeonId": 8006,
+    "Type": 5,
+    "TimerId": 681,
+    "Award": 11000030,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_12"
+  },
+  "8020": {
+    "EventId": 8020,
+    "Name": "Conflict Resolution: Part I",
+    "Desc": "When conflict arises among monsters, they call upon the strong to intervene. Choose a side and help suppress the opposition to end the conflict.",
+    "Target": [
+      1,
+      1,
+      0,
+      8020
+    ],
+    "Scene": 9,
+    "Entity": [
+      3,
+      3924
+    ],
+    "DungeonId": 8020,
+    "Type": 6,
+    "TimerId": 681,
+    "Award": 11000030,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_15"
+  },
+  "8021": {
+    "EventId": 8021,
+    "Name": "Conflict Resolution: Part II",
+    "Desc": "The conflict has flared up again! This time, both sides want your help. Pick a faction and join the battle to bring the conflict to a decisive end.",
+    "Target": [
+      1,
+      1,
+      0,
+      8021
+    ],
+    "Scene": 9,
+    "Entity": [
+      3,
+      3927
+    ],
+    "DungeonId": 8021,
+    "Type": 6,
+    "TimerId": 681,
+    "Award": 11000030,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_15"
   }
 }

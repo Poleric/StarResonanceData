@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+import "stru_leave_mahjong_table_request.proto";
+import "stru_mahjong_disband_table_request.proto";
+import "stru_mahjong_start_request.proto";
+
+package zproto;
+
+message Mahjong {
+	message LeaveMahjongTable {
+		LeaveMahjongTableRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message MahjongStart {
+		MahjongStartRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message MahjongDisbandTable {
+		MahjongDisbandTableRequest vRequest = 1 [json_name = "vRequest"];
+	}
+}

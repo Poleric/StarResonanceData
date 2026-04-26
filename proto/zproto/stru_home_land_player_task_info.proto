@@ -1,12 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_home_land_task.proto";
 
-message HomeLandPlayerTaskInfo {
-  int64 next_task_reflush_time = 1;
-  int32 cur_left_times = 2;
-  map<int32, zproto.HomeLandTask> cur_task_map = 3;
-}
+package zproto;
 
+message HomeLandPlayerTaskInfo {
+	int64 nextTaskReflushTime = 1 [json_name = "nextTaskReflushTime"];
+	int32 curLeftTimes = 2 [json_name = "curLeftTimes"];
+	map<int32, HomeLandTask> curTaskMap = 3 [json_name = "curTaskMap"];
+	int64 newNextTaskReflushSec = 4 [json_name = "newNextTaskReflushSec"];
+}

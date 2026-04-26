@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message SortItemParam {
-  int64 src_item_uuid = 1;
-  int64 dst_item_uuid = 2;
+	int64 srcItemUuid = 1 [json_name = "srcItemUuid"];
+	int64 dstItemUuid = 2 [json_name = "dstItemUuid"];
 }
-

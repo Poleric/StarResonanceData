@@ -1,23 +1,22 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message GMTableBase {
-  int32 id = 1463;
-  int32 gm_group = 602;
-  int32 type = 673;
-  string command = 2030;
-  string_array parameter_or_content = 412;
-  string_array optional_parameter = 1321;
-  string_array parameter_check = 1880;
-  mlstring button_show = 174;
-  mlstring_array command_or_parameter_remark = 1184;
-  bool au_to_close = 898;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 GMGroup = 602 [json_name = "GMGroup"];
+	int32 Type = 673 [json_name = "Type"];
+	string Command = 2030 [json_name = "Command"];
+	string_array ParameterOrContent = 412 [json_name = "ParameterOrContent"];
+	string_array OptionalParameter = 1321 [json_name = "OptionalParameter"];
+	string_array ParameterCheck = 1880 [json_name = "ParameterCheck"];
+	mlstring ButtonShow = 174 [json_name = "ButtonShow"];
+	mlstring_array CommandOrParameterRemark = 1184 [json_name = "CommandOrParameterRemark"];
+	bool AuToClose = 898 [json_name = "AuToClose"];
 }
 
 message GMTableMgr {
-  map<int32, bokura.GMTableBase> datas = 1;
+	map<int32, GMTableBase> datas = 1 [json_name = "datas"];
 }
-

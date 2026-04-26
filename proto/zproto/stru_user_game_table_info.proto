@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_game_table_key.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message UserGameTableInfo {
+	GameTableKey gameTableKey = 1 [json_name = "gameTableKey"];
+	int32 seatIndex = 2 [json_name = "seatIndex"];
+	int32 exitTimeSec = 3 [json_name = "exitTimeSec"];
+}

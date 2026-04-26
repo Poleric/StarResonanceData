@@ -3,9 +3,9 @@ syntax = "proto3";
 package zproto;
 
 message UnionActivityTarget {
-  int32 cur_num = 1;
-  bool has_finished = 2;
-  int64 last_refresh_time = 3;
-  int64 next_refresh_time = 4;
+	int32 curNum = 1 [json_name = "curNum"];
+	bool hasFinished = 2 [json_name = "hasFinished"];
+	int64 lastRefreshTime = 3 [json_name = "lastRefreshTime"];
+	int64 nextRefreshTime = 4 [json_name = "nextRefreshTime"];
+	int32 targetId = 5 [json_name = "targetId"];
 }
-

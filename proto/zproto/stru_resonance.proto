@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message Resonance {
-  map<uint32, int64> resonances = 1;
-  repeated uint32 installed = 2;
-}
+package zproto;
 
+message Resonance {
+	map<uint32, int64> resonances = 1 [json_name = "resonances"];
+	repeated uint32 installed = 2 [json_name = "installed"];
+}

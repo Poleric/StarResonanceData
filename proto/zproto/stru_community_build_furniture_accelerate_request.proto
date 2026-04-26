@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message CommunityBuildFurnitureAccelerateRequest {
-  int64 build_uuid = 1;
-  int32 count = 2;
+	int64 buildUuid = 1 [json_name = "buildUuid"];
+	int32 count = 2 [json_name = "count"];
 }
-

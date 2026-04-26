@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message RefreshShopRequest {
-  int32 shop_id = 2;
+	int32 shopId = 2 [json_name = "shopId"];
 }
-

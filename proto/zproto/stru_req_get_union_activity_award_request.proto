@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ReqGetUnionActivityAwardRequest {
-  int32 union_id = 2;
-  int32 activity_id = 3;
-  int32 progress = 4;
+	int32 unionId = 2 [json_name = "unionId"];
+	int32 activityId = 3 [json_name = "activityId"];
+	int32 progress = 4 [json_name = "progress"];
 }
-

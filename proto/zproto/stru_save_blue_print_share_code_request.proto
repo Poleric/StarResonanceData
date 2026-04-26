@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_blue_print_type.proto";
+
+package zproto;
+
+message SaveBluePrintShareCodeRequest {
+	int32 slot = 1 [json_name = "slot"];
+	BluePrintType bluePrintType = 2 [json_name = "bluePrintType"];
+	string shareCode = 3 [json_name = "shareCode"];
+}

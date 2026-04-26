@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+message EntryRandomDataParam {
+	int32 refreshCnt = 1 [json_name = "refreshCnt"];
+	repeated int32 ids = 2 [json_name = "ids"];
+	int64 objUuid = 3 [json_name = "objUuid"];
+	int64 deadTimestamp = 4 [json_name = "deadTimestamp"];
+}

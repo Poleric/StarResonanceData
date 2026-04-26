@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_structure_land_op.proto";
 
-message FertilizerUpdateStructureRequest {
-  int64 home_id = 1;
-  zproto.StructureLandOp op = 2;
-  int32 item_id = 3;
-}
+package zproto;
 
+message FertilizerUpdateStructureRequest {
+	int64 homeId = 1 [json_name = "homeId"];
+	StructureLandOp op = 2 [json_name = "op"];
+	int32 itemId = 3 [json_name = "itemId"];
+}

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message NotifyShopItemCanBuyParam {
-  map<int32, bool> is_show_red = 1;
+	map<int32, bool> isShowRed = 1 [json_name = "isShowRed"];
 }
-

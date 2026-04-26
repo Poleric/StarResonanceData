@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ArkShareWithTencentRequest {
-  uint64 target_char_id = 1;
-  string selef_open_id = 2;
-  string selef_token = 3;
+	uint64 targetCharId = 1 [json_name = "targetCharId"];
+	string selefOpenId = 2 [json_name = "selefOpenId"];
+	string selefToken = 3 [json_name = "selefToken"];
 }
-

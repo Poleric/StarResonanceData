@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_union_e_screen_info.proto";
 
-message GetUnionEScreenListReply {
-  repeated zproto.UnionEScreenInfo e_screen_list = 1;
-  int32 cur_set_times = 2;
-  int32 max_set_times = 3;
-  zproto.EErrorCode err_code = 4;
-}
+package zproto;
 
+message GetUnionEScreenListReply {
+	repeated UnionEScreenInfo eScreenList = 1 [json_name = "eScreenList"];
+	int32 curSetTimes = 2 [json_name = "curSetTimes"];
+	int32 maxSetTimes = 3 [json_name = "maxSetTimes"];
+	EErrorCode errCode = 4 [json_name = "errCode"];
+}

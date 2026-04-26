@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+import "stru_community_authority_info.proto";
+import "stru_community_player_info.proto";
+import "stru_homeland_decoration_info.proto";
+
+package zproto;
+
+message HomelandVisitInfo {
+	int64 homelandId = 1 [json_name = "homelandId"];
+	int32 level = 2 [json_name = "level"];
+	int32 cleanliness = 3 [json_name = "cleanliness"];
+	int64 houseOwnerCharId = 4 [json_name = "houseOwnerCharId"];
+	string name = 5 [json_name = "name"];
+	string introduction = 6 [json_name = "introduction"];
+	int32 outerEmptyLand = 7 [json_name = "outerEmptyLand"];
+	int32 innerEmptyLand = 8 [json_name = "innerEmptyLand"];
+	int32 flowersNum = 9 [json_name = "flowersNum"];
+	map<int32, int32> furnitureState = 10 [json_name = "furnitureState"];
+	map<int64, CommunityPlayerInfo> cohabitant = 11 [json_name = "cohabitant"];
+	CommunityAuthorityInfo authorityInfo = 12 [json_name = "authorityInfo"];
+	HomelandDecorationInfo outerDecorationInfo = 13 [json_name = "outerDecorationInfo"];
+	HomelandDecorationInfo innerDecorationInfo = 14 [json_name = "innerDecorationInfo"];
+	repeated int32 unlockedAreas = 15 [json_name = "unlockedAreas"];
+	int32 HousingType = 16 [json_name = "HousingType"];
+	int32 fieldId = 17 [json_name = "fieldId"];
+	bool isHomelandFriend = 18 [json_name = "isHomelandFriend"];
+}

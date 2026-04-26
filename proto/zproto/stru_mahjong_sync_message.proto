@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "stru_mahjong_operation.proto";
+import "stru_mahjong_player_self.proto";
+import "stru_mahjong_player_show.proto";
+
+package zproto;
+
+message MahjongSyncMessage {
+	int32 DealerIndex = 1 [json_name = "DealerIndex"];
+	int32 Wind = 2 [json_name = "Wind"];
+	int32 WaitTime = 3 [json_name = "WaitTime"];
+	repeated int32 Doras = 4 [json_name = "Doras"];
+	repeated MahjongOperation Operations = 5 [json_name = "Operations"];
+	int32 CurrentIndex = 6 [json_name = "CurrentIndex"];
+	int32 CardIndex = 7 [json_name = "CardIndex"];
+	repeated MahjongPlayerShow Players = 8 [json_name = "Players"];
+	MahjongPlayerSelf PlayerSelf = 9 [json_name = "PlayerSelf"];
+	int32 LizhiCount = 10 [json_name = "LizhiCount"];
+	int32 HonbaCounter = 11 [json_name = "HonbaCounter"];
+	int32 ZhuangCounter = 12 [json_name = "ZhuangCounter"];
+	bool ForceRefresh = 13 [json_name = "ForceRefresh"];
+	string MahjongTableGuid = 14 [json_name = "MahjongTableGuid"];
+}

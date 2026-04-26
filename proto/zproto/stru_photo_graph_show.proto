@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_image_info.proto";
 import "stru_photo_owner_data.proto";
 import "stru_dirty_mask.proto";
 
-message PhotoGraphShow {
-  uint32 photo_id = 1;
-  repeated zproto.ImageInfo images = 2;
-  string render_info = 3;
-  string photo_desc = 4;
-  zproto.PhotoOwnerData owner_info = 5;
-}
+package zproto;
 
+message PhotoGraphShow {
+	uint32 photoId = 1 [json_name = "photoId"];
+	repeated ImageInfo images = 2 [json_name = "images"];
+	string renderInfo = 3 [json_name = "renderInfo"];
+	string photoDesc = 4 [json_name = "photoDesc"];
+	PhotoOwnerData ownerInfo = 5 [json_name = "ownerInfo"];
+}

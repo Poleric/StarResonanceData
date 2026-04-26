@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message GetFriendlinessRequest {
-  repeated int64 friend_ids = 1;
+	repeated int64 friendIds = 1 [json_name = "friendIds"];
 }
-

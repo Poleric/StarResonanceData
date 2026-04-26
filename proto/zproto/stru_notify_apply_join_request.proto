@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_apply_info.proto";
 
-message NotifyApplyJoinRequest {
-  zproto.ApplyInfo apply = 1;
-}
+package zproto;
 
+message NotifyApplyJoinRequest {
+	ApplyInfo apply = 1 [json_name = "apply"];
+}

@@ -1,0 +1,99 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Solid Foundation",
+    "Description": "<style=\"physical\">Consumes 10</style> HP to attack with a Wooden Stick.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20</style> HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient.</style><br>The actual damage is calculated based on the <style=\"physical\">Armor of the object the Stalker has transformed into</style>.</style><br><i><style=\"text_third_gray\">\"A true master cares not for the quality of their weapon.\"</style></i>",
+    "Attr": [
+      [
+        11320,
+        300
+      ],
+      [
+        11330,
+        100
+      ]
+    ],
+    "ItemId": 1056024,
+    "Condition": []
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Morning Mist's Guidance",
+    "Description": "<style=\"physical\">This weapon will be available in a future version.</style><br><br><style=\"physical\">Consumes 10</style> HP to attack with Fafala's Sword.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20 </style>HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient</style>.<br>The actual damage is calculated based on <style=\"physical\">the Armor of the object the Stalker has transformed into</style>.<br><style=\"physical\">Weapon Special Effect: Nearby Shadow Hunters continuously restore HP and gain increased movement speed.</style><br><i><style=\"text_third_gray\">\"I hope this brings you some peace...\"</style></i>",
+    "Attr": [
+      [
+        11320,
+        300
+      ],
+      [
+        11330,
+        100
+      ]
+    ],
+    "ItemId": 1056019,
+    "Condition": [
+      1056019,
+      1
+    ]
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Mourner's Blade",
+    "Description": "<style=\"physical\">This weapon will be available in a future version.</style><br><br><style=\"physical\">Consumes 10</style> HP to attack with Denvel's Greatsword.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20</style> HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient</style>.<br>The actual damage is calculated based on the <style=\"physical\">Armor of the object the Stalker has transformed into</style>.<br><style=\"physical\">Weapon Special Effect: Fires 2 additional blades of energy and clears all non-player objects within range.</style><br><i><style=\"text_third_gray\">\"With this, I purge the sorrows of the past.\"</style></i>",
+    "Attr": [
+      [
+        11320,
+        400
+      ],
+      [
+        11330,
+        100
+      ]
+    ],
+    "ItemId": 1056020,
+    "Condition": [
+      1056020,
+      1
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Gold Rush Dream",
+    "Description": "<style=\"physical\">This weapon will be available in a future version.</style><br><br><style=\"physical\">Consumes 10</style> HP to attack with a Pickaxe.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20</style> HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient.</style><br>The actual damage is calculated based on the <style=\"physical\">Armor of the object the Stalker has transformed into</style>.<br><style=\"physical\">Weapon Special Effect: Grants a random piece of ore on attack:<br>40% chance to obtain Amber: Reduces all skill CDs by 0.5s;<br>40% chance to obtain Benitoite: Restores 10 HP;<br>19% chance to obtain Dragon Crystal: Fires 5 energy blades in all directions;<br>1% chance to obtain Fulgurite: Lightning strikes all Stalkers within 30m.</style><br><i><style=\"text_third_gray\">\"Do I have to dig too?\"</style></i>",
+    "Attr": [
+      [
+        11320,
+        300
+      ],
+      [
+        11330,
+        100
+      ]
+    ],
+    "ItemId": 1056021,
+    "Condition": [
+      1056021,
+      1
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Forbidden Pinnacle",
+    "Description": "<style=\"physical\">This weapon will be available in a future version. </style><br><br><style=\"physical\">Consumes 10</style> HP to attack with a Light Stick.<br>If the attack <style=\"physical\">hits a Stalker</style>, <style=\"physical\">restores 20</style> HP.<br>Killing a Stalker fully restores HP.<br><style=\"physical\">Cannot be used when HP is insufficient.</style><br>The actual damage is calculated based on the <style=\"physical\">Armor of the object the Stalker has transformed into</style>.<br><style=\"physical\">Weapon Special Effect: Using any skill accumulates Dance Power. At 50 Dance Power, grants the Dance Off skill:<br>Upon use, fully restores HP and makes a random nearby Stalker the Spotlight.</style><br><i><style=\"text_third_gray\">\"Please, stop fighting...\"</style></i>",
+    "Attr": [
+      [
+        11320,
+        300
+      ],
+      [
+        11330,
+        100
+      ]
+    ],
+    "ItemId": 1056022,
+    "Condition": [
+      1056022,
+      1
+    ]
+  }
+}

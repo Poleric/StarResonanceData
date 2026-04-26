@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ReBeInitiateWarehouseRequest {
-  int64 warehouse_id = 1;
-  bool agree = 2;
-  int64 president_id = 3;
+	int64 WarehouseId = 1 [json_name = "WarehouseId"];
+	bool agree = 2 [json_name = "agree"];
+	int64 presidentId = 3 [json_name = "presidentId"];
 }
-

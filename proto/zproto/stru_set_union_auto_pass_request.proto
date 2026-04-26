@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message SetUnionAutoPassRequest {
-  int64 union_id = 2;
-  bool auto_pass = 3;
+	int64 unionId = 2 [json_name = "unionId"];
+	bool autoPass = 3 [json_name = "autoPass"];
 }
-

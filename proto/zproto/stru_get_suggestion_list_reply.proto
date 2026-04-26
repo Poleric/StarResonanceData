@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_personal_data.proto";
 
-message GetSuggestionListReply {
-  map<int32, zproto.PersonalData> suggestion_list = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message GetSuggestionListReply {
+	map<int32, PersonalData> suggestionList = 1 [json_name = "suggestionList"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

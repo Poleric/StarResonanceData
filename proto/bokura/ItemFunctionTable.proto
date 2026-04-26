@@ -1,28 +1,27 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ItemFunctionTableBase {
-  int32 id = 1463;
-  string name = 439;
-  int32 type = 673;
-  string_array parameter = 893;
-  mlstring button = 1927;
-  string_array use_limit = 265;
-  int32 reconfirm = 1107;
-  int32 target = 1340;
-  int32 auto_apply = 1791;
-  int32 use_cd = 1282;
-  int_array public_cd = 1233;
-  string effect = 602;
-  string sound_effect = 249;
-  int32 can_quick = 2025;
-  int32 item_batch = 1530;
+	int32 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	int32 Type = 673 [json_name = "Type"];
+	string_array Parameter = 893 [json_name = "Parameter"];
+	mlstring Button = 1927 [json_name = "Button"];
+	string_array UseLimit = 265 [json_name = "UseLimit"];
+	int32 Reconfirm = 1107 [json_name = "Reconfirm"];
+	int32 Target = 1340 [json_name = "Target"];
+	int32 AutoApply = 1791 [json_name = "AutoApply"];
+	int32 UseCD = 1282 [json_name = "UseCD"];
+	int_array PublicCD = 1233 [json_name = "PublicCD"];
+	string Effect = 602 [json_name = "Effect"];
+	string SoundEffect = 249 [json_name = "SoundEffect"];
+	int32 CanQuick = 2025 [json_name = "CanQuick"];
+	int32 ItemBatch = 1530 [json_name = "ItemBatch"];
 }
 
 message ItemFunctionTableMgr {
-  map<int32, bokura.ItemFunctionTableBase> datas = 1;
+	map<int32, ItemFunctionTableBase> datas = 1 [json_name = "datas"];
 }
-

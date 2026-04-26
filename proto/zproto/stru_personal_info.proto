@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message PersonalInfo {
-  string showing_picture = 1;
-  string signature = 2;
-  repeated int32 hobby_mark = 3;
-  repeated int32 time_mark = 4;
+	string showingPicture = 1 [json_name = "showingPicture"];
+	string signature = 2 [json_name = "signature"];
+	repeated int32 hobbyMark = 3 [json_name = "hobbyMark"];
+	repeated int32 timeMark = 4 [json_name = "timeMark"];
 }
-

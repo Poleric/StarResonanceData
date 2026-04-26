@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_homeland_decoration_info.proto";
 import "stru_structure.proto";
 
-message InitHomeLandInfo {
-  bool is_outer = 1;
-  map<int64, zproto.Structure> structures = 2;
-  zproto.HomelandDecorationInfo decoration_info = 3;
-}
+package zproto;
 
+message InitHomeLandInfo {
+	bool isOuter = 1 [json_name = "isOuter"];
+	map<int64, Structure> structures = 2 [json_name = "structures"];
+	HomelandDecorationInfo decorationInfo = 3 [json_name = "decorationInfo"];
+}

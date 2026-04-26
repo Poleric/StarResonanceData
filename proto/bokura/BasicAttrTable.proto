@@ -1,26 +1,25 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message BasicAttrTableBase {
-  int32 id = 1463;
-  int32 basic0 = 1978;
-  int_table grow_min0 = 1795;
-  int_array grow_times0 = 1494;
-  int32 basic2 = 56;
-  int_table grow_min2 = 1098;
-  int_array grow_times2 = 1315;
-  int32 basic3 = 1640;
-  int_table grow_min3 = 1474;
-  int_array grow_times3 = 1975;
-  int32 basic4 = 1070;
-  int_table grow_min4 = 356;
-  int_array grow_times4 = 1703;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Basic0 = 1978 [json_name = "Basic0"];
+	int_table GrowMin0 = 1795 [json_name = "GrowMin0"];
+	int_array GrowTimes0 = 1494 [json_name = "GrowTimes0"];
+	int32 Basic2 = 56 [json_name = "Basic2"];
+	int_table GrowMin2 = 1098 [json_name = "GrowMin2"];
+	int_array GrowTimes2 = 1315 [json_name = "GrowTimes2"];
+	int32 Basic3 = 1640 [json_name = "Basic3"];
+	int_table GrowMin3 = 1474 [json_name = "GrowMin3"];
+	int_array GrowTimes3 = 1975 [json_name = "GrowTimes3"];
+	int32 Basic4 = 1070 [json_name = "Basic4"];
+	int_table GrowMin4 = 356 [json_name = "GrowMin4"];
+	int_array GrowTimes4 = 1703 [json_name = "GrowTimes4"];
 }
 
 message BasicAttrTableMgr {
-  map<int32, bokura.BasicAttrTableBase> datas = 1;
+	map<int32, BasicAttrTableBase> datas = 1 [json_name = "datas"];
 }
-

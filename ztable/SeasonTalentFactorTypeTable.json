@@ -1,0 +1,22 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "General Attack"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "General Defense"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Class-specific Attack"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Class-specific Defense"
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Class Rhapsody Type"
+  }
+}

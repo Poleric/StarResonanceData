@@ -8,7 +8,7 @@
   },
   "1001": {
     "Id": 1001,
-    "TagName": "Normal Attack",
+    "TagName": "Basic Attack",
     "TagString": "Various moves triggered by the Basic Attack button",
     "TagType": 1,
     "ParentTag": 1010
@@ -64,8 +64,15 @@
   },
   "8": {
     "Id": 8,
-    "TagName": "Resonance skill",
+    "TagName": "Resonance Skill",
     "TagString": "Powerful skill learned from resonance",
+    "TagType": 1,
+    "ParentTag": 0
+  },
+  "103": {
+    "Id": 103,
+    "TagName": "Role Skills",
+    "TagString": "Special skills gained based on the assigned roles of Guardian, Attack, or Support",
     "TagType": 1,
     "ParentTag": 0
   },
@@ -113,17 +120,24 @@
   },
   "12": {
     "Id": 12,
-    "TagName": "HOT",
+    "TagName": "HoT",
     "TagString": "Skills that affect the target or leave a healing area that persists for a period, causing the target to continuously restore HP (this type of healing cannot trigger Luck effects)",
     "TagType": 2,
     "ParentTag": 1003
   },
   "89": {
     "Id": 89,
-    "TagName": "Lucky Strike Healing",
+    "TagName": "Luck Effect Healing",
     "TagString": "Healing caused by Lucky Effects triggered by skills (When using class skills that deal direct DMG or healing, all Lucky Effects you possess have a chance to trigger equal to your Luck Rate)",
     "TagType": 2,
     "ParentTag": 1003
+  },
+  "106": {
+    "Id": 106,
+    "TagName": "Lucky Strike",
+    "TagString": "The base Luck effect inherent to a Class",
+    "TagType": 1,
+    "ParentTag": 0
   },
   "66": {
     "Id": 66,
@@ -141,7 +155,7 @@
   },
   "68": {
     "Id": 68,
-    "TagName": "Single target",
+    "TagName": "Single Target",
     "TagString": "When there are fewer targets, the effect is stronger (if dealing damage, damage to the primary target does not diminish, but damage to other targets diminishes sharply)",
     "TagType": 1,
     "ParentTag": 0
@@ -190,8 +204,8 @@
   },
   "30": {
     "Id": 30,
-    "TagName": "Thunder Element",
-    "TagString": "Skills imbued with the power of the Thunder Element",
+    "TagName": "Thunder",
+    "TagString": "Skills imbued with the power of the Thunder",
     "TagType": 1,
     "ParentTag": 0
   },
@@ -239,8 +253,8 @@
   },
   "14": {
     "Id": 14,
-    "TagName": "Exaltation",
-    "TagString": "An effect that significantly boosts combat ability for a short period of time",
+    "TagName": "Battle Imagine Buff",
+    "TagString": "A buff effect granted after Battle Imagine casts an active skill.",
     "TagType": 2,
     "ParentTag": 1004
   },
@@ -254,7 +268,7 @@
   "43": {
     "Id": 43,
     "TagName": "Suppress",
-    "TagString": "A state when one's health is higher than the target's health, providing damage and Defense bonuses, and if developed under talents, additional effects will be added",
+    "TagString": "A state when one's health is higher than the target's health, providing damage and DMG Reduction bonuses, and if developed under talents, additional effects will be added",
     "TagType": 2,
     "ParentTag": 1004
   },
@@ -307,6 +321,13 @@
     "TagType": 2,
     "ParentTag": 1004
   },
+  "101": {
+    "Id": 101,
+    "TagName": "Versatility",
+    "TagString": "In a state of increased Versatility Boost",
+    "TagType": 2,
+    "ParentTag": 1004
+  },
   "73": {
     "Id": 73,
     "TagName": "Acceleration",
@@ -323,7 +344,7 @@
   },
   "75": {
     "Id": 75,
-    "TagName": "Increased damage",
+    "TagName": "Increased Damage",
     "TagString": "In an advantageous state where DMG-dealing ability is enhanced",
     "TagType": 2,
     "ParentTag": 1004
@@ -639,7 +660,7 @@
   "86": {
     "Id": 86,
     "TagName": "Toy and Mount Skills",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 0
   },
@@ -667,7 +688,7 @@
   "60": {
     "Id": 60,
     "TagName": "Goblin",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 0
   },
@@ -783,151 +804,207 @@
     "TagType": 1,
     "ParentTag": 0
   },
-  "95": {
-    "Id": 95,
-    "TagName": "Curse Stats",
-    "TagString": "A type of buff used in roguelike gameplay",
-    "TagType": 1,
-    "ParentTag": 0
-  },
-  "96": {
-    "Id": 96,
-    "TagName": "Bouncing Bullet",
-    "TagString": "Skill marker used in roguelike gameplay",
-    "TagType": 0,
-    "ParentTag": 0
-  },
   "1031": {
     "Id": 1031,
     "TagName": "Monster Type Tag",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 0
   },
   "202": {
     "Id": 202,
     "TagName": "Wild",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "203": {
     "Id": 203,
     "TagName": "Dungeon",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "204": {
     "Id": 204,
     "TagName": "Melee",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "205": {
     "Id": 205,
     "TagName": "Ranged",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "206": {
     "Id": 206,
     "TagName": "Strength",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "207": {
     "Id": 207,
     "TagName": "Agility",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "208": {
     "Id": 208,
     "TagName": "Intellect",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "209": {
     "Id": 209,
     "TagName": "Support",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "210": {
     "Id": 210,
     "TagName": "Warrior",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "211": {
     "Id": 211,
     "TagName": "Tank",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "212": {
     "Id": 212,
     "TagName": "Assassin",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "213": {
     "Id": 213,
     "TagName": "Mage",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "214": {
     "Id": 214,
     "TagName": "Marksman",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "221": {
     "Id": 221,
     "TagName": "Minion (Dungeon)",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "222": {
     "Id": 222,
     "TagName": "Minor Elite (Dungeon)",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "223": {
     "Id": 223,
     "TagName": "Major Elite (Dungeon)",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "224": {
     "Id": 224,
     "TagName": "Ultra Elite (Dungeon)",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
   },
   "225": {
     "Id": 225,
     "TagName": "Boss (Dungeon)",
-    "TagString": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "TagString": "",
     "TagType": 1,
     "ParentTag": 1031
+  },
+  "1011": {
+    "Id": 1011,
+    "TagName": "Roguelike Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 1,
+    "ParentTag": 0
+  },
+  "95": {
+    "Id": 95,
+    "TagName": "Curse Stats",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2,
+    "ParentTag": 1011
+  },
+  "97": {
+    "Id": 97,
+    "TagName": "Bloodwrath Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2,
+    "ParentTag": 1011
+  },
+  "98": {
+    "Id": 98,
+    "TagName": "Unscathed Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2,
+    "ParentTag": 1011
+  },
+  "99": {
+    "Id": 99,
+    "TagName": "Luck Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2,
+    "ParentTag": 1011
+  },
+  "105": {
+    "Id": 105,
+    "TagName": "Brutality Entry",
+    "TagString": "A type of buff used in roguelike gameplay",
+    "TagType": 2,
+    "ParentTag": 1011
+  },
+  "96": {
+    "Id": 96,
+    "TagName": "Bouncing Bullet",
+    "TagString": "Skill marker used in roguelike gameplay",
+    "TagType": 1,
+    "ParentTag": 0
+  },
+  "100": {
+    "Id": 100,
+    "TagName": "Food, Cuisine",
+    "TagString": "Marks this buff as a food/cuisine buff",
+    "TagType": 1,
+    "ParentTag": 0
+  },
+  "102": {
+    "Id": 102,
+    "TagName": "Monster-Equipped Debuff",
+    "TagString": "A tag marking used specifically for field monsters targeting Type A and Type B tags",
+    "TagType": 1,
+    "ParentTag": 0
+  },
+  "104": {
+    "Id": 104,
+    "TagName": "Remove Debuff",
+    "TagString": "A control state that can be removed by CC-breaking skills",
+    "TagType": 1,
+    "ParentTag": 0
   }
 }

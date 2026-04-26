@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ActivateProfessionSkillSkinRequest {
-  int32 profession_id = 1;
-  int32 skill_id = 2;
-  int32 skin_id = 3;
+	int32 professionId = 1 [json_name = "professionId"];
+	int32 skillId = 2 [json_name = "skillId"];
+	int32 skinId = 3 [json_name = "skinId"];
 }
-

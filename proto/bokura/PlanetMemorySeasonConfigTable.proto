@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message PlanetMemorySeasonConfigTableBase {
-  int32 index = 1400;
-  string id = 1463;
-  mlstring value = 616;
+	int32 Index = 1400 [json_name = "Index"];
+	string Id = 1463 [json_name = "Id"];
+	mlstring Value = 616 [json_name = "Value"];
 }
 
 message PlanetMemorySeasonConfigTableMgr {
-  map<int32, bokura.PlanetMemorySeasonConfigTableBase> datas = 1;
+	map<int32, PlanetMemorySeasonConfigTableBase> datas = 1 [json_name = "datas"];
 }
-

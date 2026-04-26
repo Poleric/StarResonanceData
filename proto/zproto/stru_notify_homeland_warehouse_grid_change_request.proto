@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_community_warehouse_grid.proto";
 
-message NotifyHomelandWarehouseGridChangeRequest {
-  repeated zproto.CommunityWarehouseGrid item_infos = 1;
-}
+package zproto;
 
+message NotifyHomelandWarehouseGridChangeRequest {
+	repeated CommunityWarehouseGrid itemInfos = 1 [json_name = "itemInfos"];
+}

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message PlaceHolderVal {
-  uint32 value = 1;
+	uint32 value = 1 [json_name = "value"];
 }
-

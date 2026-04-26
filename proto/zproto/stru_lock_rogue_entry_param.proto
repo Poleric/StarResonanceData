@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message LockRogueEntryParam {
+	int64 objUuid = 1 [json_name = "objUuid"];
+	bool unlock = 2 [json_name = "unlock"];
+	int32 index = 3 [json_name = "index"];
+}

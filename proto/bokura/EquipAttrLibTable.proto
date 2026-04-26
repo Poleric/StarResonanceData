@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message EquipAttrLibTableBase {
-  int32 id = 1463;
-  int32 attr_lib_id = 819;
-  int_array equip_level_range = 178;
-  int_array equip_part = 1740;
-  int_array attr = 889;
-  number_table value_cal = 605;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 AttrLibID = 819 [json_name = "AttrLibID"];
+	int_array EquipLevelRange = 178 [json_name = "EquipLevelRange"];
+	int_array EquipPart = 1740 [json_name = "EquipPart"];
+	int_array Attr = 889 [json_name = "Attr"];
+	number_table ValueCal = 605 [json_name = "ValueCal"];
 }
 
 message EquipAttrLibTableMgr {
-  map<int32, bokura.EquipAttrLibTableBase> datas = 1;
+	map<int32, EquipAttrLibTableBase> datas = 1 [json_name = "datas"];
 }
-

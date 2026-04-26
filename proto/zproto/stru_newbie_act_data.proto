@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import "stru_newbie_backflow_elective.proto";
+import "stru_newbie_backflow_target_data.proto";
+import "stru_newbie_backflow_target_id_list.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message NewbieActData {
+	int32 loginDays = 1 [json_name = "loginDays"];
+	int64 refreshTimeStamp = 2 [json_name = "refreshTimeStamp"];
+	int32 refreshSeasonId = 3 [json_name = "refreshSeasonId"];
+	bool awardReceived = 4 [json_name = "awardReceived"];
+	bool graduateReceived = 5 [json_name = "graduateReceived"];
+	map<uint32, NewbieBackflowTargetData> targetMap = 6 [json_name = "targetMap"];
+	map<int32, NewbieBackflowElective> electiveData = 7 [json_name = "electiveData"];
+	map<int32, NewbieBackflowTargetIdList> requiredTargets = 8 [json_name = "requiredTargets"];
+}

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message GetFishRankTopRequest {
-  int32 fish_area_id = 1;
+	int32 fishAreaId = 1 [json_name = "fishAreaId"];
 }
-

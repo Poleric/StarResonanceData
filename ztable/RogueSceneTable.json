@@ -1,0 +1,331 @@
+{
+  "9202": {
+    "SceneId": 9202,
+    "EntryTypeName": "Slumberdream Sigil",
+    "EntryDatabaseId": 1,
+    "GetEntryInterfaceTitle": "Please select a random Sigil.",
+    "UpgradeEntryInterfaceTitle": "Please select an entry to upgrade",
+    "HoldingEntryInterfaceTitle": "Slumberdream Sigils Owned",
+    "HoldInterfaceButtonIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_176",
+    "RefreshPrice": [],
+    "RefreshNumber": 0,
+    "LockedPrice": [],
+    "LockedNumber": 0,
+    "BDName": [
+      [
+        "",
+        "Treasure"
+      ],
+      [
+        "",
+        "Brutality"
+      ],
+      [
+        "",
+        "Bloodwrath"
+      ],
+      [
+        "",
+        "Speed"
+      ],
+      [
+        "",
+        "Survival"
+      ],
+      [
+        "",
+        "Luck"
+      ],
+      [
+        "",
+        "Element"
+      ],
+      [
+        "",
+        "Imagine"
+      ],
+      [
+        "",
+        "Coordination"
+      ],
+      [
+        "",
+        "Growth"
+      ],
+      [
+        "",
+        "Resource"
+      ],
+      [
+        "",
+        "Cooldown"
+      ]
+    ],
+    "PersonalPoints": [],
+    "PublicPoints": [
+      920201
+    ]
+  },
+  "9203": {
+    "SceneId": 9203,
+    "EntryTypeName": "Slumberdream Sigil",
+    "EntryDatabaseId": 1,
+    "GetEntryInterfaceTitle": "Please select a random Sigil.",
+    "UpgradeEntryInterfaceTitle": "Please select an entry to upgrade",
+    "HoldingEntryInterfaceTitle": "Slumberdream Sigils Owned",
+    "HoldInterfaceButtonIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_176",
+    "RefreshPrice": [],
+    "RefreshNumber": 0,
+    "LockedPrice": [],
+    "LockedNumber": 0,
+    "BDName": [
+      [
+        "",
+        "Treasure"
+      ],
+      [
+        "",
+        "Brutality"
+      ],
+      [
+        "",
+        "Bloodwrath"
+      ],
+      [
+        "",
+        "Speed"
+      ],
+      [
+        "",
+        "Survival"
+      ],
+      [
+        "",
+        "Luck"
+      ],
+      [
+        "",
+        "Element"
+      ],
+      [
+        "",
+        "Imagine"
+      ],
+      [
+        "",
+        "Coordination"
+      ],
+      [
+        "",
+        "Growth"
+      ],
+      [
+        "",
+        "Resource"
+      ],
+      [
+        "",
+        "Cooldown"
+      ],
+      [
+        "",
+        "Iaido Slash Spec"
+      ],
+      [
+        "",
+        "Moonstrike Flow"
+      ],
+      [
+        "",
+        "Frostbeam Spec"
+      ],
+      [
+        "",
+        "Icicle Spec"
+      ],
+      [
+        "",
+        "Wildpack Spec"
+      ],
+      [
+        "",
+        "Falconry Spec"
+      ],
+      [
+        "",
+        "Smite Spec"
+      ],
+      [
+        "",
+        "Lifebind Spec"
+      ],
+      [
+        "",
+        "Vanguard Spec"
+      ],
+      [
+        "",
+        "Skyward Spec"
+      ],
+      [
+        "",
+        "Recovery Spec"
+      ],
+      [
+        "",
+        "Shield Spec"
+      ],
+      [
+        "",
+        "Earthfort Spec"
+      ],
+      [
+        "",
+        "Block Spec"
+      ],
+      [
+        "",
+        "Dissonance Spec"
+      ],
+      [
+        "",
+        "Concerto Spec"
+      ]
+    ],
+    "PersonalPoints": [],
+    "PublicPoints": [
+      920201
+    ]
+  },
+  "9204": {
+    "SceneId": 9204,
+    "EntryTypeName": "Slumberdream Sigil",
+    "EntryDatabaseId": 1,
+    "GetEntryInterfaceTitle": "Please select a random Sigil.",
+    "UpgradeEntryInterfaceTitle": "Please select an entry to upgrade",
+    "HoldingEntryInterfaceTitle": "Slumberdream Sigils Owned",
+    "HoldInterfaceButtonIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_176",
+    "RefreshPrice": [],
+    "RefreshNumber": 0,
+    "LockedPrice": [],
+    "LockedNumber": 0,
+    "BDName": [
+      [
+        "",
+        "Treasure"
+      ],
+      [
+        "",
+        "Brutality"
+      ],
+      [
+        "",
+        "Bloodwrath"
+      ],
+      [
+        "",
+        "Speed"
+      ],
+      [
+        "",
+        "Survival"
+      ],
+      [
+        "",
+        "Luck"
+      ],
+      [
+        "",
+        "Element"
+      ],
+      [
+        "",
+        "Imagine"
+      ],
+      [
+        "",
+        "Coordination"
+      ],
+      [
+        "",
+        "Growth"
+      ],
+      [
+        "",
+        "Resource"
+      ],
+      [
+        "",
+        "Cooldown"
+      ],
+      [
+        "",
+        "Iaido Slash Spec"
+      ],
+      [
+        "",
+        "Moonstrike Flow"
+      ],
+      [
+        "",
+        "Frostbeam Spec"
+      ],
+      [
+        "",
+        "Icicle Spec"
+      ],
+      [
+        "",
+        "Wildpack Spec"
+      ],
+      [
+        "",
+        "Falconry Spec"
+      ],
+      [
+        "",
+        "Smite Spec"
+      ],
+      [
+        "",
+        "Lifebind Spec"
+      ],
+      [
+        "",
+        "Vanguard Spec"
+      ],
+      [
+        "",
+        "Skyward Spec"
+      ],
+      [
+        "",
+        "Recovery Spec"
+      ],
+      [
+        "",
+        "Shield Spec"
+      ],
+      [
+        "",
+        "Earthfort Spec"
+      ],
+      [
+        "",
+        "Block Spec"
+      ],
+      [
+        "",
+        "Dissonance Spec"
+      ],
+      [
+        "",
+        "Concerto Spec"
+      ]
+    ],
+    "PersonalPoints": [],
+    "PublicPoints": [
+      920201
+    ]
+  }
+}

@@ -3,11 +3,10 @@ syntax = "proto3";
 package zproto;
 
 message BuffProgressShowInfo {
-  bool is_close = 1;
-  int32 last = 2;
-  int32 value = 3;
-  float speed = 4;
-  int32 change_value = 5;
-  bool is_only_self = 6;
+	bool isClose = 1 [json_name = "isClose"];
+	int32 last = 2 [json_name = "last"];
+	int32 value = 3 [json_name = "value"];
+	float speed = 4 [json_name = "speed"];
+	int32 changeValue = 5 [json_name = "changeValue"];
+	bool isOnlySelf = 6 [json_name = "isOnlySelf"];
 }
-

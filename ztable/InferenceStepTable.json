@@ -7,7 +7,7 @@
     "QuestionBubbleAction": 9019,
     "WrongBubble": [
       "This doesn't seem to be related to the appearance of the contact person...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -24,7 +24,7 @@
     "QuestionBubbleAction": 9026,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -41,7 +41,7 @@
     "QuestionBubbleAction": 9033,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -58,7 +58,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -74,7 +74,7 @@
     "QuestionBubbleAction": 9026,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -90,7 +90,7 @@
     "QuestionBubbleAction": 9033,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -106,7 +106,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -122,7 +122,7 @@
     "QuestionBubbleAction": 9026,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -138,7 +138,7 @@
     "QuestionBubbleAction": 9033,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -155,7 +155,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -171,7 +171,7 @@
     "QuestionBubbleAction": 9026,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -187,7 +187,7 @@
     "QuestionBubbleAction": 9033,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -203,7 +203,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -219,7 +219,7 @@
     "QuestionBubbleAction": 9026,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -235,7 +235,7 @@
     "QuestionBubbleAction": 9033,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -252,7 +252,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -269,7 +269,101 @@
     "QuestionBubbleAction": 9026,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "200111": {
+    "Id": 200111,
+    "Question": "What do the villagers think of the Mysterious Sea Lily?",
+    "Answer": [],
+    "QuestionBubble": "Let's see what the villagers think.",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": [
+      "This isn't an important clue..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "200112": {
+    "Id": 200112,
+    "Question": "What clues did the merchant provide?",
+    "Answer": [
+      3,
+      4
+    ],
+    "QuestionBubble": "Does the merchant have reliable intel?",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "This isn't an important clue..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "200113": {
+    "Id": 200113,
+    "Question": "What do the Voyagers think of the Mysterious Sea Lily?",
+    "Answer": [
+      5,
+      6
+    ],
+    "QuestionBubble": "Just one person's intel left.",
+    "QuestionBubbleAction": 9026,
+    "WrongBubble": [
+      "This isn't an important clue..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "200201": {
+    "Id": 200201,
+    "Question": "The environment when Saphir met the mysterious girl?",
+    "Answer": [
+      2
+    ],
+    "QuestionBubble": "I need to extract useful information from this...",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": [
+      "Something seems off...",
+      "Darn it! I've got no clue!"
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "200202": {
+    "Id": 200202,
+    "Question": "Why did Saphir go blind?",
+    "Answer": [
+      1
+    ],
+    "QuestionBubble": "It's still not enough.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something seems off...",
+      "Darn it! I've got no clue!"
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "200203": {
+    "Id": 200203,
+    "Question": "What are the characteristics of the mysterious girl? What did she do to Saphir?",
+    "Answer": [
+      3,
+      4
+    ],
+    "QuestionBubble": "The conclusion is almost here!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something seems off...",
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -287,7 +381,7 @@
     "QuestionBubbleAction": 9033,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -304,7 +398,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -321,56 +415,7 @@
     "QuestionBubbleAction": 9026,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
-    ],
-    "WrongBubbleAction": [
-      9007
-    ]
-  },
-  "200201": {
-    "Id": 200201,
-    "Question": "The environment when Saphir met the mysterious girl?",
-    "Answer": [
-      2
-    ],
-    "QuestionBubble": "I need to extract useful information from this...",
-    "QuestionBubbleAction": 9033,
-    "WrongBubble": [
-      "Something seems off...",
-      "Damn! No clues!"
-    ],
-    "WrongBubbleAction": [
-      9007
-    ]
-  },
-  "200202": {
-    "Id": 200202,
-    "Question": "Why did Saphir go blind?",
-    "Answer": [
-      1
-    ],
-    "QuestionBubble": "It's still not enough.",
-    "QuestionBubbleAction": 9047,
-    "WrongBubble": [
-      "Something seems off...",
-      "Damn! No clues!"
-    ],
-    "WrongBubbleAction": [
-      9007
-    ]
-  },
-  "200203": {
-    "Id": 200203,
-    "Question": "What are the characteristics of the mysterious girl? What did she do to Saphir?",
-    "Answer": [
-      3,
-      4
-    ],
-    "QuestionBubble": "The conclusion is almost here!",
-    "QuestionBubbleAction": 9047,
-    "WrongBubble": [
-      "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -388,7 +433,7 @@
     "QuestionBubbleAction": 9033,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -406,7 +451,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -414,7 +459,7 @@
   },
   "300213": {
     "Id": 300213,
-    "Question": "Are there any notable details in the eyewitness description of Carl?",
+    "Question": "What key details stand out in the eyewitness account about Duko?",
     "Answer": [
       7,
       8,
@@ -424,7 +469,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "Something seems off...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -440,7 +485,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "No, think again...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -456,7 +501,7 @@
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
       "No, think again...",
-      "Damn! No clues!"
+      "Darn it! I've got no clue!"
     ],
     "WrongBubbleAction": [
       9007
@@ -472,7 +517,399 @@
     "QuestionBubbleAction": 9033,
     "WrongBubble": [
       "No, think again...",
+      "Darn it! I've got no clue!"
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "500111": {
+    "Id": 500111,
+    "Question": "What's the strange weather event people are seeing?",
+    "Answer": [
+      1
+    ],
+    "QuestionBubble": "Let's hope it has nothing to do with the Void Engram.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "500112": {
+    "Id": 500112,
+    "Question": "What can you do to ease the effects of nightmares?",
+    "Answer": [
+      2
+    ],
+    "QuestionBubble": "Nightmares are never a pleasant experience...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "500113": {
+    "Id": 500113,
+    "Question": "Which object may alleviate this phenomenon?",
+    "Answer": [
+      3
+    ],
+    "QuestionBubble": "Let's hope it works for the nightmares.",
+    "QuestionBubbleAction": 9033,
+    "WrongBubble": [
+      "No, think again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "700111": {
+    "Id": 700111,
+    "Question": "Who should I ask about the Starsoul Flask?",
+    "Answer": [
+      1,
+      2,
+      3
+    ],
+    "QuestionBubble": "I need to extract useful information...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something doesn't feel right...",
+      "Darn it! I've got no clue!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "700112": {
+    "Id": 700112,
+    "Question": "How can I find the person in charge?",
+    "Answer": [
+      4
+    ],
+    "QuestionBubble": "You are getting closer!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something doesn't feel right...",
+      "Darn it! I've got no clue!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "800111": {
+    "Id": 800111,
+    "Question": "If something did happen inside the Squad, when did it happen?",
+    "Answer": [
+      1
+    ],
+    "QuestionBubble": "There are many suspicious entries...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something doesn't feel right...",
+      "Darn it! I've got no clue!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "800112": {
+    "Id": 800112,
+    "Question": "After the change, what abnormalities appeared in the Squad's duty status?",
+    "Answer": [
+      2,
+      5,
+      7
+    ],
+    "QuestionBubble": "So, next...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something doesn't feel right...",
+      "Darn it! I've got no clue!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "800113": {
+    "Id": 800113,
+    "Question": "After the change, several sergeants are no longer on the list. Try to find their names.",
+    "Answer": [
+      3,
+      4,
+      6
+    ],
+    "QuestionBubble": "You are getting closer!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something doesn't feel right...",
+      "Darn it! I've got no clue!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "900111": {
+    "Id": 900111,
+    "Question": "What exactly are the goods in the secret trade?",
+    "Answer": [
+      1
+    ],
+    "QuestionBubble": "I need to extract useful information...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something doesn't feel right...",
+      "Darn it! I've got no clue!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "900112": {
+    "Id": 900112,
+    "Question": "Who has Nevelle tied up with?",
+    "Answer": [
+      2,
+      4
+    ],
+    "QuestionBubble": "Not enough yet.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something doesn't feel right...",
+      "Darn it! I've got no clue!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "900113": {
+    "Id": 900113,
+    "Question": "Why did Nevelle do that?",
+    "Answer": [
+      3,
+      5,
+      6
+    ],
+    "QuestionBubble": "You are getting closer!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something doesn't feel right...",
+      "Darn it! I've got no clue!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000111": {
+    "Id": 1000111,
+    "Question": "Are the client's clues correct?",
+    "Answer": [
+      1
+    ],
+    "QuestionBubble": "I need to extract useful information from this...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something feels off...",
+      "Damn! No clues!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000112": {
+    "Id": 1000112,
+    "Question": "Are the Berry Fruits in the Moonshadow Wilds?",
+    "Answer": [
+      2,
+      3
+    ],
+    "QuestionBubble": "It's still not enough.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something feels off...",
+      "Damn! No clues!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000113": {
+    "Id": 1000113,
+    "Question": "No one has ever seen a Berry Fruit. Where exactly is it?",
+    "Answer": [
+      4,
+      5,
+      6
+    ],
+    "QuestionBubble": "The conclusion is almost here!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again...",
       "Damn! No clues!"
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000211": {
+    "Id": 1000211,
+    "Question": "Who has seen the Berry Fruit?",
+    "Answer": [
+      1
+    ],
+    "QuestionBubble": "I need to extract useful information from this...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something feels off...",
+      "Damn! No clues!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000212": {
+    "Id": 1000212,
+    "Question": "Does the Berry Fruit exist at the Bekmar Transport Station?",
+    "Answer": [
+      2,
+      3
+    ],
+    "QuestionBubble": "It's still not enough.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again...",
+      "Damn! No clues!"
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000213": {
+    "Id": 1000213,
+    "Question": "Is the troupe's fans' illness related to the Berry Fruit?",
+    "Answer": [
+      4,
+      5
+    ],
+    "QuestionBubble": "The conclusion is almost here!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000411": {
+    "Id": 1000411,
+    "Question": "What role does the \"List\" play in this process?",
+    "Answer": [],
+    "QuestionBubble": "Maybe it's better to continue investigating...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, the clues don't match up.",
+      "I should think about it again. My thoughts are a mess."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000311": {
+    "Id": 1000311,
+    "Question": "What is the young miner's attitude?",
+    "Answer": [
+      1
+    ],
+    "QuestionBubble": "I need to extract useful information from this...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "Something feels off...",
+      "Damn! No clues!",
+      "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000412": {
+    "Id": 1000412,
+    "Question": "What do the \"Tower\" and \"Crown\" signify?",
+    "Answer": [
+      3,
+      4,
+      5
+    ],
+    "QuestionBubble": "If the List exists, it's very likely in the \"Tower\".",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, the clues don't match up.",
+      "I should think about it again. My thoughts are a mess."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000312": {
+    "Id": 1000312,
+    "Question": "What is the older miner's attitude?",
+    "Answer": [
+      2,
+      3
+    ],
+    "QuestionBubble": "It's still not enough.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again...",
+      "Damn! No clues!"
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000413": {
+    "Id": 1000413,
+    "Question": "If we want to find the \"Crown\", what should we do next?",
+    "Answer": [
+      6,
+      7,
+      8
+    ],
+    "QuestionBubble": "To find the List, we still have to follow the tracks and investigate inside the Tower.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, the clues don't match up.",
+      "I should think about it again. My thoughts are a mess."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000313": {
+    "Id": 1000313,
+    "Question": "What are the attitudes of the miners who started families with Byrnhalds?",
+    "Answer": [
+      4
+    ],
+    "QuestionBubble": "The conclusion is almost here!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again..."
     ],
     "WrongBubbleAction": [
       9007

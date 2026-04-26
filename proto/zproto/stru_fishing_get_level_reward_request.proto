@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message FishingGetLevelRewardRequest {
-  uint32 level = 1;
+	uint32 level = 1 [json_name = "level"];
 }
-

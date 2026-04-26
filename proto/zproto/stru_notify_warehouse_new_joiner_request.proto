@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message NotifyWarehouseNewJoinerRequest {
-  int64 join_char_id = 1;
+	int64 joinCharId = 1 [json_name = "joinCharId"];
 }
-

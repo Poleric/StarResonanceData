@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message IdIpImage {
-  int32 image_type = 1;
-  int32 review_type = 2;
-  string cos_url = 3;
-  string dns_url = 4;
+	int32 imageType = 1 [json_name = "imageType"];
+	int32 reviewType = 2 [json_name = "reviewType"];
+	string cosUrl = 3 [json_name = "cosUrl"];
+	string dnsUrl = 4 [json_name = "dnsUrl"];
 }
-

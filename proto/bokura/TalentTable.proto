@@ -1,27 +1,26 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message TalentTableBase {
-  int32 id = 1463;
-  int32 talent_id = 513;
-  string des = 266;
-  mlstring talent_name = 1889;
-  string talent_icon = 180;
-  int32 talent_type = 676;
-  int32 talent_level = 580;
-  int_table talent_effect = 152;
-  string_table buff_value_key = 668;
-  int_table buff_par = 1688;
-  int_table unlock = 1666;
-  int_table pre_talent = 1850;
-  int_table unlock_consume = 1645;
-  int32 bd_tag_id = 1743;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 TalentId = 513 [json_name = "TalentId"];
+	string Des = 266 [json_name = "Des"];
+	mlstring TalentName = 1889 [json_name = "TalentName"];
+	string TalentIcon = 180 [json_name = "TalentIcon"];
+	int32 TalentType = 676 [json_name = "TalentType"];
+	int32 TalentLevel = 580 [json_name = "TalentLevel"];
+	int_table TalentEffect = 152 [json_name = "TalentEffect"];
+	string_table BuffValueKey = 668 [json_name = "BuffValueKey"];
+	int_table BuffPar = 1688 [json_name = "BuffPar"];
+	int_table Unlock = 1666 [json_name = "Unlock"];
+	int_table PreTalent = 1850 [json_name = "PreTalent"];
+	int_table UnlockConsume = 1645 [json_name = "UnlockConsume"];
+	int32 BdTagId = 1743 [json_name = "BdTagId"];
 }
 
 message TalentTableMgr {
-  map<int32, bokura.TalentTableBase> datas = 1;
+	map<int32, TalentTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_mail_base.proto";
 
-message GetMailInfoReply {
-  zproto.MailBase mail = 3;
-  repeated zproto.MailBase mails = 4;
-  zproto.EErrorCode err_code = 5;
-}
+package zproto;
 
+message GetMailInfoReply {
+	MailBase mail = 3 [json_name = "mail"];
+	repeated MailBase mails = 4 [json_name = "mails"];
+	EErrorCode errCode = 5 [json_name = "errCode"];
+}

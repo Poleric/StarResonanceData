@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "stru_user_union_target_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message UserUnionTarget {
+	int32 isInit = 1 [json_name = "isInit"];
+	map<int32, UserUnionTargetInfo> userUnionTargetInfo = 2 [json_name = "userUnionTargetInfo"];
+	map<int32, int32> weekTargetRewardIds = 3 [json_name = "weekTargetRewardIds"];
+	int64 weekTargetRefreshTime = 4 [json_name = "weekTargetRefreshTime"];
+}

@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ItemSearchTableBase {
-  int32 id = 1463;
-  int_table function_id = 149;
-  int_table hide_function_id = 389;
+	int32 Id = 1463 [json_name = "Id"];
+	int_table FunctionId = 149 [json_name = "FunctionId"];
+	int_table HideFunctionId = 389 [json_name = "HideFunctionId"];
 }
 
 message ItemSearchTableMgr {
-  map<int32, bokura.ItemSearchTableBase> datas = 1;
+	map<int32, ItemSearchTableBase> datas = 1 [json_name = "datas"];
 }
-

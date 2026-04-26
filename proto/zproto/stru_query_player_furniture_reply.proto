@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_homeland_player_warehouse_info.proto";
 
-message QueryPlayerFurnitureReply {
-  zproto.HomelandPlayerWarehouseInfo furniture_warehouse = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message QueryPlayerFurnitureReply {
+	HomelandPlayerWarehouseInfo furnitureWarehouse = 1 [json_name = "furnitureWarehouse"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_notify_team_member_join_ensemble_request.proto";
+
+package zproto;
+
+message GrpcBandNtf {
+	message NotifyTeamMemberJoinEnsemble {
+		NotifyTeamMemberJoinEnsembleRequest info = 1 [json_name = "info"];
+	}
+}

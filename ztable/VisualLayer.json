@@ -11,7 +11,9 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 0,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -29,7 +31,9 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 0,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -47,7 +51,9 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 0,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -65,7 +71,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -83,7 +94,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -101,7 +117,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -113,13 +134,21 @@
     "MainUi": 8,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Area_Hotel"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -137,7 +166,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -149,13 +183,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Infection"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -167,13 +209,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Tension_C"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -185,13 +235,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Infection"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -209,7 +267,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -221,13 +284,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Layer_5010"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -239,13 +310,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Infection"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -263,7 +342,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -275,13 +359,21 @@
     "MainUi": 11,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Steal"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -299,7 +391,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -317,7 +414,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -335,7 +437,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -353,7 +460,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -365,13 +477,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Infection"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -389,7 +509,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -407,7 +532,12 @@
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -425,7 +555,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -437,13 +572,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Tension_C"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -461,7 +604,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -479,7 +627,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -497,7 +650,12 @@
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -515,7 +673,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -533,7 +696,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -545,13 +713,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Area_Hotel"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -569,7 +745,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -587,7 +768,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -599,13 +785,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Area_Hotel"
+    ],
     "BlackMask": [
       1,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -623,7 +817,12 @@
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -641,7 +840,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -659,7 +863,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -671,13 +880,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Layer_5306_A"
+    ],
     "BlackMask": [
       3,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -695,7 +912,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -713,7 +935,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -731,7 +958,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -749,7 +981,12 @@
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -767,7 +1004,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -785,7 +1027,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -797,13 +1044,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Infection"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -821,7 +1076,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -839,7 +1099,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -851,13 +1116,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Tension_C"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -869,13 +1142,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Tension_C"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -887,13 +1168,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Infection"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -905,13 +1194,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Layer_5306_A"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -923,13 +1220,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Tension_A"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -947,7 +1252,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -959,13 +1269,21 @@
     "MainUi": 11,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Tension_B"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -983,7 +1301,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -995,13 +1318,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Tension_A"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1019,7 +1350,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1037,7 +1373,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1049,13 +1390,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Sad_A"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1073,7 +1422,12 @@
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1091,7 +1445,12 @@
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1103,13 +1462,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Tension_C"
+    ],
     "BlackMask": [
       1,
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1127,7 +1494,12 @@
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1145,7 +1517,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1163,7 +1540,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1175,13 +1557,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld001_Mood_Scene_Infection"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1193,13 +1583,21 @@
     "MainUi": 9,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Tension_C"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1211,13 +1609,21 @@
     "MainUi": 9,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Tension_C"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1229,13 +1635,21 @@
     "MainUi": 9,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Tension_C"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1247,13 +1661,21 @@
     "MainUi": 9,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Tension_C"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1265,13 +1687,21 @@
     "MainUi": 9,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Tension_B"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1283,13 +1713,21 @@
     "MainUi": 9,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Infection"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1301,13 +1739,21 @@
     "MainUi": 9,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Cty001_Mood_Scene_Infection"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1325,7 +1771,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1343,7 +1794,12 @@
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1361,7 +1817,104 @@
       1
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5591": {
+    "Id": 5591,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5592": {
+    "Id": 5592,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5593": {
+    "Id": 5593,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5594": {
+    "Id": 5594,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1373,13 +1926,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld002_Mood_Story_Tension_B"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1397,7 +1958,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1409,13 +1975,21 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
-    "Bgm": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld002_Layer_5603"
+    ],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1433,7 +2007,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1451,7 +2030,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1463,13 +2047,162 @@
     "MainUi": 4,
     "ReviveTableId": [],
     "AudioBank": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld002_Mood_Scene_Illusion"
+    ],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5607": {
+    "Id": 5607,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld002_Mood_Story_Tension_B"
+    ],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5608": {
+    "Id": 5608,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
     "Bgm": [],
     "BlackMask": [
       0,
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5609": {
+    "Id": 5609,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5610": {
+    "Id": 5610,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5611": {
+    "Id": 5611,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5612": {
+    "Id": 5612,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1487,7 +2220,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1505,7 +2243,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1523,7 +2266,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1541,7 +2289,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1559,7 +2312,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1577,7 +2335,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1595,7 +2358,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1613,7 +2381,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1631,7 +2404,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1649,7 +2427,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1667,7 +2450,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1685,7 +2473,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1703,7 +2496,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1721,7 +2519,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1739,7 +2542,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1757,7 +2565,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1775,7 +2588,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1793,7 +2611,61 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5905": {
+    "Id": 5905,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "5906": {
+    "Id": 5906,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld002_Layer_5906"
+    ],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1811,7 +2683,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1829,7 +2706,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1847,7 +2729,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1865,7 +2752,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1883,7 +2775,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1901,7 +2798,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1919,7 +2821,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1937,7 +2844,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1955,7 +2867,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1973,7 +2890,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -1991,7 +2913,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2009,7 +2936,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2027,7 +2959,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2045,7 +2982,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2063,7 +3005,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2081,7 +3028,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2099,7 +3051,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2117,7 +3074,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2135,7 +3097,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2153,7 +3120,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2171,7 +3143,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2189,7 +3166,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2207,7 +3189,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2225,7 +3212,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2243,7 +3235,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2261,7 +3258,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2279,7 +3281,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2297,7 +3304,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2315,7 +3327,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2333,7 +3350,35 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6034": {
+    "Id": 6034,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2351,7 +3396,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2369,7 +3419,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2387,7 +3442,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2405,7 +3465,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2423,7 +3488,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2441,7 +3511,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2459,7 +3534,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2477,7 +3557,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2495,7 +3580,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2513,7 +3603,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2531,7 +3626,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2549,7 +3649,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2567,7 +3672,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2585,7 +3695,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2603,7 +3718,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2621,7 +3741,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2639,7 +3764,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2657,7 +3787,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2675,7 +3810,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2693,7 +3833,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2711,7 +3856,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2729,7 +3879,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2747,7 +3902,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2765,7 +3925,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2783,7 +3948,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2801,7 +3971,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2819,7 +3994,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2837,7 +4017,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2855,7 +4040,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2873,7 +4063,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2891,7 +4086,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2909,7 +4109,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2927,7 +4132,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2945,7 +4155,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2963,7 +4178,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2981,7 +4201,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -2999,7 +4224,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3017,7 +4247,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3035,7 +4270,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3053,7 +4293,127 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6201": {
+    "Id": 6201,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6202": {
+    "Id": 6202,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      1,
+      1
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6203": {
+    "Id": 6203,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      1,
+      1
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6204": {
+    "Id": 6204,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      1,
+      1
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6205": {
+    "Id": 6205,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      1,
+      1
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3071,7 +4431,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3089,7 +4454,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3107,7 +4477,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3125,7 +4500,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3143,7 +4523,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3161,7 +4546,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3179,7 +4569,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3197,7 +4592,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3215,7 +4615,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3233,7 +4638,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3251,7 +4661,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3269,7 +4684,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3287,7 +4707,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3305,7 +4730,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3323,7 +4753,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3341,7 +4776,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3359,7 +4799,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3377,7 +4822,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3395,7 +4845,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3413,7 +4868,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3431,7 +4891,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3449,7 +4914,610 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6425": {
+    "Id": 6425,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6426": {
+    "Id": 6426,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6427": {
+    "Id": 6427,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6428": {
+    "Id": 6428,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6429": {
+    "Id": 6429,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6430": {
+    "Id": 6430,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6431": {
+    "Id": 6431,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6432": {
+    "Id": 6432,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6433": {
+    "Id": 6433,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6434": {
+    "Id": 6434,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6435": {
+    "Id": 6435,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6436": {
+    "Id": 6436,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6437": {
+    "Id": 6437,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6438": {
+    "Id": 6438,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6439": {
+    "Id": 6439,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6440": {
+    "Id": 6440,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6441": {
+    "Id": 6441,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6442": {
+    "Id": 6442,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6446": {
+    "Id": 6446,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6443": {
+    "Id": 6443,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6601": {
+    "Id": 6601,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6444": {
+    "Id": 6444,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6602": {
+    "Id": 6602,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6445": {
+    "Id": 6445,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6447": {
+    "Id": 6447,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6448": {
+    "Id": 6448,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3467,7 +5535,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3485,7 +5558,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3503,7 +5581,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3521,7 +5604,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3539,7 +5627,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3557,7 +5650,58 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6509": {
+    "Id": 6509,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6510": {
+    "Id": 6510,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3575,7 +5719,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3593,7 +5742,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3611,7 +5765,265 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6520": {
+    "Id": 6520,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6521": {
+    "Id": 6521,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6522": {
+    "Id": 6522,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6603": {
+    "Id": 6603,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6604": {
+    "Id": 6604,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6605": {
+    "Id": 6605,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6606": {
+    "Id": 6606,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6607": {
+    "Id": 6607,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6608": {
+    "Id": 6608,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6609": {
+    "Id": 6609,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6615": {
+    "Id": 6615,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3629,7 +6041,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3647,7 +6064,58 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6901": {
+    "Id": 6901,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "6902": {
+    "Id": 6902,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3665,7 +6133,12 @@
       0
     ],
     "IgnoreDungeonCheck": false,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
@@ -3683,10 +6156,358 @@
       0
     ],
     "IgnoreDungeonCheck": true,
-    "MonsterLv": 1,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
     "SeasonRank": [],
     "IsLoadRank": false,
     "AmbEvent": "",
     "IsShowFakeAttr": true
+  },
+  "50001": {
+    "Id": 50001,
+    "VisualLayerType": 2,
+    "MainUi": 4,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [
+      1,
+      10001
+    ],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": true
+  },
+  "90001": {
+    "Id": 90001,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90002": {
+    "Id": 90002,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90003": {
+    "Id": 90003,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90004": {
+    "Id": 90004,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90005": {
+    "Id": 90005,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90006": {
+    "Id": 90006,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90007": {
+    "Id": 90007,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90008": {
+    "Id": 90008,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90009": {
+    "Id": 90009,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90010": {
+    "Id": 90010,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90011": {
+    "Id": 90011,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90012": {
+    "Id": 90012,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90013": {
+    "Id": 90013,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90014": {
+    "Id": 90014,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90015": {
+    "Id": 90015,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
+  },
+  "90016": {
+    "Id": 90016,
+    "VisualLayerType": 1,
+    "MainUi": 13,
+    "ReviveTableId": [],
+    "AudioBank": [],
+    "Bgm": [],
+    "BlackMask": [
+      0,
+      0
+    ],
+    "IgnoreDungeonCheck": false,
+    "MonsterLv": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "AmbEvent": "",
+    "IsShowFakeAttr": false
   }
 }

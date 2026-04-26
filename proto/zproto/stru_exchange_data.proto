@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message ExchangeData {
-  int32 item_config_id = 1;
-  int32 unlock = 2;
-  int32 cur_exchange_count = 3;
-  int64 expire_time = 4;
-  int64 last_refresh_time = 5;
-}
+package zproto;
 
+message ExchangeData {
+	int32 itemConfigId = 1 [json_name = "itemConfigId"];
+	int32 Unlock = 2 [json_name = "Unlock"];
+	int32 curExchangeCount = 3 [json_name = "curExchangeCount"];
+	int64 expireTime = 4 [json_name = "expireTime"];
+	int64 lastRefreshTime = 5 [json_name = "lastRefreshTime"];
+}

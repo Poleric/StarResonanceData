@@ -1,0 +1,650 @@
+{
+  "201": {
+    "Id": 201,
+    "TaskId": 201,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-进行{*val*}次装备重铸"
+  },
+  "202": {
+    "Id": 202,
+    "TaskId": 202,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-进行{*val*}次装备精炼"
+  },
+  "203": {
+    "Id": 203,
+    "TaskId": 203,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-进行{*val*}次装备镶嵌"
+  },
+  "204": {
+    "Id": 204,
+    "TaskId": 204,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-参与击败{*val*}次首领怪物"
+  },
+  "205": {
+    "Id": 205,
+    "TaskId": 205,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-参与击败{*val*}次精英怪物"
+  },
+  "206": {
+    "Id": 206,
+    "TaskId": 206,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-参与击败{*val*}次普通怪物"
+  },
+  "207": {
+    "Id": 207,
+    "TaskId": 207,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-通关{*val*}次“不稳定空间”挑战"
+  },
+  "208": {
+    "Id": 208,
+    "TaskId": 208,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-通关{*val*}次“极限空间”挑战"
+  },
+  "209": {
+    "Id": 209,
+    "TaskId": 209,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-与好友或协会成员组队通关任意副本{*val*}次"
+  },
+  "210": {
+    "Id": 210,
+    "TaskId": 210,
+    "ShowType": 1,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-获得{*val*}个协会贡献币"
+  },
+  "211": {
+    "Id": 211,
+    "TaskId": 211,
+    "ShowType": 1,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-更换{*val2*}次时装外观"
+  },
+  "212": {
+    "Id": 212,
+    "TaskId": 212,
+    "ShowType": 1,
+    "Type": 2,
+    "Weight": 3,
+    "Text": "角色扮演-进行{*val*}次时装染色"
+  },
+  "213": {
+    "Id": 213,
+    "TaskId": 213,
+    "ShowType": 1,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-完成1次自拍模式拍照"
+  },
+  "214": {
+    "Id": 214,
+    "TaskId": 214,
+    "ShowType": 1,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-参与1次多人拍照"
+  },
+  "215": {
+    "Id": 215,
+    "TaskId": 215,
+    "ShowType": 1,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-完成1次战斗模式拍照"
+  },
+  "216": {
+    "Id": 216,
+    "TaskId": 216,
+    "ShowType": 1,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-在世界频道或协会频道发言1次"
+  },
+  "217": {
+    "Id": 217,
+    "TaskId": 217,
+    "ShowType": 1,
+    "Type": 2,
+    "Weight": 3,
+    "Text": "角色扮演-进行{*val*}次美容"
+  },
+  "218": {
+    "Id": 218,
+    "TaskId": 218,
+    "ShowType": 1,
+    "Type": 2,
+    "Weight": 3,
+    "Text": "角色扮演-进行{*val*}次美发"
+  },
+  "219": {
+    "Id": 219,
+    "TaskId": 219,
+    "ShowType": 1,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-编辑并保存一次个人空间的照片墙"
+  },
+  "220": {
+    "Id": 220,
+    "TaskId": 220,
+    "ShowType": 1,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-消耗{*val*}点专注"
+  },
+  "222": {
+    "Id": 222,
+    "TaskId": 222,
+    "ShowType": 1,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-进行{*val*}次协会货运赚取卢诺"
+  },
+  "223": {
+    "Id": 223,
+    "TaskId": 223,
+    "ShowType": 1,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-完成{*val*}个家园订单"
+  },
+  "224": {
+    "Id": 224,
+    "TaskId": 224,
+    "ShowType": 1,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-制作{*val*}个家具"
+  },
+  "225": {
+    "Id": 225,
+    "TaskId": 225,
+    "ShowType": 1,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-钓鱼{*val*}次"
+  },
+  "226": {
+    "Id": 226,
+    "TaskId": 226,
+    "ShowType": 1,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-种花{*val*}次"
+  },
+  "227": {
+    "Id": 227,
+    "TaskId": 227,
+    "ShowType": 1,
+    "Type": 3,
+    "Weight": 0,
+    "Text": "模拟经营-收花{*val*}次"
+  },
+  "228": {
+    "Id": 228,
+    "TaskId": 228,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-在空中飞行超过10秒"
+  },
+  "229": {
+    "Id": 229,
+    "TaskId": 229,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 5,
+    "Text": "休闲探索-打开{*val*}个大世界宝箱"
+  },
+  "230": {
+    "Id": 230,
+    "TaskId": 230,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 5,
+    "Text": "休闲探索-完成{*val*}个粒子收集挑战"
+  },
+  "231": {
+    "Id": 231,
+    "TaskId": 231,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 5,
+    "Text": "休闲探索-击破{*val*}个风屏障"
+  },
+  "232": {
+    "Id": 232,
+    "TaskId": 232,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-参与击败{*val*}次“娜宝·闪闪”或“娜宝·银辉”"
+  },
+  "233": {
+    "Id": 233,
+    "TaskId": 233,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-参与击败{*val*}次“小猪·爱”、“小猪·风”或“小猪·闪闪”"
+  },
+  "234": {
+    "Id": 234,
+    "TaskId": 234,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-参加1次“环城坐骑赛”"
+  },
+  "235": {
+    "Id": 235,
+    "TaskId": 235,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-参加1次“废都障碍赛”"
+  },
+  "236": {
+    "Id": 236,
+    "TaskId": 236,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-参加1次“气球捕获大作战”"
+  },
+  "237": {
+    "Id": 237,
+    "TaskId": 237,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-参加1次“小伊别盯我！”"
+  },
+  "238": {
+    "Id": 238,
+    "TaskId": 238,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-在泡点玩法中累计获得{*val*}分"
+  },
+  "239": {
+    "Id": 239,
+    "TaskId": 239,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-完成{*val*}轮调查委托"
+  },
+  "240": {
+    "Id": 240,
+    "TaskId": 340,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-参加1次任意游星岛常驻玩法"
+  },
+  "241": {
+    "Id": 241,
+    "TaskId": 341,
+    "ShowType": 1,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-参加1次任意游星岛定时玩法"
+  },
+  "301": {
+    "Id": 301,
+    "TaskId": 301,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-进行{*val*}次装备重铸"
+  },
+  "302": {
+    "Id": 302,
+    "TaskId": 302,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-进行{*val*}次装备精炼"
+  },
+  "303": {
+    "Id": 303,
+    "TaskId": 303,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-进行{*val*}次装备镶嵌"
+  },
+  "304": {
+    "Id": 304,
+    "TaskId": 304,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-参与击败{*val*}次首领怪物"
+  },
+  "305": {
+    "Id": 305,
+    "TaskId": 305,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-参与击败{*val*}次精英怪物"
+  },
+  "306": {
+    "Id": 306,
+    "TaskId": 306,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-参与击败{*val*}次普通怪物"
+  },
+  "307": {
+    "Id": 307,
+    "TaskId": 307,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-通关{*val*}次“不稳定空间”挑战"
+  },
+  "308": {
+    "Id": 308,
+    "TaskId": 308,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-通关{*val*}次“极限空间”挑战"
+  },
+  "309": {
+    "Id": 309,
+    "TaskId": 309,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-与好友或协会成员组队通关任意副本{*val*}次"
+  },
+  "310": {
+    "Id": 310,
+    "TaskId": 310,
+    "ShowType": 2,
+    "Type": 1,
+    "Weight": 10,
+    "Text": "强度党-获得{*val*}个协会贡献币"
+  },
+  "311": {
+    "Id": 311,
+    "TaskId": 311,
+    "ShowType": 2,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-更换{*val2*}次时装外观"
+  },
+  "312": {
+    "Id": 312,
+    "TaskId": 312,
+    "ShowType": 2,
+    "Type": 2,
+    "Weight": 3,
+    "Text": "角色扮演-进行{*val*}次时装染色"
+  },
+  "313": {
+    "Id": 313,
+    "TaskId": 313,
+    "ShowType": 2,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-完成1次自拍模式拍照"
+  },
+  "314": {
+    "Id": 314,
+    "TaskId": 314,
+    "ShowType": 2,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-参与1次多人拍照"
+  },
+  "315": {
+    "Id": 315,
+    "TaskId": 315,
+    "ShowType": 2,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-完成1次战斗模式拍照"
+  },
+  "316": {
+    "Id": 316,
+    "TaskId": 316,
+    "ShowType": 2,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-在世界频道或协会频道发言1次"
+  },
+  "317": {
+    "Id": 317,
+    "TaskId": 317,
+    "ShowType": 2,
+    "Type": 2,
+    "Weight": 3,
+    "Text": "角色扮演-进行{*val*}次美容"
+  },
+  "318": {
+    "Id": 318,
+    "TaskId": 318,
+    "ShowType": 2,
+    "Type": 2,
+    "Weight": 3,
+    "Text": "角色扮演-进行{*val*}次美发"
+  },
+  "319": {
+    "Id": 319,
+    "TaskId": 319,
+    "ShowType": 2,
+    "Type": 2,
+    "Weight": 10,
+    "Text": "角色扮演-编辑并保存一次个人空间的照片墙"
+  },
+  "320": {
+    "Id": 320,
+    "TaskId": 320,
+    "ShowType": 2,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-消耗{*val*}点专注"
+  },
+  "321": {
+    "Id": 321,
+    "TaskId": 321,
+    "ShowType": 2,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-经营交易所赚取卢诺"
+  },
+  "322": {
+    "Id": 322,
+    "TaskId": 322,
+    "ShowType": 2,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-进行{*val*}次协会货运赚取卢诺"
+  },
+  "323": {
+    "Id": 323,
+    "TaskId": 323,
+    "ShowType": 2,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-完成{*val*}个家园订单"
+  },
+  "324": {
+    "Id": 324,
+    "TaskId": 324,
+    "ShowType": 2,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-制作{*val*}个家具"
+  },
+  "325": {
+    "Id": 325,
+    "TaskId": 325,
+    "ShowType": 2,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-钓鱼{*val*}次"
+  },
+  "326": {
+    "Id": 326,
+    "TaskId": 326,
+    "ShowType": 2,
+    "Type": 3,
+    "Weight": 10,
+    "Text": "模拟经营-种花{*val*}次"
+  },
+  "327": {
+    "Id": 327,
+    "TaskId": 327,
+    "ShowType": 2,
+    "Type": 3,
+    "Weight": 0,
+    "Text": "模拟经营-收花{*val*}次"
+  },
+  "328": {
+    "Id": 328,
+    "TaskId": 328,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-在空中飞行超过10秒"
+  },
+  "329": {
+    "Id": 329,
+    "TaskId": 329,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 5,
+    "Text": "休闲探索-打开{*val*}个大世界宝箱"
+  },
+  "330": {
+    "Id": 330,
+    "TaskId": 330,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 5,
+    "Text": "休闲探索-完成{*val*}个粒子收集挑战"
+  },
+  "331": {
+    "Id": 331,
+    "TaskId": 331,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 5,
+    "Text": "休闲探索-击破{*val*}个风屏障"
+  },
+  "332": {
+    "Id": 332,
+    "TaskId": 332,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-参与击败{*val*}次“娜宝·闪闪”或“娜宝·银辉”"
+  },
+  "333": {
+    "Id": 333,
+    "TaskId": 333,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-参与击败{*val*}次“小猪·爱”、“小猪·风”或“小猪·闪闪”"
+  },
+  "334": {
+    "Id": 334,
+    "TaskId": 334,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-参加1次“环城坐骑赛”"
+  },
+  "335": {
+    "Id": 335,
+    "TaskId": 335,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-参加1次“废都障碍赛”"
+  },
+  "336": {
+    "Id": 336,
+    "TaskId": 336,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-参加1次“气球捕获大作战”"
+  },
+  "337": {
+    "Id": 337,
+    "TaskId": 337,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-参加1次“小伊别盯我！”"
+  },
+  "338": {
+    "Id": 338,
+    "TaskId": 338,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 0,
+    "Text": "休闲探索-在泡点玩法中累计获得{*val*}分"
+  },
+  "339": {
+    "Id": 339,
+    "TaskId": 239,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-完成{*val*}轮调查委托"
+  },
+  "340": {
+    "Id": 340,
+    "TaskId": 342,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-参加1次任意游星岛常驻玩法"
+  },
+  "341": {
+    "Id": 341,
+    "TaskId": 343,
+    "ShowType": 2,
+    "Type": 4,
+    "Weight": 10,
+    "Text": "休闲探索-参加1次任意游星岛定时玩法"
+  }
+}

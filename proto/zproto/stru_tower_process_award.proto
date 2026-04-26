@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message TowerProcessAward {
-  int32 climb_up_id = 1;
-  bool one_key = 2;
+	int32 climbUpId = 1 [json_name = "climbUpId"];
+	bool oneKey = 2 [json_name = "oneKey"];
 }
-

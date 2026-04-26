@@ -1,0 +1,130 @@
+{
+  "1": {
+    "Id": 1,
+    "ShowId": 998,
+    "Sort": 1,
+    "Name": "Collection",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "IsShowAll": false
+  },
+  "2": {
+    "Id": 2,
+    "ShowId": 999,
+    "Sort": 2,
+    "Name": "All",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_166",
+    "IsShowAll": false
+  },
+  "3": {
+    "Id": 3,
+    "ShowId": 1,
+    "Sort": 4,
+    "Name": "Store",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_178",
+    "IsShowAll": true
+  },
+  "4": {
+    "Id": 4,
+    "ShowId": 4,
+    "Sort": 6,
+    "Name": "Gameplay",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "IsShowAll": true
+  },
+  "5": {
+    "Id": 5,
+    "ShowId": 5,
+    "Sort": 3,
+    "Name": "Cultivate",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_137",
+    "IsShowAll": true
+  },
+  "6": {
+    "Id": 6,
+    "ShowId": 2,
+    "Sort": 8,
+    "Name": "Craft",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_187",
+    "IsShowAll": true
+  },
+  "7": {
+    "Id": 7,
+    "ShowId": 6,
+    "Sort": 7,
+    "Name": "Leisure",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_168",
+    "IsShowAll": true
+  },
+  "8": {
+    "Id": 8,
+    "ShowId": 7,
+    "Sort": 13,
+    "Name": "Teleport",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_174",
+    "IsShowAll": true
+  },
+  "9": {
+    "Id": 9,
+    "ShowId": 997,
+    "Sort": 12,
+    "Name": "Quests",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_45",
+    "IsShowAll": true
+  },
+  "10": {
+    "Id": 10,
+    "ShowId": 10,
+    "Sort": 11,
+    "Name": "Custom",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "IsShowAll": true
+  },
+  "11": {
+    "Id": 11,
+    "ShowId": 8,
+    "Sort": 5,
+    "Name": "Boss",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_146",
+    "IsShowAll": true
+  },
+  "12": {
+    "Id": 12,
+    "ShowId": 996,
+    "Sort": 10,
+    "Name": "",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "IsShowAll": false
+  },
+  "13": {
+    "Id": 13,
+    "ShowId": 995,
+    "Sort": 9,
+    "Name": "Life Skill",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_73",
+    "IsShowAll": false
+  },
+  "14": {
+    "Id": 14,
+    "ShowId": 11,
+    "Sort": 3,
+    "Name": "Venue Facilities",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_86",
+    "IsShowAll": true
+  },
+  "15": {
+    "Id": 15,
+    "ShowId": 12,
+    "Sort": 4,
+    "Name": "Scene Gameplay",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_109",
+    "IsShowAll": true
+  },
+  "16": {
+    "Id": 16,
+    "ShowId": 13,
+    "Sort": 5,
+    "Name": "Casual Mode",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_121",
+    "IsShowAll": true
+  }
+}

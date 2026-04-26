@@ -1,30 +1,29 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message MaterialShowDataTableBase {
-  int64 id = 1463;
-  float start = 678;
-  float duration = 544;
-  float end = 1415;
-  bool is_attacker = 920;
-  int32 state_id = 308;
-  int32 group_id = 196;
-  int32 material_type = 1428;
-  number_array colour = 1759;
-  float power = 35;
-  number_table colour_curve = 1313;
-  number_table power_curve = 55;
-  number_array colour2 = 2023;
-  float power2 = 1714;
-  bool is_body = 342;
-  bool is_primary_weapon = 1227;
-  bool is_secondary_weapon = 2083;
+	int64 Id = 1463 [json_name = "Id"];
+	float Start = 678 [json_name = "Start"];
+	float Duration = 544 [json_name = "Duration"];
+	float End = 1415 [json_name = "End"];
+	bool IsAttacker = 920 [json_name = "IsAttacker"];
+	int32 StateId = 308 [json_name = "StateId"];
+	int32 GroupId = 196 [json_name = "GroupId"];
+	int32 MaterialType = 1428 [json_name = "MaterialType"];
+	number_array Colour = 1759 [json_name = "Colour"];
+	float Power = 35 [json_name = "Power"];
+	number_table ColourCurve = 1313 [json_name = "ColourCurve"];
+	number_table PowerCurve = 55 [json_name = "PowerCurve"];
+	number_array Colour2 = 2023 [json_name = "Colour2"];
+	float Power2 = 1714 [json_name = "Power2"];
+	bool IsBody = 342 [json_name = "IsBody"];
+	bool IsPrimaryWeapon = 1227 [json_name = "IsPrimaryWeapon"];
+	bool IsSecondaryWeapon = 2083 [json_name = "IsSecondaryWeapon"];
 }
 
 message MaterialShowDataTableMgr {
-  map<int64, bokura.MaterialShowDataTableBase> datas = 1;
+	map<int64, MaterialShowDataTableBase> datas = 1 [json_name = "datas"];
 }
-

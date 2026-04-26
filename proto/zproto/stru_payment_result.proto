@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message PaymentResult {
-  string order_guid = 1;
-  int32 payment_id = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message PaymentResult {
+	string orderGuid = 1 [json_name = "orderGuid"];
+	int32 paymentId = 2 [json_name = "paymentId"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

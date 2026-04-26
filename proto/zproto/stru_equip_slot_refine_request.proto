@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_equip_slot_refine_item_cost.proto";
 
-message EquipSlotRefineRequest {
-  uint32 slot_id = 1;
-  repeated zproto.EquipSlotRefineItemCost item_cost_list = 2;
-}
+package zproto;
 
+message EquipSlotRefineRequest {
+	uint32 slotId = 1 [json_name = "slotId"];
+	repeated EquipSlotRefineItemCost itemCostList = 2 [json_name = "itemCostList"];
+}

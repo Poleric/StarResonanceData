@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_match_info.proto";
 
-message EnterMatchResultNtfRequest {
-  zproto.EErrorCode err_code = 1;
-  zproto.MatchInfo match_info = 2;
-  bool is_re_enter = 3;
-}
+package zproto;
 
+message EnterMatchResultNtfRequest {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	MatchInfo matchInfo = 2 [json_name = "matchInfo"];
+	bool isReEnter = 3 [json_name = "isReEnter"];
+}

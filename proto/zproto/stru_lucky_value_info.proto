@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message LuckyValueInfo {
-  int32 luck_id = 1;
-  int32 luck_value = 2;
-  int64 next_time = 3;
-}
+package zproto;
 
+message LuckyValueInfo {
+	int32 luckId = 1 [json_name = "luckId"];
+	int32 luckValue = 2 [json_name = "luckValue"];
+	int64 nextTime = 3 [json_name = "nextTime"];
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message CurrentProfessionProjectIdInfo {
+	int32 currentProfessionProjectId = 1 [json_name = "currentProfessionProjectId"];
+}

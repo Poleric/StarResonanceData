@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message CutsState {
-  map<int32, int32> state_info = 1;
-}
+package zproto;
 
+message CutsState {
+	map<int32, int32> stateInfo = 1 [json_name = "stateInfo"];
+}

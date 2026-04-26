@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message AoYiItemDecomposeRequest {
-  map<uint64, uint32> ao_yi_items = 2;
+	map<uint64, uint32> aoYiItems = 2 [json_name = "aoYiItems"];
 }
-

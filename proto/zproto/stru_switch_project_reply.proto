@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+import "stru_project_extra_sync_data.proto";
+
+package zproto;
+
+message SwitchProjectReply {
+	ProjectExtraSyncData currentProjectSyncData = 1 [json_name = "currentProjectSyncData"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

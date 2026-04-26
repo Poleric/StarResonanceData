@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message SearchFriendRequest {
-  string search_content = 2;
+	string searchContent = 2 [json_name = "searchContent"];
 }
-

@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_notice_team_dissolve_request.proto";
 import "stru_notice_update_team_info_request.proto";
 import "stru_notice_update_team_member_info_request.proto";
@@ -10,6 +8,7 @@ import "stru_notify_apply_join_request.proto";
 import "stru_notify_be_transfer_leader_request.proto";
 import "stru_notify_char_abort_match_request.proto";
 import "stru_notify_char_match_result_request.proto";
+import "stru_notify_count_down_start_request.proto";
 import "stru_notify_invitation_request.proto";
 import "stru_notify_invite_join_dungeons_request.proto";
 import "stru_notify_join_team_request.proto";
@@ -33,126 +32,130 @@ import "stru_team_activity_result_request.proto";
 import "stru_team_activity_vote_result_request.proto";
 import "stru_update_team_mem_be_call_request.proto";
 
+package zproto;
+
 message GrpcTeamNtf {
+	message NoticeUpdateTeamInfo {
+		NoticeUpdateTeamInfoRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NoticeUpdateTeamInfo {
-    zproto.NoticeUpdateTeamInfoRequest v_request = 1;
-  }
+	message NoticeUpdateTeamMemberInfo {
+		NoticeUpdateTeamMemberInfoRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NoticeUpdateTeamMemberInfo {
-    zproto.NoticeUpdateTeamMemberInfoRequest v_request = 1;
-  }
+	message NotifyJoinTeam {
+		NotifyJoinTeamRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyJoinTeam {
-    zproto.NotifyJoinTeamRequest v_request = 1;
-  }
+	message NotifyLeaveTeam {
+		NotifyLeaveTeamRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyLeaveTeam {
-    zproto.NotifyLeaveTeamRequest v_request = 1;
-  }
+	message NotifyApplyJoin {
+		NotifyApplyJoinRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyApplyJoin {
-    zproto.NotifyApplyJoinRequest v_request = 1;
-  }
+	message NotifyInvitation {
+		NotifyInvitationRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyInvitation {
-    zproto.NotifyInvitationRequest v_request = 1;
-  }
+	message NotifyRefuseInvite {
+		NotifyRefuseInviteRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyRefuseInvite {
-    zproto.NotifyRefuseInviteRequest v_request = 1;
-  }
+	message NotifyLeaderApplyListSize {
+		NotifyLeaderApplyListSizeRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyLeaderApplyListSize {
-    zproto.NotifyLeaderApplyListSizeRequest v_request = 1;
-  }
+	message NotifyApplyBeLeader {
+		NotifyApplyBeLeaderRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyApplyBeLeader {
-    zproto.NotifyApplyBeLeaderRequest v_request = 1;
-  }
+	message NotifyRejectApplicant {
+		NotifyRejectApplicantRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyRejectApplicant {
-    zproto.NotifyRejectApplicantRequest v_request = 1;
-  }
+	message NotifyBeTransferLeader {
+		NotifyBeTransferLeaderRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyBeTransferLeader {
-    zproto.NotifyBeTransferLeaderRequest v_request = 1;
-  }
+	message NotifyRefuseBeTransferLeader {
+		NotifyRefuseBeTransferLeaderRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyRefuseBeTransferLeader {
-    zproto.NotifyRefuseBeTransferLeaderRequest v_request = 1;
-  }
+	message NoticeTeamDissolve {
+		NoticeTeamDissolveRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NoticeTeamDissolve {
-    zproto.NoticeTeamDissolveRequest v_request = 1;
-  }
+	message NotifyTeamActivityState {
+		NotifyTeamActivityStateRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamActivityState {
-    zproto.NotifyTeamActivityStateRequest v_request = 1;
-  }
+	message TeamActivityResult {
+		TeamActivityResultRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message TeamActivityResult {
-    zproto.TeamActivityResultRequest v_request = 1;
-  }
+	message TeamActivityListResult {
+		TeamActivityListResultRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message TeamActivityListResult {
-    zproto.TeamActivityListResultRequest v_request = 1;
-  }
+	message TeamActivityVoteResult {
+		TeamActivityVoteResultRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message TeamActivityVoteResult {
-    zproto.TeamActivityVoteResultRequest v_request = 1;
-  }
+	message NotifyCharMatchResult {
+		NotifyCharMatchResultRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyCharMatchResult {
-    zproto.NotifyCharMatchResultRequest v_request = 1;
-  }
+	message NotifyTeamMatchResult {
+		NotifyTeamMatchResultRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamMatchResult {
-    zproto.NotifyTeamMatchResultRequest v_request = 1;
-  }
+	message NotifyCharAbortMatch {
+		NotifyCharAbortMatchRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyCharAbortMatch {
-    zproto.NotifyCharAbortMatchRequest v_request = 1;
-  }
+	message UpdateTeamMemBeCall {
+		UpdateTeamMemBeCallRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message UpdateTeamMemBeCall {
-    zproto.UpdateTeamMemBeCallRequest v_request = 1;
-  }
+	message NotifyTeamMemBeCall {
+		NotifyTeamMemBeCallRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamMemBeCall {
-    zproto.NotifyTeamMemBeCallRequest v_request = 1;
-  }
+	message NotifyTeamMemBeCallResult {
+		NotifyTeamMemBeCallResultRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamMemBeCallResult {
-    zproto.NotifyTeamMemBeCallResultRequest v_request = 1;
-  }
+	message NotifyTeamEnterErr {
+		NotifyTeamEnterErrRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamEnterErr {
-    zproto.NotifyTeamEnterErrRequest v_request = 1;
-  }
+	message NotifyTeamMemMicrophoneStatusChange {
+		NotifyTeamMemMicrophoneStatusChangeRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamMemMicrophoneStatusChange {
-    zproto.NotifyTeamMemMicrophoneStatusChangeRequest v_request = 1;
-  }
+	message NotifyTeamMemsSpeakStatusChange {
+		NotifyTeamMemsSpeakStatusChangeRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamMemsSpeakStatusChange {
-    zproto.NotifyTeamMemsSpeakStatusChangeRequest v_request = 1;
-  }
+	message NotifyTeamMemVoiceIdChange {
+		NotifyTeamMemVoiceIdChangeRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamMemVoiceIdChange {
-    zproto.NotifyTeamMemVoiceIdChangeRequest v_request = 1;
-  }
+	message NotifyTeamChangeMemberType {
+		NotifyTeamChangeMemberTypeRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamChangeMemberType {
-    zproto.NotifyTeamChangeMemberTypeRequest v_request = 1;
-  }
+	message NotifyTeamGroupUpdate {
+		NotifyTeamGroupUpdateRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyTeamGroupUpdate {
-    zproto.NotifyTeamGroupUpdateRequest v_request = 1;
-  }
+	message NotifyInviteJoinDungeons {
+		NotifyInviteJoinDungeonsRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyInviteJoinDungeons {
-    zproto.NotifyInviteJoinDungeonsRequest v_request = 1;
-  }
+	message NotifyCountDownStart {
+		NotifyCountDownStartRequest vRequest = 1 [json_name = "vRequest"];
+	}
 }
-

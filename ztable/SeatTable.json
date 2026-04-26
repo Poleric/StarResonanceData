@@ -1,0 +1,4268 @@
+{
+  "1": {
+    "Id": 1,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "2": {
+    "Id": 2,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_car01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "3": {
+    "Id": 3,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_car01_01_delta01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_car01_01_delta02",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_car01_01_delta03",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_car01_01_delta03",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "7": {
+    "Id": 7,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_car01_01_delta03",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "8": {
+    "Id": 8,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_car01_01_delta04",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "9": {
+    "Id": 9,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_car01_01_delta04",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "10": {
+    "Id": 10,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_car01_01_delta04",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "11": {
+    "Id": 11,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.12,
+        -0.05,
+        0.0
+      ],
+      [
+        0.12,
+        -0.05,
+        0.0
+      ],
+      [
+        0.06,
+        0.0,
+        0.0
+      ],
+      [
+        0.06,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "4011": {
+    "Id": 4011,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 2,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9,
+      1.0,
+      360.0
+    ],
+    "LeaveSeatShowType": 2,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.9,
+      1.0,
+      360.0
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      0.0,
+      10.0,
+      10.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "4012": {
+    "Id": 4012,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 1,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9
+    ],
+    "LeaveSeatShowType": 1,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.2
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      30.0,
+      15.0,
+      15.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "4017": {
+    "Id": 4017,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 1,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9,
+      1.0,
+      360.0
+    ],
+    "LeaveSeatShowType": 1,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.9,
+      1.0,
+      360.0
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      0.0,
+      10.0,
+      10.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "4018": {
+    "Id": 4018,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 1,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9
+    ],
+    "LeaveSeatShowType": 1,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.2
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      30.0,
+      15.0,
+      15.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "4019": {
+    "Id": 4019,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 1,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9
+    ],
+    "LeaveSeatShowType": 1,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.2
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      100.0,
+      15.0,
+      15.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "4022": {
+    "Id": 4022,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 2,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9,
+      1.0,
+      360.0
+    ],
+    "LeaveSeatShowType": 2,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.9,
+      1.0,
+      360.0
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      0.0,
+      10.0,
+      10.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "4023": {
+    "Id": 4023,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 1,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9
+    ],
+    "LeaveSeatShowType": 1,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.2
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      30.0,
+      15.0,
+      15.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "4024": {
+    "Id": 4024,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 1,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9,
+      1.0,
+      360.0
+    ],
+    "LeaveSeatShowType": 1,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.9,
+      1.0,
+      360.0
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      0.0,
+      10.0,
+      10.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "4025": {
+    "Id": 4025,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 1,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9
+    ],
+    "LeaveSeatShowType": 1,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.2
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      30.0,
+      15.0,
+      15.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "4026": {
+    "Id": 4026,
+    "SeatSkills": [],
+    "SeatBuffs": [],
+    "EnterSeatShowType": 1,
+    "EnterSeatShowParam": [
+      0.0,
+      0.4755,
+      -0.466,
+      0.0,
+      0.446,
+      -0.459,
+      0.0,
+      0.9
+    ],
+    "LeaveSeatShowType": 1,
+    "LeaveSeatShowParam": [
+      0.0,
+      -0.4755,
+      0.466,
+      0.0,
+      -0.446,
+      0.459,
+      0.0,
+      0.2
+    ],
+    "SeatShowType": 1,
+    "SeatShowParam": [
+      100.0,
+      15.0,
+      15.0
+    ],
+    "SeatAnimTemplate": "",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      [
+        1.4,
+        1.5,
+        0.06
+      ],
+      [
+        1.50001,
+        1.6,
+        0.035
+      ],
+      [
+        1.60001,
+        1.7,
+        0.02
+      ],
+      [
+        1.70001,
+        1.8,
+        0.0
+      ],
+      [
+        1.80001,
+        2.0,
+        -0.02
+      ]
+    ],
+    "CameraTemplate": [
+      49,
+      48,
+      50
+    ]
+  },
+  "100101": {
+    "Id": 100101,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683134
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_pig_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_pig_skill",
+    "IKPointData": [
+      [
+        0.12,
+        -0.05,
+        0.0
+      ],
+      [
+        0.12,
+        -0.05,
+        0.0
+      ],
+      [
+        0.06,
+        0.0,
+        0.0
+      ],
+      [
+        0.06,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100102": {
+    "Id": 100102,
+    "SeatSkills": [
+      [
+        2,
+        4501
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683134
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_pig_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_pig_skill",
+    "IKPointData": [
+      [
+        0.12,
+        -0.05,
+        0.0
+      ],
+      [
+        0.12,
+        -0.05,
+        0.0
+      ],
+      [
+        0.06,
+        0.0,
+        0.0
+      ],
+      [
+        0.06,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100201": {
+    "Id": 100201,
+    "SeatSkills": [
+      [
+        2,
+        4512
+      ],
+      [
+        3,
+        4513
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683180
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_dihu01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_dihu_skill",
+    "IKPointData": [
+      [
+        0.12,
+        -0.02,
+        0.0
+      ],
+      [
+        0.12,
+        -0.02,
+        0.0
+      ],
+      [
+        0.1,
+        0.05,
+        0.04
+      ],
+      [
+        0.1,
+        0.05,
+        -0.04
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100202": {
+    "Id": 100202,
+    "SeatSkills": [
+      [
+        2,
+        4512
+      ],
+      [
+        3,
+        4514
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683180,
+      683171
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_dihu01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_dihu_skill",
+    "IKPointData": [
+      [
+        0.12,
+        -0.02,
+        0.0
+      ],
+      [
+        0.12,
+        -0.02,
+        0.0
+      ],
+      [
+        0.1,
+        0.05,
+        0.04
+      ],
+      [
+        0.1,
+        0.05,
+        -0.04
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100203": {
+    "Id": 100203,
+    "SeatSkills": [
+      [
+        2,
+        4543
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_dihu01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_dihu_skill",
+    "IKPointData": [
+      [
+        0.12,
+        -0.02,
+        0.0
+      ],
+      [
+        0.12,
+        -0.02,
+        0.0
+      ],
+      [
+        0.1,
+        0.05,
+        0.04
+      ],
+      [
+        0.1,
+        0.05,
+        -0.04
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100204": {
+    "Id": 100204,
+    "SeatSkills": [
+      [
+        2,
+        4544
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_dihu01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_dihu_skill",
+    "IKPointData": [
+      [
+        0.12,
+        -0.02,
+        0.0
+      ],
+      [
+        0.12,
+        -0.02,
+        0.0
+      ],
+      [
+        0.1,
+        0.05,
+        0.04
+      ],
+      [
+        0.1,
+        0.05,
+        -0.04
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100301": {
+    "Id": 100301,
+    "SeatSkills": [
+      [
+        2,
+        4522
+      ],
+      [
+        3,
+        4528
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683155
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_floatingeye_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.052,
+        -0.035,
+        0.0
+      ],
+      [
+        0.04,
+        0.0,
+        -0.01
+      ],
+      [
+        0.1,
+        0.01,
+        -0.015
+      ],
+      [
+        0.1,
+        0.01,
+        0.015
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100302": {
+    "Id": 100302,
+    "SeatSkills": [
+      [
+        2,
+        4529
+      ],
+      [
+        3,
+        4521
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683155
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_bubble01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.052,
+        -0.035,
+        0.0
+      ],
+      [
+        0.04,
+        0.0,
+        -0.01
+      ],
+      [
+        0.1,
+        0.01,
+        -0.015
+      ],
+      [
+        0.1,
+        0.01,
+        0.015
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100303": {
+    "Id": 100303,
+    "SeatSkills": [
+      [
+        2,
+        4527
+      ],
+      [
+        3,
+        4526
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683155
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_bubble01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.052,
+        -0.035,
+        0.0
+      ],
+      [
+        0.04,
+        0.0,
+        -0.01
+      ],
+      [
+        0.1,
+        0.01,
+        -0.015
+      ],
+      [
+        0.1,
+        0.01,
+        0.015
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100304": {
+    "Id": 100304,
+    "SeatSkills": [
+      [
+        2,
+        4527
+      ],
+      [
+        3,
+        4526
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683155,
+      683812
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_bubble01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.052,
+        -0.035,
+        0.0
+      ],
+      [
+        0.04,
+        0.0,
+        -0.01
+      ],
+      [
+        0.1,
+        0.01,
+        -0.015
+      ],
+      [
+        0.1,
+        0.01,
+        0.015
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100401": {
+    "Id": 100401,
+    "SeatSkills": [
+      [
+        2,
+        4543
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_horse01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_horse_skill",
+    "IKPointData": [
+      [
+        0.11,
+        -0.11,
+        0.0
+      ],
+      [
+        0.11,
+        -0.11,
+        0.0
+      ],
+      [
+        0.07,
+        -0.02,
+        0.01
+      ],
+      [
+        0.07,
+        -0.02,
+        0.01
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100402": {
+    "Id": 100402,
+    "SeatSkills": [
+      [
+        2,
+        4543
+      ],
+      [
+        3,
+        4545
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_kylin_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_horse_skill",
+    "IKPointData": [
+      [
+        0.11,
+        -0.11,
+        -0.03
+      ],
+      [
+        0.11,
+        -0.11,
+        0.03
+      ],
+      [
+        0.1,
+        -0.02,
+        0.05
+      ],
+      [
+        0.1,
+        -0.02,
+        -0.05
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100403": {
+    "Id": 100403,
+    "SeatSkills": [
+      [
+        2,
+        4544
+      ],
+      [
+        3,
+        4547
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_horse01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_horse_skill",
+    "IKPointData": [
+      [
+        0.1,
+        -0.1,
+        -0.07
+      ],
+      [
+        0.1,
+        -0.1,
+        0.07
+      ],
+      [
+        0.15,
+        0.0,
+        0.05
+      ],
+      [
+        0.15,
+        0.0,
+        -0.05
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100404": {
+    "Id": 100404,
+    "SeatSkills": [
+      [
+        2,
+        4544
+      ],
+      [
+        3,
+        4542
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_horse01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_horse_skill",
+    "IKPointData": [
+      [
+        0.11,
+        -0.11,
+        0.0
+      ],
+      [
+        0.11,
+        -0.11,
+        0.0
+      ],
+      [
+        0.07,
+        -0.02,
+        0.01
+      ],
+      [
+        0.07,
+        -0.02,
+        0.01
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100405": {
+    "Id": 100405,
+    "SeatSkills": [
+      [
+        2,
+        4544
+      ],
+      [
+        3,
+        4546
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_horse01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_horse_skill",
+    "IKPointData": [
+      [
+        0.11,
+        -0.11,
+        0.0
+      ],
+      [
+        0.11,
+        -0.11,
+        0.0
+      ],
+      [
+        0.07,
+        -0.02,
+        0.01
+      ],
+      [
+        0.07,
+        -0.02,
+        0.01
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100501": {
+    "Id": 100501,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_dng001robot_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100502": {
+    "Id": 100502,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682603
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_dng001robot_01_delta01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100601": {
+    "Id": 100601,
+    "SeatSkills": [
+      [
+        2,
+        4531
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683154
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_skateboard_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.1,
+        -0.02,
+        0.04
+      ],
+      [
+        0.1,
+        -0.015,
+        -0.04
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100701": {
+    "Id": 100701,
+    "SeatSkills": [
+      [
+        2,
+        4508
+      ],
+      [
+        3,
+        4509
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_rabbit_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_rabbit_skill",
+    "IKPointData": [
+      [
+        0.08,
+        -0.08,
+        0.02
+      ],
+      [
+        0.08,
+        -0.08,
+        -0.02
+      ],
+      [
+        0.055,
+        -0.015,
+        -0.03
+      ],
+      [
+        0.055,
+        -0.015,
+        0.03
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100801": {
+    "Id": 100801,
+    "SeatSkills": [
+      [
+        2,
+        4631
+      ],
+      [
+        3,
+        4632
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_broom_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_broom_skill",
+    "IKPointData": [
+      [
+        0.055,
+        -0.045,
+        0.0
+      ],
+      [
+        0.055,
+        -0.045,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        -0.045
+      ],
+      [
+        0.045,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "100901": {
+    "Id": 100901,
+    "SeatSkills": [
+      [
+        2,
+        4613
+      ],
+      [
+        3,
+        4612
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683804
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_dancestage_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_dancestage_skill",
+    "IKPointData": [
+      [
+        0.1,
+        0.0,
+        0.0
+      ],
+      [
+        0.1,
+        0.0,
+        0.0
+      ],
+      [
+        -0.05,
+        0.0,
+        -0.07
+      ],
+      [
+        0.05,
+        -0.012,
+        -0.02
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101001": {
+    "Id": 101001,
+    "SeatSkills": [
+      [
+        2,
+        4601
+      ],
+      [
+        3,
+        4602
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683180
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_yacht_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_yacht_skill",
+    "IKPointData": [
+      [
+        0.13,
+        -0.08,
+        0.02
+      ],
+      [
+        0.13,
+        -0.08,
+        -0.02
+      ],
+      [
+        0.03,
+        -0.05,
+        -0.04
+      ],
+      [
+        0.03,
+        -0.05,
+        0.04
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101002": {
+    "Id": 101002,
+    "SeatSkills": [
+      [
+        2,
+        4601
+      ],
+      [
+        3,
+        4603
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683180,
+      683176
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_yacht_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_yacht_skill",
+    "IKPointData": [
+      [
+        0.13,
+        -0.08,
+        0.02
+      ],
+      [
+        0.13,
+        -0.08,
+        -0.02
+      ],
+      [
+        0.03,
+        -0.05,
+        -0.04
+      ],
+      [
+        0.03,
+        -0.05,
+        0.04
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101101": {
+    "Id": 101101,
+    "SeatSkills": [
+      [
+        2,
+        4553
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_robot01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_robot_skill",
+    "IKPointData": [
+      [
+        0.07,
+        -0.05,
+        0.02
+      ],
+      [
+        0.07,
+        -0.05,
+        -0.02
+      ],
+      [
+        0.05,
+        -0.03,
+        -0.01
+      ],
+      [
+        0.05,
+        -0.03,
+        0.01
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101102": {
+    "Id": 101102,
+    "SeatSkills": [
+      [
+        2,
+        4641
+      ],
+      [
+        3,
+        4642
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_fatknight_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_robot_skill",
+    "IKPointData": [
+      [
+        0.1,
+        0.0,
+        -0.02
+      ],
+      [
+        0.1,
+        0.0,
+        0.02
+      ],
+      [
+        0.1,
+        0.0,
+        -0.05
+      ],
+      [
+        0.1,
+        0.0,
+        0.05
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101103": {
+    "Id": 101103,
+    "SeatSkills": [
+      [
+        2,
+        4643
+      ],
+      [
+        3,
+        4642
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683812
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_fatknight_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_robot_skill",
+    "IKPointData": [
+      [
+        0.1,
+        0.0,
+        -0.02
+      ],
+      [
+        0.1,
+        0.0,
+        0.02
+      ],
+      [
+        0.1,
+        0.0,
+        -0.05
+      ],
+      [
+        0.1,
+        0.0,
+        0.05
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101201": {
+    "Id": 101201,
+    "SeatSkills": [
+      [
+        2,
+        4581
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_airdrop01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.02
+      ],
+      [
+        0.0,
+        0.0,
+        0.02
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101301": {
+    "Id": 101301,
+    "SeatSkills": [
+      [
+        2,
+        4571
+      ],
+      [
+        3,
+        4572
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_koi_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_koi_skill",
+    "IKPointData": [
+      [
+        0.133,
+        -0.04,
+        0.02
+      ],
+      [
+        0.133,
+        -0.04,
+        -0.02
+      ],
+      [
+        0.12,
+        0.03,
+        -0.05
+      ],
+      [
+        0.12,
+        0.03,
+        0.05
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101401": {
+    "Id": 101401,
+    "SeatSkills": [
+      [
+        2,
+        4591
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683154
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_seaturtle01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.11,
+        0.0,
+        0.15
+      ],
+      [
+        -0.11,
+        0.0,
+        0.15
+      ],
+      [
+        0.045,
+        0.04,
+        0.025
+      ],
+      [
+        -0.045,
+        0.04,
+        0.025
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101501": {
+    "Id": 101501,
+    "SeatSkills": [
+      [
+        2,
+        4621
+      ],
+      [
+        3,
+        4622
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_monsterfish01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_monsterfish_skill",
+    "IKPointData": [
+      [
+        0.06,
+        0.06,
+        0.075
+      ],
+      [
+        0.05,
+        -0.055,
+        0.085
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101601": {
+    "Id": 101601,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_motorcycle01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_monsterfish_skill",
+    "IKPointData": [
+      [
+        0.08,
+        -0.06,
+        0.0
+      ],
+      [
+        0.08,
+        -0.06,
+        0.0
+      ],
+      [
+        0.005,
+        0.012,
+        0.0
+      ],
+      [
+        0.005,
+        0.012,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101602": {
+    "Id": 101602,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682603
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_motorcycle01_01_delta01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_monsterfish_skill",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.03,
+        -0.03,
+        0.0
+      ],
+      [
+        0.03,
+        -0.03,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101603": {
+    "Id": 101603,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683812
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_motorcycle01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_monsterfish_skill",
+    "IKPointData": [
+      [
+        0.08,
+        -0.06,
+        0.0
+      ],
+      [
+        0.08,
+        -0.06,
+        0.0
+      ],
+      [
+        0.005,
+        0.012,
+        0.0
+      ],
+      [
+        0.005,
+        0.012,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101604": {
+    "Id": 101604,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682603,
+      683812
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_motorcycle01_01_delta01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_monsterfish_skill",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.03,
+        -0.03,
+        0.0
+      ],
+      [
+        0.03,
+        -0.03,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101701": {
+    "Id": 101701,
+    "SeatSkills": [
+      [
+        2,
+        4661
+      ],
+      [
+        3,
+        4662
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_horse01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_horse_skill",
+    "IKPointData": [
+      [
+        0.15,
+        -0.15,
+        -0.1
+      ],
+      [
+        0.15,
+        -0.15,
+        0.1
+      ],
+      [
+        0.3,
+        0.0,
+        0.15
+      ],
+      [
+        0.3,
+        0.0,
+        -0.15
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101801": {
+    "Id": 101801,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_fatknight_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_robot_skill",
+    "IKPointData": [
+      [
+        0.15,
+        0.0,
+        0.0
+      ],
+      [
+        0.15,
+        0.0,
+        0.0
+      ],
+      [
+        0.03,
+        0.0,
+        0.0
+      ],
+      [
+        0.03,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101802": {
+    "Id": 101802,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683812
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_fatknight_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_robot_skill",
+    "IKPointData": [
+      [
+        0.15,
+        0.0,
+        0.0
+      ],
+      [
+        0.15,
+        0.0,
+        0.0
+      ],
+      [
+        0.03,
+        0.0,
+        0.0
+      ],
+      [
+        0.03,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101901": {
+    "Id": 101901,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_sled01_01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_sled_skill",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.04,
+        0.0,
+        -0.01
+      ],
+      [
+        0.04,
+        0.02,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "101902": {
+    "Id": 101902,
+    "SeatSkills": [],
+    "SeatBuffs": [
+      682601,
+      682603
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_sled01_01_delta01",
+    "SeatAnimFadeTemplate": "ch_vehicle_ride_sled_skill",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.04,
+        0.0,
+        -0.01
+      ],
+      [
+        0.04,
+        0.02,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "102001": {
+    "Id": 102001,
+    "SeatSkills": [
+      [
+        2,
+        4691
+      ],
+      [
+        3,
+        4692
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683189
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_catbus01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "102002": {
+    "Id": 102002,
+    "SeatSkills": [
+      [
+        2,
+        4694
+      ],
+      [
+        3,
+        4692
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683189,
+      683812
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_catbus01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "102011": {
+    "Id": 102011,
+    "SeatSkills": [
+      [
+        2,
+        4706
+      ],
+      [
+        3,
+        4707
+      ],
+      [
+        4,
+        4701
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153,
+      683188,
+      684809
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_loongdancea01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "102012": {
+    "Id": 102012,
+    "SeatSkills": [
+      [
+        2,
+        4706
+      ],
+      [
+        3,
+        4707
+      ],
+      [
+        4,
+        4702
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153,
+      683188,
+      684809
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_loongdancea01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "102013": {
+    "Id": 102013,
+    "SeatSkills": [
+      [
+        2,
+        4706
+      ],
+      [
+        3,
+        4707
+      ],
+      [
+        4,
+        4703
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153,
+      683188,
+      684809
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_loongdancea01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "102014": {
+    "Id": 102014,
+    "SeatSkills": [
+      [
+        2,
+        4709
+      ],
+      [
+        3,
+        4708
+      ],
+      [
+        4,
+        4704
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153,
+      683188,
+      684809
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_liondancea01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "102015": {
+    "Id": 102015,
+    "SeatSkills": [
+      [
+        2,
+        4709
+      ],
+      [
+        3,
+        4708
+      ],
+      [
+        4,
+        4705
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      682602,
+      680702,
+      683153,
+      683188,
+      684809
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_liondancea01_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 0,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "110001": {
+    "Id": 110001,
+    "SeatSkills": [
+      [
+        10,
+        6008
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      881846
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_miningcar_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "110002": {
+    "Id": 110002,
+    "SeatSkills": [
+      [
+        10,
+        6008
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      881846
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_miningcar_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "110003": {
+    "Id": 110003,
+    "SeatSkills": [
+      [
+        10,
+        6008
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      881846
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_miningcar_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "110004": {
+    "Id": 110004,
+    "SeatSkills": [
+      [
+        10,
+        6008
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      881846
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_miningcar_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "110005": {
+    "Id": 110005,
+    "SeatSkills": [
+      [
+        10,
+        6008
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      881846
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_miningcar_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  },
+  "110006": {
+    "Id": 110006,
+    "SeatSkills": [
+      [
+        10,
+        6008
+      ]
+    ],
+    "SeatBuffs": [
+      682601,
+      881846
+    ],
+    "EnterSeatShowType": 0,
+    "EnterSeatShowParam": [],
+    "LeaveSeatShowType": 0,
+    "LeaveSeatShowParam": [],
+    "SeatShowType": 0,
+    "SeatShowParam": [],
+    "SeatAnimTemplate": "animtpl/ch_vehicle_ride_miningcar_01",
+    "SeatAnimFadeTemplate": "",
+    "IKPointData": [
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.0,
+        0.0,
+        -0.02
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ],
+      [
+        0.01,
+        0.05,
+        0.0
+      ]
+    ],
+    "CharacterHeightOffsetType": 1,
+    "CharacterHeightOffset": [
+      []
+    ],
+    "CameraTemplate": [
+      0,
+      0,
+      0
+    ]
+  }
+}

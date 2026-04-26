@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message QueryBalanceReply {
-  zproto.EErrorCode err_code = 1;
-}
+package zproto;
 
+message QueryBalanceReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+}

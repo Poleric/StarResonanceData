@@ -1,0 +1,92 @@
+{
+  "9202": {
+    "Id": 9202,
+    "SuccessSettlementType": 2,
+    "SuccessVariable": [
+      [
+        1
+      ],
+      [
+        9,
+        920201
+      ],
+      [
+        10
+      ]
+    ],
+    "SettlementTime": [
+      5,
+      60
+    ],
+    "FailedType": 1,
+    "ResultCurscenePos": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "9203": {
+    "Id": 9203,
+    "SuccessSettlementType": 2,
+    "SuccessVariable": [
+      [
+        1
+      ],
+      [
+        9,
+        920201
+      ],
+      [
+        10
+      ]
+    ],
+    "SettlementTime": [
+      5,
+      60
+    ],
+    "FailedType": 1,
+    "ResultCurscenePos": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "9204": {
+    "Id": 9204,
+    "SuccessSettlementType": 2,
+    "SuccessVariable": [
+      [
+        1
+      ],
+      [
+        9,
+        920201
+      ],
+      [
+        10
+      ]
+    ],
+    "SettlementTime": [
+      5,
+      60
+    ],
+    "FailedType": 1,
+    "ResultCurscenePos": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "11001": {
+    "Id": 11001,
+    "SuccessSettlementType": 3,
+    "SuccessVariable": [],
+    "SettlementTime": [],
+    "FailedType": 0,
+    "ResultCurscenePos": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
+}

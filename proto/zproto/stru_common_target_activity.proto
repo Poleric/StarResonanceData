@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_common_target_activity_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message CommonTargetActivity {
+	map<uint32, CommonTargetActivityInfo> commonTargetActivityList = 1 [json_name = "commonTargetActivityList"];
+}

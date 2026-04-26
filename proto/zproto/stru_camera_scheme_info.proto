@@ -1,34 +1,33 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_camera_pattern_type.proto";
 import "enum_camera_scheme_type.proto";
 
-message cameraSchemeInfo {
-  zproto.CameraPatternType camera_pattern_type = 1;
-  zproto.CameraSchemeType camera_scheme_type = 2;
-  string scheme_key = 3;
-  string scheme_name = 4;
-  uint64 scheme_time = 5;
-  float exposure = 6;
-  float contrast = 7;
-  float saturation = 8;
-  float horizontal = 9;
-  float vertical = 10;
-  float angle = 11;
-  bool depth_tag = 12;
-  float aperture = 13;
-  float near_blend = 14;
-  float far_blend = 15;
-  bool focus_tag = 16;
-  float focus = 17;
-  float world_time = 18;
-  bool is_head_follow = 19;
-  bool is_eye_follow = 20;
-  map<uint64, bool> show_entity_dicts = 21;
-  map<uint64, bool> show_ui_dicts = 22;
-  string filter_path = 23;
-  uint64 id = 24;
-}
+package zproto;
 
+message cameraSchemeInfo {
+	CameraPatternType cameraPatternType = 1 [json_name = "cameraPatternType"];
+	CameraSchemeType cameraSchemeType = 2 [json_name = "cameraSchemeType"];
+	string schemeKey = 3 [json_name = "schemeKey"];
+	string schemeName = 4 [json_name = "schemeName"];
+	uint64 schemeTime = 5 [json_name = "schemeTime"];
+	float exposure = 6 [json_name = "exposure"];
+	float contrast = 7 [json_name = "contrast"];
+	float saturation = 8 [json_name = "saturation"];
+	float horizontal = 9 [json_name = "horizontal"];
+	float vertical = 10 [json_name = "vertical"];
+	float angle = 11 [json_name = "angle"];
+	bool depthTag = 12 [json_name = "depthTag"];
+	float aperture = 13 [json_name = "aperture"];
+	float nearBlend = 14 [json_name = "nearBlend"];
+	float farBlend = 15 [json_name = "farBlend"];
+	bool focusTag = 16 [json_name = "focusTag"];
+	float focus = 17 [json_name = "focus"];
+	float worldTime = 18 [json_name = "worldTime"];
+	bool isHeadFollow = 19 [json_name = "isHeadFollow"];
+	bool isEyeFollow = 20 [json_name = "isEyeFollow"];
+	map<uint64, bool> showEntityDicts = 21 [json_name = "showEntityDicts"];
+	map<uint64, bool> showUIDicts = 22 [json_name = "showUIDicts"];
+	string filterPath = 23 [json_name = "filterPath"];
+	uint64 id = 24 [json_name = "id"];
+}

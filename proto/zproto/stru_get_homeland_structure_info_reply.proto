@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+
+package zproto;
+
+message GetHomelandStructureInfoReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	map<int32, int32> innerStructureInfos = 2 [json_name = "innerStructureInfos"];
+	map<int32, int32> outerStructureInfos = 3 [json_name = "outerStructureInfos"];
+}

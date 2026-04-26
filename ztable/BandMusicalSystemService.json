@@ -1,0 +1,22 @@
+{
+  "10001": {
+    "ID": 10001,
+    "MusicalInstrumentsType": "Keyboard",
+    "MusicalInstrumentsIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_14"
+  },
+  "10002": {
+    "ID": 10002,
+    "MusicalInstrumentsType": "Electric Guitar",
+    "MusicalInstrumentsIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_14"
+  },
+  "10003": {
+    "ID": 10003,
+    "MusicalInstrumentsType": "Drum Set",
+    "MusicalInstrumentsIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_14"
+  },
+  "10004": {
+    "ID": 10004,
+    "MusicalInstrumentsType": "Bass",
+    "MusicalInstrumentsIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_14"
+  }
+}

@@ -1,21 +1,20 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ChangeQueueTableBase {
-  int32 id = 1463;
-  int32 sort = 1643;
-  int_table consumable = 426;
-  string consumable_name = 1685;
-  int_table exchange_goods = 1101;
-  string exchange_name = 1470;
-  int_table condition = 1634;
-  int_array wait_time = 106;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Sort = 1643 [json_name = "Sort"];
+	int_table Consumable = 426 [json_name = "Consumable"];
+	string ConsumableName = 1685 [json_name = "ConsumableName"];
+	int_table ExchangeGoods = 1101 [json_name = "ExchangeGoods"];
+	string ExchangeName = 1470 [json_name = "ExchangeName"];
+	int_table Condition = 1634 [json_name = "Condition"];
+	int_array WaitTime = 106 [json_name = "WaitTime"];
 }
 
 message ChangeQueueTableMgr {
-  map<int32, bokura.ChangeQueueTableBase> datas = 1;
+	map<int32, ChangeQueueTableBase> datas = 1 [json_name = "datas"];
 }
-

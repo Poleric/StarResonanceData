@@ -1,0 +1,474 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Slot 1",
+    "TempId": 5,
+    "HoleId": 1,
+    "UnlockCondition": []
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Slot 2",
+    "TempId": 5,
+    "HoleId": 2,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        10
+      ]
+    ]
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Slot 3",
+    "TempId": 5,
+    "HoleId": 3,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        25
+      ]
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Slot 4",
+    "TempId": 5,
+    "HoleId": 4,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        40
+      ]
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Slot 5",
+    "TempId": 5,
+    "HoleId": 5,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        60
+      ]
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "Name": "Slot 1",
+    "TempId": 2,
+    "HoleId": 1,
+    "UnlockCondition": []
+  },
+  "7": {
+    "Id": 7,
+    "Name": "Slot 2",
+    "TempId": 2,
+    "HoleId": 2,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        10
+      ]
+    ]
+  },
+  "8": {
+    "Id": 8,
+    "Name": "Slot 3",
+    "TempId": 2,
+    "HoleId": 3,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        25
+      ]
+    ]
+  },
+  "9": {
+    "Id": 9,
+    "Name": "Slot 4",
+    "TempId": 2,
+    "HoleId": 4,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        40
+      ]
+    ]
+  },
+  "10": {
+    "Id": 10,
+    "Name": "Slot 5",
+    "TempId": 2,
+    "HoleId": 5,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        60
+      ]
+    ]
+  },
+  "11": {
+    "Id": 11,
+    "Name": "Slot 1",
+    "TempId": 3,
+    "HoleId": 1,
+    "UnlockCondition": []
+  },
+  "12": {
+    "Id": 12,
+    "Name": "Slot 2",
+    "TempId": 3,
+    "HoleId": 2,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        10
+      ]
+    ]
+  },
+  "13": {
+    "Id": 13,
+    "Name": "Slot 3",
+    "TempId": 3,
+    "HoleId": 3,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        25
+      ]
+    ]
+  },
+  "14": {
+    "Id": 14,
+    "Name": "Slot 4",
+    "TempId": 3,
+    "HoleId": 4,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        40
+      ]
+    ]
+  },
+  "15": {
+    "Id": 15,
+    "Name": "Slot 5",
+    "TempId": 3,
+    "HoleId": 5,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        60
+      ]
+    ]
+  },
+  "16": {
+    "Id": 16,
+    "Name": "Slot 1",
+    "TempId": 4,
+    "HoleId": 1,
+    "UnlockCondition": []
+  },
+  "17": {
+    "Id": 17,
+    "Name": "Slot 2",
+    "TempId": 4,
+    "HoleId": 2,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        10
+      ]
+    ]
+  },
+  "18": {
+    "Id": 18,
+    "Name": "Slot 3",
+    "TempId": 4,
+    "HoleId": 3,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        25
+      ]
+    ]
+  },
+  "19": {
+    "Id": 19,
+    "Name": "Slot 4",
+    "TempId": 4,
+    "HoleId": 4,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        40
+      ]
+    ]
+  },
+  "20": {
+    "Id": 20,
+    "Name": "Slot 5",
+    "TempId": 4,
+    "HoleId": 5,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        60
+      ]
+    ]
+  },
+  "21": {
+    "Id": 21,
+    "Name": "Slot 1",
+    "TempId": 1,
+    "HoleId": 1,
+    "UnlockCondition": []
+  },
+  "22": {
+    "Id": 22,
+    "Name": "Slot 2",
+    "TempId": 1,
+    "HoleId": 2,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        10
+      ]
+    ]
+  },
+  "23": {
+    "Id": 23,
+    "Name": "Slot 3",
+    "TempId": 1,
+    "HoleId": 3,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        25
+      ]
+    ]
+  },
+  "24": {
+    "Id": 24,
+    "Name": "Slot 4",
+    "TempId": 1,
+    "HoleId": 4,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        40
+      ]
+    ]
+  },
+  "25": {
+    "Id": 25,
+    "Name": "Slot 5",
+    "TempId": 1,
+    "HoleId": 5,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        60
+      ]
+    ]
+  },
+  "26": {
+    "Id": 26,
+    "Name": "Slot 1",
+    "TempId": 6,
+    "HoleId": 1,
+    "UnlockCondition": []
+  },
+  "27": {
+    "Id": 27,
+    "Name": "Slot 2",
+    "TempId": 6,
+    "HoleId": 2,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        10
+      ]
+    ]
+  },
+  "28": {
+    "Id": 28,
+    "Name": "Slot 3",
+    "TempId": 6,
+    "HoleId": 3,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        25
+      ]
+    ]
+  },
+  "29": {
+    "Id": 29,
+    "Name": "Slot 4",
+    "TempId": 6,
+    "HoleId": 4,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        40
+      ]
+    ]
+  },
+  "30": {
+    "Id": 30,
+    "Name": "Slot 5",
+    "TempId": 6,
+    "HoleId": 5,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        60
+      ]
+    ]
+  },
+  "31": {
+    "Id": 31,
+    "Name": "Slot 1",
+    "TempId": 7,
+    "HoleId": 1,
+    "UnlockCondition": []
+  },
+  "32": {
+    "Id": 32,
+    "Name": "Slot 2",
+    "TempId": 7,
+    "HoleId": 2,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        10
+      ]
+    ]
+  },
+  "33": {
+    "Id": 33,
+    "Name": "Slot 3",
+    "TempId": 7,
+    "HoleId": 3,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        25
+      ]
+    ]
+  },
+  "34": {
+    "Id": 34,
+    "Name": "Slot 4",
+    "TempId": 7,
+    "HoleId": 4,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        40
+      ]
+    ]
+  },
+  "35": {
+    "Id": 35,
+    "Name": "Slot 5",
+    "TempId": 7,
+    "HoleId": 5,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        60
+      ]
+    ]
+  },
+  "36": {
+    "Id": 36,
+    "Name": "Slot 1",
+    "TempId": 8,
+    "HoleId": 1,
+    "UnlockCondition": []
+  },
+  "37": {
+    "Id": 37,
+    "Name": "Slot 2",
+    "TempId": 8,
+    "HoleId": 2,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        10
+      ]
+    ]
+  },
+  "38": {
+    "Id": 38,
+    "Name": "Slot 3",
+    "TempId": 8,
+    "HoleId": 3,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        25
+      ]
+    ]
+  },
+  "39": {
+    "Id": 39,
+    "Name": "Slot 4",
+    "TempId": 8,
+    "HoleId": 4,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        40
+      ]
+    ]
+  },
+  "40": {
+    "Id": 40,
+    "Name": "Slot 5",
+    "TempId": 8,
+    "HoleId": 5,
+    "UnlockCondition": [
+      [
+        93,
+        2,
+        60
+      ]
+    ]
+  }
+}

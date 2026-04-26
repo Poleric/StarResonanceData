@@ -3,13 +3,17 @@
     "Id": 100,
     "Type": 0,
     "ChannelName": "General",
+    "ChannelIcon": "ui/atlas/mainui/chat/chat_comprehensive",
     "ChannelStyle": "",
     "ChannelStylePC": "",
     "NoticeStyle": "",
     "FunctionId": 102101,
     "SubFunctionId": [],
     "Sort": 1,
-    "ChannelFunc": [],
+    "ChannelFunc": [
+      "102130",
+      "102128"
+    ],
     "ItemShareLimit": [],
     "LevelLimit": 0,
     "IsShowHUD": 0
@@ -18,13 +22,18 @@
     "Id": 1,
     "Type": 1,
     "ChannelName": "World",
+    "ChannelIcon": "ui/atlas/mainui/chat/chat_world",
     "ChannelStyle": "ChannelWorld",
     "ChannelStylePC": "ChannelWorldPC",
     "NoticeStyle": "EADDFE",
     "FunctionId": 102102,
     "SubFunctionId": [],
     "Sort": 2,
-    "ChannelFunc": [],
+    "ChannelFunc": [
+      "102130",
+      "102129",
+      "102128"
+    ],
     "ItemShareLimit": [],
     "LevelLimit": 3,
     "IsShowHUD": 0
@@ -33,13 +42,18 @@
     "Id": 2,
     "Type": 1,
     "ChannelName": "Current",
+    "ChannelIcon": "ui/atlas/mainui/chat/chat_current",
     "ChannelStyle": "ChannelCurrent",
     "ChannelStylePC": "ChannelCurrentPC",
     "NoticeStyle": "EDEDED",
     "FunctionId": 102103,
     "SubFunctionId": [],
     "Sort": 5,
-    "ChannelFunc": [],
+    "ChannelFunc": [
+      "102130",
+      "102129",
+      "102128"
+    ],
     "ItemShareLimit": [],
     "LevelLimit": 3,
     "IsShowHUD": 1
@@ -48,6 +62,7 @@
     "Id": 3,
     "Type": 1,
     "ChannelName": "Team",
+    "ChannelIcon": "ui/atlas/mainui/chat/chat_teammate",
     "ChannelStyle": "ChannelTeam",
     "ChannelStylePC": "ChannelTeamPC",
     "NoticeStyle": "DFEDFE",
@@ -56,7 +71,11 @@
       101001
     ],
     "Sort": 4,
-    "ChannelFunc": [],
+    "ChannelFunc": [
+      "102130",
+      "102129",
+      "102128"
+    ],
     "ItemShareLimit": [],
     "LevelLimit": 3,
     "IsShowHUD": 0
@@ -65,6 +84,7 @@
     "Id": 4,
     "Type": 1,
     "ChannelName": "Guild",
+    "ChannelIcon": "ui/atlas/mainui/chat/chat_association",
     "ChannelStyle": "ChannelGuild",
     "ChannelStylePC": "ChannelGuildPC",
     "NoticeStyle": "E0F6E0",
@@ -73,7 +93,11 @@
       500100
     ],
     "Sort": 3,
-    "ChannelFunc": [],
+    "ChannelFunc": [
+      "102130",
+      "102129",
+      "102128"
+    ],
     "ItemShareLimit": [],
     "LevelLimit": 3,
     "IsShowHUD": 0
@@ -82,15 +106,35 @@
     "Id": 99,
     "Type": 1,
     "ChannelName": "System",
+    "ChannelIcon": "ui/atlas/mainui/chat/chat_notice",
     "ChannelStyle": "ChannelSystem",
     "ChannelStylePC": "ChannelSystemPC",
     "NoticeStyle": "F8CDB8",
     "FunctionId": 102199,
     "SubFunctionId": [],
     "Sort": 99,
-    "ChannelFunc": [],
+    "ChannelFunc": [
+      "102130",
+      "102128"
+    ],
     "ItemShareLimit": [],
     "LevelLimit": 0,
+    "IsShowHUD": 0
+  },
+  "8": {
+    "Id": 8,
+    "Type": 1,
+    "ChannelName": "Gameplay",
+    "ChannelIcon": "ui/atlas/mainui/chat/chat_gameplay",
+    "ChannelStyle": "ChannelTeam",
+    "ChannelStylePC": "ChannelTeamPC",
+    "NoticeStyle": "DFEDFE",
+    "FunctionId": 102106,
+    "SubFunctionId": [],
+    "Sort": 6,
+    "ChannelFunc": [],
+    "ItemShareLimit": [],
+    "LevelLimit": 3,
     "IsShowHUD": 0
   }
 }

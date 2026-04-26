@@ -1,334 +1,47 @@
 {
-  "3910": {
-    "Id": 3910,
+  "3901": {
+    "Id": 3901,
     "TransformationType": [
       [
         1,
-        11324,
+        11802,
+        800
+      ],
+      [
+        1,
+        11044,
         500
       ]
     ],
     "BuffPar": [],
     "ShowSkillType": [
       11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
       20,
       21,
-      22,
-      23,
-      24,
-      25,
-      26,
-      27
-    ],
-    "Index": 101,
-    "RarityType": 1,
-    "AoyiItemId": 3000001,
-    "ArtPreview": "skill_aoyi_advanced_texture009",
-    "ArtTips": "skill_aoyi_advanced_texture009",
-    "MonsterId": 4201,
-    "ModelRatio": 0.45,
-    "ModelAnim": "as_mon_shouren_idle",
-    "ResonanceObject": "Void Ogre",
-    "Dialogue": "This is battle!",
-    "SkillAdvancedItem": [
-      [
-        3000001,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3904": {
-    "Id": 3904,
-    "TransformationType": [
-      [
-        3,
-        3210060,
-        1
-      ]
-    ],
-    "BuffPar": [
-      [
-        5600
-      ]
-    ],
-    "ShowSkillType": [
-      4,
-      9,
-      12,
-      14,
-      17,
-      23,
-      25,
-      26
-    ],
-    "Index": 102,
-    "RarityType": 1,
-    "AoyiItemId": 3000034,
-    "ArtPreview": "skill_aoyi_advanced_texture026",
-    "ArtTips": "skill_aoyi_advanced_texture026",
-    "MonsterId": 10057,
-    "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_gebulin-ss_idle",
-    "ResonanceObject": "Muku Warrior",
-    "Dialogue": "Come on, feel the tremor of battle!",
-    "SkillAdvancedItem": [
-      [
-        3000034,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3907": {
-    "Id": 3907,
-    "TransformationType": [
-      [
-        1,
-        11024,
-        400
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      2,
-      9,
-      10,
-      14,
-      15,
-      18,
-      19,
-      24,
-      25
-    ],
-    "Index": 103,
-    "RarityType": 1,
-    "AoyiItemId": 3000003,
-    "ArtPreview": "skill_aoyi_advanced_texture008",
-    "ArtTips": "skill_aoyi_advanced_texture008",
-    "MonsterId": 10012,
-    "ModelRatio": 0.8,
-    "ModelAnim": "as_mon_gebulin-ds_idle",
-    "ResonanceObject": "Inferno Goblin Mage",
-    "Dialogue": "Meteor... Burst!",
-    "SkillAdvancedItem": [
-      [
-        3000003,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3913": {
-    "Id": 3913,
-    "TransformationType": [
-      [
-        3,
-        3200005,
-        1
-      ]
-    ],
-    "BuffPar": [
-      [
-        600
-      ]
-    ],
-    "ShowSkillType": [
-      9,
-      10,
-      12,
-      16,
-      17,
-      18,
-      19,
-      21,
-      23,
-      26,
-      27
-    ],
-    "Index": 104,
-    "RarityType": 1,
-    "AoyiItemId": 3000004,
-    "ArtPreview": "skill_aoyi_advanced_texture010",
-    "ArtTips": "skill_aoyi_advanced_texture010",
-    "MonsterId": 10064,
-    "ModelRatio": 1.0,
-    "ModelAnim": "as_mon_solider-rifle_idle",
-    "ResonanceObject": "Shadow Captain",
-    "Dialogue": "Understand? Practice makes perfect!",
-    "SkillAdvancedItem": [
-      [
-        3000004,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3905": {
-    "Id": 3905,
-    "TransformationType": [
-      [
-        3,
-        3200004,
-        1
-      ]
-    ],
-    "BuffPar": [
-      [
-        600
-      ]
-    ],
-    "ShowSkillType": [
-      9,
-      10,
-      12,
-      14,
-      15,
-      18,
-      19,
-      24,
-      25,
-      28
-    ],
-    "Index": 106,
-    "RarityType": 1,
-    "AoyiItemId": 3000006,
-    "ArtPreview": "skill_aoyi_advanced_texture001",
-    "ArtTips": "skill_aoyi_advanced_texture001",
-    "MonsterId": 10031,
-    "ModelRatio": 0.8,
-    "ModelAnim": "as_mon_yezhu_idle",
-    "ResonanceObject": "Boarrier Tyrant",
-    "Dialogue": "Roar, are you ready for the savage charge!",
-    "SkillAdvancedItem": [
-      [
-        3000006,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3908": {
-    "Id": 3908,
-    "TransformationType": [
-      [
-        3,
-        3210100,
-        1
-      ],
-      [
-        1,
-        11792,
-        800
-      ]
-    ],
-    "BuffPar": [
-      [
-        3000,
-        3000
-      ]
-    ],
-    "ShowSkillType": [
-      10,
-      18,
-      19,
-      24,
-      25,
-      28
-    ],
-    "Index": 1,
-    "RarityType": 2,
-    "AoyiItemId": 3000007,
-    "ArtPreview": "skill_aoyi_advanced_texture012",
-    "ArtTips": "skill_aoyi_advanced_texture012",
-    "MonsterId": 10029,
-    "ModelRatio": 0.45,
-    "ModelAnim": "as_mon_gebulin-ss_idle",
-    "ResonanceObject": "Muku King",
-    "Dialogue": "The sound of prayer is saying: Don't give up!",
-    "SkillAdvancedItem": [
-      [
-        3000007,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3920": {
-    "Id": 3920,
-    "TransformationType": [
-      [
-        1,
-        11014,
-        600
-      ],
-      [
-        1,
-        11024,
-        600
-      ],
-      [
-        1,
-        11034,
-        600
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      1,
-      2,
-      3,
-      10,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24,
-      25,
       26,
       27,
-      28
+      28,
+      29
     ],
-    "Index": 2,
+    "Index": 1202,
     "RarityType": 2,
-    "AoyiItemId": 3000008,
-    "ArtPreview": "skill_aoyi_advanced_texture013",
-    "ArtTips": "skill_aoyi_advanced_texture013",
-    "MonsterId": 4202,
-    "ModelRatio": 1.0,
-    "ModelAnim": "as_wpnpc_f_base_iruna_idle",
-    "ResonanceObject": "Airona",
-    "Dialogue": "Life, eternal...",
+    "AoyiItemId": 3000025,
+    "ArtPreview": "skill_aoyi_advanced_texture017",
+    "ArtTips": "skill_aoyi_advanced_texture017",
+    "MonsterId": 10018,
+    "ModelRatio": 0.45,
+    "ModelAnim": "as_mon_shouren_idle",
+    "ResonanceObject": "Inferno Ogre",
+    "Dialogue": "Burn, flames, incinerate everything!",
     "SkillAdvancedItem": [
       [
-        3000008,
+        3000025,
         1
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
   },
   "3902": {
     "Id": 3902,
@@ -353,9 +66,10 @@
       21,
       26,
       27,
-      28
+      28,
+      29
     ],
-    "Index": 3,
+    "Index": 107,
     "RarityType": 2,
     "AoyiItemId": 3000009,
     "ArtPreview": "skill_aoyi_advanced_texture014",
@@ -372,144 +86,8 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3906": {
-    "Id": 3906,
-    "TransformationType": [
-      [
-        1,
-        11832,
-        2000
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      9,
-      28
-    ],
-    "Index": 4,
-    "RarityType": 2,
-    "AoyiItemId": 3000010,
-    "ArtPreview": "skill_aoyi_advanced_texture015",
-    "ArtTips": "skill_aoyi_advanced_texture015",
-    "MonsterId": 10009,
-    "ModelRatio": 0.4,
-    "ModelAnim": "as_mon_shouren-ds_fidle",
-    "ResonanceObject": "Frost Ogre",
-    "Dialogue": "Frost... descends!!!",
-    "SkillAdvancedItem": [
-      [
-        3000010,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3921": {
-    "Id": 3921,
-    "TransformationType": [
-      [
-        1,
-        11014,
-        600
-      ],
-      [
-        1,
-        11024,
-        600
-      ],
-      [
-        1,
-        11034,
-        600
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      1,
-      2,
-      3,
-      10,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24,
-      25,
-      26,
-      27,
-      28
-    ],
-    "Index": 5,
-    "RarityType": 2,
-    "AoyiItemId": 3000011,
-    "ArtPreview": "skill_aoyi_advanced_texture016",
-    "ArtTips": "skill_aoyi_advanced_texture016",
-    "MonsterId": 3000033,
-    "ModelRatio": 1.0,
-    "ModelAnim": "as_wpnpc_f_base_tina_idle",
-    "ResonanceObject": "Tina",
-    "Dialogue": "Time... stagnates... release!",
-    "SkillAdvancedItem": [
-      [
-        3000011,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3901": {
-    "Id": 3901,
-    "TransformationType": [
-      [
-        1,
-        11802,
-        800
-      ],
-      [
-        1,
-        11044,
-        500
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      11,
-      20,
-      21,
-      26,
-      27,
-      28
-    ],
-    "Index": 6,
-    "RarityType": 2,
-    "AoyiItemId": 3000025,
-    "ArtPreview": "skill_aoyi_advanced_texture017",
-    "ArtTips": "skill_aoyi_advanced_texture017",
-    "MonsterId": 10018,
-    "ModelRatio": 0.45,
-    "ModelAnim": "as_mon_shouren_idle",
-    "ResonanceObject": "Inferno Ogre",
-    "Dialogue": "Burn, flames, incinerate everything!",
-    "SkillAdvancedItem": [
-      [
-        3000025,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
   },
   "3903": {
     "Id": 3903,
@@ -540,9 +118,10 @@
       22,
       23,
       24,
-      25
+      25,
+      29
     ],
-    "Index": 7,
+    "Index": 1203,
     "RarityType": 2,
     "AoyiItemId": 3000028,
     "ArtPreview": "skill_aoyi_advanced_texture018",
@@ -559,152 +138,239 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
   },
-  "3914": {
-    "Id": 3914,
+  "3904": {
+    "Id": 3904,
+    "TransformationType": [
+      [
+        3,
+        3210060,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        5600
+      ]
+    ],
+    "ShowSkillType": [
+      4,
+      9,
+      12,
+      14,
+      17,
+      23,
+      25,
+      26,
+      29
+    ],
+    "Index": 2202,
+    "RarityType": 1,
+    "AoyiItemId": 3000034,
+    "ArtPreview": "skill_aoyi_advanced_texture026",
+    "ArtTips": "skill_aoyi_advanced_texture026",
+    "MonsterId": 10057,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_gebulin-ss_idle",
+    "ResonanceObject": "Muku Warrior",
+    "Dialogue": "Come on, feel the tremor of battle!",
+    "SkillAdvancedItem": [
+      [
+        3000034,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3905": {
+    "Id": 3905,
+    "TransformationType": [
+      [
+        3,
+        3200004,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        600
+      ]
+    ],
+    "ShowSkillType": [
+      9,
+      10,
+      12,
+      14,
+      15,
+      18,
+      19,
+      24,
+      25,
+      28,
+      29
+    ],
+    "Index": 2205,
+    "RarityType": 1,
+    "AoyiItemId": 3000006,
+    "ArtPreview": "skill_aoyi_advanced_texture001",
+    "ArtTips": "skill_aoyi_advanced_texture001",
+    "MonsterId": 10031,
+    "ModelRatio": 0.8,
+    "ModelAnim": "as_mon_yezhu_idle",
+    "ResonanceObject": "Boarrier Tyrant",
+    "Dialogue": "Roar, are you ready for the savage charge!",
+    "SkillAdvancedItem": [
+      [
+        3000006,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3906": {
+    "Id": 3906,
     "TransformationType": [
       [
         1,
-        11172,
-        200
+        11832,
+        2000
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      9,
+      28,
+      29
+    ],
+    "Index": 108,
+    "RarityType": 2,
+    "AoyiItemId": 3000010,
+    "ArtPreview": "skill_aoyi_advanced_texture015",
+    "ArtTips": "skill_aoyi_advanced_texture015",
+    "MonsterId": 10009,
+    "ModelRatio": 0.4,
+    "ModelAnim": "as_mon_shouren-ds_fidle",
+    "ResonanceObject": "Frost Ogre",
+    "Dialogue": "Frost... descends!!!",
+    "SkillAdvancedItem": [
+      [
+        3000010,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3907": {
+    "Id": 3907,
+    "TransformationType": [
+      [
+        1,
+        11024,
+        400
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      2,
+      9,
+      10,
+      14,
+      15,
+      18,
+      19,
+      24,
+      25,
+      29
+    ],
+    "Index": 2203,
+    "RarityType": 1,
+    "AoyiItemId": 3000003,
+    "ArtPreview": "skill_aoyi_advanced_texture008",
+    "ArtTips": "skill_aoyi_advanced_texture008",
+    "MonsterId": 10012,
+    "ModelRatio": 0.8,
+    "ModelAnim": "as_mon_gebulin-ds_idle",
+    "ResonanceObject": "Inferno Goblin Mage",
+    "Dialogue": "Meteor... Burst!",
+    "SkillAdvancedItem": [
+      [
+        3000003,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3908": {
+    "Id": 3908,
+    "TransformationType": [
+      [
+        3,
+        3210100,
+        1
+      ],
+      [
+        1,
+        11792,
+        800
+      ]
+    ],
+    "BuffPar": [
+      [
+        3000,
+        3000
+      ]
+    ],
+    "ShowSkillType": [
+      10,
+      18,
+      19,
+      24,
+      25,
+      28,
+      29
+    ],
+    "Index": 105,
+    "RarityType": 2,
+    "AoyiItemId": 3000007,
+    "ArtPreview": "skill_aoyi_advanced_texture012",
+    "ArtTips": "skill_aoyi_advanced_texture012",
+    "MonsterId": 10029,
+    "ModelRatio": 0.45,
+    "ModelAnim": "as_mon_gebulin-ss_idle",
+    "ResonanceObject": "Muku King",
+    "Dialogue": "The sound of prayer is saying: Don't give up!",
+    "SkillAdvancedItem": [
+      [
+        3000007,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3910": {
+    "Id": 3910,
+    "TransformationType": [
+      [
+        1,
+        11324,
+        500
       ]
     ],
     "BuffPar": [],
     "ShowSkillType": [
       11,
-      20,
-      21,
-      26,
-      27
-    ],
-    "Index": 107,
-    "RarityType": 1,
-    "AoyiItemId": 3000012,
-    "ArtPreview": "skill_aoyi_advanced_texture019",
-    "ArtTips": "skill_aoyi_advanced_texture019",
-    "MonsterId": 10035,
-    "ModelRatio": 0.8,
-    "ModelAnim": "as_mon_gebulin-ssfc_idle",
-    "ResonanceObject": "Goblin Guard",
-    "Dialogue": "My sword, never fails!",
-    "SkillAdvancedItem": [
-      [
-        3000012,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3915": {
-    "Id": 3915,
-    "TransformationType": [
-      [
-        3,
-        3200009,
-        1
-      ]
-    ],
-    "BuffPar": [
-      [
-        1120
-      ]
-    ],
-    "ShowSkillType": [
-      5,
-      9,
-      13,
-      14,
-      17,
-      18,
-      21,
-      24
-    ],
-    "Index": 108,
-    "RarityType": 1,
-    "AoyiItemId": 3000013,
-    "ArtPreview": "skill_aoyi_advanced_texture020",
-    "ArtTips": "skill_aoyi_advanced_texture020",
-    "MonsterId": 10019,
-    "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_gebulin-ss_idle",
-    "ResonanceObject": "Goblin Warrior",
-    "Dialogue": "Clap clap clap, a rain of swords, hahaha...",
-    "SkillAdvancedItem": [
-      [
-        3000013,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3917": {
-    "Id": 3917,
-    "TransformationType": [
-      [
-        3,
-        3210110,
-        1
-      ]
-    ],
-    "BuffPar": [
-      [
-        10
-      ]
-    ],
-    "ShowSkillType": [
-      9,
-      13,
-      17,
-      21,
-      26
-    ],
-    "Index": 110,
-    "RarityType": 1,
-    "AoyiItemId": 3000015,
-    "ArtPreview": "skill_aoyi_advanced_texture022",
-    "ArtTips": "skill_aoyi_advanced_texture022",
-    "MonsterId": 10065,
-    "ModelRatio": 1.0,
-    "ModelAnim": "as_mon_solider-sssword_idle",
-    "ResonanceObject": "Shadow Commander",
-    "Dialogue": "This slash, cuts more than just the retreat...",
-    "SkillAdvancedItem": [
-      [
-        3000015,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3922": {
-    "Id": 3922,
-    "TransformationType": [
-      [
-        1,
-        11014,
-        600
-      ],
-      [
-        1,
-        11024,
-        600
-      ],
-      [
-        1,
-        11034,
-        600
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      1,
-      2,
-      3,
-      9,
       12,
       13,
       14,
@@ -721,503 +387,27 @@
       25,
       26,
       27,
-      28
+      29
     ],
-    "Index": 10,
-    "RarityType": 2,
-    "AoyiItemId": 3000019,
-    "ArtPreview": "skill_aoyi_advanced_texture025",
-    "ArtTips": "skill_aoyi_advanced_texture025",
-    "MonsterId": 3000032,
-    "ModelRatio": 1.0,
-    "ModelAnim": "as_wpnpc_f_base_olvera_idle",
-    "ResonanceObject": "Olvera",
-    "Dialogue": "Don't blink, this is the cold light slashing towards you!",
-    "SkillAdvancedItem": [
-      [
-        3000019,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3923": {
-    "Id": 3923,
-    "TransformationType": [
-      [
-        1,
-        12512,
-        1000
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      4,
-      12,
-      14,
-      17,
-      23,
-      25,
-      26
-    ],
-    "Index": 11,
-    "RarityType": 2,
-    "AoyiItemId": 3000020,
-    "ArtPreview": "skill_aoyi_advanced_texture005",
-    "ArtTips": "skill_aoyi_advanced_texture005",
-    "MonsterId": 10059,
-    "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_gebulin-ds_idle",
-    "ResonanceObject": "Muku Chief",
-    "Dialogue": "Smash! Smash! Smash! Destruction is art!",
-    "SkillAdvancedItem": [
-      [
-        3000020,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3925": {
-    "Id": 3925,
-    "TransformationType": [
-      [
-        1,
-        11832,
-        1000
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      9,
-      28
-    ],
-    "Index": 112,
+    "Index": 2201,
     "RarityType": 1,
-    "AoyiItemId": 3000032,
-    "ArtPreview": "skill_aoyi_advanced_texture034",
-    "ArtTips": "skill_aoyi_advanced_texture034",
-    "MonsterId": 10042,
+    "AoyiItemId": 3000001,
+    "ArtPreview": "skill_aoyi_advanced_texture009",
+    "ArtTips": "skill_aoyi_advanced_texture009",
+    "MonsterId": 4201,
     "ModelRatio": 0.45,
     "ModelAnim": "as_mon_shouren_idle",
-    "ResonanceObject": "Mighty Colossus",
-    "Dialogue": "I... didn't... mean it...",
+    "ResonanceObject": "​Void Ogre",
+    "Dialogue": "This is battle!",
     "SkillAdvancedItem": [
       [
-        3000032,
+        3000001,
         1
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3926": {
-    "Id": 3926,
-    "TransformationType": [
-      [
-        3,
-        3210020,
-        1
-      ]
-    ],
-    "BuffPar": [
-      [
-        2240
-      ]
-    ],
-    "ShowSkillType": [
-      5,
-      13,
-      14,
-      17,
-      18,
-      21,
-      24
-    ],
-    "Index": 12,
-    "RarityType": 2,
-    "AoyiItemId": 3000024,
-    "ArtPreview": "skill_aoyi_advanced_texture029",
-    "ArtTips": "skill_aoyi_advanced_texture029",
-    "MonsterId": 10007,
-    "ModelRatio": 0.4,
-    "ModelAnim": "as_mon_shouren_idle",
-    "ResonanceObject": "Storm Goblin King",
-    "Dialogue": "Come here, where else do you want to go?!",
-    "SkillAdvancedItem": [
-      [
-        3000024,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3927": {
-    "Id": 3927,
-    "TransformationType": [
-      [
-        1,
-        11014,
-        400
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      1,
-      9,
-      11,
-      16,
-      17,
-      20,
-      21,
-      26,
-      27
-    ],
-    "Index": 113,
-    "RarityType": 1,
-    "AoyiItemId": 3000026,
-    "ArtPreview": "skill_aoyi_advanced_texture030",
-    "ArtTips": "skill_aoyi_advanced_texture030",
-    "MonsterId": 10008,
-    "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_gebulin-ss_idle",
-    "ResonanceObject": "Jungle Goblin Warrior",
-    "Dialogue": "Roar... no one can stop me!",
-    "SkillAdvancedItem": [
-      [
-        3000026,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3928": {
-    "Id": 3928,
-    "TransformationType": [
-      [
-        3,
-        3210040,
-        1
-      ]
-    ],
-    "BuffPar": [
-      [
-        200
-      ]
-    ],
-    "ShowSkillType": [
-      9,
-      13,
-      15,
-      16,
-      18,
-      19,
-      22,
-      23,
-      24
-    ],
-    "Index": 114,
-    "RarityType": 1,
-    "AoyiItemId": 3000027,
-    "ArtPreview": "skill_aoyi_advanced_texture031",
-    "ArtTips": "skill_aoyi_advanced_texture031",
-    "MonsterId": 10052,
-    "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_gebulin-ds_idle",
-    "ResonanceObject": "Muku Scout",
-    "Dialogue": "Haven't you heard? No matter how skilled in martial arts, one still fears a kitchen knife!",
-    "SkillAdvancedItem": [
-      [
-        3000027,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3929": {
-    "Id": 3929,
-    "TransformationType": [
-      [
-        3,
-        3200020,
-        1
-      ]
-    ],
-    "BuffPar": [
-      [
-        20,
-        450
-      ]
-    ],
-    "ShowSkillType": [
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24,
-      25,
-      26,
-      27
-    ],
-    "Index": 115,
-    "RarityType": 1,
-    "AoyiItemId": 3000030,
-    "ArtPreview": "skill_aoyi_advanced_texture032",
-    "ArtTips": "skill_aoyi_advanced_texture032",
-    "MonsterId": 10034,
-    "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_xiezhu_idle",
-    "ResonanceObject": "Void Arachnocrab",
-    "Dialogue": "Indestructible!",
-    "SkillAdvancedItem": [
-      [
-        3000030,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3930": {
-    "Id": 3930,
-    "TransformationType": [
-      [
-        1,
-        11044,
-        500
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      11,
-      20,
-      21,
-      26,
-      27
-    ],
-    "Index": 116,
-    "RarityType": 1,
-    "AoyiItemId": 3000031,
-    "ArtPreview": "skill_aoyi_advanced_texture033",
-    "ArtTips": "skill_aoyi_advanced_texture033",
-    "MonsterId": 10055,
-    "ModelRatio": 1.0,
-    "ModelAnim": "as_mon_solider-shield_idle",
-    "ResonanceObject": "Brigand Guard Captain",
-    "Dialogue": "Stand behind me, I will block everything!",
-    "SkillAdvancedItem": [
-      [
-        3000031,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3934": {
-    "Id": 3934,
-    "TransformationType": [
-      [
-        1,
-        11034,
-        400
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      3,
-      9,
-      12,
-      13,
-      22,
-      23
-    ],
-    "Index": 119,
-    "RarityType": 1,
-    "AoyiItemId": 3000035,
-    "ArtPreview": "skill_aoyi_advanced_texture037",
-    "ArtTips": "skill_aoyi_advanced_texture037",
-    "MonsterId": 10038,
-    "ModelRatio": 1.0,
-    "ModelAnim": "as_mon_solider-dagger_idle",
-    "ResonanceObject": "Brigand Scout Leader",
-    "Dialogue": "Hey, I'm here... no no no, I'm actually here...",
-    "SkillAdvancedItem": [
-      [
-        3000035,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3935": {
-    "Id": 3935,
-    "TransformationType": [
-      [
-        1,
-        11812,
-        800
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      10,
-      11,
-      18,
-      20
-    ],
-    "Index": 14,
-    "RarityType": 2,
-    "AoyiItemId": 3000036,
-    "ArtPreview": "skill_aoyi_advanced_texture038",
-    "ArtTips": "skill_aoyi_advanced_texture038",
-    "MonsterId": 10032,
-    "ModelRatio": 0.8,
-    "ModelAnim": "as_mon_yezhu_idle",
-    "ResonanceObject": "Golden Juggernaut",
-    "Dialogue": "Tremble, in my voice...",
-    "SkillAdvancedItem": [
-      [
-        3000036,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3936": {
-    "Id": 3936,
-    "TransformationType": [
-      [
-        1,
-        13122,
-        300
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      9,
-      14,
-      15
-    ],
-    "Index": 120,
-    "RarityType": 1,
-    "AoyiItemId": 3000022,
-    "ArtPreview": "skill_aoyi_advanced_texture039",
-    "ArtTips": "skill_aoyi_advanced_texture039",
-    "MonsterId": 10105,
-    "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_yuren-ds_idle",
-    "ResonanceObject": "Lizardman Mage",
-    "Dialogue": "Shh, quiet...",
-    "SkillAdvancedItem": [
-      [
-        3000022,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3937": {
-    "Id": 3937,
-    "TransformationType": [
-      [
-        3,
-        3210080,
-        1
-      ]
-    ],
-    "BuffPar": [
-      [
-        1120
-      ]
-    ],
-    "ShowSkillType": [
-      5,
-      9,
-      13,
-      14,
-      17,
-      18,
-      21,
-      24
-    ],
-    "Index": 121,
-    "RarityType": 1,
-    "AoyiItemId": 3000016,
-    "ArtPreview": "skill_aoyi_advanced_texture040",
-    "ArtTips": "skill_aoyi_advanced_texture040",
-    "MonsterId": 10104,
-    "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_yuren-ds_idle",
-    "ResonanceObject": "Lizardman Hunter",
-    "Dialogue": "No one can escape!",
-    "SkillAdvancedItem": [
-      [
-        3000016,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
-  },
-  "3938": {
-    "Id": 3938,
-    "TransformationType": [
-      [
-        1,
-        11142,
-        800
-      ]
-    ],
-    "BuffPar": [],
-    "ShowSkillType": [
-      7,
-      12,
-      15,
-      16,
-      18,
-      19,
-      20,
-      21,
-      22,
-      26,
-      27
-    ],
-    "Index": 15,
-    "RarityType": 2,
-    "AoyiItemId": 3000029,
-    "ArtPreview": "skill_aoyi_advanced_texture041",
-    "ArtTips": "skill_aoyi_advanced_texture041",
-    "MonsterId": 10069,
-    "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_xiezhu_idle",
-    "ResonanceObject": "Phantom Arachnocrab",
-    "Dialogue": "Cocooned? Oh no, this is just a temporary hibernation...",
-    "SkillAdvancedItem": [
-      [
-        3000029,
-        1
-      ]
-    ],
-    "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
   },
   "3911": {
     "Id": 3911,
@@ -1260,9 +450,10 @@
       25,
       26,
       27,
-      28
+      28,
+      29
     ],
-    "Index": 16,
+    "Index": 1209,
     "RarityType": 2,
     "AoyiItemId": 3000037,
     "ArtPreview": "skill_aoyi_advanced_texture042",
@@ -1279,7 +470,874 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3913": {
+    "Id": 3913,
+    "TransformationType": [
+      [
+        3,
+        3200005,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        600
+      ]
+    ],
+    "ShowSkillType": [
+      9,
+      10,
+      12,
+      16,
+      17,
+      18,
+      19,
+      21,
+      23,
+      26,
+      27,
+      29
+    ],
+    "Index": 2204,
+    "RarityType": 1,
+    "AoyiItemId": 3000004,
+    "ArtPreview": "skill_aoyi_advanced_texture010",
+    "ArtTips": "skill_aoyi_advanced_texture010",
+    "MonsterId": 10064,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-rifle_idle",
+    "ResonanceObject": "Shadow Captain",
+    "Dialogue": "Understand? Practice makes perfect!",
+    "SkillAdvancedItem": [
+      [
+        3000004,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3914": {
+    "Id": 3914,
+    "TransformationType": [
+      [
+        1,
+        11172,
+        896
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      11,
+      20,
+      21,
+      26,
+      27,
+      29
+    ],
+    "Index": 2206,
+    "RarityType": 1,
+    "AoyiItemId": 3000012,
+    "ArtPreview": "skill_aoyi_advanced_texture019",
+    "ArtTips": "skill_aoyi_advanced_texture019",
+    "MonsterId": 10035,
+    "ModelRatio": 0.8,
+    "ModelAnim": "as_mon_gebulin-ssfc_idle",
+    "ResonanceObject": "Goblin Guard",
+    "Dialogue": "My sword, never fails!",
+    "SkillAdvancedItem": [
+      [
+        3000012,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3915": {
+    "Id": 3915,
+    "TransformationType": [
+      [
+        3,
+        3200009,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1120
+      ]
+    ],
+    "ShowSkillType": [
+      5,
+      9,
+      13,
+      14,
+      17,
+      18,
+      21,
+      24,
+      29
+    ],
+    "Index": 2207,
+    "RarityType": 1,
+    "AoyiItemId": 3000013,
+    "ArtPreview": "skill_aoyi_advanced_texture020",
+    "ArtTips": "skill_aoyi_advanced_texture020",
+    "MonsterId": 10019,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_gebulin-ss_idle",
+    "ResonanceObject": "Goblin Warrior",
+    "Dialogue": "Clap clap clap, a rain of swords, hahaha...",
+    "SkillAdvancedItem": [
+      [
+        3000013,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3917": {
+    "Id": 3917,
+    "TransformationType": [
+      [
+        3,
+        3210110,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        10
+      ]
+    ],
+    "ShowSkillType": [
+      9,
+      13,
+      17,
+      21,
+      26,
+      29
+    ],
+    "Index": 2208,
+    "RarityType": 1,
+    "AoyiItemId": 3000015,
+    "ArtPreview": "skill_aoyi_advanced_texture022",
+    "ArtTips": "skill_aoyi_advanced_texture022",
+    "MonsterId": 10065,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-sssword_idle",
+    "ResonanceObject": "Shadow Commander",
+    "Dialogue": "This slash, cuts more than just the retreat...",
+    "SkillAdvancedItem": [
+      [
+        3000015,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3920": {
+    "Id": 3920,
+    "TransformationType": [
+      [
+        1,
+        11014,
+        600
+      ],
+      [
+        1,
+        11024,
+        600
+      ],
+      [
+        1,
+        11034,
+        600
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      1,
+      2,
+      3,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "Index": 106,
+    "RarityType": 2,
+    "AoyiItemId": 3000008,
+    "ArtPreview": "skill_aoyi_advanced_texture013",
+    "ArtTips": "skill_aoyi_advanced_texture013",
+    "MonsterId": 4202,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_wpnpc_f_base_iruna_idle",
+    "ResonanceObject": "Airona",
+    "Dialogue": "Life, eternal...",
+    "SkillAdvancedItem": [
+      [
+        3000008,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3921": {
+    "Id": 3921,
+    "TransformationType": [
+      [
+        1,
+        11014,
+        600
+      ],
+      [
+        1,
+        11024,
+        600
+      ],
+      [
+        1,
+        11034,
+        600
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      1,
+      2,
+      3,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "Index": 1201,
+    "RarityType": 2,
+    "AoyiItemId": 3000011,
+    "ArtPreview": "skill_aoyi_advanced_texture016",
+    "ArtTips": "skill_aoyi_advanced_texture016",
+    "MonsterId": 3000033,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_wpnpc_f_base_tina_idle",
+    "ResonanceObject": "Tina",
+    "Dialogue": "Time... stagnates... release!",
+    "SkillAdvancedItem": [
+      [
+        3000011,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3922": {
+    "Id": 3922,
+    "TransformationType": [
+      [
+        1,
+        11014,
+        600
+      ],
+      [
+        1,
+        11024,
+        600
+      ],
+      [
+        1,
+        11034,
+        600
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      1,
+      2,
+      3,
+      9,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "Index": 1204,
+    "RarityType": 2,
+    "AoyiItemId": 3000019,
+    "ArtPreview": "skill_aoyi_advanced_texture025",
+    "ArtTips": "skill_aoyi_advanced_texture025",
+    "MonsterId": 3000032,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_wpnpc_f_base_olvera_idle",
+    "ResonanceObject": "Olvera",
+    "Dialogue": "Don't blink, this is the cold light slashing towards you!",
+    "SkillAdvancedItem": [
+      [
+        3000019,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3923": {
+    "Id": 3923,
+    "TransformationType": [
+      [
+        1,
+        12512,
+        1000
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      4,
+      12,
+      14,
+      17,
+      23,
+      25,
+      26,
+      29
+    ],
+    "Index": 1205,
+    "RarityType": 2,
+    "AoyiItemId": 3000020,
+    "ArtPreview": "skill_aoyi_advanced_texture005",
+    "ArtTips": "skill_aoyi_advanced_texture005",
+    "MonsterId": 10059,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_gebulin-ds_idle",
+    "ResonanceObject": "Muku Chief",
+    "Dialogue": "Smash! Smash! Smash! Destruction is art!",
+    "SkillAdvancedItem": [
+      [
+        3000020,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3925": {
+    "Id": 3925,
+    "TransformationType": [
+      [
+        1,
+        11832,
+        1000
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      9,
+      28,
+      29
+    ],
+    "Index": 2209,
+    "RarityType": 1,
+    "AoyiItemId": 3000032,
+    "ArtPreview": "skill_aoyi_advanced_texture034",
+    "ArtTips": "skill_aoyi_advanced_texture034",
+    "MonsterId": 10042,
+    "ModelRatio": 0.45,
+    "ModelAnim": "as_mon_shouren_idle",
+    "ResonanceObject": "Mighty Colossus",
+    "Dialogue": "I... didn't... mean it...",
+    "SkillAdvancedItem": [
+      [
+        3000032,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3926": {
+    "Id": 3926,
+    "TransformationType": [
+      [
+        3,
+        3210020,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        2240
+      ]
+    ],
+    "ShowSkillType": [
+      5,
+      13,
+      14,
+      17,
+      18,
+      21,
+      24,
+      29
+    ],
+    "Index": 1206,
+    "RarityType": 2,
+    "AoyiItemId": 3000024,
+    "ArtPreview": "skill_aoyi_advanced_texture029",
+    "ArtTips": "skill_aoyi_advanced_texture029",
+    "MonsterId": 10007,
+    "ModelRatio": 0.4,
+    "ModelAnim": "as_mon_gebulin-ss_idle",
+    "ResonanceObject": "Storm Goblin King",
+    "Dialogue": "Come here, where else do you want to go?!",
+    "SkillAdvancedItem": [
+      [
+        3000024,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3927": {
+    "Id": 3927,
+    "TransformationType": [
+      [
+        1,
+        11014,
+        400
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      1,
+      9,
+      11,
+      16,
+      17,
+      20,
+      21,
+      26,
+      27,
+      29
+    ],
+    "Index": 2210,
+    "RarityType": 1,
+    "AoyiItemId": 3000026,
+    "ArtPreview": "skill_aoyi_advanced_texture030",
+    "ArtTips": "skill_aoyi_advanced_texture030",
+    "MonsterId": 10008,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_gebulin-ss_idle",
+    "ResonanceObject": "Jungle Goblin Warrior",
+    "Dialogue": "Roar... no one can stop me!",
+    "SkillAdvancedItem": [
+      [
+        3000026,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3928": {
+    "Id": 3928,
+    "TransformationType": [
+      [
+        3,
+        3210040,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        200
+      ]
+    ],
+    "ShowSkillType": [
+      9,
+      13,
+      15,
+      16,
+      18,
+      19,
+      22,
+      23,
+      24,
+      29
+    ],
+    "Index": 2211,
+    "RarityType": 1,
+    "AoyiItemId": 3000027,
+    "ArtPreview": "skill_aoyi_advanced_texture031",
+    "ArtTips": "skill_aoyi_advanced_texture031",
+    "MonsterId": 10052,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_gebulin-ds_idle",
+    "ResonanceObject": "Muku Scout",
+    "Dialogue": "Haven't you heard? No matter how skilled in martial arts, one still fears a kitchen knife!",
+    "SkillAdvancedItem": [
+      [
+        3000027,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3929": {
+    "Id": 3929,
+    "TransformationType": [
+      [
+        3,
+        3200020,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        20,
+        450
+      ]
+    ],
+    "ShowSkillType": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      29
+    ],
+    "Index": 2212,
+    "RarityType": 1,
+    "AoyiItemId": 3000030,
+    "ArtPreview": "skill_aoyi_advanced_texture032",
+    "ArtTips": "skill_aoyi_advanced_texture032",
+    "MonsterId": 10034,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_xiezhu_idle",
+    "ResonanceObject": "Void Arachnocrab",
+    "Dialogue": "Indestructible!",
+    "SkillAdvancedItem": [
+      [
+        3000030,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3930": {
+    "Id": 3930,
+    "TransformationType": [
+      [
+        1,
+        11044,
+        500
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      11,
+      20,
+      21,
+      26,
+      27,
+      29
+    ],
+    "Index": 2213,
+    "RarityType": 1,
+    "AoyiItemId": 3000031,
+    "ArtPreview": "skill_aoyi_advanced_texture033",
+    "ArtTips": "skill_aoyi_advanced_texture033",
+    "MonsterId": 10055,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-shield_idle",
+    "ResonanceObject": "Brigand Guard Captain",
+    "Dialogue": "Stand behind me, I will block everything!",
+    "SkillAdvancedItem": [
+      [
+        3000031,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3934": {
+    "Id": 3934,
+    "TransformationType": [
+      [
+        1,
+        11034,
+        400
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      3,
+      9,
+      12,
+      13,
+      22,
+      23,
+      29
+    ],
+    "Index": 2214,
+    "RarityType": 1,
+    "AoyiItemId": 3000035,
+    "ArtPreview": "skill_aoyi_advanced_texture037",
+    "ArtTips": "skill_aoyi_advanced_texture037",
+    "MonsterId": 10038,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-dagger_idle",
+    "ResonanceObject": "Brigand Scout Leader",
+    "Dialogue": "Hey, I'm here... no no no, I'm actually here...",
+    "SkillAdvancedItem": [
+      [
+        3000035,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3935": {
+    "Id": 3935,
+    "TransformationType": [
+      [
+        1,
+        11812,
+        800
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      10,
+      11,
+      18,
+      20,
+      29
+    ],
+    "Index": 1207,
+    "RarityType": 2,
+    "AoyiItemId": 3000036,
+    "ArtPreview": "skill_aoyi_advanced_texture038",
+    "ArtTips": "skill_aoyi_advanced_texture038",
+    "MonsterId": 10032,
+    "ModelRatio": 0.8,
+    "ModelAnim": "as_mon_yezhu_idle",
+    "ResonanceObject": "Golden Juggernaut",
+    "Dialogue": "Tremble, in my voice...",
+    "SkillAdvancedItem": [
+      [
+        3000036,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3936": {
+    "Id": 3936,
+    "TransformationType": [
+      [
+        1,
+        13122,
+        300
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      9,
+      14,
+      15,
+      29
+    ],
+    "Index": 2215,
+    "RarityType": 1,
+    "AoyiItemId": 3000022,
+    "ArtPreview": "skill_aoyi_advanced_texture039",
+    "ArtTips": "skill_aoyi_advanced_texture039",
+    "MonsterId": 10105,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_yuren-ds_idle",
+    "ResonanceObject": "Lizardman Mage",
+    "Dialogue": "Shh, quiet...",
+    "SkillAdvancedItem": [
+      [
+        3000022,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3937": {
+    "Id": 3937,
+    "TransformationType": [
+      [
+        3,
+        3210080,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1120
+      ]
+    ],
+    "ShowSkillType": [
+      5,
+      9,
+      13,
+      14,
+      17,
+      18,
+      21,
+      24,
+      29
+    ],
+    "Index": 2216,
+    "RarityType": 1,
+    "AoyiItemId": 3000016,
+    "ArtPreview": "skill_aoyi_advanced_texture040",
+    "ArtTips": "skill_aoyi_advanced_texture040",
+    "MonsterId": 10104,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_yuren-ds_idle",
+    "ResonanceObject": "Lizardman Hunter",
+    "Dialogue": "No one can escape!",
+    "SkillAdvancedItem": [
+      [
+        3000016,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3938": {
+    "Id": 3938,
+    "TransformationType": [
+      [
+        1,
+        11142,
+        3584
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      7,
+      12,
+      15,
+      16,
+      18,
+      19,
+      20,
+      21,
+      22,
+      26,
+      27,
+      29
+    ],
+    "Index": 1208,
+    "RarityType": 2,
+    "AoyiItemId": 3000029,
+    "ArtPreview": "skill_aoyi_advanced_texture041",
+    "ArtTips": "skill_aoyi_advanced_texture041",
+    "MonsterId": 10069,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_xiezhu_idle",
+    "ResonanceObject": "Phantom Arachnocrab",
+    "Dialogue": "Cocooned? Oh no, this is just a temporary hibernation...",
+    "SkillAdvancedItem": [
+      [
+        3000029,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
   },
   "3939": {
     "Id": 3939,
@@ -1296,9 +1354,10 @@
       22,
       23,
       26,
-      27
+      27,
+      29
     ],
-    "Index": 122,
+    "Index": 2217,
     "RarityType": 1,
     "AoyiItemId": 3000038,
     "ArtPreview": "skill_aoyi_advanced_texture043",
@@ -1315,7 +1374,8 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
   },
   "3940": {
     "Id": 3940,
@@ -1330,16 +1390,17 @@
     "ShowSkillType": [
       9,
       16,
-      17
+      17,
+      29
     ],
-    "Index": 123,
+    "Index": 2218,
     "RarityType": 1,
     "AoyiItemId": 3000039,
     "ArtPreview": "skill_aoyi_advanced_texture044",
     "ArtTips": "skill_aoyi_advanced_texture044",
     "MonsterId": 10066,
     "ModelRatio": 0.7,
-    "ModelAnim": "as_mon_gebulin-ds_idle",
+    "ModelAnim": "as_mon_gebulin-ss_idle",
     "ResonanceObject": "Storm Goblin Warrior",
     "Dialogue": "Let it go with the wind...",
     "SkillAdvancedItem": [
@@ -1349,7 +1410,8 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
   },
   "3941": {
     "Id": 3941,
@@ -1368,9 +1430,10 @@
     "ShowSkillType": [
       5,
       9,
-      28
+      28,
+      29
     ],
-    "Index": 124,
+    "Index": 2219,
     "RarityType": 1,
     "AoyiItemId": 3000040,
     "ArtPreview": "skill_aoyi_advanced_texture045",
@@ -1387,7 +1450,8 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
   },
   "3942": {
     "Id": 3942,
@@ -1412,7 +1476,8 @@
     "ShowSkillType": [
       1,
       2,
-      3
+      3,
+      29
     ],
     "Index": 17,
     "RarityType": 2,
@@ -1431,7 +1496,8 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
   },
   "3943": {
     "Id": 3943,
@@ -1453,7 +1519,8 @@
       21,
       26,
       27,
-      28
+      28,
+      29
     ],
     "Index": 18,
     "RarityType": 2,
@@ -1472,7 +1539,8 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
   },
   "3944": {
     "Id": 3944,
@@ -1480,7 +1548,7 @@
       [
         1,
         11122,
-        800
+        3584
       ]
     ],
     "BuffPar": [],
@@ -1494,7 +1562,8 @@
       23,
       24,
       25,
-      27
+      27,
+      29
     ],
     "Index": 19,
     "RarityType": 2,
@@ -1513,7 +1582,8 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
   },
   "3945": {
     "Id": 3945,
@@ -1531,7 +1601,8 @@
     ],
     "ShowSkillType": [
       9,
-      28
+      28,
+      29
     ],
     "Index": 20,
     "RarityType": 2,
@@ -1540,7 +1611,7 @@
     "ArtTips": "skill_aoyi_advanced_texture049",
     "MonsterId": 10085,
     "ModelRatio": 0.6,
-    "ModelAnim": "as_mon_yuren-ss_idle",
+    "ModelAnim": "as_mon_yuren-ds_idle",
     "ResonanceObject": "Lizardman King",
     "Dialogue": "Tides, smooth everything!",
     "SkillAdvancedItem": [
@@ -1550,7 +1621,8 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
   },
   "3946": {
     "Id": 3946,
@@ -1558,13 +1630,14 @@
       [
         1,
         11152,
-        800
+        3584
       ]
     ],
     "BuffPar": [],
     "ShowSkillType": [
       8,
-      28
+      28,
+      29
     ],
     "Index": 21,
     "RarityType": 2,
@@ -1583,7 +1656,8 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
   },
   "3947": {
     "Id": 3947,
@@ -1598,9 +1672,10 @@
     "ShowSkillType": [
       9,
       12,
-      13
+      13,
+      29
     ],
-    "Index": 125,
+    "Index": 2220,
     "RarityType": 1,
     "AoyiItemId": 3000046,
     "ArtPreview": "skill_aoyi_advanced_texture051",
@@ -1617,6 +1692,895 @@
       ]
     ],
     "IsBlocked": false,
-    "ResonanceMaxLv": 5
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3948": {
+    "Id": 3948,
+    "TransformationType": [
+      [
+        1,
+        11014,
+        600
+      ],
+      [
+        1,
+        11024,
+        600
+      ],
+      [
+        1,
+        11034,
+        600
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      1,
+      2,
+      3,
+      13,
+      15,
+      16,
+      23,
+      24,
+      30
+    ],
+    "Index": 101,
+    "RarityType": 2,
+    "AoyiItemId": 3000101,
+    "ArtPreview": "skill_aoyi_advanced_texture052",
+    "ArtTips": "skill_aoyi_advanced_texture052",
+    "MonsterId": 3000043,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_f_rorola-01_fidle",
+    "ResonanceObject": "Rorola",
+    "Dialogue": "Do you feel it? The presence of the ancestors. They have never forsaken the Kanamia Tribe.",
+    "SkillAdvancedItem": [
+      [
+        3000101,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3950": {
+    "Id": 3950,
+    "TransformationType": [
+      [
+        1,
+        11014,
+        600
+      ],
+      [
+        1,
+        11024,
+        600
+      ],
+      [
+        1,
+        11034,
+        600
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      1,
+      2,
+      3,
+      12,
+      14,
+      22,
+      24,
+      30
+    ],
+    "Index": 102,
+    "RarityType": 2,
+    "AoyiItemId": 3000104,
+    "ArtPreview": "skill_aoyi_advanced_texture055",
+    "ArtTips": "skill_aoyi_advanced_texture055",
+    "MonsterId": 3000045,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_f_boyce-01_fidle",
+    "ResonanceObject": "Boyce",
+    "Dialogue": "The truth of the world is meant to be this orderly, with no room for the slightest chaos.",
+    "SkillAdvancedItem": [
+      [
+        3000104,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3951": {
+    "Id": 3951,
+    "TransformationType": [
+      [
+        1,
+        11014,
+        600
+      ],
+      [
+        1,
+        11024,
+        600
+      ],
+      [
+        1,
+        11034,
+        600
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      1,
+      2,
+      3,
+      11,
+      20,
+      21,
+      26,
+      27,
+      30
+    ],
+    "Index": 104,
+    "RarityType": 2,
+    "AoyiItemId": 3000103,
+    "ArtPreview": "skill_aoyi_advanced_texture054",
+    "ArtTips": "skill_aoyi_advanced_texture054",
+    "MonsterId": 3000046,
+    "ModelRatio": 1.25,
+    "ModelAnim": "as_f_farfara-01_fidle",
+    "ResonanceObject": "Fafala",
+    "Dialogue": "I'm truly happy that I can be of help to everyone! Please, don't stand on ceremony.",
+    "SkillAdvancedItem": [
+      [
+        3000103,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3949": {
+    "Id": 3949,
+    "TransformationType": [
+      [
+        1,
+        11014,
+        600
+      ],
+      [
+        1,
+        11024,
+        600
+      ],
+      [
+        1,
+        11034,
+        600
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      1,
+      2,
+      3,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      30
+    ],
+    "Index": 103,
+    "RarityType": 2,
+    "AoyiItemId": 3000102,
+    "ArtPreview": "skill_aoyi_advanced_texture053",
+    "ArtTips": "skill_aoyi_advanced_texture053",
+    "MonsterId": 3000044,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_f_taurus-01_fidle",
+    "ResonanceObject": "Dorothy",
+    "Dialogue": "Technique is born from practice, but true artistry is born from responsibility.",
+    "SkillAdvancedItem": [
+      [
+        3000102,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3952": {
+    "Id": 3952,
+    "TransformationType": [
+      [
+        3,
+        3200032,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1300
+      ]
+    ],
+    "ShowSkillType": [
+      14,
+      15,
+      30
+    ],
+    "Index": 1102,
+    "RarityType": 2,
+    "AoyiItemId": 3000109,
+    "ArtPreview": "skill_aoyi_advanced_texture060",
+    "ArtTips": "skill_aoyi_advanced_texture060",
+    "MonsterId": 3000047,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-sword_idle",
+    "ResonanceObject": "Blackstone Captain",
+    "Dialogue": "Maintain vigilance. Any lapse in concentration is fatal.",
+    "SkillAdvancedItem": [
+      [
+        3000109,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3953": {
+    "Id": 3953,
+    "TransformationType": [
+      [
+        3,
+        3200033,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        900
+      ]
+    ],
+    "ShowSkillType": [
+      16,
+      17,
+      30
+    ],
+    "Index": 1103,
+    "RarityType": 2,
+    "AoyiItemId": 3000112,
+    "ArtPreview": "skill_aoyi_advanced_texture063",
+    "ArtTips": "skill_aoyi_advanced_texture063",
+    "MonsterId": 3000048,
+    "ModelRatio": 0.9,
+    "ModelAnim": "as_mon_gebulin-ssfc_idle",
+    "ResonanceObject": "Goblin Chief",
+    "Dialogue": "Straighten up, you maggots! Your boss is here!",
+    "SkillAdvancedItem": [
+      [
+        3000112,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3954": {
+    "Id": 3954,
+    "TransformationType": [
+      [
+        3,
+        3210120,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        240
+      ]
+    ],
+    "ShowSkillType": [
+      22,
+      23,
+      30
+    ],
+    "Index": 1105,
+    "RarityType": 2,
+    "AoyiItemId": 3000117,
+    "ArtPreview": "skill_aoyi_advanced_texture068",
+    "ArtTips": "skill_aoyi_advanced_texture068",
+    "MonsterId": 3000049,
+    "ModelRatio": 1.2,
+    "ModelAnim": "as_mon_dihu_idle",
+    "ResonanceObject": "Crimson Foxen",
+    "Dialogue": "You're in my sights!",
+    "SkillAdvancedItem": [
+      [
+        3000117,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3955": {
+    "Id": 3955,
+    "TransformationType": [
+      [
+        3,
+        3210130,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        300,
+        300,
+        225,
+        2464,
+        0,
+        2464
+      ]
+    ],
+    "ShowSkillType": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      30
+    ],
+    "Index": 1104,
+    "RarityType": 2,
+    "AoyiItemId": 3000115,
+    "ArtPreview": "skill_aoyi_advanced_texture066",
+    "ArtTips": "skill_aoyi_advanced_texture066",
+    "MonsterId": 3000051,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-sword_idle",
+    "ResonanceObject": "Cabbage Kingpin",
+    "Dialogue": "Target acquired! Crushing blow!... (Misses) *Cough, cough* Ahem! Merely a strategic feint to test your resolve!",
+    "SkillAdvancedItem": [
+      [
+        3000115,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3956": {
+    "Id": 3956,
+    "TransformationType": [
+      [
+        3,
+        3210140,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        800,
+        2240,
+        0,
+        2240
+      ]
+    ],
+    "ShowSkillType": [
+      5,
+      18,
+      30
+    ],
+    "Index": 1106,
+    "RarityType": 2,
+    "AoyiItemId": 3000119,
+    "ArtPreview": "skill_aoyi_advanced_texture070",
+    "ArtTips": "skill_aoyi_advanced_texture070",
+    "MonsterId": 3000052,
+    "ModelRatio": 0.45,
+    "ModelAnim": "as_mon_niuyang_idle",
+    "ResonanceObject": "Flamehorn",
+    "Dialogue": "I am the fury of the earth, and the last ember of the forest!",
+    "SkillAdvancedItem": [
+      [
+        3000119,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3957": {
+    "Id": 3957,
+    "TransformationType": [
+      [
+        1,
+        11014,
+        600
+      ],
+      [
+        1,
+        11024,
+        600
+      ],
+      [
+        1,
+        11034,
+        600
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      1,
+      2,
+      3,
+      19,
+      25,
+      20,
+      21,
+      26,
+      27,
+      30
+    ],
+    "Index": 1101,
+    "RarityType": 2,
+    "AoyiItemId": 3000106,
+    "ArtPreview": "skill_aoyi_advanced_texture057",
+    "ArtTips": "skill_aoyi_advanced_texture057",
+    "MonsterId": 3000053,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_xiyi_idle",
+    "ResonanceObject": "Basilisk",
+    "Dialogue": "The very earth trembles beneath my feet, intruder!",
+    "SkillAdvancedItem": [
+      [
+        3000106,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 7
+  },
+  "3958": {
+    "Id": 3958,
+    "TransformationType": [
+      [
+        1,
+        11152,
+        2016
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      8,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      30
+    ],
+    "Index": 2101,
+    "RarityType": 1,
+    "AoyiItemId": 3000105,
+    "ArtPreview": "skill_aoyi_advanced_texture056",
+    "ArtTips": "skill_aoyi_advanced_texture056",
+    "MonsterId": 3000054,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_xiyi_idle",
+    "ResonanceObject": "Bluespine Lizard",
+    "Dialogue": "Like a glacier...",
+    "SkillAdvancedItem": [
+      [
+        3000105,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3959": {
+    "Id": 3959,
+    "TransformationType": [
+      [
+        1,
+        11354,
+        600
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      11,
+      20,
+      21,
+      26,
+      27,
+      30
+    ],
+    "Index": 2102,
+    "RarityType": 1,
+    "AoyiItemId": 3000107,
+    "ArtPreview": "skill_aoyi_advanced_texture058",
+    "ArtTips": "skill_aoyi_advanced_texture058",
+    "MonsterId": 3000055,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-spear_idle",
+    "ResonanceObject": "Blackstone Commander",
+    "Dialogue": "A chaotic magic source has been detected. In accordance with Legion law, I shall neutralize it.",
+    "SkillAdvancedItem": [
+      [
+        3000107,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3960": {
+    "Id": 3960,
+    "TransformationType": [
+      [
+        3,
+        3210150,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1000
+      ]
+    ],
+    "ShowSkillType": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      30
+    ],
+    "Index": 2103,
+    "RarityType": 1,
+    "AoyiItemId": 3000108,
+    "ArtPreview": "skill_aoyi_advanced_texture059",
+    "ArtTips": "skill_aoyi_advanced_texture059",
+    "MonsterId": 3000056,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-dagger_fidle",
+    "ResonanceObject": "Blackstone Vanguard",
+    "Dialogue": "At last, a moving target! Come, have a taste of my blade!",
+    "SkillAdvancedItem": [
+      [
+        3000108,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3962": {
+    "Id": 3962,
+    "TransformationType": [
+      [
+        3,
+        3200034,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        500,
+        80000,
+        4500
+      ]
+    ],
+    "ShowSkillType": [
+      10,
+      18,
+      19,
+      24,
+      25,
+      30
+    ],
+    "Index": 2104,
+    "RarityType": 1,
+    "AoyiItemId": 3000111,
+    "ArtPreview": "skill_aoyi_advanced_texture062",
+    "ArtTips": "skill_aoyi_advanced_texture062",
+    "MonsterId": 3000057,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_gebulin-ds_idle",
+    "ResonanceObject": "Goblin Shaman",
+    "Dialogue": "Hiss-kaka! New test subject! Let me give you a little prick.",
+    "SkillAdvancedItem": [
+      [
+        3000111,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3961": {
+    "Id": 3961,
+    "TransformationType": [
+      [
+        3,
+        3210160,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        1200
+      ]
+    ],
+    "ShowSkillType": [
+      5,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      30
+    ],
+    "Index": 2105,
+    "RarityType": 1,
+    "AoyiItemId": 3000110,
+    "ArtPreview": "skill_aoyi_advanced_texture061",
+    "ArtTips": "skill_aoyi_advanced_texture061",
+    "MonsterId": 3000058,
+    "ModelRatio": 0.7,
+    "ModelAnim": "as_mon_gebulin-ds_idle",
+    "ResonanceObject": "Goblin Trickster",
+    "Dialogue": "You've just stepped into my \"friendly\" little welcoming trap!",
+    "SkillAdvancedItem": [
+      [
+        3000110,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3963": {
+    "Id": 3963,
+    "TransformationType": [
+      [
+        1,
+        11142,
+        2016
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      7,
+      12,
+      15,
+      22,
+      30
+    ],
+    "Index": 2108,
+    "RarityType": 1,
+    "AoyiItemId": 3000116,
+    "ArtPreview": "skill_aoyi_advanced_texture067",
+    "ArtTips": "skill_aoyi_advanced_texture067",
+    "MonsterId": 3000059,
+    "ModelRatio": 1.2,
+    "ModelAnim": "as_mon_dihu_idle",
+    "ResonanceObject": "Blackfire Foxen",
+    "Dialogue": "You're too slow...",
+    "SkillAdvancedItem": [
+      [
+        3000116,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3964": {
+    "Id": 3964,
+    "TransformationType": [
+      [
+        3,
+        3200035,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        500,
+        700
+      ]
+    ],
+    "ShowSkillType": [
+      4,
+      12,
+      14,
+      17,
+      22,
+      23,
+      30
+    ],
+    "Index": 2106,
+    "RarityType": 1,
+    "AoyiItemId": 3000113,
+    "ArtPreview": "skill_aoyi_advanced_texture064",
+    "ArtTips": "skill_aoyi_advanced_texture064",
+    "MonsterId": 3000060,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-sword_idle",
+    "ResonanceObject": "Gloomy Cabbage",
+    "Dialogue": "This blade of mine bears the weight of a thousand leaves... Yikes!",
+    "SkillAdvancedItem": [
+      [
+        3000113,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3965": {
+    "Id": 3965,
+    "TransformationType": [
+      [
+        3,
+        3210170,
+        1
+      ]
+    ],
+    "BuffPar": [
+      [
+        500
+      ]
+    ],
+    "ShowSkillType": [
+      5,
+      12,
+      18,
+      24,
+      30
+    ],
+    "Index": 2107,
+    "RarityType": 1,
+    "AoyiItemId": 3000114,
+    "ArtPreview": "skill_aoyi_advanced_texture065",
+    "ArtTips": "skill_aoyi_advanced_texture065",
+    "MonsterId": 3000061,
+    "ModelRatio": 1.0,
+    "ModelAnim": "as_mon_solider-sword_idle",
+    "ResonanceObject": "Ruthless Cabbage",
+    "Dialogue": "Heed the law of this magic! —Achoo!",
+    "SkillAdvancedItem": [
+      [
+        3000114,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
+  },
+  "3966": {
+    "Id": 3966,
+    "TransformationType": [
+      [
+        1,
+        11122,
+        2016
+      ]
+    ],
+    "BuffPar": [],
+    "ShowSkillType": [
+      6,
+      13,
+      15,
+      16,
+      30
+    ],
+    "Index": 2109,
+    "RarityType": 1,
+    "AoyiItemId": 3000118,
+    "ArtPreview": "skill_aoyi_advanced_texture069",
+    "ArtTips": "skill_aoyi_advanced_texture069",
+    "MonsterId": 3000062,
+    "ModelRatio": 0.45,
+    "ModelAnim": "as_mon_niuyang_idle",
+    "ResonanceObject": "Emerald Caprahorn",
+    "Dialogue": "The forest will remember your passage, whether in kindness or in malice.",
+    "SkillAdvancedItem": [
+      [
+        3000118,
+        1
+      ]
+    ],
+    "IsBlocked": false,
+    "ResonanceMaxLv": 5,
+    "BondsFraction": 3
   }
 }

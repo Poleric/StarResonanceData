@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message NotifyTeamMemBeCallRequest {
-  int64 leader_id = 1;
-  uint64 time = 2;
+	int64 leaderId = 1 [json_name = "leaderId"];
+	uint64 time = 2 [json_name = "time"];
 }
-

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message SaveProjectRequest {
+	int32 projectId = 1 [json_name = "projectId"];
+}

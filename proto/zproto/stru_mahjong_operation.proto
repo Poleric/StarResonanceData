@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+message MahjongOperation {
+	int32 Handle = 1 [json_name = "Handle"];
+	int32 Index = 2 [json_name = "Index"];
+	int32 Card = 3 [json_name = "Card"];
+	int32 CardIndex = 4 [json_name = "CardIndex"];
+	int32 CountIndex = 5 [json_name = "CountIndex"];
+}

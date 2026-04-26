@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+import "stru_mahjong_open_meld.proto";
+
+package zproto;
+
+message MahjongPlayerShow {
+	int64 PlayerId = 1 [json_name = "PlayerId"];
+	int32 PlayerIndex = 2 [json_name = "PlayerIndex"];
+	int32 Coin = 3 [json_name = "Coin"];
+	int32 SelfWind = 4 [json_name = "SelfWind"];
+	int32 Lizhi = 5 [json_name = "Lizhi"];
+	repeated int32 DropCards = 6 [json_name = "DropCards"];
+	repeated MahjongOpenMeld OpenMelds = 7 [json_name = "OpenMelds"];
+	int32 CardsLen = 8 [json_name = "CardsLen"];
+	bool isLastDraw = 9 [json_name = "isLastDraw"];
+	repeated int32 Cards = 10 [json_name = "Cards"];
+	int32 Furtin = 11 [json_name = "Furtin"];
+	bytes ShowData = 12 [json_name = "ShowData"];
+}

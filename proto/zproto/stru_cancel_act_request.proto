@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message CancelActRequest {
-  int32 act_id = 1;
+	int32 actId = 1 [json_name = "actId"];
 }
-

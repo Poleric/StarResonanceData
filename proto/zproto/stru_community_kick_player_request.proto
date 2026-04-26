@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+message CommunityKickPlayerRequest {
+	int64 communityId = 1 [json_name = "communityId"];
+	int64 homelandId = 2 [json_name = "homelandId"];
+	repeated int64 charIds = 3 [json_name = "charIds"];
+	bool isOuter = 4 [json_name = "isOuter"];
+}

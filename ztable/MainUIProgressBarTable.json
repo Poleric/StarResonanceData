@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": 1,
+    "Type": 1,
+    "Datas": [],
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar",
+    "ProgressColor": "#F04F84",
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_illusion",
+    "IconColor": "#000000",
+    "ShowName": "Hallucination Value",
+    "IsShowPercent": 1,
+    "Order": 1
+  },
+  "2": {
+    "Id": 2,
+    "Type": 2,
+    "Datas": [
+      "illusion_value",
+      "illusion_value_max"
+    ],
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar",
+    "ProgressColor": "#F04F84",
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_light",
+    "IconColor": "#000000",
+    "ShowName": "Dreamflood Value",
+    "IsShowPercent": 0,
+    "Order": 2
+  },
+  "3": {
+    "Id": 3,
+    "Type": 1,
+    "Datas": [
+      "90011",
+      "90017"
+    ],
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar",
+    "ProgressColor": "#F04F84",
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_illusion",
+    "IconColor": "#000000",
+    "ShowName": "Slumberdream Value",
+    "IsShowPercent": 1,
+    "Order": 3
+  }
+}

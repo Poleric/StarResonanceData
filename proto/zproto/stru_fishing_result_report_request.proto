@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message FishingResultReportRequest {
-  bool is_success = 1;
+	bool isSuccess = 1 [json_name = "isSuccess"];
 }
-

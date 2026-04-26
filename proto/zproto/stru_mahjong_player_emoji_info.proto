@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zproto;
+
+message MahjongPlayerEmojiInfo {
+	int64 PlayerId = 1 [json_name = "PlayerId"];
+	int32 emojiId = 2 [json_name = "emojiId"];
+}

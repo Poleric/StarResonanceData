@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message UnionEffectBuff {
-  int32 buff_pos = 1;
-  int32 effect_buff_id = 2;
-  int64 end_time = 3;
+	int32 buffPos = 1 [json_name = "buffPos"];
+	int32 effectBuffId = 2 [json_name = "effectBuffId"];
+	int64 endTime = 3 [json_name = "endTime"];
 }
-

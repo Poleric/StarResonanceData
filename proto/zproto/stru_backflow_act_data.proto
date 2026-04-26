@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "stru_newbie_backflow_elective.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message BackflowActData {
+	int32 loginDays = 1 [json_name = "loginDays"];
+	int64 refreshTimeStamp = 2 [json_name = "refreshTimeStamp"];
+	int32 refreshSeasonId = 3 [json_name = "refreshSeasonId"];
+	repeated int32 signState = 4 [json_name = "signState"];
+	bool awardReceived = 5 [json_name = "awardReceived"];
+	map<int32, NewbieBackflowElective> electiveData = 6 [json_name = "electiveData"];
+}

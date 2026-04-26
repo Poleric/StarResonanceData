@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message HomeLandTask {
-  bool finished = 1;
+	bool finished = 1 [json_name = "finished"];
 }
-

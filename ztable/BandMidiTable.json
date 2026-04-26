@@ -1,0 +1,898 @@
+{
+  "127": {
+    "ID": 127,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "G9",
+    "Frequency": 12543.85
+  },
+  "126": {
+    "ID": 126,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "F#9/Gb9",
+    "Frequency": 11839.82
+  },
+  "125": {
+    "ID": 125,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "F9",
+    "Frequency": 11175.3
+  },
+  "124": {
+    "ID": 124,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "E9",
+    "Frequency": 10548.08
+  },
+  "123": {
+    "ID": 123,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "D#9/Eb9",
+    "Frequency": 9956.06
+  },
+  "122": {
+    "ID": 122,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "D9",
+    "Frequency": 9397.27
+  },
+  "121": {
+    "ID": 121,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "C#9/Db9",
+    "Frequency": 8869.84
+  },
+  "120": {
+    "ID": 120,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "C9",
+    "Frequency": 8372.02
+  },
+  "119": {
+    "ID": 119,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "B8",
+    "Frequency": 7902.13
+  },
+  "118": {
+    "ID": 118,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "A#8/Bb8",
+    "Frequency": 7458.62
+  },
+  "117": {
+    "ID": 117,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "A8",
+    "Frequency": 7040.0
+  },
+  "116": {
+    "ID": 116,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "G#8/Ab8",
+    "Frequency": 6644.88
+  },
+  "115": {
+    "ID": 115,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "G8",
+    "Frequency": 6271.93
+  },
+  "114": {
+    "ID": 114,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "F#8/Gb8",
+    "Frequency": 5919.91
+  },
+  "113": {
+    "ID": 113,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "F8",
+    "Frequency": 5587.65
+  },
+  "112": {
+    "ID": 112,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "E8",
+    "Frequency": 5274.04
+  },
+  "111": {
+    "ID": 111,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "D#8/Eb8",
+    "Frequency": 4978.03
+  },
+  "110": {
+    "ID": 110,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "D8",
+    "Frequency": 4698.64
+  },
+  "109": {
+    "ID": 109,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "C#8/Db8",
+    "Frequency": 4434.92
+  },
+  "108": {
+    "ID": 108,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 88,
+    "NoteNames": "C8",
+    "Frequency": 4186.01
+  },
+  "107": {
+    "ID": 107,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 87,
+    "NoteNames": "B7",
+    "Frequency": 3951.07
+  },
+  "106": {
+    "ID": 106,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 86,
+    "NoteNames": "A#7/Bb7",
+    "Frequency": 3729.31
+  },
+  "105": {
+    "ID": 105,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 85,
+    "NoteNames": "A7",
+    "Frequency": 3520.0
+  },
+  "104": {
+    "ID": 104,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 84,
+    "NoteNames": "G#7/Ab7",
+    "Frequency": 3322.44
+  },
+  "103": {
+    "ID": 103,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 83,
+    "NoteNames": "G7",
+    "Frequency": 3135.96
+  },
+  "102": {
+    "ID": 102,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 82,
+    "NoteNames": "F#7/Gb7",
+    "Frequency": 2959.96
+  },
+  "101": {
+    "ID": 101,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 81,
+    "NoteNames": "F7",
+    "Frequency": 2793.83
+  },
+  "100": {
+    "ID": 100,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 80,
+    "NoteNames": "E7",
+    "Frequency": 2637.02
+  },
+  "99": {
+    "ID": 99,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 79,
+    "NoteNames": "D#7/Eb7",
+    "Frequency": 2489.02
+  },
+  "98": {
+    "ID": 98,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 78,
+    "NoteNames": "D7",
+    "Frequency": 2349.32
+  },
+  "97": {
+    "ID": 97,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 77,
+    "NoteNames": "C#7/Db7",
+    "Frequency": 2217.46
+  },
+  "96": {
+    "ID": 96,
+    "SixtyOneKeyNumber": 61,
+    "EightyEightKeyNumber": 76,
+    "NoteNames": "C7",
+    "Frequency": 2093.0
+  },
+  "95": {
+    "ID": 95,
+    "SixtyOneKeyNumber": 60,
+    "EightyEightKeyNumber": 75,
+    "NoteNames": "B6",
+    "Frequency": 1975.53
+  },
+  "94": {
+    "ID": 94,
+    "SixtyOneKeyNumber": 59,
+    "EightyEightKeyNumber": 74,
+    "NoteNames": "A#6/Bb6",
+    "Frequency": 1864.66
+  },
+  "93": {
+    "ID": 93,
+    "SixtyOneKeyNumber": 58,
+    "EightyEightKeyNumber": 73,
+    "NoteNames": "A6",
+    "Frequency": 1760.0
+  },
+  "92": {
+    "ID": 92,
+    "SixtyOneKeyNumber": 57,
+    "EightyEightKeyNumber": 72,
+    "NoteNames": "G#6/Ab6",
+    "Frequency": 1661.22
+  },
+  "91": {
+    "ID": 91,
+    "SixtyOneKeyNumber": 56,
+    "EightyEightKeyNumber": 71,
+    "NoteNames": "G6",
+    "Frequency": 1567.98
+  },
+  "90": {
+    "ID": 90,
+    "SixtyOneKeyNumber": 55,
+    "EightyEightKeyNumber": 70,
+    "NoteNames": "F#6/Gb6",
+    "Frequency": 1479.98
+  },
+  "89": {
+    "ID": 89,
+    "SixtyOneKeyNumber": 54,
+    "EightyEightKeyNumber": 69,
+    "NoteNames": "F6",
+    "Frequency": 1396.91
+  },
+  "88": {
+    "ID": 88,
+    "SixtyOneKeyNumber": 53,
+    "EightyEightKeyNumber": 68,
+    "NoteNames": "E6",
+    "Frequency": 1318.51
+  },
+  "87": {
+    "ID": 87,
+    "SixtyOneKeyNumber": 52,
+    "EightyEightKeyNumber": 67,
+    "NoteNames": "D#6/Eb6",
+    "Frequency": 1244.51
+  },
+  "86": {
+    "ID": 86,
+    "SixtyOneKeyNumber": 51,
+    "EightyEightKeyNumber": 66,
+    "NoteNames": "D6",
+    "Frequency": 1174.66
+  },
+  "85": {
+    "ID": 85,
+    "SixtyOneKeyNumber": 50,
+    "EightyEightKeyNumber": 65,
+    "NoteNames": "C#6/Db6",
+    "Frequency": 1108.73
+  },
+  "84": {
+    "ID": 84,
+    "SixtyOneKeyNumber": 49,
+    "EightyEightKeyNumber": 64,
+    "NoteNames": "C6",
+    "Frequency": 1046.5
+  },
+  "83": {
+    "ID": 83,
+    "SixtyOneKeyNumber": 48,
+    "EightyEightKeyNumber": 63,
+    "NoteNames": "B5",
+    "Frequency": 987.77
+  },
+  "82": {
+    "ID": 82,
+    "SixtyOneKeyNumber": 47,
+    "EightyEightKeyNumber": 62,
+    "NoteNames": "A#5/Bb5",
+    "Frequency": 932.33
+  },
+  "81": {
+    "ID": 81,
+    "SixtyOneKeyNumber": 46,
+    "EightyEightKeyNumber": 61,
+    "NoteNames": "A5",
+    "Frequency": 880.0
+  },
+  "80": {
+    "ID": 80,
+    "SixtyOneKeyNumber": 45,
+    "EightyEightKeyNumber": 60,
+    "NoteNames": "G#5/Ab5",
+    "Frequency": 830.61
+  },
+  "79": {
+    "ID": 79,
+    "SixtyOneKeyNumber": 44,
+    "EightyEightKeyNumber": 59,
+    "NoteNames": "G5",
+    "Frequency": 783.99
+  },
+  "78": {
+    "ID": 78,
+    "SixtyOneKeyNumber": 43,
+    "EightyEightKeyNumber": 58,
+    "NoteNames": "F#5/Gb5",
+    "Frequency": 739.99
+  },
+  "77": {
+    "ID": 77,
+    "SixtyOneKeyNumber": 42,
+    "EightyEightKeyNumber": 57,
+    "NoteNames": "F5",
+    "Frequency": 698.46
+  },
+  "76": {
+    "ID": 76,
+    "SixtyOneKeyNumber": 41,
+    "EightyEightKeyNumber": 56,
+    "NoteNames": "E5",
+    "Frequency": 659.26
+  },
+  "75": {
+    "ID": 75,
+    "SixtyOneKeyNumber": 40,
+    "EightyEightKeyNumber": 55,
+    "NoteNames": "D#5/Eb5",
+    "Frequency": 622.25
+  },
+  "74": {
+    "ID": 74,
+    "SixtyOneKeyNumber": 39,
+    "EightyEightKeyNumber": 54,
+    "NoteNames": "D5",
+    "Frequency": 587.33
+  },
+  "73": {
+    "ID": 73,
+    "SixtyOneKeyNumber": 38,
+    "EightyEightKeyNumber": 53,
+    "NoteNames": "C#5/Db5",
+    "Frequency": 554.37
+  },
+  "72": {
+    "ID": 72,
+    "SixtyOneKeyNumber": 37,
+    "EightyEightKeyNumber": 52,
+    "NoteNames": "C5",
+    "Frequency": 523.25
+  },
+  "71": {
+    "ID": 71,
+    "SixtyOneKeyNumber": 36,
+    "EightyEightKeyNumber": 51,
+    "NoteNames": "B4",
+    "Frequency": 493.88
+  },
+  "70": {
+    "ID": 70,
+    "SixtyOneKeyNumber": 35,
+    "EightyEightKeyNumber": 50,
+    "NoteNames": "A#4/Bb4",
+    "Frequency": 466.16
+  },
+  "69": {
+    "ID": 69,
+    "SixtyOneKeyNumber": 34,
+    "EightyEightKeyNumber": 49,
+    "NoteNames": "A4",
+    "Frequency": 440.0
+  },
+  "68": {
+    "ID": 68,
+    "SixtyOneKeyNumber": 33,
+    "EightyEightKeyNumber": 48,
+    "NoteNames": "G#4/Ab4",
+    "Frequency": 415.3
+  },
+  "67": {
+    "ID": 67,
+    "SixtyOneKeyNumber": 32,
+    "EightyEightKeyNumber": 47,
+    "NoteNames": "G4",
+    "Frequency": 392.0
+  },
+  "66": {
+    "ID": 66,
+    "SixtyOneKeyNumber": 31,
+    "EightyEightKeyNumber": 46,
+    "NoteNames": "F#4/Gb4",
+    "Frequency": 369.99
+  },
+  "65": {
+    "ID": 65,
+    "SixtyOneKeyNumber": 30,
+    "EightyEightKeyNumber": 45,
+    "NoteNames": "F4",
+    "Frequency": 349.23
+  },
+  "64": {
+    "ID": 64,
+    "SixtyOneKeyNumber": 29,
+    "EightyEightKeyNumber": 44,
+    "NoteNames": "E4",
+    "Frequency": 329.63
+  },
+  "63": {
+    "ID": 63,
+    "SixtyOneKeyNumber": 28,
+    "EightyEightKeyNumber": 43,
+    "NoteNames": "D#4/Eb4",
+    "Frequency": 311.13
+  },
+  "62": {
+    "ID": 62,
+    "SixtyOneKeyNumber": 27,
+    "EightyEightKeyNumber": 42,
+    "NoteNames": "D4",
+    "Frequency": 293.66
+  },
+  "61": {
+    "ID": 61,
+    "SixtyOneKeyNumber": 26,
+    "EightyEightKeyNumber": 41,
+    "NoteNames": "C#4/Db4",
+    "Frequency": 277.18
+  },
+  "60": {
+    "ID": 60,
+    "SixtyOneKeyNumber": 25,
+    "EightyEightKeyNumber": 40,
+    "NoteNames": "C4",
+    "Frequency": 261.63
+  },
+  "59": {
+    "ID": 59,
+    "SixtyOneKeyNumber": 24,
+    "EightyEightKeyNumber": 39,
+    "NoteNames": "B3",
+    "Frequency": 246.94
+  },
+  "58": {
+    "ID": 58,
+    "SixtyOneKeyNumber": 23,
+    "EightyEightKeyNumber": 38,
+    "NoteNames": "A#3/Bb3",
+    "Frequency": 233.08
+  },
+  "57": {
+    "ID": 57,
+    "SixtyOneKeyNumber": 22,
+    "EightyEightKeyNumber": 37,
+    "NoteNames": "A3",
+    "Frequency": 220.0
+  },
+  "56": {
+    "ID": 56,
+    "SixtyOneKeyNumber": 21,
+    "EightyEightKeyNumber": 36,
+    "NoteNames": "G#3/Ab3",
+    "Frequency": 207.65
+  },
+  "55": {
+    "ID": 55,
+    "SixtyOneKeyNumber": 20,
+    "EightyEightKeyNumber": 35,
+    "NoteNames": "G3",
+    "Frequency": 196.0
+  },
+  "54": {
+    "ID": 54,
+    "SixtyOneKeyNumber": 19,
+    "EightyEightKeyNumber": 34,
+    "NoteNames": "F#3/Gb3",
+    "Frequency": 185.0
+  },
+  "53": {
+    "ID": 53,
+    "SixtyOneKeyNumber": 18,
+    "EightyEightKeyNumber": 33,
+    "NoteNames": "F3",
+    "Frequency": 174.61
+  },
+  "52": {
+    "ID": 52,
+    "SixtyOneKeyNumber": 17,
+    "EightyEightKeyNumber": 32,
+    "NoteNames": "E3",
+    "Frequency": 164.81
+  },
+  "51": {
+    "ID": 51,
+    "SixtyOneKeyNumber": 16,
+    "EightyEightKeyNumber": 31,
+    "NoteNames": "D#3/Eb3",
+    "Frequency": 155.56
+  },
+  "50": {
+    "ID": 50,
+    "SixtyOneKeyNumber": 15,
+    "EightyEightKeyNumber": 30,
+    "NoteNames": "D3",
+    "Frequency": 146.83
+  },
+  "49": {
+    "ID": 49,
+    "SixtyOneKeyNumber": 14,
+    "EightyEightKeyNumber": 29,
+    "NoteNames": "C#3/Db3",
+    "Frequency": 138.59
+  },
+  "48": {
+    "ID": 48,
+    "SixtyOneKeyNumber": 13,
+    "EightyEightKeyNumber": 28,
+    "NoteNames": "C3",
+    "Frequency": 130.81
+  },
+  "47": {
+    "ID": 47,
+    "SixtyOneKeyNumber": 12,
+    "EightyEightKeyNumber": 27,
+    "NoteNames": "B2",
+    "Frequency": 123.47
+  },
+  "46": {
+    "ID": 46,
+    "SixtyOneKeyNumber": 11,
+    "EightyEightKeyNumber": 26,
+    "NoteNames": "A#2/Bb2",
+    "Frequency": 116.54
+  },
+  "45": {
+    "ID": 45,
+    "SixtyOneKeyNumber": 10,
+    "EightyEightKeyNumber": 25,
+    "NoteNames": "A2",
+    "Frequency": 110.0
+  },
+  "44": {
+    "ID": 44,
+    "SixtyOneKeyNumber": 9,
+    "EightyEightKeyNumber": 24,
+    "NoteNames": "G#2/Ab2",
+    "Frequency": 103.83
+  },
+  "43": {
+    "ID": 43,
+    "SixtyOneKeyNumber": 8,
+    "EightyEightKeyNumber": 23,
+    "NoteNames": "G2",
+    "Frequency": 98.0
+  },
+  "42": {
+    "ID": 42,
+    "SixtyOneKeyNumber": 7,
+    "EightyEightKeyNumber": 22,
+    "NoteNames": "F#2/Gb2",
+    "Frequency": 92.5
+  },
+  "41": {
+    "ID": 41,
+    "SixtyOneKeyNumber": 6,
+    "EightyEightKeyNumber": 21,
+    "NoteNames": "F2",
+    "Frequency": 87.31
+  },
+  "40": {
+    "ID": 40,
+    "SixtyOneKeyNumber": 5,
+    "EightyEightKeyNumber": 20,
+    "NoteNames": "E2",
+    "Frequency": 82.41
+  },
+  "39": {
+    "ID": 39,
+    "SixtyOneKeyNumber": 4,
+    "EightyEightKeyNumber": 19,
+    "NoteNames": "D#2/Eb2",
+    "Frequency": 77.78
+  },
+  "38": {
+    "ID": 38,
+    "SixtyOneKeyNumber": 3,
+    "EightyEightKeyNumber": 18,
+    "NoteNames": "D2",
+    "Frequency": 73.42
+  },
+  "37": {
+    "ID": 37,
+    "SixtyOneKeyNumber": 2,
+    "EightyEightKeyNumber": 17,
+    "NoteNames": "C#2/Db2",
+    "Frequency": 69.3
+  },
+  "36": {
+    "ID": 36,
+    "SixtyOneKeyNumber": 1,
+    "EightyEightKeyNumber": 16,
+    "NoteNames": "C2",
+    "Frequency": 65.41
+  },
+  "35": {
+    "ID": 35,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 15,
+    "NoteNames": "B1",
+    "Frequency": 61.74
+  },
+  "34": {
+    "ID": 34,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 14,
+    "NoteNames": "A#1/Bb1",
+    "Frequency": 58.27
+  },
+  "33": {
+    "ID": 33,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 13,
+    "NoteNames": "A1",
+    "Frequency": 55.0
+  },
+  "32": {
+    "ID": 32,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 12,
+    "NoteNames": "G#1/Ab1",
+    "Frequency": 51.91
+  },
+  "31": {
+    "ID": 31,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 11,
+    "NoteNames": "G1",
+    "Frequency": 49.0
+  },
+  "30": {
+    "ID": 30,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 10,
+    "NoteNames": "F#1/Gb1",
+    "Frequency": 46.25
+  },
+  "29": {
+    "ID": 29,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 9,
+    "NoteNames": "F1",
+    "Frequency": 43.65
+  },
+  "28": {
+    "ID": 28,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 8,
+    "NoteNames": "E1",
+    "Frequency": 41.2
+  },
+  "27": {
+    "ID": 27,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 7,
+    "NoteNames": "D#1/Eb1",
+    "Frequency": 38.89
+  },
+  "26": {
+    "ID": 26,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 6,
+    "NoteNames": "D1",
+    "Frequency": 36.71
+  },
+  "25": {
+    "ID": 25,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 5,
+    "NoteNames": "C#1/Db1",
+    "Frequency": 34.65
+  },
+  "24": {
+    "ID": 24,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 4,
+    "NoteNames": "C1",
+    "Frequency": 32.7
+  },
+  "23": {
+    "ID": 23,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 3,
+    "NoteNames": "B0",
+    "Frequency": 30.87
+  },
+  "22": {
+    "ID": 22,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 2,
+    "NoteNames": "A#0/Bb0",
+    "Frequency": 29.14
+  },
+  "21": {
+    "ID": 21,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 1,
+    "NoteNames": "A0",
+    "Frequency": 27.5
+  },
+  "20": {
+    "ID": 20,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "G#",
+    "Frequency": 25.96
+  },
+  "19": {
+    "ID": 19,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "G",
+    "Frequency": 24.5
+  },
+  "18": {
+    "ID": 18,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "F#",
+    "Frequency": 23.12
+  },
+  "17": {
+    "ID": 17,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "F",
+    "Frequency": 21.83
+  },
+  "16": {
+    "ID": 16,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "E",
+    "Frequency": 20.6
+  },
+  "15": {
+    "ID": 15,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "D#",
+    "Frequency": 19.45
+  },
+  "14": {
+    "ID": 14,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "D",
+    "Frequency": 18.35
+  },
+  "13": {
+    "ID": 13,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "C#",
+    "Frequency": 17.32
+  },
+  "12": {
+    "ID": 12,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "C0",
+    "Frequency": 16.35
+  },
+  "11": {
+    "ID": 11,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "B",
+    "Frequency": 15.43
+  },
+  "10": {
+    "ID": 10,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "A#",
+    "Frequency": 14.57
+  },
+  "9": {
+    "ID": 9,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "A",
+    "Frequency": 13.75
+  },
+  "8": {
+    "ID": 8,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "G#",
+    "Frequency": 12.98
+  },
+  "7": {
+    "ID": 7,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "G",
+    "Frequency": 12.25
+  },
+  "6": {
+    "ID": 6,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "F#",
+    "Frequency": 11.56
+  },
+  "5": {
+    "ID": 5,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "F",
+    "Frequency": 10.91
+  },
+  "4": {
+    "ID": 4,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "E",
+    "Frequency": 10.3
+  },
+  "3": {
+    "ID": 3,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "D#",
+    "Frequency": 9.72
+  },
+  "2": {
+    "ID": 2,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "D",
+    "Frequency": 9.18
+  },
+  "1": {
+    "ID": 1,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "C#",
+    "Frequency": 8.66
+  },
+  "0": {
+    "ID": 0,
+    "SixtyOneKeyNumber": 0,
+    "EightyEightKeyNumber": 0,
+    "NoteNames": "C-1",
+    "Frequency": 8.18
+  }
+}

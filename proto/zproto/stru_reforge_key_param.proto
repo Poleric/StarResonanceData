@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ReforgeKeyParam {
-  int64 item_uuid = 1;
+	int64 itemUuid = 1 [json_name = "itemUuid"];
 }
-

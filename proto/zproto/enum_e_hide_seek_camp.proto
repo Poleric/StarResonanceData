@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EHideSeekCamp {
+	EHideSeekCamp_None = 0;
+	EHideSeekCamp_Seek = 801;
+	EHideSeekCamp_Hide = 802;
+	EHideSeekCamp_HideGhost = 803;
+}

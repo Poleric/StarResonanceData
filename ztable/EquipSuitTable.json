@@ -15,5 +15,25 @@
       2,
       5000
     ]
+  },
+  "3": {
+    "Id": 3,
+    "SuitId": 101,
+    "SuitName": "2-Piece Set",
+    "LimitNum": 2,
+    "SuitAttrLibId": [
+      2,
+      4001
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "SuitId": 101,
+    "SuitName": "4-Piece Set",
+    "LimitNum": 4,
+    "SuitAttrLibId": [
+      2,
+      5001
+    ]
   }
 }

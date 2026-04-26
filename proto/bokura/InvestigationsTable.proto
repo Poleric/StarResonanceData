@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message InvestigationsTableBase {
-  int32 id = 1463;
-  mlstring investigation_theme = 906;
-  int_table unlock_condition = 1014;
-  int_array investigation_step = 1383;
-  int_table completion_conditions = 178;
-  mlstring theme_introduction = 1677;
-  mlstring iocked_tips = 1728;
-  string theme_pic = 1303;
-  int32 guarantee = 1155;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring InvestigationTheme = 906 [json_name = "InvestigationTheme"];
+	int_table UnlockCondition = 1014 [json_name = "UnlockCondition"];
+	int_array InvestigationStep = 1383 [json_name = "InvestigationStep"];
+	int_table CompletionConditions = 178 [json_name = "CompletionConditions"];
+	mlstring ThemeIntroduction = 1677 [json_name = "ThemeIntroduction"];
+	mlstring IockedTips = 1728 [json_name = "IockedTips"];
+	string ThemePic = 1303 [json_name = "ThemePic"];
+	int32 Guarantee = 1155 [json_name = "Guarantee"];
 }
 
 message InvestigationsTableMgr {
-  map<int32, bokura.InvestigationsTableBase> datas = 1;
+	map<int32, InvestigationsTableBase> datas = 1 [json_name = "datas"];
 }
-

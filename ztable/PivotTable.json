@@ -33,7 +33,7 @@
     "Id": 50003,
     "Name": "Outskirts of Ruins of Andra City",
     "MapID": 7,
-    "AreaName": "Silent City",
+    "AreaName": "Soundless City",
     "SettingOffNum": [],
     "CirculateAward": [
       10002010,
@@ -214,6 +214,66 @@
     "Name": "Underground Sislesa Mine",
     "MapID": 9,
     "AreaName": "Sislesa Mine",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50016": {
+    "Id": 50016,
+    "Name": "Cave One",
+    "MapID": 91,
+    "AreaName": "Cave One",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50017": {
+    "Id": 50017,
+    "Name": "Cave Two",
+    "MapID": 92,
+    "AreaName": "Cave Two",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50018": {
+    "Id": 50018,
+    "Name": "Moonfield Shadow",
+    "MapID": 93,
+    "AreaName": "Moonfield Shadow",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50019": {
+    "Id": 50019,
+    "Name": "Stray Starway",
+    "MapID": 94,
+    "AreaName": "Highland Woods",
     "SettingOffNum": [],
     "CirculateAward": [
       10002010,

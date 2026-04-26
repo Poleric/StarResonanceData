@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message ChangeGroupRequest {
-  int64 char_id = 2;
-  int32 target_group_id = 3;
+	int64 charId = 2 [json_name = "charId"];
+	int32 targetGroupId = 3 [json_name = "targetGroupId"];
 }
-

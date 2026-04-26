@@ -3,14 +3,13 @@ syntax = "proto3";
 package bokura;
 
 message ChatStickersTableBase {
-  int32 id = 1463;
-  int32 type = 673;
-  int32 group_id = 196;
-  string res = 1275;
-  int32 unlock_item = 702;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Type = 673 [json_name = "Type"];
+	int32 GroupId = 196 [json_name = "GroupId"];
+	string Res = 1275 [json_name = "Res"];
+	int32 UnlockItem = 702 [json_name = "UnlockItem"];
 }
 
 message ChatStickersTableMgr {
-  map<int32, bokura.ChatStickersTableBase> datas = 1;
+	map<int32, ChatStickersTableBase> datas = 1 [json_name = "datas"];
 }
-

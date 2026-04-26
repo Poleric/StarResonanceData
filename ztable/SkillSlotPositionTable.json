@@ -6,7 +6,8 @@
     "IsReplace": false,
     "KeyPositionId": 11,
     "SlotLogicType": 1,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 200502
   },
   "2": {
     "Id": 2,
@@ -15,7 +16,8 @@
     "IsReplace": false,
     "KeyPositionId": 120,
     "SlotLogicType": 1,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 200502
   },
   "3": {
     "Id": 3,
@@ -24,7 +26,8 @@
     "IsReplace": true,
     "KeyPositionId": 12,
     "SlotLogicType": 1,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 200502
   },
   "4": {
     "Id": 4,
@@ -33,7 +36,8 @@
     "IsReplace": true,
     "KeyPositionId": 13,
     "SlotLogicType": 1,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 200502
   },
   "5": {
     "Id": 5,
@@ -42,7 +46,8 @@
     "IsReplace": true,
     "KeyPositionId": 14,
     "SlotLogicType": 1,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 200502
   },
   "9": {
     "Id": 9,
@@ -56,7 +61,8 @@
     "IsReplace": true,
     "KeyPositionId": 15,
     "SlotLogicType": 1,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 200502
   },
   "6": {
     "Id": 6,
@@ -65,7 +71,8 @@
     "IsReplace": false,
     "KeyPositionId": 119,
     "SlotLogicType": 1,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 200502
   },
   "7": {
     "Id": 7,
@@ -79,7 +86,8 @@
     "IsReplace": true,
     "KeyPositionId": 130,
     "SlotLogicType": 2,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 200501
   },
   "8": {
     "Id": 8,
@@ -93,7 +101,8 @@
     "IsReplace": true,
     "KeyPositionId": 123,
     "SlotLogicType": 2,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 200501
   },
   "10": {
     "Id": 10,
@@ -102,7 +111,8 @@
     "IsReplace": false,
     "KeyPositionId": 25,
     "SlotLogicType": 3,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 0
   },
   "11": {
     "Id": 11,
@@ -111,7 +121,8 @@
     "IsReplace": false,
     "KeyPositionId": 8,
     "SlotLogicType": 0,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 0
   },
   "12": {
     "Id": 12,
@@ -120,7 +131,58 @@
     "IsReplace": false,
     "KeyPositionId": 7,
     "SlotLogicType": 0,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 0
+  },
+  "14": {
+    "Id": 14,
+    "SlotType": 1,
+    "UnlockCondition": [],
+    "IsReplace": false,
+    "KeyPositionId": 0,
+    "SlotLogicType": 0,
+    "SkillId": 0,
+    "FunctionId": 0
+  },
+  "21": {
+    "Id": 21,
+    "SlotType": 0,
+    "UnlockCondition": [],
+    "IsReplace": true,
+    "KeyPositionId": 168,
+    "SlotLogicType": 6,
+    "SkillId": 0,
+    "FunctionId": 200503
+  },
+  "22": {
+    "Id": 22,
+    "SlotType": 0,
+    "UnlockCondition": [],
+    "IsReplace": true,
+    "KeyPositionId": 169,
+    "SlotLogicType": 6,
+    "SkillId": 0,
+    "FunctionId": 200503
+  },
+  "23": {
+    "Id": 23,
+    "SlotType": 0,
+    "UnlockCondition": [],
+    "IsReplace": true,
+    "KeyPositionId": 170,
+    "SlotLogicType": 6,
+    "SkillId": 0,
+    "FunctionId": 200503
+  },
+  "24": {
+    "Id": 24,
+    "SlotType": 0,
+    "UnlockCondition": [],
+    "IsReplace": true,
+    "KeyPositionId": 171,
+    "SlotLogicType": 6,
+    "SkillId": 0,
+    "FunctionId": 200503
   },
   "30": {
     "Id": 30,
@@ -129,7 +191,8 @@
     "IsReplace": false,
     "KeyPositionId": 9,
     "SlotLogicType": 5,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 0
   },
   "101": {
     "Id": 101,
@@ -138,7 +201,8 @@
     "IsReplace": true,
     "KeyPositionId": 9,
     "SlotLogicType": 4,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 0
   },
   "102": {
     "Id": 102,
@@ -147,7 +211,8 @@
     "IsReplace": true,
     "KeyPositionId": 10,
     "SlotLogicType": 4,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 0
   },
   "111": {
     "Id": 111,
@@ -156,7 +221,8 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 0,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 0
   },
   "112": {
     "Id": 112,
@@ -165,7 +231,8 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 0,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 0
   },
   "113": {
     "Id": 113,
@@ -174,7 +241,8 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 13,
-    "SkillId": 0
+    "SkillId": 0,
+    "FunctionId": 0
   },
   "114": {
     "Id": 114,
@@ -183,7 +251,8 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 14,
-    "SkillId": 2002
+    "SkillId": 2002,
+    "FunctionId": 0
   },
   "201": {
     "Id": 201,
@@ -192,7 +261,8 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 200,
-    "SkillId": 1101
+    "SkillId": 1101,
+    "FunctionId": 0
   },
   "202": {
     "Id": 202,
@@ -201,7 +271,8 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 200,
-    "SkillId": 1102
+    "SkillId": 1102,
+    "FunctionId": 0
   },
   "203": {
     "Id": 203,
@@ -210,7 +281,8 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 200,
-    "SkillId": 1103
+    "SkillId": 1103,
+    "FunctionId": 0
   },
   "204": {
     "Id": 204,
@@ -219,7 +291,8 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 200,
-    "SkillId": 1104
+    "SkillId": 1104,
+    "FunctionId": 0
   },
   "205": {
     "Id": 205,
@@ -228,7 +301,8 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 200,
-    "SkillId": 1105
+    "SkillId": 1105,
+    "FunctionId": 0
   },
   "206": {
     "Id": 206,
@@ -237,6 +311,17 @@
     "IsReplace": false,
     "KeyPositionId": 0,
     "SlotLogicType": 200,
-    "SkillId": 1106
+    "SkillId": 1106,
+    "FunctionId": 0
+  },
+  "999": {
+    "Id": 999,
+    "SlotType": 1,
+    "UnlockCondition": [],
+    "IsReplace": false,
+    "KeyPositionId": 167,
+    "SlotLogicType": 0,
+    "SkillId": 0,
+    "FunctionId": 0
   }
 }

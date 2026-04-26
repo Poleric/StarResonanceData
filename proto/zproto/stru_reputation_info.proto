@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ReputationInfo {
+	uint64 reputationExp = 1 [json_name = "reputationExp"];
+	int32 reputationLevel = 2 [json_name = "reputationLevel"];
+	map<int32, bool> awardMap = 3 [json_name = "awardMap"];
+}

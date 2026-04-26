@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message PlaceHolderTimestamp {
-  int64 timestamp = 1;
+	int64 timestamp = 1 [json_name = "timestamp"];
 }
-

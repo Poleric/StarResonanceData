@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "stru_item.proto";
+
+package zproto;
+
+message CommunityBuildLifeProfessionInfo {
+	int64 buildUuid = 1 [json_name = "buildUuid"];
+	int64 charId = 2 [json_name = "charId"];
+	int64 startTime = 3 [json_name = "startTime"];
+	int32 itemId = 4 [json_name = "itemId"];
+	int32 itemCount = 5 [json_name = "itemCount"];
+	repeated Item consumeItems = 6 [json_name = "consumeItems"];
+	int32 reduceTime = 7 [json_name = "reduceTime"];
+}

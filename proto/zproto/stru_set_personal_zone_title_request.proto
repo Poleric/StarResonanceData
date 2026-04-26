@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message SetPersonalZoneTitleRequest {
-  int32 title_id = 1;
+	int32 titleId = 1 [json_name = "titleId"];
 }
-

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "stru_int_vec3.proto";
+import "stru_vec4.proto";
+
+package zproto;
+
+message StructureSubModelInfo {
+	int32 slot = 1 [json_name = "slot"];
+	int32 subModelId = 2 [json_name = "subModelId"];
+	IntVec3 position = 3 [json_name = "position"];
+	Vec4 quaternion = 4 [json_name = "quaternion"];
+	int64 charId = 5 [json_name = "charId"];
+}

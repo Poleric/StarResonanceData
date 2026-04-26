@@ -1,0 +1,1788 @@
+{
+  "31201": {
+    "Id": 31201,
+    "RefreshType": 0,
+    "TargetType": 163,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [],
+    "TargetName": "",
+    "TargetDes": "Obtainable after reaching {*val*} Prayer Progress",
+    "ProgressFunction": 0,
+    "AwardFunction": 820018,
+    "ActId": 312,
+    "AwardId": 70030480,
+    "Type": 0,
+    "Sort": 1,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      22222
+    ],
+    "RedDotId": 82000011,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "31202": {
+    "Id": 31202,
+    "RefreshType": 0,
+    "TargetType": 163,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      1070112
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtainable after reaching {*val*} Prayer Progress",
+    "ProgressFunction": 0,
+    "AwardFunction": 820018,
+    "ActId": 312,
+    "AwardId": 70030460,
+    "Type": 0,
+    "Sort": 2,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      22220
+    ],
+    "RedDotId": 82000011,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "31203": {
+    "Id": 31203,
+    "RefreshType": 0,
+    "TargetType": 163,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      1070113
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtainable after reaching {*val*} Prayer Progress",
+    "ProgressFunction": 0,
+    "AwardFunction": 820018,
+    "ActId": 312,
+    "AwardId": 70030470,
+    "Type": 0,
+    "Sort": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      22221
+    ],
+    "RedDotId": 82000011,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "31204": {
+    "Id": 31204,
+    "RefreshType": 0,
+    "TargetType": 163,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      1070115
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtainable after reaching {*val*} Prayer Progress",
+    "ProgressFunction": 0,
+    "AwardFunction": 820018,
+    "ActId": 312,
+    "AwardId": 70030490,
+    "Type": 0,
+    "Sort": 4,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      22223
+    ],
+    "RedDotId": 82000011,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "31211": {
+    "Id": 31211,
+    "RefreshType": 0,
+    "TargetType": 163,
+    "Num": 30,
+    "SceneId": 0,
+    "Param": [
+      1070112,
+      1070113,
+      1070114,
+      1070115
+    ],
+    "TargetName": "",
+    "TargetDes": "Pray with {*val*} Ash Pacts of any type",
+    "ProgressFunction": 0,
+    "AwardFunction": 820018,
+    "ActId": 312,
+    "AwardId": 70030450,
+    "Type": 1,
+    "Sort": 1,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      22220
+    ],
+    "RedDotId": 82000012,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "31212": {
+    "Id": 31212,
+    "RefreshType": 0,
+    "TargetType": 163,
+    "Num": 80,
+    "SceneId": 0,
+    "Param": [
+      1070112,
+      1070113,
+      1070114,
+      1070115
+    ],
+    "TargetName": "",
+    "TargetDes": "Pray with {*val*} Ash Pacts of any type",
+    "ProgressFunction": 0,
+    "AwardFunction": 820018,
+    "ActId": 312,
+    "AwardId": 70030451,
+    "Type": 1,
+    "Sort": 2,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      22220
+    ],
+    "RedDotId": 82000012,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "31213": {
+    "Id": 31213,
+    "RefreshType": 0,
+    "TargetType": 163,
+    "Num": 120,
+    "SceneId": 0,
+    "Param": [
+      1070112,
+      1070113,
+      1070114,
+      1070115
+    ],
+    "TargetName": "",
+    "TargetDes": "Pray with {*val*} Ash Pacts of any type",
+    "ProgressFunction": 0,
+    "AwardFunction": 820018,
+    "ActId": 312,
+    "AwardId": 70030452,
+    "Type": 1,
+    "Sort": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      22220
+    ],
+    "RedDotId": 82000012,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "31214": {
+    "Id": 31214,
+    "RefreshType": 0,
+    "TargetType": 163,
+    "Num": 150,
+    "SceneId": 0,
+    "Param": [
+      1070112,
+      1070113,
+      1070114,
+      1070115
+    ],
+    "TargetName": "",
+    "TargetDes": "Pray with {*val*} Ash Pacts of any type",
+    "ProgressFunction": 0,
+    "AwardFunction": 820018,
+    "ActId": 312,
+    "AwardId": 70030453,
+    "Type": 1,
+    "Sort": 4,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      22220
+    ],
+    "RedDotId": 82000012,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "31215": {
+    "Id": 31215,
+    "RefreshType": 0,
+    "TargetType": 163,
+    "Num": 200,
+    "SceneId": 0,
+    "Param": [
+      1070112,
+      1070113,
+      1070114,
+      1070115
+    ],
+    "TargetName": "",
+    "TargetDes": "Pray with {*val*} Ash Pacts of any type",
+    "ProgressFunction": 0,
+    "AwardFunction": 820018,
+    "ActId": 312,
+    "AwardId": 70030454,
+    "Type": 1,
+    "Sort": 5,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      7,
+      5,
+      22220
+    ],
+    "RedDotId": 82000012,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33001": {
+    "Id": 33001,
+    "RefreshType": 0,
+    "TargetType": 135,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "TargetName": "",
+    "TargetDes": "Log in to the game {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100090,
+    "Type": 0,
+    "Sort": 1,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33002": {
+    "Id": 33002,
+    "RefreshType": 0,
+    "TargetType": 278,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      101
+    ],
+    "TargetName": "",
+    "TargetDes": "Win a hand {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100100,
+    "Type": 0,
+    "Sort": 2,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33003": {
+    "Id": 33003,
+    "RefreshType": 0,
+    "TargetType": 278,
+    "Num": 5,
+    "SceneId": 0,
+    "Param": [
+      101
+    ],
+    "TargetName": "",
+    "TargetDes": "Win a hand {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100110,
+    "Type": 0,
+    "Sort": 3,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33004": {
+    "Id": 33004,
+    "RefreshType": 0,
+    "TargetType": 278,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      201
+    ],
+    "TargetName": "",
+    "TargetDes": "Win with Riichi {*val*} time(s) (Declare Riichi with a concealed hand in Tenpai)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100120,
+    "Type": 0,
+    "Sort": 4,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33005": {
+    "Id": 33005,
+    "RefreshType": 0,
+    "TargetType": 278,
+    "Num": 3,
+    "SceneId": 0,
+    "Param": [
+      201
+    ],
+    "TargetName": "",
+    "TargetDes": "Win with Riichi {*val*} time(s) (Declare Riichi with a concealed hand in Tenpai)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100130,
+    "Type": 0,
+    "Sort": 5,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33006": {
+    "Id": 33006,
+    "RefreshType": 0,
+    "TargetType": 278,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      202
+    ],
+    "TargetName": "",
+    "TargetDes": "Complete {*val*} Tanyao win(s) (hand contains no 1s, 9s, or honor tiles).",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100140,
+    "Type": 0,
+    "Sort": 6,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33007": {
+    "Id": 33007,
+    "RefreshType": 0,
+    "TargetType": 278,
+    "Num": 3,
+    "SceneId": 0,
+    "Param": [
+      202
+    ],
+    "TargetName": "",
+    "TargetDes": "Complete {*val*} Tanyao win(s) (hand contains no 1s, 9s, or honor tiles).",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100150,
+    "Type": 0,
+    "Sort": 7,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33008": {
+    "Id": 33008,
+    "RefreshType": 0,
+    "TargetType": 278,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      301
+    ],
+    "TargetName": "",
+    "TargetDes": "Win a hand of 3 Han or more {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100160,
+    "Type": 0,
+    "Sort": 8,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33009": {
+    "Id": 33009,
+    "RefreshType": 0,
+    "TargetType": 278,
+    "Num": 8,
+    "SceneId": 0,
+    "Param": [
+      401
+    ],
+    "TargetName": "",
+    "TargetDes": "Complete {*val*} mahjong game(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100170,
+    "Type": 0,
+    "Sort": 9,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33011": {
+    "Id": 33011,
+    "RefreshType": 0,
+    "TargetType": 145,
+    "Num": 200,
+    "SceneId": 0,
+    "Param": [
+      11008
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtain {*val*} point(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100010,
+    "Type": 1,
+    "Sort": 1,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33012": {
+    "Id": 33012,
+    "RefreshType": 0,
+    "TargetType": 145,
+    "Num": 2000,
+    "SceneId": 0,
+    "Param": [
+      11008
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtain {*val*} point(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100020,
+    "Type": 1,
+    "Sort": 2,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33013": {
+    "Id": 33013,
+    "RefreshType": 0,
+    "TargetType": 145,
+    "Num": 5000,
+    "SceneId": 0,
+    "Param": [
+      11008
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtain {*val*} point(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100030,
+    "Type": 1,
+    "Sort": 3,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33014": {
+    "Id": 33014,
+    "RefreshType": 0,
+    "TargetType": 145,
+    "Num": 7000,
+    "SceneId": 0,
+    "Param": [
+      11008
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtain {*val*} point(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100040,
+    "Type": 1,
+    "Sort": 4,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33015": {
+    "Id": 33015,
+    "RefreshType": 0,
+    "TargetType": 145,
+    "Num": 10000,
+    "SceneId": 0,
+    "Param": [
+      11008
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtain {*val*} point(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100050,
+    "Type": 1,
+    "Sort": 5,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33016": {
+    "Id": 33016,
+    "RefreshType": 0,
+    "TargetType": 145,
+    "Num": 12000,
+    "SceneId": 0,
+    "Param": [
+      11008
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtain {*val*} point(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100060,
+    "Type": 1,
+    "Sort": 6,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33017": {
+    "Id": 33017,
+    "RefreshType": 0,
+    "TargetType": 145,
+    "Num": 15000,
+    "SceneId": 0,
+    "Param": [
+      11008
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtain {*val*} point(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100070,
+    "Type": 1,
+    "Sort": 7,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33018": {
+    "Id": 33018,
+    "RefreshType": 0,
+    "TargetType": 145,
+    "Num": 20000,
+    "SceneId": 0,
+    "Param": [
+      11008
+    ],
+    "TargetName": "",
+    "TargetDes": "Obtain {*val*} point(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 310000,
+    "ActId": 3026,
+    "AwardId": 70100080,
+    "Type": 1,
+    "Sort": 8,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 31000100,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33020": {
+    "Id": 33020,
+    "RefreshType": 0,
+    "TargetType": 279,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      1,
+      2,
+      10001
+    ],
+    "TargetName": "",
+    "TargetDes": "Log in on mobile.",
+    "ProgressFunction": 0,
+    "AwardFunction": 820050,
+    "ActId": 10005,
+    "AwardId": 71000020,
+    "Type": 1,
+    "Sort": 1,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 82000020,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33021": {
+    "Id": 33021,
+    "RefreshType": 0,
+    "TargetType": 279,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      5
+    ],
+    "TargetName": "",
+    "TargetDes": "Log in on PC.",
+    "ProgressFunction": 0,
+    "AwardFunction": 820050,
+    "ActId": 10005,
+    "AwardId": 71000030,
+    "Type": 1,
+    "Sort": 2,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 82000020,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "33022": {
+    "Id": 33022,
+    "RefreshType": 0,
+    "TargetType": 280,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      33020,
+      33021
+    ],
+    "TargetName": "",
+    "TargetDes": "Log in on both platforms and claim your reward.",
+    "ProgressFunction": 0,
+    "AwardFunction": 820050,
+    "ActId": 10005,
+    "AwardId": 71000040,
+    "Type": 1,
+    "Sort": 3,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "RedDotId": 82000020,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41001": {
+    "Id": 41001,
+    "RefreshType": 0,
+    "TargetType": 836,
+    "Num": 3,
+    "SceneId": 0,
+    "Param": [
+      70130010
+    ],
+    "TargetName": "Astral Invincible Delicacy",
+    "TargetDes": "Taste {*val*} dish(es)",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200000,
+    "Type": 0,
+    "Sort": 1,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1057
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41002": {
+    "Id": 41002,
+    "RefreshType": 0,
+    "TargetType": 836,
+    "Num": 9,
+    "SceneId": 0,
+    "Param": [
+      70130010
+    ],
+    "TargetName": "Ultimate Astral Delicacy",
+    "TargetDes": "Taste {*val*} dish(es)",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200120,
+    "Type": 0,
+    "Sort": 2,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1057
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41003": {
+    "Id": 41003,
+    "RefreshType": 0,
+    "TargetType": 836,
+    "Num": 3,
+    "SceneId": 0,
+    "Param": [
+      70130030,
+      70130040,
+      70130050
+    ],
+    "TargetName": "A Familiar Face",
+    "TargetDes": "Complete {*val*} encounter(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200010,
+    "Type": 0,
+    "Sort": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      1,
+      5
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41004": {
+    "Id": 41004,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010572
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Emul the Bunny Guide",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200060,
+    "Type": 0,
+    "Sort": 4,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850101
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41005": {
+    "Id": 41005,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010573
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Emul",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200070,
+    "Type": 0,
+    "Sort": 5,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850101
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41006": {
+    "Id": 41006,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010575
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Sunraku",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200020,
+    "Type": 0,
+    "Sort": 6,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850101
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41007": {
+    "Id": 41007,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010574
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Rakuro Hizutome",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200030,
+    "Type": 0,
+    "Sort": 7,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850101
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41008": {
+    "Id": 41008,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010577
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Psyger-0",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200040,
+    "Type": 0,
+    "Sort": 8,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850101
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41009": {
+    "Id": 41009,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010576
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Rei Saiga",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200050,
+    "Type": 0,
+    "Sort": 9,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850101
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41010": {
+    "Id": 41010,
+    "RefreshType": 0,
+    "TargetType": 831,
+    "Num": 115,
+    "SceneId": 0,
+    "Param": [
+      1,
+      1001
+    ],
+    "TargetName": "Meowlux Special",
+    "TargetDes": "Sweep the Meowlux Special Prize Pool",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200080,
+    "Type": 0,
+    "Sort": 10,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850101
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41011": {
+    "Id": 41011,
+    "RefreshType": 1,
+    "TargetType": 836,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      70130010
+    ],
+    "TargetName": "Astral Delicacy",
+    "TargetDes": "Taste any {*val*} dish(es) today",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200110,
+    "Type": 1,
+    "Sort": 2,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1057
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41012": {
+    "Id": 41012,
+    "RefreshType": 1,
+    "TargetType": 800,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      1,
+      2
+    ],
+    "TargetName": "Starland Notes",
+    "TargetDes": "Participate in {*val*} Starland event(s) today",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200100,
+    "Type": 1,
+    "Sort": 1,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800517
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41013": {
+    "Id": 41013,
+    "RefreshType": 2,
+    "TargetType": 836,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      70130020
+    ],
+    "TargetName": "Welcome! Valued Customer",
+    "TargetDes": "Check-in {*val*} time(s) this week",
+    "ProgressFunction": 0,
+    "AwardFunction": 840001,
+    "ActId": 20001,
+    "AwardId": 50200120,
+    "Type": 1,
+    "Sort": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1070
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "51001": {
+    "Id": 51001,
+    "RefreshType": 0,
+    "TargetType": 806,
+    "Num": 3,
+    "SceneId": 0,
+    "Param": [
+      11001
+    ],
+    "TargetName": "Gotcha!",
+    "TargetDes": "Capture {*val*} or more Stalker(s) in one match",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 1,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      378
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71009
+      ]
+    ],
+    "IsShield": true
+  },
+  "51002": {
+    "Id": 51002,
+    "RefreshType": 0,
+    "TargetType": 816,
+    "Num": 25,
+    "SceneId": 0,
+    "Param": [],
+    "TargetName": "On a Roll",
+    "TargetDes": "Catch {*val*} Skyfish in one match",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 2,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      123
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71010
+      ]
+    ],
+    "IsShield": false
+  },
+  "51003": {
+    "Id": 51003,
+    "RefreshType": 0,
+    "TargetType": 818,
+    "Num": 20,
+    "SceneId": 0,
+    "Param": [],
+    "TargetName": "Skyfish Only",
+    "TargetDes": "Catch {*val*} Skyfish without catching barrels in one match",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      123
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71010
+      ]
+    ],
+    "IsShield": false
+  },
+  "51005": {
+    "Id": 51005,
+    "RefreshType": 0,
+    "TargetType": 802,
+    "Num": 30,
+    "SceneId": 0,
+    "Param": [
+      11001
+    ],
+    "TargetName": "Practice Makes Perfect",
+    "TargetDes": "Participate in Tag {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 5,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      378
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        99999
+      ]
+    ],
+    "IsShield": false
+  },
+  "51006": {
+    "Id": 51006,
+    "RefreshType": 0,
+    "TargetType": 278,
+    "Num": 30,
+    "SceneId": 0,
+    "Param": [
+      401
+    ],
+    "TargetName": "Peerless Player",
+    "TargetDes": "Participate in Mahjong {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 6,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      5,
+      724
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71006
+      ]
+    ],
+    "IsShield": false
+  },
+  "51007": {
+    "Id": 51007,
+    "RefreshType": 0,
+    "TargetType": 1,
+    "Num": 30,
+    "SceneId": 0,
+    "Param": [
+      12040
+    ],
+    "TargetName": "Look Away",
+    "TargetDes": "Participate in Ee-chan, Don't Stare at Me! {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 7,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      591
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71007
+      ]
+    ],
+    "IsShield": false
+  },
+  "51008": {
+    "Id": 51008,
+    "RefreshType": 0,
+    "TargetType": 1,
+    "Num": 30,
+    "SceneId": 0,
+    "Param": [
+      7004
+    ],
+    "TargetName": "Full Throttle",
+    "TargetDes": "Participate in City Rally {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 8,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      591
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71008
+      ]
+    ],
+    "IsShield": false
+  },
+  "51009": {
+    "Id": 51009,
+    "RefreshType": 0,
+    "TargetType": 824,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      2,
+      1005,
+      0
+    ],
+    "TargetName": "Never Give Up",
+    "TargetDes": "Participate in Extreme Low Tide {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      189
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71006
+      ]
+    ],
+    "IsShield": false
+  },
+  "51010": {
+    "Id": 51010,
+    "RefreshType": 0,
+    "TargetType": 824,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      2,
+      1002,
+      0
+    ],
+    "TargetName": "Just Keep Spinning",
+    "TargetDes": "Participate in Laser Cyclone {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 10,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      17
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71007
+      ]
+    ],
+    "IsShield": false
+  },
+  "51011": {
+    "Id": 51011,
+    "RefreshType": 0,
+    "TargetType": 824,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      2,
+      1006,
+      0
+    ],
+    "TargetName": "Dodge or Die",
+    "TargetDes": "Participate in Wave Dodgeball {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 11,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      135
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71008
+      ]
+    ],
+    "IsShield": false
+  },
+  "51012": {
+    "Id": 51012,
+    "RefreshType": 0,
+    "TargetType": 824,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      2,
+      1003,
+      0
+    ],
+    "TargetName": "Fish Raining",
+    "TargetDes": "Participate in Fish Frenzy {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 12,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      123
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71009
+      ]
+    ],
+    "IsShield": false
+  },
+  "51014": {
+    "Id": 51014,
+    "RefreshType": 0,
+    "TargetType": 824,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      2,
+      1007,
+      0
+    ],
+    "TargetName": "Can't Get Enough of It",
+    "TargetDes": "Participate in Interdimensional Punishment {*val*} time(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 14,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      292
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        99999
+      ]
+    ],
+    "IsShield": false
+  },
+  "51015": {
+    "Id": 51015,
+    "RefreshType": 0,
+    "TargetType": 820,
+    "Num": 1700,
+    "SceneId": 0,
+    "Param": [
+      1005
+    ],
+    "TargetName": "Tides Rise and Fall, Such Is Life",
+    "TargetDes": "Score {*val*} in one Extreme Low Tide match",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 15,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      189
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71006
+      ]
+    ],
+    "IsShield": false
+  },
+  "51016": {
+    "Id": 51016,
+    "RefreshType": 0,
+    "TargetType": 820,
+    "Num": 1700,
+    "SceneId": 0,
+    "Param": [
+      1002
+    ],
+    "TargetName": "Spin Around, Adventurer!",
+    "TargetDes": "Score {*val*} in one Laser Cyclone match",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 16,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      17
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71007
+      ]
+    ],
+    "IsShield": false
+  },
+  "51017": {
+    "Id": 51017,
+    "RefreshType": 0,
+    "TargetType": 820,
+    "Num": 1700,
+    "SceneId": 0,
+    "Param": [
+      1006
+    ],
+    "TargetName": "All Aim at Once",
+    "TargetDes": "Score {*val*} in one Wave Dodgeball match",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 17,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      135
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71008
+      ]
+    ],
+    "IsShield": false
+  },
+  "51018": {
+    "Id": 51018,
+    "RefreshType": 0,
+    "TargetType": 820,
+    "Num": 2400,
+    "SceneId": 0,
+    "Param": [
+      1003
+    ],
+    "TargetName": "Fishing Master",
+    "TargetDes": "Score {*val*} in one Fish Frenzy match",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 18,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      123
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        71009
+      ]
+    ],
+    "IsShield": false
+  },
+  "51020": {
+    "Id": 51020,
+    "RefreshType": 0,
+    "TargetType": 820,
+    "Num": 12000,
+    "SceneId": 0,
+    "Param": [
+      1007
+    ],
+    "TargetName": "This is My Determination",
+    "TargetDes": "Score {*val*} in one Interdimensional Punishment match",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300010,
+    "Type": 0,
+    "Sort": 20,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      292
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [
+      [
+        9,
+        99999
+      ]
+    ],
+    "IsShield": false
+  },
+  "51021": {
+    "Id": 51021,
+    "RefreshType": 2,
+    "TargetType": 800,
+    "Num": 2,
+    "SceneId": 0,
+    "Param": [
+      1
+    ],
+    "TargetName": "Join the Fun",
+    "TargetDes": "Participate in {*val*} Starland permanent event(s) this week",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300020,
+    "Type": 1,
+    "Sort": 1,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800551
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "51022": {
+    "Id": 51022,
+    "RefreshType": 2,
+    "TargetType": 800,
+    "Num": 4,
+    "SceneId": 0,
+    "Param": [
+      1
+    ],
+    "TargetName": "Round and Round",
+    "TargetDes": "Participate in {*val*} Starland permanent event(s) this week",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300020,
+    "Type": 1,
+    "Sort": 2,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800551
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "51023": {
+    "Id": 51023,
+    "RefreshType": 2,
+    "TargetType": 800,
+    "Num": 6,
+    "SceneId": 0,
+    "Param": [
+      1
+    ],
+    "TargetName": "What a Crowd!",
+    "TargetDes": "Participate in {*val*} Starland permanent event(s) this week",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300020,
+    "Type": 1,
+    "Sort": 3,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800551
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "51024": {
+    "Id": 51024,
+    "RefreshType": 2,
+    "TargetType": 800,
+    "Num": 4,
+    "SceneId": 0,
+    "Param": [
+      2
+    ],
+    "TargetName": "Just Passing By",
+    "TargetDes": "Participate in {*val*} Starland timed event(s) this week",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300020,
+    "Type": 1,
+    "Sort": 4,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800550
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "51025": {
+    "Id": 51025,
+    "RefreshType": 2,
+    "TargetType": 800,
+    "Num": 8,
+    "SceneId": 0,
+    "Param": [
+      2
+    ],
+    "TargetName": "Take a Stroll",
+    "TargetDes": "Participate in {*val*} Starland timed event(s) this week",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300020,
+    "Type": 1,
+    "Sort": 5,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800550
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "51026": {
+    "Id": 51026,
+    "RefreshType": 2,
+    "TargetType": 800,
+    "Num": 12,
+    "SceneId": 0,
+    "Param": [
+      2
+    ],
+    "TargetName": "All the Way!",
+    "TargetDes": "Participate in {*val*} Starland timed event(s) this week",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300020,
+    "Type": 1,
+    "Sort": 6,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800550
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "51027": {
+    "Id": 51027,
+    "RefreshType": 2,
+    "TargetType": 801,
+    "Num": 6,
+    "SceneId": 0,
+    "Param": [
+      51021,
+      51022,
+      51023,
+      51024,
+      51025,
+      51026
+    ],
+    "TargetName": "Carnival Star",
+    "TargetDes": "Complete {*val*} weekly goals",
+    "ProgressFunction": 0,
+    "AwardFunction": 841000,
+    "ActId": 30001,
+    "AwardId": 50300030,
+    "Type": 1,
+    "Sort": 7,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800517
+    ],
+    "RedDotId": 0,
+    "InstorageCondition": [],
+    "IsShield": false
+  }
+}

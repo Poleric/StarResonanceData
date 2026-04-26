@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message LeaderGetApplyListRequest {
-  bool is_refresh = 2;
+	bool isRefresh = 2 [json_name = "isRefresh"];
 }
-

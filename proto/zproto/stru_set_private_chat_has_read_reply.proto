@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message SetPrivateChatHasReadReply {
-  uint32 target_id = 1;
-  int64 max_read_msg_id = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message SetPrivateChatHasReadReply {
+	uint32 targetId = 1 [json_name = "targetId"];
+	int64 maxReadMsgId = 2 [json_name = "maxReadMsgId"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

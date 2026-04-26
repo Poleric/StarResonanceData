@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message Materials {
-  map<int32, int64> materials_map = 1;
+	map<int32, int64> materialsMap = 1 [json_name = "materialsMap"];
 }
-

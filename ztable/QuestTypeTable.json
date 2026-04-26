@@ -66,7 +66,7 @@
   },
   "6": {
     "QuestTypeId": 6,
-    "QuestTypeName": "大世界探索解谜任务",
+    "QuestTypeName": "大世界探索解谜任务(前期-追踪优先级较低)",
     "QuestTypeGroupID": 3,
     "QuestTypeUI": "",
     "ShowQuestUI": true,
@@ -79,7 +79,7 @@
   },
   "7": {
     "QuestTypeId": 7,
-    "QuestTypeName": "大世界探索隐藏任务",
+    "QuestTypeName": "大世界探索隐藏任务(前期-追踪优先级较低)",
     "QuestTypeGroupID": 3,
     "QuestTypeUI": "",
     "ShowQuestUI": false,
@@ -92,7 +92,7 @@
   },
   "8": {
     "QuestTypeId": 8,
-    "QuestTypeName": "大世界探索宝箱任务",
+    "QuestTypeName": "大世界探索宝箱任务(前期-追踪优先级较低)",
     "QuestTypeGroupID": 3,
     "QuestTypeUI": "",
     "ShowQuestUI": true,
@@ -123,7 +123,10 @@
     "QuestTypeUI": "",
     "ShowQuestUI": true,
     "ResetType": 902,
-    "Counts": [],
+    "Counts": [
+      2,
+      1
+    ],
     "ForcedTracking": false,
     "AutoTracking": 2,
     "QuestListHide": false,
@@ -136,7 +139,10 @@
     "QuestTypeUI": "",
     "ShowQuestUI": true,
     "ResetType": 901,
-    "Counts": [],
+    "Counts": [
+      2,
+      1
+    ],
     "ForcedTracking": false,
     "AutoTracking": 2,
     "QuestListHide": false,
@@ -245,6 +251,19 @@
     "AutoTracking": 0,
     "QuestListHide": false,
     "Order": 144
+  },
+  "30": {
+    "QuestTypeId": 30,
+    "QuestTypeName": "大世界探索解谜任务(后期-高追踪优先级)",
+    "QuestTypeGroupID": 3,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": 0,
+    "Counts": [],
+    "ForcedTracking": false,
+    "AutoTracking": 2,
+    "QuestListHide": false,
+    "Order": 10
   },
   "50": {
     "QuestTypeId": 50,
@@ -723,6 +742,77 @@
     "QuestListHide": false,
     "Order": 200
   },
+  "86": {
+    "QuestTypeId": 86,
+    "QuestTypeName": "卡尼曼活动周常任务-每周可完成1次",
+    "QuestTypeGroupID": 5,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": 902,
+    "Counts": [
+      2,
+      1
+    ],
+    "ForcedTracking": false,
+    "AutoTracking": 2,
+    "QuestListHide": false,
+    "Order": 180
+  },
+  "87": {
+    "QuestTypeId": 87,
+    "QuestTypeName": "卡尼曼活动限时活动任务类型",
+    "QuestTypeGroupID": 5,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": 0,
+    "Counts": [],
+    "ForcedTracking": false,
+    "AutoTracking": 2,
+    "QuestListHide": false,
+    "Order": 80
+  },
+  "88": {
+    "QuestTypeId": 88,
+    "QuestTypeName": "活动日常任务",
+    "QuestTypeGroupID": 5,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": 901,
+    "Counts": [
+      2,
+      1
+    ],
+    "ForcedTracking": false,
+    "AutoTracking": 2,
+    "QuestListHide": false,
+    "Order": 13
+  },
+  "89": {
+    "QuestTypeId": 89,
+    "QuestTypeName": "开门任务-限时活动任务类型",
+    "QuestTypeGroupID": 5,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": 0,
+    "Counts": [],
+    "ForcedTracking": false,
+    "AutoTracking": 2,
+    "QuestListHide": false,
+    "Order": 8
+  },
+  "90": {
+    "QuestTypeId": 90,
+    "QuestTypeName": "活动任务-视野层级",
+    "QuestTypeGroupID": 5,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": -1,
+    "Counts": [],
+    "ForcedTracking": true,
+    "AutoTracking": 0,
+    "QuestListHide": true,
+    "Order": 114
+  },
   "100": {
     "QuestTypeId": 100,
     "QuestTypeName": "关卡任务",
@@ -735,5 +825,31 @@
     "AutoTracking": 0,
     "QuestListHide": true,
     "Order": 95
+  },
+  "101": {
+    "QuestTypeId": 101,
+    "QuestTypeName": "主线剧情-过季",
+    "QuestTypeGroupID": 1,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": 0,
+    "Counts": [],
+    "ForcedTracking": false,
+    "AutoTracking": 0,
+    "QuestListHide": false,
+    "Order": 500
+  },
+  "150": {
+    "QuestTypeId": 150,
+    "QuestTypeName": "游星岛引导任务",
+    "QuestTypeGroupID": 4,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": 0,
+    "Counts": [],
+    "ForcedTracking": false,
+    "AutoTracking": 2,
+    "QuestListHide": false,
+    "Order": 6
   }
 }

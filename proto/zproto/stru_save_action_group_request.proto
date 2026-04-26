@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_action_group_save_info.proto";
+
+package zproto;
+
+message SaveActionGroupRequest {
+	int32 actionGroupId = 1 [json_name = "actionGroupId"];
+	ActionGroupSaveInfo actionGroupSaveInfo = 2 [json_name = "actionGroupSaveInfo"];
+}

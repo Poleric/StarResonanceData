@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message WorldQuestInfo {
-  uint32 finish_points = 1;
-  repeated uint32 rewards = 2;
-  uint32 exceeding_points = 3;
-}
+package zproto;
 
+message WorldQuestInfo {
+	uint32 finishPoints = 1 [json_name = "finishPoints"];
+	repeated uint32 rewards = 2 [json_name = "rewards"];
+	uint32 ExceedingPoints = 3 [json_name = "ExceedingPoints"];
+}

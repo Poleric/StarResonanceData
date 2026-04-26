@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message GetWorldChatChannelIdReply {
-  uint32 channel_id = 1;
-  uint32 user_num = 2;
-  uint32 max_num = 3;
-  uint32 state = 4;
-  zproto.EErrorCode err_code = 5;
-}
+package zproto;
 
+message GetWorldChatChannelIdReply {
+	uint32 channelId = 1 [json_name = "channelId"];
+	uint32 userNum = 2 [json_name = "userNum"];
+	uint32 maxNum = 3 [json_name = "maxNum"];
+	uint32 state = 4 [json_name = "state"];
+	EErrorCode errCode = 5 [json_name = "errCode"];
+}

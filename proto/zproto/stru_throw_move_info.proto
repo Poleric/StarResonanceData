@@ -3,10 +3,9 @@ syntax = "proto3";
 package zproto;
 
 message ThrowMoveInfo {
-  int64 target_uuid = 1;
-  int32 skill_id = 2;
-  int32 skill_level = 3;
-  int32 stage_id = 4;
-  int32 event_id = 5;
+	int64 TargetUuid = 1 [json_name = "TargetUuid"];
+	int32 SkillId = 2 [json_name = "SkillId"];
+	int32 SkillLevel = 3 [json_name = "SkillLevel"];
+	int32 StageId = 4 [json_name = "StageId"];
+	int32 EventId = 5 [json_name = "EventId"];
 }
-

@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_album_show.proto";
 import "enum_e_error_code.proto";
 
-message CreateAlbumReply {
-  zproto.AlbumShow album_info = 3;
-  zproto.EErrorCode err_code = 4;
-}
+package zproto;
 
+message CreateAlbumReply {
+	AlbumShow albumInfo = 3 [json_name = "albumInfo"];
+	EErrorCode errCode = 4 [json_name = "errCode"];
+}

@@ -447,6 +447,262 @@
     ],
     "AttributeId": 30
   },
+  "43": {
+    "Id": 43,
+    "Name": "Stormblade",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [],
+    "AttributeId": 30
+  },
+  "44": {
+    "Id": 44,
+    "Name": "Frost Mage",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000001,
+    "Weapon": [
+      2
+    ],
+    "AttributeId": 30
+  },
+  "45": {
+    "Id": 45,
+    "Name": "Wind Knight",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000002,
+    "Weapon": [
+      4
+    ],
+    "AttributeId": 30
+  },
+  "46": {
+    "Id": 46,
+    "Name": "Verdant Oracle",
+    "Duty": 2,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      5
+    ],
+    "AttributeId": 30
+  },
+  "47": {
+    "Id": 47,
+    "Name": "Heavy Guardian",
+    "Duty": 3,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      9
+    ],
+    "AttributeId": 30
+  },
+  "48": {
+    "Id": 48,
+    "Name": "Marksman",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [
+      11
+    ],
+    "AttributeId": 30
+  },
+  "61": {
+    "Id": 61,
+    "Name": "Stormblade",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [],
+    "AttributeId": 30
+  },
+  "49": {
+    "Id": 49,
+    "Name": "Stormblade",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [],
+    "AttributeId": 30
+  },
+  "62": {
+    "Id": 62,
+    "Name": "Frost Mage",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000001,
+    "Weapon": [
+      2
+    ],
+    "AttributeId": 30
+  },
+  "50": {
+    "Id": 50,
+    "Name": "Frost Mage",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000001,
+    "Weapon": [
+      2
+    ],
+    "AttributeId": 30
+  },
+  "63": {
+    "Id": 63,
+    "Name": "Wind Knight",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000002,
+    "Weapon": [
+      4
+    ],
+    "AttributeId": 30
+  },
+  "51": {
+    "Id": 51,
+    "Name": "Wind Knight",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000002,
+    "Weapon": [
+      4
+    ],
+    "AttributeId": 30
+  },
+  "64": {
+    "Id": 64,
+    "Name": "Verdant Oracle",
+    "Duty": 2,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      5
+    ],
+    "AttributeId": 30
+  },
+  "52": {
+    "Id": 52,
+    "Name": "Verdant Oracle",
+    "Duty": 2,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      5
+    ],
+    "AttributeId": 30
+  },
+  "65": {
+    "Id": 65,
+    "Name": "Heavy Guardian",
+    "Duty": 3,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      9
+    ],
+    "AttributeId": 30
+  },
+  "53": {
+    "Id": 53,
+    "Name": "Heavy Guardian",
+    "Duty": 3,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      9
+    ],
+    "AttributeId": 30
+  },
+  "66": {
+    "Id": 66,
+    "Name": "Marksman",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [
+      11
+    ],
+    "AttributeId": 30
+  },
+  "54": {
+    "Id": 54,
+    "Name": "Marksman",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [
+      11
+    ],
+    "AttributeId": 30
+  },
+  "55": {
+    "Id": 55,
+    "Name": "Stormblade",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [],
+    "AttributeId": 30
+  },
+  "56": {
+    "Id": 56,
+    "Name": "Frost Mage",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000001,
+    "Weapon": [
+      2
+    ],
+    "AttributeId": 30
+  },
+  "57": {
+    "Id": 57,
+    "Name": "Wind Knight",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000002,
+    "Weapon": [
+      4
+    ],
+    "AttributeId": 30
+  },
+  "58": {
+    "Id": 58,
+    "Name": "Verdant Oracle",
+    "Duty": 2,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      5
+    ],
+    "AttributeId": 30
+  },
+  "59": {
+    "Id": 59,
+    "Name": "Heavy Guardian",
+    "Duty": 3,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      9
+    ],
+    "AttributeId": 30
+  },
+  "60": {
+    "Id": 60,
+    "Name": "Marksman",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [
+      11
+    ],
+    "AttributeId": 30
+  },
   "100": {
     "Id": 100,
     "Name": "Performance Test Robot - Airona",
@@ -1010,6 +1266,70 @@
       11
     ],
     "AttributeId": 20
+  },
+  "301": {
+    "Id": 301,
+    "Name": "Stormblade",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [],
+    "AttributeId": 30
+  },
+  "302": {
+    "Id": 302,
+    "Name": "Frost Mage",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000001,
+    "Weapon": [
+      2
+    ],
+    "AttributeId": 30
+  },
+  "303": {
+    "Id": 303,
+    "Name": "Wind Knight",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000002,
+    "Weapon": [
+      4
+    ],
+    "AttributeId": 30
+  },
+  "304": {
+    "Id": 304,
+    "Name": "Verdant Oracle",
+    "Duty": 2,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      5
+    ],
+    "AttributeId": 30
+  },
+  "305": {
+    "Id": 305,
+    "Name": "Heavy Guardian",
+    "Duty": 3,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      9
+    ],
+    "AttributeId": 30
+  },
+  "306": {
+    "Id": 306,
+    "Name": "Marksman",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [
+      11
+    ],
+    "AttributeId": 30
   },
   "1001": {
     "Id": 1001,

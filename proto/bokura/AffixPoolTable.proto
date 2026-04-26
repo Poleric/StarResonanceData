@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message AffixPoolTableBase {
-  int32 id = 1463;
-  string name = 439;
-  string description = 75;
-  int_table affix = 1436;
-  int32 affix_quantity = 1469;
-  int_table effect_type_limit = 1532;
-  int_table target_type_limit = 1783;
+	int32 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	string Description = 75 [json_name = "Description"];
+	int_table Affix = 1436 [json_name = "Affix"];
+	int32 AffixQuantity = 1469 [json_name = "AffixQuantity"];
+	int_table EffectTypeLimit = 1532 [json_name = "EffectTypeLimit"];
+	int_table TargetTypeLimit = 1783 [json_name = "TargetTypeLimit"];
 }
 
 message AffixPoolTableMgr {
-  map<int32, bokura.AffixPoolTableBase> datas = 1;
+	map<int32, AffixPoolTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -5,20 +5,7 @@
     "QTEType": 0,
     "UIType": 4,
     "MaxTime": 1.0,
-    "TimeQuantum": [
-      [
-        0.0,
-        0.1
-      ],
-      [
-        0.1,
-        0.3
-      ],
-      [
-        0.3,
-        0.6
-      ]
-    ],
+    "TimeQuantum": [],
     "TriggerCount": [
       1,
       1
@@ -80,20 +67,7 @@
     "QTEType": 0,
     "UIType": 4,
     "MaxTime": 1.0,
-    "TimeQuantum": [
-      [
-        0.0,
-        0.1
-      ],
-      [
-        0.1,
-        0.3
-      ],
-      [
-        0.3,
-        0.6
-      ]
-    ],
+    "TimeQuantum": [],
     "TriggerCount": [
       1,
       1
@@ -155,20 +129,7 @@
     "QTEType": 0,
     "UIType": 4,
     "MaxTime": 1.0,
-    "TimeQuantum": [
-      [
-        0.0,
-        0.1
-      ],
-      [
-        0.1,
-        0.3
-      ],
-      [
-        0.3,
-        0.6
-      ]
-    ],
+    "TimeQuantum": [],
     "TriggerCount": [
       1,
       1
@@ -230,20 +191,7 @@
     "QTEType": 0,
     "UIType": 5,
     "MaxTime": 1.0,
-    "TimeQuantum": [
-      [
-        0.0,
-        0.1
-      ],
-      [
-        0.1,
-        0.3
-      ],
-      [
-        0.3,
-        0.6
-      ]
-    ],
+    "TimeQuantum": [],
     "TriggerCount": [
       1,
       1

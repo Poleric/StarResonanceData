@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ApplicationInfo {
-  int64 char_id = 1;
-  int32 source = 2;
-  int64 time_stamp = 3;
+	int64 charId = 1 [json_name = "charId"];
+	int32 source = 2 [json_name = "source"];
+	int64 timeStamp = 3 [json_name = "timeStamp"];
 }
-

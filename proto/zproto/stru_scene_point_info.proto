@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_position.proto";
 
-message ScenePointInfo {
-  zproto.Position position = 1;
-  int32 camera_id = 2;
-  int32 scene_area_id = 3;
-}
+package zproto;
 
+message ScenePointInfo {
+	Position position = 1 [json_name = "position"];
+	int32 cameraId = 2 [json_name = "cameraId"];
+	int32 sceneAreaId = 3 [json_name = "sceneAreaId"];
+}

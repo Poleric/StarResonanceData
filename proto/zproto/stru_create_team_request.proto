@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_team_member_type.proto";
 
-message CreateTeamRequest {
-  int64 char_id = 2;
-  uint32 target_id = 3;
-  bool is_auto_match = 4;
-  bool is_show_in_hall = 5;
-  zproto.ETeamMemberType team_member_type = 6;
-}
+package zproto;
 
+message CreateTeamRequest {
+	int64 charId = 2 [json_name = "charId"];
+	uint32 targetId = 3 [json_name = "targetId"];
+	bool isAutoMatch = 4 [json_name = "isAutoMatch"];
+	bool isShowInHall = 5 [json_name = "isShowInHall"];
+	ETeamMemberType teamMemberType = 6 [json_name = "teamMemberType"];
+}

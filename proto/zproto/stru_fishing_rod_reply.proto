@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message FishingRodReply {
-  int32 fish_id = 1;
-  int32 wait_mills = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message FishingRodReply {
+	int32 fishId = 1 [json_name = "fishId"];
+	int32 waitMills = 2 [json_name = "waitMills"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

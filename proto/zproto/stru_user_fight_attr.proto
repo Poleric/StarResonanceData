@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_skill_c_d_info.proto";
 import "stru_dirty_mask.proto";
 
-message UserFightAttr {
-  int64 cur_hp = 1;
-  int64 max_hp = 2;
-  float origin_energy = 3;
-  repeated uint32 resource_ids = 4;
-  repeated uint32 resources = 5;
-  int32 is_dead = 6;
-  int64 dead_time = 7;
-  int32 revive_id = 8;
-  repeated zproto.SkillCDInfo cd_info = 9;
-}
+package zproto;
 
+message UserFightAttr {
+	int64 curHp = 1 [json_name = "curHp"];
+	int64 maxHp = 2 [json_name = "maxHp"];
+	float originEnergy = 3 [json_name = "originEnergy"];
+	repeated uint32 resourceIds = 4 [json_name = "resourceIds"];
+	repeated uint32 resources = 5 [json_name = "resources"];
+	int32 isDead = 6 [json_name = "isDead"];
+	int64 deadTime = 7 [json_name = "deadTime"];
+	int32 reviveId = 8 [json_name = "reviveId"];
+	repeated SkillCDInfo cdInfo = 9 [json_name = "cdInfo"];
+}

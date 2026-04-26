@@ -3,12 +3,11 @@ syntax = "proto3";
 package bokura;
 
 message MapEntityIconTableBase {
-  int32 id = 1463;
-  int32 type = 679;
-  string sprite = 840;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 type = 679 [json_name = "type"];
+	string sprite = 840 [json_name = "sprite"];
 }
 
 message MapEntityIconTableMgr {
-  map<int32, bokura.MapEntityIconTableBase> datas = 1;
+	map<int32, MapEntityIconTableBase> datas = 1 [json_name = "datas"];
 }
-

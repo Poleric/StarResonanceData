@@ -3,12 +3,11 @@ syntax = "proto3";
 package bokura;
 
 message FightResAttrTableBase {
-  int64 id = 1463;
-  string name = 439;
-  bool can_cost = 690;
+	int64 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	bool CanCost = 690 [json_name = "CanCost"];
 }
 
 message FightResAttrTableMgr {
-  map<int64, bokura.FightResAttrTableBase> datas = 1;
+	map<int64, FightResAttrTableBase> datas = 1 [json_name = "datas"];
 }
-

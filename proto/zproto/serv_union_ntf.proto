@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_notify_building_upgrade_end_request.proto";
 import "stru_notify_effect_buf_change_request.proto";
 import "stru_notify_invite_join_union_request.proto";
@@ -16,58 +14,58 @@ import "stru_notify_union_resource_change_request.proto";
 import "stru_notify_union_sub_func_unlock_request.proto";
 import "stru_notify_update_member_request.proto";
 
+package zproto;
+
 message UnionNtf {
+	message NotifyUnionInfo {
+		NotifyUnionInfoRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyUnionInfo {
-    zproto.NotifyUnionInfoRequest v_request = 1;
-  }
+	message NotifyOfficialLimitUpdate {
+		NotifyOfficialLimitUpdateRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyOfficialLimitUpdate {
-    zproto.NotifyOfficialLimitUpdateRequest v_request = 1;
-  }
+	message NotifyUpdateMember {
+		NotifyUpdateMemberRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyUpdateMember {
-    zproto.NotifyUpdateMemberRequest v_request = 1;
-  }
+	message NotifyRequestListNum {
+		NotifyRequestListNumRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyRequestListNum {
-    zproto.NotifyRequestListNumRequest v_request = 1;
-  }
+	message NotifyInviteJoinUnion {
+		NotifyInviteJoinUnionRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyInviteJoinUnion {
-    zproto.NotifyInviteJoinUnionRequest v_request = 1;
-  }
+	message NotifyUnionActivity {
+		NotifyUnionActivityRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyUnionActivity {
-    zproto.NotifyUnionActivityRequest v_request = 1;
-  }
+	message NotifyUnionActivityProgress {
+		NotifyUnionActivityProgressRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyUnionActivityProgress {
-    zproto.NotifyUnionActivityProgressRequest v_request = 1;
-  }
+	message NotifyUnionResourceChange {
+		NotifyUnionResourceChangeRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyUnionResourceChange {
-    zproto.NotifyUnionResourceChangeRequest v_request = 1;
-  }
+	message NotifyBuildingUpgradeEnd {
+		NotifyBuildingUpgradeEndRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyBuildingUpgradeEnd {
-    zproto.NotifyBuildingUpgradeEndRequest v_request = 1;
-  }
+	message NotifyEffectBufChange {
+		NotifyEffectBufChangeRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyEffectBufChange {
-    zproto.NotifyEffectBufChangeRequest v_request = 1;
-  }
+	message NotifyUnionOfficialChange {
+		NotifyUnionOfficialChangeRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyUnionOfficialChange {
-    zproto.NotifyUnionOfficialChangeRequest v_request = 1;
-  }
+	message NotifyUnionSubFuncUnlock {
+		NotifyUnionSubFuncUnlockRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyUnionSubFuncUnlock {
-    zproto.NotifyUnionSubFuncUnlockRequest v_request = 1;
-  }
-
-  message NotifyMemberOnline {
-    zproto.NotifyMemberOnlineRequest v_request = 1;
-  }
+	message NotifyMemberOnline {
+		NotifyMemberOnlineRequest vRequest = 1 [json_name = "vRequest"];
+	}
 }
-

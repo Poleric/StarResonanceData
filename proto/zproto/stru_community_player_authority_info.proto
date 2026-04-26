@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message CommunityPlayerAuthorityInfo {
-  map<int32, bool> authority = 1;
+	map<int32, bool> authority = 1 [json_name = "authority"];
 }
-

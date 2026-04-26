@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_int_vec3.proto";
 
-message HomelandSetLamplightRequest {
-  int32 lamplight_level = 1;
-  zproto.IntVec3 lamplight_color = 2;
-  int32 day_night_id = 3;
-  int32 mode = 4;
-  bool is_outer = 5;
-}
+package zproto;
 
+message HomelandSetLamplightRequest {
+	int32 lamplightLevel = 1 [json_name = "lamplightLevel"];
+	IntVec3 lamplightColor = 2 [json_name = "lamplightColor"];
+	int32 dayNightId = 3 [json_name = "dayNightId"];
+	int32 mode = 4 [json_name = "mode"];
+	bool isOuter = 5 [json_name = "isOuter"];
+}

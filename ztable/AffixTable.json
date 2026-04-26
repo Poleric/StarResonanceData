@@ -18,10 +18,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -118,10 +115,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -286,10 +280,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -398,10 +389,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -426,10 +414,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -538,10 +523,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -566,10 +548,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -594,10 +573,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -606,7 +582,7 @@
   "22": {
     "Id": 22,
     "Name": "Aura of Devotion",
-    "Description": "After a monster dissipates, it leaves a blazing trap on the ground that deals damage to players for 15s",
+    "Description": "After a monster dissipates, it leaves a blazing trap on the ground that deals damage to players for 15s.",
     "Remark": "",
     "Icon": "ui/atlas/affix/com_affix_xianjiguanghuan",
     "EffectType": 2,
@@ -622,10 +598,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -650,10 +623,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -678,10 +648,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -746,7 +713,7 @@
   "27": {
     "Id": 27,
     "Name": "Nuclear Impact",
-    "Description": "When monsters take Crit, the damage value is recorded and reduced to 0. Every 3s, the recorded damage value is settled, and during this period, the recorded damage value +50% per second.",
+    "Description": "When monsters take Crit DMG, the damage value is recorded and reduced to 0. Every 3s, the recorded damage value is settled, and during this period, the recorded damage value +50% per second.",
     "Remark": "主词缀",
     "Icon": "ui/atlas/affix/com_affix_hechongji",
     "EffectType": 1,
@@ -762,10 +729,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -790,10 +754,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -802,7 +763,7 @@
   "29": {
     "Id": 29,
     "Name": "Inspire",
-    "Description": "When monsters dissipate, they permanently increase the damage dealt by other monsters within 5 meters (excluding boss level) by 30% and reduce the damage they take by 10%. This effect can stack, with Defense increasing up to a maximum of 50%.",
+    "Description": "When monsters dissipate, they permanently increase the damage dealt by other monsters within 5 meters (excluding boss level) by 30% and reduce the damage they take by 10%. This effect can stack, with DMG Reduction increasing up to a maximum of 50%.",
     "Remark": "英雄本词缀",
     "Icon": "ui/atlas/affix/com_affix_jili",
     "EffectType": 2,
@@ -818,10 +779,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -846,10 +804,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -874,10 +829,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -902,10 +854,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -930,10 +879,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -958,10 +904,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -970,7 +913,7 @@
   "35": {
     "Id": 35,
     "Name": "Forest Shield",
-    "Description": "Monsters will gain a layer of Water Element Shield upon spawning, taking 150% Verdant Damage and 50% other attribute damage.",
+    "Description": "Monsters will gain a layer of Water Element Shield upon spawning, taking 150% Forest Damage and 50% other attribute damage.",
     "Remark": "英雄本词缀",
     "Icon": "ui/atlas/affix/com_affix_yuansuhudun_sen",
     "EffectType": 3,
@@ -986,10 +929,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1014,10 +954,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1042,10 +979,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1098,10 +1032,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1138,7 +1069,7 @@
   "41": {
     "Id": 41,
     "Name": "Venom",
-    "Description": "After dealing damage, monsters will inflict a debuff that reduces Max HP by 1% per second, stacking up to 10 layers. This effect is removed if the character is healed to full health.",
+    "Description": "After dealing damage, monsters will inflict a debuff that reduces Max HP by 1% per second, and up to 10 stacks. This effect is removed if the character is healed to full health.",
     "Remark": "",
     "Icon": "ui/atlas/affix/com_affix_zuzhou",
     "EffectType": 2,
@@ -1154,10 +1085,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1210,10 +1138,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1222,7 +1147,7 @@
   "44": {
     "Id": 44,
     "Name": "Void Soul",
-    "Description": "When Tina's health drops to 70% and 35%, she will summon a Void Soul respectively. The Void Soul will target the player with the highest rage and deal DoT to them. The Void Soul receives 80% Defense when its super armor is not broken and takes 500% damage when its super armor is broken. When the Void Soul dissipates, it increases all players' damage by 100% for 10s.",
+    "Description": "When Tina's HP drops to 70% and 35%, she will summon a Void Soul respectively. The Void Soul will target the player with the highest rage and deal DoT to them. The Void Soul receives 80% DMG Reduction when its super armor is not broken and takes 500% damage when its super armor is broken. When the Void Soul dissipates, it increases all players' damage by 100% for 10s.",
     "Remark": "英雄本词缀",
     "Icon": "ui/atlas/affix/com_affix_shixiezhishou",
     "EffectType": 3,
@@ -1238,10 +1163,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1266,10 +1188,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1294,10 +1213,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1322,10 +1238,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1350,10 +1263,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1378,10 +1288,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1406,10 +1313,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1490,10 +1394,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1524,10 +1425,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ],
+      [],
       [
         2.0,
         0.0
@@ -1612,10 +1510,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1624,7 +1519,7 @@
   "58": {
     "Id": 58,
     "Name": "Inflatable Hammer",
-    "Description": "The character's damage +30%, but thisentrybecomes temporarily inactive when the character is in an injured state.",
+    "Description": "The character's damage +30%, but this entry becomes temporarily inactive when the character is in an injured state.",
     "Remark": "",
     "Icon": "ui/atlas/affix/com_affix_chongqichui",
     "EffectType": 1,
@@ -1668,10 +1563,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1782,10 +1674,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1838,10 +1727,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1866,10 +1752,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1952,10 +1835,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -1980,10 +1860,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2008,10 +1885,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2036,10 +1910,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2064,10 +1935,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2092,10 +1960,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2120,10 +1985,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2148,10 +2010,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 20,
     "IsShowUI": true,
@@ -2176,10 +2035,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 30,
     "IsShowUI": true,
@@ -2188,7 +2044,7 @@
   "78": {
     "Id": 78,
     "Name": "Divine Gift",
-    "Description": "When the character heals, it applies a 3-second effect to the target that increases critical rate, Crit DMG, and attack speed by 25%",
+    "Description": "When the character heals, it applies a 3-second effect to the target that increases Crit Rate, Crit DMG, and ATK SPD by 25%.",
     "Remark": "",
     "Icon": "ui/atlas/affix/com_affix_shenshengxili",
     "EffectType": 1,
@@ -2232,10 +2088,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2260,10 +2113,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2291,10 +2141,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2322,10 +2169,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2389,10 +2233,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2420,10 +2261,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2450,10 +2288,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2480,10 +2315,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2616,10 +2448,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2644,10 +2473,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2672,10 +2498,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2700,10 +2523,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2728,10 +2548,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2756,10 +2573,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2784,10 +2598,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2812,10 +2623,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2840,10 +2648,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2852,7 +2657,7 @@
   "100": {
     "Id": 100,
     "Name": "Gift of Versatility",
-    "Description": "Player's versatility +8%",
+    "Description": "Player's Versatility +8%",
     "Remark": "S1钥匙库",
     "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
     "EffectType": 1,
@@ -2868,10 +2673,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2899,10 +2701,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -2911,7 +2710,7 @@
   "102": {
     "Id": 102,
     "Name": "Void Corruption Afterimage",
-    "Description": "Periodically generates six Void Corruption Afterimages, attempting to deal high damage to players. Interrupting their chanting or controlling them will cause them to dissipate immediately and provide players with a critical attribute bonus.",
+    "Description": "Periodically generates six Void Corruption Afterimages, attempting to deal high damage to players. Interrupting their chanting or controlling them will cause them to dissipate immediately and provide players with a Crit bonus.",
     "Remark": "S1库A",
     "Icon": "ui/atlas/affix/com_affix_s1_flux_shadow1",
     "EffectType": 2,
@@ -3051,7 +2850,7 @@
   "106": {
     "Id": 106,
     "Name": "Illusion Invasion",
-    "Description": "Periodically generates an illusion that is immune to control and can restore health based on the actual damage caused, continuously attacking players and attempting to unleash an ultimate move that deals high damage to the entire team. If the illusion is destroyed, it provides players with a mastery attribute bonus.",
+    "Description": "Periodically generates an illusion that is immune to control and can restore health based on the actual damage caused, continuously attacking players and attempting to unleash an ultimate move that deals high damage to the entire team. If the illusion is destroyed, it provides players with a Mastery bonus.",
     "Remark": "S1库A",
     "Icon": "ui/atlas/affix/com_affix_s1_flux_meteor1",
     "EffectType": 2,
@@ -3121,7 +2920,7 @@
   "108": {
     "Id": 108,
     "Name": "Dispersed Energy",
-    "Description": "Periodically generates a Fragile Star Core, scattering Star Core Energy. Picking up Star Core Energy or directly healing the soul to full health will cause it to dissipate and provide players with an all-round attribute bonus, otherwise it will deal high damage to players.",
+    "Description": "Periodically generates a Fragile Star Core, scattering Star Core Energy. Picking up Star Core Energy or directly healing the soul to full health will cause it to dissipate and provide players with an Versatility bonus, otherwise it will deal high damage to players.",
     "Remark": "S1库A",
     "Icon": "ui/atlas/affix/com_affix_s1_flux_energy3",
     "EffectType": 2,
@@ -3207,10 +3006,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3235,10 +3031,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3247,7 +3040,7 @@
   "112": {
     "Id": 112,
     "Name": "Illusion Invasion",
-    "Description": "Periodically generates an illusion that is immune to control and can restore health based on the actual damage caused, continuously attacking players and attempting to unleash an ultimate move that deals high damage to the entire team. If the illusion is destroyed, it provides players with a mastery attribute bonus.",
+    "Description": "Periodically generates an illusion that is immune to control and can restore health based on the actual damage caused, continuously attacking players and attempting to unleash an ultimate move that deals high damage to the entire team. If the illusion is destroyed, it provides players with a Mastery bonus.",
     "Remark": "显示用库D",
     "Icon": "ui/atlas/affix/com_affix_s1_flux_meteor1",
     "EffectType": 2,
@@ -3263,10 +3056,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3291,10 +3081,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3319,10 +3106,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3347,10 +3131,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": false,
@@ -3375,10 +3156,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3403,10 +3181,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3431,10 +3206,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3459,10 +3231,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3487,10 +3256,182 @@
       ]
     ],
     "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "121": {
+    "Id": 121,
+    "Name": "Source of Illusion",
+    "Description": "Empowered by the Power of Illusory Blooms, all enemies in the dungeon gain significant stat boosts.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
       [
-        1.0,
-        0.0
+        1,
+        4,
+        700140,
+        0
       ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "201": {
+    "Id": 201,
+    "Name": "Dreamflood Manifestation",
+    "Description": "When Dreamflood Value reaches maximum, a Dreamflood Manifestation appears to attack the player. Defeating it grants a large combat bonus.",
+    "Remark": "S2核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_meteor1",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "202": {
+    "Id": 202,
+    "Name": "Illusory Energy Crystal Cluster",
+    "Description": "Interact with Illusory Energy Crystal Clusters to greatly increase Dreamflood Value.",
+    "Remark": "S2核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_energy1",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "203": {
+    "Id": 203,
+    "Name": "Dreamflood Manifestation: Rage",
+    "Description": "When Dreamflood Value reaches maximum, a Dreamflood Manifestation: Rage appears to attack the player. Defeating it grants a large combat bonus.",
+    "Remark": "S2核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "204": {
+    "Id": 204,
+    "Name": "Dreamflood Manifestation: Rupture",
+    "Description": "When Dreamflood Value reaches maximum, a Dreamflood Manifestation: Rupture appears to attack the player. Defeating it grants a large combat bonus.",
+    "Remark": "S2核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_benghuai",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "205": {
+    "Id": 205,
+    "Name": "Dreamflood Manifestation: Hunt",
+    "Description": "When Dreamflood Value reaches maximum, a Dreamflood Manifestation: Hunt appears to attack the player. Defeating it grants a large combat bonus.",
+    "Remark": "S2核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_waiqiangzhonggan",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "206": {
+    "Id": 206,
+    "Name": "Dreamflood Manifestation: Salvation",
+    "Description": "When Dreamflood Value reaches maximum, a Dreamflood Manifestation: Salvation appears. Healing it grants a large combat bonus.",
+    "Remark": "S2核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_bingfenglingyu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3499,7 +3440,7 @@
   "995": {
     "Id": 995,
     "Name": "Tag - Unstable Solo",
-    "Description": "Marks a solo challenge",
+    "Description": "Marks the current difficulty",
     "Remark": "",
     "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
     "EffectType": 1,
@@ -3515,10 +3456,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": false,
@@ -3527,7 +3465,7 @@
   "996": {
     "Id": 996,
     "Name": "Tag - Unstable Multiplayer",
-    "Description": "Marks a solo challenge",
+    "Description": "Marks the current difficulty",
     "Remark": "",
     "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
     "EffectType": 1,
@@ -3543,10 +3481,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": false,
@@ -3571,10 +3506,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": false,
@@ -3599,10 +3531,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": false,
@@ -3627,10 +3556,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": false,
@@ -3655,10 +3581,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3683,10 +3606,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3711,10 +3631,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3725,7 +3642,7 @@
     "Name": "Purification Light Curtain",
     "Description": "Purification Light Curtains appear periodically. Activate your shield to avoid DMG.",
     "Remark": "爬塔事件",
-    "Icon": "ui/atlas/affix/com_affix_tanhuang",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_decoy1",
     "EffectType": 2,
     "TargetType": 3,
     "Level": 1,
@@ -3739,10 +3656,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3767,10 +3681,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3795,10 +3706,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3823,10 +3731,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3851,10 +3756,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3879,10 +3781,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3907,10 +3806,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3935,10 +3831,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3963,10 +3856,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -3991,10 +3881,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4019,10 +3906,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4047,10 +3931,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4059,7 +3940,7 @@
   "2024": {
     "Id": 2024,
     "Name": "Bane Lord",
-    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Outfit, Ring</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Weapon</style>",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Armor, Ring</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Weapon</style>",
     "Remark": "极限·巨塔遗迹",
     "Icon": "ui/atlas/affix/com_affix_zhadanren",
     "EffectType": 2,
@@ -4075,10 +3956,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4103,10 +3981,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4131,10 +4006,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4143,7 +4015,7 @@
   "2033": {
     "Id": 2033,
     "Name": "Bane Lord",
-    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Shoes, Charm</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Weapon</style>",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Boots, Charm</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Weapon</style>",
     "Remark": "极限·卡尼曼试炼",
     "Icon": "ui/atlas/affix/com_affix_zhadanren",
     "EffectType": 2,
@@ -4159,10 +4031,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4187,10 +4056,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4199,7 +4065,7 @@
   "2041": {
     "Id": 2041,
     "Name": "Bane Lord",
-    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Bracelet (L), Bracelet (R)</style><br>Low chance<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Weapon</style>",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Bracelet (L), Bracelet (R)</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Weapon</style>",
     "Remark": "极限·巨龙爪痕",
     "Icon": "ui/atlas/affix/com_affix_zhadanren",
     "EffectType": 2,
@@ -4215,10 +4081,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4243,10 +4106,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4271,10 +4131,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4299,10 +4156,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4327,10 +4181,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4355,10 +4206,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4383,10 +4231,7 @@
       ]
     ],
     "EffectTime": [
-      [
-        1.0,
-        0.0
-      ]
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,
@@ -4411,10 +4256,1087 @@
       ]
     ],
     "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2061": {
+    "Id": 2061,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Gauntlets, Earrings</style>",
+    "Remark": "极限·衰败深处",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
       [
-        1.0,
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2062": {
+    "Id": 2062,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Gauntlets, Earrings</style>",
+    "Remark": "极限·衰败深处",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2063": {
+    "Id": 2063,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.140 Legendary: Gauntlets, Earrings</style>",
+    "Remark": "极限·衰败深处",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2064": {
+    "Id": 2064,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.160 Legendary: Gauntlets, Earrings</style>",
+    "Remark": "极限·衰败深处",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2065": {
+    "Id": 2065,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Helmet, Necklace</style>",
+    "Remark": "极限·岩蛇巢穴",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2066": {
+    "Id": 2066,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Helmet, Necklace</style>",
+    "Remark": "极限·岩蛇巢穴",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2067": {
+    "Id": 2067,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.140 Legendary: Helmet, Necklace</style>",
+    "Remark": "极限·岩蛇巢穴",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2068": {
+    "Id": 2068,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.160 Legendary: Helmet, Necklace</style>",
+    "Remark": "极限·岩蛇巢穴",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2069": {
+    "Id": 2069,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Armor, Ring</style>",
+    "Remark": "极限·荒灵祭所",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2070": {
+    "Id": 2070,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Armor, Ring</style>",
+    "Remark": "极限·荒灵祭所",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2071": {
+    "Id": 2071,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.140 Legendary: Armor, Ring</style>",
+    "Remark": "极限·荒灵祭所",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2072": {
+    "Id": 2072,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.160 Legendary: Armor, Ring</style>",
+    "Remark": "极限·荒灵祭所",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2073": {
+    "Id": 2073,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Bracelet (L), Bracelet (R)</style>",
+    "Remark": "极限·沉落无音的遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2074": {
+    "Id": 2074,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Bracelet (L), Bracelet (R)</style>",
+    "Remark": "极限·沉落无音的遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2075": {
+    "Id": 2075,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.140 Legendary: Bracelet (L), Bracelet (R)</style>",
+    "Remark": "极限·沉落无音的遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2076": {
+    "Id": 2076,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.160 Legendary: Bracelet (L), Bracelet (R)</style>",
+    "Remark": "极限·沉落无音的遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2077": {
+    "Id": 2077,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Boots, Charm</style>",
+    "Remark": "极限·噬光牢笼",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2078": {
+    "Id": 2078,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Boots, Charm</style>",
+    "Remark": "极限·噬光牢笼",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2079": {
+    "Id": 2079,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.140 Legendary: Boots, Charm</style>",
+    "Remark": "极限·噬光牢笼",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2080": {
+    "Id": 2080,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.160 Legendary: Boots, Charm</style>",
+    "Remark": "极限·噬光牢笼",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2081": {
+    "Id": 2081,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Weapon</style>",
+    "Remark": "极限·幻华流月之野",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2082": {
+    "Id": 2082,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.120 Legendary: Weapon</style>",
+    "Remark": "极限·幻华流月之野",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2083": {
+    "Id": 2083,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.140 Legendary: Weapon</style>",
+    "Remark": "极限·幻华流月之野",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2084": {
+    "Id": 2084,
+    "Name": "Nappo's Pandemonium",
+    "Description": "The mischievous Nappo sneaks into the plane, causing all kinds of trouble! The team that attacks and claims its loot will receive an additional reward upon completion: <style=\"ItemQuality_4\">Lv.160 Legendary: Weapon</style>",
+    "Remark": "极限·幻华流月之野",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2101": {
+    "Id": 2101,
+    "Name": "Slumberdream Mask - Raving",
+    "Description": "Boss ATK <style=\"accent-gn\">+30%</style>, HP <style=\"accent-gn\">+20%</style>; <br>[Slumberdream Sigils] dropped by Bosses are guaranteed to be Epic quality.",
+    "Remark": "娜宝面具1肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997265,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
         0.0
       ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2102": {
+    "Id": 2102,
+    "Name": "Slumberdream Mask - Somniloquy",
+    "Description": "When a player's HP is not full, they take <style=\"accent-gn\">+30%</style> additional damage; <br>When a player's HP is full, their damage taken is decreased by <style=\"accent-gn\">-30%</style>.",
+    "Remark": "娜宝面具2肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        997815,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2103": {
+    "Id": 2103,
+    "Name": "Slumberdream Mask - Bewilderment",
+    "Description": "Player ATK <style=\"accent-gn\">-20%</style>, Defense <style=\"accent-gn\">-20%</style>; <br>Monster ATK <style=\"accent-gn\">-30%</style>",
+    "Remark": "娜宝面具3肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997812,
+        0
+      ],
+      [
+        1,
+        1,
+        997811,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2104": {
+    "Id": 2104,
+    "Name": "Slumberdream Mask - Betrayal",
+    "Description": "Elite HP and Boss HP <style=\"accent-gn\">+100%</style>, ATK <style=\"accent-gn\">+50%</style>; <br>Drop rate of [Slumberdream Remnants] from Elites and Bosses <style=\"accent-gn\">+60%</style>.",
+    "Remark": "娜宝面具4肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997821,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2105": {
+    "Id": 2105,
+    "Name": "Slumberdream Mask - Nightmare",
+    "Description": "Monsters are affected by Void Corruption (HP <style=\"accent-gn\">+20%</style>, ATK <style=\"accent-gn\">+20%</style>; <br>Drop rate of [Slumberdream Sigils] from monsters is doubled.",
+    "Remark": "娜宝面具5肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997267,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2106": {
+    "Id": 2106,
+    "Name": "Slumberdream Mask - Snicker",
+    "Description": "Player HP cannot exceed <style=\"accent-gn\">50%</style> of Max HP; <br>Monster Max HP <style=\"accent-gn\">-30%</style>",
+    "Remark": "娜宝面具6肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997814,
+        0
+      ],
+      [
+        1,
+        1,
+        997813,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2107": {
+    "Id": 2107,
+    "Name": "Slumberdream Mask - Veiled Moon",
+    "Description": "While out of combat, [Slumberdream Value] gain rate <style=\"accent-gn\">+100%</style>; <br>While in combat, [Slumberdream Value] gain rate <style=\"accent-gn\">−20%</style>",
+    "Remark": "娜宝面具7肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        997305,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2108": {
+    "Id": 2108,
+    "Name": "Slumberdream Mask - Echo",
+    "Description": "For each unit, damage taken is stored and then settled every <style=\"accent-gn\">5 seconds</style>; <br>Damage taken by monsters <style=\"accent-gn\">+15%</style>",
+    "Remark": "娜宝面具8肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997823,
+        0
+      ],
+      [
+        1,
+        4,
+        997817,
+        0
+      ],
+      [
+        1,
+        1,
+        997816,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ],
+      [
+        5.0,
+        0.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2109": {
+    "Id": 2109,
+    "Name": "Slumberdream Mask - Finale",
+    "Description": "Monster ATK and HP <style=\"accent-gn\">+10%</style>; Elites and stronger monsters gain an additional <style=\"accent-gn\">10%</style>; <br>[Slumberdream Remnants] gained from combat <style=\"accent-gn\">40%</style>",
+    "Remark": "娜宝面具9肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997822,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2110": {
+    "Id": 2110,
+    "Name": "Slumberdream Mask - Symmetry",
+    "Description": "Monsters gain [Protection]: DMG Reduction <style=\"accent-gn\">+50%</style>. Each time damage is taken, this effect −<style=\"accent-gn\">0.5%</style>; <br>Damage taken by players <style=\"accent-gn\">−30%</style>",
+    "Remark": "娜宝面具10肉鸽大秘境",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997818,
+        0
+      ],
+      [
+        1,
+        1,
+        997819,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "5001": {
+    "Id": 5001,
+    "Name": "Illegal Construction",
+    "Description": "Renovations are underway at Ocean Hill. Be aware: <style=\"accent-gn\">numerous illegal buildings</style> may appear in the area!",
+    "Remark": "不思议的追逃游戏",
+    "Icon": "ui/atlas/affix/com_affix_tongqiangtiebi",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "5002": {
+    "Id": 5002,
+    "Name": "Concert",
+    "Description": "An idol is coming to Ocean Hill for a concert. Be aware: <style=\"accent-gn\">crowds will increase significantly</style> in the area!",
+    "Remark": "不思议的追逃游戏",
+    "Icon": "ui/atlas/affix/com_affix_shenshengzhiyu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "5003": {
+    "Id": 5003,
+    "Name": "Energy Overflow",
+    "Description": "<style=\"physical\">Entry gameplay will be available in future versions.</style><br><br><style=\"text_third_gray\">Illusion Energy is overflowing—spawn rate +100%!</style>",
+    "Remark": "不思议的追逃游戏",
+    "Icon": "ui/atlas/affix/com_affix_itemoutbreak",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "5004": {
+    "Id": 5004,
+    "Name": "Biting Cold Wind",
+    "Description": "<style=\"physical\">Entry gameplay will be available in future versions.</style><br><br><style=\"text_third_gray\">Winter is coming! Once the game starts, a freezing wind will blow every 35 seconds, forcing movement and removing all Illusion abilities.</style>",
+    "Remark": "不思议的追逃游戏",
+    "Icon": "ui/atlas/affix/com_affix_coldwind",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "5005": {
+    "Id": 5005,
+    "Name": "Flash of Insight",
+    "Description": "<style=\"physical\">Entry gameplay will be available in future versions.</style><br><br><style=\"text_third_gray\">Brain overdrive! A Flash of Insight guarantees an S-Rank buff!</style>",
+    "Remark": "不思议的追逃游戏",
+    "Icon": "ui/atlas/affix/com_affix_streak",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "5006": {
+    "Id": 5006,
+    "Name": "Spacetime Distortion",
+    "Description": "<style=\"physical\">Entry gameplay will be available in future versions.</style><br><br><style=\"text_third_gray\">The Illusion has been unstable lately, causing numerous space-time </style>rifts. Entering a rift will teleport you to a random location within the scene.</style>",
+    "Remark": "不思议的追逃游戏",
+    "Icon": "ui/atlas/affix/com_affix_riftspace",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,

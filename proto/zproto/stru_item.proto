@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_affix_data.proto";
 import "enum_e_item_bind_flag.proto";
 import "stru_equip_attr.proto";
@@ -10,23 +8,26 @@ import "stru_mod_attr.proto";
 import "stru_mod_new_attr.proto";
 import "stru_dirty_mask.proto";
 
-message Item {
-  int64 uuid = 1;
-  int32 config_id = 2;
-  int64 count = 3;
-  int32 invalid = 4;
-  zproto.EItemBindFlag bind_flag = 5;
-  int64 create_time = 6;
-  int64 expire_time = 7;
-  int32 opt_src = 8;
-  int32 quality = 9;
-  zproto.EquipAttr equip_attr = 10;
-  zproto.ModAttr mod_attr = 11;
-  int64 cool_down_expire_time = 12;
-  zproto.ModNewAttr mod_new_attr = 13;
-  zproto.AffixData affix_data = 14;
-  map<int32, zproto.ItemExtendData> extend_attr = 15;
-  int32 reward_id = 16;
-  map<int32, int32> gene_sequence = 17;
-}
+package zproto;
 
+message Item {
+	int64 uuid = 1 [json_name = "uuid"];
+	int32 configId = 2 [json_name = "configId"];
+	int64 count = 3 [json_name = "count"];
+	int32 invalid = 4 [json_name = "invalid"];
+	EItemBindFlag bindFlag = 5 [json_name = "bindFlag"];
+	int64 createTime = 6 [json_name = "createTime"];
+	int64 expireTime = 7 [json_name = "expireTime"];
+	int32 optSrc = 8 [json_name = "optSrc"];
+	int32 quality = 9 [json_name = "quality"];
+	EquipAttr equipAttr = 10 [json_name = "equipAttr"];
+	ModAttr modAttr = 11 [json_name = "modAttr"];
+	int64 coolDownExpireTime = 12 [json_name = "coolDownExpireTime"];
+	ModNewAttr modNewAttr = 13 [json_name = "modNewAttr"];
+	AffixData affixData = 14 [json_name = "affixData"];
+	map<int32, ItemExtendData> extendAttr = 15 [json_name = "extendAttr"];
+	int32 rewardId = 16 [json_name = "rewardId"];
+	map<int32, int32> geneSequence = 17 [json_name = "geneSequence"];
+	int32 geneSource = 18 [json_name = "geneSource"];
+	bool locked = 19 [json_name = "locked"];
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+import "stru_ichiban_kuji_one_draw_info.proto";
+
+package zproto;
+
+message IchibanKujiDrawReply {
+	repeated IchibanKujiOneDrawInfo drawInfoList = 1 [json_name = "drawInfoList"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

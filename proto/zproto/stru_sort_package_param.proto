@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_sort_item_param.proto";
 
-message SortPackageParam {
-  int32 package_type = 1;
-  repeated zproto.SortItemParam item_params = 2;
-}
+package zproto;
 
+message SortPackageParam {
+	int32 packageType = 1 [json_name = "packageType"];
+	repeated SortItemParam itemParams = 2 [json_name = "itemParams"];
+}

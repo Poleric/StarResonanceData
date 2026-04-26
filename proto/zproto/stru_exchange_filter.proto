@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message ExchangeFilter {
-  int32 type = 1;
-  int32 value = 2;
+	int32 type = 1 [json_name = "type"];
+	int32 value = 2 [json_name = "value"];
 }
-

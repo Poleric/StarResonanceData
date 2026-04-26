@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message LifeProfessionAlchemyInfo {
-  uint32 failure_count = 1;
-  uint32 rd_count = 2;
-  int64 last_reset_time = 3;
-}
+package zproto;
 
+message LifeProfessionAlchemyInfo {
+	uint32 failureCount = 1 [json_name = "failureCount"];
+	uint32 rdCount = 2 [json_name = "rdCount"];
+	int64 lastResetTime = 3 [json_name = "lastResetTime"];
+}

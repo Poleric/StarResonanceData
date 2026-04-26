@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_request_join_info.proto";
 
-message ApprovalRequestReply {
-  repeated zproto.RequestJoinInfo req_list = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message ApprovalRequestReply {
+	repeated RequestJoinInfo reqList = 1 [json_name = "reqList"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

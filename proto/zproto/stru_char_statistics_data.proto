@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message CharStatisticsData {
-  int32 login_days = 1;
-  uint64 last_login_time = 2;
-}
+package zproto;
 
+message CharStatisticsData {
+	int32 LoginDays = 1 [json_name = "LoginDays"];
+	uint64 LastLoginTime = 2 [json_name = "LastLoginTime"];
+}

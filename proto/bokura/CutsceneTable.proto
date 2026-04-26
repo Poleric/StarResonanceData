@@ -1,34 +1,33 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message CutsceneTableBase {
-  int32 id = 1463;
-  string name_design = 1649;
-  string res_path = 548;
-  int32 content_hiding = 1154;
-  bool is_cutscene_editor = 247;
-  int32 can_skip = 315;
-  bool validate_skip = 1204;
-  int_array black_mask = 911;
-  int_array allow_input = 256;
-  bool is_save_play_state = 1541;
-  int32 check_play_key_index = 565;
-  int_array end_sync_actor_type = 1242;
-  int_array end_sync_actor_id = 2023;
-  vector3_array end_sync_actor_pos = 1480;
-  number_array end_sync_actor_rotation = 1778;
-  int32 check_play_type = 1918;
-  string audio_state = 751;
-  int32 binding_scene = 1231;
-  int32 player_sync_type = 20;
-  number_array player_sync_pos = 865;
-  float player_sync_rotation = 572;
+	int32 Id = 1463 [json_name = "Id"];
+	string NameDesign = 1649 [json_name = "NameDesign"];
+	string ResPath = 548 [json_name = "ResPath"];
+	int32 ContentHiding = 1154 [json_name = "ContentHiding"];
+	bool IsCutsceneEditor = 247 [json_name = "IsCutsceneEditor"];
+	int32 CanSkip = 315 [json_name = "CanSkip"];
+	bool ValidateSkip = 1204 [json_name = "ValidateSkip"];
+	int_array BlackMask = 911 [json_name = "BlackMask"];
+	int_array AllowInput = 256 [json_name = "AllowInput"];
+	bool IsSavePlayState = 1541 [json_name = "IsSavePlayState"];
+	int32 CheckPlayKeyIndex = 565 [json_name = "CheckPlayKeyIndex"];
+	int_array EndSyncActorType = 1242 [json_name = "EndSyncActorType"];
+	int_array EndSyncActorId = 2023 [json_name = "EndSyncActorId"];
+	vector3_array EndSyncActorPos = 1480 [json_name = "EndSyncActorPos"];
+	number_array EndSyncActorRotation = 1778 [json_name = "EndSyncActorRotation"];
+	int32 CheckPlayType = 1918 [json_name = "CheckPlayType"];
+	string AudioState = 751 [json_name = "AudioState"];
+	int32 BindingScene = 1231 [json_name = "BindingScene"];
+	int32 PlayerSyncType = 20 [json_name = "PlayerSyncType"];
+	number_array PlayerSyncPos = 865 [json_name = "PlayerSyncPos"];
+	float PlayerSyncRotation = 572 [json_name = "PlayerSyncRotation"];
 }
 
 message CutsceneTableMgr {
-  map<int32, bokura.CutsceneTableBase> datas = 1;
+	map<int32, CutsceneTableBase> datas = 1 [json_name = "datas"];
 }
-

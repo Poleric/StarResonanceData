@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_clutter.proto";
 
-message NotifyCommunityHomeLandClutterInfoAddRequest {
-  int64 community_id = 1;
-  int64 homeland_id = 2;
-  map<int64, zproto.Clutter> add_home_land_clutter = 3;
-}
+package zproto;
 
+message NotifyCommunityHomeLandClutterInfoAddRequest {
+	int64 communityId = 1 [json_name = "communityId"];
+	int64 homelandId = 2 [json_name = "homelandId"];
+	map<int64, Clutter> addHomeLandClutter = 3 [json_name = "addHomeLandClutter"];
+}

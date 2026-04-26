@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_launch_platform.proto";
 import "stru_dirty_mask.proto";
 
-message LaunchPrivilegeData {
-  zproto.LaunchPlatform launch_platform = 1;
-  bool is_privilege = 2;
-  zproto.LaunchPlatform bak_launch_platform = 3;
-  bool bak_privilege = 4;
-}
+package zproto;
 
+message LaunchPrivilegeData {
+	LaunchPlatform launchPlatform = 1 [json_name = "launchPlatform"];
+	bool isPrivilege = 2 [json_name = "isPrivilege"];
+	LaunchPlatform bakLaunchPlatform = 3 [json_name = "bakLaunchPlatform"];
+	bool bakPrivilege = 4 [json_name = "bakPrivilege"];
+}

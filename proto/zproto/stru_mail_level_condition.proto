@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message MailLevelCondition {
-  int32 min = 1;
-  int32 max = 2;
-  bool include_level_up = 3;
+	int32 min = 1 [json_name = "min"];
+	int32 max = 2 [json_name = "max"];
+	bool includeLevelUp = 3 [json_name = "includeLevelUp"];
 }
-

@@ -1,28 +1,33 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_drought_record.proto";
 import "enum_e_farmland_state.proto";
 import "stru_home_land_item_instance.proto";
 
-message StructureFarmlandInfo {
-  int64 operator_char_id = 1;
-  zproto.HomeLandItemInstance seed_instance = 2;
-  bool need_water = 3;
-  zproto.EFarmlandState farmland_state = 4;
-  int64 seeding_time = 5;
-  int64 grow_end_time = 6;
-  int64 pollinate_begin_time = 7;
-  int64 pollinate_end_time = 8;
-  int64 harvest_begin_time = 9;
-  int64 harvest_end_time = 10;
-  bool is_end = 11;
-  zproto.HomeLandItemInstance flower_instance = 12;
-  int32 next_segment_index = 13;
-  repeated zproto.DroughtRecord records = 14;
-  repeated int32 fertilizes = 15;
-  zproto.HomeLandItemInstance pollen_instance = 16;
-  map<int64, int32> pick_up_players = 17;
-}
+package zproto;
 
+message StructureFarmlandInfo {
+	int64 operatorCharId = 1 [json_name = "operatorCharId"];
+	HomeLandItemInstance seedInstance = 2 [json_name = "seedInstance"];
+	bool needWater = 3 [json_name = "needWater"];
+	EFarmlandState farmlandState = 4 [json_name = "farmlandState"];
+	int64 seedingTime = 5 [json_name = "seedingTime"];
+	int64 growEndTime = 6 [json_name = "growEndTime"];
+	int64 PollinateBeginTime = 7 [json_name = "PollinateBeginTime"];
+	int64 PollinateEndTime = 8 [json_name = "PollinateEndTime"];
+	int64 HarvestBeginTime = 9 [json_name = "HarvestBeginTime"];
+	int64 HarvestEndTime = 10 [json_name = "HarvestEndTime"];
+	bool isEnd = 11 [json_name = "isEnd"];
+	HomeLandItemInstance flowerInstance = 12 [json_name = "flowerInstance"];
+	int32 nextSegmentIndex = 13 [json_name = "nextSegmentIndex"];
+	repeated DroughtRecord records = 14 [json_name = "records"];
+	repeated int32 fertilizes = 15 [json_name = "fertilizes"];
+	HomeLandItemInstance pollenInstance = 16 [json_name = "pollenInstance"];
+	map<int64, int32> pickUpPlayers = 17 [json_name = "pickUpPlayers"];
+	int64 newSeedingSec = 18 [json_name = "newSeedingSec"];
+	int64 newGrowEndSec = 19 [json_name = "newGrowEndSec"];
+	int64 newPollinateBeginSec = 20 [json_name = "newPollinateBeginSec"];
+	int64 newPollinateEndSec = 21 [json_name = "newPollinateEndSec"];
+	int64 newHarvestBeginSec = 22 [json_name = "newHarvestBeginSec"];
+	int64 newHarvestEndSec = 23 [json_name = "newHarvestEndSec"];
+}

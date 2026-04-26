@@ -6,7 +6,9 @@
     "Command": "enterScene",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "进入静态场景",
     "CommandOrParameterRemark": [
       "进入场景",
@@ -20,9 +22,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "enterDungeon",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "dungeonid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "进入动态场景",
     "CommandOrParameterRemark": [
       "进入动态场景、副本、镜像",
@@ -36,9 +42,15 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "moveSelf",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "pos"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "移动位置",
     "CommandOrParameterRemark": [
       "移动当前角色",
@@ -52,7 +64,11 @@
     "GMGroup": 1,
     "Type": 2,
     "Command": "requming",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addQuest 10001,10001071",
+      "moveSelf 99.41,100.96,182.28",
+      "enterVisualLayer 5004"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "在主城使用-回到取名的视野层级",
@@ -67,7 +83,9 @@
     "GMGroup": 1,
     "Type": 2,
     "Command": "skiptoquming",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "moveSelf 99.41,100.96,182.28"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "在主城使用-传送到取名剧情位置",
@@ -97,9 +115,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "moveToTarget",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "targetuuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "移动至对象位置",
     "CommandOrParameterRemark": [
       "移动当前角色至对象位置",
@@ -113,7 +135,9 @@
     "GMGroup": 1,
     "Type": 2,
     "Command": "infiniteEnergy",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 620302 0 1 0"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "无限星源能量",
@@ -128,7 +152,15 @@
     "GMGroup": 1,
     "Type": 2,
     "Command": "ProfessionAll",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addProfession 1",
+      "addProfession 2",
+      "addProfession 3",
+      "addProfession 4",
+      "addProfession 5",
+      "addProfession 8",
+      "addProfession 9"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "解锁所有职业",
@@ -143,9 +175,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "setSkillNoneCD",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "status"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "设置技能无CD",
     "CommandOrParameterRemark": [
       "设置技能无CD",
@@ -174,9 +210,16 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "addGMTempAttr",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "attrs"
+    ],
+    "OptionalParameter": [
+      "targetuuid 0"
+    ],
+    "ParameterCheck": [
+      "string",
+      "number"
+    ],
     "ButtonShow": "增加属性",
     "CommandOrParameterRemark": [
       "增加属性",
@@ -192,9 +235,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "addMonster",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "monsterid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "添加怪物",
     "CommandOrParameterRemark": [
       "添加monster至当前位置",
@@ -208,9 +255,20 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "addBuff",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "buffid"
+    ],
+    "OptionalParameter": [
+      "targetuuid 0",
+      "bufflay 0",
+      "buffduration 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加Buff效果",
     "CommandOrParameterRemark": [
       "添加效果至对象",
@@ -224,9 +282,20 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "addTalentEffect",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "talentid"
+    ],
+    "OptionalParameter": [
+      "targetuuid 0",
+      "bufflay 0",
+      "buffduration 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加天赋",
     "CommandOrParameterRemark": [
       "添加效果至对象",
@@ -240,9 +309,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "changeProfession",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "professionId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "切换职业",
     "CommandOrParameterRemark": [
       "切换职业",
@@ -256,9 +329,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "addNpc",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "npcid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "添加NPC",
     "CommandOrParameterRemark": [
       "添加npc至当前位置",
@@ -272,9 +349,18 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "addItem",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "itemid"
+    ],
+    "OptionalParameter": [
+      "nums 1",
+      "bind 1"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加道具",
     "CommandOrParameterRemark": [
       "添加道具",
@@ -288,9 +374,15 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "addEntity",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "type",
+      "id"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加实体",
     "CommandOrParameterRemark": [
       "添加实体至当前位置",
@@ -304,9 +396,16 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "delBuff",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "buffid"
+    ],
+    "OptionalParameter": [
+      "targetuuid 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "移除Buff效果",
     "CommandOrParameterRemark": [
       "移除对象上的效果",
@@ -320,9 +419,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "useSkill",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "skillid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "释放技能",
     "CommandOrParameterRemark": [
       "释放技能",
@@ -336,9 +439,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "killNpc",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "npcUuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "杀死NPC/怪物",
     "CommandOrParameterRemark": [
       "杀死NPC",
@@ -382,9 +489,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "enterVisualLayer",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "visuallayerid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "进入视野层级",
     "CommandOrParameterRemark": [
       "进入视野层级 填视野层级配置id"
@@ -397,9 +508,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "leaveVisualLayer",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "result"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "退出视野层级",
     "CommandOrParameterRemark": [
       "退出视野层级 一般0是放弃退出，1是成功退出"
@@ -429,7 +544,9 @@
     "Command": "openDebugGUI",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "打开debugGUI界面",
     "CommandOrParameterRemark": [
       "0：属性查看 1：buff查看 2：Pure组件查看 3：BGM 4：屏蔽数据记录"
@@ -442,11 +559,23 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "addAiBot",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "botid"
+    ],
+    "OptionalParameter": [
+      "aibotnum 1",
+      "setbornpos 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加队友机器人",
-    "CommandOrParameterRemark": [],
+    "CommandOrParameterRemark": [
+      "添加队友机器人",
+      "机器人id,[数量.1],[玩家位置覆盖出生点.0]"
+    ],
     "AuToClose": false,
     "OnOff": false
   },
@@ -455,9 +584,13 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "randomPos",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "radius"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "随机坐标传送（性能测试用）",
     "CommandOrParameterRemark": [
       "根据半径将当前的坐标的x和z随机一个位置"
@@ -470,9 +603,17 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "moveToScenePos",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "sceneId",
+      "pos"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "切场景并移动到指定坐标",
     "CommandOrParameterRemark": [
       "支持跨场景并设置坐标到指定位置"
@@ -485,7 +626,9 @@
     "GMGroup": 1,
     "Type": 2,
     "Command": "getBodyLevel",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 201,13160000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "生体元满级",
@@ -515,7 +658,11 @@
     "GMGroup": 1,
     "Type": 2,
     "Command": "functionquest",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "finishToQuest 10012",
+      "addQuest 10012,0",
+      "finishQuest 10012,0"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "一键完成所有主线任务（解锁功能临时用）",
@@ -530,7 +677,15 @@
     "GMGroup": 1,
     "Type": 2,
     "Command": "ProfessionAll",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addProfession 1",
+      "addProfession 2",
+      "addProfession 4",
+      "addProfession 5",
+      "addProfession 9",
+      "addProfession 11",
+      "addProfession 12"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "一键解锁所有职业",
@@ -545,7 +700,14 @@
     "GMGroup": 1,
     "Type": 2,
     "Command": "addTalent",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 30001,70",
+      "addItem 1011001,500",
+      "addItem 1070002,500",
+      "addItem 1020054,500",
+      "addItem 1020055,500",
+      "addItem 1020056,500"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获取天赋和重置天赋道具",
@@ -560,9 +722,19 @@
     "GMGroup": 1,
     "Type": 3,
     "Command": "addEquipRecast",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "addEquipRecast equipId recastCount 1",
+      "addEquipRecast equipId perfectValue 2"
+    ],
+    "OptionalParameter": [
+      "nums 1",
+      "bind 1"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加指定重铸次数/完美度装备",
     "CommandOrParameterRemark": [
       "添加指定重铸次数/完美度装备"
@@ -575,7 +747,58 @@
     "GMGroup": 1,
     "Type": 2,
     "Command": "AoyiAll",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 3000001,1",
+      "addItem 3000002,1",
+      "addItem 3000003,1",
+      "addItem 3000004,1",
+      "addItem 3000005,1",
+      "addItem 3000006,1",
+      "addItem 3000007,1",
+      "addItem 3000008,1",
+      "addItem 3000009,1",
+      "addItem 3000010,1",
+      "addItem 3000011,1",
+      "addItem 3000012,1",
+      "addItem 3000013,1",
+      "addItem 3000014,1",
+      "addItem 3000015,1",
+      "addItem 3000016,1",
+      "addItem 3000017,1",
+      "addItem 3000018,1",
+      "addItem 3000019,1",
+      "addItem 3000020,1",
+      "addItem 3000021,1",
+      "addItem 3000022,1",
+      "addItem 3000023,1",
+      "addItem 3000024,1",
+      "addItem 3000025,1",
+      "addItem 3000026,1",
+      "addItem 3000027,1",
+      "addItem 3000028,1",
+      "addItem 3000029,1",
+      "addItem 3000030,1",
+      "addItem 3000031,1",
+      "addItem 3000032,1",
+      "addItem 3000033,1",
+      "addItem 3000034,1",
+      "addItem 3000035,1",
+      "addItem 3000036,1",
+      "addItem 3000037,1",
+      "addItem 3000038,1",
+      "addItem 3000039,1",
+      "addItem 3000040,1",
+      "addItem 3000041,1",
+      "addItem 3000042,1",
+      "addItem 3000043,1",
+      "addItem 3000044,1",
+      "addItem 3000045,1",
+      "addItem 3000046,1",
+      "addItem 3000047,1",
+      "addItem 3000048,1",
+      "addItem 3000049,1",
+      "addItem 3000050,1"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "一键添加所有共鸣之力道具",
@@ -585,12 +808,82 @@
     "AuToClose": false,
     "OnOff": false
   },
+  "1039": {
+    "Id": 1039,
+    "GMGroup": 1,
+    "Type": 3,
+    "Command": "addCounter",
+    "ParameterOrContent": [
+      "counterId",
+      "addCount"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "增加指定counterID数量（能正常触发添加）",
+    "CommandOrParameterRemark": [
+      "增加指定counterID数量（能正常触发添加）"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "1040": {
+    "Id": 1040,
+    "GMGroup": 1,
+    "Type": 3,
+    "Command": "setCounter",
+    "ParameterOrContent": [
+      "counterId",
+      "countNum"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "设置指定counterID数量",
+    "CommandOrParameterRemark": [
+      "设置指定counterID数量"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
   "2001": {
     "Id": 2001,
     "GMGroup": 2,
     "Type": 2,
     "Command": "unlockAll",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "unlockAllFunctions",
+      "addItem 201,217110000",
+      "addProfession 1",
+      "addProfession 2",
+      "addProfession 4",
+      "addProfession 5",
+      "addProfession 9",
+      "addProfession 11",
+      "addProfession 12",
+      "addProfession 13",
+      "addItem 30001,70",
+      "addItem 1070002,500",
+      "addItem 1020054,500",
+      "addItem 1020055,500",
+      "addItem 1020056,500",
+      "sendAward 1010",
+      "addItem 10001,10000000",
+      "addItem 10002,10000000",
+      "addItem 10003,1000000",
+      "addItem 10004,10000000",
+      "addItem 10005,10000000",
+      "addItem 10006,10000000",
+      "addItem 10007,10000000",
+      "putOnAllBestEquip",
+      "addItem 1054015,500",
+      "addItem 10008,5000000",
+      "addItem 1022001,9999",
+      "addItem 1022002,9999",
+      "addItem 1022003,9999",
+      "addItem 1022004,9999",
+      "addItem 1022005,9999",
+      "addQuest 10091,0",
+      "finishQuest 10091,0"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "一键解锁所有功能",
@@ -605,7 +898,10 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "unlockTpAndResonance",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "activeAllTransferPoint",
+      "activeAllResonance"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "一键解锁传送点、共鸣",
@@ -620,7 +916,45 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "AoyiAll",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 3000001,1",
+      "addItem 3000002,1",
+      "addItem 3000003,1",
+      "addItem 3000004,1",
+      "addItem 3000005,1",
+      "addItem 3000006,1",
+      "addItem 3000007,1",
+      "addItem 3000008,1",
+      "addItem 3000009,1",
+      "addItem 3000010,1",
+      "addItem 3000011,1",
+      "addItem 3000012,1",
+      "addItem 3000013,1",
+      "addItem 3000014,1",
+      "addItem 3000015,1",
+      "addItem 3000016,1",
+      "addItem 3000017,1",
+      "addItem 3000018,1",
+      "addItem 3000019,1",
+      "addItem 3000020,1",
+      "addItem 3000021,1",
+      "addItem 3000022,1",
+      "addItem 3000023,1",
+      "addItem 3000024,1",
+      "addItem 3000025,1",
+      "addItem 3000026,1",
+      "addItem 3000027,1",
+      "addItem 3000028,1",
+      "addItem 3000029,1",
+      "addItem 3000030,1",
+      "addItem 3000031,1",
+      "addItem 3000032,1",
+      "addItem 3000033,1",
+      "addItem 3000034,1",
+      "addItem 3000035,1",
+      "addItem 3000036,1",
+      "addItem 3000037,1"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "一键添加所有共鸣之力道具",
@@ -650,7 +984,9 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "getcbtitemscurrency",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "sendAward 1210"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获取货币和特殊道具",
@@ -665,7 +1001,9 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "getcbtitemsmaterial",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "sendAward 1220"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获取全部采集材料道具、全部制作材料道具",
@@ -680,7 +1018,9 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "getcbtitemsequip",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "sendAward 1230"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获取所有武器和装备",
@@ -695,7 +1035,9 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "getcbtitemspeofession",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "sendAward 1240"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获取所有养成道具",
@@ -710,7 +1052,9 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "getcbtitemstalents",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "sendAward 1250"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获取天赋和天赋道具",
@@ -725,7 +1069,9 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "getallcuisine",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "sendAward 1260"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获取所有料理道具",
@@ -740,7 +1086,145 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "addAllVehicle",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 12010001,1",
+      "addItem 12010002,1",
+      "addItem 12010003,1",
+      "addItem 12010004,1",
+      "addItem 12010005,1",
+      "addItem 12010006,1",
+      "addItem 12010007,1",
+      "addItem 12010008,1",
+      "addItem 12010009,1",
+      "addItem 12010010,1",
+      "addItem 12010011,1",
+      "addItem 12010012,1",
+      "addItem 12010013,1",
+      "addItem 12010014,1",
+      "addItem 12010015,1",
+      "addItem 12010016,1",
+      "addItem 12010017,1",
+      "addItem 12010018,1",
+      "addItem 12010019,1",
+      "addItem 12010020,1",
+      "addItem 12010021,1",
+      "addItem 12010022,1",
+      "addItem 12010023,1",
+      "addItem 12010024,1",
+      "addItem 12010025,1",
+      "addItem 12010026,1",
+      "addItem 12010027,1",
+      "addItem 12010028,1",
+      "addItem 12010029,1",
+      "addItem 12010030,1",
+      "addItem 12010031,1",
+      "addItem 12010032,1",
+      "addItem 12010033,1",
+      "addItem 12010034,1",
+      "addItem 12010035,1",
+      "addItem 12010036,1",
+      "addItem 12010037,1",
+      "addItem 12010038,1",
+      "addItem 12010039,1",
+      "addItem 12010040,1",
+      "addItem 12010041,1",
+      "addItem 12010042,1",
+      "addItem 12010043,1",
+      "addItem 12010044,1",
+      "addItem 12010045,1",
+      "addItem 12010046,1",
+      "addItem 12010047,1",
+      "addItem 12010048,1",
+      "addItem 12010049,1",
+      "addItem 12010050,1",
+      "addItem 12010051,1",
+      "addItem 12010052,1",
+      "addItem 12010053,1",
+      "addItem 12010054,1",
+      "addItem 12010055,1",
+      "addItem 12010056,1",
+      "addItem 12010057,1\"addItem 12010001,1",
+      "addItem 12010002,1",
+      "addItem 12010003,1",
+      "addItem 12010004,1",
+      "addItem 12010005,1",
+      "addItem 12010006,1",
+      "addItem 12010007,1",
+      "addItem 12010008,1",
+      "addItem 12010009,1",
+      "addItem 12010010,1",
+      "addItem 12010011,1",
+      "addItem 12010012,1",
+      "addItem 12010013,1",
+      "addItem 12010014,1",
+      "addItem 12010015,1",
+      "addItem 12010016,1",
+      "addItem 12010017,1",
+      "addItem 12010018,1",
+      "addItem 12010019,1",
+      "addItem 12010020,1",
+      "addItem 12010021,1",
+      "addItem 12010022,1",
+      "addItem 12010023,1",
+      "addItem 12010024,1",
+      "addItem 12010025,1",
+      "addItem 12010026,1",
+      "addItem 12010027,1",
+      "addItem 12010028,1",
+      "addItem 12010029,1",
+      "addItem 12010030,1",
+      "addItem 12010031,1",
+      "addItem 12010032,1",
+      "addItem 12010033,1",
+      "addItem 12010034,1",
+      "addItem 12010035,1",
+      "addItem 12010036,1",
+      "addItem 12010037,1",
+      "addItem 12010038,1",
+      "addItem 12010039,1",
+      "addItem 12010040,1",
+      "addItem 12010041,1",
+      "addItem 12010042,1",
+      "addItem 12010043,1",
+      "addItem 12010044,1",
+      "addItem 12010045,1",
+      "addItem 12010046,1",
+      "addItem 12010047,1",
+      "addItem 12010048,1",
+      "addItem 12010049,1",
+      "addItem 12010050,1",
+      "addItem 12010051,1",
+      "addItem 12010052,1",
+      "addItem 12010053,1",
+      "addItem 12010054,1",
+      "addItem 12010055,1",
+      "addItem 12010056,1",
+      "addItem 12010057,1",
+      "addItem 12010058,1",
+      "addItem 12010059,1",
+      "addItem 12010060,1",
+      "addItem 12010061,1",
+      "addItem 12010062,1",
+      "addItem 12010063,1",
+      "addItem 12010064,1",
+      "addItem 12010065,1",
+      "addItem 12010066,1",
+      "addItem 12010067,1",
+      "addItem 12010068,1",
+      "addItem 12010069,1",
+      "addItem 12010070,1",
+      "addItem 12010071,1",
+      "addItem 12010072,1",
+      "addItem 12010073,1",
+      "addItem 12010074,1",
+      "addItem 12010075,1",
+      "addItem 12010076,1",
+      "addItem 12010077,1",
+      "addItem 12010078,1",
+      "addItem 12010079,1",
+      "addItem 12010080,1",
+      "addItem 12010081,1"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "添加所有载具",
@@ -755,7 +1239,54 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "addALLToys",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 1073101,99",
+      "addItem 1073102,99",
+      "addItem 1073103,99",
+      "addItem 1073104,99",
+      "addItem 1073105,99",
+      "addItem 1073106,99",
+      "addItem 1073107,99",
+      "addItem 1073108,99",
+      "addItem 1073109,99",
+      "addItem 1073110,99",
+      "addItem 1073111,99",
+      "addItem 1073112,99",
+      "addItem 1073113,99",
+      "addItem 1073114,99",
+      "addItem 1073115,99",
+      "addItem 1073116,99",
+      "addItem 1073117,99",
+      "addItem 1073118,99",
+      "addItem 1073119,99",
+      "addItem 1073120,99",
+      "addItem 1073121,99",
+      "addItem 1073122,99",
+      "addItem 1073123,99",
+      "addItem 1073124,99",
+      "addItem 1073125,99",
+      "addItem 1073126,99",
+      "addItem 1073127,99",
+      "addItem 1073128,99",
+      "addItem 1073129,99",
+      "addItem 1073130,99",
+      "addItem 1073131,99",
+      "addItem 1073132,99",
+      "addItem 1073133,99",
+      "addItem 1073134,99",
+      "addItem 1073135,99",
+      "addItem 1073136,99",
+      "addItem 1073137,99",
+      "addItem 1073138,99",
+      "addItem 1073139,99",
+      "addItem 1073140,99",
+      "addItem 1073141,99",
+      "addItem 1073142,99",
+      "addItem 1073143,99",
+      "addItem 1073144,99",
+      "addItem 1073145,99",
+      "addItem 1073146,99"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获得所有玩具",
@@ -785,9 +1316,13 @@
     "GMGroup": 2,
     "Type": 3,
     "Command": "GMStartVehicle",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "vehicleId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "上坐骑",
     "CommandOrParameterRemark": [
       "上坐骑"
@@ -815,9 +1350,13 @@
     "GMGroup": 2,
     "Type": 3,
     "Command": "GMSummonVehicle",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "vehicleId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "召唤载具",
     "CommandOrParameterRemark": [
       "召唤载具"
@@ -830,12 +1369,22 @@
     "GMGroup": 2,
     "Type": 3,
     "Command": "GMStartRideVehicle",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "vehicleUuid",
+      "seatIndex"
+    ],
+    "OptionalParameter": [
+      "seatGroupIndex"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "乘坐载具的指定位置",
     "CommandOrParameterRemark": [
-      "乘坐载具的指定位置"
+      "乘坐载具的指定位置",
+      "Vehicle Entity ID, Seat Index, [Seat Group Index.0]"
     ],
     "AuToClose": false,
     "OnOff": false
@@ -860,7 +1409,9 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "getexchangeitem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "sendAward 1300"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "(卡|慎点)所有交易交换道具",
@@ -875,7 +1426,52 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "addAllCookChemistryMaterial",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 1090001,999",
+      "addItem 1090002,999",
+      "addItem 1090004,999",
+      "addItem 1090005,999",
+      "addItem 1090006,999",
+      "addItem 1092001,999",
+      "addItem 1092006,999",
+      "addItem 1092007,999",
+      "addItem 1092008,999",
+      "addItem 1092009,999",
+      "addItem 1092010,999",
+      "addItem 1092022,999",
+      "addItem 10920023,999",
+      "addItem 1092024,999",
+      "addItem 1092025,999",
+      "addItem 1092026,999",
+      "addItem 1092027,999",
+      "addItem 1080001,999",
+      "addItem 1082011,999",
+      "addItem 1082012,999",
+      "addItem 1082013,999",
+      "addItem 1082021,999",
+      "addItem 1082022,999",
+      "addItem 1082023,999",
+      "addItem 1082031,999",
+      "addItem 1082032,999",
+      "addItem 1082033,999",
+      "addItem 1082041,999",
+      "addItem 1082042,999",
+      "addItem 1082043,999",
+      "addItem 1083000,999",
+      "addItem 1083001,999",
+      "addItem 1083002,999",
+      "addItem 1083003,999",
+      "addItem 1083004,999",
+      "addItem 1083011,999",
+      "addItem 1083012,999",
+      "addItem 1083013,999",
+      "addItem 1092050,999",
+      "addItem 1092051,999",
+      "addItem 1092052,999",
+      "addItem 1092101,999",
+      "addItem 1092102,999",
+      "addItem 1092103,999"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "添加所有烹饪、炼制材料999个",
@@ -920,9 +1516,13 @@
     "GMGroup": 2,
     "Type": 3,
     "Command": "startFirework",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "type"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "开启花火大会",
     "CommandOrParameterRemark": [
       "开启花火大会（startFirework 1是播普通烟花，startFirework 2是播新年烟花）"
@@ -935,7 +1535,9 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "stopFirework",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "stopFirework"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "关闭花火大会",
@@ -950,7 +1552,12 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "single",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 500103",
+      "addGMAttr 11332|5000",
+      "addGMAttr 11342|5000",
+      "addGMAttr 11442|5000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "单人测试副本用",
@@ -965,7 +1572,12 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "whosyourdaddy",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 521001 0 1 0",
+      "addGMAttr 11332|10000000",
+      "addGMAttr 11342|10000000",
+      "addGMAttr 11442|500000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "无敌",
@@ -980,7 +1592,23 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "openfunction",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 201 8000",
+      "addQuest 10011,10011058",
+      "finishQuest 10011,10011058",
+      "addQuest 10009,10009009",
+      "finishQuest 10009,10009009",
+      "addQuest 10213,10213015",
+      "finishQuest 10213,10213015",
+      "addQuest 10011,10011058",
+      "finishQuest 10011,10011058",
+      "addQuest 10204,10204140",
+      "finishQuest 10204,10204140",
+      "addQuest 10206,10206057",
+      "finishQuest 10206,10206057",
+      "addQuest 10202,10202035",
+      "finishQuest 10202,10202035"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "开启配置了开启条件的功能",
@@ -1010,9 +1638,14 @@
     "GMGroup": 2,
     "Type": 1,
     "Command": "hudGmSwitch",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "hudGmSwitch 0 ",
+      " hudGmSwitch 1"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "开启hudGM",
     "CommandOrParameterRemark": [
       "开启hudGM，hudGmSwitch 0 关闭 ；hudGmSwitch 1 开启"
@@ -1025,7 +1658,17 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "magicA",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 2204040",
+      "addBuff 2204050",
+      "addBuff 2204080",
+      "addBuff 2204120",
+      "addBuff 2204230",
+      "addBuff 2204240",
+      "addBuff 2204250",
+      "addBuff 2204290",
+      "addBuff 2204320"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "法杖流派A全天赋",
@@ -1040,7 +1683,9 @@
     "GMGroup": 2,
     "Type": 3,
     "Command": "revive",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "revive 0"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "原地复活",
@@ -1055,7 +1700,11 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "JutaBoss",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "triggerSceneCustomEvent test_juta_fast_born",
+      "moveSelf -187.921,89.85,-352.14",
+      "addBuff 803201 0 4 0"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "巨塔BOSS战（需在巨塔副本内）",
@@ -1070,7 +1719,10 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "tinaboss",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "triggerSceneCustomEvent test_tina_fast_born",
+      "moveSelf 0,110,14"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "蒂娜BOSS战（需在蒂娜副本内）",
@@ -1085,7 +1737,10 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "longzhuaboss",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "triggerSceneCustomEvent test_longzhua_fast_born",
+      "moveSelf 420,299,395"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "龙爪BOSS战（需在龙爪副本内）",
@@ -1098,7 +1753,10 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "gebulinBOSS",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "triggerSceneCustomEvent test_goblin_fast_born",
+      "moveSelf -115,114,38"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "哥布林巢穴BOSS战（需在哥布林巢穴副本内）",
@@ -1111,7 +1769,10 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "danfoboss",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "triggerSceneCustomEvent test_danfoboss_fast_born",
+      "moveSelf 528.09,37,-123.98"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "Challenge Boss Denvel (In Shadow Bastion)",
@@ -1124,7 +1785,10 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "tinaEntrance",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "enterScene 7",
+      "moveSelf -69.07, 174.22, -151.11"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "蒂娜线性入口",
@@ -1137,7 +1801,10 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "jutaEntrance",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "enterScene 7",
+      "moveSelf -41.58, 165.09, 6.16"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "巨塔线性",
@@ -1150,7 +1817,67 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip10",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 201,47025000",
+      "unlockAllFunctions",
+      "sendAward 1210",
+      "sendAward 1240",
+      "sendAward 1260",
+      "addItem 1020054,1000",
+      "addItem 1020055,1000",
+      "addItem 1020056,1000",
+      "addItem 30001,10",
+      "addItem 3000001,6",
+      "addItem 3000002,6",
+      "addItem 3000003,6",
+      "addItem 3000004,6",
+      "addItem 3000005,6",
+      "addItem 3000006,6",
+      "addItem 3000007,6",
+      "addItem 3000008,6",
+      "addItem 3000009,6",
+      "addItem 3000010,6",
+      "addItem 3000011,6",
+      "addItem 3000012,6",
+      "addItem 3000013,6",
+      "addItem 3000014,6",
+      "addItem 3000015,6",
+      "addItem 3000016,6",
+      "addItem 3000017,6",
+      "addItem 3000018,6",
+      "addItem 3000019,6",
+      "addItem 3000020,6",
+      "addItem 3000021,6",
+      "addItem 3000022,6",
+      "addItem 3000023,6",
+      "addItem 3000024,6",
+      "addItem 3000025,6",
+      "addItem 3000026,6",
+      "addItem 3000027,6",
+      "addItem 3000028,6",
+      "addItem 3000029,6",
+      "addItem 3000030,6",
+      "addItem 3000031,6",
+      "addItem 3000032,6",
+      "addItem 3000033,6",
+      "addItem 3000034,6",
+      "addItem 3000035,6",
+      "addItem 3000036,6",
+      "addItem 3000037,6",
+      "addItem 3000038,6",
+      "addItem 3000039,6",
+      "addItem 3000040,6",
+      "addItem 3000041,6",
+      "addItem 3000042,6",
+      "addItem 3000043,6",
+      "addItem 3000044,6",
+      "addItem 3000045,6",
+      "addItem 3000046,6",
+      "addItem 3000047,6",
+      "addItem 3000048,6",
+      "addItem 3000049,6",
+      "addItem 3000050,6"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "[day2]哥布林（先点我1次！再在下方选择职业）",
@@ -1163,7 +1890,31 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip11",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 1",
+      "changeProfession 1",
+      "addEquipRecast 2000301,40,2",
+      "addEquipRecast 2010302,40,2",
+      "addEquipRecast 2020302,40,2",
+      "addEquipRecast 2030202,60,2",
+      "addEquipRecast 2040202,60,2",
+      "addEquipRecast 2060202,60,2",
+      "addEquipRecast 2070202,60,2",
+      "addEquipRecast 2050202,60,2",
+      "addEquipRecast 2080202,60,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day2-太刀-仅切职业和装备-清装备用cleanPackage 2",
@@ -1176,7 +1927,31 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip12",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 2",
+      "changeProfession 2",
+      "addEquipRecast 2000302,40,2",
+      "addEquipRecast 2010303,40,2",
+      "addEquipRecast 2020303,40,2",
+      "addEquipRecast 2030203,60,2",
+      "addEquipRecast 2040203,60,2",
+      "addEquipRecast 2060203,60,2",
+      "addEquipRecast 2070203,60,2",
+      "addEquipRecast 2050203,60,2",
+      "addEquipRecast 2080203,60,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day2-魔杖-仅切职业和装备-清装备用cleanPackage 2",
@@ -1189,7 +1964,31 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip13",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 4",
+      "changeProfession 4",
+      "addEquipRecast 2000303,40,2",
+      "addEquipRecast 2010301,40,2",
+      "addEquipRecast 2020301,40,2",
+      "addEquipRecast 2030201,60,2",
+      "addEquipRecast 2040201,60,2",
+      "addEquipRecast 2060201,60,2",
+      "addEquipRecast 2070201,60,2",
+      "addEquipRecast 2050201,60,2",
+      "addEquipRecast 2080201,60,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day2-长枪-仅切职业和装备-清装备用cleanPackage 2",
@@ -1202,7 +2001,31 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip14",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 5",
+      "changeProfession 5",
+      "addEquipRecast 2000304,40,2",
+      "addEquipRecast 2010303,40,2",
+      "addEquipRecast 2020303,40,2",
+      "addEquipRecast 2030203,60,2",
+      "addEquipRecast 2040203,60,2",
+      "addEquipRecast 2060203,60,2",
+      "addEquipRecast 2070203,60,2",
+      "addEquipRecast 2050203,60,2",
+      "addEquipRecast 2080203,60,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day2-法环-仅切职业和装备-清装备用cleanPackage 2",
@@ -1215,7 +2038,31 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip15",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 9",
+      "changeProfession 9",
+      "addEquipRecast 2000305,40,2",
+      "addEquipRecast 2010301,40,2",
+      "addEquipRecast 2020301,40,2",
+      "addEquipRecast 2030201,60,2",
+      "addEquipRecast 2040201,60,2",
+      "addEquipRecast 2060201,60,2",
+      "addEquipRecast 2070201,60,2",
+      "addEquipRecast 2050201,60,2",
+      "addEquipRecast 2080201,60,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day2-卫刃-仅切职业和装备-清装备用cleanPackage 2",
@@ -1228,7 +2075,31 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip16",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 11",
+      "changeProfession 11",
+      "addEquipRecast 2000306,40,2",
+      "addEquipRecast 2010302,40,2",
+      "addEquipRecast 2020302,40,2",
+      "addEquipRecast 2030202,60,2",
+      "addEquipRecast 2040202,60,2",
+      "addEquipRecast 2060202,60,2",
+      "addEquipRecast 2070202,60,2",
+      "addEquipRecast 2050202,60,2",
+      "addEquipRecast 2080202,60,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day2-弓箭-仅切职业和装备-清装备用cleanPackage 2",
@@ -1241,7 +2112,31 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip17",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 12",
+      "changeProfession 12",
+      "addEquipRecast 2000307,40,2",
+      "addEquipRecast 2010301,40,2",
+      "addEquipRecast 2020301,40,2",
+      "addEquipRecast 2030201,60,2",
+      "addEquipRecast 2040201,60,2",
+      "addEquipRecast 2060201,60,2",
+      "addEquipRecast 2070201,60,2",
+      "addEquipRecast 2050201,60,2",
+      "addEquipRecast 2080201,60,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day2-剑盾-仅切职业和装备-清装备用cleanPackage 2",
@@ -1254,7 +2149,67 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip18",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 201,86895000",
+      "unlockAllFunctions",
+      "sendAward 1210",
+      "sendAward 1240",
+      "sendAward 1260",
+      "addItem 1020054,1000",
+      "addItem 1020055,1000",
+      "addItem 1020056,1000",
+      "addItem 30001,21",
+      "addItem 3000001,6",
+      "addItem 3000002,6",
+      "addItem 3000003,6",
+      "addItem 3000004,6",
+      "addItem 3000005,6",
+      "addItem 3000006,6",
+      "addItem 3000007,6",
+      "addItem 3000008,6",
+      "addItem 3000009,6",
+      "addItem 3000010,6",
+      "addItem 3000011,6",
+      "addItem 3000012,6",
+      "addItem 3000013,6",
+      "addItem 3000014,6",
+      "addItem 3000015,6",
+      "addItem 3000016,6",
+      "addItem 3000017,6",
+      "addItem 3000018,6",
+      "addItem 3000019,6",
+      "addItem 3000020,6",
+      "addItem 3000021,6",
+      "addItem 3000022,6",
+      "addItem 3000023,6",
+      "addItem 3000024,6",
+      "addItem 3000025,6",
+      "addItem 3000026,6",
+      "addItem 3000027,6",
+      "addItem 3000028,6",
+      "addItem 3000029,6",
+      "addItem 3000030,6",
+      "addItem 3000031,6",
+      "addItem 3000032,6",
+      "addItem 3000033,6",
+      "addItem 3000034,6",
+      "addItem 3000035,6",
+      "addItem 3000036,6",
+      "addItem 3000037,6",
+      "addItem 3000038,6",
+      "addItem 3000039,6",
+      "addItem 3000040,6",
+      "addItem 3000041,6",
+      "addItem 3000042,6",
+      "addItem 3000043,6",
+      "addItem 3000044,6",
+      "addItem 3000045,6",
+      "addItem 3000046,6",
+      "addItem 3000047,6",
+      "addItem 3000048,6",
+      "addItem 3000049,6",
+      "addItem 3000050,6"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "[day5]蒂娜（先点我1次！再在下方选择职业）",
@@ -1267,7 +2222,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip19",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 1",
+      "changeProfession 1",
+      "addEquipRecast 2000308,80,2",
+      "addEquipRecast 2010302,80,2",
+      "addEquipRecast 2020302,80,2",
+      "addEquipRecast 2030302,80,2",
+      "addEquipRecast 2040302,80,2",
+      "addEquipRecast 2060302,80,2",
+      "addEquipRecast 2070202,90,2",
+      "addEquipRecast 2050202,90,2",
+      "addEquipRecast 2080202,90,2",
+      "addEquipRecast 2090202,90,2",
+      "addEquipRecast 2100202,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day5-太刀-仅切职业和装备-清装备用cleanPackage 2",
@@ -1280,7 +2261,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip20",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 2",
+      "changeProfession 2",
+      "addEquipRecast 2000312,80,2",
+      "addEquipRecast 2010303,80,2",
+      "addEquipRecast 2020303,80,2",
+      "addEquipRecast 2030303,80,2",
+      "addEquipRecast 2040303,80,2",
+      "addEquipRecast 2060303,80,2",
+      "addEquipRecast 2070203,90,2",
+      "addEquipRecast 2050203,90,2",
+      "addEquipRecast 2080203,90,2",
+      "addEquipRecast 2090203,90,2",
+      "addEquipRecast 2100203,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day5-魔杖-仅切职业和装备-清装备用cleanPackage 2",
@@ -1293,7 +2300,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip21",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 4",
+      "changeProfession 4",
+      "addEquipRecast 2000316,80,2",
+      "addEquipRecast 2010301,80,2",
+      "addEquipRecast 2020301,80,2",
+      "addEquipRecast 2030301,80,2",
+      "addEquipRecast 2040301,80,2",
+      "addEquipRecast 2060301,80,2",
+      "addEquipRecast 2070201,90,2",
+      "addEquipRecast 2050201,90,2",
+      "addEquipRecast 2080201,90,2",
+      "addEquipRecast 2090201,90,2",
+      "addEquipRecast 2100201,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day5-长枪-仅切职业和装备-清装备用cleanPackage 2",
@@ -1306,7 +2339,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip22",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 5",
+      "changeProfession 5",
+      "addEquipRecast 2000320,80,2",
+      "addEquipRecast 2010303,80,2",
+      "addEquipRecast 2020303,80,2",
+      "addEquipRecast 2030303,80,2",
+      "addEquipRecast 2040303,80,2",
+      "addEquipRecast 2060303,80,2",
+      "addEquipRecast 2070203,90,2",
+      "addEquipRecast 2050203,90,2",
+      "addEquipRecast 2080203,90,2",
+      "addEquipRecast 2090203,90,2",
+      "addEquipRecast 2100203,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day5-法环-仅切职业和装备-清装备用cleanPackage 2",
@@ -1319,7 +2378,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip23",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 9",
+      "changeProfession 9",
+      "addEquipRecast 2000324,80,2",
+      "addEquipRecast 2010301,80,2",
+      "addEquipRecast 2020301,80,2",
+      "addEquipRecast 2030301,80,2",
+      "addEquipRecast 2040301,80,2",
+      "addEquipRecast 2060301,80,2",
+      "addEquipRecast 2070201,90,2",
+      "addEquipRecast 2050201,90,2",
+      "addEquipRecast 2080201,90,2",
+      "addEquipRecast 2090201,90,2",
+      "addEquipRecast 2100201,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day5-卫刃-仅切职业和装备-清装备用cleanPackage 2",
@@ -1332,7 +2417,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip24",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 11",
+      "changeProfession 11",
+      "addEquipRecast 2000328,80,2",
+      "addEquipRecast 2010302,80,2",
+      "addEquipRecast 2020302,80,2",
+      "addEquipRecast 2030302,80,2",
+      "addEquipRecast 2040302,80,2",
+      "addEquipRecast 2060302,80,2",
+      "addEquipRecast 2070202,90,2",
+      "addEquipRecast 2050202,90,2",
+      "addEquipRecast 2080202,90,2",
+      "addEquipRecast 2090202,90,2",
+      "addEquipRecast 2100202,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day5-弓箭-仅切职业和装备-清装备用cleanPackage 2",
@@ -1345,7 +2456,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip25",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 12",
+      "changeProfession 12",
+      "addEquipRecast 2000332,80,2",
+      "addEquipRecast 2010301,80,2",
+      "addEquipRecast 2020301,80,2",
+      "addEquipRecast 2030301,80,2",
+      "addEquipRecast 2040301,80,2",
+      "addEquipRecast 2060301,80,2",
+      "addEquipRecast 2070201,90,2",
+      "addEquipRecast 2050201,90,2",
+      "addEquipRecast 2080201,90,2",
+      "addEquipRecast 2090201,90,2",
+      "addEquipRecast 2100201,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day5-剑盾-仅切职业和装备-清装备用cleanPackage 2",
@@ -1358,7 +2495,67 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip26",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 201,108045000",
+      "unlockAllFunctions",
+      "sendAward 1210",
+      "sendAward 1240",
+      "sendAward 1260",
+      "addItem 1020054,1000",
+      "addItem 1020055,1000",
+      "addItem 1020056,1000",
+      "addItem 30001,27",
+      "addItem 3000001,6",
+      "addItem 3000002,6",
+      "addItem 3000003,6",
+      "addItem 3000004,6",
+      "addItem 3000005,6",
+      "addItem 3000006,6",
+      "addItem 3000007,6",
+      "addItem 3000008,6",
+      "addItem 3000009,6",
+      "addItem 3000010,6",
+      "addItem 3000011,6",
+      "addItem 3000012,6",
+      "addItem 3000013,6",
+      "addItem 3000014,6",
+      "addItem 3000015,6",
+      "addItem 3000016,6",
+      "addItem 3000017,6",
+      "addItem 3000018,6",
+      "addItem 3000019,6",
+      "addItem 3000020,6",
+      "addItem 3000021,6",
+      "addItem 3000022,6",
+      "addItem 3000023,6",
+      "addItem 3000024,6",
+      "addItem 3000025,6",
+      "addItem 3000026,6",
+      "addItem 3000027,6",
+      "addItem 3000028,6",
+      "addItem 3000029,6",
+      "addItem 3000030,6",
+      "addItem 3000031,6",
+      "addItem 3000032,6",
+      "addItem 3000033,6",
+      "addItem 3000034,6",
+      "addItem 3000035,6",
+      "addItem 3000036,6",
+      "addItem 3000037,6",
+      "addItem 3000038,6",
+      "addItem 3000039,6",
+      "addItem 3000040,6",
+      "addItem 3000041,6",
+      "addItem 3000042,6",
+      "addItem 3000043,6",
+      "addItem 3000044,6",
+      "addItem 3000045,6",
+      "addItem 3000046,6",
+      "addItem 3000047,6",
+      "addItem 3000048,6",
+      "addItem 3000049,6",
+      "addItem 3000050,6"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "[day7]巨塔（先点我1次！再在下方选择职业）",
@@ -1371,7 +2568,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip27",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 1",
+      "changeProfession 1",
+      "addEquipRecast 2000308,80,2",
+      "addEquipRecast 2010312,80,2",
+      "addEquipRecast 2020302,80,2",
+      "addEquipRecast 2030302,80,2",
+      "addEquipRecast 2040302,80,2",
+      "addEquipRecast 2060302,80,2",
+      "addEquipRecast 2070302,80,2",
+      "addEquipRecast 2050202,90,2",
+      "addEquipRecast 2080202,90,2",
+      "addEquipRecast 2090202,90,2",
+      "addEquipRecast 2100202,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day7-太刀-仅切职业和装备-清装备用cleanPackage 2",
@@ -1384,7 +2607,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip28",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 2",
+      "changeProfession 2",
+      "addEquipRecast 2000312,80,2",
+      "addEquipRecast 2010314,80,2",
+      "addEquipRecast 2020303,80,2",
+      "addEquipRecast 2030303,80,2",
+      "addEquipRecast 2040303,80,2",
+      "addEquipRecast 2060303,80,2",
+      "addEquipRecast 2070303,80,2",
+      "addEquipRecast 2050203,90,2",
+      "addEquipRecast 2080203,90,2",
+      "addEquipRecast 2090203,90,2",
+      "addEquipRecast 2100203,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day7-魔杖-仅切职业和装备-清装备用cleanPackage 2",
@@ -1397,7 +2646,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip29",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 4",
+      "changeProfession 4",
+      "addEquipRecast 2000316,80,2",
+      "addEquipRecast 2010304,80,2",
+      "addEquipRecast 2020301,80,2",
+      "addEquipRecast 2030301,80,2",
+      "addEquipRecast 2040301,80,2",
+      "addEquipRecast 2060301,80,2",
+      "addEquipRecast 2070301,80,2",
+      "addEquipRecast 2050201,90,2",
+      "addEquipRecast 2080201,90,2",
+      "addEquipRecast 2090201,90,2",
+      "addEquipRecast 2100201,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day7-长枪-仅切职业和装备-清装备用cleanPackage 2",
@@ -1410,7 +2685,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip30",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 5",
+      "changeProfession 5",
+      "addEquipRecast 2000320,80,2",
+      "addEquipRecast 2010314,80,2",
+      "addEquipRecast 2020303,80,2",
+      "addEquipRecast 2030303,80,2",
+      "addEquipRecast 2040303,80,2",
+      "addEquipRecast 2060303,80,2",
+      "addEquipRecast 2070303,80,2",
+      "addEquipRecast 2050203,90,2",
+      "addEquipRecast 2080203,90,2",
+      "addEquipRecast 2090203,90,2",
+      "addEquipRecast 2100203,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day7-法环-仅切职业和装备-清装备用cleanPackage 2",
@@ -1423,7 +2724,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip31",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 9",
+      "changeProfession 9",
+      "addEquipRecast 2000324,80,2",
+      "addEquipRecast 2010304,80,2",
+      "addEquipRecast 2020301,80,2",
+      "addEquipRecast 2030301,80,2",
+      "addEquipRecast 2040301,80,2",
+      "addEquipRecast 2060301,80,2",
+      "addEquipRecast 2070301,80,2",
+      "addEquipRecast 2050201,90,2",
+      "addEquipRecast 2080201,90,2",
+      "addEquipRecast 2090201,90,2",
+      "addEquipRecast 2100201,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day7-卫刃-仅切职业和装备-清装备用cleanPackage 2",
@@ -1436,7 +2763,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip32",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 11",
+      "changeProfession 11",
+      "addEquipRecast 2000328,80,2",
+      "addEquipRecast 2010312,80,2",
+      "addEquipRecast 2020302,80,2",
+      "addEquipRecast 2030302,80,2",
+      "addEquipRecast 2040302,80,2",
+      "addEquipRecast 2060302,80,2",
+      "addEquipRecast 2070302,80,2",
+      "addEquipRecast 2050202,90,2",
+      "addEquipRecast 2080202,90,2",
+      "addEquipRecast 2090202,90,2",
+      "addEquipRecast 2100202,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day7-弓箭-仅切职业和装备-清装备用cleanPackage 2",
@@ -1449,7 +2802,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip33",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 12",
+      "changeProfession 12",
+      "addEquipRecast 2000332,80,2",
+      "addEquipRecast 2010304,80,2",
+      "addEquipRecast 2020301,80,2",
+      "addEquipRecast 2030301,80,2",
+      "addEquipRecast 2040301,80,2",
+      "addEquipRecast 2060301,80,2",
+      "addEquipRecast 2070301,80,2",
+      "addEquipRecast 2050201,90,2",
+      "addEquipRecast 2080201,90,2",
+      "addEquipRecast 2090201,90,2",
+      "addEquipRecast 2100201,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day7-剑盾-仅切职业和装备-清装备用cleanPackage 2",
@@ -1462,7 +2841,67 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip34",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 201,161895000",
+      "unlockAllFunctions",
+      "sendAward 1210",
+      "sendAward 1240",
+      "sendAward 1260",
+      "addItem 1020054,1000",
+      "addItem 1020055,1000",
+      "addItem 1020056,1000",
+      "addItem 30001,33",
+      "addItem 3000001,6",
+      "addItem 3000002,6",
+      "addItem 3000003,6",
+      "addItem 3000004,6",
+      "addItem 3000005,6",
+      "addItem 3000006,6",
+      "addItem 3000007,6",
+      "addItem 3000008,6",
+      "addItem 3000009,6",
+      "addItem 3000010,6",
+      "addItem 3000011,6",
+      "addItem 3000012,6",
+      "addItem 3000013,6",
+      "addItem 3000014,6",
+      "addItem 3000015,6",
+      "addItem 3000016,6",
+      "addItem 3000017,6",
+      "addItem 3000018,6",
+      "addItem 3000019,6",
+      "addItem 3000020,6",
+      "addItem 3000021,6",
+      "addItem 3000022,6",
+      "addItem 3000023,6",
+      "addItem 3000024,6",
+      "addItem 3000025,6",
+      "addItem 3000026,6",
+      "addItem 3000027,6",
+      "addItem 3000028,6",
+      "addItem 3000029,6",
+      "addItem 3000030,6",
+      "addItem 3000031,6",
+      "addItem 3000032,6",
+      "addItem 3000033,6",
+      "addItem 3000034,6",
+      "addItem 3000035,6",
+      "addItem 3000036,6",
+      "addItem 3000037,6",
+      "addItem 3000038,6",
+      "addItem 3000039,6",
+      "addItem 3000040,6",
+      "addItem 3000041,6",
+      "addItem 3000042,6",
+      "addItem 3000043,6",
+      "addItem 3000044,6",
+      "addItem 3000045,6",
+      "addItem 3000046,6",
+      "addItem 3000047,6",
+      "addItem 3000048,6",
+      "addItem 3000049,6",
+      "addItem 3000050,6"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "[day11]卡尼曼（先点我1次！再在下方选择职业）",
@@ -1475,7 +2914,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip35",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 1",
+      "changeProfession 1",
+      "addEquipRecast 2000308,85,2",
+      "addEquipRecast 2010312,85,2",
+      "addEquipRecast 2020310,85,2",
+      "addEquipRecast 2030312,85,2",
+      "addEquipRecast 2040306,85,2",
+      "addEquipRecast 2060312,85,2",
+      "addEquipRecast 2070312,85,2",
+      "addEquipRecast 2050306,85,2",
+      "addEquipRecast 2080302,80,2",
+      "addEquipRecast 2090302,80,2",
+      "addEquipRecast 2100302,80,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day11-太刀-仅切职业和装备-清装备用cleanPackage 2",
@@ -1488,7 +2953,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip36",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 2",
+      "changeProfession 2",
+      "addEquipRecast 2000312,85,2",
+      "addEquipRecast 2010314,85,2",
+      "addEquipRecast 2020314,85,2",
+      "addEquipRecast 2030316,85,2",
+      "addEquipRecast 2040314,85,2",
+      "addEquipRecast 2060316,85,2",
+      "addEquipRecast 2070320,85,2",
+      "addEquipRecast 2050308,85,2",
+      "addEquipRecast 2080303,80,2",
+      "addEquipRecast 2090303,80,2",
+      "addEquipRecast 2100303,80,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day11-魔杖-仅切职业和装备-清装备用cleanPackage 2",
@@ -1501,7 +2992,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip37",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 4",
+      "changeProfession 4",
+      "addEquipRecast 2000316,85,2",
+      "addEquipRecast 2010304,85,2",
+      "addEquipRecast 2020304,85,2",
+      "addEquipRecast 2030304,85,2",
+      "addEquipRecast 2040304,85,2",
+      "addEquipRecast 2060304,85,2",
+      "addEquipRecast 2070304,85,2",
+      "addEquipRecast 2050304,85,2",
+      "addEquipRecast 2080301,80,2",
+      "addEquipRecast 2090301,80,2",
+      "addEquipRecast 2100301,80,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day11-长枪-仅切职业和装备-清装备用cleanPackage 2",
@@ -1514,7 +3031,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip38",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 5",
+      "changeProfession 5",
+      "addEquipRecast 2000320,85,2",
+      "addEquipRecast 2010314,85,2",
+      "addEquipRecast 2020314,85,2",
+      "addEquipRecast 2030316,85,2",
+      "addEquipRecast 2040314,85,2",
+      "addEquipRecast 2060316,85,2",
+      "addEquipRecast 2070320,85,2",
+      "addEquipRecast 2050308,85,2",
+      "addEquipRecast 2080303,80,2",
+      "addEquipRecast 2090303,80,2",
+      "addEquipRecast 2100303,80,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day11-法环-仅切职业和装备-清装备用cleanPackage 2",
@@ -1527,7 +3070,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip39",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 9",
+      "changeProfession 9",
+      "addEquipRecast 2000324,85,2",
+      "addEquipRecast 2010304,85,2",
+      "addEquipRecast 2020304,85,2",
+      "addEquipRecast 2030304,85,2",
+      "addEquipRecast 2040304,85,2",
+      "addEquipRecast 2060304,85,2",
+      "addEquipRecast 2070304,85,2",
+      "addEquipRecast 2050304,85,2",
+      "addEquipRecast 2080301,80,2",
+      "addEquipRecast 2090301,80,2",
+      "addEquipRecast 2100301,80,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day11-卫刃-仅切职业和装备-清装备用cleanPackage 2",
@@ -1540,7 +3109,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip40",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 11",
+      "changeProfession 11",
+      "addEquipRecast 2000328,85,2",
+      "addEquipRecast 2010312,85,2",
+      "addEquipRecast 2020310,85,2",
+      "addEquipRecast 2030312,85,2",
+      "addEquipRecast 2040306,85,2",
+      "addEquipRecast 2060312,85,2",
+      "addEquipRecast 2070312,85,2",
+      "addEquipRecast 2050306,85,2",
+      "addEquipRecast 2080302,80,2",
+      "addEquipRecast 2090302,80,2",
+      "addEquipRecast 2100302,80,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day11-弓箭-仅切职业和装备-清装备用cleanPackage 2",
@@ -1553,7 +3148,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip41",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 12",
+      "changeProfession 12",
+      "addEquipRecast 2000332,85,2",
+      "addEquipRecast 2010304,85,2",
+      "addEquipRecast 2020304,85,2",
+      "addEquipRecast 2030304,85,2",
+      "addEquipRecast 2040304,85,2",
+      "addEquipRecast 2060304,85,2",
+      "addEquipRecast 2070304,85,2",
+      "addEquipRecast 2050304,85,2",
+      "addEquipRecast 2080301,80,2",
+      "addEquipRecast 2090301,80,2",
+      "addEquipRecast 2100301,80,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day11-剑盾-仅切职业和装备-清装备用cleanPackage 2",
@@ -1566,7 +3187,76 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip42",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 201,217110000",
+      "unlockAllFunctions",
+      "sendAward 1210",
+      "sendAward 1240",
+      "sendAward 1260",
+      "addItem 1020054,1000",
+      "addItem 1020055,1000",
+      "addItem 1020056,1000",
+      "addItem 30001,37",
+      "addItem 5500101,20",
+      "addItem 5500102,20",
+      "addItem 5500103,20",
+      "addItem 5500201,20",
+      "addItem 5500202,20",
+      "addItem 5500203,20",
+      "addItem 5500301,20",
+      "addItem 5500302,20",
+      "addItem 5500303,20",
+      "addItem 3000001,6",
+      "addItem 3000002,6",
+      "addItem 3000003,6",
+      "addItem 3000004,6",
+      "addItem 3000005,6",
+      "addItem 3000006,6",
+      "addItem 3000007,6",
+      "addItem 3000008,6",
+      "addItem 3000009,6",
+      "addItem 3000010,6",
+      "addItem 3000011,6",
+      "addItem 3000012,6",
+      "addItem 3000013,6",
+      "addItem 3000014,6",
+      "addItem 3000015,6",
+      "addItem 3000016,6",
+      "addItem 3000017,6",
+      "addItem 3000018,6",
+      "addItem 3000019,6",
+      "addItem 3000020,6",
+      "addItem 3000021,6",
+      "addItem 3000022,6",
+      "addItem 3000023,6",
+      "addItem 3000024,6",
+      "addItem 3000025,6",
+      "addItem 3000026,6",
+      "addItem 3000027,6",
+      "addItem 3000028,6",
+      "addItem 3000029,6",
+      "addItem 3000030,6",
+      "addItem 3000031,6",
+      "addItem 3000032,6",
+      "addItem 3000033,6",
+      "addItem 3000034,6",
+      "addItem 3000035,6",
+      "addItem 3000036,6",
+      "addItem 3000037,6",
+      "addItem 3000038,6",
+      "addItem 3000039,6",
+      "addItem 3000040,6",
+      "addItem 3000041,6",
+      "addItem 3000042,6",
+      "addItem 3000043,6",
+      "addItem 3000044,6",
+      "addItem 3000045,6",
+      "addItem 3000046,6",
+      "addItem 3000047,6",
+      "addItem 3000048,6",
+      "addItem 3000049,6",
+      "addItem 3000050,6"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "[day17]龙爪（先点我1次！再在下方选择职业）",
@@ -1579,7 +3269,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip43",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 1",
+      "changeProfession 1",
+      "addEquipRecast 2000401,40,2",
+      "addEquipRecast 2010410,40,2",
+      "addEquipRecast 2020408,40,2",
+      "addEquipRecast 2030410,40,2",
+      "addEquipRecast 2040404,40,2",
+      "addEquipRecast 2060410,40,2",
+      "addEquipRecast 2070410,40,2",
+      "addEquipRecast 2050306,90,2",
+      "addEquipRecast 2080310,90,2",
+      "addEquipRecast 2090310,90,2",
+      "addEquipRecast 2100314,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day17-太刀-仅切职业和装备-清装备用cleanPackage 2",
@@ -1592,7 +3308,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip44",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 2",
+      "changeProfession 2",
+      "addEquipRecast 2000406,40,2",
+      "addEquipRecast 2010413,40,2",
+      "addEquipRecast 2020413,40,2",
+      "addEquipRecast 2030415,40,2",
+      "addEquipRecast 2040409,40,2",
+      "addEquipRecast 2060415,40,2",
+      "addEquipRecast 2070419,40,2",
+      "addEquipRecast 2050308,90,2",
+      "addEquipRecast 2080318,90,2",
+      "addEquipRecast 2090316,90,2",
+      "addEquipRecast 2100320,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day17-魔杖-仅切职业和装备-清装备用cleanPackage 2",
@@ -1605,7 +3347,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip45",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 4",
+      "changeProfession 4",
+      "addEquipRecast 2000411,40,2",
+      "addEquipRecast 2010401,40,2",
+      "addEquipRecast 2020401,40,2",
+      "addEquipRecast 2030401,40,2",
+      "addEquipRecast 2040401,40,2",
+      "addEquipRecast 2060401,40,2",
+      "addEquipRecast 2070401,40,2",
+      "addEquipRecast 2050304,90,2",
+      "addEquipRecast 2080304,90,2",
+      "addEquipRecast 2090304,90,2",
+      "addEquipRecast 2100304,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day17-长枪-仅切职业和装备-清装备用cleanPackage 2",
@@ -1618,7 +3386,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip46",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 5",
+      "changeProfession 5",
+      "addEquipRecast 2000416,40,2",
+      "addEquipRecast 2010413,40,2",
+      "addEquipRecast 2020413,40,2",
+      "addEquipRecast 2030415,40,2",
+      "addEquipRecast 2040409,40,2",
+      "addEquipRecast 2060415,40,2",
+      "addEquipRecast 2070419,40,2",
+      "addEquipRecast 2050308,90,2",
+      "addEquipRecast 2080318,90,2",
+      "addEquipRecast 2090316,90,2",
+      "addEquipRecast 2100320,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day17-法环-仅切职业和装备-清装备用cleanPackage 2",
@@ -1631,7 +3425,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip47",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 9",
+      "changeProfession 9",
+      "addEquipRecast 2000421,40,2",
+      "addEquipRecast 2010401,40,2",
+      "addEquipRecast 2020401,40,2",
+      "addEquipRecast 2030401,40,2",
+      "addEquipRecast 2040401,40,2",
+      "addEquipRecast 2060401,40,2",
+      "addEquipRecast 2070401,40,2",
+      "addEquipRecast 2050304,90,2",
+      "addEquipRecast 2080304,90,2",
+      "addEquipRecast 2090304,90,2",
+      "addEquipRecast 2100304,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day17-卫刃-仅切职业和装备-清装备用cleanPackage 2",
@@ -1644,7 +3464,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip48",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 11",
+      "changeProfession 11",
+      "addEquipRecast 2000426,40,2",
+      "addEquipRecast 2010410,40,2",
+      "addEquipRecast 2020408,40,2",
+      "addEquipRecast 2030410,40,2",
+      "addEquipRecast 2040404,40,2",
+      "addEquipRecast 2060410,40,2",
+      "addEquipRecast 2070410,40,2",
+      "addEquipRecast 2050306,90,2",
+      "addEquipRecast 2080310,90,2",
+      "addEquipRecast 2090310,90,2",
+      "addEquipRecast 2100314,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day17-弓箭-仅切职业和装备-清装备用cleanPackage 2",
@@ -1657,7 +3503,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip49",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 12",
+      "changeProfession 12",
+      "addEquipRecast 2000431,40,2",
+      "addEquipRecast 2010401,40,2",
+      "addEquipRecast 2020401,40,2",
+      "addEquipRecast 2030401,40,2",
+      "addEquipRecast 2040401,40,2",
+      "addEquipRecast 2060401,40,2",
+      "addEquipRecast 2070401,40,2",
+      "addEquipRecast 2050304,90,2",
+      "addEquipRecast 2080304,90,2",
+      "addEquipRecast 2090304,90,2",
+      "addEquipRecast 2100304,90,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day17-剑盾-仅切职业和装备-清装备用cleanPackage 2",
@@ -1670,7 +3542,76 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip50",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 201,217110000",
+      "unlockAllFunctions",
+      "sendAward 1210",
+      "sendAward 1240",
+      "sendAward 1260",
+      "addItem 1020054,1000",
+      "addItem 1020055,1000",
+      "addItem 1020056,1000",
+      "addItem 30001,37",
+      "addItem 5500101,20",
+      "addItem 5500102,20",
+      "addItem 5500103,20",
+      "addItem 5500201,20",
+      "addItem 5500202,20",
+      "addItem 5500203,20",
+      "addItem 5500301,20",
+      "addItem 5500302,20",
+      "addItem 5500303,20",
+      "addItem 3000001,6",
+      "addItem 3000002,6",
+      "addItem 3000003,6",
+      "addItem 3000004,6",
+      "addItem 3000005,6",
+      "addItem 3000006,6",
+      "addItem 3000007,6",
+      "addItem 3000008,6",
+      "addItem 3000009,6",
+      "addItem 3000010,6",
+      "addItem 3000011,6",
+      "addItem 3000012,6",
+      "addItem 3000013,6",
+      "addItem 3000014,6",
+      "addItem 3000015,6",
+      "addItem 3000016,6",
+      "addItem 3000017,6",
+      "addItem 3000018,6",
+      "addItem 3000019,6",
+      "addItem 3000020,6",
+      "addItem 3000021,6",
+      "addItem 3000022,6",
+      "addItem 3000023,6",
+      "addItem 3000024,6",
+      "addItem 3000025,6",
+      "addItem 3000026,6",
+      "addItem 3000027,6",
+      "addItem 3000028,6",
+      "addItem 3000029,6",
+      "addItem 3000030,6",
+      "addItem 3000031,6",
+      "addItem 3000032,6",
+      "addItem 3000033,6",
+      "addItem 3000034,6",
+      "addItem 3000035,6",
+      "addItem 3000036,6",
+      "addItem 3000037,6",
+      "addItem 3000038,6",
+      "addItem 3000039,6",
+      "addItem 3000040,6",
+      "addItem 3000041,6",
+      "addItem 3000042,6",
+      "addItem 3000043,6",
+      "addItem 3000044,6",
+      "addItem 3000045,6",
+      "addItem 3000046,6",
+      "addItem 3000047,6",
+      "addItem 3000048,6",
+      "addItem 3000049,6",
+      "addItem 3000050,6"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "[day22]MMM本（先点我1次！再在下方选择职业）",
@@ -1683,7 +3624,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip51",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 1",
+      "changeProfession 1",
+      "addEquipRecast 2000436,100,2",
+      "addEquipRecast 2010411,100,2",
+      "addEquipRecast 2020409,100,2",
+      "addEquipRecast 2030411,100,2",
+      "addEquipRecast 2040405,100,2",
+      "addEquipRecast 2060423,100,2",
+      "addEquipRecast 2070425,100,2",
+      "addEquipRecast 2050419,100,2",
+      "addEquipRecast 2080409,100,2",
+      "addEquipRecast 2090409,100,2",
+      "addEquipRecast 2100427,100,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day22-太刀-仅切职业和装备-清装备用cleanPackage 2",
@@ -1696,7 +3663,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip52",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 2",
+      "changeProfession 2",
+      "addEquipRecast 2000437,100,2",
+      "addEquipRecast 2010414,100,2",
+      "addEquipRecast 2020414,100,2",
+      "addEquipRecast 2030416,100,2",
+      "addEquipRecast 2040414,100,2",
+      "addEquipRecast 2060425,100,2",
+      "addEquipRecast 2070427,100,2",
+      "addEquipRecast 2050421,100,2",
+      "addEquipRecast 2080418,100,2",
+      "addEquipRecast 2090416,100,2",
+      "addEquipRecast 2100429,100,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day22-魔杖-仅切职业和装备-清装备用cleanPackage 2",
@@ -1709,7 +3702,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip53",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 4",
+      "changeProfession 4",
+      "addEquipRecast 2000438,100,2",
+      "addEquipRecast 2010402,100,2",
+      "addEquipRecast 2020402,100,2",
+      "addEquipRecast 2030402,100,2",
+      "addEquipRecast 2040402,100,2",
+      "addEquipRecast 2060420,100,2",
+      "addEquipRecast 2070422,100,2",
+      "addEquipRecast 2050416,100,2",
+      "addEquipRecast 2080402,100,2",
+      "addEquipRecast 2090402,100,2",
+      "addEquipRecast 2100424,100,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day22-长枪-仅切职业和装备-清装备用cleanPackage 2",
@@ -1722,7 +3741,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip54",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 5",
+      "changeProfession 5",
+      "addEquipRecast 2000439,100,2",
+      "addEquipRecast 2010414,100,2",
+      "addEquipRecast 2020414,100,2",
+      "addEquipRecast 2030416,100,2",
+      "addEquipRecast 2040414,100,2",
+      "addEquipRecast 2060426,100,2",
+      "addEquipRecast 2070428,100,2",
+      "addEquipRecast 2050422,100,2",
+      "addEquipRecast 2080418,100,2",
+      "addEquipRecast 2090416,100,2",
+      "addEquipRecast 2100430,100,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day22-法环-仅切职业和装备-清装备用cleanPackage 2",
@@ -1735,7 +3780,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip55",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 9",
+      "changeProfession 9",
+      "addEquipRecast 2000440,100,2",
+      "addEquipRecast 2010402,100,2",
+      "addEquipRecast 2020402,100,2",
+      "addEquipRecast 2030402,100,2",
+      "addEquipRecast 2040402,100,2",
+      "addEquipRecast 2060421,100,2",
+      "addEquipRecast 2070423,100,2",
+      "addEquipRecast 2050417,100,2",
+      "addEquipRecast 2080402,100,2",
+      "addEquipRecast 2090402,100,2",
+      "addEquipRecast 2100425,100,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day22-卫刃-仅切职业和装备-清装备用cleanPackage 2",
@@ -1748,7 +3819,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip56",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 11",
+      "changeProfession 11",
+      "addEquipRecast 2000441,100,2",
+      "addEquipRecast 2010411,100,2",
+      "addEquipRecast 2020409,100,2",
+      "addEquipRecast 2030411,100,2",
+      "addEquipRecast 2040405,100,2",
+      "addEquipRecast 2060424,100,2",
+      "addEquipRecast 2070426,100,2",
+      "addEquipRecast 2050420,100,2",
+      "addEquipRecast 2080409,100,2",
+      "addEquipRecast 2090409,100,2",
+      "addEquipRecast 2100428,100,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day22-弓箭-仅切职业和装备-清装备用cleanPackage 2",
@@ -1761,7 +3858,33 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "cbtequip57",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "takeoffEquip 200",
+      "takeoffEquip 201",
+      "takeoffEquip 202",
+      "takeoffEquip 203",
+      "takeoffEquip 204",
+      "takeoffEquip 205",
+      "takeoffEquip 206",
+      "takeoffEquip 207",
+      "takeoffEquip 208",
+      "takeoffEquip 209",
+      "takeoffEquip 210",
+      "addProfession 12",
+      "changeProfession 12",
+      "addEquipRecast 2000442,100,2",
+      "addEquipRecast 2010402,100,2",
+      "addEquipRecast 2020402,100,2",
+      "addEquipRecast 2030402,100,2",
+      "addEquipRecast 2040402,100,2",
+      "addEquipRecast 2060422,100,2",
+      "addEquipRecast 2070424,100,2",
+      "addEquipRecast 2050418,100,2",
+      "addEquipRecast 2080402,100,2",
+      "addEquipRecast 2090402,100,2",
+      "addEquipRecast 2100426,100,2",
+      "putOnAllBestEquip"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "day22-剑盾-仅切职业和装备-清装备用cleanPackage 2",
@@ -1774,7 +3897,11 @@
     "GMGroup": 2,
     "Type": 2,
     "Command": "singleplus",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 500103",
+      "addGMAttr 11332|10000000",
+      "addGMAttr 11342|10000000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "单人测试副本用",
@@ -1784,14 +3911,196 @@
     "AuToClose": false,
     "OnOff": false
   },
+  "2088": {
+    "Id": 2088,
+    "GMGroup": 2,
+    "Type": 2,
+    "Command": "knmboss",
+    "ParameterOrContent": [
+      "triggerSceneCustomEvent test_soulboss_fast_born",
+      "moveSelf 75.82,506.72,8.54"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "Wraith Shrine Boss Fight (In the dungeon of Wraith Shrine)",
+    "CommandOrParameterRemark": [
+      "Teleport to Boss"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2089": {
+    "Id": 2089,
+    "GMGroup": 2,
+    "Type": 2,
+    "Command": "snakeBOSS",
+    "ParameterOrContent": [
+      "moveSelf -48,102,200"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "Rock Serpent Boss Fight (In the dungeon of Rock Serpent)",
+    "CommandOrParameterRemark": [
+      "Teleport to Rock Serpent Boss"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2090": {
+    "Id": 2090,
+    "GMGroup": 2,
+    "Type": 2,
+    "Command": "nappoboss",
+    "ParameterOrContent": [
+      "triggerSceneCustomEvent nappo_test"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "Illusory Bloom Boss Fight (In the dungeon of Illusory Bloom)",
+    "CommandOrParameterRemark": [
+      "Teleport to Plague Nappo Boss"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2091": {
+    "Id": 2091,
+    "GMGroup": 2,
+    "Type": 2,
+    "Command": "snakeZaiJu",
+    "ParameterOrContent": [
+      "triggerSceneCustomEvent testzaiju",
+      "dungeonSetStageTarget 1501014"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "Rock Serpent Mount Sequence (In the dungeon of Rock Serpent)",
+    "CommandOrParameterRemark": [],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2092": {
+    "Id": 2092,
+    "GMGroup": 2,
+    "Type": 2,
+    "Command": "mengyanBOSS",
+    "ParameterOrContent": [
+      "triggerSceneCustomEvent test_mengyan_fast_born",
+      "moveSelf 75,117,-118"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "Depths of Decay Boss Fight (In the dungeon of Depths of Decay)",
+    "CommandOrParameterRemark": [],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2093": {
+    "Id": 2093,
+    "GMGroup": 2,
+    "Type": 3,
+    "Command": "GMRogueRandom",
+    "ParameterOrContent": [
+      "objUuid"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [
+      "number"
+    ],
+    "ButtonShow": "Random Entry",
+    "CommandOrParameterRemark": [
+      "Random Entry",
+      "Interactable Object UUID"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2094": {
+    "Id": 2094,
+    "GMGroup": 2,
+    "Type": 3,
+    "Command": "GMRogueGetCoin",
+    "ParameterOrContent": [],
+    "OptionalParameter": [
+      "targetUuid"
+    ],
+    "ParameterCheck": [
+      "number"
+    ],
+    "ButtonShow": "Obtain Currency",
+    "CommandOrParameterRemark": [
+      "Obtain Currency",
+      "[Target UUID.0]"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2095": {
+    "Id": 2095,
+    "GMGroup": 2,
+    "Type": 3,
+    "Command": "GMRogueSetRandom",
+    "ParameterOrContent": [
+      "entryId"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [
+      "number"
+    ],
+    "ButtonShow": "Set Next Random Result",
+    "CommandOrParameterRemark": [
+      "Set Next Random Result",
+      "Entry ID"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2096": {
+    "Id": 2096,
+    "GMGroup": 2,
+    "Type": 3,
+    "Command": "GMRogueChangeCoin",
+    "ParameterOrContent": [
+      "coinId",
+      "val"
+    ],
+    "OptionalParameter": [
+      "targetUuid"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
+    "ButtonShow": "Change Currency",
+    "CommandOrParameterRemark": [
+      "Change Currency",
+      "Currency Variable ID, Change Value, [Target UUID.0]"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
   "3001": {
     "Id": 3001,
     "GMGroup": 3,
     "Type": 3,
     "Command": "addMonsterUseSkill",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "monsterid",
+      "skillid"
+    ],
+    "OptionalParameter": [
+      "x 0",
+      "y 0",
+      "z 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "怪物使用技能",
     "CommandOrParameterRemark": [
       "添加怪物释放指定技能",
@@ -1805,9 +4114,13 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "addMonster",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "monsterid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "添加怪物",
     "CommandOrParameterRemark": [
       "添加monster至当前位置",
@@ -1821,9 +4134,20 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "addBuff",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "buffid"
+    ],
+    "OptionalParameter": [
+      "targetuuid 0",
+      "bufflay 0",
+      "buffduration 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加Buff效果",
     "CommandOrParameterRemark": [
       "添加效果至对象",
@@ -1837,9 +4161,16 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "delBuff",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "buffid"
+    ],
+    "OptionalParameter": [
+      "targetuuid 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "移除Buff效果",
     "CommandOrParameterRemark": [
       "移除对象上的效果",
@@ -1853,9 +4184,16 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "addGMAttr",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "attrs"
+    ],
+    "OptionalParameter": [
+      "targetuuid 0"
+    ],
+    "ParameterCheck": [
+      "string",
+      "number"
+    ],
     "ButtonShow": "增加属性",
     "CommandOrParameterRemark": [
       "增加属性",
@@ -1932,9 +4270,15 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "banAi",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "monsterUuid",
+      "isOpen"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "禁用/启用怪物AI",
     "CommandOrParameterRemark": [
       "禁用/启用怪物AI"
@@ -1948,8 +4292,16 @@
     "Type": 3,
     "Command": "showAttr",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "targetUuid 0",
+      "type 0",
+      "attrIds 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "string"
+    ],
     "ButtonShow": "显示角色属性",
     "CommandOrParameterRemark": [
       "显示角色属性(可在函数GMShowActorAttr自定义)",
@@ -1965,7 +4317,13 @@
     "GMGroup": 3,
     "Type": 2,
     "Command": "q1checkgm1",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "delBuff 1501001",
+      "delBuff 1501201",
+      "delBuff 1501301",
+      "delBuff 1501401",
+      "delBuff 1501501"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "清除所有属性修改",
@@ -1980,7 +4338,9 @@
     "GMGroup": 3,
     "Type": 2,
     "Command": "greedisgood",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 600201 0 1 0"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "战斗资源获取UP",
@@ -1995,9 +4355,15 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "setInOverdrive",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "targetuuid",
+      "status"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "设置激昂状态",
     "CommandOrParameterRemark": [
       "设置激昂状态至对象",
@@ -2011,9 +4377,13 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "setSkillNoneCD",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "status"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "设置技能无CD",
     "CommandOrParameterRemark": [
       "设置技能无CD",
@@ -2027,9 +4397,13 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "useSkill",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "skillid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "释放技能",
     "CommandOrParameterRemark": [
       "释放技能",
@@ -2043,9 +4417,13 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "changeProfession",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "professionId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "切换职业",
     "CommandOrParameterRemark": [
       "切换职业",
@@ -2059,9 +4437,13 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "killNpc",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "npcUuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "杀死NPC/怪物",
     "CommandOrParameterRemark": [
       "杀死NPC",
@@ -2090,7 +4472,17 @@
     "GMGroup": 3,
     "Type": 2,
     "Command": "ProfessionAll",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addProfession 1",
+      "addProfession 2",
+      "addProfession 3",
+      "addProfession 4",
+      "addProfession 5",
+      "addProfession 8",
+      "addProfession 9",
+      "addProfession 10",
+      "addProfession 11"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "解锁所有职业",
@@ -2105,7 +4497,11 @@
     "GMGroup": 3,
     "Type": 2,
     "Command": "whosyourdaddy",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 521001 0 1 0",
+      "addGMAttr 11332|10000000",
+      "addGMAttr 11342|10000000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "无敌",
@@ -2120,9 +4516,13 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "addProfession",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "profession"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "解锁职业",
     "CommandOrParameterRemark": [
       "解锁职业"
@@ -2135,9 +4535,17 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "addShield",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "shieldType",
+      "value",
+      "time"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加护盾",
     "CommandOrParameterRemark": [
       "护盾类型",
@@ -2152,9 +4560,13 @@
     "GMGroup": 3,
     "Type": 1,
     "Command": "openUI",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "functionid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "打开UI",
     "CommandOrParameterRemark": [
       "打开指定UI界面",
@@ -2168,7 +4580,11 @@
     "GMGroup": 3,
     "Type": 2,
     "Command": "single",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 500103",
+      "addGMAttr 11332|5000",
+      "addGMAttr 11342|5000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "单人测试副本用",
@@ -2183,9 +4599,22 @@
     "GMGroup": 3,
     "Type": 3,
     "Command": "monsterForceUseSkill",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "monsterid",
+      "skillid"
+    ],
+    "OptionalParameter": [
+      "x 0",
+      "y 0",
+      "z 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "怪物无CD 使用技能",
     "CommandOrParameterRemark": [
       "怪物无CD 释放指定技能",
@@ -2200,8 +4629,12 @@
     "Type": 3,
     "Command": "revive",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "reviveid 0"
+    ],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "复活",
     "CommandOrParameterRemark": [
       "复活"
@@ -2214,7 +4647,9 @@
     "GMGroup": 3,
     "Type": 2,
     "Command": "lockhp",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 500103"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "单人测试副本用",
@@ -2229,7 +4664,9 @@
     "GMGroup": 3,
     "Type": 2,
     "Command": "justSkill",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "delBuff 681701"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "主城允许释放技能",
@@ -2244,7 +4681,11 @@
     "GMGroup": 3,
     "Type": 2,
     "Command": "clearWudi",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "delBuff 521001",
+      "addGMAttr 11332|-10000000",
+      "addGMAttr 11342|-10000000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "清除无敌效果",
@@ -2259,9 +4700,15 @@
     "GMGroup": 3,
     "Type": 1,
     "Command": "switchEntityShowState",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "uuid",
+      "showState"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "修改实体表现状态",
     "CommandOrParameterRemark": [
       "修改实体表现状态，实体uuid",
@@ -2305,7 +4752,9 @@
     "GMGroup": 4,
     "Type": 2,
     "Command": "goToDina",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "enterDungeon 1001"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "进入副本营救蒂娜",
@@ -2320,7 +4769,9 @@
     "GMGroup": 4,
     "Type": 2,
     "Command": "runspeed",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addGMAttr 10212|50000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "跑图专用",
@@ -2335,7 +4786,9 @@
     "GMGroup": 4,
     "Type": 3,
     "Command": "changeDungeonStateEnd",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "changeDungeonStateEnd 1"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "副本强制进入结算",
@@ -2352,7 +4805,9 @@
     "GMGroup": 4,
     "Type": 3,
     "Command": "openMemoryDungeon",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "roomid"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "解锁大秘境关卡（参数填0解锁所有，填具体数字解锁单个房间）",
@@ -2367,9 +4822,13 @@
     "GMGroup": 4,
     "Type": 3,
     "Command": "dungeonSetStageTarget",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "targetId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "修改副本目标id",
     "CommandOrParameterRemark": [
       "修改副本目标id"
@@ -2412,9 +4871,13 @@
     "GMGroup": 4,
     "Type": 3,
     "Command": "affixRerandom",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "poolId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "重新随机当前场景的词缀",
     "CommandOrParameterRemark": [
       "重新随机当前场景的词缀",
@@ -2428,9 +4891,13 @@
     "GMGroup": 4,
     "Type": 3,
     "Command": "affixRerandomShow",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "poolId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "执行某个随机库的随机结果并输出日志",
     "CommandOrParameterRemark": [
       "执行某个随机库的随机结果并输出日志",
@@ -2445,8 +4912,12 @@
     "Type": 3,
     "Command": "affixActorEnterScene",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "targetuuid"
+    ],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "主动触发某个Actor的enterScene事件",
     "CommandOrParameterRemark": [
       "主动触发某个Actor的enterScene事件",
@@ -2475,9 +4946,13 @@
     "GMGroup": 4,
     "Type": 3,
     "Command": "runSceneAction",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "index"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "触发关卡事件",
     "CommandOrParameterRemark": [
       "触发关卡事件"
@@ -2490,9 +4965,13 @@
     "GMGroup": 4,
     "Type": 1,
     "Command": "showCutscene",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "cutsceneid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "播放过场动画",
     "CommandOrParameterRemark": [
       "播放过场动画",
@@ -2506,9 +4985,13 @@
     "GMGroup": 4,
     "Type": 1,
     "Command": "stopCutscene",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "cutsceneid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "结束过场动画",
     "CommandOrParameterRemark": [
       "结束过场动画",
@@ -2522,9 +5005,13 @@
     "GMGroup": 4,
     "Type": 1,
     "Command": "triggerOptionSelect",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "evName"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "执行交互模板事件",
     "CommandOrParameterRemark": [
       "执行交互模板事件 前后端都会触发，会执行后端OnUserDoAction以及前端OnOptionSelect"
@@ -2537,7 +5024,9 @@
     "GMGroup": 4,
     "Type": 2,
     "Command": "xinshouBoss",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "moveSelf -16,146,233"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "直接传送到新手BOSS房间（需在新手场景内）",
@@ -2552,9 +5041,13 @@
     "GMGroup": 4,
     "Type": 3,
     "Command": "triggerSceneCustomEvent",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "index"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "Trigger customized level events",
     "CommandOrParameterRemark": [
       "Trigger customized level events"
@@ -2567,9 +5060,18 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "addEquip",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "itemid"
+    ],
+    "OptionalParameter": [
+      "gs 100",
+      "bind 1"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加装备",
     "CommandOrParameterRemark": [
       "添加装备",
@@ -2583,9 +5085,18 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "washAttr",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "itemuuid"
+    ],
+    "OptionalParameter": [
+      "index 0",
+      "washitem 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "洗练属性",
     "CommandOrParameterRemark": [
       "洗练属性"
@@ -2598,9 +5109,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "confirmWashAttr",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "itemuuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "保存洗练属性",
     "CommandOrParameterRemark": [
       "保存洗练属性"
@@ -2613,9 +5128,15 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "putonEquip",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "slot",
+      "itemuuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "穿装备",
     "CommandOrParameterRemark": [
       "穿装备",
@@ -2630,9 +5151,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "takeoffEquip",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "slot"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "脱装备",
     "CommandOrParameterRemark": [
       "脱装备",
@@ -2646,9 +5171,15 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "setDurability",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "itemuuid",
+      "durability"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "设置耐久度",
     "CommandOrParameterRemark": [
       "设置耐久度",
@@ -2662,9 +5193,15 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "equipCopy",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "itemuuid",
+      "itemuuid2"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "装备转移",
     "CommandOrParameterRemark": [
       "装备转移"
@@ -2677,9 +5214,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "equipBreach",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "itemuuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "装备突破",
     "CommandOrParameterRemark": [
       "装备突破",
@@ -2693,12 +5234,18 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "equipDecompose",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "itemuuid",
+      "itemuuid2"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
-    "ButtonShow": "装备分解",
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
+    "ButtonShow": "Dismantle",
     "CommandOrParameterRemark": [
-      "装备分解"
+      "Dismantle"
     ],
     "AuToClose": false,
     "OnOff": false
@@ -2708,9 +5255,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "modDecompose",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "itemuuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "mod分解",
     "CommandOrParameterRemark": [
       "mod分解"
@@ -2723,9 +5274,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "dropItem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "monsterid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "掉落物品",
     "CommandOrParameterRemark": [
       "掉落指定怪物的掉落物",
@@ -2739,9 +5294,18 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "addItem",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "itemid"
+    ],
+    "OptionalParameter": [
+      "nums 1",
+      "bind 1"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加道具",
     "CommandOrParameterRemark": [
       "添加道具",
@@ -2755,9 +5319,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "arrangeItem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "type"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "整理背包",
     "CommandOrParameterRemark": [
       "整理背包",
@@ -2771,9 +5339,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "useItem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "itemuuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "使用物品",
     "CommandOrParameterRemark": [
       "使用物品",
@@ -2787,9 +5359,18 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "consumeItem",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "configid"
+    ],
+    "OptionalParameter": [
+      "count 0",
+      "consumeid 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "消耗物品",
     "CommandOrParameterRemark": [
       "消耗物品"
@@ -2817,9 +5398,16 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "showGMAttr",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "attrs"
+    ],
+    "OptionalParameter": [
+      "targetuuid 0"
+    ],
+    "ParameterCheck": [
+      "string",
+      "number"
+    ],
     "ButtonShow": "显示GM属性",
     "CommandOrParameterRemark": [
       "显示属性",
@@ -2849,7 +5437,9 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "clearProfessionTalent",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "profession"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "删除activeProfessionTalent添加的职业天赋，可以指定职业",
@@ -2864,7 +5454,9 @@
     "GMGroup": 5,
     "Type": 2,
     "Command": "gashaCoin",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 1070018,100"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "增加100个扭蛋券",
@@ -2879,7 +5471,49 @@
     "GMGroup": 5,
     "Type": 2,
     "Command": "HairUnlockAll",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 1074101,1",
+      "addItem 1074102,1",
+      "addItem 1074103,1",
+      "addItem 1074104,1",
+      "addItem 1074105,1",
+      "addItem 1074106,1",
+      "addItem 1074107,1",
+      "addItem 1074108,1",
+      "addItem 1074109,1",
+      "addItem 1074110,1",
+      "addItem 1074111,1",
+      "addItem 1074112,1",
+      "addItem 1074113,1",
+      "addItem 1074114,1",
+      "addItem 1074115,1",
+      "addItem 1074116,1",
+      "addItem 1074117,1",
+      "addItem 1074118,1",
+      "addItem 1074119,1",
+      "addItem 1074120,1",
+      "addItem 1074121,1",
+      "addItem 1074122,1",
+      "addItem 1074123,1",
+      "addItem 1074124,1",
+      "addItem 1074125,1",
+      "addItem 1074126,1",
+      "addItem 1074127,1",
+      "addItem 1074128,1",
+      "addItem 1074129,1",
+      "addItem 1074130,1",
+      "addItem 1074131,1",
+      "addItem 1074132,1",
+      "addItem 1074133,1",
+      "addItem 1074134,1",
+      "addItem 1074135,1",
+      "addItem 1074136,1",
+      "addItem 1074137,1",
+      "addItem 1074138,1",
+      "addItem 1074139,1",
+      "addItem 1074140,1",
+      "addItem 1074141,1"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "一键添加发型解锁券道具",
@@ -2894,9 +5528,15 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "setDropValue",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "dropvalue",
+      "value"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "Set Container Value",
     "CommandOrParameterRemark": [
       "Set Container Value",
@@ -2910,9 +5550,15 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "setAwardValue",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "awardif",
+      "counts"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "Set Claimed Gift Record",
     "CommandOrParameterRemark": [
       "Set Claimed Gift Record",
@@ -2926,9 +5572,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "getDropValue",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "dropvalueid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "Get Drop Container Value",
     "CommandOrParameterRemark": [
       "Get Drop Container Value",
@@ -2942,9 +5592,15 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "setLuckyValue",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "luckyvalueid",
+      "value"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "Set Luck Value",
     "CommandOrParameterRemark": [
       "Set Luck Value",
@@ -2958,9 +5614,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "getLuckyValue",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "luckyvalueid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "Get Luck Value",
     "CommandOrParameterRemark": [
       "Get Luck Value",
@@ -2974,9 +5634,13 @@
     "GMGroup": 5,
     "Type": 3,
     "Command": "luckyValueConvert",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "luckyvalueid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "Convert Luck Value to Container Value",
     "CommandOrParameterRemark": [
       "Convert Luck Value to Container Value",
@@ -3005,9 +5669,15 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "addQuest",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "questid",
+      "stepid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "接取任务",
     "CommandOrParameterRemark": [
       "接取任务",
@@ -3021,9 +5691,15 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "finishQuest",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "questid",
+      "stepid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "完成任务",
     "CommandOrParameterRemark": [
       "完成任务",
@@ -3037,9 +5713,15 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "removeQuest",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "questid",
+      "stepid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "移除任务",
     "CommandOrParameterRemark": [
       "移除任务",
@@ -3053,9 +5735,13 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "finishToQuest",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "questid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "完成到指定主线任务",
     "CommandOrParameterRemark": [
       "完成到指定主线任务",
@@ -3069,7 +5755,14 @@
     "GMGroup": 6,
     "Type": 2,
     "Command": "whosyourdaddy",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addBuff 521001 0 1 0",
+      "addGMAttr 11332|10000000",
+      "addGMAttr 11342|10000000",
+      "addBuff 620601 0 0",
+      "activeAllTransferPoint",
+      "activeAllResonance"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "任务跑测大礼包",
@@ -3084,9 +5777,13 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "enterVisualLayer",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "visuallayerid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "进入视野层级",
     "CommandOrParameterRemark": [
       "进入视野层级 填视野层级配置id"
@@ -3099,9 +5796,13 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "leaveVisualLayer",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "result"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "退出视野层级",
     "CommandOrParameterRemark": [
       "退出视野层级 一般0是放弃退出，1是成功退出"
@@ -3114,9 +5815,15 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "moveToActorUid",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "uid",
+      "type"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "移动至对象位置",
     "CommandOrParameterRemark": [
       "移动至对象位置",
@@ -3137,7 +5844,9 @@
     "Command": "enterScene",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "进入静态场景",
     "CommandOrParameterRemark": [
       "进入场景",
@@ -3151,9 +5860,13 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "setUserLevel",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "level"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "设置玩家等级",
     "CommandOrParameterRemark": [],
     "AuToClose": false,
@@ -3164,9 +5877,13 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "enterDungeon",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "dungeonid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "进入动态场景",
     "CommandOrParameterRemark": [
       "进入动态场景、副本、镜像",
@@ -3180,9 +5897,13 @@
     "GMGroup": 6,
     "Type": 1,
     "Command": "showCutscene",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "cutsceneid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "播放过场动画",
     "CommandOrParameterRemark": [
       "播放过场动画",
@@ -3196,9 +5917,13 @@
     "GMGroup": 6,
     "Type": 1,
     "Command": "stopCutscene",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "cutsceneid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "结束过场动画",
     "CommandOrParameterRemark": [
       "结束过场动画",
@@ -3212,9 +5937,13 @@
     "GMGroup": 6,
     "Type": 1,
     "Command": "startFlow",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "flowId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "打开流图",
     "CommandOrParameterRemark": [
       "打开流图",
@@ -3229,8 +5958,12 @@
     "Type": 1,
     "Command": "stopFlow",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "flowId"
+    ],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "停止流图",
     "CommandOrParameterRemark": [
       "停止流图",
@@ -3259,9 +5992,13 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "unLockInvestigate",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "investigateId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "解锁调查",
     "CommandOrParameterRemark": [
       "解锁调查参数0解锁所有，有参数解锁指定id"
@@ -3304,7 +6041,9 @@
     "GMGroup": 6,
     "Type": 2,
     "Command": "saijiExp",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 201,5000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "增加5000赛季经验",
@@ -3317,9 +6056,13 @@
     "GMGroup": 6,
     "Type": 3,
     "Command": "setSeasonRank",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "rankId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "直接设置赛季头衔",
     "CommandOrParameterRemark": [
       "直接设置赛季头衔",
@@ -3348,7 +6091,9 @@
     "GMGroup": 6,
     "Type": 2,
     "Command": "ultiRank",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "setSeasonRank 1019900003"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "升级到最高头衔",
@@ -3363,7 +6108,9 @@
     "GMGroup": 6,
     "Type": 2,
     "Command": "caiji",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addTargetNum 107,1 "
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "触发采集目标1次",
@@ -3378,7 +6125,9 @@
     "GMGroup": 6,
     "Type": 2,
     "Command": "shaguai",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addTargetNum 109,1 "
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "触发杀怪目标1次",
@@ -3393,7 +6142,9 @@
     "GMGroup": 6,
     "Type": 2,
     "Command": "putongshaguai",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addTargetNum 240,1 "
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "触发杀普通怪物目标1次",
@@ -3408,7 +6159,9 @@
     "GMGroup": 6,
     "Type": 2,
     "Command": "diaoyu",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addTargetNum 60,1 "
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "触发钓鱼目标1次",
@@ -3423,7 +6176,9 @@
     "GMGroup": 6,
     "Type": 2,
     "Command": "weituo",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addTargetNum 115,1 "
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "触发委托完成目标1次",
@@ -3438,7 +6193,9 @@
     "GMGroup": 6,
     "Type": 2,
     "Command": "pengren",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addTargetNum 156,1 "
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "触发烹饪目标1次",
@@ -3453,9 +6210,15 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "addFaceData",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "key",
+      "value"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "设置捏脸数据",
     "CommandOrParameterRemark": [
       "设置捏脸数据",
@@ -3469,9 +6232,15 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "controlSwitch",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "id",
+      "status"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "功能开关",
     "CommandOrParameterRemark": [
       "控制功能开启/关闭",
@@ -3485,9 +6254,13 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "sendAward",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "awardid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "发送奖励",
     "CommandOrParameterRemark": [
       "发送奖励",
@@ -3501,9 +6274,13 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "showMessage",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "messageid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "显示通知公告",
     "CommandOrParameterRemark": [
       "显示通知公告",
@@ -3532,9 +6309,13 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "changeProfile",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "profileid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "更改头像",
     "CommandOrParameterRemark": [
       "更改头像",
@@ -3548,9 +6329,13 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "startFlow",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "flowId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "打开流图",
     "CommandOrParameterRemark": [
       "打开流图",
@@ -3565,8 +6350,12 @@
     "Type": 1,
     "Command": "stopFlow",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "flowId"
+    ],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "停止流图",
     "CommandOrParameterRemark": [
       "停止流图",
@@ -3580,9 +6369,17 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "addQuestTargetNum",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "questid",
+      "index",
+      "num"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "修改任务目标数量",
     "CommandOrParameterRemark": [
       "修改任务目标数量",
@@ -3596,9 +6393,13 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "changeName",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "name"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "更改名字",
     "CommandOrParameterRemark": [
       "更改名字",
@@ -3612,9 +6413,13 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "setQuestTrackingId",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "questid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "修改任务追踪",
     "CommandOrParameterRemark": [
       "修改任务任务追踪",
@@ -3643,9 +6448,17 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "setResolution",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "width",
+      "height",
+      "isFullScreen"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "设置分辨率",
     "CommandOrParameterRemark": [
       "宽",
@@ -3660,9 +6473,13 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "setIsPCUI",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "isPCUI"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "是否使用PC的UI",
     "CommandOrParameterRemark": [
       "setIsPCUI 1：表示设置unity打开游戏为PC包显示UI样式，使用GM指令，然后重新运行，unity才会显示为PC端UI样式并且默认主界面隐藏鼠标，移动鼠标移动镜头；setIsPCUI 0：设置unity打开游戏为手机包显示UI样式，进入后默认鼠标显示，长按鼠标右键移动镜头，键位还是会响应"
@@ -3675,9 +6492,13 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "dropItem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "monsterid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "掉落物品",
     "CommandOrParameterRemark": [
       "掉落指定怪物的掉落物",
@@ -3691,9 +6512,13 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "arrangeItem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "type"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "整理背包",
     "CommandOrParameterRemark": [
       "整理背包",
@@ -3707,9 +6532,13 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "useItem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "itemuuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "使用物品",
     "CommandOrParameterRemark": [
       "使用物品",
@@ -3723,9 +6552,18 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "consumeItem",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "configid"
+    ],
+    "OptionalParameter": [
+      "count 0",
+      "consumeid 0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "消耗物品",
     "CommandOrParameterRemark": [
       "消耗物品"
@@ -3738,9 +6576,13 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "playerWayPoint",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "path"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "设置玩家路点",
     "CommandOrParameterRemark": [
       "设置玩家路点"
@@ -3814,8 +6656,12 @@
     "Type": 1,
     "Command": "loadFaceData",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "path"
+    ],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "读取捏脸数据",
     "CommandOrParameterRemark": [
       "在捏脸界面使用，读取捏脸数据",
@@ -3845,8 +6691,12 @@
     "Type": 1,
     "Command": "loadFashionData",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "path"
+    ],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "读取衣橱数据",
     "CommandOrParameterRemark": [
       "在衣橱界面使用，读取衣橱数据",
@@ -3860,9 +6710,13 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "showGuide",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "guideids"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "显示引导",
     "CommandOrParameterRemark": [
       "显示引导",
@@ -3907,9 +6761,13 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "cleanPackage",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "type"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "清理背包",
     "CommandOrParameterRemark": [
       "清理背包",
@@ -3928,7 +6786,10 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "activeAllTransferPoint",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "mapId",
+      "type"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "解锁传送点",
@@ -3995,8 +6856,12 @@
     "Type": 1,
     "Command": "loadFashionLuaDataWithPath",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "path"
+    ],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "读取指定路径捏脸lua数据",
     "CommandOrParameterRemark": [
       "在衣橱界面使用，读取衣橱数据目录/文件名"
@@ -4009,9 +6874,15 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "closeEffect",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "1",
+      ">close 0",
+      ">open"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "关闭特效显示",
     "CommandOrParameterRemark": [
       "屏蔽所有动态添加的特效显示"
@@ -4024,9 +6895,15 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "closeHud",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "1",
+      ">close 0",
+      ">open"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "关闭Hud显示",
     "CommandOrParameterRemark": [
       "屏蔽所有Hud显示"
@@ -4041,7 +6918,9 @@
     "Command": "unionActivity 1,1,30",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "活动id，即将开启状态设置还有多长时间",
     "CommandOrParameterRemark": [
       "活动id，即将开启状态设置还有多长时间"
@@ -4056,7 +6935,9 @@
     "Command": "unionScore",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "加排行榜积分",
     "CommandOrParameterRemark": [
       "加排行榜积分"
@@ -4071,7 +6952,9 @@
     "Command": "unionProgress",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "加活动进度",
     "CommandOrParameterRemark": [
       "加活动进度"
@@ -4084,9 +6967,15 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "godSwitch",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "1",
+      ">open 0",
+      ">close"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "开启&关闭上帝模式",
     "CommandOrParameterRemark": [
       "开启&关闭上帝模式"
@@ -4099,9 +6988,17 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "addClientBuff",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "buffId"
+    ],
+    "OptionalParameter": [
+      "uuid",
+      "0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加客户端Buff",
     "CommandOrParameterRemark": [
       "添加客户端Buff"
@@ -4114,9 +7011,17 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "delClientBuff",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterOrContent": [
+      "buffId"
+    ],
+    "OptionalParameter": [
+      "uuid",
+      "0"
+    ],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "删除客户端Buff",
     "CommandOrParameterRemark": [
       "删除客户端Buff"
@@ -4129,9 +7034,17 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "setGashaXY",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "poolId",
+      "x",
+      "y"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "设置扭蛋大小保底次数（共享保底id=大保底X=小保底Y）",
     "CommandOrParameterRemark": [],
     "AuToClose": false,
@@ -4158,8 +7071,12 @@
     "Type": 1,
     "Command": "saveFaceLuaDataWithPath",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "path"
+    ],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "保存捏脸lua数据",
     "CommandOrParameterRemark": [
       "在捏脸界面使用，保存捏脸数据"
@@ -4173,8 +7090,12 @@
     "Type": 1,
     "Command": "loadFashionLuaDataWithFilePath",
     "ParameterOrContent": [],
-    "OptionalParameter": [],
-    "ParameterCheck": [],
+    "OptionalParameter": [
+      "path"
+    ],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "读取捏脸lua数据",
     "CommandOrParameterRemark": [
       "在衣橱界面使用，读取衣橱数据文件名"
@@ -4187,9 +7108,13 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "useKcpNetwork",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "networkTypeStr"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "调整网络模式",
     "CommandOrParameterRemark": [
       "调整网络模式，0普通模式，网络好的情况下更顺畅，1弱网优化模式，弱网下表现更好"
@@ -4202,8 +7127,13 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "addTargetNum",
-    "ParameterOrContent": [],
-    "OptionalParameter": [],
+    "ParameterOrContent": [
+      "targetType"
+    ],
+    "OptionalParameter": [
+      "targetNum",
+      "0"
+    ],
     "ParameterCheck": [],
     "ButtonShow": "添加的目标数量，为0则会增加一个超大值，触发完",
     "CommandOrParameterRemark": [
@@ -4232,7 +7162,10 @@
     "GMGroup": 7,
     "Type": 2,
     "Command": "unionadditem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 10010001,10000",
+      "addItem 10010002,10000"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获得协会经验、协会资金",
@@ -4260,7 +7193,9 @@
     "GMGroup": 7,
     "Type": 3,
     "Command": "payment",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "productId"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "模拟充值",
@@ -4320,7 +7255,19 @@
     "GMGroup": 7,
     "Type": 2,
     "Command": "Couponsadditem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 1070101,1",
+      "addItem 1070102,1",
+      "addItem 1070103,1",
+      "addItem 1070104,1",
+      "addItem 1070105,1",
+      "addItem 1070106,1",
+      "addItem 1070107,1",
+      "addItem 1070108,1",
+      "addItem 1070109,1",
+      "addItem 1070110,1",
+      "addItem 1070111,1"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "测试的优惠券各获得一张",
@@ -4335,9 +7282,15 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "switchAsyncLoadEffect",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "1",
+      ">open 0",
+      ">close"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "切换特效是否异步加载",
     "CommandOrParameterRemark": [
       "切换特效是否异步加载"
@@ -4350,9 +7303,15 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "switchEffectCountMonitor",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "1",
+      ">open 0",
+      ">close"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "切换特效是否监控数量",
     "CommandOrParameterRemark": [
       "切换特效是否监控数量"
@@ -4365,9 +7324,13 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "setShowAllFashion",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "setShowAllFashion"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "Display all outfits?",
     "CommandOrParameterRemark": [
       "setShowAllFashion 0: Hide locked outfits 1: Show all outfits"
@@ -4395,12 +7358,119 @@
     "GMGroup": 7,
     "Type": 1,
     "Command": "setSavePowerOpen",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "isSavePowerOpen"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "Enable Power Saving Mode?",
     "CommandOrParameterRemark": [
       "setSavePowerOpen 1: Turn on Power Saving Mode, setSavePowerOpen 0: Turn off Power Saving Mode"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "7063": {
+    "Id": 7063,
+    "GMGroup": 7,
+    "Type": 1,
+    "Command": "openSinglePlayerMahjong",
+    "ParameterOrContent": [],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "Single-Player Mahjong",
+    "CommandOrParameterRemark": [
+      "Open Single-Player Mahjong"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "7064": {
+    "Id": 7064,
+    "GMGroup": 7,
+    "Type": 1,
+    "Command": "mahjongStartCards",
+    "ParameterOrContent": [],
+    "OptionalParameter": [],
+    "ParameterCheck": [
+      "string"
+    ],
+    "ButtonShow": "Next Mahjong Game's Starting Hand",
+    "CommandOrParameterRemark": [
+      "Next Mahjong Game's Starting Hand: Hand ID",
+      "Hand ID",
+      "Hand ID... (1–9 are Characters, 11–19 are Dots, 21–29 are Bamboos, 31–37 are East, South, West, North, White Dragon, Green Dragon, and Red Dragon)"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "7065": {
+    "Id": 7065,
+    "GMGroup": 7,
+    "Type": 1,
+    "Command": "mahjongNextCards",
+    "ParameterOrContent": [],
+    "OptionalParameter": [],
+    "ParameterCheck": [
+      "string"
+    ],
+    "ButtonShow": "Current Mahjong Game's Subsequent Draw",
+    "CommandOrParameterRemark": [
+      "Current Mahjong Game's Subsequent Draw: Hand ID",
+      "Hand ID",
+      "Hand ID... (1–9 are Characters, 11–19 are Dots, 21–29 are Bamboos, 31–37 are East, South, West, North, White Dragon, Green Dragon, and Red Dragon)"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "7066": {
+    "Id": 7066,
+    "GMGroup": 7,
+    "Type": 3,
+    "Command": "startShapeshift",
+    "ParameterOrContent": [
+      "startShapeshift"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "变身",
+    "CommandOrParameterRemark": [
+      "开始变形",
+      "实体类型,配置ID,是否继承属性,职业ID,禁用操作类型,角色模板ID,技能ID数组(实体类型,配置ID为必填)"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "7067": {
+    "Id": 7067,
+    "GMGroup": 7,
+    "Type": 3,
+    "Command": "stopShapeshift",
+    "ParameterOrContent": [
+      "stopShapeshift"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "停止变身",
+    "CommandOrParameterRemark": [],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "7068": {
+    "Id": 7068,
+    "GMGroup": 7,
+    "Type": 3,
+    "Command": "setCamp",
+    "ParameterOrContent": [
+      "setCamp 1"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "设置阵营",
+    "CommandOrParameterRemark": [
+      ""
     ],
     "AuToClose": false,
     "OnOff": false
@@ -4410,9 +7480,13 @@
     "GMGroup": 8,
     "Type": 1,
     "Command": "setRpcTimeOut",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "timeout"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "设置Rpc超时",
     "CommandOrParameterRemark": [
       "Rpc超时时间，单位毫秒，默认值为5000"
@@ -4472,7 +7546,9 @@
     "Command": "luaDoString",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "执行lua代码",
     "CommandOrParameterRemark": [],
     "AuToClose": false,
@@ -4485,7 +7561,9 @@
     "Command": "luaDoFile",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "执行lua代码文件",
     "CommandOrParameterRemark": [
       "只能执行搜索路径下的文件，使用的是相对路径"
@@ -4513,9 +7591,15 @@
     "GMGroup": 8,
     "Type": 3,
     "Command": "setSeasonData",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "season",
+      "day"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "设置赛季日期",
     "CommandOrParameterRemark": [
       "设置赛季日期",
@@ -4576,7 +7660,9 @@
     "Command": "switchEventLog",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "事件日志开关",
     "CommandOrParameterRemark": [
       "事件日志开关，0打开，1关闭"
@@ -4604,9 +7690,13 @@
     "GMGroup": 8,
     "Type": 1,
     "Command": "addLocalModel",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "number"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "添加任意数量克隆主角的Model",
     "CommandOrParameterRemark": [
       "添加任意数量克隆主角的Model"
@@ -4619,9 +7709,13 @@
     "GMGroup": 8,
     "Type": 3,
     "Command": "debugShowTable",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "tableName string    tableName id id"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "快速确认读表问题",
     "CommandOrParameterRemark": [
       "快速确认读表问题"
@@ -4636,7 +7730,9 @@
     "Command": "setSeason",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "设置赛季",
     "CommandOrParameterRemark": [
       "设置赛季，赛季index需要大于0为有效赛季"
@@ -4664,9 +7760,13 @@
     "GMGroup": 8,
     "Type": 1,
     "Command": "switchIdLogin",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "isOn"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "切换内网登录",
     "CommandOrParameterRemark": [
       "绕过SDK通过内网输入Id登录,1切换，0还原。(仅在登录界面且SDK未登录时有效)"
@@ -4696,7 +7796,9 @@
     "Command": "testAllFight",
     "ParameterOrContent": [],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "暴力测试战斗相关流程(别乱点 会出事的)",
     "CommandOrParameterRemark": [
       "暴力测试战斗相关流程(别乱点 会出事的)"
@@ -4739,9 +7841,13 @@
     "GMGroup": 8,
     "Type": 3,
     "Command": "addTimeOffset",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "time"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "设置相对时间偏移（针对当前服务器时间进行偏移，累加，无记忆）",
     "CommandOrParameterRemark": [
       "执行后需要通过getTime确认时间已经偏移后再进行测试，执行过程需要10s左右"
@@ -4754,9 +7860,13 @@
     "GMGroup": 9,
     "Type": 3,
     "Command": "addFriend",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "friendid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "添加好友（无需同意）",
     "CommandOrParameterRemark": [
       "添加好友",
@@ -4770,9 +7880,13 @@
     "GMGroup": 9,
     "Type": 3,
     "Command": "addFriendshipExp",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "value"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "增加友好度经验",
     "CommandOrParameterRemark": [
       "增加友好度经验，不受上限控制",
@@ -4786,9 +7900,13 @@
     "GMGroup": 9,
     "Type": 3,
     "Command": "upgradeFriendshipLevel",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "value"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "string"
+    ],
     "ButtonShow": "提升友好度等级",
     "CommandOrParameterRemark": [
       "提升友好度等级，不得低于当前等级",
@@ -4817,9 +7935,19 @@
     "GMGroup": 9,
     "Type": 1,
     "Command": "enterFunctionDungeon",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "functionID",
+      "dungeonId",
+      "selectType",
+      "heroKeyItemUuid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number",
+      "number",
+      "number"
+    ],
     "ButtonShow": "进入玩法副本",
     "CommandOrParameterRemark": [
       "进入玩法副本"
@@ -4877,9 +8005,13 @@
     "GMGroup": 10,
     "Type": 3,
     "Command": "addSceneObject",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "sceneobjid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "添加场景物件",
     "CommandOrParameterRemark": [
       "添加场景物件至当前位置",
@@ -4893,9 +8025,15 @@
     "GMGroup": 10,
     "Type": 3,
     "Command": "addPersonalEntity",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "type",
+      "uid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "添加个人（私人）实体",
     "CommandOrParameterRemark": [
       "添加个人（私人）实体"
@@ -4908,9 +8046,15 @@
     "GMGroup": 10,
     "Type": 3,
     "Command": "removePersonalEntity",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "type",
+      "uid"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "删除个人（私人）实体",
     "CommandOrParameterRemark": [
       "删除个人（私人）实体"
@@ -5011,9 +8155,61 @@
   "10013": {
     "Id": 10013,
     "GMGroup": 10,
+    "Type": 1,
+    "Command": "checkInvestigationData ",
+    "ParameterOrContent": [],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "Unlock Investigation Configuration",
+    "CommandOrParameterRemark": [
+      "Unlock Investigation Configuration"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "10014": {
+    "Id": 10014,
+    "GMGroup": 10,
     "Type": 2,
     "Command": "addALLToys",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 1073101,99",
+      "addItem 1073102,99",
+      "addItem 1073103,99",
+      "addItem 1073104,99",
+      "addItem 1073105,99",
+      "addItem 1073106,99",
+      "addItem 1073107,99",
+      "addItem 1073108,99",
+      "addItem 1073109,99",
+      "addItem 1073110,99",
+      "addItem 1073111,99",
+      "addItem 1073112,99",
+      "addItem 1073113,99",
+      "addItem 1073114,99",
+      "addItem 1073115,99",
+      "addItem 1073116,99",
+      "addItem 1073117,99",
+      "addItem 1073118,99",
+      "addItem 1073119,99",
+      "addItem 1073120,99",
+      "addItem 1073121,99",
+      "addItem 1073122,99",
+      "addItem 1073123,99",
+      "addItem 1073124,99",
+      "addItem 1073125,99",
+      "addItem 1073126,99",
+      "addItem 1073127,99",
+      "addItem 1073128,99",
+      "addItem 1073129,99",
+      "addItem 1073130,99",
+      "addItem 1073131,99",
+      "addItem 1073132,99",
+      "addItem 1073133,99",
+      "addItem 1073134,99",
+      "addItem 1073135,99",
+      "addItem 1073136,99"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "获得所有玩具",
@@ -5028,9 +8224,15 @@
     "GMGroup": 11,
     "Type": 3,
     "Command": "enterCommunity",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "dungeonId",
+      "ResidentialArea"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number",
+      "number"
+    ],
     "ButtonShow": "进入社区场景",
     "CommandOrParameterRemark": [
       "进入社区场景",
@@ -5044,9 +8246,13 @@
     "GMGroup": 11,
     "Type": 3,
     "Command": "useCommunityField",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "PlotId"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "使用社区地块",
     "CommandOrParameterRemark": [
       "使用社区地块",
@@ -5060,9 +8266,13 @@
     "GMGroup": 11,
     "Type": 3,
     "Command": "enterHomeland",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "id"
+    ],
     "OptionalParameter": [],
-    "ParameterCheck": [],
+    "ParameterCheck": [
+      "number"
+    ],
     "ButtonShow": "进入内景",
     "CommandOrParameterRemark": [
       "进入内景",
@@ -5076,7 +8286,641 @@
     "GMGroup": 11,
     "Type": 2,
     "Command": "addHousingItem",
-    "ParameterOrContent": [],
+    "ParameterOrContent": [
+      "addItem 11010001,100",
+      "addItem 11010002,100",
+      "addItem 11010003,100",
+      "addItem 11010004,100",
+      "addItem 11010005,100",
+      "addItem 11010008,100",
+      "addItem 11010009,100",
+      "addItem 11010010,100",
+      "addItem 11010011,100",
+      "addItem 11010012,100",
+      "addItem 11010013,100",
+      "addItem 11010014,100",
+      "addItem 11010015,100",
+      "addItem 11010016,100",
+      "addItem 11010017,100",
+      "addItem 11010018,100",
+      "addItem 11010021,100",
+      "addItem 11010022,100",
+      "addItem 11010023,100",
+      "addItem 11010024,100",
+      "addItem 11010025,100",
+      "addItem 11010026,100",
+      "addItem 11010027,100",
+      "addItem 11010028,100",
+      "addItem 11010029,100",
+      "addItem 11010030,100",
+      "addItem 11010031,100",
+      "addItem 11010032,100",
+      "addItem 11010033,100",
+      "addItem 11010034,100",
+      "addItem 11010035,100",
+      "addItem 11010036,100",
+      "addItem 11010037,100",
+      "addItem 11010038,100",
+      "addItem 11010039,100",
+      "addItem 11010040,100",
+      "addItem 11010041,100",
+      "addItem 11010042,100",
+      "addItem 11010043,100",
+      "addItem 11010044,100",
+      "addItem 11010045,100",
+      "addItem 11010046,100",
+      "addItem 11010047,100",
+      "addItem 11010048,100",
+      "addItem 11010049,100",
+      "addItem 11010050,100",
+      "addItem 11010051,100",
+      "addItem 11010052,100",
+      "addItem 11010053,100",
+      "addItem 11010054,100",
+      "addItem 11010062,100",
+      "addItem 11010063,100",
+      "addItem 11010064,100",
+      "addItem 11010065,100",
+      "addItem 11010066,100",
+      "addItem 11010067,100",
+      "addItem 11010068,100",
+      "addItem 11010069,100",
+      "addItem 11010070,100",
+      "addItem 11010071,100",
+      "addItem 11010072,100",
+      "addItem 11010073,100",
+      "addItem 11010074,100",
+      "addItem 11010075,100",
+      "addItem 11010076,100",
+      "addItem 11010077,100",
+      "addItem 11010078,100",
+      "addItem 11010079,100",
+      "addItem 11010080,100",
+      "addItem 11010081,100",
+      "addItem 11010082,100",
+      "addItem 11010083,100",
+      "addItem 11010084,100",
+      "addItem 11010085,100",
+      "addItem 11010093,100",
+      "addItem 11010094,100",
+      "addItem 11010095,100",
+      "addItem 11010096,100",
+      "addItem 11010097,100",
+      "addItem 11010102,100",
+      "addItem 11010103,100",
+      "addItem 11010104,100",
+      "addItem 11010105,100",
+      "addItem 11010106,100",
+      "addItem 11010107,100",
+      "addItem 11010108,100",
+      "addItem 11010109,100",
+      "addItem 11010110,100",
+      "addItem 11010111,100",
+      "addItem 11010112,100",
+      "addItem 11010113,100",
+      "addItem 11010114,100",
+      "addItem 11010116,100",
+      "addItem 11010117,100",
+      "addItem 11010119,100",
+      "addItem 11010120,100",
+      "addItem 11010123,100",
+      "addItem 11010135,100",
+      "addItem 11010136,100",
+      "addItem 11010137,100",
+      "addItem 11010138,100",
+      "addItem 11010139,100",
+      "addItem 11010140,100",
+      "addItem 11010141,100",
+      "addItem 11010142,100",
+      "addItem 11010143,100",
+      "addItem 11010144,100",
+      "addItem 11010145,100",
+      "addItem 11010146,100",
+      "addItem 11010147,100",
+      "addItem 11010148,100",
+      "addItem 11010149,100",
+      "addItem 11010150,100",
+      "addItem 11010151,100",
+      "addItem 11010152,100",
+      "addItem 11010153,100",
+      "addItem 11010154,100",
+      "addItem 11010155,100",
+      "addItem 11010156,100",
+      "addItem 11010157,100",
+      "addItem 11010158,100",
+      "addItem 11010159,100",
+      "addItem 11010160,100",
+      "addItem 11010161,100",
+      "addItem 11010162,100",
+      "addItem 11010163,100",
+      "addItem 11010164,100",
+      "addItem 11010165,100",
+      "addItem 11010166,100",
+      "addItem 11010167,100",
+      "addItem 11010168,100",
+      "addItem 11010169,100",
+      "addItem 11010170,100",
+      "addItem 11010171,100",
+      "addItem 11010172,100",
+      "addItem 11010173,100",
+      "addItem 11010174,100",
+      "addItem 11010175,100",
+      "addItem 11010176,100",
+      "addItem 11010177,100",
+      "addItem 11010178,100",
+      "addItem 11010179,100",
+      "addItem 11010180,100",
+      "addItem 11010181,100",
+      "addItem 11010182,100",
+      "addItem 11010184,100",
+      "addItem 11010189,100",
+      "addItem 11010190,100",
+      "addItem 11010191,100",
+      "addItem 11010192,100",
+      "addItem 11010193,100",
+      "addItem 11010194,100",
+      "addItem 11010195,100",
+      "addItem 11010196,100",
+      "addItem 11010197,100",
+      "addItem 11010198,100",
+      "addItem 11010199,100",
+      "addItem 11010200,100",
+      "addItem 11010201,100",
+      "addItem 11010202,100",
+      "addItem 11010203,100",
+      "addItem 11010205,100",
+      "addItem 11010206,100",
+      "addItem 11010207,100",
+      "addItem 11010208,100",
+      "addItem 11010209,100",
+      "addItem 11010210,100",
+      "addItem 11010211,100",
+      "addItem 11010212,100",
+      "addItem 11010213,100",
+      "addItem 11010214,100",
+      "addItem 11010215,100",
+      "addItem 11010216,100",
+      "addItem 11010217,100",
+      "addItem 11010223,100",
+      "addItem 11010224,100",
+      "addItem 11010225,100",
+      "addItem 11010226,100",
+      "addItem 11010227,100",
+      "addItem 11010229,100",
+      "addItem 11010230,100",
+      "addItem 11010231,100",
+      "addItem 11010232,100",
+      "addItem 11010233,100",
+      "addItem 11010234,100",
+      "addItem 11010235,100",
+      "addItem 11010237,100",
+      "addItem 11010238,100",
+      "addItem 11010239,100",
+      "addItem 11010240,100",
+      "addItem 11010241,100",
+      "addItem 11010244,100",
+      "addItem 11010246,100",
+      "addItem 11010247,100",
+      "addItem 11010249,100",
+      "addItem 11010250,100",
+      "addItem 11010251,100",
+      "addItem 11010252,100",
+      "addItem 11010253,100",
+      "addItem 11010254,100",
+      "addItem 11010255,100",
+      "addItem 11010256,100",
+      "addItem 11010257,100",
+      "addItem 11010258,100",
+      "addItem 11010259,100",
+      "addItem 11010260,100",
+      "addItem 11010261,100",
+      "addItem 11010266,100",
+      "addItem 11010267,100",
+      "addItem 11010269,100",
+      "addItem 11010270,100",
+      "addItem 11010271,100",
+      "addItem 11010277,100",
+      "addItem 11010278,100",
+      "addItem 11010279,100",
+      "addItem 11010282,100",
+      "addItem 11010283,100",
+      "addItem 11010284,100",
+      "addItem 11010285,100",
+      "addItem 11010286,100",
+      "addItem 11010287,100",
+      "addItem 11010288,100",
+      "addItem 11010289,100",
+      "addItem 11010290,100",
+      "addItem 11010291,100",
+      "addItem 11010292,100",
+      "addItem 11010293,100",
+      "addItem 11010294,100",
+      "addItem 11010295,100",
+      "addItem 11010296,100",
+      "addItem 11010297,100",
+      "addItem 11010298,100",
+      "addItem 11010299,100",
+      "addItem 11010300,100",
+      "addItem 11010301,100",
+      "addItem 11010302,100",
+      "addItem 11010303,100",
+      "addItem 11010304,100",
+      "addItem 11010305,100",
+      "addItem 11010306,100",
+      "addItem 11010307,100",
+      "addItem 11010308,100",
+      "addItem 11010309,100",
+      "addItem 11010310,100",
+      "addItem 11010311,100",
+      "addItem 11010312,100",
+      "addItem 11010313,100",
+      "addItem 11010314,100",
+      "addItem 11010315,100",
+      "addItem 11010316,100",
+      "addItem 11010317,100",
+      "addItem 11010318,100",
+      "addItem 11010319,100",
+      "addItem 11010320,100",
+      "addItem 11010321,100",
+      "addItem 11010322,100",
+      "addItem 11010325,100",
+      "addItem 11010326,100",
+      "addItem 11010327,100",
+      "addItem 11010328,100",
+      "addItem 11010329,100",
+      "addItem 11010330,100",
+      "addItem 11010331,100",
+      "addItem 11010333,100",
+      "addItem 11010334,100",
+      "addItem 11010335,100",
+      "addItem 11010337,100",
+      "addItem 11010338,100",
+      "addItem 11010339,100",
+      "addItem 11010340,100",
+      "addItem 11010341,100",
+      "addItem 11010342,100",
+      "addItem 11010343,100",
+      "addItem 11010344,100",
+      "addItem 11010345,100",
+      "addItem 11010346,100",
+      "addItem 11010347,100",
+      "addItem 11010348,100",
+      "addItem 11010349,100",
+      "addItem 11010350,100",
+      "addItem 11010351,100",
+      "addItem 11010352,100",
+      "addItem 11010353,100",
+      "addItem 11010354,100",
+      "addItem 11010355,100",
+      "addItem 11010356,100",
+      "addItem 11010357,100",
+      "addItem 11010358,100",
+      "addItem 11010359,100",
+      "addItem 11010360,100",
+      "addItem 11010361,100",
+      "addItem 11010362,100",
+      "addItem 11010363,100",
+      "addItem 11010364,100",
+      "addItem 11010365,100",
+      "addItem 11010366,100",
+      "addItem 11010368,100",
+      "addItem 11010369,100",
+      "addItem 11010370,100",
+      "addItem 11010371,100",
+      "addItem 11010372,100",
+      "addItem 11010373,100",
+      "addItem 11010374,100",
+      "addItem 11010375,100",
+      "addItem 11010376,100",
+      "addItem 11010377,100",
+      "addItem 11010378,100",
+      "addItem 11010379,100",
+      "addItem 11010380,100",
+      "addItem 11010381,100",
+      "addItem 11010382,100",
+      "addItem 11010383,100",
+      "addItem 11010384,100",
+      "addItem 11010385,100",
+      "addItem 11010386,100",
+      "addItem 11010387,100",
+      "addItem 11010388,100",
+      "addItem 11010389,100",
+      "addItem 11010390,100",
+      "addItem 11010391,100",
+      "addItem 11010392,100",
+      "addItem 11010393,100",
+      "addItem 11010394,100",
+      "addItem 11010395,100",
+      "addItem 11010396,100",
+      "addItem 11010397,100",
+      "addItem 11010398,100",
+      "addItem 11010399,100",
+      "addItem 11010400,100",
+      "addItem 11010401,100",
+      "addItem 11010402,100",
+      "addItem 11010403,100",
+      "addItem 11010404,100",
+      "addItem 11010405,100",
+      "addItem 11010406,100",
+      "addItem 11010407,100",
+      "addItem 11010408,100",
+      "addItem 11010409,100",
+      "addItem 11010410,100",
+      "addItem 11010433,100",
+      "addItem 11010434,100",
+      "addItem 11010435,100",
+      "addItem 11010436,100",
+      "addItem 11010437,100",
+      "addItem 11010438,100",
+      "addItem 11010439,100",
+      "addItem 11010440,100",
+      "addItem 11010441,100",
+      "addItem 11010442,100",
+      "addItem 11010443,100",
+      "addItem 11010444,100",
+      "addItem 11010445,100",
+      "addItem 11010446,100",
+      "addItem 11010447,100",
+      "addItem 11010448,100",
+      "addItem 11010449,100",
+      "addItem 11010450,100",
+      "addItem 11010451,100",
+      "addItem 11010452,100",
+      "addItem 11010453,100",
+      "addItem 11010454,100",
+      "addItem 11010455,100",
+      "addItem 11010456,100",
+      "addItem 11010457,100",
+      "addItem 11010458,100",
+      "addItem 11010459,100",
+      "addItem 11010460,100",
+      "addItem 11010473,100",
+      "addItem 11010474,100",
+      "addItem 11010475,100",
+      "addItem 11010476,100",
+      "addItem 11010477,100",
+      "addItem 11010478,100",
+      "addItem 11010479,100",
+      "addItem 11010480,100",
+      "addItem 11010481,100",
+      "addItem 11010482,100",
+      "addItem 11010483,100",
+      "addItem 11010484,100",
+      "addItem 11010485,100",
+      "addItem 11010486,100",
+      "addItem 11010487,100",
+      "addItem 11010488,100",
+      "addItem 11010489,100",
+      "addItem 11010490,100",
+      "addItem 11010491,100",
+      "addItem 11010492,100",
+      "addItem 11010493,100",
+      "addItem 11010494,100",
+      "addItem 11010495,100",
+      "addItem 11010496,100",
+      "addItem 11010497,100",
+      "addItem 11010498,100",
+      "addItem 11010499,100",
+      "addItem 11010500,100",
+      "addItem 11010501,100",
+      "addItem 11010502,100",
+      "addItem 11010503,100",
+      "addItem 11011001,100",
+      "addItem 11011002,100",
+      "addItem 11011003,100",
+      "addItem 11011004,100",
+      "addItem 11011005,100",
+      "addItem 11011006,100",
+      "addItem 11011007,100",
+      "addItem 11011008,100",
+      "addItem 11011009,100",
+      "addItem 11011010,100",
+      "addItem 11011015,100",
+      "addItem 11011016,100",
+      "addItem 11011017,100",
+      "addItem 11011301,100",
+      "addItem 11011302,100",
+      "addItem 11011303,100",
+      "addItem 11011304,100",
+      "addItem 11011305,100",
+      "addItem 11011306,100",
+      "addItem 11011307,100",
+      "addItem 11011308,100",
+      "addItem 11011309,100",
+      "addItem 11011310,100",
+      "addItem 11011311,100",
+      "addItem 11011312,100",
+      "addItem 11011313,100",
+      "addItem 11011601,100",
+      "addItem 11011602,100",
+      "addItem 11011603,100",
+      "addItem 11011604,100",
+      "addItem 11011605,100",
+      "addItem 11011606,100",
+      "addItem 11011607,100",
+      "addItem 11011701,100",
+      "addItem 11011608,100",
+      "addItem 11011609,100",
+      "addItem 11011610,100",
+      "addItem 11011611,100",
+      "addItem 11011612,100",
+      "addItem 11011613,100",
+      "addItem 11011614,100",
+      "addItem 11110001,100",
+      "addItem 11110002,100",
+      "addItem 11110003,100",
+      "addItem 11110004,100",
+      "addItem 11110005,100",
+      "addItem 11110006,100",
+      "addItem 11110007,100",
+      "addItem 11110008,100",
+      "addItem 11110009,100",
+      "addItem 11110010,100",
+      "addItem 11110011,100",
+      "addItem 11110012,100",
+      "addItem 11110013,100",
+      "addItem 11110014,100",
+      "addItem 11110015,100",
+      "addItem 11110016,100",
+      "addItem 11110017,100",
+      "addItem 11110018,100",
+      "addItem 11110019,100",
+      "addItem 11110020,100",
+      "addItem 11110021,100",
+      "addItem 11110022,100",
+      "addItem 11110023,100",
+      "addItem 11110024,100",
+      "addItem 11110025,100",
+      "addItem 11110026,100",
+      "addItem 11110027,100",
+      "addItem 11110028,100",
+      "addItem 11110029,100",
+      "addItem 11110030,100",
+      "addItem 11110031,100",
+      "addItem 11110032,100",
+      "addItem 11110033,100",
+      "addItem 11110034,100",
+      "addItem 11110035,100",
+      "addItem 11110036,100",
+      "addItem 11110037,100",
+      "addItem 11110038,100",
+      "addItem 11110039,100",
+      "addItem 11110040,100",
+      "addItem 11110041,100",
+      "addItem 11110042,100",
+      "addItem 11110043,100",
+      "addItem 11110044,100",
+      "addItem 11110045,100",
+      "addItem 11110046,100",
+      "addItem 11110047,100",
+      "addItem 11110048,100",
+      "addItem 11110049,100",
+      "addItem 11110050,100",
+      "addItem 11110051,100",
+      "addItem 11110052,100",
+      "addItem 11110053,100",
+      "addItem 11110054,100",
+      "addItem 11110055,100",
+      "addItem 11110056,100",
+      "addItem 11110057,100",
+      "addItem 11110058,100",
+      "addItem 11110059,100",
+      "addItem 11110060,100",
+      "addItem 11110061,100",
+      "addItem 11110062,100",
+      "addItem 11110063,100",
+      "addItem 11110064,100",
+      "addItem 11110065,100",
+      "addItem 11110066,100",
+      "addItem 11110067,100",
+      "addItem 11110068,100",
+      "addItem 11110069,100",
+      "addItem 11110070,100",
+      "addItem 11110071,100",
+      "addItem 11110072,100",
+      "addItem 11110073,100",
+      "addItem 11110074,100",
+      "addItem 11110075,100",
+      "addItem 11110076,100",
+      "addItem 11110077,100",
+      "addItem 11110078,100",
+      "addItem 11110079,100",
+      "addItem 11110080,100",
+      "addItem 11110081,100",
+      "addItem 11110082,100",
+      "addItem 11110083,100",
+      "addItem 11110084,100",
+      "addItem 11110085,100",
+      "addItem 11110086,100",
+      "addItem 11110087,100",
+      "addItem 11110088,100",
+      "addItem 11110089,100",
+      "addItem 11110090,100",
+      "addItem 11110091,100",
+      "addItem 11110092,100",
+      "addItem 11110093,100",
+      "addItem 11110094,100",
+      "addItem 11110095,100",
+      "addItem 11110096,100",
+      "addItem 11110097,100",
+      "addItem 11110098,100",
+      "addItem 11110099,100",
+      "addItem 11110100,100",
+      "addItem 11110101,100",
+      "addItem 11110102,100",
+      "addItem 11110103,100",
+      "addItem 11110104,100",
+      "addItem 11110105,100",
+      "addItem 11110106,100",
+      "addItem 11110107,100",
+      "addItem 11110108,100",
+      "addItem 11110109,100",
+      "addItem 11110110,100",
+      "addItem 11110111,100",
+      "addItem 11110112,100",
+      "addItem 11110113,100",
+      "addItem 11110114,100",
+      "addItem 11110115,100",
+      "addItem 11110116,100",
+      "addItem 11110117,100",
+      "addItem 11110118,100",
+      "addItem 11110119,100",
+      "addItem 11110120,100",
+      "addItem 11110121,100",
+      "addItem 11110122,100",
+      "addItem 11110123,100",
+      "addItem 11110124,100",
+      "addItem 11110125,100",
+      "addItem 11110126,100",
+      "addItem 11110127,100",
+      "addItem 11110128,100",
+      "addItem 11110129,100",
+      "addItem 11110130,100",
+      "addItem 11110131,100",
+      "addItem 11110132,100",
+      "addItem 11110133,100",
+      "addItem 11110134,100",
+      "addItem 11110135,100",
+      "addItem 11110136,100",
+      "addItem 11110137,100",
+      "addItem 11110138,100",
+      "addItem 11110139,100",
+      "addItem 11110140,100",
+      "addItem 11110141,100",
+      "addItem 11110142,100",
+      "addItem 11110143,100",
+      "addItem 11110144,100",
+      "addItem 11110145,100",
+      "addItem 11110146,100",
+      "addItem 11110147,100",
+      "addItem 11110148,100",
+      "addItem 11110149,100",
+      "addItem 11110150,100",
+      "addItem 11110151,100",
+      "addItem 11110152,100",
+      "addItem 11110153,100",
+      "addItem 11110154,100",
+      "addItem 11110155,100",
+      "addItem 11110156,100",
+      "addItem 11110157,100",
+      "addItem 11110158,100",
+      "addItem 11110159,100",
+      "addItem 11110160,100",
+      "addItem 11110161,100",
+      "addItem 11110162,100",
+      "addItem 11110163,100",
+      "addItem 11110164,100",
+      "addItem 11110165,100",
+      "addItem 11110166,100",
+      "addItem 11110167,100",
+      "addItem 11110168,100",
+      "addItem 11110169,100",
+      "addItem 11110170,100",
+      "addItem 11110171,100",
+      "addItem 11110172,100",
+      "addItem 11110173,100",
+      "addItem 11110174,100",
+      "addItem 11110175,100",
+      "addItem 11110176,100",
+      "addItem 11110177,100",
+      "addItem 11110178,100",
+      "addItem 11110179,100",
+      "addItem 11110180,100",
+      "addItem 11110181,100",
+      "addItem 11110182,100",
+      "addItem 11110183,100",
+      "addItem 11110184,100",
+      "addItem 11110185,100",
+      "addItem 11110186,100",
+      "addItem 11110187,100",
+      "addItem 11110188,100",
+      "addItem 11110189,100",
+      "addItem 11110190,100",
+      "addItem 11110191,100",
+      "addItem 11110192,100",
+      "addItem 11010504,100",
+      "addItem 11010505,100"
+    ],
     "OptionalParameter": [],
     "ParameterCheck": [],
     "ButtonShow": "一键添加家园家具",
@@ -5095,6 +8939,21 @@
     "ButtonShow": "Save Homestead data locally",
     "CommandOrParameterRemark": [
       "Save Homestead data locally"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "11006": {
+    "Id": 11006,
+    "GMGroup": 11,
+    "Type": 3,
+    "Command": "addItem 1070037 1",
+    "ParameterOrContent": [],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "Get a Homestead Pass and Head to the Island!",
+    "CommandOrParameterRemark": [
+      "Obtain 1 Homestead Pass"
     ],
     "AuToClose": false,
     "OnOff": false

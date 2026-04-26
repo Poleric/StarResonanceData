@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_user_summary_data.proto";
 
-message FishRankInfo {
-  int64 millisecond = 1;
-  int32 size = 2;
-  zproto.UserSummaryData player_data = 3;
-}
+package zproto;
 
+message FishRankInfo {
+	int64 millisecond = 1 [json_name = "millisecond"];
+	int32 size = 2 [json_name = "size"];
+	UserSummaryData playerData = 3 [json_name = "playerData"];
+}

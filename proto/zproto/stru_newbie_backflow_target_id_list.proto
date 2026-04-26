@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message NewbieBackflowTargetIdList {
+	repeated uint32 targetIdList = 1 [json_name = "targetIdList"];
+}

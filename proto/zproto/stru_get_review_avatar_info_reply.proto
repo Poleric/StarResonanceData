@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_avatar_info.proto";
 import "enum_e_error_code.proto";
 
-message GetReviewAvatarInfoReply {
-  zproto.AvatarInfo avatar_info = 3;
-  zproto.EErrorCode err_code = 4;
-}
+package zproto;
 
+message GetReviewAvatarInfoReply {
+	AvatarInfo avatarInfo = 3 [json_name = "avatarInfo"];
+	EErrorCode errCode = 4 [json_name = "errCode"];
+}

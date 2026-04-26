@@ -1,0 +1,86 @@
+{
+  "0": {
+    "Id": 0,
+    "PhaseName": "Preparation Phase",
+    "StarNum": 0,
+    "StageType": 0
+  },
+  "1": {
+    "Id": 1,
+    "PhaseName": "Stealth Phase",
+    "StarNum": 0,
+    "StageType": 0
+  },
+  "2": {
+    "Id": 2,
+    "PhaseName": "Hunters Deployed",
+    "StarNum": 0,
+    "StageType": 0
+  },
+  "3": {
+    "Id": 3,
+    "PhaseName": "Generating Energy",
+    "StarNum": 1,
+    "StageType": 0
+  },
+  "4": {
+    "Id": 4,
+    "PhaseName": "Energy Generated",
+    "StarNum": 1,
+    "StageType": 0
+  },
+  "5": {
+    "Id": 5,
+    "PhaseName": "Transformation Countdown",
+    "StarNum": 1,
+    "StageType": 0
+  },
+  "6": {
+    "Id": 6,
+    "PhaseName": "Transformation Time",
+    "StarNum": 1,
+    "StageType": 0
+  },
+  "7": {
+    "Id": 7,
+    "PhaseName": "Siren Countdown",
+    "StarNum": 1,
+    "StageType": 0
+  },
+  "8": {
+    "Id": 8,
+    "PhaseName": "Illusion Siren",
+    "StarNum": 1,
+    "StageType": 0
+  },
+  "9": {
+    "Id": 9,
+    "PhaseName": "Frenzy Countdown",
+    "StarNum": 1,
+    "StageType": 0
+  },
+  "10": {
+    "Id": 10,
+    "PhaseName": "Frenzy Time",
+    "StarNum": 1,
+    "StageType": 0
+  },
+  "11": {
+    "Id": 11,
+    "PhaseName": "Photo Moment",
+    "StarNum": 0,
+    "StageType": 0
+  },
+  "12": {
+    "Id": 12,
+    "PhaseName": "Game Over",
+    "StarNum": 0,
+    "StageType": 1
+  },
+  "13": {
+    "Id": 13,
+    "PhaseName": "Game Starting",
+    "StarNum": 0,
+    "StageType": 0
+  }
+}

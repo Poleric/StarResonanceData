@@ -1,17 +1,17 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_body_size.proto";
 
-message BasicShowInfo {
-  int64 char_id = 1;
-  string name = 2;
-  int32 gender = 3;
-  zproto.EBodySize body_size = 4;
-  int32 level = 5;
-  uint32 cur_talent_pool_id = 6;
-  uint32 union_hunt_rand_idx = 7;
-  bool is_newbie = 8;
-}
+package zproto;
 
+message BasicShowInfo {
+	int64 charID = 1 [json_name = "charID"];
+	string name = 2 [json_name = "name"];
+	int32 gender = 3 [json_name = "gender"];
+	EBodySize bodySize = 4 [json_name = "bodySize"];
+	int32 level = 5 [json_name = "level"];
+	uint32 curTalentPoolId = 6 [json_name = "curTalentPoolId"];
+	uint32 unionHuntRandIdx = 7 [json_name = "unionHuntRandIdx"];
+	bool isNewbie = 8 [json_name = "isNewbie"];
+	bool isBackflow = 9 [json_name = "isBackflow"];
+}

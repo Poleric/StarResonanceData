@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message ExchangeSaleDataItemData {
-  string guid = 1;
-  int32 num = 2;
-  int32 rate = 3;
-  int64 end_time = 4;
+	string guid = 1 [json_name = "guid"];
+	int32 num = 2 [json_name = "num"];
+	int32 rate = 3 [json_name = "rate"];
+	int64 endTime = 4 [json_name = "endTime"];
 }
-

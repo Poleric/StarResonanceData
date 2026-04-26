@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message MahjongActionRequest {
+	int32 ActionId = 1 [json_name = "ActionId"];
+	int32 ActionParam = 2 [json_name = "ActionParam"];
+	bytes Data = 3 [json_name = "Data"];
+}

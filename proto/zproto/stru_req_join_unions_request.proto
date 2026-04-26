@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message ReqJoinUnionsRequest {
-  repeated int64 union_ids = 2;
-  bool is_all = 3;
+	repeated int64 unionIds = 2 [json_name = "unionIds"];
+	bool isAll = 3 [json_name = "isAll"];
 }
-

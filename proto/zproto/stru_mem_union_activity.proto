@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_not_claimed_reward.proto";
 import "stru_union_activity_target.proto";
 
-message MemUnionActivity {
-  int64 last_refresh_time = 1;
-  map<int32, zproto.UnionActivityTarget> personal_targets = 2;
-  repeated int32 received_point_award_ids = 3;
-  repeated zproto.NotClaimedReward no_claimed_active_awards = 4;
-  int64 next_refresh_time = 5;
-}
+package zproto;
 
+message MemUnionActivity {
+	int64 lastRefreshTime = 1 [json_name = "lastRefreshTime"];
+	map<int32, UnionActivityTarget> personalTargets = 2 [json_name = "personalTargets"];
+	repeated int32 receivedPointAwardIds = 3 [json_name = "receivedPointAwardIds"];
+	repeated NotClaimedReward noClaimedActiveAwards = 4 [json_name = "noClaimedActiveAwards"];
+	int64 nextRefreshTime = 5 [json_name = "nextRefreshTime"];
+}

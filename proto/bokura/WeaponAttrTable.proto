@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message WeaponAttrTableBase {
-  int32 id = 1463;
-  int32 weapon_id = 1694;
-  int32 level = 1120;
-  int_table base_attr = 965;
-  int_table extra_attr = 1462;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 WeaponID = 1694 [json_name = "WeaponID"];
+	int32 Level = 1120 [json_name = "Level"];
+	int_table BaseAttr = 965 [json_name = "BaseAttr"];
+	int_table ExtraAttr = 1462 [json_name = "ExtraAttr"];
 }
 
 message WeaponAttrTableMgr {
-  map<int32, bokura.WeaponAttrTableBase> datas = 1;
+	map<int32, WeaponAttrTableBase> datas = 1 [json_name = "datas"];
 }
-

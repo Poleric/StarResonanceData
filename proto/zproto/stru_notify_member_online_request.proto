@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message NotifyMemberOnlineRequest {
-  repeated int64 member_id_list = 1;
-  repeated int64 offline_timer = 2;
+	repeated int64 memberIdList = 1 [json_name = "memberIdList"];
+	repeated int64 offlineTimer = 2 [json_name = "offlineTimer"];
 }
-

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message KickOutWarehouseRequest {
-  int64 kick_char_id = 1;
+	int64 kickCharId = 1 [json_name = "kickCharId"];
 }
-

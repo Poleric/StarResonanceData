@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message schemeInfo {
-  repeated string scheme_info_keys = 1;
+	repeated string schemeInfoKeys = 1 [json_name = "schemeInfoKeys"];
 }
-

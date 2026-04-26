@@ -1,27 +1,26 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message JumpTableBase {
-  int32 id = 1463;
-  float default_speed = 925;
-  float operate_speed = 1762;
-  float re_operate_default_speed = 1065;
-  number_array wind_drag_coefficient = 710;
-  float amended_gravity = 912;
-  number_array jump_time = 331;
-  number_array prepare_time = 1970;
-  number_array jump_break_time = 625;
-  string move_path = 394;
-  number_array shader_brightness = 198;
-  number_array shader_length = 437;
-  int_array shader_is_breath = 172;
-  number_array energy_consume = 2017;
+	int32 Id = 1463 [json_name = "Id"];
+	float DefaultSpeed = 925 [json_name = "DefaultSpeed"];
+	float OperateSpeed = 1762 [json_name = "OperateSpeed"];
+	float ReOperateDefaultSpeed = 1065 [json_name = "ReOperateDefaultSpeed"];
+	number_array WindDragCoefficient = 710 [json_name = "WindDragCoefficient"];
+	float AmendedGravity = 912 [json_name = "AmendedGravity"];
+	number_array JumpTime = 331 [json_name = "JumpTime"];
+	number_array PrepareTime = 1970 [json_name = "PrepareTime"];
+	number_array JumpBreakTime = 625 [json_name = "JumpBreakTime"];
+	string MovePath = 394 [json_name = "MovePath"];
+	number_array ShaderBrightness = 198 [json_name = "ShaderBrightness"];
+	number_array ShaderLength = 437 [json_name = "ShaderLength"];
+	int_array ShaderIsBreath = 172 [json_name = "ShaderIsBreath"];
+	number_array EnergyConsume = 2017 [json_name = "EnergyConsume"];
 }
 
 message JumpTableMgr {
-  map<int32, bokura.JumpTableBase> datas = 1;
+	map<int32, JumpTableBase> datas = 1 [json_name = "datas"];
 }
-

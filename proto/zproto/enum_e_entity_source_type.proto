@@ -3,10 +3,9 @@ syntax = "proto3";
 package zproto;
 
 enum EEntitySourceType {
-  EntitySourceServer = 0;
-  EntitySourceClient = 1;
-  EntitySourceUser = 2;
-  EntitySourceScene = 3;
-  EntitySourceCommunity = 4;
+	EntitySourceServer = 0;
+	EntitySourceClient = 1;
+	EntitySourceUser = 2;
+	EntitySourceScene = 3;
+	EntitySourceCommunity = 4;
 }
-

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message UnLockFaceVoiceInfo {
+	int32 voiceId = 1 [json_name = "voiceId"];
+}

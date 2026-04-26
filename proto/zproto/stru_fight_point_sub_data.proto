@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message FightPointSubData {
-  int32 function_type = 1;
-  int32 root_function_type = 2;
-  int32 point = 3;
-}
+package zproto;
 
+message FightPointSubData {
+	int32 functionType = 1 [json_name = "functionType"];
+	int32 rootFunctionType = 2 [json_name = "rootFunctionType"];
+	int32 point = 3 [json_name = "point"];
+}

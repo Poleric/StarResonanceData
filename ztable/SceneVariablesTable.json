@@ -1,0 +1,54 @@
+{
+  "920201": {
+    "VariableId": 920201,
+    "VariableName": "DMpoint",
+    "VariableType": 1,
+    "VariableDisplayName": "Slumberdream Remnant",
+    "VariableLimit": [],
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_307"
+  },
+  "920202": {
+    "VariableId": 920202,
+    "VariableName": "DMboss",
+    "VariableType": 1,
+    "VariableDisplayName": "DMpoint",
+    "VariableLimit": [
+      0,
+      2000
+    ],
+    "Icon": ""
+  },
+  "1100101": {
+    "VariableId": 1100101,
+    "VariableName": "hideAward",
+    "VariableType": 1,
+    "VariableDisplayName": "DMpoint",
+    "VariableLimit": [
+      0,
+      300
+    ],
+    "Icon": ""
+  },
+  "1101": {
+    "VariableId": 1101,
+    "VariableName": "fishGetNum",
+    "VariableType": 2,
+    "VariableDisplayName": "DMpoint",
+    "VariableLimit": [
+      0,
+      9999
+    ],
+    "Icon": ""
+  },
+  "1102": {
+    "VariableId": 1102,
+    "VariableName": "fishGetContNum",
+    "VariableType": 2,
+    "VariableDisplayName": "DMpoint",
+    "VariableLimit": [
+      0,
+      9999
+    ],
+    "Icon": ""
+  }
+}

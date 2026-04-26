@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message RenameStructureGroupRequest {
-  int64 group_id = 1;
-  string group_name = 2;
-  bool is_outer = 3;
+	int64 groupId = 1 [json_name = "groupId"];
+	string groupName = 2 [json_name = "groupName"];
+	bool isOuter = 3 [json_name = "isOuter"];
 }
-

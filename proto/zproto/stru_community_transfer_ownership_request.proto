@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message CommunityTransferOwnershipRequest {
-  int64 homeland_id = 1;
-  int64 new_owner_char_id = 2;
+	int64 homelandId = 1 [json_name = "homelandId"];
+	int64 newOwnerCharId = 2 [json_name = "newOwnerCharId"];
 }
-

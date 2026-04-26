@@ -1,0 +1,58 @@
+{
+  "1": {
+    "Id": 1,
+    "PrizeQualityName": "S Prize",
+    "PrizeQualityShortName": "",
+    "PrizeQualityColor": "#EE9127",
+    "PrizeQualityIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_level_01"
+  },
+  "2": {
+    "Id": 2,
+    "PrizeQualityName": "A Prize",
+    "PrizeQualityShortName": "",
+    "PrizeQualityColor": "#B63CAC",
+    "PrizeQualityIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_level_02"
+  },
+  "3": {
+    "Id": 3,
+    "PrizeQualityName": "B Prize",
+    "PrizeQualityShortName": "",
+    "PrizeQualityColor": "#53A0FF",
+    "PrizeQualityIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_level_03"
+  },
+  "4": {
+    "Id": 4,
+    "PrizeQualityName": "C Prize",
+    "PrizeQualityShortName": "",
+    "PrizeQualityColor": "#4B4B4B",
+    "PrizeQualityIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_level_04"
+  },
+  "5": {
+    "Id": 5,
+    "PrizeQualityName": "D Prize",
+    "PrizeQualityShortName": "",
+    "PrizeQualityColor": "#4B4B4B",
+    "PrizeQualityIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_level_05"
+  },
+  "6": {
+    "Id": 6,
+    "PrizeQualityName": "E Prize",
+    "PrizeQualityShortName": "",
+    "PrizeQualityColor": "#4B4B4B",
+    "PrizeQualityIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_level_06"
+  },
+  "7": {
+    "Id": 7,
+    "PrizeQualityName": "F Prize",
+    "PrizeQualityShortName": "",
+    "PrizeQualityColor": "#4B4B4B",
+    "PrizeQualityIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_level_07"
+  },
+  "8": {
+    "Id": 8,
+    "PrizeQualityName": "G Prize",
+    "PrizeQualityShortName": "",
+    "PrizeQualityColor": "#4B4B4B",
+    "PrizeQualityIcon": "ui/atlas/ichibankuji_common/img_ichibankuji_main_level_08"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "233": {
     "Id": 233,
-    "ShopName": "Guild Store",
+    "ShopName": "Grocery Store",
     "SystemId": 100233,
     "Npc": "",
     "ShowType": 0,
@@ -9,7 +9,8 @@
     "CameraTemplateId": [],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "234": {
     "Id": 234,
@@ -25,7 +26,8 @@
     ],
     "ExchangeBtnName": "Crafting",
     "Trace": true,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "235": {
     "Id": 235,
@@ -37,7 +39,8 @@
     "CameraTemplateId": [],
     "ExchangeBtnName": "",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "237": {
     "Id": 237,
@@ -49,7 +52,8 @@
     "CameraTemplateId": [],
     "ExchangeBtnName": "",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "238": {
     "Id": 238,
@@ -61,7 +65,8 @@
     "CameraTemplateId": [],
     "ExchangeBtnName": "",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "239": {
     "Id": 239,
@@ -77,7 +82,8 @@
     ],
     "ExchangeBtnName": "Crafting",
     "Trace": true,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "240": {
     "Id": 240,
@@ -91,7 +97,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "244": {
     "Id": 244,
@@ -105,7 +112,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "245": {
     "Id": 245,
@@ -119,7 +127,16 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 1
+    "Screen": 1,
+    "ConditionShow": [
+      [
+        27,
+        1,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "247": {
     "Id": 247,
@@ -133,11 +150,12 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "248": {
     "Id": 248,
-    "ShopName": "Gear Exchange - Lv.60",
+    "ShopName": "Lv.60 Gear Exchange",
     "SystemId": 100248,
     "Npc": "",
     "ShowType": 0,
@@ -147,11 +165,20 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 1
+    "Screen": 1,
+    "ConditionShow": [
+      [
+        27,
+        1,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "249": {
     "Id": 249,
-    "ShopName": "Gear Exchange - Lv.80",
+    "ShopName": "Lv.80 Gear Exchange",
     "SystemId": 100249,
     "Npc": "",
     "ShowType": 0,
@@ -161,7 +188,16 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 1
+    "Screen": 1,
+    "ConditionShow": [
+      [
+        27,
+        1,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "250": {
     "Id": 250,
@@ -175,7 +211,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "251": {
     "Id": 251,
@@ -189,7 +226,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "252": {
     "Id": 252,
@@ -203,7 +241,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "253": {
     "Id": 253,
@@ -217,7 +256,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "254": {
     "Id": 254,
@@ -231,7 +271,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "255": {
     "Id": 255,
@@ -245,7 +286,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "256": {
     "Id": 256,
@@ -259,7 +301,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "257": {
     "Id": 257,
@@ -273,7 +316,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "258": {
     "Id": 258,
@@ -287,7 +331,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "259": {
     "Id": 259,
@@ -301,7 +346,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 1
+    "Screen": 1,
+    "ConditionShow": []
   },
   "261": {
     "Id": 261,
@@ -315,7 +361,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "262": {
     "Id": 262,
@@ -329,7 +376,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "263": {
     "Id": 263,
@@ -343,7 +391,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "264": {
     "Id": 264,
@@ -357,7 +406,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "265": {
     "Id": 265,
@@ -371,7 +421,8 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 0
+    "Screen": 0,
+    "ConditionShow": []
   },
   "266": {
     "Id": 266,
@@ -385,7 +436,16 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 1
+    "Screen": 1,
+    "ConditionShow": [
+      [
+        27,
+        1,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "267": {
     "Id": 267,
@@ -399,7 +459,16 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 1
+    "Screen": 1,
+    "ConditionShow": [
+      [
+        27,
+        1,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "268": {
     "Id": 268,
@@ -413,6 +482,69 @@
     ],
     "ExchangeBtnName": "Exchange",
     "Trace": false,
-    "Screen": 1
+    "Screen": 1,
+    "ConditionShow": []
+  },
+  "270": {
+    "Id": 270,
+    "ShopName": "Meowlux Candy House",
+    "SystemId": 100270,
+    "Npc": "",
+    "ShowType": 0,
+    "CurrencyDisplay": [],
+    "CameraTemplateId": [
+      4033
+    ],
+    "ExchangeBtnName": "Exchange",
+    "Trace": false,
+    "Screen": 0,
+    "ConditionShow": []
+  },
+  "269": {
+    "Id": 269,
+    "ShopName": "Gear Exchange",
+    "SystemId": 100269,
+    "Npc": "",
+    "ShowType": 0,
+    "CurrencyDisplay": [],
+    "CameraTemplateId": [
+      4011
+    ],
+    "ExchangeBtnName": "Exchange",
+    "Trace": false,
+    "Screen": 1,
+    "ConditionShow": []
+  },
+  "271": {
+    "Id": 271,
+    "ShopName": "Dreamweave Silk & Dust Shop",
+    "SystemId": 100271,
+    "Npc": "",
+    "ShowType": 0,
+    "CurrencyDisplay": [
+      1070049
+    ],
+    "CameraTemplateId": [
+      4034
+    ],
+    "ExchangeBtnName": "Exchange",
+    "Trace": false,
+    "Screen": 0,
+    "ConditionShow": []
+  },
+  "272": {
+    "Id": 272,
+    "ShopName": "Illusion Relic Exchange",
+    "SystemId": 100272,
+    "Npc": "",
+    "ShowType": 0,
+    "CurrencyDisplay": [],
+    "CameraTemplateId": [
+      4032
+    ],
+    "ExchangeBtnName": "Exchange",
+    "Trace": false,
+    "Screen": 1,
+    "ConditionShow": []
   }
 }

@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SetKeyboardTableBase {
-  int32 id = 1463;
-  int_array action_ids = 1695;
-  int32 map_category_id = 1371;
-  mlstring set_des = 1939;
-  int32 keyboard_des = 383;
-  int32 function_id = 149;
-  int32 sort = 1643;
-  int32 show_switch = 343;
-  string go_back = 1601;
+	int32 Id = 1463 [json_name = "Id"];
+	int_array ActionIds = 1695 [json_name = "ActionIds"];
+	int32 MapCategoryId = 1371 [json_name = "MapCategoryId"];
+	mlstring SetDes = 1939 [json_name = "SetDes"];
+	int32 KeyboardDes = 383 [json_name = "KeyboardDes"];
+	int32 FunctionId = 149 [json_name = "FunctionId"];
+	int32 Sort = 1643 [json_name = "Sort"];
+	int32 ShowSwitch = 343 [json_name = "ShowSwitch"];
+	string GoBack = 1601 [json_name = "GoBack"];
 }
 
 message SetKeyboardTableMgr {
-  map<int32, bokura.SetKeyboardTableBase> datas = 1;
+	map<int32, SetKeyboardTableBase> datas = 1 [json_name = "datas"];
 }
-

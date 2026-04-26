@@ -1,46 +1,45 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message DungeonsTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  mlstring content = 783;
-  int32 function_id = 850;
-  int32 play_type = 199;
-  int32 scene_id = 751;
-  int_table condition = 1634;
-  int_array limited_num = 1856;
-  int_array item_consume = 1717;
-  int_array dungeons_limit = 949;
-  int32 kick_time = 1615;
-  int32 end_time = 173;
-  int32 monster_gs = 537;
-  int32 show_result_hud_type = 794;
-  vector3 result_curscene_pos = 1488;
-  int_array explore_config = 957;
-  int_table explore_award = 1402;
-  int32 hide_quest = 539;
-  int_table dungeon_target = 614;
-  int_array first_pass_award = 890;
-  int_array pass_award = 1175;
-  int32 count_limit = 1222;
-  mlstring fail_text = 954;
-  int32 disable_transport = 758;
-  int32 active_state_time = 813;
-  int32 ready_state_time = 369;
-  int32 playing_state_time = 550;
-  int32 settlement_state_time = 737;
-  int32 exit_transfer_type = 1080;
-  int_array affix = 1436;
-  int32 affix_pool = 870;
-  bool attr_grow_range_buff = 683;
-  int32 dungeons_attr_grow_range = 1802;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	mlstring Content = 783 [json_name = "Content"];
+	int32 FunctionID = 850 [json_name = "FunctionID"];
+	int32 PlayType = 199 [json_name = "PlayType"];
+	int32 SceneID = 751 [json_name = "SceneID"];
+	int_table Condition = 1634 [json_name = "Condition"];
+	int_array LimitedNum = 1856 [json_name = "LimitedNum"];
+	int_array ItemConsume = 1717 [json_name = "ItemConsume"];
+	int_array DungeonsLimit = 949 [json_name = "DungeonsLimit"];
+	int32 KickTime = 1615 [json_name = "KickTime"];
+	int32 EndTime = 173 [json_name = "EndTime"];
+	int32 MonsterGS = 537 [json_name = "MonsterGS"];
+	int32 ShowResultHudType = 794 [json_name = "ShowResultHudType"];
+	vector3 ResultCurscenePos = 1488 [json_name = "ResultCurscenePos"];
+	int_array ExploreConfig = 957 [json_name = "ExploreConfig"];
+	int_table ExploreAward = 1402 [json_name = "ExploreAward"];
+	int32 HideQuest = 539 [json_name = "HideQuest"];
+	int_table DungeonTarget = 614 [json_name = "DungeonTarget"];
+	int_array FirstPassAward = 890 [json_name = "FirstPassAward"];
+	int_array PassAward = 1175 [json_name = "PassAward"];
+	int32 CountLimit = 1222 [json_name = "CountLimit"];
+	mlstring FailText = 954 [json_name = "FailText"];
+	int32 DisableTransport = 758 [json_name = "DisableTransport"];
+	int32 ActiveStateTime = 813 [json_name = "ActiveStateTime"];
+	int32 ReadyStateTime = 369 [json_name = "ReadyStateTime"];
+	int32 PlayingStateTime = 550 [json_name = "PlayingStateTime"];
+	int32 SettlementStateTime = 737 [json_name = "SettlementStateTime"];
+	int32 ExitTransferType = 1080 [json_name = "ExitTransferType"];
+	int_array Affix = 1436 [json_name = "Affix"];
+	int32 AffixPool = 870 [json_name = "AffixPool"];
+	bool AttrGrowRangeBuff = 683 [json_name = "AttrGrowRangeBuff"];
+	int32 DungeonsAttrGrowRange = 1802 [json_name = "DungeonsAttrGrowRange"];
 }
 
 message DungeonsTableMgr {
-  map<int32, bokura.DungeonsTableBase> datas = 1;
+	map<int32, DungeonsTableBase> datas = 1 [json_name = "datas"];
 }
-

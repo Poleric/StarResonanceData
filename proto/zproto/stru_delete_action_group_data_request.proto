@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message DeleteActionGroupDataRequest {
+	int32 actionGroupId = 1 [json_name = "actionGroupId"];
+}

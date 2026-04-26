@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ReJectUnionInviteRequest {
-  int64 invite_id = 1;
+	int64 InviteId = 1 [json_name = "InviteId"];
 }
-

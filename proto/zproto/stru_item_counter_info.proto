@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ItemCounterInfo {
+	int32 id = 1 [json_name = "id"];
+	int64 counter = 2 [json_name = "counter"];
+	int64 accumulateLimit = 3 [json_name = "accumulateLimit"];
+	int64 endTime = 4 [json_name = "endTime"];
+}

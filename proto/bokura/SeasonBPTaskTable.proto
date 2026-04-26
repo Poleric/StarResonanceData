@@ -1,26 +1,25 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SeasonBPTaskTableBase {
-  int32 target_id = 1432;
-  int32 major_type = 1095;
-  int32 target_group = 1238;
-  int32 target = 1340;
-  int32 award_id = 1197;
-  int32 show_week = 1339;
-  string_array condition = 1634;
-  int32 daily_task_random = 859;
-  int32 quick_jump_type = 506;
-  int_array quick_jump = 75;
-  int32 season = 620;
-  int32 pass_award = 1175;
-  string desc = 1953;
+	int32 TargetId = 1432 [json_name = "TargetId"];
+	int32 MajorType = 1095 [json_name = "MajorType"];
+	int32 TargetGroup = 1238 [json_name = "TargetGroup"];
+	int32 Target = 1340 [json_name = "Target"];
+	int32 AwardId = 1197 [json_name = "AwardId"];
+	int32 ShowWeek = 1339 [json_name = "ShowWeek"];
+	string_array Condition = 1634 [json_name = "Condition"];
+	int32 DailyTaskRandom = 859 [json_name = "DailyTaskRandom"];
+	int32 QuickJumpType = 506 [json_name = "QuickJumpType"];
+	int_array QuickJump = 75 [json_name = "QuickJump"];
+	int32 Season = 620 [json_name = "Season"];
+	int32 PassAward = 1175 [json_name = "PassAward"];
+	string Desc = 1953 [json_name = "Desc"];
 }
 
 message SeasonBPTaskTableMgr {
-  map<int32, bokura.SeasonBPTaskTableBase> datas = 1;
+	map<int32, SeasonBPTaskTableBase> datas = 1 [json_name = "datas"];
 }
-

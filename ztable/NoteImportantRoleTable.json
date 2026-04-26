@@ -5,7 +5,7 @@
     "RoleName": "Airona",
     "RoleSex": "Female",
     "RoleIdentity": "Legendary Adventurer",
-    "RoleWeapon": "Rune Ring",
+    "RoleWeapon": "Spell Ring",
     "RoleCharacter": "- A super sweet and easygoing girl (self-proclaimed).<br>- Often says she \"can't be bothered with trouble,\" but she's incredibly reliable when it matters most.<br>- Has a bit of a mischievous streak and enjoys teasing those she's close to.<br>- (Treasures her hair.)",
     "BgIntroduction": "Airona is a renowned legendary adventurer, possessing knowledge and experience far beyond that of an ordinary person. But throughout her journeys on The Continent of Magna, no one knows her origins, and Airona herself has always kept to herself. <br>Until the day she brought you back from the forest. <br>Airona holds many secrets, the story between you and her has only just begun. There's still a long road ahead. <br>\"Don't be shackled by yesterday, because I will face the uncharted, unknown tomorrow with you. \"",
     "HeadIcon": "ui/textures/handbook_character/handbook_character_avatar_1001",
@@ -68,7 +68,7 @@
     "RoleName": "Jerrad",
     "RoleSex": "Male",
     "RoleIdentity": "Asterleeds - Defense Corps Deputy",
-    "RoleWeapon": "Guardblade",
+    "RoleWeapon": "Guard Blade",
     "RoleCharacter": "- A witty, cheerful, and proactive good guy.<br>- Energetic, treats people with warmth and kindness, and is easy to get close to.<br>- Usually seems carefree and unfocused, but is actually very meticulous and always perceptive of others' feelings.<br>- (His beloved companion is a pig named Whirlwind Sweetheart.)",
     "BgIntroduction": "The second-in-command of the Asterleeds Defense Corps, the Dominion right-hand man, the rumored \"Working Warrior\"... Jerrad might be one of the busiest people in the entire city. <br>On his days off, he often darts through the streets and alleys, working some unexpected part-time jobs.<br>Does this guy ever get tired? <br>\"Shh, I have my own ways of slacking off. \"",
     "HeadIcon": "ui/textures/handbook_character/handbook_character_avatar_1004",
@@ -235,6 +235,72 @@
     "Param": [
       -2,
       10510
+    ],
+    "IsHide": false
+  },
+  "1012": {
+    "Id": 1012,
+    "Episode": 1012,
+    "RoleName": "Fafala",
+    "RoleSex": "Female",
+    "RoleIdentity": "Lallipar Villager",
+    "RoleWeapon": "Aegis",
+    "RoleCharacter": "- A petite girl who always wears a gentle smile.<br>- Sensitive and easily worried about others. She always wants to help, but often frets that she hasn't done enough.<br>- When listening to stories, she unconsciously holds her breath and becomes completely absorbed.<br>- (She secretly frowns when doing accounting, then pretends nothing happened.)",
+    "BgIntroduction": "Fafala is a hardworking and beloved girl in Lallipar, skilled in sewing and farm work—there's almost nothing she can't help with. She often weaves through the village with her little basket, preparing feed for the Caprahorns or mending clothes for the neighbors.<br>Only when it comes to accounting does she end up scratching her head with a helpless sigh. <br>Whenever a caravan or Pilgrims visit, Fafala rushes over to lend a hand, just so she can listen to stories during their rest. To her, those distant tales are windows to the world. <br>\"Helping everyone is the best. Then comes listening to stories... and then tasty food.\"",
+    "HeadIcon": "ui/textures/handbook_character/handbook_character_avatar_1012",
+    "ModelId": 2100031,
+    "ModelRatio": 1.0,
+    "RoleCharacterAnim": "as_wpnpc_f_base_farfara_sidle",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      2,
+      10601
+    ],
+    "IsHide": false
+  },
+  "1013": {
+    "Id": 1013,
+    "Episode": 1013,
+    "RoleName": "Darya",
+    "RoleSex": "Female",
+    "RoleIdentity": "Magna's \"Top\" Treasure Hunter",
+    "RoleWeapon": "Mysterious Little Hammer",
+    "RoleCharacter": "- A quirky, lively, and sly treasure hunter.<br>- Has an almost instinctive nose for Luno and treasures.<br>- Loves challenges and adventure, and is endlessly curious about anything \"dangerous.\" <br>(Dressing like a cat is just a personal quirk!)",
+    "BgIntroduction": "Darya is a treasure hunter whose footsteps span the entire Continent of Magna. She excels at selling the rare treasures she collects during her travels for handsome profits and enjoys chatting at market stalls to captivate crowds. Yet recently, this energetic hunter has left the bustling markets behind and returned to the desolate Bahamar Highlands. Her pack is still stuffed full, but her steps are lighter than ever. <br>Is she pursuing some unparalleled treasure—or chasing a reason no one has ever heard of? No one knows the answer... except herself. <br>\"Treasure! Antiques! Glittering Luno! There's nothing more beautiful than wealth. And even if there is, I refuse to admit it! \"",
+    "HeadIcon": "ui/textures/handbook_character/handbook_character_avatar_1013",
+    "ModelId": 2100034,
+    "ModelRatio": 1.0,
+    "RoleCharacterAnim": "as_wpnpc_f_base_daya_sidle",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      2,
+      10702
+    ],
+    "IsHide": false
+  },
+  "1014": {
+    "Id": 1014,
+    "Episode": 1014,
+    "RoleName": "Boyce",
+    "RoleSex": "Male",
+    "RoleIdentity": "Bapharian Creed​ Guard",
+    "RoleWeapon": "Staff",
+    "RoleCharacter": "- A composed and upright young man who always stands with perfect posture.<br>- He speaks little, but every word is measured and precise.<br>- His cautious manner often leads others to mistake him for aloof...<br>- (He has a history with a dragon—the scar on his right hand is a souvenir from that encounter.)",
+    "BgIntroduction": "Boyce is one of the guards of the Bapharian Creed​, widely regarded as the embodiment of discipline and strength. Calm, intelligent, and highly capable, he still maintains humility and decorum at all times. To most, his aloofness adds to his mysterious aura, but those who know him understand it's simply his awkwardness in social situations. <br>Boyce understands the true weight of strength, which makes him especially careful in his duties. No matter who calls for help, he is always the first to arrive. <br>\"I once believed that having enough strength meant I would fear nothing. But the ones who truly taught me courage... were those who walked beside me. \"",
+    "HeadIcon": "ui/textures/handbook_character/handbook_character_avatar_1014",
+    "ModelId": 2100035,
+    "ModelRatio": 1.0,
+    "RoleCharacterAnim": "as_wpnpc_m_base_boyce_sidle",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      2,
+      10602
     ],
     "IsHide": false
   }

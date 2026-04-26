@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message CommunityUnlockFurnitureRecipeRequest {
-  int32 furniture_id = 1;
+	int32 furnitureId = 1 [json_name = "furnitureId"];
 }
-

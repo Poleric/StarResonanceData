@@ -1,0 +1,87 @@
+{
+  "1": {
+    "Id": 1,
+    "UnlockCondition": [],
+    "ConsumableItems": []
+  },
+  "2": {
+    "Id": 2,
+    "UnlockCondition": [],
+    "ConsumableItems": []
+  },
+  "3": {
+    "Id": 3,
+    "UnlockCondition": [],
+    "ConsumableItems": []
+  },
+  "4": {
+    "Id": 4,
+    "UnlockCondition": [],
+    "ConsumableItems": [
+      [
+        1074006,
+        1
+      ]
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "UnlockCondition": [],
+    "ConsumableItems": [
+      [
+        1074006,
+        1
+      ]
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "UnlockCondition": [],
+    "ConsumableItems": [
+      [
+        1074006,
+        1
+      ]
+    ]
+  },
+  "7": {
+    "Id": 7,
+    "UnlockCondition": [],
+    "ConsumableItems": [
+      [
+        1074006,
+        1
+      ]
+    ]
+  },
+  "8": {
+    "Id": 8,
+    "UnlockCondition": [],
+    "ConsumableItems": [
+      [
+        1074006,
+        1
+      ]
+    ]
+  },
+  "9": {
+    "Id": 9,
+    "UnlockCondition": [],
+    "ConsumableItems": [
+      [
+        1074006,
+        1
+      ]
+    ]
+  },
+  "10": {
+    "Id": 10,
+    "UnlockCondition": [],
+    "ConsumableItems": [
+      [
+        1074006,
+        1
+      ]
+    ]
+  }
+}

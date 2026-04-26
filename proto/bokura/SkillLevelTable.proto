@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SkillLevelTableBase {
-  int32 id = 1463;
-  int_table cost = 1056;
-  int_table extra_cost = 1788;
+	int32 Id = 1463 [json_name = "Id"];
+	int_table Cost = 1056 [json_name = "Cost"];
+	int_table ExtraCost = 1788 [json_name = "ExtraCost"];
 }
 
 message SkillLevelTableMgr {
-  map<int32, bokura.SkillLevelTableBase> datas = 1;
+	map<int32, SkillLevelTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_warehouse_exit_type.proto";
 
-message NotifyWarehousePassiveExistRequest {
-  zproto.WarehouseExitType exit_type = 1;
-  int64 char_id = 2;
-}
+package zproto;
 
+message NotifyWarehousePassiveExistRequest {
+	WarehouseExitType exitType = 1 [json_name = "exitType"];
+	int64 charId = 2 [json_name = "charId"];
+}

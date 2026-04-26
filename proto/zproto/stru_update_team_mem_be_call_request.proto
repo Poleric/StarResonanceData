@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message UpdateTeamMemBeCallRequest {
-  map<int64, int32> call_state = 1;
+	map<int64, int32> callState = 1 [json_name = "callState"];
 }
-

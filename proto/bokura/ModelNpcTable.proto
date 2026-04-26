@@ -1,38 +1,37 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ModelNpcTableBase {
-  int32 model_prefab_id = 5;
-  string model_prefab_desc = 1152;
-  int32 sex = 1062;
-  int32 model = 421;
-  vector3 skin = 915;
-  string skeleton = 1130;
-  string anim_template = 1244;
-  vector3_array skeleton_color = 493;
-  string emo_prefix = 857;
-  string head = 664;
-  string anim_head_template = 139;
-  vector3_array eye_color = 1505;
-  string hair = 574;
-  vector3_array hair_color = 1621;
-  string headwear = 709;
-  vector3_array headwear_color = 763;
-  string mask = 74;
-  vector3_array mask_color = 1840;
-  string back = 251;
-  vector3_array back_color = 570;
-  string hand_object = 101;
-  vector3_array hand_object_color = 646;
-  string weaponl = 1310;
-  string weaponr = 1690;
-  string weapon_idle_anim = 102;
+	int32 ModelPrefabID = 5 [json_name = "ModelPrefabID"];
+	string ModelPrefabDesc = 1152 [json_name = "ModelPrefabDesc"];
+	int32 Sex = 1062 [json_name = "Sex"];
+	int32 Model = 421 [json_name = "Model"];
+	vector3 Skin = 915 [json_name = "Skin"];
+	string Skeleton = 1130 [json_name = "Skeleton"];
+	string AnimTemplate = 1244 [json_name = "AnimTemplate"];
+	vector3_array SkeletonColor = 493 [json_name = "SkeletonColor"];
+	string EmoPrefix = 857 [json_name = "EmoPrefix"];
+	string Head = 664 [json_name = "Head"];
+	string AnimHeadTemplate = 139 [json_name = "AnimHeadTemplate"];
+	vector3_array EyeColor = 1505 [json_name = "EyeColor"];
+	string Hair = 574 [json_name = "Hair"];
+	vector3_array HairColor = 1621 [json_name = "HairColor"];
+	string Headwear = 709 [json_name = "Headwear"];
+	vector3_array HeadwearColor = 763 [json_name = "HeadwearColor"];
+	string Mask = 74 [json_name = "Mask"];
+	vector3_array MaskColor = 1840 [json_name = "MaskColor"];
+	string Back = 251 [json_name = "Back"];
+	vector3_array BackColor = 570 [json_name = "BackColor"];
+	string HandObject = 101 [json_name = "HandObject"];
+	vector3_array HandObjectColor = 646 [json_name = "HandObjectColor"];
+	string WeaponL = 1310 [json_name = "WeaponL"];
+	string WeaponR = 1690 [json_name = "WeaponR"];
+	string WeaponIdleAnim = 102 [json_name = "WeaponIdleAnim"];
 }
 
 message ModelNpcTableMgr {
-  map<int32, bokura.ModelNpcTableBase> datas = 1;
+	map<int32, ModelNpcTableBase> datas = 1 [json_name = "datas"];
 }
-

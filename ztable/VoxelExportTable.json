@@ -3,11 +3,7 @@
     "Id": 1,
     "Name": "主城",
     "SceneFilePath": "scene/maps/cty001new.unity",
-    "CubePosition": [
-      122.3,
-      65.9,
-      65.0
-    ],
+    "CubePosition": [],
     "ColliderSize": [
       600.0,
       160.0,

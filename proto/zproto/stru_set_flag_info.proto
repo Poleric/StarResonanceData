@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message SetFlagInfo {
-  int32 monster_id = 1;
-  bool is_flag = 2;
+	int32 monsterId = 1 [json_name = "monsterId"];
+	bool isFlag = 2 [json_name = "isFlag"];
 }
-

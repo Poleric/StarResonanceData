@@ -1,29 +1,28 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_quest_data.proto";
 import "stru_quest_history.proto";
 import "stru_world_quest_info.proto";
 import "stru_world_quest_list.proto";
 import "stru_dirty_mask.proto";
 
-message QuestDataList {
-  map<uint32, zproto.QuestData> quest_map = 1;
-  map<uint32, bool> finish_quest = 2;
-  uint32 tracking_id = 3;
-  map<uint32, uint32> finish_reset_quest = 4;
-  map<uint32, zproto.QuestHistory> history_map = 5;
-  int64 world_quest_time_stamp = 6;
-  map<uint32, zproto.WorldQuestInfo> world_quest_info = 7;
-  map<uint32, uint32> all_world_quest_list = 8;
-  map<uint32, uint32> blue_world_quest_map = 9;
-  map<int32, zproto.worldQuestList> filter_event_id = 10;
-  repeated uint32 accept_quest_list = 11;
-  repeated uint32 follow_world_quest_list = 12;
-  map<uint32, uint32> track_optional_quest = 13;
-  map<uint32, uint32> finish_reset_quest_count = 14;
-  map<uint32, bool> accept_quest_map = 15;
-  uint64 version = 16;
-}
+package zproto;
 
+message QuestDataList {
+	map<uint32, QuestData> questMap = 1 [json_name = "questMap"];
+	map<uint32, bool> finishQuest = 2 [json_name = "finishQuest"];
+	uint32 trackingId = 3 [json_name = "trackingId"];
+	map<uint32, uint32> finishResetQuest = 4 [json_name = "finishResetQuest"];
+	map<uint32, QuestHistory> historyMap = 5 [json_name = "historyMap"];
+	int64 worldQuestTimeStamp = 6 [json_name = "worldQuestTimeStamp"];
+	map<uint32, WorldQuestInfo> worldQuestInfo = 7 [json_name = "worldQuestInfo"];
+	map<uint32, uint32> allWorldQuestList = 8 [json_name = "allWorldQuestList"];
+	map<uint32, uint32> blueWorldQuestMap = 9 [json_name = "blueWorldQuestMap"];
+	map<int32, worldQuestList> filterEventId = 10 [json_name = "filterEventId"];
+	repeated uint32 acceptQuestList = 11 [json_name = "acceptQuestList"];
+	repeated uint32 followWorldQuestList = 12 [json_name = "followWorldQuestList"];
+	map<uint32, uint32> trackOptionalQuest = 13 [json_name = "trackOptionalQuest"];
+	map<uint32, uint32> finishResetQuestCount = 14 [json_name = "finishResetQuestCount"];
+	map<uint32, bool> acceptQuestMap = 15 [json_name = "acceptQuestMap"];
+	uint64 version = 16 [json_name = "version"];
+}

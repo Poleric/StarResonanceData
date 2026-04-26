@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "enum_e_hide_seek_result.proto";
+import "stru_hide_seek_play_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message DungeonHideSeekData {
+	map<int64, HideSeekPlayInfo> hideSeekPlayerInfos = 1 [json_name = "hideSeekPlayerInfos"];
+	EHideSeekResult result = 2 [json_name = "result"];
+}

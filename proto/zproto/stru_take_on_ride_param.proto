@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_ride_property_type.proto";
 
-message TakeOnRideParam {
-  zproto.ERidePropertyType ride_type = 1;
-  int32 ride_id = 2;
-}
+package zproto;
 
+message TakeOnRideParam {
+	ERidePropertyType RideType = 1 [json_name = "RideType"];
+	int32 RideId = 2 [json_name = "RideId"];
+}

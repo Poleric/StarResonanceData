@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message EquipInfo {
-  int32 equip_slot = 1;
-  uint64 item_uuid = 2;
-  uint32 equip_slot_refine_level = 3;
-  uint32 equip_slot_refine_failed_count = 4;
-}
+package zproto;
 
+message EquipInfo {
+	int32 equipSlot = 1 [json_name = "equipSlot"];
+	uint64 itemUuid = 2 [json_name = "itemUuid"];
+	uint32 equipSlotRefineLevel = 3 [json_name = "equipSlotRefineLevel"];
+	uint32 equipSlotRefineFailedCount = 4 [json_name = "equipSlotRefineFailedCount"];
+}

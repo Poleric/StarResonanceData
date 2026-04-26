@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_home_land_item_instance.proto";
 import "stru_structure_land_op.proto";
 
-message PollenUpdateStructureRequest {
-  int64 home_id = 1;
-  zproto.StructureLandOp op = 2;
-  zproto.HomeLandItemInstance pollen_instance = 3;
-}
+package zproto;
 
+message PollenUpdateStructureRequest {
+	int64 homeId = 1 [json_name = "homeId"];
+	StructureLandOp op = 2 [json_name = "op"];
+	HomeLandItemInstance pollenInstance = 3 [json_name = "pollenInstance"];
+}

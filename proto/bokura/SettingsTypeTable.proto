@@ -3,13 +3,12 @@ syntax = "proto3";
 package bokura;
 
 message SettingsTypeTableBase {
-  int32 types_id = 1912;
-  int32 system_id = 518;
-  string name = 439;
-  int32 sort = 1643;
+	int32 TypesId = 1912 [json_name = "TypesId"];
+	int32 SystemId = 518 [json_name = "SystemId"];
+	string Name = 439 [json_name = "Name"];
+	int32 Sort = 1643 [json_name = "Sort"];
 }
 
 message SettingsTypeTableMgr {
-  map<int32, bokura.SettingsTypeTableBase> datas = 1;
+	map<int32, SettingsTypeTableBase> datas = 1 [json_name = "datas"];
 }
-

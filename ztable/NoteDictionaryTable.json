@@ -138,8 +138,8 @@
     "Id": 1010,
     "DictionaryType": 3,
     "Episode": 1010,
-    "Name": "Void Mist",
-    "DictionaryDes": "A twisted form of Engram of unknown origin, appearing as black mist cloud. <br>When Void Mist appears, the Engram in the surrounding space becomes chaotic and extremely dangerous. <br><br>Besides, Void Mist and Engram undergo a neutralization reaction, so the only way to dispel it is to inject a large amount of Engram into the contaminated area.",
+    "Name": "Void Engram",
+    "DictionaryDes": "A twisted form of Engram of unknown origin, appearing as black mist cloud. <br>When Void Engram appears, the Engram in the surrounding space becomes chaotic and extremely dangerous. <br><br>Besides, Void Engram and Engram undergo a neutralization reaction, so the only way to dispel it is to inject a large amount of Engram into the contaminated area.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -171,7 +171,7 @@
     "DictionaryType": 1,
     "Episode": 1012,
     "Name": "About Me - II",
-    "DictionaryDes": "After a brief moment of stun and discomfort, I found my body dissipating into the air like wind-blown flower petals...<br>In the end, this dissipation seems related to certain events I experienced before, and it is precisely these experiences that caused my memory loss and Attack Damage.",
+    "DictionaryDes": "After a brief moment of stun and discomfort, I found my body dissipating into the air like wind-blown flower petals...<br>In the end, this dissipation seems related to certain events I experienced before, and it is precisely these experiences that caused my memory loss and physical injuries.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -187,7 +187,7 @@
     "DictionaryType": 2,
     "Episode": 1013,
     "Name": "The Dissipating Man in Black",
-    "DictionaryDes": "We finally tracked the source of the Void Mist to a mysterious person dressed in a pitch-black robe. <br>It was he who deliberately spread the Void Mist, causing all the strange Engram Anomalys on the plains. <br><br>When defeated, the Man in Black knelt on the ground, obsessively whispering, <style=\"ItemQuality_5\">\"How can such a grand cause be...\" </style>, and then dissipated into black mist.",
+    "DictionaryDes": "We finally tracked the source of the Void Engram to a mysterious person dressed in a pitch-black robe. <br>It was he who deliberately spread the Void Engram, causing all the strange Engram Anomalys on the plains. <br><br>When defeated, the Man in Black knelt on the ground, obsessively whispering, <style=\"ItemQuality_5\">\"How can such a grand cause be...\" </style>, and then dissipated into black mist.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -267,7 +267,7 @@
     "DictionaryType": 1,
     "Episode": 1018,
     "Name": "About Me - III",
-    "DictionaryDes": "The Man in Black mentioned that I don't seem to be controlled by the Void Mist. <br>It seems there is some mysterious power hidden within my body...",
+    "DictionaryDes": "The Man in Black mentioned that I don't seem to be controlled by the Void Engram. <br>It seems there is some mysterious power hidden within my body...",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -299,7 +299,7 @@
     "DictionaryType": 2,
     "Episode": 1020,
     "Name": "Tina's Inner Struggle",
-    "DictionaryDes": "War made Tina feel powerless. The loss of comrades and the Kanamian tragedy haunted her deeply.<br>Though called a hero, the Council restricted her freedom as a Seal Watcher.<br>The Void Mist amplified her pain, pulling her into darkness.<br><br>In a crucial moment, I resonated with her Bio-Engram and entered her mind. Together, we faced the pain she had buried-loss, despair, and the freedom she could never reach.",
+    "DictionaryDes": "War made Tina feel powerless. The loss of comrades and the Kanamian tragedy haunted her deeply.<br>Though called a hero, the Council restricted her freedom as a Seal Watcher.<br>The Void Engram amplified her pain, pulling her into darkness.<br><br>In a crucial moment, I resonated with her Bio-Engram and entered her mind. Together, we faced the pain she had buried-loss, despair, and the freedom she could never reach.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -315,7 +315,7 @@
     "DictionaryType": 1,
     "Episode": 1021,
     "Name": "About Me - IV",
-    "DictionaryDes": "I seem to possess a special <style=\"ItemQuality_5\">Resonance Power</style>, allowing deep connections with others' Bio-Engrams and restoring life touched by the Void Mist.<br>It was this power that let me enter Tina's Mindrealm and bring her back from the edge.<br>And somehow, this power is deeply tied to my past...<br><br>Hruga sent the medal fragment through her follower-it's clear she's been watching my <style=\"ItemQuality_5\">Resonance Power</style>.<br>After all, it's a direct threat to the Void Mist.",
+    "DictionaryDes": "I appear to possess a special <style=\"ItemQuality_5\">Resonance Power</style>, allowing deep connections with others' Bio-Engram and restoring life touched by the Void Engram. It was this power that let me enter Tina's Mindrealm and bring her back from the edge. <br>And the source of this power seems to be closely tied to my past...<br><br>The fact that Hruga sent me the remaining horn fragments through her followers means she's already set her sights on my <style=\"ItemQuality_5\">Resonance Power</style> secretly. <br>After all, it's a direct threat to the Void Engram.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -347,7 +347,7 @@
     "DictionaryType": 1,
     "Episode": 1023,
     "Name": "The Witch's Whisper",
-    "DictionaryDes": "The gift inside the box turned out to be... a <style=\"ItemQuality_5\">fragment of Tina's Medal</style>?!<br><br>The moment my fingers brushed against the shard, a whisper echoed in my mind-<br>\"Accept my gift. I shall bestow upon thee the blade that can sunder fate itself. \"<br><br>Moments later, my consciousness began to fade... as if I were drifting into the depths of the Void Mist...",
+    "DictionaryDes": "The gift inside the box turned out to be... a <style=\"ItemQuality_5\">fragment of Tina's Medal</style>?!<br><br>The moment my fingers brushed against the shard, a whisper echoed in my mind-<br>\"Accept my gift. I shall bestow upon thee the blade that can sunder fate itself. \"<br><br>Moments later, my consciousness began to fade... as if I were drifting into the depths of the Void Engram...",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -363,7 +363,7 @@
     "DictionaryType": 3,
     "Episode": 1024,
     "Name": "The Fragment of Hruga's Horn",
-    "DictionaryDes": "The black keratin shard found in Tina's medal was the very source of the Void Mist at the Knighting Ceremony.<br>The mist leaked from this fragment, and contact with it disrupts the mind, causing brief loss of control.<br><br>This tampered shard was hidden inside a Box-disguised and delivered to me.<br>Even I couldn't resist its power.<br>After years of silence, Hruga's shadow has returned to Magna. Her followers may already be moving in secret.",
+    "DictionaryDes": "The black keratin shard found in Tina's medal was the very source of the Void Engram at the Knighting Ceremony. <br>The mist leaked from this fragment, and contact with it disrupts the mind, causing brief loss of control. <br><br>This tampered shard was hidden inside a gift box—disguised as a present and delivered to me.<br>Even \"I\" couldn't resist its power. <br>After years of silence, Hruga's shadow has returned to Magna. Perhaps her followers are already working behind the scenes...",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -379,7 +379,7 @@
     "DictionaryType": 1,
     "Episode": 1025,
     "Name": "Hruga, the Witch of Calamity",
-    "DictionaryDes": "Witch Hruga, the spreader of Void Mist, is an extremely dangerous existence. <br><br>Three years ago, Hruga was sealed in the deepest part of the continent.<br>But rumor has it Hruga has recently been trying to break the seal...",
+    "DictionaryDes": "Witch Hruga, the spreader of Void Engram, is an extremely dangerous existence. <br><br>Three years ago, Hruga was sealed in the deepest part of the continent.<br>But rumor has it Hruga has recently been trying to break the seal...",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -395,7 +395,7 @@
     "DictionaryType": 3,
     "Episode": 1026,
     "Name": "Hruga's Seal",
-    "DictionaryDes": "The divine seal that holds Hruga's power is called the \"Core of Stellarium.\"<br>Those who bear it are \"Seal Watchers.\"<br>There are two Watchers in total-Tina is one of them. That's why the Council assigned guards to protect her.<br><br>The recent Plains Incident likely stems from an attempt by the black-cloaked believer to break the seal.<br>When combined with the ceremony attack, it becomes clear-<br><style=\"ItemQuality_5\">the true mastermind behind all this evil is the witch Hruga</style>, working through her followers to reclaim her power.",
+    "DictionaryDes": "The divine seal that holds Hruga's power is called the \"Core of Stellarium.\" <br>Those who bear it are \"Seal Watchers.\" <br>There are two Watchers in total—Tina is one of them. That's why the Council assigned guards to protect her. <br><br>The recent Tales of the Plains were likely attempts by Hruga's follower, the \"person in black,\" to break the Stellar Seal​. <br><br>It becomes clear that the Tales of the Plains, the attack at the ceremony, the person in black...<br>All these <style=\"ItemQuality_5\">evil acts trace back to the witch Hruga</style>, who now seeks to shatter the Stellar Seal​ on her through her follower, the person in black.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -410,8 +410,8 @@
     "Id": 1027,
     "DictionaryType": 2,
     "Episode": 1027,
-    "Name": "The Spreader of Void Mist",
-    "DictionaryDes": "The horn fragment hidden in the medal proves that the <style=\"ItemQuality_5\">Man in Black is a follower of the witch Hruga</style>.<br>They were also the one who spread the Void Mist during the Knighting Ceremony-and had previously sought Tina's classified records.<br><br>It's likely they attacked Tina to break the seal and free Hruga.<br>Now, they've set their sights on me-perhaps because they sensed my unusual resistance to the Void Mist.",
+    "Name": "The Spreader of Void Engram",
+    "DictionaryDes": "The fragment of Hruga's Horn hidden within the medal confirms that the <style=\"ItemQuality_5\">person in black is a follower of the sealed witch Hruga</style>. <br><br>When combined with the ceremony attack, it becomes clear—the true mastermind behind all this evil is the witch Hruga, working through her followers to reclaim her power. <br>Now, they've set their sights on me-perhaps because they sensed my unusual resistance to the Void Engram.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -443,7 +443,7 @@
     "DictionaryType": 3,
     "Episode": 1029,
     "Name": "Council Chair and the Council",
-    "DictionaryDes": "The highest governing body of Asterleeds consists of 17 councilors and a Council Chair, with members drawn from various sectors and communities. <br>Asterians value equality and believe the city's future should be shaped by voices from all walks of life. <br><br>The current Council Chair is <style=\"ItemQuality_5\">Lamond</style>, a kind and insightful elder. <br>He entrusted me with uncovering the truth behind the Void Mist in the medal-and granted us generous support, including the privileged Ocean Platinum Card.",
+    "DictionaryDes": "The highest governing body of Asterleeds consists of 17 councilors and a Council Chair, with members drawn from various sectors and communities. <br>Asterians value equality and believe the city's future should be shaped by voices from all walks of life. <br><br>The current Council Chair is <style=\"ItemQuality_5\">Lamond</style>, a kind and insightful elder. <br>He entrusted me with uncovering the truth behind the Void Engram in the medal-and granted us generous support, including the privileged Ocean Platinum Card.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -603,7 +603,7 @@
     "DictionaryType": 3,
     "Episode": 1039,
     "Name": "Engram Anomaly",
-    "DictionaryDes": "Engram and Void Mist are opposing forces. <br>Engram maintains life's balance, while Void Mist brings madness and chaos. <br><br>Flowing through Engram Lines, Engram nourishes the world. <br>If blocked by Void Mist, <style=\"ItemQuality_5\">Engram Anomalies</style> occur-unleashing storms, hurricanes, or floods as elemental forces spiral out of control.",
+    "DictionaryDes": "Engram and Void Engram are opposing forces. <br>Engram maintains life's balance, while Void Engram brings madness and chaos. <br><br>Flowing through Engram Lines, Engram nourishes the world. <br>If blocked by Void Engram, <style=\"ItemQuality_5\">Engram Anomalies</style> occur-unleashing storms, hurricanes, or floods as elemental forces spiral out of control.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -651,7 +651,7 @@
     "DictionaryType": 3,
     "Episode": 1042,
     "Name": "Void Sigil",
-    "DictionaryDes": "A lost and forbidden magical formula that can block the flow of Engram Lines, allowing Void Mist to spread. <br>By controlling \"Void Mist\" with Hruga's Horn, the magical formula can be activated, thus completing the placement of the sigils. <br>When all sigils are set, the magical formula will cause a large-scale spread of \"Void Mist,\" leading to a massive Void Cataclysm disaster.",
+    "DictionaryDes": "A lost and forbidden magical formula that can block the flow of Engram Lines, allowing Void Engram to spread. <br>By controlling \"Void Engram\" with Hruga's Horn, the magical formula can be activated, thus completing the placement of the sigils. <br>When all sigils are set, the magical formula will cause a large-scale spread of \"Void Engram,\" leading to a massive Void Cataclysm disaster.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -667,7 +667,7 @@
     "DictionaryType": 3,
     "Episode": 1043,
     "Name": "Denvel's True Agenda",
-    "DictionaryDes": "There are four Void Sigils: one in the Dragonclaw Ruins, one in Minsterhorn, one in the Monument Statue of the Hero,<br>and the last one is set within Asterleeds. <br>The goal of Denvel, the leader of the Dark Mist Legion, is to <style=\"ItemQuality_5\">use the Void Sigils to engulf the entire plain</style> to achieve his revenge. <br>The only way to undo this is to find a large amount of Engram to neutralize the Void Mist within the sigils, thereby dismantling Void Sigil.",
+    "DictionaryDes": "There are four Void Sigils: one in the Dragonclaw Ruins, one in Minsterhorn, one in the Monument Statue of the Hero,<br>and the last one is set within Asterleeds. <br>The goal of Denvel, the leader of the Dark Mist Legion, is to <style=\"ItemQuality_5\">use the Void Sigils to engulf the entire plain</style> to achieve his revenge. <br>The only way to undo this is to find a large amount of Engram to neutralize the Void Engram within the sigils, thereby dismantling Void Sigil.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -923,7 +923,7 @@
     "DictionaryType": 3,
     "Episode": 1059,
     "Name": "Forbidden Zone of Kanamia",
-    "DictionaryDes": "When the gates of the Forbidden Land opened, the truth was astonishing-\n the so-called <style=\"ItemQuality_5\">\"Power of the Ancestors\"</style> was actually a <style=\"ItemQuality_5\">massive Engram Collector</style>, far beyond standard priestly models. <br><br>These ancient Bapharian relics infused Engram into the water, giving it powerful Healing. <br>The flow gathered below, forming the Sacred Spring worshipped by the Kanamians for generations. <br><br>Now, this giant Collector offers new hope-\n its energy may be enough to cleanse the spreading <style=\"ItemQuality_5\">Void Sigil</style>.",
+    "DictionaryDes": "When the gates of the Forbidden Land opened, the truth was astonishing—\nthe so-called <style=\"ItemQuality_5\">\"Power of the Ancestors\"</style> was actually a <style=\"ItemQuality_5\">massive Engram Collector</style>, far beyond standard priestly models. <br><br>These ancient Bapharian Legacies infused Engram into the water, giving it powerful Healing. <br>The flow gathered below, forming the Sacred Spring worshipped by the Kanamians for generations. <br><br>Now, this giant Collector offers new hope—\nits energy may be enough to cleanse the spreading <style=\"ItemQuality_5\">Void Sigil</style>.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -939,7 +939,7 @@
     "DictionaryType": 3,
     "Episode": 1060,
     "Name": "The Spread of Void Sigils",
-    "DictionaryDes": "The Man in Black and Denvel used a forbidden Igdias' ritual to amplify the Void Sigil, a technique that causes their spread. <br>Once spread, the Void Sigil becomes even stronger and is <style=\"ItemQuality_5\">difficult to eliminate in the short term</style>. <br>Even more dangerous, if multiple Void Sigils are placed in the same area, they will amplify each other, ultimately leading to the entire region being consumed by the Void Mist.",
+    "DictionaryDes": "The Man in Black and Denvel used a forbidden Igdias' ritual to amplify the Void Sigil, a technique that causes their spread. <br>Once spread, the Void Sigil becomes even stronger and is <style=\"ItemQuality_5\">difficult to eliminate in the short term</style>. <br>Even more dangerous, if multiple Void Sigils are placed in the same area, they will amplify each other, ultimately leading to the entire region being consumed by the Void Engram.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -955,7 +955,7 @@
     "DictionaryType": 2,
     "Episode": 1061,
     "Name": "Denvel's Final Assault",
-    "DictionaryDes": "The Dark Mist Legion realized that the other Void Sigils were being dispelled, so they launched an all-out assault on the location of the final sigil: Asterleeds. <br>If Denvel completes the final mark sigil this time, all the sigils will amplify each other, eventually causing the entire plains to be swallowed by the Void Mist. <br>Therefore, it is imperative to use the massive Engram Collector found in the Forbidden Land of Kanamia to dispel the Void Sigil before he succeeds.",
+    "DictionaryDes": "The Dark Mist Legion realized that the other Void Sigils were being dispelled, so they launched an all-out assault on the location of the final sigil: Asterleeds. <br>If Denvel completes the final mark sigil this time, all the sigils will amplify each other, eventually causing the entire plains to be swallowed by the Void Engram. <br>Therefore, it is imperative to use the massive Engram Collector found in the Forbidden Land of Kanamia to dispel the Void Sigil before he succeeds.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -987,7 +987,7 @@
     "DictionaryType": 3,
     "Episode": 1063,
     "Name": "Dark Mist Fortress",
-    "DictionaryDes": "When the Asterleeds Independence War ended, the Dark Mist Legion refused the recall order and secretly established a military base in a hidden area deep within the plains. <br>After colluding with Hruga's believers, this fortress became shrouded in dense Void Mist energy, forming a barrier difficult to penetrate. <br>Now, as the Void Sigils on the plain gradually dissipate, the dark barrier surrounding the fortress has crumbled. The time for a counterattack has finally arrived.",
+    "DictionaryDes": "When the Asterleeds Independence War ended, the Dark Mist Legion refused the recall order and secretly established a military base in a hidden area deep within the plains. <br>After colluding with Hruga's follower, this fortress became shrouded in dense Void Engram energy, forming a barrier difficult to penetrate. <br>Now, as the Void Sigils on the plain gradually dissipate, the dark barrier surrounding the fortress has crumbled. The time for a counterattack has finally arrived.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -1003,7 +1003,7 @@
     "DictionaryType": 3,
     "Episode": 1064,
     "Name": "Engram Hub",
-    "DictionaryDes": "Engram flows across Planet Regnus in a network of Engram Lines.<br>The gathering points of this vein network are called Engram Hubs, where the Engram concentration and power are higher.",
+    "DictionaryDes": "Engram flows across Planet Regnus in a network of Engram Lines.<br>The gathering points of this Engram Line network are called Engram Hubs, where the Engram concentration and power are higher.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -1035,7 +1035,7 @@
     "DictionaryType": 1,
     "Episode": 1066,
     "Name": "About Me - VI",
-    "DictionaryDes": "<style=\"ItemQuality_5\">\"Sever the source of this calamity, and find your complete self.\" \"Your destination is also your origin.\" </style><br>Connecting this with the previous mysterious revelation, <style=\"ItemQuality_5\">\"The eternal calamity is nigh. Awaken, bearer of Resonance Power, remember the sign of salvation, and bear the power of all beings to halt the end of fate.\" </style><br>Airona said that my memories may hold the key to saving this continent: the secret of the source of the Void Mist.",
+    "DictionaryDes": "<style=\"ItemQuality_5\">\"Sever the source of this calamity, and find your complete self.\" \"Your destination is also your origin.\" </style><br>Connecting this with the previous mysterious revelation, <style=\"ItemQuality_5\">\"The eternal calamity is nigh. Awaken, bearer of Resonance Power, remember the sign of salvation, and bear the power of all beings to halt the end of fate.\" </style><br>Airona said that my memories may hold the key to saving this continent: the secret of the source of the Void Engram.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -1051,7 +1051,7 @@
     "DictionaryType": 4,
     "Episode": 1067,
     "Name": "The Sea Lily and Compass Before Departure",
-    "DictionaryDes": "To find Hruga's followers, I must leave Asterleeds for now-parting ways with both Olvera and Tina. <br><br>Olvera prepared travel supplies herself, including a sealed glass bottle of <style=\"ItemQuality_5\">Sea Lily petals</style>, carefully preserved. <br>Soft white and blue specks, like the pearls and waves of Asterleeds. <br><br>Tina gave me her cherished <style=\"ItemQuality_5\">old compass</style>, one she carried through her early years traveling with caravans. <br>She said it helped her find her way home when she was lost. <br><br>Goodbye, Asterleeds, Sea Lilies, and the wind of freedom. <br>May we meet again someday...",
+    "DictionaryDes": "To find Hruga's follower, I must temporarily bid farewell to Asterleeds. —parting ways with both Olvera and Tina. <br><br>Olvera prepared travel supplies herself, including a sealed glass bottle of <style=\"ItemQuality_5\">Sea Lily </style>, carefully preserved. <br>Soft white and blue specks, like the pearls and waves of Asterleeds. <br><br>Tina gave me her cherished <style=\"ItemQuality_5\">old compass</style>, <br>one she carried through her early years traveling with caravans. <br>She said it helped her find her way home when she was lost. <br><br>Goodbye, Asterleeds, Sea Lilies, and the wind of freedom. <br>May we meet again someday...",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -1066,8 +1066,8 @@
     "Id": 1068,
     "DictionaryType": 2,
     "Episode": 1068,
-    "Name": "Hruga's Believers and the Highlands",
-    "DictionaryDes": "The Man in Black, a believer of Hruga, fled with Hruga's Horn to the nearby <style=\"ItemQuality_5\">Bahamar Highlands</style>. <br>The highlands are a treacherous land full of sand, stone, and crystals, as well as many mysterious ruins left by the Divine. <br>To uncover my past and unravel the secret of the revelation, I must go to the Bahamar Highlands and find the <style=\"ItemQuality_5\">believer of Hruga</style>.",
+    "Name": "Hruga's Follower and the Highlands",
+    "DictionaryDes": "The person in black, a follower of Hruga, fled with Hruga's Horn to the nearby <style=\"ItemQuality_5\">Bahamar Highlands</style>. <br>The highlands are a treacherous land full of sand, stone, and crystals, as well as many mysterious ruins left by the Divine. <br>To uncover my past and unravel the secret of the revelation, I must go to the Bahamar Highlands and find the <style=\"ItemQuality_5\">follower of Hruga</style>.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -1227,7 +1227,7 @@
     "DictionaryType": 1,
     "Episode": 1078,
     "Name": "Energy Division of the Artisan Guild",
-    "DictionaryDes": "The Energy Division, founded by the Webber family of Byrnhald, is a special branch of the Asterleeds Artisan Guild, tasked with maintaining the Webber Energy Network.<br><br>After the Independence War, while most Byrnhalds left, the division stayed behind. Over time, ideological rifts led to their marginalization. They now rely on self-sufficiency, with rumors of secret support from Byrnhald.<br>Though officially under the Guild, they operate under Webber Industry, which funds and supports them.<br><br>Following their leader's mysterious disappearance, the sewer network began collapsing, triggering an energy crisis. The Council and Guild's silence has made this isolated team the center of the growing threat.",
+    "DictionaryDes": "The Energy Division, founded by the Webber family of Byrnhald, is a special branch of the Asterleeds Artisan Guild, tasked with maintaining the Webber Energy Network.<br><br>After the Asterleeds Independence War, while most Byrnhalds left, the division stayed behind. Over time, ideological rifts led to their marginalization. They now rely on self-sufficiency, with rumors of secret support from Byrnhald.<br>Though officially under the Guild, they operate under Webber Industry, which funds and supports them.<br><br>Following their leader's mysterious disappearance, the sewer network began collapsing, triggering an energy crisis. The Council and Guild's silence has made this isolated team the center of the growing threat.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -1291,7 +1291,7 @@
     "DictionaryType": 1,
     "Episode": 1082,
     "Name": "Movements of the Dragons",
-    "DictionaryDes": "Decades ago, dragons launched a major invasion of the The Duchy of Byrnhald, but were repelled by the Byrnhald Knights and disappeared from sight.<br><br>Today, wild dragons are still occasionally seen in remote mountains and wilderness. Though they sometimes clash with locals, their low numbers mean they pose no serious threat.<br><br>While dragons are no longer a military concern, their cultural influence remains strong. Dragon-themed stories, plays, and art thrive across the Continent of Magna, and the public still views dragons as powerful and dangerous beings.",
+    "DictionaryDes": "Decades ago, dragons launched a major invasion of the Duchy of Byrnhald, but were repelled by the Byrnhald Knights and disappeared from sight.<br><br>Today, wild dragons are still occasionally seen in remote mountains and wilderness. Though they sometimes clash with locals, their low numbers mean they pose no serious threat.<br><br>While dragons are no longer a military concern, their cultural influence remains strong. Dragon-themed stories, plays, and art thrive across the Continent of Magna, and the public still views dragons as powerful and dangerous beings.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -1355,7 +1355,7 @@
     "DictionaryType": 3,
     "Episode": 1086,
     "Name": "Secure Chest",
-    "DictionaryDes": "An advanced modified Bapharian Legacy, the Secure Casket-also known as a \"storage compartment\"-is built to hold highly valuable items.<br>It follows an irreversible protocol: unlocking conditions must be preset, such as a sound frequency, a linked object, or the owner's Bio-Engram signature.<br><br>Its outer shell, made of an unknown alloy, can withstand extreme events like volcanic eruptions and earthquakes.<br>Any forced access while sealed triggers an immediate alarm.",
+    "DictionaryDes": "An advanced modified Bapharian Legacy, the Secure Chest—also known as a \"storage compartment\"—is built to hold highly valuable items.<br>It follows an irreversible protocol: unlocking conditions must be preset, such as a sound frequency, a linked object, or the owner's Bio-Engram signature.<br><br>Its outer shell, made of an unknown alloy, can withstand extreme events like volcanic eruptions and earthquakes.<br>Any forced access while sealed triggers an immediate alarm.",
     "DictionaryFigure": "",
     "TargetType": 115,
     "Num": 1,
@@ -1475,6 +1475,886 @@
     "Param": [
       -2,
       30123
+    ],
+    "IsHide": false
+  },
+  "1094": {
+    "Id": 1094,
+    "DictionaryType": 2,
+    "Episode": 1094,
+    "Name": "Pursuing Hruga's Horn I",
+    "DictionaryDes": "To track down Hruga's Horn, Airona and I came together to the Bahamar Highlands. <br>This was once the ancient battlefield where humanity fought against Hruga. Legend says her power still lingers on this land, bringing continuous suffering to the people. And now Hruga's Horn has been brought back to this place...<br><br>We may not know where to start, but wherever Hruga's Horn is, Engram will surely be distorted. Maybe that's our lead to find Hruga's follower, the person in black.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10601
+    ],
+    "IsHide": false
+  },
+  "1095": {
+    "Id": 1095,
+    "DictionaryType": 2,
+    "Episode": 1095,
+    "Name": "Illusory Bloom and Illusory Plague I",
+    "DictionaryDes": "Illusory Blooms are a crystal-like growth spread across the entire highlands, dazzling to the eye but fraught with peril. <br>Get too close to a Illusory Bloom and it will overwhelm you, magnifying buried dread and panic in an instant, trapping you in illusion. <br>Locals refer to the maddening illusions as \"Illusory Plague,\" and steer clear of it in terror. <br><br>To my surprise, my body can withstand their illusion-inducing force, yet Airona is completely defenseless against the them...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10601
+    ],
+    "IsHide": false
+  },
+  "1096": {
+    "Id": 1096,
+    "DictionaryType": 3,
+    "Episode": 1096,
+    "Name": "Pillar of Divinity",
+    "DictionaryDes": "Said to be a crucial relic left by the Bapharian Divines, the Pillar of Divinity has now become a holy site of the Creed. <br>A small number of Creed Guards are stationed near Lallipar to protect the Pillar of Divinity, and they also help locals and pilgrims with everyday troubles. <br><br>Notably, all priests serving the Pillar of Divinity come from the Byrnhald Diocese. <br>High Priest Lothar oversees the site, and the distribution of Starsoul Flasks is handled there as well.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10602
+    ],
+    "IsHide": false
+  },
+  "1097": {
+    "Id": 1097,
+    "DictionaryType": 3,
+    "Episode": 1097,
+    "Name": "Highland Orange",
+    "DictionaryDes": "A common fruit that grows on the highlands. Its bitterness is beloved by ascetics. <br><br>After Illusory Plague appeared, villagers who felt unwell or listless would down a big glass of orange juice to perk up. <br>Because the fruit is extremely bitter, it's usually steamed and sprinkled with salt to soften the bite.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10602
+    ],
+    "IsHide": false
+  },
+  "1098": {
+    "Id": 1098,
+    "DictionaryType": 3,
+    "Episode": 1098,
+    "Name": "Illusory Bloom Seeds",
+    "DictionaryDes": "It's said that even if a Illusory Bloom's crystal shell is shattered, it quickly restores itself—beautiful as a dream, yet a source of endless disaster for the people of the highlands. <br><br>At present, the only way to destroy a Illusory Bloom is to purify its Bloom Crystal—what locals call a \"seed.\" Across the entire Bahamar Highlands, only High Priest Lothar of the Creed can perform this purification, and he is also the sole maker of Starsoul Flasks.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10602
+    ],
+    "IsHide": false
+  },
+  "1099": {
+    "Id": 1099,
+    "DictionaryType": 3,
+    "Episode": 1099,
+    "Name": "Rainbean Rice",
+    "DictionaryDes": "Rainbean Rice is Lallipar's signature dish.<br>Made by steaming aged Rainbeans with rice, their aroma seeps into every grain—rich, fragrant, soft, and comforting, a taste passed down for generations on the highlands. <br><br>However, Fafala's Rainbean Rice is nothing like that...<br>When you crunch a steamed rainbean, its coat is tough without any give, enclosing a mass of crumbs with a texture even poorer than wall ash. <br>Swallowing it takes not just courage, but an iron throat.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10602
+    ],
+    "IsHide": false
+  },
+  "1100": {
+    "Id": 1100,
+    "DictionaryType": 2,
+    "Episode": 1100,
+    "Name": "Illusory Bloom and Illusory Plague II",
+    "DictionaryDes": "From a chat with Fafala, I heard that thanks to High Priest Lothar's restraint, Illusory Blooms have stayed rare for quite a while. <br>But recently they've erupted in clusters, even spreading to the village entrance. Many villagers have been hit by Illusory Plague. Something about it feels deeply strange.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10602
+    ],
+    "IsHide": false
+  },
+  "1101": {
+    "Id": 1101,
+    "DictionaryType": 3,
+    "Episode": 1101,
+    "Name": "Starsoul Flask I",
+    "DictionaryDes": "A special antidote used to ease Illusory Plague, outwardly no different from an ordinary glass bottle. <br>Inside are seven or eight flickering lights—neither dazzling nor holy-looking. Just a faint shimmer, like invisible fireflies. <br><br>Since Starsoul Flasks are currently the only way to fight Illusory Plague, they're extremely precious on the highlands. Production is extremely limited, so even money can't buy one among common folk. The Creed distributes Starsoul Flasks to the public on a regular basis to ease Illusory Plague. <br><br>The making of Starsoul Flasks depends entirely on High Priest Lothar, the only person on the highlands who can purify Illusory Bloom Crystals.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10602
+    ],
+    "IsHide": false
+  },
+  "1102": {
+    "Id": 1102,
+    "DictionaryType": 1,
+    "Episode": 1102,
+    "Name": "Hruga and the Illusory Blooms",
+    "DictionaryDes": "Hruga was defeated here two hundred years ago. Her power scattered across the land, throwing Engram​ into chaos. <br>From that moment on, Illusory Blooms began to spread unchecked, triggering countless calamities...<br><br>Now, the Void Engrams sealed within Hruga's Horn are disrupting Engram across the highlands like a tangled web—around the northwest river valley, the Bapharian Ruins in the southwest... clogged nodes are everywhere. <br>And not by coincidence, the recent mass outbreaks of Illusory Blooms seem to be answering that witch's power.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10603
+    ],
+    "IsHide": false
+  },
+  "1103": {
+    "Id": 1103,
+    "DictionaryType": 2,
+    "Episode": 1103,
+    "Name": "Pursuing Hruga's Horn II",
+    "DictionaryDes": "Hruga has scarred this land far too deeply. Whether it's the spread of Illusory Blooms or the chaos in Engram​, every disaster here is tangled with Hruga's shadow. <br><br>So after a brief discussion with Airona, we decided to head northeast to the Sislesa Mine, where Engram is wildly distorted—perhaps Hruga's Horn is hidden there. <br>Even if we can't pinpoint Hruga's Horn right away, we can at least ease this land's suffering. And maybe follow the trail to the truths being kept hidden.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10603
+    ],
+    "IsHide": false
+  },
+  "1104": {
+    "Id": 1104,
+    "DictionaryType": 3,
+    "Episode": 1104,
+    "Name": "Sislesa Mine Pass",
+    "DictionaryDes": "The Duchy of Byrnhald controls the Sislesa Mine through the Blackstone Legion. Squad members wear black military boots and act with brute force, earning a grim reputation among locals. <br><br>Being a military-controlled zone, the mine is currently under martial law. To enter or leave, you need an access pass, but the process is brutally complicated, and usually only merchant groups trusted by the Squad can get one. <br>But lately, passes have been suspended across the board, with no explanation... Something may have gone wrong inside.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10604
+    ],
+    "IsHide": false
+  },
+  "1105": {
+    "Id": 1105,
+    "DictionaryType": 3,
+    "Episode": 1105,
+    "Name": "Traveling Troupe I",
+    "DictionaryDes": "From the children of Lallipar, we learned that despite the lockdown of the mines, a group called the Traveling Troupe can still pass through and perform in the village. <br>The parents wouldn't talk about it and kept warning their kids not to watch the troupe's shows. So there's likely something suspect going on.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10604
+    ],
+    "IsHide": false
+  },
+  "1106": {
+    "Id": 1106,
+    "DictionaryType": 2,
+    "Episode": 1106,
+    "Name": "Pursuing Hruga's Horn III",
+    "DictionaryDes": "With the outpost under martial law, Airona suggested we seek information at the Pillar of Divinity. <br>Pilgrims from all across the Continent of Magna gather there, and news travels fast among them. <br><br>Also, the priests stationed at the Pillar of Divinity belong to the Byrnhald Diocese and have close ties to the Duchy. <br>If things go well, we might find a way into the mines without forcing our way in. And learn what's really behind the lockdown.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10604
+    ],
+    "IsHide": false
+  },
+  "1107": {
+    "Id": 1107,
+    "DictionaryType": 1,
+    "Episode": 1107,
+    "Name": "Tales of the Mines",
+    "DictionaryDes": "With the Sislesa Mine under martial law and almost no one coming or going, all kinds of ghost stories have sprung up, like these:<br><br>The \"Don't Look Back\" Pebble<br>\"You're working along when suddenly— a pebble flies at you from behind! Whatever you do, don't look back...\"<br><br>The Mine Tunnel That Appears at Night<br>\"There's a mine tunnel that only shows up at night. Anyone who takes a wrong turn vanishes without a trace. \"<br><br>Ghost Girl of the Western Highlands<br>\"They say a singing ghost girl has appeared on the West Plateau lately! Late at night, when an adventurer is walking across the plains—suddenly! faint singing drifts from far away...\"<br><br>These tales are roughly as credible as how much actual meat is in the mine canteen's \"meatballs.\"",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10605
+    ],
+    "IsHide": false
+  },
+  "1108": {
+    "Id": 1108,
+    "DictionaryType": 2,
+    "Episode": 1108,
+    "Name": "Starsoul Flask II",
+    "DictionaryDes": "<br>Starsoul Flasks are made primarily from Rockthistle Seeds, which give off a soothing aroma. <br>The Creed's priests also infuse the seeds with a small amount of Engram, which is why flickering motes appear inside the vial. <br>It's the gentle nourishment of Engram, paired with Rockthistle's sedative effect, that lets Starsoul Flasks relieve people wounded by Illusory Plague to a certain extent. <br><br>But overall, their effects are overstated. Starsoul Flasks are basically a \"placebo\" and can't truly eradicate Illusory Plague.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10605
+    ],
+    "IsHide": false
+  },
+  "1109": {
+    "Id": 1109,
+    "DictionaryType": 1,
+    "Episode": 1109,
+    "Name": "Magna's Top Treasure Hunter!",
+    "DictionaryDes": "Just as Airona and I were at our wits' end over getting into the mines...<br>Someone claiming to be \"Magna's Top Treasure Hunter\" who knew a secret entrance, suddenly appeared.<br>She claimed that she could help us sneak into the tunnels...<br>On the condition that we stop holding her theft of the Starsoul Flasks against her. <br><br>Her words were hard to trust, and her background was deeply suspicious...<br>Still, with the lockdown this tight, taking a gamble on her seemed like our only way into the mines.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10606
+    ],
+    "IsHide": false
+  },
+  "1110": {
+    "Id": 1110,
+    "DictionaryType": 2,
+    "Episode": 1110,
+    "Name": "Pursuing Hruga's Horn IV",
+    "DictionaryDes": "Airona said the most unstable Engram zone lies in the northern Mining Zone. <br>That area is under heavy restriction. If we barge in, we might meet the Blackstone Legion and drag the miners into trouble, too. <br>But we have to find Hruga's Horn... we need a careful plan.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10608
+    ],
+    "IsHide": false
+  },
+  "1111": {
+    "Id": 1111,
+    "DictionaryType": 3,
+    "Episode": 1111,
+    "Name": "Crimson Marrow: Witch's Whisper",
+    "DictionaryDes": "A dangerous ore found all through the mine, its surface glowing with a vivid hue much like Illusory Blooms.<br> <br>The moment you hold it, you can feel an immense surge of Engram​—its purity and sheer volume far beyond imagination. This Engram-rich ore is actually a crystal precipitated from Hruga's Engram fused with Rock Element. <br><br>Although there's no obvious immediate effect on people at present, it's baffling that such premium ore hasn't appeared widely in trade.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10608
+    ],
+    "IsHide": false
+  },
+  "1112": {
+    "Id": 1112,
+    "DictionaryType": 2,
+    "Episode": 1112,
+    "Name": "Illusory Bloom and Illusory Plague III",
+    "DictionaryDes": "Once an Illusory Bloom is resonated with, its outer shell collapses and its power source is exposed. The Illusory Bloom is destroyed completely and can never regenerate. <br><br>The collapsed core condenses into a crystal much like an Imagine Seed. And even after resonance, it still reeks of Hruga's presence. It's solid proof for the claim that Illusory Bloom are leftovers of Hruga's strength. <br><br>The puzzling part is Priest Lothar: by what means does he retrieve the crystals? Through a wondrous Bapharian Legacy, perhaps? Or could it be... that he shares my power to resonate with Illusory Blooms?",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10610
+    ],
+    "IsHide": false
+  },
+  "1113": {
+    "Id": 1113,
+    "DictionaryType": 1,
+    "Episode": 1113,
+    "Name": "Miners in the Mines",
+    "DictionaryDes": "Far from the highlands' quiet, measured routine, the Sislesa miners exist in relentless pressure and peril. <br>They're barred from outside contact and forced to work in mine tunnels thick with Illusory Blooms, soaked in fear day after day. <br>Every day someone is driven into the most hazardous zones, and every day someone falls beneath the Blackstone Legion's merciless lash. <br><br>That's why Darya will go to any lengths to get Starsoul Flasks for them. <br>Because right now, it's the only thing that can ease their suffering.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10610
+    ],
+    "IsHide": false
+  },
+  "1114": {
+    "Id": 1114,
+    "DictionaryType": 3,
+    "Episode": 1114,
+    "Name": "Blackstone Legion at the Mines",
+    "DictionaryDes": "The Blackstone Legion is the main garrison force overseeing the Sislesa Mine, serving under the Duchy of Byrnhald. <br><br>They treat the miners with extreme brutality. All Legion soldiers wear matching black boots, and their march carries a sharp, iron rhythm. Whenever they patrol the mine, the sound of those boots reverberates through the tunnels, sending a chill down every miner's spine. <br><br>According to the miners, many of them are from Asterleeds, yet they are not bound to the Squad by any substantive contract. <br>This odd detail seems to hint at a hidden darkness and disorder within the Blackstone Legion itself.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10611
+    ],
+    "IsHide": false
+  },
+  "1115": {
+    "Id": 1115,
+    "DictionaryType": 3,
+    "Episode": 1115,
+    "Name": "Isolation Gate of the Transfer Zone",
+    "DictionaryDes": "<br>After ore is extracted from the Mining Zone, it is briefly piled here, waiting to be shipped up to the surface. <br>The area swarms with Blackstone Legion soldiers: dispatchers command by the platforms, laborers haul ore, overseers patrol nonstop, and Squad troops tightly guard every transport route. <br><br>The transfer zone is also the Mining Zone's only path to the surface. Once the gate drops, the diggings are cut off completely from the outside world. The gate is built with fortress-like strength, as if the designers always knew that unpredictable dangers were lurking deeper down.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10611
+    ],
+    "IsHide": false
+  },
+  "1116": {
+    "Id": 1116,
+    "DictionaryType": 3,
+    "Episode": 1116,
+    "Name": "Subterranean Rock Serpent",
+    "DictionaryDes": "Rock Serpents are terrifying creatures that lurk deep underground, and they seem to have already built nests within the Mining Zone. <br>From the soldiers' casual talk, it's clear the Blackstone Legion has been plagued by them for a long time, yet they've never organized a true hunt. Instead, they lower the isolation gate without regard for the miners' safety, crudely sealing the Rock Serpent outside and releasing anesthesia smoke to keep the threat under control. <br>When the Rock Serpent enters an active phase, the Blackstone Legion even shuts the mines down outright. <br><br>As a force serving under the Duchy, the Blackstone Legion should be far from weak. Yet they would rather pay the enormous cost of sealing the mine than take real action. <br>So what's the truth here? Do they know they're incapable of eradicating the Rock Serpent, but keep mining greedily anyway—trading human lives for ore? <br>Or has the Squad already fallen into such hidden disorder that they can't even eliminate a single Rock Serpent?",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10611
+    ],
+    "IsHide": false
+  },
+  "1117": {
+    "Id": 1117,
+    "DictionaryType": 2,
+    "Episode": 1117,
+    "Name": "Miner Care Package",
+    "DictionaryDes": "We ran into a Rock Serpent outbreak the moment we entered the Mining Zone. Though we barely escaped the tunnels, it meant our plan to infiltrate the area had failed completely. <br><br>Darya said she still had a way to get us back into the Mining Zone, but she demanded 500 Starsoul Flasks in exchange, insisting with a resolve we had never seen from her before. <br>Her fixation may be because she has lost family among the miners... Knowing that these flasks can ease their suffering, we ultimately decided to try gathering that near-impossible number. <br><br>After all, only by reaching the Mining Zone can we confirm whether the Engram chaos is caused by Hruga's Horn. And only by uncovering the truth hidden in the Mining Zone might the miners struggling in the dark have a real chance to be truly saved.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10612
+    ],
+    "IsHide": false
+  },
+  "1118": {
+    "Id": 1118,
+    "DictionaryType": 2,
+    "Episode": 1118,
+    "Name": "Starsoul Flask III",
+    "DictionaryDes": "Starsoul Flasks are currently produced entirely by High Priest Lothar alone. He is the only person capable of extracting the crystals, which has made his status in the highlands exceptionally elevated. <br>However, the recent eruption of Illusory Blooms has drastically increased local demand for Starsoul Flasks, and the already scarce supply has become even more unattainable. <br><br>In such a predicament, limiting phial distribution feels more like the Creed's way of easing residents' anxiety than a real solution. To truly resolve the Illusory Plague, we must uncover why the Illusory Blooms are surging and suppress their growth at the source.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10702
+    ],
+    "IsHide": false
+  },
+  "1119": {
+    "Id": 1119,
+    "DictionaryType": 2,
+    "Episode": 1119,
+    "Name": "Sislesa Mine: Current Situation",
+    "DictionaryDes": "Boyce, a noble of the Duchy of Byrnhald, is shockingly unaware of the dire conditions at Sislesa Mine. <br><br>According to him, the Blackstone Legion has always opposed the Creed intervening in their internal affairs. <br>Is this simply the Squad's habitual secrecy and hostility toward outside oversight, or are they afraid that once duchy-aligned priests investigate deeply, the mine's truth will be carried back to Byrnhald and trigger uncontrollable unrest? <br><br>Either way, driven by compassion and responsibility, Priest Boyce ultimately decides to bypass the Blackstone Legion's obstruction and investigate the miners in secret. Even at the cost of 500 Starsoul Flasks, he is willing to risk himself to uncover what is really happening.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10702
+    ],
+    "IsHide": false
+  },
+  "1120": {
+    "Id": 1120,
+    "DictionaryType": 2,
+    "Episode": 1120,
+    "Name": "Business in the Mines",
+    "DictionaryDes": "The miners' sunless, underground life has bred countless needs, so merchant caravans stream into the mine in a steady flow. <br>They mainly sell clothes, fruit, and entertainment goods such as books. <br>Yet the mine's market is almost entirely monopolized by these caravans, with hardly any independent peddlers. The caravan leader must negotiate with the Blackstone Legion, maintain smooth relations, manage and coordinate the merchants, and issue access permits—most importantly while avoiding interference in the mine's internal affairs. <br><br>It is no easy role, and anyone who can shoulder all of this must be extraordinarily shrewd and capable.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10704
+    ],
+    "IsHide": false
+  },
+  "1121": {
+    "Id": 1121,
+    "DictionaryType": 2,
+    "Episode": 1121,
+    "Name": "Honor Among Thieves! But Not Too Much",
+    "DictionaryDes": "Creed Guard Boyce recognizes at a glance that Darya is a \"repeat offender\"—a self-proclaimed treasure hunter who keeps obtaining Starsoul Flasks through theft and scams, never reforming despite repeated warnings. Darya, focused solely on saving the miners, insists that these are simply her \"methods.\" <br>Both sides cling to their stance, refusing to yield even an inch.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10704
+    ],
+    "IsHide": false
+  },
+  "1122": {
+    "Id": 1122,
+    "DictionaryType": 2,
+    "Episode": 1122,
+    "Name": "The Caravan Chief",
+    "DictionaryDes": "The argument between Boyce and Darya draws over the caravan leader, Maire. She has already seen through that we are not caravan people, yet calmly proposes a \"commission\" for us to investigate a traitor within the caravan. <br>To show her sincerity, she even grants us a \"Special Permit\" to enter the mine in advance.<br><br>Beneath her gentle exterior lies an authority that makes refusal impossible. We understand clearly that if we fail to complete this \"commission,\" she will likely turn around and expose our identities to the Blackstone Legion.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10704
+    ],
+    "IsHide": false
+  },
+  "1123": {
+    "Id": 1123,
+    "DictionaryType": 3,
+    "Episode": 1123,
+    "Name": "Bekmar Transport Station",
+    "DictionaryDes": "To move ore from Sislesa Mine efficiently, the Duchy of Byrnhald set up a dedicated Transport Station. <br>Some caravans that supply daily necessities to the mine also stop here. <br>The entire station is under tight Blackstone Legion surveillance. Aside from Squad personnel, only merchants with official passes or special permits may enter or leave.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10705
+    ],
+    "IsHide": false
+  },
+  "1124": {
+    "Id": 1124,
+    "DictionaryType": 3,
+    "Episode": 1124,
+    "Name": "Special Permit for the Mines",
+    "DictionaryDes": "A special permit issued by the Blackstone Legion to certain caravans. Only with this permit can they remain long-term at the Bekmar Transport Station and trade with Squad soldiers. <br><br>Its authority is slightly less than a full pass... perhaps Maire didn't want to stir up bigger trouble, so she deliberately gave us a lower-level entry permit. After all, if we're exposed, every merchant here could be dragged into it.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10705
+    ],
+    "IsHide": false
+  },
+  "1125": {
+    "Id": 1125,
+    "DictionaryType": 1,
+    "Episode": 1125,
+    "Name": "Crimson Marrow: Mining Ban",
+    "DictionaryDes": "The reason Crimson Marrow never reached the market is finally clear—the Creed has long issued an explicit ban on mining this dangerous mineral. They've even assigned a dedicated inspector to oversee compliance. <br><br>But the reality is, the inspector has no idea the Squad is secretly extracting Crimson Marrow, the clerk does not even know the cargo leaving the hub, and the caravan and soldiers are trading behind everyone's backs. <br><br>All these anomalies point to one fact: the Transport Station under Squad control has gone badly off the rails.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10705
+    ],
+    "IsHide": false
+  },
+  "1126": {
+    "Id": 1126,
+    "DictionaryType": 1,
+    "Episode": 1126,
+    "Name": "The Caravan Traitor Is...",
+    "DictionaryDes": "We can now all but confirm the traitor within the caravan is Nevelle. <br>He's colluding with the Blackstone Legion, planning to eliminate Maire, seize control of the caravan, and smuggle Crimson Marrow. <br><br>Even worse, Nevelle may be a pawn of the person in black operating everything from the shadows.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10706
+    ],
+    "IsHide": false
+  },
+  "1127": {
+    "Id": 1127,
+    "DictionaryType": 3,
+    "Episode": 1127,
+    "Name": "Mustard Tavern",
+    "DictionaryDes": "A tavern built against the cliffside, with a strikingly unusual exterior. <br>It has two levels above and below ground. The upper floor is only open to Byrnhald soldiers and serves as their sole place for leisure. <br>The lower level is dim and sunless, meant for the miners who can rarely afford to come in. <br><br>Whether due to scarce resources or some other reason, the downstairs area has no seating. <br>Miners can only stack crates outside into makeshift stools, buying themselves a brief rest and a single drink before returning to work.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10706
+    ],
+    "IsHide": false
+  },
+  "1128": {
+    "Id": 1128,
+    "DictionaryType": 3,
+    "Episode": 1128,
+    "Name": "Astral Stone Mound",
+    "DictionaryDes": "After a miner dies, their coworkers stack these stones to honor the dead. <br><br>They choose each stone with care, using its texture, shape, and color to sum up a life: jagged uneven stones for passion, small smooth ones for caution, and so on. The piled heap becomes the miners' only tribute to the departed. <br>Naming it \"Astral Stone\" may be their way of telling the world that those who rest here once shone like starlight beneath the darkness of the mine.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10707
+    ],
+    "IsHide": false
+  },
+  "1129": {
+    "Id": 1129,
+    "DictionaryType": 2,
+    "Episode": 1129,
+    "Name": "Commander Klaus's Disappearance",
+    "DictionaryDes": "Miners say Commander Klaus of the Blackstone Legion has gone missing, for reasons still unknown. <br>Since he vanished, Squad patrols have stalled, and shortages have hit everything from rations to medicine. <br>The Squad has also grown even harsher toward miners, caring only about output. Even wiping sweat can earn a beating. <br><br>Meanwhile, a soldier named Carl has risen rapidly after Klaus went missing, quickly seizing influence and acting high and mighty. <br>This suggests Carl may be colluding with the person in black and has stirred a mutiny within the Blackstone Legion.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10708
+    ],
+    "IsHide": false
+  },
+  "1130": {
+    "Id": 1130,
+    "DictionaryType": 3,
+    "Episode": 1130,
+    "Name": "Secrets of the Mining Cave",
+    "DictionaryDes": "<br>Deep in the extraction tunnels of Sislesa Mine, huge stores of Crimson Marrow are hidden. <br>Some of it has even been refined and purified. That means the Blackstone Legion isn't just illegally mining at scale—they've set up a secret refining workshop, and even built a carefully concealed passage used solely to transport the Crimson Marrow out. <br><br>And this is likely only the tip of the iceberg.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10711
+    ],
+    "IsHide": false
+  },
+  "1131": {
+    "Id": 1131,
+    "DictionaryType": 2,
+    "Episode": 1131,
+    "Name": "Pursuing Hruga's Horn V",
+    "DictionaryDes": "We found no trace of Hruga's Horn in the Mining zone, yet the person in black we saw earlier remains deeply suspicious. <br>Crimson Marrow is a residue of Hruga's power and is explicitly banned from mining by the Creed. The connection between the two is enough to suspect that Hruga's followers are pulling strings behind all this. <br>Whether the person in black is one of Hruga's adherents is still unclear, but if we keep digging, we will unravel the truth thread by thread. <br><br>Right now, however, the miners' situation is dire. So we have decided to locate the missing Commander Klaus first—both to curb the illicit mining, and to restore something like normal life to the miners.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10801
+    ],
+    "IsHide": false
+  },
+  "1132": {
+    "Id": 1132,
+    "DictionaryType": 1,
+    "Episode": 1132,
+    "Name": "The Duchy's Big Shot",
+    "DictionaryDes": "With the truth of Mine No. 1 exposed, the identity of the duchy's \"big shot\" is revealed as well: an inspection commissioner sent by the Duchy of Byrnhald. <br><br>The mine's recent lockdown was arranged to receive this VIP, who came to check extraction progress. Yet a notebook found in Mine No. 1 suggests something may have happened to them...<br>The diary records even darker secrets: \"The Crimson Marrow yield plummeted by at least 30% compared to last year. The Drava Royal Institute is barely operational. The duke is furious.\" <br><br>Taken together, it appears the Crimson Marrow mining has long been backed by the Grand Duke of Byrnhald. Bound by the Creed's mining ban, he chose to hide it all in sealed underground operations.<br><br>The person in black may have been drawn here by the thick Hruga taint within the ore. Sislesa Mine is now a tangled mess of power, greed, and chaos, and has become a full-fledged breeding ground for evil.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10803
+    ],
+    "IsHide": false
+  },
+  "1133": {
+    "Id": 1133,
+    "DictionaryType": 1,
+    "Episode": 1133,
+    "Name": "The Truth of Mine No. 1",
+    "DictionaryDes": "Mine No. 1 is an abandoned shaft within Sislesa Mine, and it was also the scene of an internal mutiny in the Blackstone Legion. <br><br>Our investigation indicates that Adjutant Reiner and his followers launched their rebellion here, suppressing the soldiers who remained loyal to Commander Klaus. Broken blades, bloodstains, and Chaotic footprints left inside the tunnel confirm that a fierce battle took place. <br><br>After the incident, Commander Klaus and his devoted subordinate Devin vanished without a trace. Finding them may be the key to uncovering the full truth.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10803
+    ],
+    "IsHide": false
+  },
+  "1134": {
+    "Id": 1134,
+    "DictionaryType": 3,
+    "Episode": 1134,
+    "Name": "Engram Monitor",
+    "DictionaryDes": "To prevent Crimson Marrow from being smuggled out of the mine, the Creed stationed monitors inside the tunnels. <br>These monitors use a modified piece of Bapharian Legacy to measure the Engram content in extracted ore. If the reading exceeds a set threshold, the device triggers an alarm. <br><br>Tests show the Engram Monitors are indeed effective. However, the clues we found suggest that royal researchers from Byrnhald have still been able to access Crimson Marrow, which means there must be some oversight in the mine management.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10805
+    ],
+    "IsHide": false
+  },
+  "1135": {
+    "Id": 1135,
+    "DictionaryType": 3,
+    "Episode": 1135,
+    "Name": "Waste and Slag",
+    "DictionaryDes": "In the slang of the Sislesa Mine, \"waste material\" often refers to Crimson Marrow, which is secretly transported underground for refining. \"Slag,\" on the other hand, is the actual discarded stone with no practical use, usually buried on-site or transported away by vehicles.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10805
+    ],
+    "IsHide": false
+  },
+  "1136": {
+    "Id": 1136,
+    "DictionaryType": 2,
+    "Episode": 1136,
+    "Name": "Pursuing Hruga's Horn​ VI",
+    "DictionaryDes": "By investigating the secret extraction process of Crimson Marrow, we sensed Hruga's presence on Reiner! <br><br>Reiner's collusion with the person in black is undeniable. Although the exact purpose of their Crimson Marrow smuggling remains unknown, by continuing to trace the distribution channels, we will uncover the full truth.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10805
+    ],
+    "IsHide": false
+  },
+  "1137": {
+    "Id": 1137,
+    "DictionaryType": 3,
+    "Episode": 1137,
+    "Name": "Bapharian Trick",
+    "DictionaryDes": "Inspection confirms that the Engram Monitor has vulnerabilities—it can temporarily go offline during power fluctuations or maintenance. <br>The Blackstone Legion exploited this loophole to transport large quantities of Crimson Marrow without leaving a trace— they mixed the Crimson Marrow with ordinary ore and moved it during the monitor's recharge periods. <br><br>The monitor set up by the Creed was completely useless. Perhaps the operators were bribed to look the other way, or perhaps they simply neglected their duties.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10806
+    ],
+    "IsHide": false
+  },
+  "1138": {
+    "Id": 1138,
+    "DictionaryType": 3,
+    "Episode": 1138,
+    "Name": "Crimson Marrow Extraction Process I",
+    "DictionaryDes": "Step 1: Mining<br>In the Mining Zone, miners endure the torment of the Illusory Plague as they work day and night to extract raw Crimson Marrow. <br>The raw ore contains both Crimson Marrow essence and other mineral materials, and must be processed before it can be used.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10806
+    ],
+    "IsHide": false
+  },
+  "1139": {
+    "Id": 1139,
+    "DictionaryType": 3,
+    "Episode": 1139,
+    "Name": "Crimson Marrow Extraction Process II",
+    "DictionaryDes": "Step 2: Rough Screening<br>The raw ore is transported to the Bekmar Transport Station for preliminary processing. At the entrance of the smelting furnace, the Squad has installed a hidden diversion device—the raw material rich in Crimson Marrow is secretly separated out, while ordinary ore proceeds into the regular smelting process to become compliant usable ore. <br><br>This is what the administrator referred to as \"removing prohibited components.\" But he concealed the truth: what was \"removed\" was not waste, but illegally mined Crimson Marrow. Instead of being buried as claimed, these contraband materials are secretly sent back underground for further refinement.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10806
+    ],
+    "IsHide": false
+  },
+  "1140": {
+    "Id": 1140,
+    "DictionaryType": 3,
+    "Episode": 1140,
+    "Name": "Crimson Marrow Extraction Process III",
+    "DictionaryDes": "Step 3: Refinement<br>The diverted raw material rich in Crimson Marrow—labeled as \"waste\"—is transported through that concealed pipeline directly back to the underground Mining Zone to a secret facility sealed under strict security, inaccessible to ordinary personnel. <br>In this lightless underground chamber, the ore undergoes deep refinement to extract high-purity Crimson Marrow infused with Hruga Engram​. <br><br>The refined product—which Reiner referred to as \"waste\"—is temporarily stored in a hidden warehouse within the Mining Zone, awaiting the right moment to be smuggled out of the mine.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10806
+    ],
+    "IsHide": false
+  },
+  "1141": {
+    "Id": 1141,
+    "DictionaryType": 2,
+    "Episode": 1141,
+    "Name": "Forked Mine Paths",
+    "DictionaryDes": "Just as our investigation began to show major progress, Darya and Boyce clashed once again...<br>Darya wanted to lower the isolation gate between the mining tunnels, completely sealing off the Mining Zone from the transfer zone, hoping to free all the miners. <br>But Boyce believed such drastic action would immediately draw the Squad's attention. If the Squad issued emergency orders and sealed off the mine... the defenseless miners would likely face certain death. <br><br>With the situation growing tense, we had no choice but to return to Asterleeds and see whether the Defense Corps soldiers could lend aid to the miners there.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10809
+    ],
+    "IsHide": false
+  },
+  "1142": {
+    "Id": 1142,
+    "DictionaryType": 2,
+    "Episode": 1142,
+    "Name": "Rab, the Rescuer",
+    "DictionaryDes": "Given the complicated war history between Asterleeds and Byrnhald, sending Defense Corps soldiers directly to deal with the highland unrest would only escalate the situation. <br>But with the miners suffering and a Illusory Bloom outbreak looming, there was no time to hesitate. <br>So Commander Jerrad devised a plan: disguising himself as a Rab doll, he led a hundred Defense Corps soldiers—posing as \"adventurers\"—into the highlands to restore order.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10811
+    ],
+    "IsHide": false
+  },
+  "1143": {
+    "Id": 1143,
+    "DictionaryType": 2,
+    "Episode": 1143,
+    "Name": "Illusory Plague Outbreak...",
+    "DictionaryDes": "While we were away, a new and severe Illusory Plague outbreak struck Lallipar. <br>The villagers have since been fully evacuated, but Airona sharply sensed that this incident might be connected to the person in black. <br>Our investigation into the smuggling of Crimson Marrow revealed their close ties to the power of Hruga. It is highly likely that the devastating Illusory Plague outbreak in Lallipar was caused by their actions.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10901
+    ],
+    "IsHide": false
+  },
+  "1144": {
+    "Id": 1144,
+    "DictionaryType": 2,
+    "Episode": 1144,
+    "Name": "Pursuing ​Hruga's Horn​ VII",
+    "DictionaryDes": "<br>Airona's investigation showed that all smuggled Crimson Marrow ultimately reached a single \"mysterious buyer,\" with the meeting place located near Lallipar. <br>Considering the recent Illusory Plague outbreak there... this mysterious buyer is very likely the person in black—and the outbreak itself may not have been an accident at all. <br><br>Investigating and resolving the Illusory Plague outbreak in Lallipar may become the key to uncovering the identity and schemes of the person in black.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10901
+    ],
+    "IsHide": false
+  },
+  "1145": {
+    "Id": 1145,
+    "DictionaryType": 2,
+    "Episode": 1145,
+    "Name": "A Rescue Plan",
+    "DictionaryDes": "The highlands' situation has deteriorated further: the Illusory Plague outbreak grows urgent, and the miners underground remain in dire straits. <br>In the end, we decided to split into two teams: <br><br>The first team is in charge of rescuing miners. Jerrad and Airona will lead part of the \"adventurers\" to infiltrate the Sislesa Mine, opening a supply route and rescuing the trapped miners. The rest of the \"adventurers\" will gather supplies across the highlands to support Lallipar. <br><br>The second team will focus on containing the Illusory Plague. Since I'm the only one capable of purifying Illusory Bloom, I'll remain in Lallipar to suppress the outbreak and assist the Pilgrims. Once the situation is under control, we'll resume our search for the person in black and the whereabouts of Hruga's Horn.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10901
+    ],
+    "IsHide": false
+  },
+  "1146": {
+    "Id": 1146,
+    "DictionaryType": 3,
+    "Episode": 1146,
+    "Name": "Traveling Troupe II",
+    "DictionaryDes": "From the Pilgrims, we learned that the mysterious Traveling Troupe is viewed as outcasts because they do not worship the Bapharian Divines. <br>Not only that—they avoid bustling Asterleeds and instead wander deep into the remote western highlands, a suspicious behavior that has drawn the Creed's attention. <br>Rumors even claim they are connected to the Illusory Plague... but is that really the truth?",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10902
+    ],
+    "IsHide": false
+  },
+  "1147": {
+    "Id": 1147,
+    "DictionaryType": 3,
+    "Episode": 1147,
+    "Name": "Rockthistle Seed",
+    "DictionaryDes": "The Rockthistle is a pale-yellow flower that blooms alone on sheer cliffs. Its seeds give off a calming scent and are used to craft Starsoul Flasks. <br><br>However, while these flasks can soothe the mind to a degree, they cannot cure Illusory Plague at the root. More importantly, Rockthistle Seeds weaken the user's self-control, and overreliance may even dull the mind and lead to mental stagnation.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10902
+    ],
+    "IsHide": false
+  },
+  "1148": {
+    "Id": 1148,
+    "DictionaryType": 2,
+    "Episode": 1148,
+    "Name": "Gift from Fafala",
+    "DictionaryDes": "A cute little handmade doll—a gift from Fafala, a young girl of Lallipar, given during the celebration after we cleansed the giant Illusory Bloom. It symbolizes her hope and trust for the future. <br><br>Yet the threat has not truly vanished—the person in black and ​Hruga's Horn​ remain hidden in the shadows. <br>Perhaps even now, Hruga's followers are lurking in some dark corner, silently watching.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10904
     ],
     "IsHide": false
   }

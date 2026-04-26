@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message WorldActTimeInfo {
+	int64 startTime = 1 [json_name = "startTime"];
+	int32 durationTime = 2 [json_name = "durationTime"];
+}

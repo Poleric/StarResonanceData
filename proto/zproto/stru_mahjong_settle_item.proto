@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+message MahjongSettleItem {
+	int32 itemId = 1 [json_name = "itemId"];
+	repeated int32 weight = 2 [json_name = "weight"];
+	int32 itemMinCount = 3 [json_name = "itemMinCount"];
+	int32 itemCostCount = 4 [json_name = "itemCostCount"];
+	repeated int32 scoringPoint = 5 [json_name = "scoringPoint"];
+}

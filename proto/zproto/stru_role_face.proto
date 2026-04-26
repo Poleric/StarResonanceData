@@ -1,11 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message RoleFace {
-  map<int32, bool> unlock_item_map = 1;
-  bool save_need_consume = 2;
-}
+package zproto;
 
+message RoleFace {
+	map<int32, bool> unlockItemMap = 1 [json_name = "unlockItemMap"];
+	bool saveNeedConsume = 2 [json_name = "saveNeedConsume"];
+	repeated int32 unlockVoiceIds = 3 [json_name = "unlockVoiceIds"];
+}

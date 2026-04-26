@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ReplyJoinActivityRequest {
-  bool is_agree = 2;
+	bool isAgree = 2 [json_name = "isAgree"];
 }
-

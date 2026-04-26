@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ApplyJoinTeamRequest {
-  repeated int64 team_id = 2;
+	repeated int64 teamId = 2 [json_name = "teamId"];
 }
-

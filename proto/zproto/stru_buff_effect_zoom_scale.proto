@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message BuffEffectZoomScale {
-  float zoom_ratio_add = 1;
-  float zoom_ratio_max = 2;
+	float zoomRatioAdd = 1 [json_name = "zoomRatioAdd"];
+	float zoomRatioMax = 2 [json_name = "zoomRatioMax"];
 }
-

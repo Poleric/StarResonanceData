@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_structure_sub_model_info.proto";
+
+package zproto;
+
+message HomelandInsertSubModelRequest {
+	int64 structureUuid = 1 [json_name = "structureUuid"];
+	StructureSubModelInfo subModelInfo = 2 [json_name = "subModelInfo"];
+	bool isOuter = 3 [json_name = "isOuter"];
+}

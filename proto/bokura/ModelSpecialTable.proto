@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ModelSpecialTableBase {
-  int32 model_prefab_id = 5;
-  string model_prefab_desc = 1152;
-  string skeleton = 1130;
-  string anim_template = 1244;
-  string_array weapon = 24;
-  bool use_head_ik = 338;
-  int32 look_at_angle = 910;
-  int32 look_at_speed = 275;
-  int32 look_at_distance = 1940;
+	int32 ModelPrefabID = 5 [json_name = "ModelPrefabID"];
+	string ModelPrefabDesc = 1152 [json_name = "ModelPrefabDesc"];
+	string Skeleton = 1130 [json_name = "Skeleton"];
+	string AnimTemplate = 1244 [json_name = "AnimTemplate"];
+	string_array Weapon = 24 [json_name = "Weapon"];
+	bool UseHeadIK = 338 [json_name = "UseHeadIK"];
+	int32 LookAtAngle = 910 [json_name = "LookAtAngle"];
+	int32 LookAtSpeed = 275 [json_name = "LookAtSpeed"];
+	int32 LookAtDistance = 1940 [json_name = "LookAtDistance"];
 }
 
 message ModelSpecialTableMgr {
-  map<int32, bokura.ModelSpecialTableBase> datas = 1;
+	map<int32, ModelSpecialTableBase> datas = 1 [json_name = "datas"];
 }
-

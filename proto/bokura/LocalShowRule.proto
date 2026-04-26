@@ -3,17 +3,16 @@ syntax = "proto3";
 package bokura;
 
 message LocalShowRuleBase {
-  int32 id = 1463;
-  string lang_area = 383;
-  string ymd = 1317;
-  string ymd_to_ymd = 809;
-  string md = 381;
-  string md_to_md = 1410;
-  string hms = 602;
-  string hm = 310;
+	int32 Id = 1463 [json_name = "Id"];
+	string LangArea = 383 [json_name = "LangArea"];
+	string YMD = 1317 [json_name = "YMD"];
+	string YMDToYMD = 809 [json_name = "YMDToYMD"];
+	string MD = 381 [json_name = "MD"];
+	string MDToMD = 1410 [json_name = "MDToMD"];
+	string HMS = 602 [json_name = "HMS"];
+	string HM = 310 [json_name = "HM"];
 }
 
 message LocalShowRuleMgr {
-  map<int32, bokura.LocalShowRuleBase> datas = 1;
+	map<int32, LocalShowRuleBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+import "stru_item.proto";
+
+package zproto;
+
+message ReceiveCommonTargetActivityAwardReply {
+	repeated Item rewards = 1 [json_name = "rewards"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

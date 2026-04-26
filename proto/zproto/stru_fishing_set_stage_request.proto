@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message FishingSetStageRequest {
-  int32 stage = 1;
+	int32 stage = 1 [json_name = "stage"];
 }
-

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "enum_mahjong_settle_type.proto";
+
+package zproto;
+
+message MahjongSettle {
+	MahjongSettleType SettleType = 1 [json_name = "SettleType"];
+	int64 PlayerId = 2 [json_name = "PlayerId"];
+	int32 Yi = 3 [json_name = "Yi"];
+	int32 Han = 4 [json_name = "Han"];
+	int32 Fushu = 5 [json_name = "Fushu"];
+	int32 Seconds = 6 [json_name = "Seconds"];
+}

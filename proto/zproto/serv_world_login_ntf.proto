@@ -1,13 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_notify_instruction_info_request.proto";
 
+package zproto;
+
 message WorldLoginNtf {
-
-  message NotifyInstructionInfo {
-    zproto.NotifyInstructionInfoRequest v_info = 1;
-  }
+	message NotifyInstructionInfo {
+		NotifyInstructionInfoRequest vInfo = 1 [json_name = "vInfo"];
+	}
 }
-

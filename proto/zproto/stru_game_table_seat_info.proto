@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message GameTableSeatInfo {
+	int32 seatIndex = 1 [json_name = "seatIndex"];
+	int64 playerId = 2 [json_name = "playerId"];
+	int32 selectGameId = 3 [json_name = "selectGameId"];
+}

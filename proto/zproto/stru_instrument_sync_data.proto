@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_instrument_play_type.proto";
+
+package zproto;
+
+message InstrumentSyncData {
+	int64 playTime = 1 [json_name = "playTime"];
+	int32 playParam = 2 [json_name = "playParam"];
+	EInstrumentPlayType playType = 3 [json_name = "playType"];
+}

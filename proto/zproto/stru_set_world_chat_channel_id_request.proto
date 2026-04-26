@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message SetWorldChatChannelIdRequest {
-  uint32 channel_id = 1;
+	uint32 channelId = 1 [json_name = "channelId"];
 }
-

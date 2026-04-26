@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "stru_world_act_activity_data.proto";
+import "stru_world_act_rank_list.proto";
+
+package zproto;
+
+message WorldActNtf {
+	message SyncWorldActData {
+		WorldActActivityData vData = 1 [json_name = "vData"];
+	}
+
+	message SyncWorldActRank {
+		WorldActRankList vData = 1 [json_name = "vData"];
+	}
+}

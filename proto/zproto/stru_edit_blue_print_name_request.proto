@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_blue_print_type.proto";
+
+package zproto;
+
+message EditBluePrintNameRequest {
+	BluePrintType bluePrintType = 1 [json_name = "bluePrintType"];
+	int32 slot = 2 [json_name = "slot"];
+	string bluePrintName = 3 [json_name = "bluePrintName"];
+}

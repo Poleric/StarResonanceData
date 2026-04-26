@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_structure_op_type.proto";
 
-message StructureLandOp {
-  zproto.StructureOpType op_type = 1;
-  int64 uuid = 2;
-}
+package zproto;
 
+message StructureLandOp {
+	StructureOpType opType = 1 [json_name = "opType"];
+	int64 uuid = 2 [json_name = "uuid"];
+}

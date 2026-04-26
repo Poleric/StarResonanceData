@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message GashaGuaranteeInfo {
-  uint32 id = 1;
-  uint32 guaranteex = 2;
-  uint32 guaranteey = 3;
-  int32 residue_guarantee_timex = 4;
-  int32 residue_guarantee_timey = 5;
-  int32 residue_guarantee_timez = 6;
-  uint32 guaranteez = 7;
-}
+package zproto;
 
+message GashaGuaranteeInfo {
+	uint32 id = 1 [json_name = "id"];
+	uint32 guaranteeX = 2 [json_name = "guaranteeX"];
+	uint32 guaranteeY = 3 [json_name = "guaranteeY"];
+	int32 residueGuaranteeTimeX = 4 [json_name = "residueGuaranteeTimeX"];
+	int32 residueGuaranteeTimeY = 5 [json_name = "residueGuaranteeTimeY"];
+	int32 residueGuaranteeTimeZ = 6 [json_name = "residueGuaranteeTimeZ"];
+	uint32 guaranteeZ = 7 [json_name = "guaranteeZ"];
+}

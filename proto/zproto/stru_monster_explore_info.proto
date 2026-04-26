@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message MonsterExploreInfo {
-  bool is_unlock = 1;
-  map<int32, int32> target_num = 2;
-  uint32 award_flag = 3;
-  bool is_flag = 4;
-}
+package zproto;
 
+message MonsterExploreInfo {
+	bool isUnlock = 1 [json_name = "isUnlock"];
+	map<int32, int32> targetNum = 2 [json_name = "targetNum"];
+	uint32 awardFlag = 3 [json_name = "awardFlag"];
+	bool isFlag = 4 [json_name = "isFlag"];
+}

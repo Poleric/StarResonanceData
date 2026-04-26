@@ -1,17 +1,16 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FriendshipValueGetEventsBase {
-  int32 id = 1463;
-  int_table event_parameter = 1467;
-  int32 once_value = 1018;
-  int32 day_max_value = 1875;
+	int32 Id = 1463 [json_name = "Id"];
+	int_table EventParameter = 1467 [json_name = "EventParameter"];
+	int32 OnceValue = 1018 [json_name = "OnceValue"];
+	int32 DayMaxValue = 1875 [json_name = "DayMaxValue"];
 }
 
 message FriendshipValueGetEventsMgr {
-  map<int32, bokura.FriendshipValueGetEventsBase> datas = 1;
+	map<int32, FriendshipValueGetEventsBase> datas = 1 [json_name = "datas"];
 }
-

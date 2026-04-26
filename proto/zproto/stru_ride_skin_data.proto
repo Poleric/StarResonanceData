@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message RideSkinData {
-  int64 activate_time = 1;
-}
+package zproto;
 
+message RideSkinData {
+	int64 activateTime = 1 [json_name = "activateTime"];
+}

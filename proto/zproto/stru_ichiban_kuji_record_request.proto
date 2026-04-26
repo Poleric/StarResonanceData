@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message IchibanKujiRecordRequest {
+	int32 poolId = 1 [json_name = "poolId"];
+	uint32 startIndex = 2 [json_name = "startIndex"];
+	uint32 count = 3 [json_name = "count"];
+}

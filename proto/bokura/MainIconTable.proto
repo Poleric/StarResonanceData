@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message MainIconTableBase {
-  int32 id = 1463;
-  mlstring title = 695;
-  int32 system_place = 387;
-  int32 sort_id = 1586;
-  string atlas = 1702;
-  string icon = 1153;
-  string path = 172;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Title = 695 [json_name = "Title"];
+	int32 SystemPlace = 387 [json_name = "SystemPlace"];
+	int32 SortId = 1586 [json_name = "SortId"];
+	string Atlas = 1702 [json_name = "Atlas"];
+	string Icon = 1153 [json_name = "Icon"];
+	string Path = 172 [json_name = "Path"];
 }
 
 message MainIconTableMgr {
-  map<int32, bokura.MainIconTableBase> datas = 1;
+	map<int32, MainIconTableBase> datas = 1 [json_name = "datas"];
 }
-

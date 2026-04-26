@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_friendliness_exp_level.proto";
 
-message NotifyFriendlinessExpLvRequest {
-  repeated zproto.FriendlinessExpLevel change_list = 1;
-  int32 total_level = 2;
-  int32 total_exp = 3;
-  int32 today_total_add_exps = 4;
-  int64 update_time_stamp = 5;
-}
+package zproto;
 
+message NotifyFriendlinessExpLvRequest {
+	repeated FriendlinessExpLevel changeList = 1 [json_name = "changeList"];
+	int32 totalLevel = 2 [json_name = "totalLevel"];
+	int32 totalExp = 3 [json_name = "totalExp"];
+	int32 todayTotalAddExps = 4 [json_name = "todayTotalAddExps"];
+	int64 updateTimeStamp = 5 [json_name = "updateTimeStamp"];
+}

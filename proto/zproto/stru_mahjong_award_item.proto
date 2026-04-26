@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message MahjongAwardItem {
+	int32 itemId = 1 [json_name = "itemId"];
+	int32 itemCount = 2 [json_name = "itemCount"];
+	int32 ActuarialPoint = 3 [json_name = "ActuarialPoint"];
+}

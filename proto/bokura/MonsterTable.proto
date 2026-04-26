@@ -1,62 +1,61 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message MonsterTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  int32 model_id = 2011;
-  int32 monster_type = 1783;
-  int32 blood_tube_count = 330;
-  string comment1 = 280;
-  string comment2 = 2035;
-  int_array skill_ids = 1496;
-  int_array hatred_build_type = 920;
-  bool is_flying = 1877;
-  int_table sight_config = 1043;
-  bool is_accurate_sight = 143;
-  int_array hatred_away = 411;
-  int32 score = 1699;
-  int_array hatred_away_type = 527;
-  int32 attribute_id = 1825;
-  float walk_speed = 601;
-  float run_speed = 82;
-  float f_run_speed = 73;
-  float alert_speed = 1159;
-  float min_alert_dis = 607;
-  float max_alert_dis = 500;
-  bool export_voxel = 328;
-  string voxel_path = 434;
-  int32 default_camp = 1466;
-  bool is_show_hp = 36;
-  number_array entity_turn_velocity = 1703;
-  int32 ai_table_reference = 995;
-  float attack_height = 776;
-  float drop_height = 1616;
-  float dash_speed = 542;
-  int32 monster_fight_area = 226;
-  int_array hatred_away_show = 1715;
-  int_array tags = 232;
-  float target_select_weight = 848;
-  int32 born_dissolution_time = 216;
-  int32 born_time = 1588;
-  int32 invincible_time_with_born = 873;
-  float breaking_continue_time = 1744;
-  float weekness_duration = 883;
-  float fracture_duration = 1629;
-  bool behit_light_is_open = 1780;
-  string born_effect = 1140;
-  int_array born_client_buffs = 1364;
-  string dead_effect = 346;
-  int_array dead_client_buffs = 1638;
-  bool hud_in_screen = 1956;
-  int_array blood_mark = 1298;
-  float hud_pos_param = 1941;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	int32 ModelID = 2011 [json_name = "ModelID"];
+	int32 MonsterType = 1783 [json_name = "MonsterType"];
+	int32 BloodTubeCount = 330 [json_name = "BloodTubeCount"];
+	string Comment1 = 280 [json_name = "Comment1"];
+	string Comment2 = 2035 [json_name = "Comment2"];
+	int_array SkillIds = 1496 [json_name = "SkillIds"];
+	int_array HatredBuildType = 920 [json_name = "HatredBuildType"];
+	bool IsFlying = 1877 [json_name = "IsFlying"];
+	int_table SightConfig = 1043 [json_name = "SightConfig"];
+	bool IsAccurateSight = 143 [json_name = "IsAccurateSight"];
+	int_array HatredAway = 411 [json_name = "HatredAway"];
+	int32 Score = 1699 [json_name = "Score"];
+	int_array HatredAwayType = 527 [json_name = "HatredAwayType"];
+	int32 AttributeId = 1825 [json_name = "AttributeId"];
+	float WalkSpeed = 601 [json_name = "WalkSpeed"];
+	float RunSpeed = 82 [json_name = "RunSpeed"];
+	float FRunSpeed = 73 [json_name = "FRunSpeed"];
+	float AlertSpeed = 1159 [json_name = "AlertSpeed"];
+	float MinAlertDis = 607 [json_name = "MinAlertDis"];
+	float MaxAlertDis = 500 [json_name = "MaxAlertDis"];
+	bool ExportVoxel = 328 [json_name = "ExportVoxel"];
+	string VoxelPath = 434 [json_name = "VoxelPath"];
+	int32 DefaultCamp = 1466 [json_name = "DefaultCamp"];
+	bool IsShowHp = 36 [json_name = "IsShowHp"];
+	number_array EntityTurnVelocity = 1703 [json_name = "EntityTurnVelocity"];
+	int32 AITableReference = 995 [json_name = "AITableReference"];
+	float AttackHeight = 776 [json_name = "AttackHeight"];
+	float DropHeight = 1616 [json_name = "DropHeight"];
+	float DashSpeed = 542 [json_name = "DashSpeed"];
+	int32 MonsterFightArea = 226 [json_name = "MonsterFightArea"];
+	int_array HatredAwayShow = 1715 [json_name = "HatredAwayShow"];
+	int_array Tags = 232 [json_name = "Tags"];
+	float TargetSelectWeight = 848 [json_name = "TargetSelectWeight"];
+	int32 BornDissolutionTime = 216 [json_name = "BornDissolutionTime"];
+	int32 BornTime = 1588 [json_name = "BornTime"];
+	int32 InvincibleTimeWithBorn = 873 [json_name = "InvincibleTimeWithBorn"];
+	float BreakingContinueTime = 1744 [json_name = "BreakingContinueTime"];
+	float WeeknessDuration = 883 [json_name = "WeeknessDuration"];
+	float FractureDuration = 1629 [json_name = "FractureDuration"];
+	bool BehitLightIsOpen = 1780 [json_name = "BehitLightIsOpen"];
+	string BornEffect = 1140 [json_name = "BornEffect"];
+	int_array BornClientBuffs = 1364 [json_name = "BornClientBuffs"];
+	string DeadEffect = 346 [json_name = "DeadEffect"];
+	int_array DeadClientBuffs = 1638 [json_name = "DeadClientBuffs"];
+	bool HudInScreen = 1956 [json_name = "HudInScreen"];
+	int_array BloodMark = 1298 [json_name = "BloodMark"];
+	float HudPosParam = 1941 [json_name = "HudPosParam"];
 }
 
 message MonsterTableMgr {
-  map<int32, bokura.MonsterTableBase> datas = 1;
+	map<int32, MonsterTableBase> datas = 1 [json_name = "datas"];
 }
-

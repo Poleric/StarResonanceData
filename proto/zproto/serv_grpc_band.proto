@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+import "stru_reply_join_ensemble_activity_request.proto";
+
+package zproto;
+
+message GrpcBand {
+	message ReplyJoinEnsembleActivity_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message ReplyJoinEnsembleActivity {
+		ReplyJoinEnsembleActivityRequest vRequest = 1 [json_name = "vRequest"];
+	}
+}

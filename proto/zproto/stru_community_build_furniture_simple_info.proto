@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message CommunityBuildFurnitureSimpleInfo {
+	int64 buildUuid = 1 [json_name = "buildUuid"];
+	int32 furnitureId = 2 [json_name = "furnitureId"];
+	int64 endTime = 3 [json_name = "endTime"];
+}

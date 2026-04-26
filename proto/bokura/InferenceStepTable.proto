@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message InferenceStepTableBase {
-  int32 id = 1463;
-  mlstring question = 1705;
-  int_array answer = 311;
-  mlstring question_bubble = 305;
-  int32 question_bubble_action = 1495;
-  mlstring_array wrong_bubble = 512;
-  int_array wrong_bubble_action = 1770;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Question = 1705 [json_name = "Question"];
+	int_array Answer = 311 [json_name = "Answer"];
+	mlstring QuestionBubble = 305 [json_name = "QuestionBubble"];
+	int32 QuestionBubbleAction = 1495 [json_name = "QuestionBubbleAction"];
+	mlstring_array WrongBubble = 512 [json_name = "WrongBubble"];
+	int_array WrongBubbleAction = 1770 [json_name = "WrongBubbleAction"];
 }
 
 message InferenceStepTableMgr {
-  map<int32, bokura.InferenceStepTableBase> datas = 1;
+	map<int32, InferenceStepTableBase> datas = 1 [json_name = "datas"];
 }
-

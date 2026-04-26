@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "enum_structure_op_type.proto";
+
+package zproto;
+
+message NotifyFlowerTimeUpdateRequest {
+	StructureOpType opType = 1 [json_name = "opType"];
+}

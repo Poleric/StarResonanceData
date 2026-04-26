@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_home_land_player_task_info.proto";
 
-message NotifyHomeLandPlayerTaskInfoUpdateRequest {
-  zproto.HomeLandPlayerTaskInfo new_info = 1;
-}
+package zproto;
 
+message NotifyHomeLandPlayerTaskInfoUpdateRequest {
+	HomeLandPlayerTaskInfo newInfo = 1 [json_name = "newInfo"];
+}

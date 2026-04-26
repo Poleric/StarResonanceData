@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message SeasonCenterHistoryRequest {
-  int32 season_id = 1;
+	int32 seasonId = 1 [json_name = "seasonId"];
 }
-

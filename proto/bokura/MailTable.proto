@@ -1,24 +1,23 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message MailTableBase {
-  int32 id = 1463;
-  mlstring title = 695;
-  int32 npc_id = 694;
-  mlstring npc_name = 1186;
-  mlstring content = 783;
-  int32 award_id = 1197;
-  string mail_group_content = 1572;
-  int32 expire_time = 418;
-  int32 mail_type = 56;
-  int32 important = 1782;
-  int32 limit_type = 92;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Title = 695 [json_name = "Title"];
+	int32 NpcId = 694 [json_name = "NpcId"];
+	mlstring NpcName = 1186 [json_name = "NpcName"];
+	mlstring Content = 783 [json_name = "Content"];
+	int32 AwardId = 1197 [json_name = "AwardId"];
+	string MailGroupContent = 1572 [json_name = "MailGroupContent"];
+	int32 ExpireTime = 418 [json_name = "ExpireTime"];
+	int32 MailType = 56 [json_name = "MailType"];
+	int32 Important = 1782 [json_name = "Important"];
+	int32 LimitType = 92 [json_name = "LimitType"];
 }
 
 message MailTableMgr {
-  map<int32, bokura.MailTableBase> datas = 1;
+	map<int32, MailTableBase> datas = 1 [json_name = "datas"];
 }
-

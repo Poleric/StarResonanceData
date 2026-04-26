@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message MainUiTableBase {
-  int32 id = 1463;
-  string comment = 11;
-  int_array main_icon = 1283;
+	int32 Id = 1463 [json_name = "Id"];
+	string Comment = 11 [json_name = "Comment"];
+	int_array MainIcon = 1283 [json_name = "MainIcon"];
 }
 
 message MainUiTableMgr {
-  map<int32, bokura.MainUiTableBase> datas = 1;
+	map<int32, MainUiTableBase> datas = 1 [json_name = "datas"];
 }
-

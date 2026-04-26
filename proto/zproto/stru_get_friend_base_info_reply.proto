@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_friend_base_info.proto";
 import "stru_friendliness.proto";
 import "stru_total_friendliness.proto";
 
-message GetFriendBaseInfoReply {
-  zproto.FriendBaseInfo base_info = 3;
-  map<int64, zproto.Friendliness> friendliness_list = 5;
-  zproto.TotalFriendliness total_friendliness = 6;
-  zproto.EErrorCode err_code = 7;
-}
+package zproto;
 
+message GetFriendBaseInfoReply {
+	FriendBaseInfo baseInfo = 3 [json_name = "baseInfo"];
+	map<int64, Friendliness> friendlinessList = 5 [json_name = "friendlinessList"];
+	TotalFriendliness totalFriendliness = 6 [json_name = "totalFriendliness"];
+	EErrorCode errCode = 7 [json_name = "errCode"];
+}

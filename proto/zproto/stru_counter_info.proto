@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message CounterInfo {
-  int32 id = 1;
-  int64 counter = 2;
-  int64 accumulate_limit = 3;
-}
+package zproto;
 
+message CounterInfo {
+	int32 id = 1 [json_name = "id"];
+	int64 counter = 2 [json_name = "counter"];
+	int64 accumulateLimit = 3 [json_name = "accumulateLimit"];
+}

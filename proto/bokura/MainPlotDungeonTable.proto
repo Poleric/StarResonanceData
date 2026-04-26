@@ -3,12 +3,11 @@ syntax = "proto3";
 package bokura;
 
 message MainPlotDungeonTableBase {
-  int32 dungeon_id = 1583;
-  string background = 343;
-  int32 red_dot_index = 371;
+	int32 DungeonId = 1583 [json_name = "DungeonId"];
+	string Background = 343 [json_name = "Background"];
+	int32 RedDotIndex = 371 [json_name = "RedDotIndex"];
 }
 
 message MainPlotDungeonTableMgr {
-  map<int32, bokura.MainPlotDungeonTableBase> datas = 1;
+	map<int32, MainPlotDungeonTableBase> datas = 1 [json_name = "datas"];
 }
-

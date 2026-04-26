@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message BackflowOnlineData {
+	int64 loginTimeStamp = 1 [json_name = "loginTimeStamp"];
+	int64 logoutTimeStamp = 2 [json_name = "logoutTimeStamp"];
+	int64 addUpOnlineTime = 3 [json_name = "addUpOnlineTime"];
+}

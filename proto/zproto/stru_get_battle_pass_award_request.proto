@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message GetBattlePassAwardRequest {
-  bool onekey = 1;
-  int32 level = 2;
-  bool unlock = 3;
-  int32 id = 4;
+	bool onekey = 1 [json_name = "onekey"];
+	int32 level = 2 [json_name = "level"];
+	bool unlock = 3 [json_name = "unlock"];
+	int32 id = 4 [json_name = "id"];
 }
-

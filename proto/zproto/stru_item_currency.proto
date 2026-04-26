@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_currency_data.proto";
 import "stru_dirty_mask.proto";
 
-message ItemCurrency {
-  bool is_init = 1;
-  map<int32, zproto.CurrencyData> currency_datas = 2;
-}
+package zproto;
 
+message ItemCurrency {
+	bool isInit = 1 [json_name = "isInit"];
+	map<int32, CurrencyData> currencyDatas = 2 [json_name = "currencyDatas"];
+}

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "stru_backflow_act_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message BackflowData {
+	int64 beginTime = 1 [json_name = "beginTime"];
+	bool isBackflow = 2 [json_name = "isBackflow"];
+	int32 seasonId = 3 [json_name = "seasonId"];
+	int32 activateTimes = 4 [json_name = "activateTimes"];
+	bool isNotShowTag = 5 [json_name = "isNotShowTag"];
+	BackflowActData actData = 6 [json_name = "actData"];
+}

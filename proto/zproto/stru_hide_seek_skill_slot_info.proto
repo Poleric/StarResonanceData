@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message HideSeekSkillSlotInfo {
+	int32 slotId = 1 [json_name = "slotId"];
+	int32 skillId = 2 [json_name = "skillId"];
+}

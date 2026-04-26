@@ -3,10 +3,9 @@ syntax = "proto3";
 package bokura;
 
 message EntityDynAttrPeopleNumTableBase {
-  int32 id = 1463;
+	int32 Id = 1463 [json_name = "Id"];
 }
 
 message EntityDynAttrPeopleNumTableMgr {
-  map<int32, bokura.EntityDynAttrPeopleNumTableBase> datas = 1;
+	map<int32, EntityDynAttrPeopleNumTableBase> datas = 1 [json_name = "datas"];
 }
-

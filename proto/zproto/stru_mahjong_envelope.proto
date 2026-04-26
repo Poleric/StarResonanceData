@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "enum_mahjong_protocol.proto";
+
+package zproto;
+
+message MahjongEnvelope {
+	MahjongProtocol Protocol = 1 [json_name = "Protocol"];
+	int32 MessageId = 2 [json_name = "MessageId"];
+	bytes data = 3 [json_name = "data"];
+	int64 FinalSyncTimeSec = 4 [json_name = "FinalSyncTimeSec"];
+}

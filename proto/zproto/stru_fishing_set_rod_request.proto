@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message FishingSetRodRequest {
-  uint64 rod_uuid = 2;
+	uint64 rodUuid = 2 [json_name = "rodUuid"];
 }
-

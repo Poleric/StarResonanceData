@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message GashaRecordRequest {
-  uint32 pool_id = 1;
-  uint32 start_id = 2;
-  uint32 count = 3;
+	uint32 poolId = 1 [json_name = "poolId"];
+	uint32 startId = 2 [json_name = "startId"];
+	uint32 count = 3 [json_name = "count"];
 }
-

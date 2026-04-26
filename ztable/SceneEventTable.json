@@ -139,7 +139,7 @@
   },
   "6011003": {
     "Id": 6011003,
-    "Name": "Help Necalli retrieve engrams",
+    "Name": "Help Necalli retrieve Engram",
     "TargetList": [
       6011006,
       6011007,
@@ -206,6 +206,23 @@
       ]
     ],
     "Time": 91
+  },
+  "6241001": {
+    "Id": 6241001,
+    "Name": "Dream Invasion",
+    "TargetList": [
+      6211021,
+      6211022
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        75,
+        75
+      ]
+    ],
+    "Time": 61
   },
   "1211002": {
     "Id": 1211002,
@@ -565,6 +582,74 @@
     ],
     "Difficult": 0,
     "CompleteAction": [],
+    "Time": 60
+  },
+  "1401001": {
+    "Id": 1401001,
+    "Name": "Defuse the Bomb",
+    "TargetList": [
+      142111,
+      142112
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        150,
+        100
+      ]
+    ],
+    "Time": 60
+  },
+  "1401002": {
+    "Id": 1401002,
+    "Name": "Stop Nappo!",
+    "TargetList": [
+      142113,
+      142114
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        150,
+        100
+      ]
+    ],
+    "Time": 60
+  },
+  "1401003": {
+    "Id": 1401003,
+    "Name": "Destroy the Crystal",
+    "TargetList": [
+      142115,
+      142116
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        300,
+        200
+      ]
+    ],
+    "Time": 60
+  },
+  "1401004": {
+    "Id": 1401004,
+    "Name": "Find the cloud where Nappo is hiding",
+    "TargetList": [
+      142117,
+      142118
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        300,
+        200
+      ]
+    ],
     "Time": 60
   }
 }

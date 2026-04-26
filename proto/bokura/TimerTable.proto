@@ -3,16 +3,15 @@ syntax = "proto3";
 package bokura;
 
 message TimerTableBase {
-  int64 id = 1463;
-  string starttime = 1235;
-  string endtime = 1671;
-  int32 type = 679;
-  string offset = 1658;
-  string duration = 1720;
-  string command = 995;
+	int64 Id = 1463 [json_name = "Id"];
+	string starttime = 1235 [json_name = "starttime"];
+	string endtime = 1671 [json_name = "endtime"];
+	int32 type = 679 [json_name = "type"];
+	string offset = 1658 [json_name = "offset"];
+	string duration = 1720 [json_name = "duration"];
+	string command = 995 [json_name = "command"];
 }
 
 message TimerTableMgr {
-  map<int64, bokura.TimerTableBase> datas = 1;
+	map<int64, TimerTableBase> datas = 1 [json_name = "datas"];
 }
-

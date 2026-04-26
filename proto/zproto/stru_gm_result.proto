@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message GmResult {
-  bool success = 1;
-  string fail_reason = 2;
-  repeated string ret_params = 3;
-  zproto.EErrorCode err_code = 4;
-}
+package zproto;
 
+message GmResult {
+	bool success = 1 [json_name = "success"];
+	string failReason = 2 [json_name = "failReason"];
+	repeated string retParams = 3 [json_name = "retParams"];
+	EErrorCode errCode = 4 [json_name = "errCode"];
+}

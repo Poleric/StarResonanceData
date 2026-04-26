@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message FashionBenefitTaskInfo {
-  int32 id = 1;
-  int32 count = 2;
-  int32 progress = 3;
-}
+package zproto;
 
+message FashionBenefitTaskInfo {
+	int32 id = 1 [json_name = "id"];
+	int32 count = 2 [json_name = "count"];
+	int32 progress = 3 [json_name = "progress"];
+}

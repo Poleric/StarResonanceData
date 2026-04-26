@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SpecialSkillSlotTableBase {
-  int32 id = 1463;
-  int_array tag_ids = 1393;
+	int32 Id = 1463 [json_name = "Id"];
+	int_array TagIds = 1393 [json_name = "TagIds"];
 }
 
 message SpecialSkillSlotTableMgr {
-  map<int32, bokura.SpecialSkillSlotTableBase> datas = 1;
+	map<int32, SpecialSkillSlotTableBase> datas = 1 [json_name = "datas"];
 }
-

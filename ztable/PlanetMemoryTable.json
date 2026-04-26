@@ -2,11 +2,7 @@
   "1": {
     "RoomId": 1,
     "DungeonId": 15001,
-    "RoomPos": [
-      0.0,
-      8.5,
-      0.0
-    ],
+    "RoomPos": [],
     "UnlockRoomId": [],
     "RoomType": 1,
     "LinkModel": [
@@ -14,7 +10,7 @@
       31008
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 150,
     "TargetMonster": [
       20056,
@@ -50,7 +46,7 @@
       31012
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 150,
     "TargetMonster": [
       20053,
@@ -85,7 +81,7 @@
       31013
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 150,
     "TargetMonster": [
       20066,
@@ -118,7 +114,7 @@
       31008
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 150,
     "TargetMonster": [
       20074,
@@ -153,7 +149,7 @@
       31008
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 150,
     "TargetMonster": [
       20093
@@ -185,7 +181,7 @@
       31012
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 155,
     "TargetMonster": [
       20102
@@ -218,7 +214,7 @@
       31013
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 155,
     "TargetMonster": [
       20056,
@@ -253,7 +249,7 @@
       31012
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 155,
     "TargetMonster": [
       20102
@@ -288,7 +284,7 @@
     "Affix": [
       8
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 155,
     "TargetMonster": [
       20079,
@@ -325,7 +321,7 @@
     "Affix": [
       52
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 160,
     "TargetMonster": [
       20051,
@@ -365,7 +361,7 @@
     "Affix": [
       38
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 160,
     "TargetMonster": [
       20067,
@@ -406,7 +402,7 @@
       31008
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 160,
     "TargetMonster": [
       20094
@@ -438,7 +434,7 @@
     "Affix": [
       9
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 160,
     "TargetMonster": [
       20051,
@@ -482,7 +478,7 @@
     "Affix": [
       25
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 165,
     "TargetMonster": [
       20054,
@@ -518,7 +514,7 @@
     "Affix": [
       4
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 165,
     "TargetMonster": [
       20086
@@ -553,7 +549,7 @@
     "Affix": [
       12
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 165,
     "TargetMonster": [
       20051,
@@ -595,7 +591,7 @@
     "Affix": [
       13
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 165,
     "TargetMonster": [
       20057,
@@ -639,7 +635,7 @@
     "Affix": [
       8
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 170,
     "TargetMonster": [
       20051,
@@ -681,7 +677,7 @@
     "Affix": [
       16
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 170,
     "TargetMonster": [
       20051,
@@ -722,7 +718,7 @@
     "Affix": [
       7
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 170,
     "TargetMonster": [
       20074,
@@ -757,7 +753,7 @@
       31008
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 175,
     "TargetMonster": [
       20092
@@ -792,7 +788,7 @@
       6,
       53
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 175,
     "TargetMonster": [
       20055,
@@ -834,7 +830,7 @@
       9,
       10
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 175,
     "TargetMonster": [
       20071
@@ -869,7 +865,7 @@
       18,
       36
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 175,
     "TargetMonster": [
       20016,
@@ -906,7 +902,7 @@
       31012
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 175,
     "TargetMonster": [
       20095,
@@ -941,7 +937,7 @@
       13,
       51
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 180,
     "TargetMonster": [
       20052,
@@ -984,7 +980,7 @@
       31013
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 180,
     "TargetMonster": [
       20108
@@ -1017,7 +1013,7 @@
       5,
       23
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 180,
     "TargetMonster": [
       20054,
@@ -1049,7 +1045,7 @@
       31013
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 180,
     "TargetMonster": [
       20096
@@ -1085,7 +1081,7 @@
       52,
       24
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 185,
     "TargetMonster": [
       20087
@@ -1121,7 +1117,7 @@
       64,
       41
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 185,
     "TargetMonster": [
       20052,
@@ -1163,7 +1159,7 @@
       56,
       40
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 185,
     "TargetMonster": [
       20056,
@@ -1202,7 +1198,7 @@
       31013
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 190,
     "TargetMonster": [
       20101
@@ -1237,7 +1233,7 @@
       5,
       67
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 190,
     "TargetMonster": [
       20054,
@@ -1274,7 +1270,7 @@
       55,
       65
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 190,
     "TargetMonster": [
       20051,
@@ -1315,7 +1311,7 @@
       52,
       23
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 190,
     "TargetMonster": [
       20080,
@@ -1348,7 +1344,7 @@
       31013
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 195,
     "TargetMonster": [
       20127
@@ -1384,7 +1380,7 @@
       50,
       36
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 195,
     "TargetMonster": [
       20051,
@@ -1427,7 +1423,7 @@
       31012
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 195,
     "TargetMonster": [
       20125
@@ -1465,7 +1461,7 @@
       67,
       40
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 195,
     "TargetMonster": [
       20100
@@ -1499,7 +1495,7 @@
       28,
       51
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20077,
@@ -1536,7 +1532,7 @@
       41,
       10
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20051,
@@ -1576,7 +1572,7 @@
       31012
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20111,
@@ -1616,7 +1612,7 @@
       31012
     ],
     "Affix": [],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20107
@@ -1650,7 +1646,7 @@
       59,
       36
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20072
@@ -1684,7 +1680,7 @@
       24,
       51
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20056,
@@ -1725,7 +1721,7 @@
       15,
       50
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20052,
@@ -1766,7 +1762,7 @@
       59,
       53
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20052,
@@ -1807,7 +1803,7 @@
       10,
       41
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20063,
@@ -1842,7 +1838,7 @@
       61,
       23
     ],
-    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "RoomName": "",
     "GsLimit": 200,
     "TargetMonster": [
       20088

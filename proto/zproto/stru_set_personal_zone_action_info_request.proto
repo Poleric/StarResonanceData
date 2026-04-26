@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_action_info.proto";
 
-message SetPersonalZoneActionInfoRequest {
-  zproto.ActionInfo action_info = 1;
-}
+package zproto;
 
+message SetPersonalZoneActionInfoRequest {
+	ActionInfo actionInfo = 1 [json_name = "actionInfo"];
+}

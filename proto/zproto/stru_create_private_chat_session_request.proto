@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message CreatePrivateChatSessionRequest {
-  int64 target_id = 2;
+	int64 targetId = 2 [json_name = "targetId"];
 }
-

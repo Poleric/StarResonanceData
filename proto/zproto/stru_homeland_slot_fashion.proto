@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_fashion_color_info.proto";
+
+package zproto;
+
+message HomelandSlotFashion {
+	int32 slot = 1 [json_name = "slot"];
+	int32 fashionId = 2 [json_name = "fashionId"];
+	FashionColorInfo colors = 3 [json_name = "colors"];
+}

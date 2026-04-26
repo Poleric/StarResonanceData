@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message UnionEvent {
-  int32 event_id = 1;
-  uint64 event_time = 2;
-  repeated string event_param = 3;
+	int32 eventId = 1 [json_name = "eventId"];
+	uint64 eventTime = 2 [json_name = "eventTime"];
+	repeated string eventParam = 3 [json_name = "eventParam"];
 }
-

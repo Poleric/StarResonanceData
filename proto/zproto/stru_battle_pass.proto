@@ -1,21 +1,20 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_battle_pass_award_info.proto";
 import "stru_dirty_mask.proto";
 
-message BattlePass {
-  int32 id = 1;
-  int32 level = 2;
-  int32 curexp = 3;
-  int32 week_exp = 4;
-  int32 exp_last_time = 5;
-  bool is_unlock = 6;
-  bool buy_normal_pas = 7;
-  bool buy_prime_pass = 8;
-  map<int32, zproto.BattlePassAwardInfo> award = 9;
-  bool is_valid = 10;
-  bool is_sended_mail = 11;
-}
+package zproto;
 
+message BattlePass {
+	int32 id = 1 [json_name = "id"];
+	int32 level = 2 [json_name = "level"];
+	int32 curexp = 3 [json_name = "curexp"];
+	int32 weekExp = 4 [json_name = "weekExp"];
+	int32 expLastTime = 5 [json_name = "expLastTime"];
+	bool isUnlock = 6 [json_name = "isUnlock"];
+	bool buyNormalPas = 7 [json_name = "buyNormalPas"];
+	bool buyPrimePass = 8 [json_name = "buyPrimePass"];
+	map<int32, BattlePassAwardInfo> award = 9 [json_name = "award"];
+	bool isValid = 10 [json_name = "isValid"];
+	bool isSendedMail = 11 [json_name = "isSendedMail"];
+}

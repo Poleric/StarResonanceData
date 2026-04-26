@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_mahjong_final_settle_info.proto";
+
+package zproto;
+
+message MahjongFinalMessage {
+	repeated MahjongFinalSettleInfo infos = 1 [json_name = "infos"];
+}

@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_questionnaire_award_item.proto";
 import "enum_questionnaire_status.proto";
 
-message QuestionnaireInfo {
-  int32 id = 1;
-  zproto.QuestionnaireStatus status = 2;
-  bool can_answer = 3;
-  string name = 4;
-  string link = 5;
-  int32 level_limit = 6;
-  int32 day_limit = 7;
-  repeated zproto.QuestionnaireAwardItem awards = 8;
-}
+package zproto;
 
+message QuestionnaireInfo {
+	int32 id = 1 [json_name = "id"];
+	QuestionnaireStatus status = 2 [json_name = "status"];
+	bool canAnswer = 3 [json_name = "canAnswer"];
+	string name = 4 [json_name = "name"];
+	string link = 5 [json_name = "link"];
+	int32 levelLimit = 6 [json_name = "levelLimit"];
+	int32 dayLimit = 7 [json_name = "dayLimit"];
+	repeated QuestionnaireAwardItem awards = 8 [json_name = "awards"];
+}

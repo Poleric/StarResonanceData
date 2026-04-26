@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message CommunityHomelandRecipe {
-  int32 id = 1;
-}
+package zproto;
 
+message CommunityHomelandRecipe {
+	int32 id = 1 [json_name = "id"];
+}

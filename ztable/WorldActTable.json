@@ -1,0 +1,285 @@
+{
+  "1002": {
+    "Id": 1002,
+    "ActType": 1,
+    "ActCost": [],
+    "MapId": 11,
+    "BornId": [
+      121,
+      655,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664,
+      665
+    ],
+    "NumMin": 2,
+    "NumMax": 30,
+    "PrepareTime": 60,
+    "DurationTime": 0,
+    "Award": 0,
+    "RankNum": 10,
+    "RankAward": [
+      [
+        1,
+        1,
+        17001022
+      ],
+      [
+        2,
+        3,
+        17001023
+      ],
+      [
+        4,
+        999,
+        17001024
+      ]
+    ],
+    "FirstDailyAward": 0,
+    "DailyLimitAward": [],
+    "LimitAward": [
+      10004,
+      10
+    ],
+    "PreparationMessage": 1004400,
+    "BeginMessage": 1004401,
+    "PreparationBGM": "",
+    "ProgressStageBGM": ""
+  },
+  "1003": {
+    "Id": 1003,
+    "ActType": 1,
+    "ActCost": [],
+    "MapId": 11,
+    "BornId": [
+      132,
+      684,
+      685,
+      686,
+      687,
+      711
+    ],
+    "NumMin": 2,
+    "NumMax": 6,
+    "PrepareTime": 60,
+    "DurationTime": 130,
+    "Award": 0,
+    "RankNum": 6,
+    "RankAward": [
+      [
+        1,
+        1,
+        17001022
+      ],
+      [
+        2,
+        3,
+        17001023
+      ],
+      [
+        4,
+        999,
+        17001024
+      ]
+    ],
+    "FirstDailyAward": 0,
+    "DailyLimitAward": [],
+    "LimitAward": [
+      10004,
+      10
+    ],
+    "PreparationMessage": 1004440,
+    "BeginMessage": 1004441,
+    "PreparationBGM": "",
+    "ProgressStageBGM": ""
+  },
+  "1004": {
+    "Id": 1004,
+    "ActType": 1,
+    "ActCost": [],
+    "MapId": 11,
+    "BornId": [
+      130,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701
+    ],
+    "NumMin": 2,
+    "NumMax": 30,
+    "PrepareTime": 60,
+    "DurationTime": 130,
+    "Award": 0,
+    "RankNum": 10,
+    "RankAward": [
+      [
+        1,
+        1,
+        17001022
+      ],
+      [
+        2,
+        3,
+        17001023
+      ],
+      [
+        4,
+        999,
+        17001024
+      ]
+    ],
+    "FirstDailyAward": 0,
+    "DailyLimitAward": [],
+    "LimitAward": [
+      10004,
+      10
+    ],
+    "PreparationMessage": 1004430,
+    "BeginMessage": 1004431,
+    "PreparationBGM": "",
+    "ProgressStageBGM": ""
+  },
+  "1005": {
+    "Id": 1005,
+    "ActType": 1,
+    "ActCost": [],
+    "MapId": 11,
+    "BornId": [
+      190,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750,
+      751,
+      752,
+      753
+    ],
+    "NumMin": 2,
+    "NumMax": 30,
+    "PrepareTime": 60,
+    "DurationTime": 0,
+    "Award": 0,
+    "RankNum": 10,
+    "RankAward": [
+      [
+        1,
+        1,
+        17001022
+      ],
+      [
+        2,
+        3,
+        17001023
+      ],
+      [
+        4,
+        999,
+        17001024
+      ]
+    ],
+    "FirstDailyAward": 0,
+    "DailyLimitAward": [],
+    "LimitAward": [
+      10004,
+      10
+    ],
+    "PreparationMessage": 1004410,
+    "BeginMessage": 1004411,
+    "PreparationBGM": "",
+    "ProgressStageBGM": ""
+  },
+  "1006": {
+    "Id": 1006,
+    "ActType": 1,
+    "ActCost": [],
+    "MapId": 11,
+    "BornId": [
+      136,
+      762,
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769,
+      770
+    ],
+    "NumMin": 2,
+    "NumMax": 30,
+    "PrepareTime": 60,
+    "DurationTime": 0,
+    "Award": 0,
+    "RankNum": 10,
+    "RankAward": [
+      [
+        1,
+        1,
+        17001022
+      ],
+      [
+        2,
+        3,
+        17001023
+      ],
+      [
+        4,
+        999,
+        17001024
+      ]
+    ],
+    "FirstDailyAward": 0,
+    "DailyLimitAward": [],
+    "LimitAward": [
+      10004,
+      10
+    ],
+    "PreparationMessage": 1004420,
+    "BeginMessage": 1004421,
+    "PreparationBGM": "",
+    "ProgressStageBGM": ""
+  },
+  "1007": {
+    "Id": 1007,
+    "ActType": 1,
+    "ActCost": [],
+    "MapId": 11,
+    "BornId": [
+      295
+    ],
+    "NumMin": 1,
+    "NumMax": 1,
+    "PrepareTime": 0,
+    "DurationTime": 70,
+    "Award": 0,
+    "RankNum": 1,
+    "RankAward": [
+      [
+        1,
+        999,
+        17001023
+      ]
+    ],
+    "FirstDailyAward": 0,
+    "DailyLimitAward": [],
+    "LimitAward": [
+      10004,
+      10
+    ],
+    "PreparationMessage": 0,
+    "BeginMessage": 0,
+    "PreparationBGM": "",
+    "ProgressStageBGM": ""
+  }
+}

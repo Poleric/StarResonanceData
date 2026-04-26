@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "enum_leave_mahjong_table_reason.proto";
+
+package zproto;
+
+message LeaveMahjongTableRequest {
+	string tableGuid = 1 [json_name = "tableGuid"];
+	LeaveMahjongTableReason reason = 2 [json_name = "reason"];
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "stru_mahjong_operation.proto";
+import "stru_mahjong_player_show.proto";
+import "stru_mahjong_settle.proto";
+
+package zproto;
+
+message MahjongSyncEndMessage {
+	repeated int32 Doras = 1 [json_name = "Doras"];
+	repeated int32 InDoras = 2 [json_name = "InDoras"];
+	int32 CurrentIndex = 3 [json_name = "CurrentIndex"];
+	int32 CardIndex = 4 [json_name = "CardIndex"];
+	repeated MahjongPlayerShow FinalPlayers = 5 [json_name = "FinalPlayers"];
+	repeated MahjongSettle FinalSettles = 6 [json_name = "FinalSettles"];
+	repeated MahjongOperation Operations = 7 [json_name = "Operations"];
+}

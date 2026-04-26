@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message CreateStructureGroupReply {
-  zproto.EErrorCode err_code = 1;
-  int64 group_id = 2;
-}
+package zproto;
 
+message CreateStructureGroupReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	int64 groupId = 2 [json_name = "groupId"];
+}

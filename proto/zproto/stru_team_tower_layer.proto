@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message TeamTowerLayer {
-  int32 enter_climb_up_id = 1;
-  map<int64, int32> mem_id_max_climb_id = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message TeamTowerLayer {
+	int32 enterClimbUpId = 1 [json_name = "enterClimbUpId"];
+	map<int64, int32> memIdMaxClimbId = 2 [json_name = "memIdMaxClimbId"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

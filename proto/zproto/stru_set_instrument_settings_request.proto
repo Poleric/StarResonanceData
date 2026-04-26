@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message SetInstrumentSettingsRequest {
+	map<int32, int32> instrumentSettings = 1 [json_name = "instrumentSettings"];
+}

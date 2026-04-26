@@ -1,13 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message ProfessionTalentInfo {
-  uint32 used_talent_points = 1;
-  repeated uint32 talent_node_ids = 2;
-  int32 talent_stage_cfg_id = 4;
-  int32 talent_ilegal_reset_count = 5;
-}
+package zproto;
 
+message ProfessionTalentInfo {
+	uint32 usedTalentPoints = 1 [json_name = "usedTalentPoints"];
+	repeated uint32 talentNodeIds = 2 [json_name = "talentNodeIds"];
+	int32 talentStageCfgId = 4 [json_name = "talentStageCfgId"];
+	int32 talentIlegalResetCount = 5 [json_name = "talentIlegalResetCount"];
+	int32 usedAttackMark = 6 [json_name = "usedAttackMark"];
+	int32 usedGuardMark = 7 [json_name = "usedGuardMark"];
+	int32 usedHealMark = 8 [json_name = "usedHealMark"];
+}

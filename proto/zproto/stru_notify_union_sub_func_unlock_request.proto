@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_union_sub_func.proto";
 
-message NotifyUnionSubFuncUnlockRequest {
-  zproto.UnionSubFunc sub_func_type = 1;
-}
+package zproto;
 
+message NotifyUnionSubFuncUnlockRequest {
+	UnionSubFunc subFuncType = 1 [json_name = "subFuncType"];
+}

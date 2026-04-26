@@ -13,7 +13,7 @@
       503222
     ],
     "CurrencyDisplay": [
-      10002
+      10008
     ]
   },
   "102": {
@@ -90,23 +90,6 @@
       10010
     ]
   },
-  "199": {
-    "Id": 199,
-    "Name": "Wish Recycle",
-    "SystemId": 106199,
-    "Npc": "",
-    "ShowType": 0,
-    "CameraTemplateId": [
-      4008
-    ],
-    "QuickJumpType": 1,
-    "QuickJumpParam": [
-      8,
-      2,
-      504020
-    ],
-    "CurrencyDisplay": []
-  },
   "106": {
     "Id": 106,
     "Name": "General Goods Recycling",
@@ -125,5 +108,60 @@
     "CurrencyDisplay": [
       10008
     ]
+  },
+  "107": {
+    "Id": 107,
+    "Name": "Sigil Recycling",
+    "SystemId": 106107,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4028
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      505702
+    ],
+    "CurrencyDisplay": [
+      1070059
+    ]
+  },
+  "108": {
+    "Id": 108,
+    "Name": "Meowlux Special Recycle",
+    "SystemId": 106108,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4028
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1094
+    ],
+    "CurrencyDisplay": [
+      10015
+    ]
+  },
+  "199": {
+    "Id": 199,
+    "Name": "Wish Recycle",
+    "SystemId": 106199,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4008
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      504020
+    ],
+    "CurrencyDisplay": []
   }
 }

@@ -1,0 +1,56 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+import "stru_delete_blue_print_reply.proto";
+import "stru_delete_blue_print_request.proto";
+import "stru_edit_blue_print_name_request.proto";
+import "stru_get_blue_print_data_reply.proto";
+import "stru_get_blue_print_data_request.proto";
+import "stru_set_home_blue_print_reply.proto";
+import "stru_set_home_blue_print_request.proto";
+import "stru_use_blue_print_share_code_reply.proto";
+import "stru_use_blue_print_share_code_request.proto";
+
+package zproto;
+
+message Community {
+	message EditBluePrintName_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message EditBluePrintName {
+		EditBluePrintNameRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message UseBluePrintShareCode_Ret {
+		UseBluePrintShareCodeReply ret = 1 [json_name = "ret"];
+	}
+
+	message UseBluePrintShareCode {
+		UseBluePrintShareCodeRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message SetHomeBluePrint_Ret {
+		SetHomeBluePrintReply ret = 1 [json_name = "ret"];
+	}
+
+	message SetHomeBluePrint {
+		SetHomeBluePrintRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message DeleteBluePrint_Ret {
+		DeleteBluePrintReply ret = 1 [json_name = "ret"];
+	}
+
+	message DeleteBluePrint {
+		DeleteBluePrintRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message GetBluePrintData_Ret {
+		GetBluePrintDataReply ret = 1 [json_name = "ret"];
+	}
+
+	message GetBluePrintData {
+		GetBluePrintDataRequest vRequest = 1 [json_name = "vRequest"];
+	}
+}

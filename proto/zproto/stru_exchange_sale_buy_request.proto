@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ExchangeSaleBuyRequest {
-  int32 rate = 1;
-  int32 num = 2;
-  int32 else_rate = 3;
+	int32 rate = 1 [json_name = "rate"];
+	int32 num = 2 [json_name = "num"];
+	int32 elseRate = 3 [json_name = "elseRate"];
 }
-

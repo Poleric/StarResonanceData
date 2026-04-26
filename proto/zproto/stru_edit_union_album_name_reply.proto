@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message EditUnionAlbumNameReply {
-  string name = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message EditUnionAlbumNameReply {
+	string name = 1 [json_name = "name"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

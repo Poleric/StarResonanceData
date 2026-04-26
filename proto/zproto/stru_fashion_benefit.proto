@@ -1,26 +1,25 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_fashion_benefit_collection_history.proto";
 import "stru_fashion_benefit_task_info.proto";
 import "stru_dirty_mask.proto";
 
-message FashionBenefit {
-  int32 last_reward_id = 1;
-  int32 level = 2;
-  int32 points_task = 3;
-  int32 points_cycle = 4;
-  int32 points_collection = 5;
-  map<int32, zproto.FashionBenefitTaskInfo> task_list = 6;
-  repeated zproto.FashionBenefitCollectionHistory collection_history = 7;
-  int64 next_refresh_time = 8;
-  int32 max_points = 9;
-  int64 last_add_time = 10;
-  int32 cur_day_max_points = 11;
-  int32 expire_cycle = 12;
-  int32 last_level = 13;
-  int64 firt_expire_time = 14;
-  repeated int32 last_reward_ids = 15;
-}
+package zproto;
 
+message FashionBenefit {
+	int32 lastRewardId = 1 [json_name = "lastRewardId"];
+	int32 level = 2 [json_name = "level"];
+	int32 pointsTask = 3 [json_name = "pointsTask"];
+	int32 pointsCycle = 4 [json_name = "pointsCycle"];
+	int32 pointsCollection = 5 [json_name = "pointsCollection"];
+	map<int32, FashionBenefitTaskInfo> taskList = 6 [json_name = "taskList"];
+	repeated FashionBenefitCollectionHistory collectionHistory = 7 [json_name = "collectionHistory"];
+	int64 nextRefreshTime = 8 [json_name = "nextRefreshTime"];
+	int32 maxPoints = 9 [json_name = "maxPoints"];
+	int64 lastAddTime = 10 [json_name = "lastAddTime"];
+	int32 curDayMaxPoints = 11 [json_name = "curDayMaxPoints"];
+	int32 expireCycle = 12 [json_name = "expireCycle"];
+	int32 lastLevel = 13 [json_name = "lastLevel"];
+	int64 firtExpireTime = 14 [json_name = "firtExpireTime"];
+	repeated int32 lastRewardIds = 15 [json_name = "lastRewardIds"];
+}

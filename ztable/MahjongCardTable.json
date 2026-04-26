@@ -1,0 +1,1106 @@
+{
+  "999": {
+    "Id": 999,
+    "Des": "牌背(没有图案)",
+    "Rank": "",
+    "Red": false,
+    "IconName": "com_icon_mjpaibei",
+    "ModelShaderIndex": 888
+  },
+  "998": {
+    "Id": 998,
+    "Des": "牌面(没有图案)",
+    "Rank": "",
+    "Red": false,
+    "IconName": "majiangdi",
+    "ModelShaderIndex": 888
+  },
+  "1": {
+    "Id": 1,
+    "Des": "1万",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjwan_01",
+    "ModelShaderIndex": 18
+  },
+  "2": {
+    "Id": 2,
+    "Des": "1万",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjwan_01",
+    "ModelShaderIndex": 18
+  },
+  "3": {
+    "Id": 3,
+    "Des": "1万",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjwan_01",
+    "ModelShaderIndex": 18
+  },
+  "4": {
+    "Id": 4,
+    "Des": "1万",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjwan_01",
+    "ModelShaderIndex": 18
+  },
+  "5": {
+    "Id": 5,
+    "Des": "2万",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjwan_02",
+    "ModelShaderIndex": 19
+  },
+  "6": {
+    "Id": 6,
+    "Des": "2万",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjwan_02",
+    "ModelShaderIndex": 19
+  },
+  "7": {
+    "Id": 7,
+    "Des": "2万",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjwan_02",
+    "ModelShaderIndex": 19
+  },
+  "8": {
+    "Id": 8,
+    "Des": "2万",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjwan_02",
+    "ModelShaderIndex": 19
+  },
+  "9": {
+    "Id": 9,
+    "Des": "3万",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjwan_03",
+    "ModelShaderIndex": 20
+  },
+  "10": {
+    "Id": 10,
+    "Des": "3万",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjwan_03",
+    "ModelShaderIndex": 20
+  },
+  "11": {
+    "Id": 11,
+    "Des": "3万",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjwan_03",
+    "ModelShaderIndex": 20
+  },
+  "12": {
+    "Id": 12,
+    "Des": "3万",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjwan_03",
+    "ModelShaderIndex": 20
+  },
+  "13": {
+    "Id": 13,
+    "Des": "4万",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjwan_04",
+    "ModelShaderIndex": 21
+  },
+  "14": {
+    "Id": 14,
+    "Des": "4万",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjwan_04",
+    "ModelShaderIndex": 21
+  },
+  "15": {
+    "Id": 15,
+    "Des": "4万",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjwan_04",
+    "ModelShaderIndex": 21
+  },
+  "16": {
+    "Id": 16,
+    "Des": "4万",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjwan_04",
+    "ModelShaderIndex": 21
+  },
+  "17": {
+    "Id": 17,
+    "Des": "5万",
+    "Rank": "MahjongCard5",
+    "Red": false,
+    "IconName": "com_icon_mjwan_05",
+    "ModelShaderIndex": 22
+  },
+  "18": {
+    "Id": 18,
+    "Des": "5万",
+    "Rank": "MahjongCard5",
+    "Red": false,
+    "IconName": "com_icon_mjwan_05",
+    "ModelShaderIndex": 22
+  },
+  "19": {
+    "Id": 19,
+    "Des": "5万",
+    "Rank": "MahjongCard5",
+    "Red": false,
+    "IconName": "com_icon_mjwan_05",
+    "ModelShaderIndex": 22
+  },
+  "20": {
+    "Id": 20,
+    "Des": "5万",
+    "Rank": "MahjongCard5",
+    "Red": true,
+    "IconName": "com_icon_mjchiwan",
+    "ModelShaderIndex": 22
+  },
+  "21": {
+    "Id": 21,
+    "Des": "6万",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjwan_06",
+    "ModelShaderIndex": 23
+  },
+  "22": {
+    "Id": 22,
+    "Des": "6万",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjwan_06",
+    "ModelShaderIndex": 23
+  },
+  "23": {
+    "Id": 23,
+    "Des": "6万",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjwan_06",
+    "ModelShaderIndex": 23
+  },
+  "24": {
+    "Id": 24,
+    "Des": "6万",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjwan_06",
+    "ModelShaderIndex": 23
+  },
+  "25": {
+    "Id": 25,
+    "Des": "7万",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjwan_07",
+    "ModelShaderIndex": 24
+  },
+  "26": {
+    "Id": 26,
+    "Des": "7万",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjwan_07",
+    "ModelShaderIndex": 24
+  },
+  "27": {
+    "Id": 27,
+    "Des": "7万",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjwan_07",
+    "ModelShaderIndex": 24
+  },
+  "28": {
+    "Id": 28,
+    "Des": "7万",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjwan_07",
+    "ModelShaderIndex": 24
+  },
+  "29": {
+    "Id": 29,
+    "Des": "8万",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjwan_08",
+    "ModelShaderIndex": 25
+  },
+  "30": {
+    "Id": 30,
+    "Des": "8万",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjwan_08",
+    "ModelShaderIndex": 25
+  },
+  "31": {
+    "Id": 31,
+    "Des": "8万",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjwan_08",
+    "ModelShaderIndex": 25
+  },
+  "32": {
+    "Id": 32,
+    "Des": "8万",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjwan_08",
+    "ModelShaderIndex": 25
+  },
+  "33": {
+    "Id": 33,
+    "Des": "9万",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjwan_09",
+    "ModelShaderIndex": 26
+  },
+  "34": {
+    "Id": 34,
+    "Des": "9万",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjwan_09",
+    "ModelShaderIndex": 26
+  },
+  "35": {
+    "Id": 35,
+    "Des": "9万",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjwan_09",
+    "ModelShaderIndex": 26
+  },
+  "36": {
+    "Id": 36,
+    "Des": "9万",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjwan_09",
+    "ModelShaderIndex": 26
+  },
+  "37": {
+    "Id": 37,
+    "Des": "1筒",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjtong_01",
+    "ModelShaderIndex": 36
+  },
+  "38": {
+    "Id": 38,
+    "Des": "1筒",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjtong_01",
+    "ModelShaderIndex": 36
+  },
+  "39": {
+    "Id": 39,
+    "Des": "1筒",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjtong_01",
+    "ModelShaderIndex": 36
+  },
+  "40": {
+    "Id": 40,
+    "Des": "1筒",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjtong_01",
+    "ModelShaderIndex": 36
+  },
+  "41": {
+    "Id": 41,
+    "Des": "2筒",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjtong_02",
+    "ModelShaderIndex": 37
+  },
+  "42": {
+    "Id": 42,
+    "Des": "2筒",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjtong_02",
+    "ModelShaderIndex": 37
+  },
+  "43": {
+    "Id": 43,
+    "Des": "2筒",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjtong_02",
+    "ModelShaderIndex": 37
+  },
+  "44": {
+    "Id": 44,
+    "Des": "2筒",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjtong_02",
+    "ModelShaderIndex": 37
+  },
+  "45": {
+    "Id": 45,
+    "Des": "3筒",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjtong_03",
+    "ModelShaderIndex": 38
+  },
+  "46": {
+    "Id": 46,
+    "Des": "3筒",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjtong_03",
+    "ModelShaderIndex": 38
+  },
+  "47": {
+    "Id": 47,
+    "Des": "3筒",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjtong_03",
+    "ModelShaderIndex": 38
+  },
+  "48": {
+    "Id": 48,
+    "Des": "3筒",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjtong_03",
+    "ModelShaderIndex": 38
+  },
+  "49": {
+    "Id": 49,
+    "Des": "4筒",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjtong_04",
+    "ModelShaderIndex": 39
+  },
+  "50": {
+    "Id": 50,
+    "Des": "4筒",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjtong_04",
+    "ModelShaderIndex": 39
+  },
+  "51": {
+    "Id": 51,
+    "Des": "4筒",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjtong_04",
+    "ModelShaderIndex": 39
+  },
+  "52": {
+    "Id": 52,
+    "Des": "4筒",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjtong_04",
+    "ModelShaderIndex": 39
+  },
+  "53": {
+    "Id": 53,
+    "Des": "5筒",
+    "Rank": "MahjongCard5",
+    "Red": false,
+    "IconName": "com_icon_mjtong_05",
+    "ModelShaderIndex": 40
+  },
+  "54": {
+    "Id": 54,
+    "Des": "5筒",
+    "Rank": "MahjongCard5",
+    "Red": false,
+    "IconName": "com_icon_mjtong_05",
+    "ModelShaderIndex": 40
+  },
+  "55": {
+    "Id": 55,
+    "Des": "5筒",
+    "Rank": "MahjongCard5",
+    "Red": false,
+    "IconName": "com_icon_mjtong_05",
+    "ModelShaderIndex": 40
+  },
+  "56": {
+    "Id": 56,
+    "Des": "5筒",
+    "Rank": "MahjongCard5",
+    "Red": true,
+    "IconName": "com_icon_mjchitong",
+    "ModelShaderIndex": 40
+  },
+  "57": {
+    "Id": 57,
+    "Des": "6筒",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjtong_06",
+    "ModelShaderIndex": 41
+  },
+  "58": {
+    "Id": 58,
+    "Des": "6筒",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjtong_06",
+    "ModelShaderIndex": 41
+  },
+  "59": {
+    "Id": 59,
+    "Des": "6筒",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjtong_06",
+    "ModelShaderIndex": 41
+  },
+  "60": {
+    "Id": 60,
+    "Des": "6筒",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjtong_06",
+    "ModelShaderIndex": 41
+  },
+  "61": {
+    "Id": 61,
+    "Des": "7筒",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjtong_07",
+    "ModelShaderIndex": 42
+  },
+  "62": {
+    "Id": 62,
+    "Des": "7筒",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjtong_07",
+    "ModelShaderIndex": 42
+  },
+  "63": {
+    "Id": 63,
+    "Des": "7筒",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjtong_07",
+    "ModelShaderIndex": 42
+  },
+  "64": {
+    "Id": 64,
+    "Des": "7筒",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjtong_07",
+    "ModelShaderIndex": 42
+  },
+  "65": {
+    "Id": 65,
+    "Des": "8筒",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjtong_08",
+    "ModelShaderIndex": 43
+  },
+  "66": {
+    "Id": 66,
+    "Des": "8筒",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjtong_08",
+    "ModelShaderIndex": 43
+  },
+  "67": {
+    "Id": 67,
+    "Des": "8筒",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjtong_08",
+    "ModelShaderIndex": 43
+  },
+  "68": {
+    "Id": 68,
+    "Des": "8筒",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjtong_08",
+    "ModelShaderIndex": 43
+  },
+  "69": {
+    "Id": 69,
+    "Des": "9筒",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjtong_09",
+    "ModelShaderIndex": 44
+  },
+  "70": {
+    "Id": 70,
+    "Des": "9筒",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjtong_09",
+    "ModelShaderIndex": 44
+  },
+  "71": {
+    "Id": 71,
+    "Des": "9筒",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjtong_09",
+    "ModelShaderIndex": 44
+  },
+  "72": {
+    "Id": 72,
+    "Des": "9筒",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjtong_09",
+    "ModelShaderIndex": 44
+  },
+  "73": {
+    "Id": 73,
+    "Des": "1条",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_01",
+    "ModelShaderIndex": 0
+  },
+  "74": {
+    "Id": 74,
+    "Des": "1条",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_01",
+    "ModelShaderIndex": 0
+  },
+  "75": {
+    "Id": 75,
+    "Des": "1条",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_01",
+    "ModelShaderIndex": 0
+  },
+  "76": {
+    "Id": 76,
+    "Des": "1条",
+    "Rank": "MahjongCard1",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_01",
+    "ModelShaderIndex": 0
+  },
+  "77": {
+    "Id": 77,
+    "Des": "2条",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_02",
+    "ModelShaderIndex": 1
+  },
+  "78": {
+    "Id": 78,
+    "Des": "2条",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_02",
+    "ModelShaderIndex": 1
+  },
+  "79": {
+    "Id": 79,
+    "Des": "2条",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_02",
+    "ModelShaderIndex": 1
+  },
+  "80": {
+    "Id": 80,
+    "Des": "2条",
+    "Rank": "MahjongCard2",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_02",
+    "ModelShaderIndex": 1
+  },
+  "81": {
+    "Id": 81,
+    "Des": "3条",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_03",
+    "ModelShaderIndex": 2
+  },
+  "82": {
+    "Id": 82,
+    "Des": "3条",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_03",
+    "ModelShaderIndex": 2
+  },
+  "83": {
+    "Id": 83,
+    "Des": "3条",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_03",
+    "ModelShaderIndex": 2
+  },
+  "84": {
+    "Id": 84,
+    "Des": "3条",
+    "Rank": "MahjongCard3",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_03",
+    "ModelShaderIndex": 2
+  },
+  "85": {
+    "Id": 85,
+    "Des": "4条",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_04",
+    "ModelShaderIndex": 3
+  },
+  "86": {
+    "Id": 86,
+    "Des": "4条",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_04",
+    "ModelShaderIndex": 3
+  },
+  "87": {
+    "Id": 87,
+    "Des": "4条",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_04",
+    "ModelShaderIndex": 3
+  },
+  "88": {
+    "Id": 88,
+    "Des": "4条",
+    "Rank": "MahjongCard4",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_04",
+    "ModelShaderIndex": 3
+  },
+  "89": {
+    "Id": 89,
+    "Des": "5条",
+    "Rank": "MahjongCard5",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_05",
+    "ModelShaderIndex": 4
+  },
+  "90": {
+    "Id": 90,
+    "Des": "5条",
+    "Rank": "MahjongCard5",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_05",
+    "ModelShaderIndex": 4
+  },
+  "91": {
+    "Id": 91,
+    "Des": "5条",
+    "Rank": "MahjongCard5",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_05",
+    "ModelShaderIndex": 4
+  },
+  "92": {
+    "Id": 92,
+    "Des": "5条",
+    "Rank": "MahjongCard5",
+    "Red": true,
+    "IconName": "com_icon_mjchitiao",
+    "ModelShaderIndex": 4
+  },
+  "93": {
+    "Id": 93,
+    "Des": "6条",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_06",
+    "ModelShaderIndex": 5
+  },
+  "94": {
+    "Id": 94,
+    "Des": "6条",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_06",
+    "ModelShaderIndex": 5
+  },
+  "95": {
+    "Id": 95,
+    "Des": "6条",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_06",
+    "ModelShaderIndex": 5
+  },
+  "96": {
+    "Id": 96,
+    "Des": "6条",
+    "Rank": "MahjongCard6",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_06",
+    "ModelShaderIndex": 5
+  },
+  "97": {
+    "Id": 97,
+    "Des": "7条",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_07",
+    "ModelShaderIndex": 6
+  },
+  "98": {
+    "Id": 98,
+    "Des": "7条",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_07",
+    "ModelShaderIndex": 6
+  },
+  "99": {
+    "Id": 99,
+    "Des": "7条",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_07",
+    "ModelShaderIndex": 6
+  },
+  "100": {
+    "Id": 100,
+    "Des": "7条",
+    "Rank": "MahjongCard7",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_07",
+    "ModelShaderIndex": 6
+  },
+  "101": {
+    "Id": 101,
+    "Des": "8条",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_08",
+    "ModelShaderIndex": 7
+  },
+  "102": {
+    "Id": 102,
+    "Des": "8条",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_08",
+    "ModelShaderIndex": 7
+  },
+  "103": {
+    "Id": 103,
+    "Des": "8条",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_08",
+    "ModelShaderIndex": 7
+  },
+  "104": {
+    "Id": 104,
+    "Des": "8条",
+    "Rank": "MahjongCard8",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_08",
+    "ModelShaderIndex": 7
+  },
+  "105": {
+    "Id": 105,
+    "Des": "9条",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_09",
+    "ModelShaderIndex": 8
+  },
+  "106": {
+    "Id": 106,
+    "Des": "9条",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_09",
+    "ModelShaderIndex": 8
+  },
+  "107": {
+    "Id": 107,
+    "Des": "9条",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_09",
+    "ModelShaderIndex": 8
+  },
+  "108": {
+    "Id": 108,
+    "Des": "9条",
+    "Rank": "MahjongCard9",
+    "Red": false,
+    "IconName": "com_icon_mjtiao_09",
+    "ModelShaderIndex": 8
+  },
+  "109": {
+    "Id": 109,
+    "Des": "东",
+    "Rank": "MahjongCardE",
+    "Red": false,
+    "IconName": "com_icon_mjdong",
+    "ModelShaderIndex": 54
+  },
+  "110": {
+    "Id": 110,
+    "Des": "东",
+    "Rank": "MahjongCardE",
+    "Red": false,
+    "IconName": "com_icon_mjdong",
+    "ModelShaderIndex": 54
+  },
+  "111": {
+    "Id": 111,
+    "Des": "东",
+    "Rank": "MahjongCardE",
+    "Red": false,
+    "IconName": "com_icon_mjdong",
+    "ModelShaderIndex": 54
+  },
+  "112": {
+    "Id": 112,
+    "Des": "东",
+    "Rank": "MahjongCardE",
+    "Red": false,
+    "IconName": "com_icon_mjdong",
+    "ModelShaderIndex": 54
+  },
+  "113": {
+    "Id": 113,
+    "Des": "南",
+    "Rank": "MahjongCardS",
+    "Red": false,
+    "IconName": "com_icon_mjnan",
+    "ModelShaderIndex": 55
+  },
+  "114": {
+    "Id": 114,
+    "Des": "南",
+    "Rank": "MahjongCardS",
+    "Red": false,
+    "IconName": "com_icon_mjnan",
+    "ModelShaderIndex": 55
+  },
+  "115": {
+    "Id": 115,
+    "Des": "南",
+    "Rank": "MahjongCardS",
+    "Red": false,
+    "IconName": "com_icon_mjnan",
+    "ModelShaderIndex": 55
+  },
+  "116": {
+    "Id": 116,
+    "Des": "南",
+    "Rank": "MahjongCardS",
+    "Red": false,
+    "IconName": "com_icon_mjnan",
+    "ModelShaderIndex": 55
+  },
+  "117": {
+    "Id": 117,
+    "Des": "西",
+    "Rank": "MahjongCardW",
+    "Red": false,
+    "IconName": "com_icon_mjxi",
+    "ModelShaderIndex": 56
+  },
+  "118": {
+    "Id": 118,
+    "Des": "西",
+    "Rank": "MahjongCardW",
+    "Red": false,
+    "IconName": "com_icon_mjxi",
+    "ModelShaderIndex": 56
+  },
+  "119": {
+    "Id": 119,
+    "Des": "西",
+    "Rank": "MahjongCardW",
+    "Red": false,
+    "IconName": "com_icon_mjxi",
+    "ModelShaderIndex": 56
+  },
+  "120": {
+    "Id": 120,
+    "Des": "西",
+    "Rank": "MahjongCardW",
+    "Red": false,
+    "IconName": "com_icon_mjxi",
+    "ModelShaderIndex": 56
+  },
+  "121": {
+    "Id": 121,
+    "Des": "北",
+    "Rank": "MahjongCardN",
+    "Red": false,
+    "IconName": "com_icon_mjbei",
+    "ModelShaderIndex": 57
+  },
+  "122": {
+    "Id": 122,
+    "Des": "北",
+    "Rank": "MahjongCardN",
+    "Red": false,
+    "IconName": "com_icon_mjbei",
+    "ModelShaderIndex": 57
+  },
+  "123": {
+    "Id": 123,
+    "Des": "北",
+    "Rank": "MahjongCardN",
+    "Red": false,
+    "IconName": "com_icon_mjbei",
+    "ModelShaderIndex": 57
+  },
+  "124": {
+    "Id": 124,
+    "Des": "北",
+    "Rank": "MahjongCardN",
+    "Red": false,
+    "IconName": "com_icon_mjbei",
+    "ModelShaderIndex": 57
+  },
+  "125": {
+    "Id": 125,
+    "Des": "白",
+    "Rank": "MahjongCardWh",
+    "Red": false,
+    "IconName": "com_icon_mjbai",
+    "ModelShaderIndex": 58
+  },
+  "126": {
+    "Id": 126,
+    "Des": "白",
+    "Rank": "MahjongCardWh",
+    "Red": false,
+    "IconName": "com_icon_mjbai",
+    "ModelShaderIndex": 58
+  },
+  "127": {
+    "Id": 127,
+    "Des": "白",
+    "Rank": "MahjongCardWh",
+    "Red": false,
+    "IconName": "com_icon_mjbai",
+    "ModelShaderIndex": 58
+  },
+  "128": {
+    "Id": 128,
+    "Des": "白",
+    "Rank": "MahjongCardWh",
+    "Red": false,
+    "IconName": "com_icon_mjbai",
+    "ModelShaderIndex": 58
+  },
+  "129": {
+    "Id": 129,
+    "Des": "发",
+    "Rank": "MahjongCardG",
+    "Red": false,
+    "IconName": "com_icon_mjfa",
+    "ModelShaderIndex": 59
+  },
+  "130": {
+    "Id": 130,
+    "Des": "发",
+    "Rank": "MahjongCardG",
+    "Red": false,
+    "IconName": "com_icon_mjfa",
+    "ModelShaderIndex": 59
+  },
+  "131": {
+    "Id": 131,
+    "Des": "发",
+    "Rank": "MahjongCardG",
+    "Red": false,
+    "IconName": "com_icon_mjfa",
+    "ModelShaderIndex": 59
+  },
+  "132": {
+    "Id": 132,
+    "Des": "发",
+    "Rank": "MahjongCardG",
+    "Red": false,
+    "IconName": "com_icon_mjfa",
+    "ModelShaderIndex": 59
+  },
+  "133": {
+    "Id": 133,
+    "Des": "中",
+    "Rank": "MahjongCardR",
+    "Red": false,
+    "IconName": "com_icon_mjzhong",
+    "ModelShaderIndex": 60
+  },
+  "134": {
+    "Id": 134,
+    "Des": "中",
+    "Rank": "MahjongCardR",
+    "Red": false,
+    "IconName": "com_icon_mjzhong",
+    "ModelShaderIndex": 60
+  },
+  "135": {
+    "Id": 135,
+    "Des": "中",
+    "Rank": "MahjongCardR",
+    "Red": false,
+    "IconName": "com_icon_mjzhong",
+    "ModelShaderIndex": 60
+  },
+  "136": {
+    "Id": 136,
+    "Des": "中",
+    "Rank": "MahjongCardR",
+    "Red": false,
+    "IconName": "com_icon_mjzhong",
+    "ModelShaderIndex": 60
+  }
+}

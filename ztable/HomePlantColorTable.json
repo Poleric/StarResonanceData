@@ -1,0 +1,238 @@
+{
+  "1": {
+    "ColorGroup": 1,
+    "PlantType": [],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Crimson",
+    "Color": [
+      221,
+      37,
+      39
+    ]
+  },
+  "2": {
+    "ColorGroup": 2,
+    "PlantType": [
+      2,
+      5,
+      12
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Bright Yellow",
+    "Color": [
+      255,
+      199,
+      47
+    ]
+  },
+  "3": {
+    "ColorGroup": 3,
+    "PlantType": [
+      3,
+      6,
+      13
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Mandarin",
+    "Color": [
+      255,
+      154,
+      52
+    ]
+  },
+  "4": {
+    "ColorGroup": 4,
+    "PlantType": [
+      4,
+      2,
+      4
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Peachy",
+    "Color": [
+      255,
+      65,
+      101
+    ]
+  },
+  "5": {
+    "ColorGroup": 5,
+    "PlantType": [
+      5,
+      3,
+      1
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Tangerine",
+    "Color": [
+      255,
+      134,
+      108
+    ]
+  },
+  "6": {
+    "ColorGroup": 6,
+    "PlantType": [
+      6,
+      6,
+      6
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Pale Gold",
+    "Color": [
+      255,
+      233,
+      170
+    ]
+  },
+  "7": {
+    "ColorGroup": 7,
+    "PlantType": [
+      7,
+      13,
+      15
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Brown",
+    "Color": [
+      164,
+      118,
+      92
+    ]
+  },
+  "8": {
+    "ColorGroup": 8,
+    "PlantType": [
+      8,
+      7,
+      5
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Chestnut",
+    "Color": [
+      219,
+      77,
+      51
+    ]
+  },
+  "9": {
+    "ColorGroup": 9,
+    "PlantType": [
+      9,
+      12,
+      14
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Bright Orange",
+    "Color": [
+      255,
+      114,
+      47
+    ]
+  },
+  "10": {
+    "ColorGroup": 10,
+    "PlantType": [
+      10,
+      8,
+      7
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Wisteria",
+    "Color": [
+      106,
+      76,
+      156
+    ]
+  },
+  "11": {
+    "ColorGroup": 11,
+    "PlantType": [
+      11,
+      9,
+      8
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Pine Green",
+    "Color": [
+      71,
+      109,
+      46
+    ]
+  },
+  "12": {
+    "ColorGroup": 12,
+    "PlantType": [
+      12,
+      10,
+      10
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Kikyo Purple",
+    "Color": [
+      172,
+      138,
+      255
+    ]
+  },
+  "13": {
+    "ColorGroup": 13,
+    "PlantType": [
+      13,
+      11,
+      11
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Fresh Green",
+    "Color": [
+      196,
+      197,
+      111
+    ]
+  },
+  "14": {
+    "ColorGroup": 14,
+    "PlantType": [
+      14,
+      14,
+      6
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Navy Blue",
+    "Color": [
+      59,
+      82,
+      212
+    ]
+  },
+  "15": {
+    "ColorGroup": 15,
+    "PlantType": [
+      15,
+      15,
+      9
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Mist Blue",
+    "Color": [
+      102,
+      157,
+      255
+    ]
+  },
+  "16": {
+    "ColorGroup": 16,
+    "PlantType": [
+      16,
+      16,
+      16
+    ],
+    "PlantIcon": "ui/atlas/house/house_play_icon",
+    "ColorName": "Silver Gray",
+    "Color": [
+      84,
+      92,
+      118
+    ]
+  }
+}

@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_community_apply_info.proto";
 import "enum_e_error_code.proto";
 
-message CommunityPersonDataReply {
-  repeated zproto.CommunityApplyInfo items = 1;
-  int64 last_exit_cohabitation_time = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message CommunityPersonDataReply {
+	repeated CommunityApplyInfo items = 1 [json_name = "items"];
+	int64 LastExitCohabitationTime = 2 [json_name = "LastExitCohabitationTime"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

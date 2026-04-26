@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+message ProfessionProjectCommonSyncData {
+	int32 professionId = 1 [json_name = "professionId"];
+	string projectName = 2 [json_name = "projectName"];
+	map<int32, int64> equipInfoMap = 3 [json_name = "equipInfoMap"];
+	map<int32, int64> modInfoMap = 4 [json_name = "modInfoMap"];
+	int32 currentTalentStageCfgId = 5 [json_name = "currentTalentStageCfgId"];
+}

@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message ExchangeListRequest {
-  int32 type = 2;
-  int32 sub_type = 3;
+	int32 type = 2 [json_name = "type"];
+	int32 subType = 3 [json_name = "subType"];
 }
-

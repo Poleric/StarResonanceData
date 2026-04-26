@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message TeamLeaderCallReply {
-  repeated int64 call_mem = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message TeamLeaderCallReply {
+	repeated int64 callMem = 1 [json_name = "callMem"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

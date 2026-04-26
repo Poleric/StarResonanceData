@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_mahjong_player_show.proto";
+
+package zproto;
+
+message MahjongPlayerSelf {
+	MahjongPlayerShow playerShow = 1 [json_name = "playerShow"];
+	int32 CanDo = 2 [json_name = "CanDo"];
+	int64 OperationTime = 3 [json_name = "OperationTime"];
+	int32 LeftThinkingTime = 4 [json_name = "LeftThinkingTime"];
+}

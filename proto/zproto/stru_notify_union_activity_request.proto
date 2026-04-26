@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message NotifyUnionActivityRequest {
-  int32 activity_id = 2;
-  int32 notify_type = 3;
+	int32 activityId = 2 [json_name = "activityId"];
+	int32 notifyType = 3 [json_name = "notifyType"];
 }
-

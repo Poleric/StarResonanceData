@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message SetUnionAutoPassReply {
-  bool auto_pass = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message SetUnionAutoPassReply {
+	bool autoPass = 1 [json_name = "autoPass"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

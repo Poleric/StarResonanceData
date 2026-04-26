@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message CultivateMiddleNodeData {
+	int32 itemId = 1 [json_name = "itemId"];
+}

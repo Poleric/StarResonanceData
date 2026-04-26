@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_application_info.proto";
 import "stru_social_info.proto";
 
-message FriendBaseInfo {
-  map<int64, zproto.SocialInfo> friend_list = 1;
-  map<int32, string> group_id_list = 3;
-  repeated zproto.ApplicationInfo application_list = 4;
-  repeated int32 group_sort = 5;
-}
+package zproto;
 
+message FriendBaseInfo {
+	map<int64, SocialInfo> friendList = 1 [json_name = "friendList"];
+	map<int32, string> groupIdList = 3 [json_name = "groupIdList"];
+	repeated ApplicationInfo applicationList = 4 [json_name = "applicationList"];
+	repeated int32 groupSort = 5 [json_name = "groupSort"];
+}

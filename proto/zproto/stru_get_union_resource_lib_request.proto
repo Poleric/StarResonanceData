@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message GetUnionResourceLibRequest {
-  int64 union_id = 2;
+	int64 unionId = 2 [json_name = "unionId"];
 }
-

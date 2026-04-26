@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message PivotInfo {
-  int32 id = 1;
-  repeated int32 break_point = 2;
-  repeated int32 reward_stage = 3;
-  int32 reward_full_state = 4;
-}
+package zproto;
 
+message PivotInfo {
+	int32 id = 1 [json_name = "id"];
+	repeated int32 breakPoint = 2 [json_name = "breakPoint"];
+	repeated int32 rewardStage = 3 [json_name = "rewardStage"];
+	int32 rewardFullState = 4 [json_name = "rewardFullState"];
+}

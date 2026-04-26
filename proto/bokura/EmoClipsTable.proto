@@ -3,13 +3,12 @@ syntax = "proto3";
 package bokura;
 
 message EmoClipsTableBase {
-  int32 id = 1463;
-  string soure_key = 1443;
-  int32 layer = 1035;
-  string address = 989;
+	int32 Id = 1463 [json_name = "Id"];
+	string SoureKey = 1443 [json_name = "SoureKey"];
+	int32 layer = 1035 [json_name = "layer"];
+	string Address = 989 [json_name = "Address"];
 }
 
 message EmoClipsTableMgr {
-  map<int32, bokura.EmoClipsTableBase> datas = 1;
+	map<int32, EmoClipsTableBase> datas = 1 [json_name = "datas"];
 }
-

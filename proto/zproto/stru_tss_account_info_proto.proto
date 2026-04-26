@@ -3,17 +3,16 @@ syntax = "proto3";
 package zproto;
 
 message TssAccountInfoProto {
-  string account = 1;
-  uint32 account_type = 2;
-  uint32 plat_id = 3;
-  uint32 game_id = 4;
-  uint32 world_id = 5;
-  uint32 channel_id = 6;
-  int64 role_id = 7;
-  bytes anti_data = 8;
-  string account_id = 9;
-  string client_ip = 10;
-  string role_name = 11;
-  uint32 index = 12;
+	string account = 1 [json_name = "account"];
+	uint32 accountType = 2 [json_name = "accountType"];
+	uint32 platId = 3 [json_name = "platId"];
+	uint32 gameId = 4 [json_name = "gameId"];
+	uint32 worldId = 5 [json_name = "worldId"];
+	uint32 channelId = 6 [json_name = "channelId"];
+	int64 roleId = 7 [json_name = "roleId"];
+	bytes antiData = 8 [json_name = "antiData"];
+	string accountId = 9 [json_name = "accountId"];
+	string clientIp = 10 [json_name = "clientIp"];
+	string roleName = 11 [json_name = "roleName"];
+	uint32 index = 12 [json_name = "index"];
 }
-

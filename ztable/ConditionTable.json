@@ -39,10 +39,10 @@
     "Type": 5,
     "Param": "是否持有某道具n个",
     "ImplStatus": 2,
-    "Example": "5=1001=2",
-    "RefreshNum": "玩家需要持有2个1001道具才能满足条件",
+    "Example": "5=1001=2，5=1001=1=1",
+    "RefreshNum": "玩家需要持有2个1001道具才能满足条件，玩家持有小于1个1001道具才能满足条件",
     "FailureMessage": 0,
-    "ShowPurview": "Item not owned"
+    "ShowPurview": "Reqires {*val*}"
   },
   "6": {
     "Type": 6,
@@ -183,17 +183,17 @@
     "Type": 26,
     "Param": "赛季开始时间后区间内",
     "ImplStatus": 2,
-    "Example": "26=1=1d10h10m5s=10d10h10m5s",
-    "RefreshNum": "26为类型，1为赛季表赛季ID，后面为时间配置。1开始时间是1月1号0点，表示：2号10:10:05-10号10:10:05（十点十分5秒）",
+    "Example": "26=1=24=0=0=48=0=0",
+    "RefreshNum": "26为赛季指定时间段类型，1为赛季表赛季ID，后面为时间配置24小时0分0秒。1赛季开始时间是1月1号0点，表示：2号00:00:00-3号00:00:00（第一赛季的第二天到第三天）",
     "FailureMessage": 0,
     "ShowPurview": "等级"
   },
   "27": {
     "Type": 27,
-    "Param": "赛季开启时间+偏移时间",
+    "Param": "赛季开启时间持续到赛季结束",
     "ImplStatus": 2,
-    "Example": "27=1=1d10h10m5s",
-    "RefreshNum": "27为类型，1为赛季表赛季ID，后面为时间配置。1开始时间是1月1号0点，表示：2号10:20:30（十点二十分三十秒）",
+    "Example": "27=1=1=2=3",
+    "RefreshNum": "27为赛季指定时间到赛季结束，1为赛季表赛季ID，后面为时间配置1小时2分3秒。1开始时间是1月1号0点，表示：1号01:02:03（1号的一点两分三秒开始持续到赛季结束）",
     "FailureMessage": 0,
     "ShowPurview": "等级"
   },
@@ -321,7 +321,7 @@
     "Example": "45=2",
     "RefreshNum": "开服满N天，第一天开服算0，到第二天算1……比如开服地7天，要配成45=6",
     "FailureMessage": 0,
-    "ShowPurview": "Server open for {*val*} days"
+    "ShowPurview": "Server Day {*val*}"
   },
   "46": {
     "Type": 46,
@@ -719,12 +719,21 @@
     "FailureMessage": 1500016,
     "ShowPurview": "等级"
   },
+  "93": {
+    "Type": 93,
+    "Param": "指定赛季等级",
+    "ImplStatus": 2,
+    "Example": "93=10",
+    "RefreshNum": "大于等于该赛季等级：93=赛季ID=等级",
+    "FailureMessage": 124043,
+    "ShowPurview": "{*val1*} level reaches {*val2*} to unlock"
+  },
   "100": {
     "Type": 100,
     "Param": "是否有家园权限",
     "ImplStatus": 1,
     "Example": "100=1",
-    "RefreshNum": "100=家园权限表id",
+    "RefreshNum": "100=家园权限action",
     "FailureMessage": 0,
     "ShowPurview": "等级"
   },
@@ -764,6 +773,15 @@
     "FailureMessage": 0,
     "ShowPurview": "等级"
   },
+  "105": {
+    "Type": 105,
+    "Param": "校验是否当前赛季",
+    "ImplStatus": 3,
+    "Example": "105=2",
+    "RefreshNum": "校验是否当前赛季，2为第二赛季，读取赛季表",
+    "FailureMessage": 1500017,
+    "ShowPurview": "等级"
+  },
   "106": {
     "Type": 106,
     "Param": "爬塔最高层数是否小于当前给定层数",
@@ -772,5 +790,194 @@
     "RefreshNum": "玩家当前爬塔最大层数是否大于等于5层，大于等于则返回正确",
     "FailureMessage": 0,
     "ShowPurview": "等级"
+  },
+  "107": {
+    "Type": 107,
+    "Param": "地区的声望等级",
+    "ImplStatus": 2,
+    "Example": "7=5",
+    "RefreshNum": "场景7的声望等级是否大于等于5级，大于等于则返回正确",
+    "FailureMessage": 1500019,
+    "ShowPurview": "Reputation of {*val1*} reaches {*val2*} to unlock"
+  },
+  "108": {
+    "Type": 108,
+    "Param": "是否在指定ID视野层级",
+    "ImplStatus": 1,
+    "Example": "108=1=1",
+    "RefreshNum": "108=视野层级ID=0（在视野层级）/1（取反）",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "109": {
+    "Type": 109,
+    "Param": "完成指定成就解锁",
+    "ImplStatus": 0,
+    "Example": "109=100010103",
+    "RefreshNum": "完成指定成就解锁，后面参数为AchievementDateTable表的ID",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "110": {
+    "Type": 110,
+    "Param": "判断开启时间",
+    "ImplStatus": 2,
+    "Example": "110=24",
+    "RefreshNum": "（只判断开启时间，无视结束时间）当前时间到达24这个timerid的开始时间",
+    "FailureMessage": 1500021,
+    "ShowPurview": "等级"
+  },
+  "111": {
+    "Type": 111,
+    "Param": "是否有采集花粉次数",
+    "ImplStatus": 0,
+    "Example": "110",
+    "RefreshNum": "无需参数",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "112": {
+    "Type": 112,
+    "Param": "大师模式是否开启",
+    "ImplStatus": 1,
+    "Example": "112=1",
+    "RefreshNum": "1已开启，0未开启",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "113": {
+    "Type": 113,
+    "Param": "是否在巡游队伍中",
+    "ImplStatus": 1,
+    "Example": "113=1",
+    "RefreshNum": "0不在巡游，1在巡游队伍中",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "114": {
+    "Type": 114,
+    "Param": "跳层层数大于等于某层",
+    "ImplStatus": 2,
+    "Example": "114=0",
+    "RefreshNum": "当前跳层>0",
+    "FailureMessage": 1005903,
+    "ShowPurview": "等级"
+  },
+  "115": {
+    "Type": 115,
+    "Param": "爬塔跳层奖励是否领取完了",
+    "ImplStatus": 2,
+    "Example": "115=0",
+    "RefreshNum": "0未领取完，1领取完了",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "116": {
+    "Type": 116,
+    "Param": "是否贴地（未知改变不会刷新，需走远返回触发交互才刷新）",
+    "ImplStatus": 1,
+    "Example": "116",
+    "RefreshNum": "无需参数，是贴地",
+    "FailureMessage": 1044036,
+    "ShowPurview": "等级"
+  },
+  "117": {
+    "Type": 117,
+    "Param": "是否XZ轴旋转=0（未知改变不会刷新，需走远返回触发交互才刷新）",
+    "ImplStatus": 1,
+    "Example": "117",
+    "RefreshNum": "无需参数，是xz旋转=0",
+    "FailureMessage": 1044037,
+    "ShowPurview": "等级"
+  },
+  "118": {
+    "Type": 118,
+    "Param": "肉鸽职业",
+    "ImplStatus": 0,
+    "Example": "118=1",
+    "RefreshNum": "判断词条id=词条配置的职业id是否符合玩家当前职业（返回ture/false）",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "119": {
+    "Type": 119,
+    "Param": "肉鸽流派",
+    "ImplStatus": 0,
+    "Example": "119=1=1=10",
+    "RefreshNum": "判断流派id=（词条配置的流派id数量）大于等于/小于=玩家需要拥有该流派的词条数量（1是大于等于，0是小于）",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "120": {
+    "Type": 120,
+    "Param": "背包空间是否足够",
+    "ImplStatus": 1,
+    "Example": "120=1=5",
+    "RefreshNum": "120=容器id=剩余空位数量，当指定容器实际剩余空位数量>5时通过，<=5时不满足条件",
+    "FailureMessage": 1004017,
+    "ShowPurview": "等级"
+  },
+  "121": {
+    "Type": 121,
+    "Param": "在磁吸跟随乘客中",
+    "ImplStatus": 1,
+    "Example": "121=1",
+    "RefreshNum": "1满足条件，0不满足",
+    "FailureMessage": 5712,
+    "ShowPurview": "等级"
+  },
+  "122": {
+    "Type": 122,
+    "Param": "当前不在视野层级中",
+    "ImplStatus": 0,
+    "Example": "122=0",
+    "RefreshNum": "判断不在视野层级ID=视野层级ID",
+    "FailureMessage": 100124,
+    "ShowPurview": "等级"
+  },
+  "123": {
+    "Type": 123,
+    "Param": "交互对象的巡游队列长度是否小于上限",
+    "ImplStatus": 0,
+    "Example": "123=50",
+    "RefreshNum": "123=长度上限",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "124": {
+    "Type": 124,
+    "Param": "指定喵特赏是否已搬空（废弃）",
+    "ImplStatus": 0,
+    "Example": "129=1001=1",
+    "RefreshNum": "类型ID=奖池ID=1（1表示已搬空，0表示未搬空）",
+    "FailureMessage": 0,
+    "ShowPurview": "{*val*} Prize Pool"
+  },
+  "125": {
+    "Type": 125,
+    "Param": "大世界场景玩法状态",
+    "ImplStatus": 0,
+    "Example": "125=1002=1",
+    "RefreshNum": "125=活动ID=场景玩法状态，1等待状态，2即将开启 3进行 4结束 5结算",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "126": {
+    "Type": 126,
+    "Param": "是否激活通行证",
+    "ImplStatus": 0,
+    "Example": "126=1",
+    "RefreshNum": "126=是否激活，1激活，2没激活",
+    "FailureMessage": 0,
+    "ShowPurview": "等级"
+  },
+  "129": {
+    "Type": 129,
+    "Param": "指定喵特赏是否已搬空",
+    "ImplStatus": 0,
+    "Example": "129=1001=1",
+    "RefreshNum": "类型ID=奖池ID=1（1表示已搬空，0表示未搬空）",
+    "FailureMessage": 0,
+    "ShowPurview": "{*val*} Prize Pool"
   }
 }

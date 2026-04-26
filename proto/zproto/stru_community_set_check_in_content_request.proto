@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message CommunitySetCheckInContentRequest {
-  string check_in_content = 1;
+	string checkInContent = 1 [json_name = "checkInContent"];
 }
-

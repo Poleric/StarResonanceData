@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+import "stru_home_land_player_task_info.proto";
+
+package zproto;
+
+message HomeLandTaskReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	HomeLandPlayerTaskInfo taskInfo = 2 [json_name = "taskInfo"];
+}

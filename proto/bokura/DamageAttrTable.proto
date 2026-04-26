@@ -1,31 +1,30 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message DamageAttrTableBase {
-  int64 id = 1463;
-  int32 level = 1120;
-  string name = 439;
-  int32 damage_type = 1478;
-  int32 type_enum = 445;
-  string damage_script = 1550;
-  int_array pve_damage_radio = 612;
-  int_array pve_fixed_parameter = 438;
-  int32 pve_loop_time = 664;
-  int_array pve_stunned_damage = 1016;
-  int32 pve_extinction_damage = 1078;
-  int_array part_damage_radio = 1042;
-  int_table abnormal_damage = 1810;
-  int32 damage_property = 1278;
-  int32 part_damage_type = 453;
-  number_array damage_weight = 1615;
-  int_array tags = 232;
-  bool behit_light_is_open = 1780;
+	int64 Id = 1463 [json_name = "Id"];
+	int32 Level = 1120 [json_name = "Level"];
+	string Name = 439 [json_name = "Name"];
+	int32 DamageType = 1478 [json_name = "DamageType"];
+	int32 TypeEnum = 445 [json_name = "TypeEnum"];
+	string DamageScript = 1550 [json_name = "DamageScript"];
+	int_array PVEDamageRadio = 612 [json_name = "PVEDamageRadio"];
+	int_array PVEFixedParameter = 438 [json_name = "PVEFixedParameter"];
+	int32 PVELoopTime = 664 [json_name = "PVELoopTime"];
+	int_array PVEStunnedDamage = 1016 [json_name = "PVEStunnedDamage"];
+	int32 PVEExtinctionDamage = 1078 [json_name = "PVEExtinctionDamage"];
+	int_array PartDamageRadio = 1042 [json_name = "PartDamageRadio"];
+	int_table AbnormalDamage = 1810 [json_name = "AbnormalDamage"];
+	int32 DamageProperty = 1278 [json_name = "DamageProperty"];
+	int32 PartDamageType = 453 [json_name = "PartDamageType"];
+	number_array DamageWeight = 1615 [json_name = "DamageWeight"];
+	int_array Tags = 232 [json_name = "Tags"];
+	bool BehitLightIsOpen = 1780 [json_name = "BehitLightIsOpen"];
 }
 
 message DamageAttrTableMgr {
-  map<int64, bokura.DamageAttrTableBase> datas = 1;
+	map<int64, DamageAttrTableBase> datas = 1 [json_name = "datas"];
 }
-

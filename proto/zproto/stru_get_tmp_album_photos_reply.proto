@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_photo_graph_show.proto";
 
-message GetTmpAlbumPhotosReply {
-  repeated zproto.PhotoGraphShow photo_graphs = 1;
-  int32 cur_upload_times = 2;
-  int32 max_upload_times = 3;
-  zproto.EErrorCode err_code = 4;
-}
+package zproto;
 
+message GetTmpAlbumPhotosReply {
+	repeated PhotoGraphShow photoGraphs = 1 [json_name = "photoGraphs"];
+	int32 curUploadTimes = 2 [json_name = "curUploadTimes"];
+	int32 maxUploadTimes = 3 [json_name = "maxUploadTimes"];
+	EErrorCode errCode = 4 [json_name = "errCode"];
+}

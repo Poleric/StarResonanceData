@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FightResAttrBaseTableBase {
-  int32 id = 1463;
-  int_array res_i_ds = 924;
+	int32 Id = 1463 [json_name = "Id"];
+	int_array ResIDs = 924 [json_name = "ResIDs"];
 }
 
 message FightResAttrBaseTableMgr {
-  map<int32, bokura.FightResAttrBaseTableBase> datas = 1;
+	map<int32, FightResAttrBaseTableBase> datas = 1 [json_name = "datas"];
 }
-

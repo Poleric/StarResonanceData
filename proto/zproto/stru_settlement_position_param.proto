@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_settlement_position.proto";
 
-message SettlementPositionParam {
-  map<uint32, zproto.SettlementPosition> v_user_pos = 1;
-}
+package zproto;
 
+message SettlementPositionParam {
+	map<uint32, SettlementPosition> vUserPos = 1 [json_name = "vUserPos"];
+}

@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message AchievementEntryTableBase {
-  int32 id = 1463;
-  int_array achievement_list = 1797;
+	int32 Id = 1463 [json_name = "Id"];
+	int_array AchievementList = 1797 [json_name = "AchievementList"];
 }
 
 message AchievementEntryTableMgr {
-  map<int32, bokura.AchievementEntryTableBase> datas = 1;
+	map<int32, AchievementEntryTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_package.proto";
 import "stru_dirty_mask.proto";
 
-message ItemPackage {
-  map<int32, zproto.Package> packages = 1;
-  map<int32, int32> unlock_items = 2;
-  int32 quick_bar = 3;
-  int32 item_uuid = 4;
-  map<int32, int64> use_group_cd = 5;
-}
+package zproto;
 
+message ItemPackage {
+	map<int32, Package> packages = 1 [json_name = "packages"];
+	map<int32, int32> unlockItems = 2 [json_name = "unlockItems"];
+	int32 quickBar = 3 [json_name = "quickBar"];
+	int32 itemUuid = 4 [json_name = "itemUuid"];
+	map<int32, int64> useGroupCd = 5 [json_name = "useGroupCd"];
+}

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "stru_int_vec3.proto";
+import "stru_vec4.proto";
+
+package zproto;
+
+message HomelandUpdateSubModelTransformRequest {
+	int64 structureUuid = 1 [json_name = "structureUuid"];
+	int32 slot = 2 [json_name = "slot"];
+	IntVec3 position = 3 [json_name = "position"];
+	Vec4 quaternion = 4 [json_name = "quaternion"];
+	bool isOuter = 5 [json_name = "isOuter"];
+	int32 subModelIndex = 6 [json_name = "subModelIndex"];
+}

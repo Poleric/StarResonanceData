@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+
+package zproto;
+
+message DeleteBluePrintReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+}

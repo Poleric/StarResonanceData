@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+
+package zproto;
+
+message DestroyClutterReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	int32 consumeCleanliness = 2 [json_name = "consumeCleanliness"];
+	repeated int64 destroyClutters = 3 [json_name = "destroyClutters"];
+	int32 newCleanliness = 4 [json_name = "newCleanliness"];
+}

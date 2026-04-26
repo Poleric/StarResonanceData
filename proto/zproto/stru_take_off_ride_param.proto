@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message TakeOffRideParam {
-  int32 ride_id = 1;
+	int32 RideId = 1 [json_name = "RideId"];
 }
-

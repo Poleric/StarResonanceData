@@ -1,0 +1,443 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Riichi",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Tanyao (All Simples)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Menzen Tsumo (Concealed Self-Draw)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Yakuhai (Value Tiles): Seat Wind",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Yakuhai (Value Tiles): Round Wind",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "7": {
+    "Id": 7,
+    "Name": "Pinfu (All Sequences, No Points Hand)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "8": {
+    "Id": 8,
+    "Name": "Iipeikou (Pure Double Sequence)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "9": {
+    "Id": 9,
+    "Name": "Chankan (Robbing a Quad)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "10": {
+    "Id": 10,
+    "Name": "Rinshan Kaihou (Win from a Dead Wall Draw)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "11": {
+    "Id": 11,
+    "Name": "Haitei Raoyue (Win on the Last Tile Draw)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "12": {
+    "Id": 12,
+    "Name": "Houtei Raoyui (Win on the Last Discard)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "13": {
+    "Id": 13,
+    "Name": "Ippatsu (One-Shot Win After Riichi)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "14": {
+    "Id": 14,
+    "Name": "Dora (Bonus Tile)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "15": {
+    "Id": 15,
+    "Name": "Aka Dora (Red Dora)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "16": {
+    "Id": 16,
+    "Name": "Double Riichi",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "17": {
+    "Id": 17,
+    "Name": "Sanshoku Doukou (Triple Triplets)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "18": {
+    "Id": 18,
+    "Name": "San Kantsu (Three Quads)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "19": {
+    "Id": 19,
+    "Name": "Toi-Toi (All Triplets)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "20": {
+    "Id": 20,
+    "Name": "San Ankou (Three Concealed Triplets)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "21": {
+    "Id": 21,
+    "Name": "Shou Sangen (Little Three Dragons)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "22": {
+    "Id": 22,
+    "Name": "Honroutou (All Terminals and Honors)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "23": {
+    "Id": 23,
+    "Name": "Chiitoitsu (Seven Pairs)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "24": {
+    "Id": 24,
+    "Name": "Hon Chanta (Mixed Outside Hand)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "25": {
+    "Id": 25,
+    "Name": "Ittsuu (Pure Straight)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "26": {
+    "Id": 26,
+    "Name": "Sanshoku Doujun (Mixed Triple Sequence)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "27": {
+    "Id": 27,
+    "Name": "Ryanpeikou (Twice Pure Double Sequence)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "28": {
+    "Id": 28,
+    "Name": "Junchan (Fully Outside Hand)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "29": {
+    "Id": 29,
+    "Name": "Honitsu (Half Flush)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "30": {
+    "Id": 30,
+    "Name": "Chinitsu (Full Flush)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "31": {
+    "Id": 31,
+    "Name": "Nagashi Mangan (Mangan at Draw)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "32": {
+    "Id": 32,
+    "Name": "Tenhou (Blessing of Heaven)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_blessingofheaven_scene",
+    "UIKey": "mahjong_special_ron",
+    "ShowSort": 1,
+    "AudioName": "UI_Mahjong_Result_blessingofheaven"
+  },
+  "33": {
+    "Id": 33,
+    "Name": "Chiihou (Blessing of Earth)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_blessingofearth_scene",
+    "UIKey": "mahjong_special_ron",
+    "ShowSort": 2,
+    "AudioName": "UI_Mahjong_Result_blessingofearth"
+  },
+  "34": {
+    "Id": 34,
+    "Name": "Dai Sangen (Big Three Dragons)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_bigthreedragons_scene",
+    "UIKey": "mahjong_special_ron_2",
+    "ShowSort": 3,
+    "AudioName": "UI_Mahjong_Result_bigthreedragons"
+  },
+  "35": {
+    "Id": 35,
+    "Name": "Suu Ankou (Four Concealed Triplets)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_fourconcealedpungs_scene",
+    "UIKey": "mahjong_special_ron",
+    "ShowSort": 4,
+    "AudioName": "UI_Mahjong_Result_fourconcealedpungs"
+  },
+  "36": {
+    "Id": 36,
+    "Name": "Tsuuiisou (All Honors)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_allhonours_scene",
+    "UIKey": "mahjong_special_ron_2",
+    "ShowSort": 5,
+    "AudioName": "UI_Mahjong_Result_allhonours"
+  },
+  "37": {
+    "Id": 37,
+    "Name": "Ryuuiisou (All Green)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_allgreen_scene",
+    "UIKey": "mahjong_special_ron_2",
+    "ShowSort": 6,
+    "AudioName": "UI_Mahjong_Result_allgreen"
+  },
+  "38": {
+    "Id": 38,
+    "Name": "Chinroutou (All Terminals)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_allterminals_scene",
+    "UIKey": "mahjong_special_ron_2",
+    "ShowSort": 7,
+    "AudioName": "UI_Mahjong_Result_allterminals"
+  },
+  "39": {
+    "Id": 39,
+    "Name": "Kokushi Musou (Thirteen Orphans)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_thirteenorphans_scene",
+    "UIKey": "mahjong_special_ron_1",
+    "ShowSort": 8,
+    "AudioName": "UI_Mahjong_Result_thirteenorphans"
+  },
+  "40": {
+    "Id": 40,
+    "Name": "Shousuushii (Little Four Winds)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_littlefourwinds_scene",
+    "UIKey": "mahjong_special_ron_1",
+    "ShowSort": 9,
+    "AudioName": "UI_Mahjong_Result_littlefourwinds"
+  },
+  "41": {
+    "Id": 41,
+    "Name": "Suukantsu (Four Kans)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_fourkongs_scene",
+    "UIKey": "mahjong_special_ron",
+    "ShowSort": 10,
+    "AudioName": "UI_Mahjong_Result_fourkongs"
+  },
+  "42": {
+    "Id": 42,
+    "Name": "Chuuren Poutou (Nine Gates)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_ninegates_scene",
+    "UIKey": "mahjong_special_ron_1",
+    "ShowSort": 11,
+    "AudioName": "UI_Mahjong_Result_ninegates"
+  },
+  "43": {
+    "Id": 43,
+    "Name": "Suu Ankou Tanki (Single-wait Four Concealed Triplets)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_bigfourconcealedpungs_scene",
+    "UIKey": "mahjong_special_ron_empty",
+    "ShowSort": 12,
+    "AudioName": "UI_Mahjong_Result_bigfourconcealedpungs"
+  },
+  "44": {
+    "Id": 44,
+    "Name": "Kokushi Musou Juusanmenmachi (Thirteen-wait Thirteen Orphans)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_bigthirteenorphans_scene",
+    "UIKey": "mahjong_special_ron_empty",
+    "ShowSort": 13,
+    "AudioName": "UI_Mahjong_Result_bigthirteenorphans"
+  },
+  "45": {
+    "Id": 45,
+    "Name": "Junsei Chuuren Poutou (True Nine Gates)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_pureninegates_scene",
+    "UIKey": "mahjong_special_ron_empty",
+    "ShowSort": 14,
+    "AudioName": "UI_Mahjong_Result_pureninegates"
+  },
+  "46": {
+    "Id": 46,
+    "Name": "Dai Suushi (Big Four Winds)",
+    "Yakuman": true,
+    "ScenePrefabName": "mahjong_special_ron_bigfourwinds_scene",
+    "UIKey": "mahjong_special_ron_1",
+    "ShowSort": 15,
+    "AudioName": "UI_Mahjong_Result_bigfourwinds"
+  },
+  "601": {
+    "Id": 601,
+    "Name": "Yakuhai (Value Tiles): White Dragon",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "602": {
+    "Id": 602,
+    "Name": "Yakuhai (Value Tiles): Green Dragon",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "603": {
+    "Id": 603,
+    "Name": "Yakuhai (Value Tiles): Red Dragon",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  },
+  "604": {
+    "Id": 604,
+    "Name": "Ura Dora (Hidden Dora)",
+    "Yakuman": false,
+    "ScenePrefabName": "",
+    "UIKey": "",
+    "ShowSort": 0,
+    "AudioName": ""
+  }
+}

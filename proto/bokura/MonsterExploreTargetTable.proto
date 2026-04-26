@@ -1,26 +1,25 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message MonsterExploreTargetTableBase {
-  int32 id = 1463;
-  int32 target_type = 736;
-  int32 num = 947;
-  int32 scene_id = 1506;
-  int_array param = 1207;
-  string target_pos = 1118;
-  bool is_team_share = 1925;
-  mlstring target_des = 1279;
-  bool is_show_progress = 56;
-  mlstring_array sp_variable = 280;
-  mlstring_array sp_variable_limit = 315;
-  mlstring_array sp_variable_name = 2006;
-  int_array is_show_sp_variable_progress = 800;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 TargetType = 736 [json_name = "TargetType"];
+	int32 Num = 947 [json_name = "Num"];
+	int32 SceneId = 1506 [json_name = "SceneId"];
+	int_array Param = 1207 [json_name = "Param"];
+	string TargetPos = 1118 [json_name = "TargetPos"];
+	bool IsTeamShare = 1925 [json_name = "IsTeamShare"];
+	mlstring TargetDes = 1279 [json_name = "TargetDes"];
+	bool IsShowProgress = 56 [json_name = "IsShowProgress"];
+	mlstring_array SpVariable = 280 [json_name = "SpVariable"];
+	mlstring_array SpVariableLimit = 315 [json_name = "SpVariableLimit"];
+	mlstring_array SpVariableName = 2006 [json_name = "SpVariableName"];
+	int_array IsShowSpVariableProgress = 800 [json_name = "IsShowSpVariableProgress"];
 }
 
 message MonsterExploreTargetTableMgr {
-  map<int32, bokura.MonsterExploreTargetTableBase> datas = 1;
+	map<int32, MonsterExploreTargetTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -191,5 +191,117 @@
       1000610
     ],
     "SortID": 6
+  },
+  "7": {
+    "Id": 7,
+    "Type": 0,
+    "ClassName": "Starland Adventure",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_dongmandao",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_perpetual_achievement_picture",
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_06",
+    "ClassDes": "",
+    "EntryList": [
+      1000701,
+      1000702,
+      1000703,
+      1000704
+    ],
+    "SortID": 7
+  },
+  "10201": {
+    "Id": 10201,
+    "Type": 2,
+    "ClassName": "Dreambloom",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_huanhuanhua",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_new_huanhuanhua",
+    "ClassDes": "不断提升自己的力量属性！",
+    "EntryList": [
+      1020101,
+      1020102,
+      1020103,
+      1020104
+    ],
+    "SortID": 101
+  },
+  "10202": {
+    "Id": 10202,
+    "Type": 2,
+    "ClassName": "Endless Journey",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_maoxianjieyi",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_06",
+    "ClassDes": "不断提升自己的力量属性！",
+    "EntryList": [
+      1020201,
+      1020202,
+      1020204,
+      1020205,
+      1020206,
+      1020207,
+      1020208,
+      1020203,
+      1020209
+    ],
+    "SortID": 102
+  },
+  "10205": {
+    "Id": 10205,
+    "Type": 2,
+    "ClassName": "Wave of Friendship",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_shejiao",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_new_shenfenbaitai",
+    "ClassDes": "收集制作，创造独特的生活！",
+    "EntryList": [
+      1020301,
+      1020302,
+      1020303
+    ],
+    "SortID": 103
+  },
+  "10204": {
+    "Id": 10204,
+    "Type": 2,
+    "ClassName": "Leisure Chronicle",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_chengzhangzhilu",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_05",
+    "ClassDes": "踏遍大地，发现未知的奇迹！",
+    "EntryList": [
+      1020401,
+      1020402,
+      1020403,
+      1020404,
+      1020405
+    ],
+    "SortID": 104
+  },
+  "10206": {
+    "Id": 10206,
+    "Type": 2,
+    "ClassName": "Radiant Moment",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_yangcheng",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_03",
+    "ClassDes": "收集制作，创造独特的生活！",
+    "EntryList": [
+      1020501,
+      1020502
+    ],
+    "SortID": 105
+  },
+  "10203": {
+    "Id": 10203,
+    "Type": 2,
+    "ClassName": "Stellar Sync",
+    "ClassIcon": "ui/atlas/season_achievement/simclass/achievement_simclass_new_guoguanzhanjiang",
+    "ClassPeopleBg": "ui/textures/large_ui/season_achievement/season_achievement_picture",
+    "ClassBackground": "ui/atlas/season_achievement/seasoncenter_achievement_class_01",
+    "ClassDes": "总有人为了守护这个世界的和平在默默付出！",
+    "EntryList": [
+      1020601
+    ],
+    "SortID": 106
   }
 }

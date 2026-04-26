@@ -1,13 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
+import "stru_bubble_target_record.proto";
 import "stru_dirty_mask.proto";
 
-message BubbleInfo {
-  uint32 bubble_score = 1;
-  uint32 bubble_award_count = 2;
-  repeated uint64 additional_target_uuid_list = 3;
-  int64 last_refresh_time = 4;
-}
+package zproto;
 
+message BubbleInfo {
+	uint32 bubbleScore = 1 [json_name = "bubbleScore"];
+	uint32 bubbleAwardCount = 2 [json_name = "bubbleAwardCount"];
+	repeated uint64 additionalTargetUuidList = 3 [json_name = "additionalTargetUuidList"];
+	int64 lastRefreshTime = 4 [json_name = "lastRefreshTime"];
+	repeated BubbleTargetRecord targetRecordList = 5 [json_name = "targetRecordList"];
+}

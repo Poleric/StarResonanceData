@@ -8,9 +8,12 @@
   "2": {
     "Id": 2,
     "Chapter": "Chapter 2",
-    "ChapterName": "Bahamar Highlands",
+    "ChapterName": "Crimson Burial",
     "Episode": [
-      201
+      201,
+      202,
+      203,
+      204
     ]
   }
 }

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message BatchAcceptQuestInfo {
+	repeated int32 questIds = 1 [json_name = "questIds"];
+}

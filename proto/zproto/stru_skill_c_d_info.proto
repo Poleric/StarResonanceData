@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message SkillCDInfo {
-  int32 skill_level_id = 1;
-  int64 skill_begin_time = 2;
-  int32 duration = 3;
-  uint32 skill_cd_type = 4;
-  int64 profession_hold_begin_time = 6;
-  int32 charge_count = 7;
-  int32 valid_cd_time = 8;
-  int32 sub_cd_ratio = 9;
-  int64 sub_cd_fixed = 10;
-  int32 accelerate_cd_ratio = 11;
-}
+package zproto;
 
+message SkillCDInfo {
+	int32 skillLevelId = 1 [json_name = "skillLevelId"];
+	int64 skillBeginTime = 2 [json_name = "skillBeginTime"];
+	int32 duration = 3 [json_name = "duration"];
+	uint32 skillCDType = 4 [json_name = "skillCDType"];
+	int64 professionHoldBeginTime = 6 [json_name = "professionHoldBeginTime"];
+	int32 chargeCount = 7 [json_name = "chargeCount"];
+	int32 validCDTime = 8 [json_name = "validCDTime"];
+	int32 subCDRatio = 9 [json_name = "subCDRatio"];
+	int64 subCDFixed = 10 [json_name = "subCDFixed"];
+	int32 accelerateCDRatio = 11 [json_name = "accelerateCDRatio"];
+}

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message SetGroupSortRequest {
-  repeated int32 group_sort = 2;
+	repeated int32 groupSort = 2 [json_name = "groupSort"];
 }
-

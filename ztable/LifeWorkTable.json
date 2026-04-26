@@ -13,9 +13,10 @@
     ],
     "ExtraAward": [],
     "Title": "Botany",
-    "Desc": "Botany Part-time Job",
+    "Desc": "Select a target to begin the Gathering Commission! Return once the timer ends to claim your rewards.",
     "Address": "Flower Store",
-    "Background": "",
+    "Background": "ui/textures/life_entrust/life_entrust_collect",
+    "AwardText": "Let's see what we've brought back... Thank you for your continued trust; the commission was a complete success. We look forward to working with you again!",
     "Specializations": [
       101005,
       101006
@@ -34,10 +35,11 @@
       ]
     ],
     "ExtraAward": [],
-    "Title": "Prospecting",
-    "Desc": "Prospecting Part-time Job",
+    "Title": "Mineralogy",
+    "Desc": "Select a target to begin the Gathering Commission! Return once the timer ends to claim your rewards.",
     "Address": "Ore Research Institute",
-    "Background": "",
+    "Background": "ui/textures/life_entrust/life_entrust_mining",
+    "AwardText": "Let's see what we've brought back... Thank you for your continued trust; the commission was a complete success. We look forward to working with you again!",
     "Specializations": []
   },
   "103": {
@@ -53,10 +55,11 @@
       ]
     ],
     "ExtraAward": [],
-    "Title": "Originium Studies",
-    "Desc": "Originium Part-time Job",
+    "Title": "Gemology",
+    "Desc": "Select a target to begin the Gathering Commission! Return once the timer ends to claim your rewards.",
     "Address": "Orb Store",
-    "Background": "",
+    "Background": "ui/textures/life_entrust/life_entrust_stone",
+    "AwardText": "Let's see what we've brought back... Thank you for your continued trust; the commission was a complete success. We look forward to working with you again!",
     "Specializations": []
   },
   "201": {
@@ -76,6 +79,7 @@
     "Desc": "Culinary Part-time Job",
     "Address": "Delicious Restaurant",
     "Background": "",
+    "AwardText": "ui/textures/life_entrust/life_entrust_collect",
     "Specializations": []
   },
   "202": {
@@ -95,6 +99,7 @@
     "Desc": "Refining Part-time Job",
     "Address": "Alchemy Guild",
     "Background": "",
+    "AwardText": "ui/textures/life_entrust/life_entrust_collect",
     "Specializations": []
   },
   "203": {
@@ -114,6 +119,7 @@
     "Desc": "Smelting Part-time Job",
     "Address": "Smelting Guild",
     "Background": "",
+    "AwardText": "ui/textures/life_entrust/life_entrust_collect",
     "Specializations": []
   },
   "204": {
@@ -133,6 +139,7 @@
     "Desc": "Magical Artisanship Part-time Job",
     "Address": "Magic Store",
     "Background": "",
+    "AwardText": "ui/textures/life_entrust/life_entrust_collect",
     "Specializations": []
   },
   "205": {
@@ -152,6 +159,7 @@
     "Desc": "Artisanry Part-time Job",
     "Address": "Tim's Grocery Store",
     "Background": "",
+    "AwardText": "ui/textures/life_entrust/life_entrust_collect",
     "Specializations": []
   }
 }

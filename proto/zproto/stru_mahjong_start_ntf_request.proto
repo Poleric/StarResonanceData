@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_mahjong_context.proto";
+
+package zproto;
+
+message MahjongStartNtfRequest {
+	MahjongContext context = 1 [json_name = "context"];
+}

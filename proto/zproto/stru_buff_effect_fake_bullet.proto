@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_vec3.proto";
 
-message BuffEffectFakeBullet {
-  int32 buff_uuid = 1;
-  int32 event_id = 2;
-  int32 bullet_id = 3;
-  int32 buff_id = 4;
-  zproto.Vec3 bullet_offset = 5;
-}
+package zproto;
 
+message BuffEffectFakeBullet {
+	int32 buffUuid = 1 [json_name = "buffUuid"];
+	int32 eventId = 2 [json_name = "eventId"];
+	int32 bulletId = 3 [json_name = "bulletId"];
+	int32 buffId = 4 [json_name = "buffId"];
+	Vec3 bulletOffset = 5 [json_name = "bulletOffset"];
+}

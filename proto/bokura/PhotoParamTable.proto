@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message PhotoParamTableBase {
-  int32 id = 1463;
-  mlstring des = 266;
-  int32 point_id = 1791;
-  vector2 distance_take = 1624;
-  vector2 distance_hint = 147;
-  vector2 angle = 1093;
-  int_array target_id = 1432;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Des = 266 [json_name = "Des"];
+	int32 PointId = 1791 [json_name = "PointId"];
+	vector2 DistanceTake = 1624 [json_name = "DistanceTake"];
+	vector2 DistanceHint = 147 [json_name = "DistanceHint"];
+	vector2 Angle = 1093 [json_name = "Angle"];
+	int_array TargetId = 1432 [json_name = "TargetId"];
 }
 
 message PhotoParamTableMgr {
-  map<int32, bokura.PhotoParamTableBase> datas = 1;
+	map<int32, PhotoParamTableBase> datas = 1 [json_name = "datas"];
 }
-

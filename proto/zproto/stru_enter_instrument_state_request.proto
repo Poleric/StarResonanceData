@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "enum_e_instrument_play_range.proto";
+
+package zproto;
+
+message EnterInstrumentStateRequest {
+	int32 instrumentId = 1 [json_name = "instrumentId"];
+	EInstrumentPlayRange playRange = 2 [json_name = "playRange"];
+}

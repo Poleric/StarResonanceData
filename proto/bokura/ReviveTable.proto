@@ -1,21 +1,20 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ReviveTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  int32 type = 673;
-  int_array consume = 1838;
-  int32 count_down = 3886;
-  int_array before_buff_id = 1753;
-  int32 wait_time = 106;
-  int32 is_boss_can_revive = 812;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	int32 Type = 673 [json_name = "Type"];
+	int_array Consume = 1838 [json_name = "Consume"];
+	int32 CountDown = 3886 [json_name = "CountDown"];
+	int_array BeforeBuffId = 1753 [json_name = "BeforeBuffId"];
+	int32 WaitTime = 106 [json_name = "WaitTime"];
+	int32 IsBossCanRevive = 812 [json_name = "IsBossCanRevive"];
 }
 
 message ReviveTableMgr {
-  map<int32, bokura.ReviveTableBase> datas = 1;
+	map<int32, ReviveTableBase> datas = 1 [json_name = "datas"];
 }
-

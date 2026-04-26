@@ -3,7 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message ReceiveUnionActivityAwardRequest {
-  int64 union_id = 2;
-  int32 award_id = 3;
+	int64 unionId = 2 [json_name = "unionId"];
+	int32 awardId = 3 [json_name = "awardId"];
+	int64 lastRefreshTime = 4 [json_name = "lastRefreshTime"];
 }
-

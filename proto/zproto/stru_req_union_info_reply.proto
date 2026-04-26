@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_mem_union_activity.proto";
 import "stru_recruit_info.proto";
@@ -12,16 +10,18 @@ import "stru_union_info.proto";
 import "stru_union_resource.proto";
 import "stru_user_summary_data.proto";
 
-message ReqUnionInfoReply {
-  zproto.UnionInfo info = 1;
-  zproto.RecruitInfo recruit_info = 2;
-  zproto.UserSummaryData president_info = 3;
-  map<int32, zproto.UnionBuilding> union_buildings = 4;
-  zproto.UnionActivity union_activity = 5;
-  zproto.MemUnionActivity self_activity = 6;
-  map<int32, zproto.UnionResource> union_resource_lib = 7;
-  int32 self_speed_times = 8;
-  repeated zproto.UnionEffectBuff effect_buffs = 9;
-  zproto.EErrorCode err_code = 10;
-}
+package zproto;
 
+message ReqUnionInfoReply {
+	UnionInfo info = 1 [json_name = "info"];
+	RecruitInfo recruitInfo = 2 [json_name = "recruitInfo"];
+	UserSummaryData presidentInfo = 3 [json_name = "presidentInfo"];
+	map<int32, UnionBuilding> unionBuildings = 4 [json_name = "unionBuildings"];
+	UnionActivity unionActivity = 5 [json_name = "unionActivity"];
+	MemUnionActivity selfActivity = 6 [json_name = "selfActivity"];
+	map<int32, UnionResource> unionResourceLib = 7 [json_name = "unionResourceLib"];
+	int32 selfSpeedTimes = 8 [json_name = "selfSpeedTimes"];
+	repeated UnionEffectBuff effectBuffs = 9 [json_name = "effectBuffs"];
+	repeated int32 receivedPointAwardIds = 10 [json_name = "receivedPointAwardIds"];
+	EErrorCode errCode = 11 [json_name = "errCode"];
+}

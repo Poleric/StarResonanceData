@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message TowerJumpAward {
+	int32 climbUpId = 1 [json_name = "climbUpId"];
+}

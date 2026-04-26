@@ -1,26 +1,25 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message WeaponStarTableBase {
-  int32 id = 1463;
-  int32 weapon_id = 952;
-  int32 skill_id = 1087;
-  int_table ulock_skill_level = 60;
-  int32 change_skill = 513;
-  int_table upgrade_cost = 151;
-  int_table upgrade_extra_cost = 262;
-  int32 buff_id = 500;
-  int_array buff_par = 1688;
-  int_array upgrade_skill_id = 665;
-  int_array upgrade_skill_level = 1794;
-  mlstring name = 439;
-  mlstring des = 266;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 WeaponId = 952 [json_name = "WeaponId"];
+	int32 SkillId = 1087 [json_name = "SkillId"];
+	int_table UlockSkillLevel = 60 [json_name = "UlockSkillLevel"];
+	int32 ChangeSkill = 513 [json_name = "ChangeSkill"];
+	int_table UpgradeCost = 151 [json_name = "UpgradeCost"];
+	int_table UpgradeExtraCost = 262 [json_name = "UpgradeExtraCost"];
+	int32 BuffID = 500 [json_name = "BuffID"];
+	int_array BuffPar = 1688 [json_name = "BuffPar"];
+	int_array UpgradeSkillId = 665 [json_name = "UpgradeSkillId"];
+	int_array UpgradeSkillLevel = 1794 [json_name = "UpgradeSkillLevel"];
+	mlstring Name = 439 [json_name = "Name"];
+	mlstring Des = 266 [json_name = "Des"];
 }
 
 message WeaponStarTableMgr {
-  map<int32, bokura.WeaponStarTableBase> datas = 1;
+	map<int32, WeaponStarTableBase> datas = 1 [json_name = "datas"];
 }
-

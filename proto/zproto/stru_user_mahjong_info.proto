@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message UserMahjongInfo {
+	string tableGuid = 1 [json_name = "tableGuid"];
+	int64 exitTimeSec = 2 [json_name = "exitTimeSec"];
+}

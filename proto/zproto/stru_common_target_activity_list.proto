@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_common_target_activity.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message CommonTargetActivityList {
+	map<uint32, CommonTargetActivity> commonTargetActivityMap = 1 [json_name = "commonTargetActivityMap"];
+	uint64 version = 2 [json_name = "version"];
+	map<int32, int64> periodRefreshTimeMap = 3 [json_name = "periodRefreshTimeMap"];
+}

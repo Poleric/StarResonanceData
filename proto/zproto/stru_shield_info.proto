@@ -3,10 +3,9 @@ syntax = "proto3";
 package zproto;
 
 message ShieldInfo {
-  int64 uuid = 1;
-  int32 shield_type = 2;
-  int64 value = 3;
-  int64 initial_value = 4;
-  int64 max_value = 5;
+	int64 uuid = 1 [json_name = "uuid"];
+	int32 shieldType = 2 [json_name = "shieldType"];
+	int64 value = 3 [json_name = "value"];
+	int64 initialValue = 4 [json_name = "initialValue"];
+	int64 maxValue = 5 [json_name = "maxValue"];
 }
-

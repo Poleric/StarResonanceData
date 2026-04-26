@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message HideSeekPlayInfo {
+	int64 charId = 1 [json_name = "charId"];
+	int32 passTime = 2 [json_name = "passTime"];
+	int32 starCount = 3 [json_name = "starCount"];
+	int32 score = 4 [json_name = "score"];
+	int32 camp = 5 [json_name = "camp"];
+	int32 catchCount = 6 [json_name = "catchCount"];
+	int32 assistCount = 7 [json_name = "assistCount"];
+}

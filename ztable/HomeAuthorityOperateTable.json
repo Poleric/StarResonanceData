@@ -1,0 +1,47 @@
+{
+  "1": {
+    "Id": 1,
+    "Desc": "Friends",
+    "OperateEnum": 1
+  },
+  "2": {
+    "Id": 2,
+    "Desc": "All",
+    "OperateEnum": 2
+  },
+  "3": {
+    "Id": 3,
+    "Desc": "Housemate",
+    "OperateEnum": 3
+  },
+  "4": {
+    "Id": 4,
+    "Desc": "Seed Owner",
+    "OperateEnum": 4
+  },
+  "5": {
+    "Id": 5,
+    "Desc": "Non-Seed Owner",
+    "OperateEnum": 5
+  },
+  "6": {
+    "Id": 6,
+    "Desc": "Furniture Crafter",
+    "OperateEnum": 6
+  },
+  "7": {
+    "Id": 7,
+    "Desc": "Homeowner",
+    "OperateEnum": 7
+  },
+  "8": {
+    "Id": 8,
+    "Desc": "Field Owner",
+    "OperateEnum": 8
+  },
+  "9": {
+    "Id": 9,
+    "Desc": "Restricted",
+    "OperateEnum": 3
+  }
+}

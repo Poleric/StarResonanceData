@@ -3,26 +3,25 @@ syntax = "proto3";
 package bokura;
 
 message ModelWpNpcTableBase {
-  int32 model_prefab_id = 5;
-  string model_prefab_desc = 1152;
-  int32 sex = 1062;
-  string skeleton = 1130;
-  string anim_template = 1244;
-  string emo_prefix = 857;
-  string head = 664;
-  string anim_head_template = 139;
-  string hair = 574;
-  string anim_hair_template = 128;
-  string headwear = 709;
-  string back = 251;
-  string weaponl = 1310;
-  string weaponr = 1690;
-  string tail = 1292;
-  string weapon_idle_anim = 102;
-  string pinch_config = 832;
+	int32 ModelPrefabID = 5 [json_name = "ModelPrefabID"];
+	string ModelPrefabDesc = 1152 [json_name = "ModelPrefabDesc"];
+	int32 Sex = 1062 [json_name = "Sex"];
+	string Skeleton = 1130 [json_name = "Skeleton"];
+	string AnimTemplate = 1244 [json_name = "AnimTemplate"];
+	string EmoPrefix = 857 [json_name = "EmoPrefix"];
+	string Head = 664 [json_name = "Head"];
+	string AnimHeadTemplate = 139 [json_name = "AnimHeadTemplate"];
+	string Hair = 574 [json_name = "Hair"];
+	string AnimHairTemplate = 128 [json_name = "AnimHairTemplate"];
+	string Headwear = 709 [json_name = "Headwear"];
+	string Back = 251 [json_name = "Back"];
+	string WeaponL = 1310 [json_name = "WeaponL"];
+	string WeaponR = 1690 [json_name = "WeaponR"];
+	string Tail = 1292 [json_name = "Tail"];
+	string WeaponIdleAnim = 102 [json_name = "WeaponIdleAnim"];
+	string PinchConfig = 832 [json_name = "PinchConfig"];
 }
 
 message ModelWpNpcTableMgr {
-  map<int32, bokura.ModelWpNpcTableBase> datas = 1;
+	map<int32, ModelWpNpcTableBase> datas = 1 [json_name = "datas"];
 }
-

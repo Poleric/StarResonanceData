@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_item.proto";
 
-message PlaceHolderItem {
-  uint32 config_id = 1;
-  zproto.Item item_detail = 2;
-}
+package zproto;
 
+message PlaceHolderItem {
+	uint32 configId = 1 [json_name = "configId"];
+	Item ItemDetail = 2 [json_name = "ItemDetail"];
+}

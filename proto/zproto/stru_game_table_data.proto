@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "enum_e_game_table_state.proto";
+import "stru_game_table_key.proto";
+import "stru_game_table_seat_info.proto";
+import "stru_game_table_vote_end_info.proto";
+
+package zproto;
+
+message GameTableData {
+	GameTableKey gameTableKey = 1 [json_name = "gameTableKey"];
+	int32 curGamePlayId = 2 [json_name = "curGamePlayId"];
+	EGameTableState gameTableState = 3 [json_name = "gameTableState"];
+	int64 gameTableStateEndTime = 4 [json_name = "gameTableStateEndTime"];
+	map<int32, GameTableSeatInfo> seats = 5 [json_name = "seats"];
+	GameTableVoteEndInfo voteEndInfo = 6 [json_name = "voteEndInfo"];
+}

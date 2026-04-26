@@ -106,7 +106,7 @@
       2,
       3
     ],
-    "Describe": "Equip 3 rare or higher quality gears"
+    "Describe": "Equip 3 pieces of Rare or higher quality gear"
   },
   "8": {
     "Id": 8,
@@ -117,7 +117,7 @@
       3,
       5
     ],
-    "Describe": "Equip 5 epic or higher quality gears"
+    "Describe": "Equip 5 pieces of Epic or higher quality gear"
   },
   "9": {
     "Id": 9,
@@ -280,7 +280,7 @@
     "Param": [
       2
     ],
-    "Describe": "Complete 1 motion-sensing mode photo"
+    "Describe": "Complete 1 FPV mode photo"
   },
   "25": {
     "Id": 25,
@@ -300,7 +300,7 @@
     "Param": [
       7130130
     ],
-    "Describe": "Obtain headwear: Woven Sea Breeze"
+    "Describe": "Obtain headwear: Woven Seabreeze"
   },
   "27": {
     "Id": 27,
@@ -519,7 +519,7 @@
     "Param": [
       20004
     ],
-    "Describe": "Defeat {*val*} Wild World Bosss"
+    "Describe": "Defeat {*val*} Wild World Bosses"
   },
   "49": {
     "Id": 49,
@@ -777,7 +777,7 @@
       1022,
       1122
     ],
-    "Describe": "Complete {*val*} Chaotic Realm challenges"
+    "Describe": "Complete Chaotic Realm  {*val*} time(s)"
   },
   "67": {
     "Id": 67,
@@ -819,7 +819,7 @@
     "Param": [
       20004
     ],
-    "Describe": "Defeat {*val*} Wild World Bosss"
+    "Describe": "Defeat {*val*} Wild World Bosses"
   },
   "71": {
     "Id": 71,
@@ -1102,7 +1102,7 @@
     "Param": [
       10002
     ],
-    "Describe": "Consume {*val*} Lunos"
+    "Describe": "Consume {*val*} Luno"
   },
   "88": {
     "Id": 88,
@@ -1124,7 +1124,7 @@
     "Param": [
       20004
     ],
-    "Describe": "Defeat {*val*} Wild World Bosss"
+    "Describe": "Defeat {*val*} Wild World Bosses"
   },
   "90": {
     "Id": 90,
@@ -1304,7 +1304,7 @@
     "Param": [
       10002
     ],
-    "Describe": "Consume {*val*} Lunos"
+    "Describe": "Consume {*val*} Luno"
   },
   "102": {
     "Id": 102,
@@ -1406,7 +1406,7 @@
     "Param": [
       0
     ],
-    "Describe": "One hundred days of injury, if you're not an expert, don't jump around in high places~"
+    "Describe": "Major injuries take time to heal. If you're not an expert, don't jump around in high places~"
   },
   "111": {
     "Id": 111,

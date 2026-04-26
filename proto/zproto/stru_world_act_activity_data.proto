@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_world_act_flow_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message WorldActActivityData {
+	int32 activityId = 1 [json_name = "activityId"];
+	WorldActFlowInfo flowInfo = 2 [json_name = "flowInfo"];
+	int32 currentPlayers = 3 [json_name = "currentPlayers"];
+}

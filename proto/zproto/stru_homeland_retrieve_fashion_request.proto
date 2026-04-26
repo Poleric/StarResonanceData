@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message HomelandRetrieveFashionRequest {
+	int64 structureUuid = 1 [json_name = "structureUuid"];
+	int32 slot = 2 [json_name = "slot"];
+	bool isOuter = 3 [json_name = "isOuter"];
+}

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message photoInfo {
-  repeated string temp_photo_keys = 1;
+	repeated string tempPhotoKeys = 1 [json_name = "tempPhotoKeys"];
 }
-

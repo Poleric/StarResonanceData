@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_profession_skill_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message DutyInfo {
+	map<int32, ProfessionSkillInfo> dutySkillInfoMap = 1 [json_name = "dutySkillInfoMap"];
+	map<int32, int32> dutySkillSlotInfoMap = 2 [json_name = "dutySkillSlotInfoMap"];
+}

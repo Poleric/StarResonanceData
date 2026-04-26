@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_match_mode.proto";
 import "enum_e_match_strategy.proto";
 import "stru_match_key_info.proto";
 import "stru_match_player_info.proto";
 import "google/protobuf/any.proto";
 
-message MatchParamContext {
-  zproto.EMatchMode match_mode = 1;
-  string match_token = 4;
-  int64 team_id = 5;
-  zproto.EMatchStrategy match_strategy = 6;
-  google.protobuf.Any match_strategy_param = 7;
-  zproto.MatchKeyInfo match_key_info = 8;
-  string match_grain_key = 9;
-  zproto.MatchPlayerInfo match_player_info = 10;
-  int32 dungeon_id = 11;
-}
+package zproto;
 
+message MatchParamContext {
+	EMatchMode matchMode = 1 [json_name = "matchMode"];
+	string matchToken = 4 [json_name = "matchToken"];
+	int64 teamId = 5 [json_name = "teamId"];
+	EMatchStrategy matchStrategy = 6 [json_name = "matchStrategy"];
+	google.protobuf.Any matchStrategyParam = 7 [json_name = "matchStrategyParam"];
+	MatchKeyInfo matchKeyInfo = 8 [json_name = "matchKeyInfo"];
+	string matchGrainKey = 9 [json_name = "matchGrainKey"];
+	MatchPlayerInfo matchPlayerInfo = 10 [json_name = "matchPlayerInfo"];
+	int32 dungeonId = 11 [json_name = "dungeonId"];
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_blue_print_share_data.proto";
+import "enum_e_error_code.proto";
+
+package zproto;
+
+message UseBluePrintShareCodeReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	BluePrintShareData bluePrintData = 2 [json_name = "bluePrintData"];
+}

@@ -3,13 +3,12 @@ syntax = "proto3";
 package bokura;
 
 message BugReportFilterTableBase {
-  int32 id = 1463;
-  string filter_str = 1290;
-  string match_str = 1467;
-  string desc = 1953;
+	int32 Id = 1463 [json_name = "Id"];
+	string FilterStr = 1290 [json_name = "FilterStr"];
+	string MatchStr = 1467 [json_name = "MatchStr"];
+	string Desc = 1953 [json_name = "Desc"];
 }
 
 message BugReportFilterTableMgr {
-  map<int32, bokura.BugReportFilterTableBase> datas = 1;
+	map<int32, BugReportFilterTableBase> datas = 1 [json_name = "datas"];
 }
-

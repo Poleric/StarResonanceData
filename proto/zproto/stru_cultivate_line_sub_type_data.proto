@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_cultivate_area_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message CultivateLineSubTypeData {
+	map<int32, CultivateAreaData> cultivateLineDataMap = 1 [json_name = "cultivateLineDataMap"];
+	repeated int32 cultivateLineAreaList = 2 [json_name = "cultivateLineAreaList"];
+}

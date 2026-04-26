@@ -3,15 +3,14 @@ syntax = "proto3";
 package zproto;
 
 message tempPhotoCacheInfo {
-  string id = 1;
-  string temp_photo = 2;
-  string temp_ori_photo = 3;
-  string temp_thumb_photo = 4;
-  uint64 shot_time = 5;
-  string shot_time_str = 6;
-  string shot_place = 7;
-  string decorate_data = 8;
-  uint32 height = 9;
-  uint32 width = 10;
+	string id = 1 [json_name = "id"];
+	string tempPhoto = 2 [json_name = "tempPhoto"];
+	string tempOriPhoto = 3 [json_name = "tempOriPhoto"];
+	string tempThumbPhoto = 4 [json_name = "tempThumbPhoto"];
+	uint64 shotTime = 5 [json_name = "shotTime"];
+	string shotTimeStr = 6 [json_name = "shotTimeStr"];
+	string shotPlace = 7 [json_name = "shotPlace"];
+	string decorateData = 8 [json_name = "decorateData"];
+	uint32 height = 9 [json_name = "height"];
+	uint32 width = 10 [json_name = "width"];
 }
-

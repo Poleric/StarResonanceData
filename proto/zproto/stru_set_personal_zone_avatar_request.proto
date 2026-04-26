@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message SetPersonalZoneAvatarRequest {
-  int32 avatar_id = 1;
+	int32 avatarId = 1 [json_name = "avatarId"];
 }
-

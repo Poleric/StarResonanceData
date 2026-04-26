@@ -1,0 +1,62 @@
+{
+  "101": {
+    "Id": 101,
+    "SkillId": 6518,
+    "ItemId": 1056002,
+    "SkillRelation": 802
+  },
+  "102": {
+    "Id": 102,
+    "SkillId": 6522,
+    "ItemId": 1056006,
+    "SkillRelation": 802
+  },
+  "103": {
+    "Id": 103,
+    "SkillId": 6523,
+    "ItemId": 1056007,
+    "SkillRelation": 802
+  },
+  "104": {
+    "Id": 104,
+    "SkillId": 6527,
+    "ItemId": 1056001,
+    "SkillRelation": 802
+  },
+  "105": {
+    "Id": 105,
+    "SkillId": 6528,
+    "ItemId": 1056005,
+    "SkillRelation": 802
+  },
+  "201": {
+    "Id": 201,
+    "SkillId": 6507,
+    "ItemId": 1056017,
+    "SkillRelation": 801
+  },
+  "202": {
+    "Id": 202,
+    "SkillId": 6508,
+    "ItemId": 1056018,
+    "SkillRelation": 801
+  },
+  "203": {
+    "Id": 203,
+    "SkillId": 6514,
+    "ItemId": 1056013,
+    "SkillRelation": 801
+  },
+  "204": {
+    "Id": 204,
+    "SkillId": 6515,
+    "ItemId": 1056014,
+    "SkillRelation": 801
+  },
+  "205": {
+    "Id": 205,
+    "SkillId": 6516,
+    "ItemId": 1056015,
+    "SkillRelation": 801
+  }
+}

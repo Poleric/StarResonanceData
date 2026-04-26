@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "enum_e_picture_type.proto";
 import "stru_award_data.proto";
@@ -13,8 +11,12 @@ import "stru_driver_apply_ride_param.proto";
 import "stru_dungeon_ready_info.proto";
 import "stru_dungeon_sync_data.proto";
 import "stru_enter_match_result_ntf_request.proto";
+import "stru_entry_random_data_param.proto";
 import "stru_invite_apply_ride_param.proto";
+import "stru_mahjong_end_ntf_request.proto";
+import "stru_mahjong_start_ntf_request.proto";
 import "stru_notice_info.proto";
+import "stru_notice_multi_language_info.proto";
 import "stru_notify_all_source_privilege_effect_data.proto";
 import "stru_notify_all_valid_battle_pass_data.proto";
 import "stru_notify_award_all_item_info.proto";
@@ -40,245 +42,266 @@ import "stru_tips_info.proto";
 import "stru_unlock_cook_book_info.proto";
 import "stru_world_boss_rank_info_param.proto";
 
+package zproto;
+
 message WorldNtf {
+	message SyncPioneerInfo {
+		uint32 targetId = 1 [json_name = "targetId"];
+		uint32 targetNum = 2 [json_name = "targetNum"];
+	}
 
-  message SyncPioneerInfo {
-    uint32 target_id = 1;
-    uint32 target_num = 2;
-  }
+	message SyncSwitchChange {
+		uint32 id = 1 [json_name = "id"];
+		uint32 onOff = 2 [json_name = "onOff"];
+	}
 
-  message SyncSwitchChange {
-    uint32 id = 1;
-    uint32 on_off = 2;
-  }
+	message SyncSwitchInfo {
+		SwitchInfo info = 1 [json_name = "info"];
+	}
 
-  message SyncSwitchInfo {
-    zproto.SwitchInfo info = 1;
-  }
+	message SyncContainerData {
+		CharSerialize vData = 1 [json_name = "vData"];
+	}
 
-  message SyncContainerData {
-    zproto.CharSerialize v_data = 1;
-  }
+	message SyncDungeonData {
+		DungeonSyncData vData = 1 [json_name = "vData"];
+	}
 
-  message SyncDungeonData {
-    zproto.DungeonSyncData v_data = 1;
-  }
+	message AwardNotify {
+		AwardData award = 1 [json_name = "award"];
+	}
 
-  message AwardNotify {
-    zproto.AwardData award = 1;
-  }
+	message CardInfoAck {
+		int64 charId = 1 [json_name = "charId"];
+		CardInfo info = 2 [json_name = "info"];
+	}
 
-  message CardInfoAck {
-    int64 char_id = 1;
-    zproto.CardInfo info = 2;
-  }
+	message SyncSeason {
+		int32 vSeason = 1 [json_name = "vSeason"];
+	}
 
-  message SyncSeason {
-    int32 v_season = 1;
-  }
+	message UserAction {
+		int64 vCharId = 1 [json_name = "vCharId"];
+		int32 vActionId = 2 [json_name = "vActionId"];
+	}
 
-  message UserAction {
-    int64 v_char_id = 1;
-    int32 v_action_id = 2;
-  }
+	message NotifyDisplayPlayHelp {
+		int32 vPlayHelpId = 1 [json_name = "vPlayHelpId"];
+	}
 
-  message NotifyDisplayPlayHelp {
-    int32 v_play_help_id = 1;
-  }
+	message NotifyApplicationInteraction {
+		int64 vOrigId = 1 [json_name = "vOrigId"];
+		int32 vActionId = 2 [json_name = "vActionId"];
+	}
 
-  message NotifyApplicationInteraction {
-    int64 v_orig_id = 1;
-    int32 v_action_id = 2;
-  }
+	message NotifyIsAgree {
+		int64 vInviteeId = 1 [json_name = "vInviteeId"];
+		int32 vActionId = 2 [json_name = "vActionId"];
+		bool vIsAgree = 3 [json_name = "vIsAgree"];
+	}
 
-  message NotifyIsAgree {
-    int64 v_invitee_id = 1;
-    int32 v_action_id = 2;
-    bool v_is_agree = 3;
-  }
+	message NotifyCancelAction {
+		int64 vCancelCharId = 1 [json_name = "vCancelCharId"];
+	}
 
-  message NotifyCancelAction {
-    int64 v_cancel_char_id = 1;
-  }
+	message NotifyUploadPictureResult {
+		bool success = 1 [json_name = "success"];
+		EPictureType photoType = 2 [json_name = "photoType"];
+		uint32 photoId = 3 [json_name = "photoId"];
+		string photoName = 4 [json_name = "photoName"];
+	}
 
-  message NotifyUploadPictureResult {
-    bool success = 1;
-    zproto.EPictureType photo_type = 2;
-    uint32 photo_id = 3;
-    string photo_name = 4;
-  }
+	message SyncInvite {
+		SyncInviteRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message SyncInvite {
-    zproto.SyncInviteRequest v_request = 1;
-  }
+	message NotifyRedDotChange {
+		int32 vRedDotId = 1 [json_name = "vRedDotId"];
+		int32 vValue = 2 [json_name = "vValue"];
+	}
 
-  message NotifyRedDotChange {
-    int32 v_red_dot_id = 1;
-    int32 v_value = 2;
-  }
+	message ChangeNameResultNtf {
+		int32 vCode = 1 [json_name = "vCode"];
+	}
 
-  message ChangeNameResultNtf {
-    int32 v_code = 1;
-  }
+	message NotifyReviveUser {
+		int64 vActorUuid = 1 [json_name = "vActorUuid"];
+	}
 
-  message NotifyReviveUser {
-    int64 v_actor_uuid = 1;
-  }
+	message NotifyParkourRankInfo {
+		int32 vRankId = 1 [json_name = "vRankId"];
+	}
 
-  message NotifyParkourRankInfo {
-    int32 v_rank_id = 1;
-  }
+	message NotifyParkourRecordInfo {
+		int32 result = 1 [json_name = "result"];
+		ParkourRecord vRecord = 2 [json_name = "vRecord"];
+	}
 
-  message NotifyParkourRecordInfo {
-    int32 result = 1;
-    zproto.ParkourRecord v_record = 2;
-  }
+	message NotifyShowTips {
+		TipsInfo vTips = 1 [json_name = "vTips"];
+	}
 
-  message NotifyShowTips {
-    zproto.TipsInfo v_tips = 1;
-  }
+	message NotifyNoticeInfo {
+		NoticeInfo vInfo = 1 [json_name = "vInfo"];
+	}
 
-  message NotifyNoticeInfo {
-    zproto.NoticeInfo v_info = 1;
-  }
+	message NotifyClientKickOff {
+		EErrorCode errCode = 1 [json_name = "errCode"];
+	}
 
-  message NotifyClientKickOff {
-    zproto.EErrorCode err_code = 1;
-  }
+	message PaymentResponse {
+		PaymentResult vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message PaymentResponse {
-    zproto.PaymentResult v_request = 1;
-  }
+	message NotifyUnlockCookBook {
+		UnlockCookBookInfo vInfo = 1 [json_name = "vInfo"];
+	}
 
-  message NotifyUnlockCookBook {
-    zproto.UnlockCookBookInfo v_info = 1;
-  }
+	message NotifyCustomEvent {
+		ClientCustomEventParams eventParams = 1 [json_name = "eventParams"];
+	}
 
-  message NotifyCustomEvent {
-    zproto.ClientCustomEventParams event_params = 1;
-  }
+	message NotifyStartPlayingDungeon {
+		StartPlayingDungeonParam vParam = 1 [json_name = "vParam"];
+	}
 
-  message NotifyStartPlayingDungeon {
-    zproto.StartPlayingDungeonParam v_param = 1;
-  }
+	message ChangeShowIdResultNtf {
+		EErrorCode errCode = 1 [json_name = "errCode"];
+	}
 
-  message ChangeShowIdResultNtf {
-    zproto.EErrorCode err_code = 1;
-  }
+	message NotifyShowItems {
+		ShowItemsInfo vInfo = 1 [json_name = "vInfo"];
+	}
 
-  message NotifyShowItems {
-    zproto.ShowItemsInfo v_info = 1;
-  }
+	message NotifySeasonActivationTargetInfo {
+		int32 vSeasonId = 1 [json_name = "vSeasonId"];
+		bool isRefresh = 2 [json_name = "isRefresh"];
+	}
 
-  message NotifySeasonActivationTargetInfo {
-    int32 v_season_id = 1;
-    bool is_refresh = 2;
-  }
+	message NotifyTextCheckResult {
+		EErrorCode errCode = 1 [json_name = "errCode"];
+	}
 
-  message NotifyTextCheckResult {
-    zproto.EErrorCode err_code = 1;
-  }
+	message NotifyDebugMessageTip {
+		DebugMessageTipInfo vInfo = 1 [json_name = "vInfo"];
+	}
 
-  message NotifyDebugMessageTip {
-    zproto.DebugMessageTipInfo v_info = 1;
-  }
+	message NotifyUserCloseFunction {
+		NotifyFunctionParams vParam = 1 [json_name = "vParam"];
+	}
 
-  message NotifyUserCloseFunction {
-    zproto.NotifyFunctionParams v_param = 1;
-  }
+	message NotifyServerCloseFunction {
+		NotifyFunctionParams vParam = 1 [json_name = "vParam"];
+	}
 
-  message NotifyServerCloseFunction {
-    zproto.NotifyFunctionParams v_param = 1;
-  }
+	message NotifyAwardAllItems {
+		NotifyAwardAllItemInfo vAllItem = 1 [json_name = "vAllItem"];
+	}
 
-  message NotifyAwardAllItems {
-    zproto.NotifyAwardAllItemInfo v_all_item = 1;
-  }
+	message NotifyAllMemberReady {
+		bool vOpenOrClose = 1 [json_name = "vOpenOrClose"];
+	}
 
-  message NotifyAllMemberReady {
-    bool v_open_or_close = 1;
-  }
+	message NotifyCaptainReady {
+		string vMemberName = 1 [json_name = "vMemberName"];
+		int64 vCharId = 2 [json_name = "vCharId"];
+		DungeonReadyInfo vReadyInfo = 3 [json_name = "vReadyInfo"];
+	}
 
-  message NotifyCaptainReady {
-    string v_member_name = 1;
-    int64 v_char_id = 2;
-    zproto.DungeonReadyInfo v_ready_info = 3;
-  }
+	message NotifyUserAllSourcePrivilegeEffectData {
+		NotifyAllSourcePrivilegeEffectData vAllPrivilegeEffects = 1 [json_name = "vAllPrivilegeEffects"];
+	}
 
-  message NotifyUserAllSourcePrivilegeEffectData {
-    zproto.NotifyAllSourcePrivilegeEffectData v_all_privilege_effects = 1;
-  }
+	message NotifyQuestAccept {
+		NotifyQuestAcceptParam vParam = 1 [json_name = "vParam"];
+	}
 
-  message NotifyQuestAccept {
-    zproto.NotifyQuestAcceptParam v_param = 1;
-  }
+	message NotifyQuestChangeStep {
+		NotifyQuestChangeStepParam vParam = 1 [json_name = "vParam"];
+	}
 
-  message NotifyQuestChangeStep {
-    zproto.NotifyQuestChangeStepParam v_param = 1;
-  }
+	message NotifyQuestGiveUp {
+		NotifyQuestGiveUpParam vParam = 1 [json_name = "vParam"];
+	}
 
-  message NotifyQuestGiveUp {
-    zproto.NotifyQuestGiveUpParam v_param = 1;
-  }
+	message NotifyQuestComplete {
+		NotifyQuestCompleteParam vParam = 1 [json_name = "vParam"];
+	}
 
-  message NotifyQuestComplete {
-    zproto.NotifyQuestCompleteParam v_param = 1;
-  }
+	message NotifyUserAllValidBattlePassData {
+		NotifyAllValidBattlePassData validBattlePassData = 1 [json_name = "validBattlePassData"];
+	}
 
-  message NotifyUserAllValidBattlePassData {
-    zproto.NotifyAllValidBattlePassData valid_battle_pass_data = 1;
-  }
+	message NotifyNoticeMultiLanguageInfo {
+		NoticeMultiLanguageInfo vInfo = 1 [json_name = "vInfo"];
+	}
 
-  message QteBegin {
-    uint32 qte_id = 1;
-  }
+	message QteBegin {
+		uint32 qteId = 1 [json_name = "qteId"];
+	}
 
-  message QuestAbort {
-    int32 quest_id = 1;
-  }
+	message QuestAbort {
+		int32 questId = 1 [json_name = "questId"];
+	}
 
-  message NotifyBuyShopResult {
-    zproto.NotifyBuyShopResultParam param = 1;
-  }
+	message NotifyBuyShopResult {
+		NotifyBuyShopResultParam param = 1 [json_name = "param"];
+	}
 
-  message NotifyShopItemCanBuy {
-    zproto.NotifyShopItemCanBuyParam param = 1;
-  }
+	message NotifyShopItemCanBuy {
+		NotifyShopItemCanBuyParam param = 1 [json_name = "param"];
+	}
 
-  message WorldBossRankInfoNtf {
-    zproto.WorldBossRankInfoParam rank_info = 1;
-  }
+	message WorldBossRankInfoNtf {
+		WorldBossRankInfoParam rankInfo = 1 [json_name = "rankInfo"];
+	}
 
-  message EnterMatchResultNtf {
-    zproto.EnterMatchResultNtfRequest v_request = 1;
-  }
+	message EnterMatchResultNtf {
+		EnterMatchResultNtfRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyDriverApplyRide {
-    zproto.DriverApplyRideParam param = 1;
-  }
+	message NotifyDriverApplyRide {
+		DriverApplyRideParam param = 1 [json_name = "param"];
+	}
 
-  message NotifyInviteApplyRide {
-    zproto.InviteApplyRideParam param = 1;
-  }
+	message NotifyInviteApplyRide {
+		InviteApplyRideParam param = 1 [json_name = "param"];
+	}
 
-  message NotifyRideIsAgree {
-    zproto.NotifyRideIsAgreeParam param = 1;
-  }
+	message NotifyRideIsAgree {
+		NotifyRideIsAgreeParam param = 1 [json_name = "param"];
+	}
 
-  message NotifyPayInfo {
-    zproto.NotifyPayParam param = 1;
-  }
+	message NotifyPayInfo {
+		NotifyPayParam param = 1 [json_name = "param"];
+	}
 
-  message NotifyLifeProfessionWorkHistoryChange {
-    zproto.NotifyLifeProfessionWorkHistoryChangeInfo info = 1;
-  }
+	message NotifyLifeProfessionWorkHistoryChange {
+		NotifyLifeProfessionWorkHistoryChangeInfo info = 1 [json_name = "info"];
+	}
 
-  message NotifyLifeProfessionUnlockRecipe {
-    zproto.NotifyLifeProfessionUnlockRecipeInfo info = 1;
-  }
+	message NotifyLifeProfessionUnlockRecipe {
+		NotifyLifeProfessionUnlockRecipeInfo info = 1 [json_name = "info"];
+	}
 
-  message SignRewardNotify {
-    zproto.SignRewardNotifyRequest v_request = 1;
-  }
+	message SignRewardNotify {
+		SignRewardNotifyRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message MahjongStartNtf {
+		MahjongStartNtfRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message MahjongEndNtf {
+		MahjongEndNtfRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message NotifyEntryRandomData {
+		EntryRandomDataParam param = 1 [json_name = "param"];
+	}
+
+	message NotifyPlayDataAttackInfo {
+		int64 vAttacker = 1 [json_name = "vAttacker"];
+		int64 vVictim = 2 [json_name = "vVictim"];
+	}
 }
-

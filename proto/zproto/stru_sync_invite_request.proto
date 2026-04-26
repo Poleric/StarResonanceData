@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message SyncInviteRequest {
-  int64 invite_id = 1;
-  string invite_name = 2;
-  string union_name = 3;
-  uint64 union_id = 4;
+	int64 InviteId = 1 [json_name = "InviteId"];
+	string inviteName = 2 [json_name = "inviteName"];
+	string unionName = 3 [json_name = "unionName"];
+	uint64 unionId = 4 [json_name = "unionId"];
 }
-

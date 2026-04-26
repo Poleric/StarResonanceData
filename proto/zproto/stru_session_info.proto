@@ -3,12 +3,11 @@ syntax = "proto3";
 package zproto;
 
 message SessionInfo {
-  uint32 peer_id = 1;
-  int64 char_id = 2;
-  string account_id = 3;
-  uint64 trace_id = 4;
-  string remote_ip = 5;
-  string agent_guid = 6;
-  bool is_robot = 7;
+	uint32 peerId = 1 [json_name = "peerId"];
+	int64 charId = 2 [json_name = "charId"];
+	string accountId = 3 [json_name = "accountId"];
+	uint64 traceId = 4 [json_name = "traceId"];
+	string remoteIp = 5 [json_name = "remoteIp"];
+	string agentGuid = 6 [json_name = "agentGuid"];
+	bool isRobot = 7 [json_name = "isRobot"];
 }
-

@@ -1,18 +1,16 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_notify_show_tips_request.proto";
 import "stru_notify_social_data_request.proto";
 
+package zproto;
+
 message SocialNtf {
+	message NotifySocialData {
+		NotifySocialDataRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifySocialData {
-    zproto.NotifySocialDataRequest v_request = 1;
-  }
-
-  message NotifyShowTips {
-    zproto.NotifyShowTipsRequest v_request = 1;
-  }
+	message NotifyShowTips {
+		NotifyShowTipsRequest vRequest = 1 [json_name = "vRequest"];
+	}
 }
-

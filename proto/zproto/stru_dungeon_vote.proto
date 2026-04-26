@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message DungeonVote {
-  map<int64, int32> vote = 1;
-}
+package zproto;
 
+message DungeonVote {
+	map<int64, int32> vote = 1 [json_name = "vote"];
+}

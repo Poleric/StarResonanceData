@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_action_group_track.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ActionGroupInfo {
+	int32 actionGroupId = 1 [json_name = "actionGroupId"];
+	float duration = 2 [json_name = "duration"];
+	repeated ActionGroupTrack lineList = 3 [json_name = "lineList"];
+}

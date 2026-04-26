@@ -54,7 +54,7 @@
       10031
     ],
     "CompletionConditions": [],
-    "ThemeIntroduction": "The artisans of Asterleeds are the main suspects in the Void Mist outbreak during the Knighting Ceremony. To identify the mastermind, we need to discover exactly how the Artisan Guild's safe was opened...",
+    "ThemeIntroduction": "The artisans of Asterleeds are the main suspects in the Void Engram outbreak during the Knighting Ceremony. To identify the mastermind, we need to discover exactly how the Artisan Guild's safe was opened...",
     "IockedTips": "Complete quest <style=\"emph-quest\">Tread upon the heavy land of no return</style> to unlock",
     "ThemePic": "ui/textures/investigation/investigation_clue02",
     "Guarantee": 3,
@@ -120,22 +120,22 @@
     "Guarantee": 3,
     "IsHidePlayerModel": true
   },
-  "3001": {
-    "Id": 3001,
-    "InvestigationTheme": "The storm is coming",
+  "2001": {
+    "Id": 2001,
+    "InvestigationTheme": "Mysterious Sea Lily Intel",
     "UnlockCondition": [
       [
         2,
-        30205,
-        30205005
+        186521,
+        186521003
       ]
     ],
     "InvestigationStep": [
-      30011
+      20011
     ],
     "CompletionConditions": [],
-    "ThemeIntroduction": "Through Carter, we finally understood part of the truth. Roy's disappearance must not be that simple, and the most crucial key to breaking the situation must be hidden somewhere...",
-    "IockedTips": "Complete the quest <style=\"emph-quest\">Susan by the Sea (Part 3)</style> to unlock the investigation",
+    "ThemeIntroduction": "A mysterious bouquet of Sea Lilies appeared under the big tree in Lallipar. Try to gather intelligence related to it.",
+    "IockedTips": "Advance Quest <style=\"emph-quest\">Gather Intelligence</style> to unlock the investigation.",
     "ThemePic": "ui/textures/investigation/investigation_common_bg",
     "Guarantee": 3,
     "IsHidePlayerModel": false
@@ -155,7 +155,27 @@
     ],
     "CompletionConditions": [],
     "ThemeIntroduction": "Who exactly is the \"Seabreeze Girl\" mentioned by Saphir? Although we have made some discoveries, Saphir's description is still too vague. I need to organize my thoughts.",
-    "IockedTips": "Complete the quest <style=\"emph-quest\">Borrow the name from Sea breeze</style> to unlock the investigation",
+    "IockedTips": "Complete the quest <style=\"emph-quest\">Borrow the name from Seabreeze</style> to unlock the investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "3001": {
+    "Id": 3001,
+    "InvestigationTheme": "The storm is coming",
+    "UnlockCondition": [
+      [
+        2,
+        30205,
+        30205005
+      ]
+    ],
+    "InvestigationStep": [
+      30011
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Through Carter, we finally understood part of the truth. Roy's disappearance must not be that simple, and the most crucial key to breaking the situation must be hidden somewhere...",
+    "IockedTips": "Complete the quest <style=\"emph-quest\">Susan by the Sea (Part III)</style> to unlock the investigation",
     "ThemePic": "ui/textures/investigation/investigation_common_bg",
     "Guarantee": 3,
     "IsHidePlayerModel": false
@@ -196,6 +216,166 @@
     "CompletionConditions": [],
     "ThemeIntroduction": "To find the mysterious Forbidden Zone of Kanamia, you put on their attire and began your secret investigation under the cover of night.",
     "IockedTips": "Advance <style=\"emph-quest\">Infiltrate the Kanamia Tribe</style> to unlock Investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "5001": {
+    "Id": 5001,
+    "InvestigationTheme": "Lost in Nightmares at the Border",
+    "UnlockCondition": [
+      [
+        2,
+        185592,
+        185592004
+      ]
+    ],
+    "InvestigationStep": [
+      50011
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Those traveling from the Plains to the Highlands have all fallen into nightmares. Piece the clues together...",
+    "IockedTips": "Advance the quest <style=\"emph-quest\">Prelude of Crimson</style> to unlock Investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "7001": {
+    "Id": 7001,
+    "InvestigationTheme": "Find Starsoul Flasks",
+    "UnlockCondition": [
+      [
+        2,
+        10702,
+        10702001
+      ]
+    ],
+    "InvestigationStep": [
+      70011
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "To investigate the root of Engram disturbance at the Mining Cave, we'll need Darya's help. But her condition? Bring her 500 Starsoul Flasks—not an easy task. We'll need to piece together how to gather that many from the clues provided by the Pilgrims.",
+    "IockedTips": "Complete <style=\"emph-quest\">\"There's Another Way\"</style> to unlock investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "8001": {
+    "Id": 8001,
+    "InvestigationTheme": "The Secret in the Shift Schedule",
+    "UnlockCondition": [
+      [
+        2,
+        10801,
+        10801021
+      ]
+    ],
+    "InvestigationStep": [
+      80011
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "The internal unrest within the Blackstone Legion is worse than expected. Klaus, Commander of the squad, has gone missing. <br>To find his whereabouts, Boyce suggests searching for clues in the Shift Schedule.",
+    "IockedTips": "Advance <style=\"emph-quest\">Each Step Is Meant to Be</style> to unlock investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "9001": {
+    "Id": 9001,
+    "InvestigationTheme": "Nevelle's Secret",
+    "UnlockCondition": [
+      [
+        2,
+        185703,
+        185703004
+      ]
+    ],
+    "InvestigationStep": [
+      90011
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Despite being a caravan member, Nevelle somehow has Crimson Marrow on hand. A little pressure, and he immediately fled in panic. Things aren't that simple. Blackstone soldiers were secretly helping him. What kind of scheme is hidden behind all this...",
+    "IockedTips": "Advance <style=\"emph-quest\">\"When Doubt Became Certainty\"</style> to unlock investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "10001": {
+    "Id": 10001,
+    "InvestigationTheme": "Does the Berry Fruit really exist?",
+    "UnlockCondition": [
+      [
+        2,
+        40501,
+        40501022
+      ]
+    ],
+    "InvestigationStep": [
+      100011
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "The plight of the Blackstone Legion Soldiers has caused Darya to doubt the existence of the Berry Fruit. <br>Please analyze the truth based on the clues investigated previously.",
+    "IockedTips": "Advance Quest <style=\"emph-quest\">A Berry Wonderful Adventure</style> to unlock the investigation.",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "10002": {
+    "Id": 10002,
+    "InvestigationTheme": "Is the Berry Fruit just a rumor?",
+    "UnlockCondition": [
+      [
+        2,
+        40501,
+        40501053
+      ]
+    ],
+    "InvestigationStep": [
+      100021
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "A series of news has led Darya to start suspecting the authenticity of the Berry Fruit. <br>Please analyze the truth based on the clues investigated previously.",
+    "IockedTips": "Advance Quest <style=\"emph-quest\">A Berry Wonderful Adventure</style> to unlock the investigation.",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "10004": {
+    "Id": 10004,
+    "InvestigationTheme": "Find the \"List\"",
+    "UnlockCondition": [
+      [
+        2,
+        20025,
+        20025062
+      ]
+    ],
+    "InvestigationStep": [
+      100041
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Traces of interrogation and dragging remain in the reflection room. This is obviously not the end of the mystery. However, the whereabouts of the \"List\" might be hidden within these clues...",
+    "IockedTips": "Advance Quest <style=\"emph-quest\">Throne Without a Crown</style> to unlock the investigation.",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "10003": {
+    "Id": 10003,
+    "InvestigationTheme": "The Miners' Situation",
+    "UnlockCondition": [
+      [
+        2,
+        20026,
+        20026010
+      ]
+    ],
+    "InvestigationStep": [
+      100031
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Are the miners willing to leave this place and return to Asterleeds? <br>Please analyze the truth based on the clues investigated previously.",
+    "IockedTips": "Advance Quest <style=\"emph-quest\">Homeward</style> to unlock the investigation.",
     "ThemePic": "ui/textures/investigation/investigation_common_bg",
     "Guarantee": 3,
     "IsHidePlayerModel": false

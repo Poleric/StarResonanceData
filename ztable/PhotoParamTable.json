@@ -214,5 +214,815 @@
       "y": 180.0
     },
     "TargetId": []
+  },
+  "90101": {
+    "Id": 90101,
+    "Des": "Overlooking Fallen River",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90102": {
+    "Id": 90102,
+    "Des": "Thunderfall",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90103": {
+    "Id": 90103,
+    "Des": "Heavensbane Spire",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90104": {
+    "Id": 90104,
+    "Des": "Old Dwelling",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90105": {
+    "Id": 90105,
+    "Des": "Fallen River Rock Chamber",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90106": {
+    "Id": 90106,
+    "Des": "Inverted Illusory Bloom",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90107": {
+    "Id": 90107,
+    "Des": "Rock Blooming from a Crevice",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90108": {
+    "Id": 90108,
+    "Des": "Lallipar",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90109": {
+    "Id": 90109,
+    "Des": "Pillar of Divinity",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90110": {
+    "Id": 90110,
+    "Des": "Mine Crane",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90111": {
+    "Id": 90111,
+    "Des": "Field of the Forgotten",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90112": {
+    "Id": 90112,
+    "Des": "Mine Pass",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90113": {
+    "Id": 90113,
+    "Des": "Windmill at the Transport Station",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90114": {
+    "Id": 90114,
+    "Des": "Village by the Rails",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90115": {
+    "Id": 90115,
+    "Des": "Steel Beast of the Transport Station",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90116": {
+    "Id": 90116,
+    "Des": "Garrison Outpost",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90117": {
+    "Id": 90117,
+    "Des": "Upper Mustard Tavern",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90118": {
+    "Id": 90118,
+    "Des": "Lower Mustard Tavern",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90119": {
+    "Id": 90119,
+    "Des": "A Corner of the Transport Station",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90120": {
+    "Id": 90120,
+    "Des": "Illusory Bloom Under the Pillar of Divinity",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90121": {
+    "Id": 90121,
+    "Des": "The Mending Mines",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90122": {
+    "Id": 90122,
+    "Des": "Forget, Then Grow",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90123": {
+    "Id": 90123,
+    "Des": "Illusory Bloom in the Underground Mine",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90124": {
+    "Id": 90124,
+    "Des": "Mirage Nappo",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90125": {
+    "Id": 90125,
+    "Des": "Rails in the Transfer Zone",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90126": {
+    "Id": 90126,
+    "Des": "The Undercity",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90127": {
+    "Id": 90127,
+    "Des": "Deep Mining Zone",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90128": {
+    "Id": 90128,
+    "Des": "Crystal Storage",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90129": {
+    "Id": 90129,
+    "Des": "Nature's Return",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "90130": {
+    "Id": 90130,
+    "Des": "Place of Silence",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110001": {
+    "Id": 110001,
+    "Des": "Starland Town Entrance",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110002": {
+    "Id": 110002,
+    "Des": "Aurora Stage",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110003": {
+    "Id": 110003,
+    "Des": "Boarlet Waltz",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110004": {
+    "Id": 110004,
+    "Des": "Eye of the Tides",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110005": {
+    "Id": 110005,
+    "Des": "Cherry Blossom Forest",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110006": {
+    "Id": 110006,
+    "Des": "Star Orbiter",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110007": {
+    "Id": 110007,
+    "Des": "Starland Club",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110008": {
+    "Id": 110008,
+    "Des": "Starlight",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110009": {
+    "Id": 110009,
+    "Des": "Heart-Shaped Pond",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110010": {
+    "Id": 110010,
+    "Des": "West Beach - Vacation Vibes",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110011": {
+    "Id": 110011,
+    "Des": "Ee-chan Drum Band",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110012": {
+    "Id": 110012,
+    "Des": "Aurora Stage",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110013": {
+    "Id": 110013,
+    "Des": "Nappo Minigame Zone",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110014": {
+    "Id": 110014,
+    "Des": "West Bridge - Beep-Beep Express",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
+  },
+  "110015": {
+    "Id": 110015,
+    "Des": "West Beach",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Angle": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "TargetId": []
   }
 }

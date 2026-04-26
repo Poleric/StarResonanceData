@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_speak_status.proto";
 
-message SetSpeakStatusRequest {
-  zproto.ESpeakStatus speak_status = 2;
-}
+package zproto;
 
+message SetSpeakStatusRequest {
+	ESpeakStatus speakStatus = 2 [json_name = "speakStatus"];
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message ResetAllNodesRequest {
+	int32 zoneId = 1 [json_name = "zoneId"];
+}

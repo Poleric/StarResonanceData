@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_match_player_show_info.proto";
+
+package zproto;
+
+message PlayerMahjongData {
+	int64 PlayerId = 1 [json_name = "PlayerId"];
+	bool IsRobot = 2 [json_name = "IsRobot"];
+	MatchPlayerShowInfo matchPlayerShowInfo = 3 [json_name = "matchPlayerShowInfo"];
+}

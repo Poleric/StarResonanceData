@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message InviteJoinGroupWithTencentRequest {
-  int64 union_id = 1;
-  string desc = 2;
-  string url = 3;
+	int64 unionId = 1 [json_name = "unionId"];
+	string desc = 2 [json_name = "desc"];
+	string url = 3 [json_name = "url"];
 }
-

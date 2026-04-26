@@ -1,25 +1,24 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_union_dance_history.proto";
 import "stru_union_history_active.proto";
 import "stru_user_union_hunt_info.proto";
 import "stru_dirty_mask.proto";
 
-message UserUnion {
-  int64 union_id = 1;
-  uint64 next_join_time = 2;
-  map<int64, uint64> req_union_times = 3;
-  bool join_flag = 4;
-  repeated int64 collected_ids = 5;
-  int64 active_award_reset_time = 6;
-  repeated int32 received_award_ids = 7;
-  repeated zproto.UnionHistoryActive history_active_points = 8;
-  int64 active_last_refresh_time = 9;
-  repeated int32 finish_daily_active_ids = 10;
-  uint64 leave_time = 11;
-  zproto.UnionDanceHistory dance_record = 13;
-  zproto.UserUnionHuntInfo user_union_hunt_info = 14;
-}
+package zproto;
 
+message UserUnion {
+	int64 unionId = 1 [json_name = "unionId"];
+	uint64 nextJoinTime = 2 [json_name = "nextJoinTime"];
+	map<int64, uint64> reqUnionTimes = 3 [json_name = "reqUnionTimes"];
+	bool joinFlag = 4 [json_name = "joinFlag"];
+	repeated int64 collectedIds = 5 [json_name = "collectedIds"];
+	int64 activeAwardResetTime = 6 [json_name = "activeAwardResetTime"];
+	repeated int32 receivedAwardIds = 7 [json_name = "receivedAwardIds"];
+	repeated UnionHistoryActive historyActivePoints = 8 [json_name = "historyActivePoints"];
+	int64 activeLastRefreshTime = 9 [json_name = "activeLastRefreshTime"];
+	repeated int32 finishDailyActiveIds = 10 [json_name = "finishDailyActiveIds"];
+	uint64 leaveTime = 11 [json_name = "leaveTime"];
+	UnionDanceHistory danceRecord = 13 [json_name = "danceRecord"];
+	UserUnionHuntInfo userUnionHuntInfo = 14 [json_name = "userUnionHuntInfo"];
+}

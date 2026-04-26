@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_team_member_type.proto";
 import "stru_team_mem_data.proto";
 import "stru_dirty_mask.proto";
 
-message CharTeam {
-  int64 team_id = 1;
-  int64 leader_id = 2;
-  uint32 team_target_id = 3;
-  uint32 team_num = 4;
-  repeated int64 char_ids = 5;
-  bool is_matching = 6;
-  int32 char_team_version = 7;
-  map<int64, zproto.TeamMemData> team_member_data = 8;
-  zproto.ETeamMemberType team_member_type = 9;
-}
+package zproto;
 
+message CharTeam {
+	int64 teamId = 1 [json_name = "teamId"];
+	int64 leaderId = 2 [json_name = "leaderId"];
+	uint32 teamTargetId = 3 [json_name = "teamTargetId"];
+	uint32 teamNum = 4 [json_name = "teamNum"];
+	repeated int64 charIds = 5 [json_name = "charIds"];
+	bool isMatching = 6 [json_name = "isMatching"];
+	int32 charTeamVersion = 7 [json_name = "charTeamVersion"];
+	map<int64, TeamMemData> teamMemberData = 8 [json_name = "teamMemberData"];
+	ETeamMemberType teamMemberType = 9 [json_name = "teamMemberType"];
+}

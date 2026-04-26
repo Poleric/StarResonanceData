@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_union_info.proto";
 
-message BindGroupWithTencentReply {
-  zproto.UnionInfo union_info = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message BindGroupWithTencentReply {
+	UnionInfo unionInfo = 1 [json_name = "unionInfo"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

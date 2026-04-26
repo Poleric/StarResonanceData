@@ -1,13 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_union_activity_target.proto";
 
-message UnionActivity {
-  int64 last_refresh_time = 1;
-  map<int32, zproto.UnionActivityTarget> union_targets = 2;
-  int64 next_award_time = 3;
-  map<int32, int64> next_refresh_time = 4;
-}
+package zproto;
 
+message UnionActivity {
+	int64 lastRefreshTime = 1 [json_name = "lastRefreshTime"];
+	map<int32, UnionActivityTarget> unionTargets = 2 [json_name = "unionTargets"];
+	int64 nextAwardTime = 3 [json_name = "nextAwardTime"];
+	map<int32, int64> nextRefreshTime = 4 [json_name = "nextRefreshTime"];
+	map<int64, int64> resetHistoryActivePoints = 5 [json_name = "resetHistoryActivePoints"];
+	int64 curPoint = 6 [json_name = "curPoint"];
+}

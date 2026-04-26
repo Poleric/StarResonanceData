@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_show_piece_pair.proto";
 
-message ShowPieceAttr {
-  zproto.ShowPiecePair piece_info = 1;
-  int64 begin_time = 2;
-  int64 end_time = 3;
-}
+package zproto;
 
+message ShowPieceAttr {
+	ShowPiecePair pieceInfo = 1 [json_name = "pieceInfo"];
+	int64 beginTime = 2 [json_name = "beginTime"];
+	int64 endTime = 3 [json_name = "endTime"];
+}

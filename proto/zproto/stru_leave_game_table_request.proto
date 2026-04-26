@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message LeaveGameTableRequest {
+	string tableGuid = 1 [json_name = "tableGuid"];
+}

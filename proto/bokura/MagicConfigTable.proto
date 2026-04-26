@@ -3,16 +3,15 @@ syntax = "proto3";
 package bokura;
 
 message MagicConfigTableBase {
-  int32 id = 1463;
-  string name = 439;
-  int32 type = 673;
-  int32 role_id = 100;
-  int32 weapon_id = 1694;
-  int32 model_type = 1034;
-  string be_hit_act = 786;
+	int32 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	int32 Type = 673 [json_name = "Type"];
+	int32 RoleID = 100 [json_name = "RoleID"];
+	int32 WeaponID = 1694 [json_name = "WeaponID"];
+	int32 ModelType = 1034 [json_name = "ModelType"];
+	string BeHitAct = 786 [json_name = "BeHitAct"];
 }
 
 message MagicConfigTableMgr {
-  map<int32, bokura.MagicConfigTableBase> datas = 1;
+	map<int32, MagicConfigTableBase> datas = 1 [json_name = "datas"];
 }
-

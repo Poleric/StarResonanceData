@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message GetFirstPayInfo {
-  map<int32, int32> ladder_pay_info = 1;
-  int32 extra_award_id = 2;
+	map<int32, int32> ladderPayInfo = 1 [json_name = "ladderPayInfo"];
+	int32 extraAwardID = 2 [json_name = "extraAwardID"];
 }
-

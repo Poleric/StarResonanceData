@@ -3,14 +3,13 @@ syntax = "proto3";
 package bokura;
 
 message CounterTableBase {
-  int64 id = 1463;
-  string name = 439;
-  int64 time_table_id = 56;
-  int32 refresh_num = 1376;
-  int32 limit = 640;
+	int64 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	int64 TimeTableId = 56 [json_name = "TimeTableId"];
+	int32 RefreshNum = 1376 [json_name = "RefreshNum"];
+	int32 Limit = 640 [json_name = "Limit"];
 }
 
 message CounterTableMgr {
-  map<int64, bokura.CounterTableBase> datas = 1;
+	map<int64, CounterTableBase> datas = 1 [json_name = "datas"];
 }
-

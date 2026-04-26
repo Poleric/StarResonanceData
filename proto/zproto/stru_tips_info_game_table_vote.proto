@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message TipsInfoGameTableVote {
+	int64 charId = 1 [json_name = "charId"];
+}

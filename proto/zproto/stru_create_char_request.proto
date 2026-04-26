@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_device_info.proto";
 import "stru_face_data_db.proto";
 
-message CreateCharRequest {
-  string token = 4;
-  string name = 5;
-  int32 gender = 6;
-  int32 v_body_size = 7;
-  zproto.FaceDataDb face_data = 9;
-  zproto.DeviceInfo device_info = 11;
-  int32 init_profession_id = 13;
-  int32 area_id = 14;
-}
+package zproto;
 
+message CreateCharRequest {
+	string token = 4 [json_name = "token"];
+	string name = 5 [json_name = "name"];
+	int32 gender = 6 [json_name = "gender"];
+	int32 vBodySize = 7 [json_name = "vBodySize"];
+	FaceDataDb faceData = 9 [json_name = "faceData"];
+	DeviceInfo deviceInfo = 11 [json_name = "deviceInfo"];
+	int32 initProfessionId = 13 [json_name = "initProfessionId"];
+	int32 areaId = 14 [json_name = "areaId"];
+}

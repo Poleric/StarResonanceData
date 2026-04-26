@@ -1,37 +1,36 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SceneObjectTableBase {
-  int32 id = 1463;
-  string name = 439;
-  int32 model_id = 2011;
-  int32 attribute_id = 1825;
-  bool export_voxel = 328;
-  string voxel_path = 434;
-  int32 default_camp = 1466;
-  bool is_show_hp = 36;
-  string sobj_be_hit = 55;
-  string sobj_born = 1868;
-  string sobj_death = 756;
-  bool is_climbable = 1889;
-  int32 scene_obj_type = 1290;
-  int32 end_state_id = 1069;
-  string born_effect = 1140;
-  string dead_effect = 346;
-  bool is_use_prefab_layer = 359;
-  int_table status_info = 1979;
-  int_table status_transition = 109;
-  int32 default_state = 1528;
-  int_table interaction_template = 1682;
-  string_array interaction_event = 1343;
-  int_table show_status_info = 1473;
-  int_table show_status_transition = 1771;
+	int32 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	int32 ModelID = 2011 [json_name = "ModelID"];
+	int32 AttributeId = 1825 [json_name = "AttributeId"];
+	bool ExportVoxel = 328 [json_name = "ExportVoxel"];
+	string VoxelPath = 434 [json_name = "VoxelPath"];
+	int32 DefaultCamp = 1466 [json_name = "DefaultCamp"];
+	bool IsShowHp = 36 [json_name = "IsShowHp"];
+	string SobjBeHit = 55 [json_name = "SobjBeHit"];
+	string SobjBorn = 1868 [json_name = "SobjBorn"];
+	string SobjDeath = 756 [json_name = "SobjDeath"];
+	bool IsClimbable = 1889 [json_name = "IsClimbable"];
+	int32 SceneObjType = 1290 [json_name = "SceneObjType"];
+	int32 EndStateId = 1069 [json_name = "EndStateId"];
+	string BornEffect = 1140 [json_name = "BornEffect"];
+	string DeadEffect = 346 [json_name = "DeadEffect"];
+	bool IsUsePrefabLayer = 359 [json_name = "IsUsePrefabLayer"];
+	int_table StatusInfo = 1979 [json_name = "StatusInfo"];
+	int_table StatusTransition = 109 [json_name = "StatusTransition"];
+	int32 DefaultState = 1528 [json_name = "DefaultState"];
+	int_table InteractionTemplate = 1682 [json_name = "InteractionTemplate"];
+	string_array InteractionEvent = 1343 [json_name = "InteractionEvent"];
+	int_table ShowStatusInfo = 1473 [json_name = "ShowStatusInfo"];
+	int_table ShowStatusTransition = 1771 [json_name = "ShowStatusTransition"];
 }
 
 message SceneObjectTableMgr {
-  map<int32, bokura.SceneObjectTableBase> datas = 1;
+	map<int32, SceneObjectTableBase> datas = 1 [json_name = "datas"];
 }
-

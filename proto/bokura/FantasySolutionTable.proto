@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FantasySolutionTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  mlstring des = 266;
-  int32 recommended_type = 1244;
-  int_array recommend_fantasy_list = 1541;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	mlstring Des = 266 [json_name = "Des"];
+	int32 RecommendedType = 1244 [json_name = "RecommendedType"];
+	int_array RecommendFantasyList = 1541 [json_name = "RecommendFantasyList"];
 }
 
 message FantasySolutionTableMgr {
-  map<int32, bokura.FantasySolutionTableBase> datas = 1;
+	map<int32, FantasySolutionTableBase> datas = 1 [json_name = "datas"];
 }
-

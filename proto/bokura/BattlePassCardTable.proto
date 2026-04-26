@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message BattlePassCardTableBase {
-  int32 id = 1463;
-  int32 battle_pass_card_id = 635;
-  int32 season_level = 719;
-  int32 season_exp = 1230;
-  int_array free_award = 1375;
-  int_array paid_award = 1100;
-  int32 key_award = 1219;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 BattlePassCardId = 635 [json_name = "BattlePassCardId"];
+	int32 SeasonLevel = 719 [json_name = "SeasonLevel"];
+	int32 SeasonExp = 1230 [json_name = "SeasonExp"];
+	int_array FreeAward = 1375 [json_name = "FreeAward"];
+	int_array PaidAward = 1100 [json_name = "PaidAward"];
+	int32 KeyAward = 1219 [json_name = "KeyAward"];
 }
 
 message BattlePassCardTableMgr {
-  map<int32, bokura.BattlePassCardTableBase> datas = 1;
+	map<int32, BattlePassCardTableBase> datas = 1 [json_name = "datas"];
 }
-

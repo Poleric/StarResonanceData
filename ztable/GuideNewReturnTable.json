@@ -1,0 +1,375 @@
+{
+  "1": {
+    "Id": 1,
+    "FunctionId": [],
+    "ShowType": 1,
+    "Title": "Navigation & Combos",
+    "Desc": "",
+    "QuickJumpId": [],
+    "Sort": 1
+  },
+  "2": {
+    "Id": 2,
+    "FunctionId": [],
+    "ShowType": 1,
+    "Title": "Navigation & Tracking",
+    "Desc": "Unlock Mount at Adventurer Lv.20. After equipping a mount, tap on a target to begin navigation!",
+    "QuickJumpId": [
+      1
+    ],
+    "Sort": 2
+  },
+  "3": {
+    "Id": 3,
+    "FunctionId": [],
+    "ShowType": 1,
+    "Title": "Auto Combo",
+    "Desc": "Auto Combo mode can be activated via a hotkey,<br>allowing the character to cast skills based on a preset logic. <br>In Auto Combo mode, you can still move, jump, and manually use skills without interrupting the auto combo. <br><br>Auto Combo settings are available.<br>Tap on skill icons to toggle their availability in auto-combos.",
+    "QuickJumpId": [
+      2
+    ],
+    "Sort": 3
+  },
+  "4": {
+    "Id": 4,
+    "FunctionId": [],
+    "ShowType": 4,
+    "Title": "Talent Points",
+    "Desc": "",
+    "QuickJumpId": [],
+    "Sort": 4
+  },
+  "5": {
+    "Id": 5,
+    "FunctionId": [],
+    "ShowType": 4,
+    "Title": "Talents",
+    "Desc": "The Talent system is the core mechanism that determines skill rotation and combat style. In the early game (Stage 1), basic talents help adventurers get familiar with the system. In Stage 2, you can choose a spec and develop it further.",
+    "QuickJumpId": [],
+    "Sort": 5
+  },
+  "6": {
+    "Id": 6,
+    "FunctionId": [],
+    "ShowType": 4,
+    "Title": "Talent Point Acquisition",
+    "Desc": "",
+    "QuickJumpId": [
+      3,
+      4,
+      5
+    ],
+    "Sort": 6
+  },
+  "7": {
+    "Id": 7,
+    "FunctionId": [],
+    "ShowType": 4,
+    "Title": "Seal Acquisition",
+    "Desc": "",
+    "QuickJumpId": [
+      6,
+      7,
+      8
+    ],
+    "Sort": 7
+  },
+  "8": {
+    "Id": 8,
+    "FunctionId": [],
+    "ShowType": 4,
+    "Title": "Talent Tips",
+    "Desc": "You can use \"Auto-Activate\" feature to quickly activate the recommended Talents. You can also view Spec details in Guide.",
+    "QuickJumpId": [],
+    "Sort": 8
+  },
+  "9": {
+    "Id": 9,
+    "FunctionId": [],
+    "ShowType": 9,
+    "Title": "Rose Orb (Bound)",
+    "Desc": "",
+    "QuickJumpId": [],
+    "Sort": 9
+  },
+  "10": {
+    "Id": 10,
+    "FunctionId": [],
+    "ShowType": 9,
+    "Title": "Rose Orb (Bound)",
+    "Desc": "Rose Orbs (Bound) are a basic currency used to purchase various items in the Store and the Bound Orb Store, including fashion appearances, selected growth items, leisure items, and emote vouchers.",
+    "QuickJumpId": [
+      9
+    ],
+    "Sort": 10
+  },
+  "11": {
+    "Id": 11,
+    "FunctionId": [],
+    "ShowType": 9,
+    "Title": "How to obtain:",
+    "Desc": "",
+    "QuickJumpId": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "Sort": 11
+  },
+  "12": {
+    "Id": 12,
+    "FunctionId": [],
+    "ShowType": 12,
+    "Title": "Luno",
+    "Desc": "",
+    "QuickJumpId": [],
+    "Sort": 12
+  },
+  "13": {
+    "Id": 13,
+    "FunctionId": [],
+    "ShowType": 12,
+    "Title": "Luno is a trading currency used for player-to-player transactions.",
+    "Desc": "",
+    "QuickJumpId": [
+      16
+    ],
+    "Sort": 13
+  },
+  "14": {
+    "Id": 14,
+    "FunctionId": [],
+    "ShowType": 12,
+    "Title": "How to obtain:",
+    "Desc": "",
+    "QuickJumpId": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "Sort": 14
+  },
+  "15": {
+    "Id": 15,
+    "FunctionId": [],
+    "ShowType": 15,
+    "Title": "Honor Coin",
+    "Desc": "",
+    "QuickJumpId": [],
+    "Sort": 15
+  },
+  "16": {
+    "Id": 16,
+    "FunctionId": [],
+    "ShowType": 15,
+    "Title": "Honor Coin",
+    "Desc": "Honor Coins are an important progression currency. They can be used in the Honor Coin Store to purchase items that enhance your power!",
+    "QuickJumpId": [
+      6
+    ],
+    "Sort": 16
+  },
+  "17": {
+    "Id": 17,
+    "FunctionId": [],
+    "ShowType": 15,
+    "Title": "How to obtain:",
+    "Desc": "",
+    "QuickJumpId": [
+      10,
+      11,
+      22,
+      19,
+      21,
+      23
+    ],
+    "Sort": 17
+  },
+  "18": {
+    "Id": 18,
+    "FunctionId": [
+      500230,
+      500231
+    ],
+    "ShowType": 18,
+    "Title": "Reclaim Hub",
+    "Desc": "",
+    "QuickJumpId": [],
+    "Sort": 18
+  },
+  "19": {
+    "Id": 19,
+    "FunctionId": [],
+    "ShowType": 18,
+    "Title": "Reclaim Token",
+    "Desc": "Asterleeds' special welfare currency! If you don't have enough points to redeem all of the week's compensatory rewards, you'll earn bonus Reclaim Tokens proportionally when earning Honor Coins through activities.",
+    "QuickJumpId": [
+      24
+    ],
+    "Sort": 19
+  },
+  "20": {
+    "Id": 20,
+    "FunctionId": [],
+    "ShowType": 18,
+    "Title": "Reclaim Hub",
+    "Desc": "Missed certain challenges or rewards? You can redeem some items in the Reclaim Hub using Reclaim Tokens.",
+    "QuickJumpId": [],
+    "Sort": 20
+  },
+  "21": {
+    "Id": 21,
+    "FunctionId": [],
+    "ShowType": 18,
+    "Title": "Reclaim Hub Items",
+    "Desc": "The Reclaim Hub dynamically updates available items and your Reclaim Tokens based on your activity and rewards earned.",
+    "QuickJumpId": [],
+    "Sort": 21
+  },
+  "22": {
+    "Id": 22,
+    "FunctionId": [],
+    "ShowType": 18,
+    "Title": "Tips",
+    "Desc": "Season Levels can also be recovered through the Reclaim Hub.",
+    "QuickJumpId": [],
+    "Sort": 22
+  },
+  "23": {
+    "Id": 23,
+    "FunctionId": [
+      500230,
+      500231
+    ],
+    "ShowType": 23,
+    "Title": "Gameplay Tips",
+    "Desc": "",
+    "QuickJumpId": [],
+    "Sort": 50
+  },
+  "24": {
+    "Id": 24,
+    "FunctionId": [],
+    "ShowType": 23,
+    "Title": "Easy",
+    "Desc": "Anyone can complete the following activities with ease!",
+    "QuickJumpId": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "Sort": 51
+  },
+  "25": {
+    "Id": 25,
+    "FunctionId": [],
+    "ShowType": 23,
+    "Title": "Advanced",
+    "Desc": "The following group activities also support solo and duo modes. Feel free to give them a try!",
+    "QuickJumpId": [
+      29,
+      30
+    ],
+    "Sort": 52
+  },
+  "26": {
+    "Id": 26,
+    "FunctionId": [
+      500231
+    ],
+    "ShowType": 26,
+    "Title": "Catch-Up System",
+    "Desc": "",
+    "QuickJumpId": [],
+    "Sort": 15
+  },
+  "27": {
+    "Id": 27,
+    "FunctionId": [],
+    "ShowType": 26,
+    "Title": "Adventurer Level Catch-Up",
+    "Desc": "All players below Lv.60 can claim a free Instant Lv.60 Boost.",
+    "QuickJumpId": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "Sort": 16
+  },
+  "28": {
+    "Id": 28,
+    "FunctionId": [],
+    "ShowType": 26,
+    "Title": "Season Level",
+    "Desc": "Season Level Catch-up can be recovered through the Reclaim Hub.",
+    "QuickJumpId": [
+      35
+    ],
+    "Sort": 17
+  },
+  "29": {
+    "Id": 29,
+    "FunctionId": [
+      500231
+    ],
+    "ShowType": 29,
+    "Title": "Power Enhancement",
+    "Desc": "",
+    "QuickJumpId": [],
+    "Sort": 29
+  },
+  "30": {
+    "Id": 30,
+    "FunctionId": [],
+    "ShowType": 29,
+    "Title": "Resource Recovery",
+    "Desc": "The [Reclaim Hub] allows you to recover some power-enhancing items.",
+    "QuickJumpId": [
+      24
+    ],
+    "Sort": 30
+  },
+  "31": {
+    "Id": 31,
+    "FunctionId": [],
+    "ShowType": 29,
+    "Title": "Early-Mid Game Power Enhancement",
+    "Desc": "",
+    "QuickJumpId": [
+      31,
+      36,
+      37,
+      38
+    ],
+    "Sort": 31
+  },
+  "32": {
+    "Id": 32,
+    "FunctionId": [],
+    "ShowType": 29,
+    "Title": "Late Season",
+    "Desc": "",
+    "QuickJumpId": [
+      35,
+      39
+    ],
+    "Sort": 32
+  },
+  "33": {
+    "Id": 33,
+    "FunctionId": [],
+    "ShowType": 29,
+    "Title": "Ability Score",
+    "Desc": "The Ability Score is a reference value used to assess your strength, affected by other factors in actual gameplay. Please interpret this value rationally.",
+    "QuickJumpId": [
+      40
+    ],
+    "Sort": 33
+  }
+}

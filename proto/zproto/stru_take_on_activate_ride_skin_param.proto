@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message TakeOnActivateRideSkinParam {
-  int32 skin_id = 1;
+	int32 SkinId = 1 [json_name = "SkinId"];
 }
-

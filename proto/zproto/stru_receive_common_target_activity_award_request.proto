@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message ReceiveCommonTargetActivityAwardRequest {
+	repeated uint32 targetIds = 2 [json_name = "targetIds"];
+}

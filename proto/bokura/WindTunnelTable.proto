@@ -3,12 +3,11 @@ syntax = "proto3";
 package bokura;
 
 message WindTunnelTableBase {
-  int32 id = 1463;
-  string name = 439;
-  string effect_path = 1536;
+	int32 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	string EffectPath = 1536 [json_name = "EffectPath"];
 }
 
 message WindTunnelTableMgr {
-  map<int32, bokura.WindTunnelTableBase> datas = 1;
+	map<int32, WindTunnelTableBase> datas = 1 [json_name = "datas"];
 }
-

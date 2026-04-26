@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message MonsterEntityGlobalTableBase {
-  int32 u_id = 2028;
-  number_array position = 686;
+	int32 UId = 2028 [json_name = "UId"];
+	number_array Position = 686 [json_name = "Position"];
 }
 
 message MonsterEntityGlobalTableMgr {
-  map<int32, bokura.MonsterEntityGlobalTableBase> datas = 1;
+	map<int32, MonsterEntityGlobalTableBase> datas = 1 [json_name = "datas"];
 }
-

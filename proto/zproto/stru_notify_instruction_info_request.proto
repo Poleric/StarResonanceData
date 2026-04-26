@@ -3,15 +3,14 @@ syntax = "proto3";
 package zproto;
 
 message NotifyInstructionInfoRequest {
-  int32 type = 1;
-  string title = 2;
-  string msg = 3;
-  string url = 4;
-  string data = 5;
-  int32 logout_time = 6;
-  string rule_name = 7;
-  string trace_id = 8;
-  int32 modal = 9;
-  int32 logout_type = 10;
+	int32 type = 1 [json_name = "type"];
+	string title = 2 [json_name = "title"];
+	string msg = 3 [json_name = "msg"];
+	string url = 4 [json_name = "url"];
+	string data = 5 [json_name = "data"];
+	int32 logoutTime = 6 [json_name = "logoutTime"];
+	string ruleName = 7 [json_name = "ruleName"];
+	string traceId = 8 [json_name = "traceId"];
+	int32 modal = 9 [json_name = "modal"];
+	int32 logoutType = 10 [json_name = "logoutType"];
 }
-

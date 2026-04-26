@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+import "enum_e_timer_exe_type.proto";
+import "enum_e_timer_type.proto";
+
+package zproto;
+
+message TimerInfo {
+	int32 cfgId = 1 [json_name = "cfgId"];
+	ETimerType timerType = 2 [json_name = "timerType"];
+	ETimerExeType curType = 3 [json_name = "curType"];
+	int64 startTimestamp = 4 [json_name = "startTimestamp"];
+	int64 endTimestamp = 5 [json_name = "endTimestamp"];
+	int64 lastTimeStamp = 6 [json_name = "lastTimeStamp"];
+	int64 lastEndTimeStamp = 7 [json_name = "lastEndTimeStamp"];
+	int64 nextTimeStamp = 8 [json_name = "nextTimeStamp"];
+	int64 nextEndTimeStamp = 9 [json_name = "nextEndTimeStamp"];
+	repeated int32 offsetList = 10 [json_name = "offsetList"];
+	int32 duration = 11 [json_name = "duration"];
+}

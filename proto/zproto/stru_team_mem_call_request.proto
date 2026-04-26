@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message TeamMemCallRequest {
-  int32 call_status = 2;
+	int32 callStatus = 2 [json_name = "callStatus"];
 }
-

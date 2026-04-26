@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_union_official.proto";
 
-message NotifyUnionOfficialChangeRequest {
-  zproto.UnionOfficial union_official = 1;
-  int32 change_type = 2;
-}
+package zproto;
 
+message NotifyUnionOfficialChangeRequest {
+	UnionOfficial unionOfficial = 1 [json_name = "unionOfficial"];
+	int32 changeType = 2 [json_name = "changeType"];
+}

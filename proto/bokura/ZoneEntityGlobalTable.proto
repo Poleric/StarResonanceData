@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ZoneEntityGlobalTableBase {
-  int32 u_id = 2028;
-  number_array position = 686;
-  float rotation = 783;
-  string option_data = 853;
-  number_array zone_param = 444;
-  int32 source_type = 380;
+	int32 UId = 2028 [json_name = "UId"];
+	number_array Position = 686 [json_name = "Position"];
+	float Rotation = 783 [json_name = "Rotation"];
+	string OptionData = 853 [json_name = "OptionData"];
+	number_array ZoneParam = 444 [json_name = "ZoneParam"];
+	int32 SourceType = 380 [json_name = "SourceType"];
 }
 
 message ZoneEntityGlobalTableMgr {
-  map<int32, bokura.ZoneEntityGlobalTableBase> datas = 1;
+	map<int32, ZoneEntityGlobalTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,9 +1,17 @@
 {
   "102101": {
     "BossId": 102101,
+    "Name": "Rin·Izcorgiky",
     "FirstPassAward": [],
     "PassAward": [
-      16000010
+      16000010,
+      70900040
+    ],
+    "Condition": [
+      [
+        105,
+        1
+      ]
     ],
     "AwardCount": 61,
     "UPAwardCount": 61,
@@ -18,9 +26,17 @@
   },
   "102401": {
     "BossId": 102401,
+    "Name": "Bone·Xiolotl",
     "FirstPassAward": [],
     "PassAward": [
-      16000020
+      16000020,
+      70900040
+    ],
+    "Condition": [
+      [
+        105,
+        1
+      ]
     ],
     "AwardCount": 62,
     "UPAwardCount": 62,
@@ -35,9 +51,17 @@
   },
   "102701": {
     "BossId": 102701,
+    "Name": "Light·Tonatiuh",
     "FirstPassAward": [],
     "PassAward": [
-      16000030
+      16000030,
+      70900040
+    ],
+    "Condition": [
+      [
+        105,
+        1
+      ]
     ],
     "AwardCount": 63,
     "UPAwardCount": 63,
@@ -52,9 +76,17 @@
   },
   "102104": {
     "BossId": 102104,
+    "Name": "Rin·Izcorgiky",
     "FirstPassAward": [],
     "PassAward": [
-      16000040
+      16000040,
+      70900040
+    ],
+    "Condition": [
+      [
+        105,
+        1
+      ]
     ],
     "AwardCount": 64,
     "UPAwardCount": 64,
@@ -69,9 +101,17 @@
   },
   "102450": {
     "BossId": 102450,
+    "Name": "Bone·Xiolotl",
     "FirstPassAward": [],
     "PassAward": [
-      16000050
+      16000050,
+      70900040
+    ],
+    "Condition": [
+      [
+        105,
+        1
+      ]
     ],
     "AwardCount": 65,
     "UPAwardCount": 65,
@@ -86,9 +126,17 @@
   },
   "102720": {
     "BossId": 102720,
+    "Name": "Light·Tonatiuh",
     "FirstPassAward": [],
     "PassAward": [
-      16000060
+      16000060,
+      70900040
+    ],
+    "Condition": [
+      [
+        105,
+        1
+      ]
     ],
     "AwardCount": 66,
     "UPAwardCount": 66,
@@ -103,9 +151,17 @@
   },
   "102105": {
     "BossId": 102105,
+    "Name": "Rin·Izcorgiky",
     "FirstPassAward": [],
     "PassAward": [
-      16000070
+      16000070,
+      70900040
+    ],
+    "Condition": [
+      [
+        105,
+        1
+      ]
     ],
     "AwardCount": 73,
     "UPAwardCount": 73,
@@ -120,9 +176,17 @@
   },
   "102451": {
     "BossId": 102451,
+    "Name": "Bone·Xiolotl",
     "FirstPassAward": [],
     "PassAward": [
-      16000080
+      16000080,
+      70900040
+    ],
+    "Condition": [
+      [
+        105,
+        1
+      ]
     ],
     "AwardCount": 74,
     "UPAwardCount": 74,
@@ -137,9 +201,17 @@
   },
   "102721": {
     "BossId": 102721,
+    "Name": "Light·Tonatiuh",
     "FirstPassAward": [],
     "PassAward": [
-      16000090
+      16000090,
+      70900040
+    ],
+    "Condition": [
+      [
+        105,
+        1
+      ]
     ],
     "AwardCount": 75,
     "UPAwardCount": 75,
@@ -150,6 +222,222 @@
     "Content": "The Daylight Dragon on the Floating Island. It is not a creature of the sky, yet it burns hotter than the sun. It is not a herald of doom, yet all things instinctively flee before it. As long as it soars beneath the sky, no shadow can find shelter.",
     "BossIcon": "ui/atlas/monster_avatar/head_mon_raid01_03",
     "Background": "ui/textures/raid/raid_01_03",
+    "HelpID": 4503
+  },
+  "102800": {
+    "BossId": 102800,
+    "Name": "Caprahorn - Bloom & Steel",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000110
+    ],
+    "Condition": [
+      [
+        105,
+        2
+      ]
+    ],
+    "AwardCount": 76,
+    "UPAwardCount": 76,
+    "TimerId": 0,
+    "OpenTimerId": 2321,
+    "RecommendFightValue": 35190,
+    "AssessId": 102801,
+    "Content": "Moonstrike and Sunfire were sovereigns of the same lineage. There was a clear succession order before the Illusory Blooms' erosion. After Moonstrike was parasitized by the Illusory Blooms, the original hierarchy collapsed. Sunfire sees it as a blight on their bloodline, while Moonstrike instinctively seeks to reclaim the old king's territory and power. Even when facing outside threats, they cannot set aside their hostility. This struggle for kingship matters more to them than any outsider.",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_01",
+    "Background": "ui/textures/feature_preview/feature_preview_picture_48",
+    "HelpID": 4504
+  },
+  "102901": {
+    "BossId": 102901,
+    "Name": "Withered Bloomshard",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000120
+    ],
+    "Condition": [
+      [
+        105,
+        2
+      ]
+    ],
+    "AwardCount": 77,
+    "UPAwardCount": 77,
+    "TimerId": 0,
+    "OpenTimerId": 2322,
+    "RecommendFightValue": 35890,
+    "AssessId": 102901,
+    "Content": "It uses Engram as its cores, but the core has been overtaken by Hruga's will, causing the body to develop material traits similar to the Illusory Blooms.",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_02",
+    "Background": "ui/textures/raid/raid_02_02",
+    "HelpID": 4506
+  },
+  "103001": {
+    "BossId": 103001,
+    "Name": "Erosion Bloom Afterimage",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000130
+    ],
+    "Condition": [
+      [
+        105,
+        2
+      ]
+    ],
+    "AwardCount": 78,
+    "UPAwardCount": 78,
+    "TimerId": 0,
+    "OpenTimerId": 2323,
+    "RecommendFightValue": 37740,
+    "AssessId": 103001,
+    "Content": "A self-moving warplate left behind by the Bapharian Divines. Its original duty was to guard this Bapharian facility, but as time passed and the site became deserted, the warplate sank into silence. Now, its energy core has been parasitized by Illusory Blooms, yet it still retains its instinct to defend the facility, attacking any intruder without hesitation.",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_03",
+    "Background": "ui/textures/raid/raid_02_03",
+    "HelpID": 4507
+  },
+  "102821": {
+    "BossId": 102821,
+    "Name": "Caprahorn - Bloom & Steel",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000140
+    ],
+    "Condition": [
+      [
+        105,
+        2
+      ]
+    ],
+    "AwardCount": 79,
+    "UPAwardCount": 79,
+    "TimerId": 0,
+    "OpenTimerId": 2324,
+    "RecommendFightValue": 42240,
+    "AssessId": 102821,
+    "Content": "Moonstrike and Sunfire were sovereigns of the same lineage. There was a clear succession order before the Illusory Blooms' erosion. After Moonstrike was parasitized by the Illusory Blooms, the original hierarchy collapsed. Sunfire sees it as a blight on their bloodline, while Moonstrike instinctively seeks to reclaim the old king's territory and power. Even when facing outside threats, they cannot set aside their hostility. This struggle for kingship matters more to them than any outsider.",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_01",
+    "Background": "ui/textures/feature_preview/feature_preview_picture_48",
+    "HelpID": 4508
+  },
+  "102911": {
+    "BossId": 102911,
+    "Name": "Withered Bloomshard",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000150
+    ],
+    "Condition": [
+      [
+        105,
+        2
+      ]
+    ],
+    "AwardCount": 80,
+    "UPAwardCount": 80,
+    "TimerId": 0,
+    "OpenTimerId": 2325,
+    "RecommendFightValue": 42690,
+    "AssessId": 102911,
+    "Content": "It uses Engram as its cores, but the core has been overtaken by Hruga's will, causing the body to develop material traits similar to the Illusory Blooms.",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_02",
+    "Background": "ui/textures/raid/raid_02_02",
+    "HelpID": 4506
+  },
+  "103011": {
+    "BossId": 103011,
+    "Name": "Erosion Bloom Afterimage",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000160
+    ],
+    "Condition": [
+      [
+        105,
+        2
+      ]
+    ],
+    "AwardCount": 81,
+    "UPAwardCount": 81,
+    "TimerId": 0,
+    "OpenTimerId": 2326,
+    "RecommendFightValue": 42810,
+    "AssessId": 103011,
+    "Content": "A self-moving warplate left behind by the Bapharian Divines. Its original duty was to guard this Bapharian facility, but as time passed and the site became deserted, the warplate sank into silence. Now, its energy core has been parasitized by Illusory Blooms, yet it still retains its instinct to defend the facility, attacking any intruder without hesitation.",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_03",
+    "Background": "ui/textures/raid/raid_02_03",
+    "HelpID": 4507
+  },
+  "102831": {
+    "BossId": 102831,
+    "Name": "Caprahorn - Bloom & Steel",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000170
+    ],
+    "Condition": [
+      [
+        105,
+        2
+      ]
+    ],
+    "AwardCount": 82,
+    "UPAwardCount": 82,
+    "TimerId": 0,
+    "OpenTimerId": 2327,
+    "RecommendFightValue": 44000,
+    "AssessId": 102831,
+    "Content": "Moonstrike and Sunfire were sovereigns of the same lineage. There was a clear succession order before the Illusory Blooms' erosion. After Moonstrike was parasitized by the Illusory Blooms, the original hierarchy collapsed. Sunfire sees it as a blight on their bloodline, while Moonstrike instinctively seeks to reclaim the old king's territory and power. Even when facing outside threats, they cannot set aside their hostility. This struggle for kingship matters more to them than any outsider.",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_01",
+    "Background": "ui/textures/feature_preview/feature_preview_picture_48",
+    "HelpID": 4509
+  },
+  "102921": {
+    "BossId": 102921,
+    "Name": "Withered Bloomshard",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000180
+    ],
+    "Condition": [
+      [
+        105,
+        2
+      ]
+    ],
+    "AwardCount": 83,
+    "UPAwardCount": 83,
+    "TimerId": 0,
+    "OpenTimerId": 2328,
+    "RecommendFightValue": 46540,
+    "AssessId": 102921,
+    "Content": "It uses Engram as its cores, but the core has been overtaken by Hruga's will, causing the body to develop material traits similar to the Illusory Blooms.",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_02",
+    "Background": "ui/textures/raid/raid_02_02",
+    "HelpID": 4505
+  },
+  "103021": {
+    "BossId": 103021,
+    "Name": "Erosion Bloom Afterimage",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000190
+    ],
+    "Condition": [
+      [
+        105,
+        2
+      ]
+    ],
+    "AwardCount": 84,
+    "UPAwardCount": 84,
+    "TimerId": 0,
+    "OpenTimerId": 2329,
+    "RecommendFightValue": 48700,
+    "AssessId": 103021,
+    "Content": "A self-moving warplate left behind by the Bapharian Divines. Its original duty was to guard this Bapharian facility, but as time passed and the site became deserted, the warplate sank into silence. Now, its energy core has been parasitized by Illusory Blooms, yet it still retains its instinct to defend the facility, attacking any intruder without hesitation.",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_03",
+    "Background": "ui/textures/raid/raid_02_03",
     "HelpID": 4503
   }
 }

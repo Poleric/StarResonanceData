@@ -1,33 +1,32 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message CameraShowDataTableBase {
-  int64 id = 1463;
-  float start = 678;
-  float duration = 544;
-  float end = 1415;
-  bool is_attacker = 920;
-  int32 state_id = 308;
-  int32 group_id = 196;
-  int32 camera_effect_type = 566;
-  float frequency = 892;
-  vector3 amplitude = 244;
-  number_table frequency_curve = 158;
-  number_table amplitude_curve = 2024;
-  bool only_caster = 492;
-  float max_distance = 474;
-  number_table distance_curve = 1874;
-  float intensity = 881;
-  number_table intensity_curve = 153;
-  float threshold = 810;
-  bool is_random = 1573;
-  number_array extra_parms = 202;
+	int64 Id = 1463 [json_name = "Id"];
+	float Start = 678 [json_name = "Start"];
+	float Duration = 544 [json_name = "Duration"];
+	float End = 1415 [json_name = "End"];
+	bool IsAttacker = 920 [json_name = "IsAttacker"];
+	int32 StateId = 308 [json_name = "StateId"];
+	int32 GroupId = 196 [json_name = "GroupId"];
+	int32 CameraEffectType = 566 [json_name = "CameraEffectType"];
+	float Frequency = 892 [json_name = "Frequency"];
+	vector3 Amplitude = 244 [json_name = "Amplitude"];
+	number_table FrequencyCurve = 158 [json_name = "FrequencyCurve"];
+	number_table AmplitudeCurve = 2024 [json_name = "AmplitudeCurve"];
+	bool OnlyCaster = 492 [json_name = "OnlyCaster"];
+	float MaxDistance = 474 [json_name = "MaxDistance"];
+	number_table DistanceCurve = 1874 [json_name = "DistanceCurve"];
+	float Intensity = 881 [json_name = "Intensity"];
+	number_table IntensityCurve = 153 [json_name = "IntensityCurve"];
+	float Threshold = 810 [json_name = "Threshold"];
+	bool IsRandom = 1573 [json_name = "IsRandom"];
+	number_array ExtraParms = 202 [json_name = "ExtraParms"];
 }
 
 message CameraShowDataTableMgr {
-  map<int64, bokura.CameraShowDataTableBase> datas = 1;
+	map<int64, CameraShowDataTableBase> datas = 1 [json_name = "datas"];
 }
-

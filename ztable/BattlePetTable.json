@@ -14,16 +14,7 @@
     ],
     "IsPetCanBeHit": 0,
     "Tags": [],
-    "AppearDisAppearCfg": [
-      {
-        "x": 55296.0,
-        "y": 0.4
-      },
-      {
-        "x": 55294.0,
-        "y": 0.7
-      }
-    ],
+    "AppearDisAppearCfg": [],
     "DissolutionCfg": [],
     "IsResident": true
   },
@@ -229,6 +220,39 @@
     "InitBuffs": [
       2203041,
       2203111
+    ],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4
+      },
+      {
+        "x": 55294.0,
+        "y": 0.7
+      }
+    ],
+    "DissolutionCfg": [],
+    "IsResident": false
+  },
+  "9": {
+    "Id": 9,
+    "Name": "Roguelike - Summon Eagle",
+    "ModelID": 80000004,
+    "FollowType": 1,
+    "IsFlying": true,
+    "AttributeId": 1002,
+    "RunSpeed": 0.0,
+    "FollowConfigId": 10002,
+    "SkillIds": [
+      101110,
+      101111,
+      101112
+    ],
+    "InitBuffs": [
+      2203291,
+      55291
     ],
     "IsPetCanBeHit": 0,
     "Tags": [],

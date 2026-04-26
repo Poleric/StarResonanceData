@@ -1,18 +1,16 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_notify_friendliness_exp_lv_request.proto";
 import "stru_notify_update_data_request.proto";
 
+package zproto;
+
 message FriendNtf {
+	message NotifyUpdateData {
+		NotifyUpdateDataRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message NotifyUpdateData {
-    zproto.NotifyUpdateDataRequest v_request = 1;
-  }
-
-  message NotifyFriendlinessExpLv {
-    zproto.NotifyFriendlinessExpLvRequest v_request = 1;
-  }
+	message NotifyFriendlinessExpLv {
+		NotifyFriendlinessExpLvRequest vRequest = 1 [json_name = "vRequest"];
+	}
 }
-

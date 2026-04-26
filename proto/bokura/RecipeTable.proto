@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message RecipeTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  mlstring recipe_text = 932;
-  string recipe_icon = 172;
-  int32 recipe_type = 1227;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	mlstring RecipeText = 932 [json_name = "RecipeText"];
+	string RecipeIcon = 172 [json_name = "RecipeIcon"];
+	int32 RecipeType = 1227 [json_name = "RecipeType"];
 }
 
 message RecipeTableMgr {
-  map<int32, bokura.RecipeTableBase> datas = 1;
+	map<int32, RecipeTableBase> datas = 1 [json_name = "datas"];
 }
-

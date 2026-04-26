@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message TrapTableBase {
-  int32 id = 1463;
-  string name = 439;
-  int32 skill_id = 1087;
-  int_array buff_ids = 1916;
-  float trigger_range = 360;
-  int32 attribute_id = 1825;
-  int32 model_id = 555;
-  int_array life_info = 412;
-  int_array tags = 232;
+	int32 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	int32 SkillId = 1087 [json_name = "SkillId"];
+	int_array BuffIds = 1916 [json_name = "BuffIds"];
+	float TriggerRange = 360 [json_name = "TriggerRange"];
+	int32 AttributeId = 1825 [json_name = "AttributeId"];
+	int32 ModelId = 555 [json_name = "ModelId"];
+	int_array LifeInfo = 412 [json_name = "LifeInfo"];
+	int_array Tags = 232 [json_name = "Tags"];
 }
 
 message TrapTableMgr {
-  map<int32, bokura.TrapTableBase> datas = 1;
+	map<int32, TrapTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -5,7 +5,7 @@
     "ItemAward": 0,
     "UnlockFunction": [],
     "UnlockFunctionDesc": [],
-    "ExtraText": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+    "ExtraText": ""
   },
   "2": {
     "FishingLevel": 2,
@@ -160,5 +160,45 @@
     "UnlockFunction": [],
     "UnlockFunctionDesc": [],
     "ExtraText": "Rewards for Fishing Lv.20"
+  },
+  "21": {
+    "FishingLevel": 21,
+    "Exp": 19470,
+    "ItemAward": 29001010,
+    "UnlockFunction": [],
+    "UnlockFunctionDesc": [],
+    "ExtraText": "Reward for Reaching Fishing Level 21"
+  },
+  "22": {
+    "FishingLevel": 22,
+    "Exp": 20940,
+    "ItemAward": 29001020,
+    "UnlockFunction": [],
+    "UnlockFunctionDesc": [],
+    "ExtraText": "Reward for Reaching Fishing Level 22"
+  },
+  "23": {
+    "FishingLevel": 23,
+    "Exp": 22410,
+    "ItemAward": 29001030,
+    "UnlockFunction": [],
+    "UnlockFunctionDesc": [],
+    "ExtraText": "Reward for Reaching Fishing Level 23"
+  },
+  "24": {
+    "FishingLevel": 24,
+    "Exp": 23880,
+    "ItemAward": 29001040,
+    "UnlockFunction": [],
+    "UnlockFunctionDesc": [],
+    "ExtraText": "Reward for Reaching Fishing Level 24"
+  },
+  "25": {
+    "FishingLevel": 25,
+    "Exp": 25350,
+    "ItemAward": 29001050,
+    "UnlockFunction": [],
+    "UnlockFunctionDesc": [],
+    "ExtraText": "Reward for Reaching Fishing Level 25"
   }
 }

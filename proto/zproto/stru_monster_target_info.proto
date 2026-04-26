@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_monster_target_award.proto";
 import "stru_dirty_mask.proto";
 
-message MonsterTargetInfo {
-  int32 id = 1;
-  int32 target_uuid = 2;
-  int32 target_type = 3;
-  int32 target_num = 4;
-  zproto.MonsterTargetAward award_flag = 5;
-}
+package zproto;
 
+message MonsterTargetInfo {
+	int32 id = 1 [json_name = "id"];
+	int32 targetUuid = 2 [json_name = "targetUuid"];
+	int32 targetType = 3 [json_name = "targetType"];
+	int32 targetNum = 4 [json_name = "targetNum"];
+	MonsterTargetAward awardFlag = 5 [json_name = "awardFlag"];
+}

@@ -97,5 +97,464 @@
     "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_image_aybl",
     "Resources": "ui/textures/handbook_postcard/notepostcard_image_aybl",
     "IsHide": false
+  },
+  "1210012": {
+    "Id": 1210012,
+    "Episode": 1210012,
+    "Name": "Overlooking Fallen River",
+    "DictionaryDes": "Through your eyes, I have reclaimed my childhood once more. —Sasha",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_gaoyuanxice",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_gaoyuanxice",
+    "IsHide": false
+  },
+  "1210013": {
+    "Id": 1210013,
+    "Episode": 1210013,
+    "Name": "Thunderfall",
+    "DictionaryDes": "The birds' chirps are the songs of the stars. —Sasha",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_gaoyuanpubu",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_gaoyuanpubu",
+    "IsHide": false
+  },
+  "1210014": {
+    "Id": 1210014,
+    "Episode": 1210014,
+    "Name": "Heavensbane Spire",
+    "DictionaryDes": "If there is truly a creator of this world, they must exist above both the Divine and nature. —Julian",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_gaoyuanjushi",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_gaoyuanjushi",
+    "IsHide": false
+  },
+  "1210015": {
+    "Id": 1210015,
+    "Episode": 1210015,
+    "Name": "Old Dwelling",
+    "DictionaryDes": "This... was once my home. The cliff is dotted with dwellings carved out of the rock, like a beehive. —Sasha",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_gaoyuanhedibu",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_gaoyuanhedibu",
+    "IsHide": false
+  },
+  "1210016": {
+    "Id": 1210016,
+    "Episode": 1210016,
+    "Name": "Fallen River Rock Chamber",
+    "DictionaryDes": "Human carvings and the ruins of the Bapharian Divines coexist in this place. —Liam",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_gaoyuanshouling",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_gaoyuanshouling",
+    "IsHide": false
+  },
+  "1210017": {
+    "Id": 1210017,
+    "Episode": 1210017,
+    "Name": "Inverted Illusory Bloom",
+    "DictionaryDes": "By the grace of the Bapharian Divines! The core is a crystal, but it looks just like a flower! —Liam",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_gaoyuanhedihuanhuanhua",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_gaoyuanhedihuanhuanhua",
+    "IsHide": false
+  },
+  "1210018": {
+    "Id": 1210018,
+    "Episode": 1210018,
+    "Name": "Rock Blooming from a Crevice",
+    "DictionaryDes": "It's like these stones just... sprouted from the crevices overnight. —Sasha",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_gaoyuanhedi",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_gaoyuanhedi",
+    "IsHide": false
+  },
+  "1210019": {
+    "Id": 1210019,
+    "Episode": 1210019,
+    "Name": "Lallipar",
+    "DictionaryDes": "It carries a pleasant scent, like that of dry stones just before a rainfall. —Alida",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_cunzhuangquanjing",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_cunzhuangquanjing",
+    "IsHide": false
+  },
+  "1210020": {
+    "Id": 1210020,
+    "Episode": 1210020,
+    "Name": "Pillar of Divinity",
+    "DictionaryDes": "A long, rectangular sanctuary that glitters like a diamond. That's where Daddy works. —Alida",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yuzhujiaoxia",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yuzhujiaoxia",
+    "IsHide": false
+  },
+  "1210021": {
+    "Id": 1210021,
+    "Episode": 1210021,
+    "Name": "Mine Crane",
+    "DictionaryDes": "On the day I escaped, I stood right here and made a vow. From this day forward, I will live for myself alone! —Owen",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_kuangchangfushi",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_kuangchangfushi",
+    "IsHide": false
+  },
+  "1210022": {
+    "Id": 1210022,
+    "Episode": 1210022,
+    "Name": "Field of the Forgotten",
+    "DictionaryDes": "This was once where we would sneak away to dream. Now, only a drunk like me still remembers. —Owen",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_kuangchangziran",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_kuangchangziran",
+    "IsHide": false
+  },
+  "1210023": {
+    "Id": 1210023,
+    "Episode": 1210023,
+    "Name": "Mine Pass",
+    "DictionaryDes": "Walter, Kai, Sylvester, Finn... They remain below, forever. —Owen",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_kuagnchang",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_kuagnchang",
+    "IsHide": false
+  },
+  "1210024": {
+    "Id": 1210024,
+    "Episode": 1210024,
+    "Name": "Windmill at the Transport Station",
+    "DictionaryDes": "The curve of the windmill fits perfectly within the stark lines of the Garrison Outpost, softening its severe look. —Daisy",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yunshudongkou",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yunshudongkou",
+    "IsHide": false
+  },
+  "1210025": {
+    "Id": 1210025,
+    "Episode": 1210025,
+    "Name": "Village by the Rails",
+    "DictionaryDes": "How familiar... The smell of earth and rust that belong only to this place. —Daisy",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yunshucunzhuang",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yunshucunzhuang",
+    "IsHide": false
+  },
+  "1210026": {
+    "Id": 1210026,
+    "Episode": 1210026,
+    "Name": "Steel Beast of the Transport Station",
+    "DictionaryDes": "These ugly pipes lead to secrets I have no desire to know. —Daisy",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yunshuyiqi",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yunshuyiqi",
+    "IsHide": false
+  },
+  "1210027": {
+    "Id": 1210027,
+    "Episode": 1210027,
+    "Name": "Garrison Outpost",
+    "DictionaryDes": "I shall carry your words with me always: Devote your life to your mission. —Reed",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_tunbingsuo",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_tunbingsuo",
+    "IsHide": false
+  },
+  "1210028": {
+    "Id": 1210028,
+    "Episode": 1210028,
+    "Name": "Upper Mustard Tavern",
+    "DictionaryDes": "The specialty here is a bitter drink, but some missions require one before you can begin. —Reed",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_jiuguanshangceng",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_jiuguanshangceng",
+    "IsHide": false
+  },
+  "1210029": {
+    "Id": 1210029,
+    "Episode": 1210029,
+    "Name": "Lower Mustard Tavern",
+    "DictionaryDes": "Though these miners are covered in grime, deep down, their souls are no different from our own. —Reed",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_jiuguanxiaceng",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_jiuguanxiaceng",
+    "IsHide": false
+  },
+  "1210030": {
+    "Id": 1210030,
+    "Episode": 1210030,
+    "Name": "A Corner of the Transport Station",
+    "DictionaryDes": "Each rivet is like a child to me. Seeing them all rock-solid is a dream come true. —Daisy",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yunshuxiaolu",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yunshuxiaolu",
+    "IsHide": false
+  },
+  "1210031": {
+    "Id": 1210031,
+    "Episode": 1210031,
+    "Name": "Illusory Bloom Under the Pillar of Divinity",
+    "DictionaryDes": "Every day, it torments my soul... Why am I the only one who survived? —Brock",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_huanhuanhua",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_huanhuanhua",
+    "IsHide": false
+  },
+  "1210032": {
+    "Id": 1210032,
+    "Episode": 1210032,
+    "Name": "The Mending Mines",
+    "DictionaryDes": "This is my first time seeing what lies below... It's so vast and mysterious. —Hendel",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiafeiqikuangdong1",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiafeiqikuangdong1",
+    "IsHide": false
+  },
+  "1210033": {
+    "Id": 1210033,
+    "Episode": 1210033,
+    "Name": "Forget, Then Grow",
+    "DictionaryDes": "These strange twigs excite me. Special prey must be lurking in the darkness. —Hendel",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiafeiqikuangdong2",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiafeiqikuangdong2",
+    "IsHide": false
+  },
+  "1210034": {
+    "Id": 1210034,
+    "Episode": 1210034,
+    "Name": "Illusory Bloom in the Underground Mine",
+    "DictionaryDes": "Don't get me wrong... It's just my merchant's instinct, wondering what it's worth. —Leo",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiayihaokuangdong",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiayihaokuangdong",
+    "IsHide": false
+  },
+  "1210035": {
+    "Id": 1210035,
+    "Episode": 1210035,
+    "Name": "Mirage Nappo",
+    "DictionaryDes": "There really is a Nappo there! It's a gold mine... Why can't you all see it!? —Leo",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiayihaonabao",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiayihaonabao",
+    "IsHide": false
+  },
+  "1210036": {
+    "Id": 1210036,
+    "Episode": 1210036,
+    "Name": "Rails in the Transfer Zone",
+    "DictionaryDes": "Father used to say that red ore was the most beautiful color in the world. —Irene",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiazhuanyun1",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiazhuanyun1",
+    "IsHide": false
+  },
+  "1210037": {
+    "Id": 1210037,
+    "Episode": 1210037,
+    "Name": "The Undercity",
+    "DictionaryDes": "This is the place... where the Rock Serpent took my father from me. —Irene",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiazhuanyun2",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiazhuanyun2",
+    "IsHide": false
+  },
+  "1210038": {
+    "Id": 1210038,
+    "Episode": 1210038,
+    "Name": "Deep Mining Zone",
+    "DictionaryDes": "A craftsman who has spent his life with ore has finally seen its birthplace. —Brooke",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiacaijue",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiacaijue",
+    "IsHide": false
+  },
+  "1210039": {
+    "Id": 1210039,
+    "Episode": 1210039,
+    "Name": "Crystal Storage",
+    "DictionaryDes": "I've never come across a mysterious ore like this. I bet it could be used to make all sorts of things! —Brooke",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiashuijing",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiashuijing",
+    "IsHide": false
+  },
+  "1210040": {
+    "Id": 1210040,
+    "Episode": 1210040,
+    "Name": "Nature's Return",
+    "DictionaryDes": "Nature is returning... The scars of excessive mining will finally be healed. —Felinx",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiakuangqu1",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiakuangqu1",
+    "IsHide": false
+  },
+  "1210041": {
+    "Id": 1210041,
+    "Episode": 1210041,
+    "Name": "Place of Silence",
+    "DictionaryDes": "Some truths are meant to be buried deep. Just like this mine, forever silent. —Felinx",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_dixiakuangqu2",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_dixiakuangqu2",
+    "IsHide": false
+  },
+  "1210100": {
+    "Id": 1210100,
+    "Episode": 1210100,
+    "Name": "Renewal of the Wolf Totem",
+    "DictionaryDes": "\"At the end of this path, all are kin.\" <br>May the White Wolf's embrace temper your edge, like the sea accepting flowing rivers.<br><align=\"right\">The Autumn Priest Sentara",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_kaniman_kanimanbuluo",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_kaniman_kanimanbuluo",
+    "IsHide": false
+  },
+  "1210101": {
+    "Id": 1210101,
+    "Episode": 1210101,
+    "Name": "Renewal of the Snake Totem",
+    "DictionaryDes": "\"Back then, the Snake clan was the first to rise and fight in the war.\" <br>\"Just as you did for us during the hurricane.\" <br><br>The serpent's tongue will sense the unseen for you. In every battle, fangs pierce through steel.<br><align=\"right\">Chieftain Rotroani",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_kaniman_kanimanjiuzhi",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_kaniman_kanimanjiuzhi",
+    "IsHide": false
+  },
+  "1210102": {
+    "Id": 1210102,
+    "Episode": 1210102,
+    "Name": "Renewal of the Bird Totem",
+    "DictionaryDes": "\"Air to the bird is as laughter to life.\" <br>May every cliff become a step toward the stars.<br><align=\"right\">Spring Priest Xochitl",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_kaniman_dengluzhanyizhi",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_kaniman_dengluzhanyizhi",
+    "IsHide": false
+  },
+  "1210103": {
+    "Id": 1210103,
+    "Episode": 1210103,
+    "Name": "Renewal of the Mirror Totem",
+    "DictionaryDes": "\"Weave Dreams to uncover the truth.\" <br><br>The Mirror Totem's insight will become your blade to cut through illusions. <br>May you see through lies and grasp the truth.<br><align=\"right\">Winter Priest Yecot",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_kaniman_weiergucheng",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_kaniman_weiergucheng",
+    "IsHide": false
+  },
+  "1210104": {
+    "Id": 1210104,
+    "Episode": 1210104,
+    "Name": "Renewal of the Ram Totem",
+    "DictionaryDes": "\"Finally! This is the latest we've ever lit the flame—ouch!\" <br>\"Maquill! Quit rambling.\" <br><br>May you face hardship like a ram chewing the cud until resilience is forged into hope.<br><align=\"right\">Quetzal & his apprentice Maquill, who finally memorized his lines",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_kaniman_asitelisi",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_kaniman_asitelisi",
+    "IsHide": false
+  },
+  "1210105": {
+    "Id": 1210105,
+    "Episode": 1210105,
+    "Name": "Renewal of the Pot Totem",
+    "DictionaryDes": "\"The rules are Rotroani's, but the meat and fire are ours.\" <br>The Renewal here forms a big pot. Its fierce fire can sear dragon meat and soothe fallen souls. <br><br>\"There's a Goblin Lair nearby... but never mind. Let's just enjoy the festival!\" <br><align=\"right\">Former Warrior Necalli",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_kaniman_fengxiaodexiagu",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_kaniman_fengxiaodexiagu",
+    "IsHide": false
+  },
+  "1210106": {
+    "Id": 1210106,
+    "Episode": 1210106,
+    "Name": "Postcard: Starland Town",
+    "DictionaryDes": "The starting point of all dreams and joy, Wandering Star Town holds countless moments of happiness...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_youleyuanrukou",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_youleyuanrukou",
+    "IsHide": false
+  },
+  "1210107": {
+    "Id": 1210107,
+    "Episode": 1210107,
+    "Name": "Postcard: Aurora Stage",
+    "DictionaryDes": "Those who love to dance will be drawn to this stage... Let's move to the rhythm together!",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yuantiaowutai",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yuantiaowutai",
+    "IsHide": false
+  },
+  "1210108": {
+    "Id": 1210108,
+    "Episode": 1210108,
+    "Name": "Postcard: Boarlet Waltz",
+    "DictionaryDes": "The round, chubby, and utterly adorable Boarlets have become mounts...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_xuanzhuanmuzhu",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_xuanzhuanmuzhu",
+    "IsHide": false
+  },
+  "1210109": {
+    "Id": 1210109,
+    "Episode": 1210109,
+    "Name": "Postcard: Eye of the Tides",
+    "DictionaryDes": "A giant Ee-chan and a massive water party DJ booth, sometimes echoing tidal tunes...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_haibianpaidui",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_haibianpaidui",
+    "IsHide": false
+  },
+  "1210110": {
+    "Id": 1210110,
+    "Episode": 1210110,
+    "Name": "Postcard: Cherry Blossom Forest",
+    "DictionaryDes": "The beautiful Cherry Blossom Forest, a place where countless visitors gather to enjoy the scenery...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yinghualin",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yinghualin",
+    "IsHide": false
+  },
+  "1210111": {
+    "Id": 1210111,
+    "Episode": 1210111,
+    "Name": "Postcard: Star Orbiter",
+    "DictionaryDes": "The Star Orbiter's blessing is a hope shared by all.",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yangwangmotianlun",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yangwangmotianlun",
+    "IsHide": false
+  },
+  "1210112": {
+    "Id": 1210112,
+    "Episode": 1210112,
+    "Name": "Starland Club",
+    "DictionaryDes": "A place where victories are decided fairly. Winning or losing at the card table is also a unique way of connecting.",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_zhuoyouguannei",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_zhuoyouguannei",
+    "IsHide": false
+  },
+  "1210113": {
+    "Id": 1210113,
+    "Episode": 1210113,
+    "Name": "Starlight - The Overlook",
+    "DictionaryDes": "The flowing lights and the cheering crowd are all in full view.",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_liaowangtafukan",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_liaowangtafukan",
+    "IsHide": false
+  },
+  "1210114": {
+    "Id": 1210114,
+    "Episode": 1210114,
+    "Name": "Heart-Shaped Pond - Not a Wishing Pool",
+    "DictionaryDes": "I see... Nice to meet you, I'm Pirlo from the Port District. It's a pleasure. —Pirlo",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_aixinchi",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_aixinchi",
+    "IsHide": false
+  },
+  "1210115": {
+    "Id": 1210115,
+    "Episode": 1210115,
+    "Name": "West Beach - Vacation Vibes",
+    "DictionaryDes": "Sun, sand, and lounge chairs... the perfect vacation vibe!",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_xishatan",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_xishatan",
+    "IsHide": false
+  },
+  "1210116": {
+    "Id": 1210116,
+    "Episode": 1210116,
+    "Name": "Ee-chan Drum Band",
+    "DictionaryDes": "Mr. Pirlo, you're a good man. But this lie must end. —Gloria",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_guangchangdongnance",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_guangchangdongnance",
+    "IsHide": false
+  },
+  "1210117": {
+    "Id": 1210117,
+    "Episode": 1210117,
+    "Name": "Otherworld Signal Receiver!",
+    "DictionaryDes": "Every performance on the Aurora Stage is like a fleeting, passionate convergence of different worlds.",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_wutaizhengmian",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_wutaizhengmian",
+    "IsHide": false
+  },
+  "1210118": {
+    "Id": 1210118,
+    "Episode": 1210118,
+    "Name": "Nappo Minigame Zone - Timely Pay",
+    "DictionaryDes": "All Nappos come fully equipped with safety measures, so please play with peace of mind. —Meowlux Merchant Guild",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_nabaoxiaoyouxiqu",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_nabaoxiaoyouxiqu",
+    "IsHide": false
+  },
+  "1210119": {
+    "Id": 1210119,
+    "Episode": 1210119,
+    "Name": "West Bridge - Parade Track",
+    "DictionaryDes": "Welcome aboard the Beep-Beep Express! On this sightseeing vehicle, no one ever gets left behind!",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_liechexunyou",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_liechexunyou",
+    "IsHide": false
+  },
+  "1210120": {
+    "Id": 1210120,
+    "Episode": 1210120,
+    "Name": "West Beach - Sea Breeze Secret",
+    "DictionaryDes": "The birthplace of Starland's ghost stories—if you want your story in the tabloids, this is the place to be.",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_jizhuangxiangduomaomao",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_jizhuangxiangduomaomao",
+    "IsHide": false
   }
 }

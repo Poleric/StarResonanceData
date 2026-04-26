@@ -1,0 +1,736 @@
+{
+  "1001001": {
+    "Id": 1001001,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        13001,
+        1
+      ]
+    ],
+    "GiftNum": 2,
+    "Quality": 1,
+    "Weight": 15,
+    "Sort": 1
+  },
+  "1001002": {
+    "Id": 1001002,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        13002,
+        1
+      ]
+    ],
+    "GiftNum": 8,
+    "Quality": 2,
+    "Weight": 100,
+    "Sort": 2
+  },
+  "1001003": {
+    "Id": 1001003,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        7027069,
+        1,
+        1
+      ],
+      [
+        7027070,
+        1,
+        2
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 3
+  },
+  "1001004": {
+    "Id": 1001004,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        7130349,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 4
+  },
+  "1001005": {
+    "Id": 1001005,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078014,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 5
+  },
+  "1001006": {
+    "Id": 1001006,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078015,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 6
+  },
+  "1001007": {
+    "Id": 1001007,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078016,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 7
+  },
+  "1001008": {
+    "Id": 1001008,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078017,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 8
+  },
+  "1001009": {
+    "Id": 1001009,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078018,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 9
+  },
+  "1001010": {
+    "Id": 1001010,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078019,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 10
+  },
+  "1001011": {
+    "Id": 1001011,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078020,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 11
+  },
+  "1001012": {
+    "Id": 1001012,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078021,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 12
+  },
+  "1001013": {
+    "Id": 1001013,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078022,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 13
+  },
+  "1001014": {
+    "Id": 1001014,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1078023,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 3,
+    "Weight": 48,
+    "Sort": 14
+  },
+  "1001015": {
+    "Id": 1001015,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010584,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 4,
+    "Weight": 324,
+    "Sort": 15
+  },
+  "1001016": {
+    "Id": 1001016,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010585,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 4,
+    "Weight": 324,
+    "Sort": 16
+  },
+  "1001017": {
+    "Id": 1001017,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010586,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 4,
+    "Weight": 324,
+    "Sort": 17
+  },
+  "1001018": {
+    "Id": 1001018,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010587,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 4,
+    "Weight": 324,
+    "Sort": 18
+  },
+  "1001019": {
+    "Id": 1001019,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010588,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 4,
+    "Weight": 324,
+    "Sort": 19
+  },
+  "1001020": {
+    "Id": 1001020,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010589,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 4,
+    "Weight": 324,
+    "Sort": 20
+  },
+  "1001021": {
+    "Id": 1001021,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010590,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 21
+  },
+  "1001022": {
+    "Id": 1001022,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010591,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 22
+  },
+  "1001023": {
+    "Id": 1001023,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010592,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 23
+  },
+  "1001024": {
+    "Id": 1001024,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010593,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 24
+  },
+  "1001025": {
+    "Id": 1001025,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010594,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 25
+  },
+  "1001026": {
+    "Id": 1001026,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010595,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 26
+  },
+  "1001027": {
+    "Id": 1001027,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010596,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 27
+  },
+  "1001028": {
+    "Id": 1001028,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010597,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 28
+  },
+  "1001029": {
+    "Id": 1001029,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010598,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 29
+  },
+  "1001030": {
+    "Id": 1001030,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010599,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 30
+  },
+  "1001031": {
+    "Id": 1001031,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010600,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 31
+  },
+  "1001032": {
+    "Id": 1001032,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010601,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 32
+  },
+  "1001033": {
+    "Id": 1001033,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010602,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 33
+  },
+  "1001034": {
+    "Id": 1001034,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010603,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 34
+  },
+  "1001035": {
+    "Id": 1001035,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010604,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 35
+  },
+  "1001036": {
+    "Id": 1001036,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010605,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 36
+  },
+  "1001037": {
+    "Id": 1001037,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010606,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 37
+  },
+  "1001038": {
+    "Id": 1001038,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010607,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 38
+  },
+  "1001039": {
+    "Id": 1001039,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010608,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 39
+  },
+  "1001040": {
+    "Id": 1001040,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010609,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 40
+  },
+  "1001041": {
+    "Id": 1001041,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010610,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 41
+  },
+  "1001042": {
+    "Id": 1001042,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010611,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 42
+  },
+  "1001043": {
+    "Id": 1001043,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010612,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 43
+  },
+  "1001044": {
+    "Id": 1001044,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010613,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 44
+  },
+  "1001045": {
+    "Id": 1001045,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010614,
+        1
+      ]
+    ],
+    "GiftNum": 1,
+    "Quality": 5,
+    "Weight": 135,
+    "Sort": 45
+  },
+  "1001046": {
+    "Id": 1001046,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010572,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 6,
+    "Weight": 570,
+    "Sort": 46
+  },
+  "1001047": {
+    "Id": 1001047,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010573,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 6,
+    "Weight": 570,
+    "Sort": 47
+  },
+  "1001048": {
+    "Id": 1001048,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010574,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 6,
+    "Weight": 570,
+    "Sort": 48
+  },
+  "1001049": {
+    "Id": 1001049,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010575,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 6,
+    "Weight": 570,
+    "Sort": 49
+  },
+  "1001050": {
+    "Id": 1001050,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010576,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 6,
+    "Weight": 570,
+    "Sort": 50
+  },
+  "1001051": {
+    "Id": 1001051,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        11010577,
+        1
+      ]
+    ],
+    "GiftNum": 4,
+    "Quality": 6,
+    "Weight": 570,
+    "Sort": 51
+  },
+  "1001052": {
+    "Id": 1001052,
+    "PoolId": 1001,
+    "GiftId": [
+      [
+        1041001,
+        1
+      ]
+    ],
+    "GiftNum": 20,
+    "Quality": 6,
+    "Weight": 570,
+    "Sort": 52
+  }
+}

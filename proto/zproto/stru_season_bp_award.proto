@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message SeasonBpAward {
-  int32 target_id = 1;
-  bool onekey = 2;
+	int32 targetId = 1 [json_name = "targetId"];
+	bool onekey = 2 [json_name = "onekey"];
 }
-

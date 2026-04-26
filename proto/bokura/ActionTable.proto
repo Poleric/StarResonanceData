@@ -3,16 +3,15 @@ syntax = "proto3";
 package bokura;
 
 message ActionTableBase {
-  int32 id = 1463;
-  string action_effect = 795;
-  bool is_blend = 173;
-  bool is_upper = 1666;
-  float look_at_body_weight = 1807;
-  int32 unlock_item = 702;
-  bool is_follow = 1100;
+	int32 Id = 1463 [json_name = "Id"];
+	string ActionEffect = 795 [json_name = "ActionEffect"];
+	bool IsBlend = 173 [json_name = "IsBlend"];
+	bool IsUpper = 1666 [json_name = "IsUpper"];
+	float LookAtBodyWeight = 1807 [json_name = "LookAtBodyWeight"];
+	int32 UnlockItem = 702 [json_name = "UnlockItem"];
+	bool IsFollow = 1100 [json_name = "IsFollow"];
 }
 
 message ActionTableMgr {
-  map<int32, bokura.ActionTableBase> datas = 1;
+	map<int32, ActionTableBase> datas = 1 [json_name = "datas"];
 }
-

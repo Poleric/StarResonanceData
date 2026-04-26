@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message InviteToRideParam {
-  int64 inviter_id = 1;
+	int64 inviterId = 1 [json_name = "inviterId"];
 }
-

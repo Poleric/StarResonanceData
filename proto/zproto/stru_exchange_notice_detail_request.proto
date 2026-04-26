@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_exchange_filter.proto";
 
-message ExchangeNoticeDetailRequest {
-  int32 config_id = 1;
-  repeated zproto.ExchangeFilter filter = 2;
-  int32 page = 4;
-}
+package zproto;
 
+message ExchangeNoticeDetailRequest {
+	int32 configId = 1 [json_name = "configId"];
+	repeated ExchangeFilter filter = 2 [json_name = "filter"];
+	int32 page = 4 [json_name = "page"];
+}

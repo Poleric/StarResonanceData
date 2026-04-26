@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message CultivateBigNodeData {
+	int32 fantasyId = 1 [json_name = "fantasyId"];
+}

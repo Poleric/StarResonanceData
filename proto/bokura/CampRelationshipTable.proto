@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message CampRelationshipTableBase {
-  int32 map_id = 838;
-  int_table relationship_id = 1484;
+	int32 MapId = 838 [json_name = "MapId"];
+	int_table RelationshipID = 1484 [json_name = "RelationshipID"];
 }
 
 message CampRelationshipTableMgr {
-  map<int32, bokura.CampRelationshipTableBase> datas = 1;
+	map<int32, CampRelationshipTableBase> datas = 1 [json_name = "datas"];
 }
-

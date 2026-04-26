@@ -567,7 +567,7 @@
   "3001001": {
     "Id": 3001001,
     "Type": 0,
-    "Content": "{*string[1]*} [ <u><link=1><style=chat_fishing_share_profile>{*player.names*}'s personal space</style></link></u> ] {*string[2]*}",
+    "Content": "{*string[1]*}[ <u><link=1><style=chat_fishing_share_profile>{*player.names*}'s personal space</style></link></u> ]{*string[2]*}",
     "ChannelId": [],
     "IsShowInsystem": false,
     "MessageTableId": 0,
@@ -580,7 +580,7 @@
   "5001001": {
     "Id": 5001001,
     "Type": 4,
-    "Content": "{*union.build*} is upgrading to Lv. {*arrVal[2]*}, go to accelerate the upgrade.",
+    "Content": "{*union.build*} is upgrading from Lv.{*arrVal[1]*} to Lv.{*arrVal[2]*}, go to accelerate the upgrade.",
     "ChannelId": [
       4
     ],
@@ -925,7 +925,7 @@
   "8009001": {
     "Id": 8009001,
     "Type": 2,
-    "Content": "The World Boss Crudade will start in {*val*} minutes, please arrange your time accordingly.",
+    "Content": "The World Boss Crusade will start in {*val*} minutes, please arrange your time accordingly.",
     "ChannelId": [],
     "IsShowInsystem": false,
     "MessageTableId": 0,
@@ -938,20 +938,20 @@
   "8009002": {
     "Id": 8009002,
     "Type": 2,
-    "Content": "The World Boss Crudade has started. <u><link=1>Join</link><u>",
+    "Content": "The World Boss Crusade has started. <u><link=1>Join</link><u>",
     "ChannelId": [],
     "IsShowInsystem": false,
     "MessageTableId": 0,
     "FuncType": 7,
     "ResourceRoute": "",
-    "FunctionButtonEscape": "The World Boss Crudade has started, you can participate through the Features.",
+    "FunctionButtonEscape": "The World Boss Crusade has started, you can participate through the Features.",
     "NpcHeadEscape": "",
     "HudEscape": ""
   },
   "8009003": {
     "Id": 8009003,
     "Type": 0,
-    "Content": "{*string[1]*} [ <u><style=chat_fishing_share_tujian><link=1>{*fishing.playerName*}'s record of {*fishing.fishName*}</link></style></u> ] {*string[2]*}",
+    "Content": "{*string[1]*}[ <u><style=chat_fishing_share_tujian><link=1>{*fishing.playerName*}'s record of {*fishing.fishName*}</link></style></u> ] {*string[2]*}",
     "ChannelId": [],
     "IsShowInsystem": false,
     "MessageTableId": 0,
@@ -964,7 +964,7 @@
   "8009004": {
     "Id": 8009004,
     "Type": 0,
-    "Content": "{*string[1]*} [ <u><style=chat_fishing_share_rank><link=1>{*fishing.playerName*}'s ranking of {*fishing.fishName*}: {*fishing.rank*}</link></style></u> ] {*string[2]*}",
+    "Content": "{*string[1]*}[ <u><style=chat_fishing_share_rank><link=1>{*fishing.playerName*}'s ranking of {*fishing.fishName*}: {*fishing.rank*}</link></style></u> ]{*string[2]*}",
     "ChannelId": [],
     "IsShowInsystem": false,
     "MessageTableId": 0,
@@ -977,7 +977,7 @@
   "8009005": {
     "Id": 8009005,
     "Type": 0,
-    "Content": "{*string[1]*} [ <u><style=chat_fishing_share_profile><link=1>{*fishing.playerName*}'s fishing profile</link></style></u> ] {*string[2]*}",
+    "Content": "{*string[1]*}[ <u><style=chat_fishing_share_profile><link=1>{*fishing.playerName*}'s fishing profile</link></style></u> ]{*string[2]*}",
     "ChannelId": [],
     "IsShowInsystem": false,
     "MessageTableId": 0,
@@ -990,7 +990,7 @@
   "8009006": {
     "Id": 8009006,
     "Type": 2,
-    "Content": "The World Boss Crudade has started, you can participate through the Features.",
+    "Content": "The World Boss Crusade has started, you can participate through the Features.",
     "ChannelId": [
       7
     ],
@@ -998,7 +998,7 @@
     "MessageTableId": 0,
     "FuncType": 7,
     "ResourceRoute": "",
-    "FunctionButtonEscape": "The World Boss Crudade has started, you can participate through the Features.",
+    "FunctionButtonEscape": "The World Boss Crusade has started, you can participate through the Features.",
     "NpcHeadEscape": "",
     "HudEscape": ""
   },

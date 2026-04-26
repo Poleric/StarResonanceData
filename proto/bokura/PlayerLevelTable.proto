@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message PlayerLevelTableBase {
-  int32 level = 1120;
-  int32 exp = 970;
-  int_table level_up_attr = 958;
-  int32 level_award_id = 560;
-  string icon = 1153;
-  mlstring explain_text = 323;
+	int32 Level = 1120 [json_name = "Level"];
+	int32 Exp = 970 [json_name = "Exp"];
+	int_table LevelUpAttr = 958 [json_name = "LevelUpAttr"];
+	int32 LevelAwardID = 560 [json_name = "LevelAwardID"];
+	string Icon = 1153 [json_name = "Icon"];
+	mlstring ExplainText = 323 [json_name = "ExplainText"];
 }
 
 message PlayerLevelTableMgr {
-  map<int32, bokura.PlayerLevelTableBase> datas = 1;
+	map<int32, PlayerLevelTableBase> datas = 1 [json_name = "datas"];
 }
-

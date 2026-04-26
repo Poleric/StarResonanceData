@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message Goods {
-  int32 goods_id = 1;
-  int32 goods_num = 2;
+	int32 goodsId = 1 [json_name = "goodsId"];
+	int32 goodsNum = 2 [json_name = "goodsNum"];
 }
-

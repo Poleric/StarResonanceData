@@ -1,24 +1,23 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ZoneTableBase {
-  int32 id = 1463;
-  string name = 439;
-  int32 model_id = 2011;
-  string effect_path = 1536;
-  int_table status_info = 1979;
-  int_table status_transition = 109;
-  int32 default_state = 1528;
-  int_table interaction_template = 1682;
-  string_array interaction_event = 1343;
-  int_table show_status_info = 1473;
-  int_table show_status_transition = 1771;
+	int32 Id = 1463 [json_name = "Id"];
+	string Name = 439 [json_name = "Name"];
+	int32 ModelID = 2011 [json_name = "ModelID"];
+	string EffectPath = 1536 [json_name = "EffectPath"];
+	int_table StatusInfo = 1979 [json_name = "StatusInfo"];
+	int_table StatusTransition = 109 [json_name = "StatusTransition"];
+	int32 DefaultState = 1528 [json_name = "DefaultState"];
+	int_table InteractionTemplate = 1682 [json_name = "InteractionTemplate"];
+	string_array InteractionEvent = 1343 [json_name = "InteractionEvent"];
+	int_table ShowStatusInfo = 1473 [json_name = "ShowStatusInfo"];
+	int_table ShowStatusTransition = 1771 [json_name = "ShowStatusTransition"];
 }
 
 message ZoneTableMgr {
-  map<int32, bokura.ZoneTableBase> datas = 1;
+	map<int32, ZoneTableBase> datas = 1 [json_name = "datas"];
 }
-

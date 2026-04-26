@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_ark_share_with_tencent_request.proto";
 import "stru_create_private_chat_session_reply.proto";
@@ -26,132 +24,123 @@ import "stru_query_chat_mute_reply.proto";
 import "stru_query_chat_mute_request.proto";
 import "stru_send_chit_chat_msg_reply.proto";
 import "stru_send_chit_chat_msg_request.proto";
-import "stru_send_sys_chat_hypertext_request.proto";
 import "stru_set_private_chat_has_read_reply.proto";
 import "stru_set_private_chat_has_read_request.proto";
 import "stru_set_world_chat_channel_id_reply.proto";
 import "stru_set_world_chat_channel_id_request.proto";
 
+package zproto;
+
 message ChitChat {
+	message SendChitChatMsg_Ret {
+		SendChitChatMsgReply ret = 1 [json_name = "ret"];
+	}
 
-  message SendChitChatMsg_Ret {
-    zproto.SendChitChatMsgReply ret = 1;
-  }
+	message SendChitChatMsg {
+		SendChitChatMsgRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message SendChitChatMsg {
-    zproto.SendChitChatMsgRequest v_request = 1;
-  }
+	message GetChipChatRecords_Ret {
+		GetChipChatRecordsReply ret = 1 [json_name = "ret"];
+	}
 
-  message GetChipChatRecords_Ret {
-    zproto.GetChipChatRecordsReply ret = 1;
-  }
+	message GetChipChatRecords {
+		GetChipChatRecordsRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message GetChipChatRecords {
-    zproto.GetChipChatRecordsRequest v_request = 1;
-  }
+	message GetPrivateChatTargets_Ret {
+		GetPrivateChatTargetsReply ret = 1 [json_name = "ret"];
+	}
 
-  message GetPrivateChatTargets_Ret {
-    zproto.GetPrivateChatTargetsReply ret = 1;
-  }
+	message GetPrivateChatTargets {
+		GetPrivateChatTargetsRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message GetPrivateChatTargets {
-    zproto.GetPrivateChatTargetsRequest v_request = 1;
-  }
+	message CreatePrivateChatSession_Ret {
+		CreatePrivateChatSessionReply ret = 1 [json_name = "ret"];
+	}
 
-  message CreatePrivateChatSession_Ret {
-    zproto.CreatePrivateChatSessionReply ret = 1;
-  }
+	message CreatePrivateChatSession {
+		CreatePrivateChatSessionRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message CreatePrivateChatSession {
-    zproto.CreatePrivateChatSessionRequest v_request = 1;
-  }
+	message DeletePrivateChatSession_Ret {
+		DeletePrivateChatSessionReply ret = 1 [json_name = "ret"];
+	}
 
-  message DeletePrivateChatSession_Ret {
-    zproto.DeletePrivateChatSessionReply ret = 1;
-  }
+	message DeletePrivateChatSession {
+		DeletePrivateChatSessionRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message DeletePrivateChatSession {
-    zproto.DeletePrivateChatSessionRequest v_request = 1;
-  }
+	message SetPrivateChatHasRead_Ret {
+		SetPrivateChatHasReadReply ret = 1 [json_name = "ret"];
+	}
 
-  message SetPrivateChatHasRead_Ret {
-    zproto.SetPrivateChatHasReadReply ret = 1;
-  }
+	message SetPrivateChatHasRead {
+		SetPrivateChatHasReadRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message SetPrivateChatHasRead {
-    zproto.SetPrivateChatHasReadRequest v_request = 1;
-  }
+	message PrivateChatTargetTop_Ret {
+		PrivateChatTargetTopReply ret = 1 [json_name = "ret"];
+	}
 
-  message PrivateChatTargetTop_Ret {
-    zproto.PrivateChatTargetTopReply ret = 1;
-  }
+	message PrivateChatTargetTop {
+		PrivateChatTargetTopRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message PrivateChatTargetTop {
-    zproto.PrivateChatTargetTopRequest v_request = 1;
-  }
+	message PrivateChatTargetBlock_Ret {
+		PrivateChatTargetBlockReply ret = 1 [json_name = "ret"];
+	}
 
-  message PrivateChatTargetBlock_Ret {
-    zproto.PrivateChatTargetBlockReply ret = 1;
-  }
+	message PrivateChatTargetBlock {
+		PrivateChatTargetBlockRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message PrivateChatTargetBlock {
-    zproto.PrivateChatTargetBlockRequest v_request = 1;
-  }
+	message PrivateChatBlockList_Ret {
+		PrivateChatBlockListReply ret = 1 [json_name = "ret"];
+	}
 
-  message PrivateChatBlockList_Ret {
-    zproto.PrivateChatBlockListReply ret = 1;
-  }
+	message PrivateChatBlockList {
+		PrivateChatBlockListRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message PrivateChatBlockList {
-    zproto.PrivateChatBlockListRequest v_request = 1;
-  }
+	message SetWorldChatChannelId_Ret {
+		SetWorldChatChannelIdReply ret = 1 [json_name = "ret"];
+	}
 
-  message SetWorldChatChannelId_Ret {
-    zproto.SetWorldChatChannelIdReply ret = 1;
-  }
+	message SetWorldChatChannelId {
+		SetWorldChatChannelIdRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message SetWorldChatChannelId {
-    zproto.SetWorldChatChannelIdRequest v_request = 1;
-  }
+	message GetWorldChatChannelId_Ret {
+		GetWorldChatChannelIdReply ret = 1 [json_name = "ret"];
+	}
 
-  message GetWorldChatChannelId_Ret {
-    zproto.GetWorldChatChannelIdReply ret = 1;
-  }
+	message GetWorldChatChannelId {
+		GetWorldChatChannelIdRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message GetWorldChatChannelId {
-    zproto.GetWorldChatChannelIdRequest v_request = 1;
-  }
+	message QueryChatMute_Ret {
+		QueryChatMuteReply ret = 1 [json_name = "ret"];
+	}
 
-  message QueryChatMute_Ret {
-    zproto.QueryChatMuteReply ret = 1;
-  }
+	message QueryChatMute {
+		QueryChatMuteRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message QueryChatMute {
-    zproto.QueryChatMuteRequest v_request = 1;
-  }
+	message ArkShareWithTencent_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
 
-  message SendSysChatHypertext_Ret {
-    zproto.EErrorCode ret = 1;
-  }
+	message ArkShareWithTencent {
+		ArkShareWithTencentRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message SendSysChatHypertext {
-    zproto.SendSysChatHypertextRequest v_request = 1;
-  }
+	message GetArkJsonWithTencent_Ret {
+		GetArkJsonWithTencentReply ret = 1 [json_name = "ret"];
+	}
 
-  message ArkShareWithTencent_Ret {
-    zproto.EErrorCode ret = 1;
-  }
-
-  message ArkShareWithTencent {
-    zproto.ArkShareWithTencentRequest v_request = 1;
-  }
-
-  message GetArkJsonWithTencent_Ret {
-    zproto.GetArkJsonWithTencentReply ret = 1;
-  }
-
-  message GetArkJsonWithTencent {
-    zproto.GetArkJsonWithTencentRequest v_request = 1;
-  }
+	message GetArkJsonWithTencent {
+		GetArkJsonWithTencentRequest vRequest = 1 [json_name = "vRequest"];
+	}
 }
-

@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_receive_reward_status.proto";
 import "stru_month_card_item.proto";
 import "stru_dirty_mask.proto";
 
-message MonthlyCardInfo {
-  zproto.EReceiveRewardStatus limit_award_status = 1;
-  zproto.EReceiveRewardStatus award_status = 2;
-  zproto.MonthCardItem month_card_item = 3;
-  int64 begin_time = 4;
-  int64 end_time = 5;
-}
+package zproto;
 
+message MonthlyCardInfo {
+	EReceiveRewardStatus limitAwardStatus = 1 [json_name = "limitAwardStatus"];
+	EReceiveRewardStatus awardStatus = 2 [json_name = "awardStatus"];
+	MonthCardItem monthCardItem = 3 [json_name = "monthCardItem"];
+	int64 beginTime = 4 [json_name = "beginTime"];
+	int64 endTime = 5 [json_name = "endTime"];
+}

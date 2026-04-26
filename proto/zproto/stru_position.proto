@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message Position {
-  float x = 1;
-  float y = 2;
-  float z = 3;
-  float dir = 4;
-}
+package zproto;
 
+message Position {
+	float x = 1 [json_name = "x"];
+	float y = 2 [json_name = "y"];
+	float z = 3 [json_name = "z"];
+	float dir = 4 [json_name = "dir"];
+}

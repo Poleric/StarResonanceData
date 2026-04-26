@@ -3,14 +3,13 @@ syntax = "proto3";
 package bokura;
 
 message PersonalTagTableBase {
-  int32 id = 1463;
-  string tag_name = 510;
-  string tag_icon = 25;
-  int32 type = 673;
-  int32 sequence = 831;
+	int32 Id = 1463 [json_name = "Id"];
+	string TagName = 510 [json_name = "TagName"];
+	string TagIcon = 25 [json_name = "TagIcon"];
+	int32 Type = 673 [json_name = "Type"];
+	int32 Sequence = 831 [json_name = "Sequence"];
 }
 
 message PersonalTagTableMgr {
-  map<int32, bokura.PersonalTagTableBase> datas = 1;
+	map<int32, PersonalTagTableBase> datas = 1 [json_name = "datas"];
 }
-

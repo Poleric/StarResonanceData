@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_structure_op.proto";
 
-message UpdateStructureRequest {
-  int64 home_id = 1;
-  repeated zproto.StructureOp ops = 2;
-}
+package zproto;
 
+message UpdateStructureRequest {
+	int64 homeId = 1 [json_name = "homeId"];
+	repeated StructureOp ops = 2 [json_name = "ops"];
+}

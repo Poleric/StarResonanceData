@@ -174,30 +174,30 @@
     ],
     "QuickReasoning": true
   },
-  "30011": {
-    "Id": 30011,
+  "20011": {
+    "Id": 20011,
     "Clue": [
-      300111,
-      300112,
-      300113
+      200111,
+      200112,
+      200113
     ],
     "InferenceStep": [
-      300111,
-      300112,
-      300113
+      200111,
+      200112,
+      200113
     ],
-    "Conclusion": "Conclusion reached.",
-    "ConclusionTips": "Based on the inference, think about the next step.",
-    "ConclusionBubble": "Conclusion reached.",
+    "Conclusion": "Everyone has different opinions. Let's discuss it with Airona.",
+    "ConclusionTips": "Talk about what to do with Airona.",
+    "ConclusionBubble": "Go talk to Airona next.",
     "ConclusionAction": 9033,
     "IockedBubble": [
-      "The most important key to breaking the situation must be hidden somewhere..."
+      "With just these clues... there's no clear lead."
     ],
     "IockedBubbleAction": [
       9019
     ],
     "ReviewBubble": [
-      "Thanks to my cleverness, I found the clue."
+      "The situation back then was truly complicated..."
     ],
     "ReviewBubbleAction": [
       9047
@@ -234,6 +234,36 @@
     ],
     "QuickReasoning": true
   },
+  "30011": {
+    "Id": 30011,
+    "Clue": [
+      300111,
+      300112,
+      300113
+    ],
+    "InferenceStep": [
+      300111,
+      300112,
+      300113
+    ],
+    "Conclusion": "Conclusion reached.",
+    "ConclusionTips": "Based on the inference, think about the next step.",
+    "ConclusionBubble": "Conclusion reached.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "The most important key to breaking the situation must be hidden somewhere..."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Thanks to my cleverness, I found the clue."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
   "30021": {
     "Id": 30021,
     "Clue": [
@@ -246,7 +276,7 @@
       300212,
       300213
     ],
-    "Conclusion": "The disappearance of three personnel all occurred near the cliff, accompanied by strong winds. There were obvious drag marks at the scene. It's related to the ancient curse of Kanamia and the damaged machine image.",
+    "Conclusion": "The disappearance of three personnel all occurred near the cliff, accompanied by strong winds. There were obvious drag marks at the scene. It's related to the ancient curse of Kanamia and the damaged Golem.",
     "ConclusionTips": "Very likely man-made and tried to cover it up.",
     "ConclusionBubble": "This is the final conclusion.",
     "ConclusionAction": 9033,
@@ -288,6 +318,245 @@
     ],
     "ReviewBubble": [
       "Maybe I really do have a talent for detective work!"
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "50011": {
+    "Id": 50011,
+    "Clue": [
+      500111,
+      500112,
+      500113
+    ],
+    "InferenceStep": [
+      500111,
+      500112,
+      500113
+    ],
+    "Conclusion": "The pale red mist is very likely the trigger. Keeping a calm mind helps ease the effects, and the key to cracking those nightmares might lie with the newly found divine legacy on the Highlands.",
+    "ConclusionTips": "Inform Jerrad of your discoveries",
+    "ConclusionBubble": "I hope my deduction is correct...",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "Still need to think about it."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "What is the truth behind the nightmares...?"
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "70011": {
+    "Id": 70011,
+    "Clue": [
+      700111,
+      700112,
+      700113
+    ],
+    "InferenceStep": [
+      700111,
+      700112
+    ],
+    "Conclusion": "Although Lothar created the Starsoul Flasks, he's preoccupied and unpresent. Priest Gisela won't agree to hand out 500 Starsoul Flasks. But if we explain our situation to Boyce, he might help.",
+    "ConclusionTips": "Find Boyce on the road in front of the Pillar of Divinity",
+    "ConclusionBubble": "Let's go talk to Boyce!",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "No, it's still too early to reach a conclusion."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "That must be it."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "80011": {
+    "Id": 80011,
+    "Clue": [
+      800111,
+      800112,
+      800113
+    ],
+    "InferenceStep": [
+      800111,
+      800112,
+      800113
+    ],
+    "Conclusion": "The mutiny must've occurred during the blank period. After that, they were clearly understaffed—duty periods grew longer, patrol zones were reduced. The troopers who vanished after the rebellion were likely Klaus's men.",
+    "ConclusionTips": "Analyze the Shift Schedule with Airona",
+    "ConclusionBubble": "Find the people missing from the list.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "There must be more clues."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Classic deduction."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "90011": {
+    "Id": 90011,
+    "Clue": [
+      900111,
+      900112,
+      900113
+    ],
+    "InferenceStep": [
+      900111,
+      900112,
+      900113
+    ],
+    "Conclusion": "It seems Nevelle has colluded with the Blackstone Legion, planning to eliminate Maire, take over the caravan, and smuggle Crimson Marrow. The Man in Black is likely the one stirring things up. Even if Nevelle gets the wealth he desires, he will likely pay an hidden price.",
+    "ConclusionTips": "Discuss with Airona.",
+    "ConclusionBubble": "Tell Airona your theory.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "No, it's still too early to reach a conclusion."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "See through everything."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "100011": {
+    "Id": 100011,
+    "Clue": [
+      1000111,
+      1000112,
+      1000113
+    ],
+    "InferenceStep": [
+      1000111,
+      1000112,
+      1000113
+    ],
+    "Conclusion": "The fox dancing phenomenon in Moonshadow Wilds has nothing to do with the Berry Fruit. Any related info is just misinformation. <br>The soldiers saw the Berry Fruit due to the influence of the Illusory Plague. <br>Therefore, the Berry Fruit, which no one has actually seen, does not exist.",
+    "ConclusionTips": "Recall the descriptions of the Berry Fruit from the interviewees with Darya.",
+    "ConclusionBubble": "Tell Darya your deduction.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "Still need to think about it."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Classic deduction."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "100021": {
+    "Id": 100021,
+    "Clue": [
+      1000211,
+      1000212,
+      1000213
+    ],
+    "InferenceStep": [
+      1000211,
+      1000212,
+      1000213
+    ],
+    "Conclusion": "Only the two people who contracted the Illusory Plague have seen the Berry Fruit. <br>Hundreds of people ate Berg's meals without issue, so Berg did not use Berry Fruits as ingredients. <br>The Berry Fruit does not exist.",
+    "ConclusionTips": "Recall the descriptions of the Berry Fruit from the interviewees with Darya.",
+    "ConclusionBubble": "Tell Darya your deduction.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "Still need to think about it."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Classic deduction."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "100041": {
+    "Id": 100041,
+    "Clue": [
+      1000411,
+      1000412,
+      1000413
+    ],
+    "InferenceStep": [
+      1000411,
+      1000412,
+      1000413
+    ],
+    "Conclusion": "The term \"List\" did appear in the records, but no physical object was found. The \"Tower\" seems to be where Reiner keeps important items, so the next step should be to follow the boot prints and investigate the truth of the \"List\" inside the Tower.",
+    "ConclusionTips": "Follow the boot prints to the \"Tower\" to investigate the truth of the \"List\".",
+    "ConclusionBubble": "Found it... this isn't the answer to the List, but it's the path to the answer.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "Not enough clues... drawing a conclusion now will only get me in trouble."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Looking back now... what they were truly afraid of was never the \"List\"."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "100031": {
+    "Id": 100031,
+    "Clue": [
+      1000311,
+      1000312,
+      1000313
+    ],
+    "InferenceStep": [
+      1000311,
+      1000312,
+      1000313
+    ],
+    "Conclusion": "Miners have families to arrange for and must consider their own situations. <br>So it's uncertain if they are all willing to return to Asterleeds.",
+    "ConclusionTips": "Recall the miners' information.",
+    "ConclusionBubble": "First, think about how to persuade the miners.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "No, I can't reach a conclusion yet."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Classic deduction."
     ],
     "ReviewBubbleAction": [
       9047

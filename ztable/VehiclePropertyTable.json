@@ -25,14 +25,14 @@
   },
   "11": {
     "Id": 11,
-    "Name": "Land Mounts",
-    "Desc": "Summonable Land Mount Imagines",
+    "Name": "Land Mount",
+    "Desc": "Summonable Land Mount Imagine",
     "Icon": "ui/atlas/vehicle/vehicle_icon_06"
   },
   "12": {
     "Id": 12,
-    "Name": "Water Mounts",
-    "Desc": "Summonable Water Mount Imagines",
+    "Name": "Water Mount",
+    "Desc": "Summonable Water Mount Imagine",
     "Icon": "ui/atlas/vehicle/vehicle_icon_05"
   }
 }

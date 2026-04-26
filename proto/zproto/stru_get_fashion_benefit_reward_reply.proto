@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_item.proto";
 
-message GetFashionBenefitRewardReply {
-  repeated zproto.Item rewards = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message GetFashionBenefitRewardReply {
+	repeated Item rewards = 1 [json_name = "rewards"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

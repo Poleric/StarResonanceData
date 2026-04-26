@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message UserRecommendPlayData {
-  map<int32, int64> play_mail = 1;
-}
+package zproto;
 
+message UserRecommendPlayData {
+	map<int32, int64> playMail = 1 [json_name = "playMail"];
+}

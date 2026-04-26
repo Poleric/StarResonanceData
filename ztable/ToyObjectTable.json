@@ -29,18 +29,10 @@
         56001
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [
-      {
-        "x": 7000207.0,
-        "y": 1.0
-      },
-      {
-        "x": 7000208.0,
-        "y": 1.0
-      }
-    ],
+    "AppearDisAppearCfg": [],
     "DissolutionCfg": [
       {
         "x": 7000207.0,
@@ -84,6 +76,7 @@
         56002
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -139,6 +132,7 @@
         56003
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -194,6 +188,7 @@
         56004
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -249,6 +244,7 @@
         56005
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -304,6 +300,7 @@
         56006
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -359,6 +356,7 @@
         56007
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -414,6 +412,7 @@
         56008
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -469,6 +468,7 @@
         56009
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -520,6 +520,7 @@
         56011
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [],
@@ -565,6 +566,7 @@
         56012
       ]
     ],
+    "InteractionMount": [],
     "ShowStatusInfo": [
       [
         0,
@@ -612,6 +614,7 @@
     "StatusTransition": [],
     "DefaultState": 0,
     "InteractionTemplate": [],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -652,6 +655,7 @@
     "StatusTransition": [],
     "DefaultState": 0,
     "InteractionTemplate": [],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [
@@ -688,6 +692,7 @@
     "StatusTransition": [],
     "DefaultState": 0,
     "InteractionTemplate": [],
+    "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [

@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_cancel_delete_char_reply.proto";
 import "stru_cancel_delete_char_request.proto";
@@ -24,113 +22,118 @@ import "stru_reconnect_request.proto";
 import "stru_report_m_sdk_request.proto";
 import "stru_select_char_reply.proto";
 import "stru_select_char_request.proto";
+import "stru_sync_language_request.proto";
 import "stru_take_award_by_cd_key_request.proto";
 import "stru_upload_face_success_request.proto";
 
+package zproto;
+
 message GrpcCharactor {
+	message Login_Ret {
+		LoginReply ret = 1 [json_name = "ret"];
+	}
 
-  message Login_Ret {
-    zproto.LoginReply ret = 1;
-  }
+	message Login {
+		LoginRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message Login {
-    zproto.LoginRequest v_request = 1;
-  }
+	message CreateChar_Ret {
+		CreateCharReply ret = 1 [json_name = "ret"];
+	}
 
-  message CreateChar_Ret {
-    zproto.CreateCharReply ret = 1;
-  }
+	message CreateChar {
+		CreateCharRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message CreateChar {
-    zproto.CreateCharRequest v_request = 1;
-  }
+	message SelectChar_Ret {
+		SelectCharReply ret = 1 [json_name = "ret"];
+	}
 
-  message SelectChar_Ret {
-    zproto.SelectCharReply ret = 1;
-  }
+	message SelectChar {
+		SelectCharRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message SelectChar {
-    zproto.SelectCharRequest v_request = 1;
-  }
+	message DeleteChar_Ret {
+		DeleteCharReply ret = 1 [json_name = "ret"];
+	}
 
-  message DeleteChar_Ret {
-    zproto.DeleteCharReply ret = 1;
-  }
+	message DeleteChar {
+		DeleteCharRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message DeleteChar {
-    zproto.DeleteCharRequest v_request = 1;
-  }
+	message Reconnect_Ret {
+		ReconnectReply ret = 1 [json_name = "ret"];
+	}
 
-  message Reconnect_Ret {
-    zproto.ReconnectReply ret = 1;
-  }
+	message Reconnect {
+		ReconnectRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message Reconnect {
-    zproto.ReconnectRequest v_request = 1;
-  }
+	message ExitGame {
+		ExitGameRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message ExitGame {
-    zproto.ExitGameRequest v_request = 1;
-  }
+	message ReportMSdk_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
 
-  message ReportMSdk_Ret {
-    zproto.EErrorCode ret = 1;
-  }
+	message ReportMSdk {
+		ReportMSdkRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message ReportMSdk {
-    zproto.ReportMSdkRequest v_request = 1;
-  }
+	message GetFaceUpToken {
+		GetFaceUpTokenRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message GetFaceUpToken {
-    zproto.GetFaceUpTokenRequest v_request = 1;
-  }
+	message UploadFaceSuccess_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
 
-  message UploadFaceSuccess_Ret {
-    zproto.EErrorCode ret = 1;
-  }
+	message UploadFaceSuccess {
+		UploadFaceSuccessRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message UploadFaceSuccess {
-    zproto.UploadFaceSuccessRequest v_request = 1;
-  }
+	message GetFaceUploadData_Ret {
+		GetFaceUploadDataReply ret = 1 [json_name = "ret"];
+	}
 
-  message GetFaceUploadData_Ret {
-    zproto.GetFaceUploadDataReply ret = 1;
-  }
+	message GetFaceUploadData {
+		GetFaceUploadDataRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message GetFaceUploadData {
-    zproto.GetFaceUploadDataRequest v_request = 1;
-  }
+	message GetFaceDataUrl_Ret {
+		GetFaceDataUrlReply ret = 1 [json_name = "ret"];
+	}
 
-  message GetFaceDataUrl_Ret {
-    zproto.GetFaceDataUrlReply ret = 1;
-  }
+	message GetFaceDataUrl {
+		GetFaceDataUrlRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message GetFaceDataUrl {
-    zproto.GetFaceDataUrlRequest v_request = 1;
-  }
+	message CancelDeleteChar_Ret {
+		CancelDeleteCharReply ret = 1 [json_name = "ret"];
+	}
 
-  message CancelDeleteChar_Ret {
-    zproto.CancelDeleteCharReply ret = 1;
-  }
+	message CancelDeleteChar {
+		CancelDeleteCharRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message CancelDeleteChar {
-    zproto.CancelDeleteCharRequest v_request = 1;
-  }
+	message PrivilegeActivate_Ret {
+		PrivilegeActivateReply ret = 1 [json_name = "ret"];
+	}
 
-  message PrivilegeActivate_Ret {
-    zproto.PrivilegeActivateReply ret = 1;
-  }
+	message PrivilegeActivate {
+		PrivilegeActivateRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message PrivilegeActivate {
-    zproto.PrivilegeActivateRequest v_request = 1;
-  }
+	message TakeAwardByCdKey_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
 
-  message TakeAwardByCdKey_Ret {
-    zproto.EErrorCode ret = 1;
-  }
+	message TakeAwardByCdKey {
+		TakeAwardByCdKeyRequest vRequest = 1 [json_name = "vRequest"];
+	}
 
-  message TakeAwardByCdKey {
-    zproto.TakeAwardByCdKeyRequest v_request = 1;
-  }
+	message SyncLanguage {
+		SyncLanguageRequest vRequest = 1 [json_name = "vRequest"];
+	}
 }
-

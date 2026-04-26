@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+message HomelandRetrieveSubModelRequest {
+	int64 structureUuid = 1 [json_name = "structureUuid"];
+	int32 slot = 2 [json_name = "slot"];
+	int32 subModelIndex = 3 [json_name = "subModelIndex"];
+	bool isOuter = 4 [json_name = "isOuter"];
+}

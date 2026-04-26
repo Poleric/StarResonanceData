@@ -3,11 +3,10 @@ syntax = "proto3";
 package zproto;
 
 message NotifyCommunityLevelUpdateRequest {
-  int32 new_level = 1;
-  int64 new_exp = 2;
-  int32 old_level = 3;
-  int64 old_exp = 4;
-  int64 old_resource = 5;
-  int64 new_resource = 6;
+	int32 newLevel = 1 [json_name = "newLevel"];
+	int64 newExp = 2 [json_name = "newExp"];
+	int32 oldLevel = 3 [json_name = "oldLevel"];
+	int64 oldExp = 4 [json_name = "oldExp"];
+	int64 oldResource = 5 [json_name = "oldResource"];
+	int64 newResource = 6 [json_name = "newResource"];
 }
-

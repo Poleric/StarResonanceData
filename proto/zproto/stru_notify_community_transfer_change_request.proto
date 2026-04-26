@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_community_transfer.proto";
 
-message NotifyCommunityTransferChangeRequest {
-  zproto.CommunityTransfer transfer_community = 1;
-}
+package zproto;
 
+message NotifyCommunityTransferChangeRequest {
+	CommunityTransfer transferCommunity = 1 [json_name = "transferCommunity"];
+}

@@ -1,21 +1,20 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message EmoteTableBase {
-  int32 id = 1463;
-  int_array face_data_id = 1991;
-  int32 emote_type = 1948;
-  int32 type = 673;
-  bool is_loop = 109;
-  string icon = 1153;
-  string is_show = 822;
-  string_array emote = 587;
+	int32 Id = 1463 [json_name = "Id"];
+	int_array FaceDataId = 1991 [json_name = "FaceDataId"];
+	int32 EmoteType = 1948 [json_name = "EmoteType"];
+	int32 Type = 673 [json_name = "Type"];
+	bool IsLoop = 109 [json_name = "IsLoop"];
+	string Icon = 1153 [json_name = "Icon"];
+	string IsShow = 822 [json_name = "IsShow"];
+	string_array Emote = 587 [json_name = "Emote"];
 }
 
 message EmoteTableMgr {
-  map<int32, bokura.EmoteTableBase> datas = 1;
+	map<int32, EmoteTableBase> datas = 1 [json_name = "datas"];
 }
-

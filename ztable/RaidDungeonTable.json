@@ -2,9 +2,9 @@
   "13001": {
     "DungeonId": 13001,
     "Difficult": 1,
-    "SeasonId": 1,
+    "GroupId": 1,
     "Name": "Dragon Shackles",
-    "Content": 4504,
+    "Content": 4510,
     "MatchPic": "",
     "BossId": [],
     "PassAward": [
@@ -13,14 +13,37 @@
     "MonsterShowTexture": "ui/textures/roid/raid_easy_monster",
     "DiffBgTexture": "ui/textures/roid/raid_easy_bg",
     "TitleBgTexture": "ui/textures/roid/raid_title_easy",
-    "Desc": "<br><size=22><style=\"\"tipsYellow\"\">Tips: You can use food and potions to temporarily boost combat ability for better participation in the challenge.</style></size>"
+    "BossNamePos": [
+      [
+        "-413",
+        "-161",
+        "0"
+      ],
+      [
+        "101",
+        "-348",
+        "0"
+      ],
+      [
+        "462",
+        "185",
+        "0"
+      ]
+    ],
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on",
+      "ui/atlas/raid/raid_tog_select_difficulty_on",
+      "ui/atlas/raid/raid_tog_select_nightmare_on"
+    ],
+    "Desc": "<size=22><color=#f04f84>Dreamforce: On the Floating Void Isle, your DMG dealt is increased by 100%. </color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.</style></size>",
+    "AwardDesc": ""
   },
   "13002": {
     "DungeonId": 13002,
     "Difficult": 2,
-    "SeasonId": 1,
+    "GroupId": 1,
     "Name": "Dragon Shackles",
-    "Content": 4504,
+    "Content": 4510,
     "MatchPic": "",
     "BossId": [
       102104,
@@ -33,14 +56,37 @@
     "MonsterShowTexture": "ui/textures/roid/raid_difficulty_monster",
     "DiffBgTexture": "ui/textures/roid/raid_difficulty_bg",
     "TitleBgTexture": "ui/textures/roid/raid_title_difficulty",
-    "Desc": "<br><size=22><style=\"\"tipsYellow\"\">Tips: You can use food and potions to temporarily boost combat ability for better participation in the challenge.</style></size>"
+    "BossNamePos": [
+      [
+        "-413",
+        "-161",
+        "0"
+      ],
+      [
+        "101",
+        "-348",
+        "0"
+      ],
+      [
+        "462",
+        "185",
+        "0"
+      ]
+    ],
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on",
+      "ui/atlas/raid/raid_tog_select_difficulty_on",
+      "ui/atlas/raid/raid_tog_select_nightmare_on"
+    ],
+    "Desc": "<size=22><color=#f04f84>Dreamforce: On the Floating Void Isle, your DMG dealt is increased by 100%. </color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.</style></size>",
+    "AwardDesc": ""
   },
   "13003": {
     "DungeonId": 13003,
     "Difficult": 3,
-    "SeasonId": 1,
+    "GroupId": 1,
     "Name": "Dragon Shackles",
-    "Content": 4504,
+    "Content": 4510,
     "MatchPic": "",
     "BossId": [
       102105,
@@ -53,6 +99,158 @@
     "MonsterShowTexture": "ui/textures/roid/raid_nightmare_monster",
     "DiffBgTexture": "ui/textures/roid/raid_nightmare_bg",
     "TitleBgTexture": "ui/textures/roid/raid_title_nightmare",
-    "Desc": "<br><size=22><style=\"\"tipsYellow\"\">Tips: You can use food and potions to temporarily boost combat ability for better participation in the challenge.</style></size>"
+    "BossNamePos": [
+      [
+        "-413",
+        "-161",
+        "0"
+      ],
+      [
+        "101",
+        "-348",
+        "0"
+      ],
+      [
+        "462",
+        "185",
+        "0"
+      ]
+    ],
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on",
+      "ui/atlas/raid/raid_tog_select_difficulty_on",
+      "ui/atlas/raid/raid_tog_select_nightmare_on"
+    ],
+    "Desc": "<size=22><color=#f04f84>Dreamforce: On the Floating Void Isle, your DMG dealt is increased by 100%. </color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.</style></size>",
+    "AwardDesc": "</style></size><br><size=22>Shares <color=#eed335>Radiant Starcore</color> reward count with <style=\"\"tipsYellow\"\">Land Where the Illusory Bloom Sleeps Dreambloom Ruins</style>."
+  },
+  "13011": {
+    "DungeonId": 13011,
+    "Difficult": 1,
+    "GroupId": 2,
+    "Name": "Dreambloom Ruins",
+    "Content": 4511,
+    "MatchPic": "",
+    "BossId": [
+      102800,
+      102901,
+      103001
+    ],
+    "PassAward": [
+      16000101
+    ],
+    "MonsterShowTexture": "ui/textures/roid/raid_easy_monster_02",
+    "DiffBgTexture": "ui/textures/roid/raid_easy_bg_02",
+    "TitleBgTexture": "ui/textures/roid/raid_title_easy_02",
+    "BossNamePos": [
+      [
+        "-111",
+        "-385",
+        "0"
+      ],
+      [
+        "428",
+        "-316",
+        "0"
+      ],
+      [
+        "71",
+        "-12",
+        "0"
+      ]
+    ],
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on",
+      "ui/atlas/raid/raid_tog_select_difficulty_on",
+      "ui/atlas/raid/raid_tog_select_nightmare_on_02"
+    ],
+    "Desc": "<br><size=22><color=#f04f84>Recommended: [Illusion Strength] 1480</color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.</style></size>",
+    "AwardDesc": ""
+  },
+  "13012": {
+    "DungeonId": 13012,
+    "Difficult": 2,
+    "GroupId": 2,
+    "Name": "Dreambloom Ruins",
+    "Content": 4511,
+    "MatchPic": "",
+    "BossId": [
+      102821,
+      102911,
+      103011
+    ],
+    "PassAward": [
+      16000102
+    ],
+    "MonsterShowTexture": "ui/textures/roid/raid_difficulty_monster_02",
+    "DiffBgTexture": "ui/textures/roid/raid_difficulty_bg_02",
+    "TitleBgTexture": "ui/textures/roid/raid_title_difficulty_02",
+    "BossNamePos": [
+      [
+        "-111",
+        "-385",
+        "0"
+      ],
+      [
+        "428",
+        "-316",
+        "0"
+      ],
+      [
+        "71",
+        "-12",
+        "0"
+      ]
+    ],
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on",
+      "ui/atlas/raid/raid_tog_select_difficulty_on",
+      "ui/atlas/raid/raid_tog_select_nightmare_on_02"
+    ],
+    "Desc": "<br><size=22><color=#f04f84>Recommended: [Illusion Strength] 2050</color><br><style=\"\"tipsYellow\"\">Tips:  Use food and potions to temporarily boost your strength.</style></size>",
+    "AwardDesc": ""
+  },
+  "13013": {
+    "DungeonId": 13013,
+    "Difficult": 3,
+    "GroupId": 2,
+    "Name": "Dreambloom Ruins",
+    "Content": 4511,
+    "MatchPic": "",
+    "BossId": [
+      102831,
+      102921,
+      103021
+    ],
+    "PassAward": [
+      16000103
+    ],
+    "MonsterShowTexture": "ui/textures/roid/raid_nightmare_monster_02",
+    "DiffBgTexture": "ui/textures/roid/raid_nightmare_bg_02",
+    "TitleBgTexture": "ui/textures/roid/raid_title_nightmare_02",
+    "BossNamePos": [
+      [
+        "-111",
+        "-385",
+        "0"
+      ],
+      [
+        "428",
+        "-316",
+        "0"
+      ],
+      [
+        "71",
+        "-12",
+        "0"
+      ]
+    ],
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on",
+      "ui/atlas/raid/raid_tog_select_difficulty_on",
+      "ui/atlas/raid/raid_tog_select_nightmare_on_02"
+    ],
+    "Desc": "<br><size=22><color=#f04f84>Recommended: [Illusion Strength] reaches 2,260</color><br><style=\"\"tipsYellow\"\">Tip: Use food and potions to temporarily boost combat ability for better participation in the challenge.",
+    "AwardDesc": "</style></size><br><size=22>Shares <color=#eed335>Radiant Starcore</color> reward count with <style=\"\"tipsYellow\"\">Showdown! Floating Island</style>."
   }
 }

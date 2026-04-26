@@ -1,16 +1,17 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_team_join_type.proto";
 import "stru_team_base_info.proto";
+import "stru_team_member_fast_sync_data.proto";
 import "stru_team_mem_data.proto";
 import "stru_team_mem_real_time_voice_info.proto";
 
-message NotifyJoinTeamRequest {
-  zproto.TeamBaseInfo base_info = 1;
-  repeated zproto.TeamMemData member_data = 2;
-  map<int64, zproto.TeamMemRealTimeVoiceInfo> mem_real_time_voice_infos = 4;
-  zproto.ETeamJoinType team_join_type = 5;
-}
+package zproto;
 
+message NotifyJoinTeamRequest {
+	TeamBaseInfo baseInfo = 1 [json_name = "baseInfo"];
+	repeated TeamMemData memberData = 2 [json_name = "memberData"];
+	map<int64, TeamMemRealTimeVoiceInfo> memRealTimeVoiceInfos = 4 [json_name = "memRealTimeVoiceInfos"];
+	ETeamJoinType teamJoinType = 5 [json_name = "teamJoinType"];
+	map<int64, TeamMemberFastSyncData> memberSyncDatas = 6 [json_name = "memberSyncDatas"];
+}

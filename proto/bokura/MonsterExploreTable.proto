@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message MonsterExploreTableBase {
-  int32 monster_id = 1262;
-  int32 scene = 1438;
-  int32 sort = 1643;
-  int_table target = 1340;
-  int32 unlock_award = 1745;
-  float model_retio = 941;
-  mlstring condition = 1634;
+	int32 MonsterId = 1262 [json_name = "MonsterId"];
+	int32 Scene = 1438 [json_name = "Scene"];
+	int32 Sort = 1643 [json_name = "Sort"];
+	int_table Target = 1340 [json_name = "Target"];
+	int32 UnlockAward = 1745 [json_name = "UnlockAward"];
+	float ModelRetio = 941 [json_name = "ModelRetio"];
+	mlstring Condition = 1634 [json_name = "Condition"];
 }
 
 message MonsterExploreTableMgr {
-  map<int32, bokura.MonsterExploreTableBase> datas = 1;
+	map<int32, MonsterExploreTableBase> datas = 1 [json_name = "datas"];
 }
-

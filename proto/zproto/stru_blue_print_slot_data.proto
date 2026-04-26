@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_blue_print_share_data.proto";
+
+package zproto;
+
+message BluePrintSlotData {
+	map<int32, BluePrintShareData> slotData = 1 [json_name = "slotData"];
+}

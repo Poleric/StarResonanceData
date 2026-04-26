@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_battle_pass.proto";
 import "stru_season_bp_quest_list.proto";
 import "stru_dirty_mask.proto";
 
-message SeasonCenterHistory {
-  zproto.BattlePass battle_pass = 1;
-  zproto.SeasonBpQuestList bp_quest_list = 2;
-}
+package zproto;
 
+message SeasonCenterHistory {
+	BattlePass battlePass = 1 [json_name = "battlePass"];
+	SeasonBpQuestList bpQuestList = 2 [json_name = "bpQuestList"];
+}

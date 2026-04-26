@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message EquipAttrSet {
-  map<int32, int32> basic_attr = 1;
-  map<int32, int32> advance_attr = 2;
-  map<int32, int32> recast_attr = 3;
-  map<int32, int32> rare_quality_attr = 4;
-}
+package zproto;
 
+message EquipAttrSet {
+	map<int32, int32> basicAttr = 1 [json_name = "basicAttr"];
+	map<int32, int32> advanceAttr = 2 [json_name = "advanceAttr"];
+	map<int32, int32> recastAttr = 3 [json_name = "recastAttr"];
+	map<int32, int32> rareQualityAttr = 4 [json_name = "rareQualityAttr"];
+}

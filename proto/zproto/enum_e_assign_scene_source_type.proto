@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 enum EAssignSceneSourceType {
-  AssignSceneSourceTypeSilo = 0;
-  AssignSceneSourceTypeWorld = 1;
+	AssignSceneSourceTypeSilo = 0;
+	AssignSceneSourceTypeWorld = 1;
 }
-

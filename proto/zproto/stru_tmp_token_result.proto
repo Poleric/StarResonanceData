@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message TmpTokenResult {
-  string tmp_secret_id = 1;
-  string tmp_secret_key = 2;
-  string tmp_token = 3;
-  int64 expired_time = 4;
-  string region = 5;
-  string bucket = 6;
-  string object_key = 7;
-  uint32 picture_id = 8;
-  int32 version = 9;
-  zproto.EErrorCode err_code = 10;
-}
+package zproto;
 
+message TmpTokenResult {
+	string tmpSecretId = 1 [json_name = "tmpSecretId"];
+	string tmpSecretKey = 2 [json_name = "tmpSecretKey"];
+	string tmpToken = 3 [json_name = "tmpToken"];
+	int64 expiredTime = 4 [json_name = "expiredTime"];
+	string region = 5 [json_name = "region"];
+	string bucket = 6 [json_name = "bucket"];
+	string objectKey = 7 [json_name = "objectKey"];
+	uint32 pictureId = 8 [json_name = "pictureId"];
+	int32 version = 9 [json_name = "version"];
+	EErrorCode errCode = 10 [json_name = "errCode"];
+}

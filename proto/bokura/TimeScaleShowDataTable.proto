@@ -3,17 +3,16 @@ syntax = "proto3";
 package bokura;
 
 message TimeScaleShowDataTableBase {
-  int64 id = 1463;
-  float start = 678;
-  float duration = 544;
-  float end = 1415;
-  bool is_attacker = 920;
-  int32 state_id = 308;
-  int32 group_id = 196;
-  float time_scale = 1847;
+	int64 Id = 1463 [json_name = "Id"];
+	float Start = 678 [json_name = "Start"];
+	float Duration = 544 [json_name = "Duration"];
+	float End = 1415 [json_name = "End"];
+	bool IsAttacker = 920 [json_name = "IsAttacker"];
+	int32 StateId = 308 [json_name = "StateId"];
+	int32 GroupId = 196 [json_name = "GroupId"];
+	float TimeScale = 1847 [json_name = "TimeScale"];
 }
 
 message TimeScaleShowDataTableMgr {
-  map<int64, bokura.TimeScaleShowDataTableBase> datas = 1;
+	map<int64, TimeScaleShowDataTableBase> datas = 1 [json_name = "datas"];
 }
-

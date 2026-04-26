@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message CompensationData {
-  int64 overflow_energy = 1;
-  int32 finish_times = 2;
-  int32 climb_up_layer_id = 3;
-}
+package zproto;
 
+message CompensationData {
+	int64 overflowEnergy = 1 [json_name = "overflowEnergy"];
+	int32 finishTimes = 2 [json_name = "finishTimes"];
+	int32 climbUpLayerId = 3 [json_name = "climbUpLayerId"];
+}

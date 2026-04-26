@@ -963,8 +963,72 @@
       0
     ]
   },
+  "1310": {
+    "Id": 1310,
+    "Adsorbsurface1": [
+      0
+    ],
+    "Adsorbsurface2": [
+      0
+    ],
+    "Adsorbsurface3": [
+      0
+    ],
+    "Adsorbsurface4": [
+      0
+    ],
+    "Adsorbsurface5": [
+      0
+    ],
+    "Adsorbsurface6": [
+      0
+    ],
+    "Adsorbpoint": [
+      1
+    ],
+    "AdsorbPointSwitch": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
   "1401": {
     "Id": 1401,
+    "Adsorbsurface1": [
+      0
+    ],
+    "Adsorbsurface2": [
+      0
+    ],
+    "Adsorbsurface3": [
+      0
+    ],
+    "Adsorbsurface4": [
+      0
+    ],
+    "Adsorbsurface5": [
+      0
+    ],
+    "Adsorbsurface6": [
+      0
+    ],
+    "Adsorbpoint": [
+      1
+    ],
+    "AdsorbPointSwitch": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  "1402": {
+    "Id": 1402,
     "Adsorbsurface1": [
       0
     ],
@@ -1189,6 +1253,38 @@
       0,
       0,
       1
+    ]
+  },
+  "1601": {
+    "Id": 1601,
+    "Adsorbsurface1": [
+      0
+    ],
+    "Adsorbsurface2": [
+      0
+    ],
+    "Adsorbsurface3": [
+      0
+    ],
+    "Adsorbsurface4": [
+      0
+    ],
+    "Adsorbsurface5": [
+      0
+    ],
+    "Adsorbsurface6": [
+      0
+    ],
+    "Adsorbpoint": [
+      1
+    ],
+    "AdsorbPointSwitch": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
     ]
   }
 }

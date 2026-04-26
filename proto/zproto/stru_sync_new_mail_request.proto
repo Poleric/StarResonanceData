@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_mail_importance.proto";
 
-message SyncNewMailRequest {
-  int64 mail_uuid = 1;
-  zproto.MailImportance importance = 2;
-}
+package zproto;
 
+message SyncNewMailRequest {
+	int64 mailUuid = 1 [json_name = "mailUuid"];
+	MailImportance importance = 2 [json_name = "importance"];
+}

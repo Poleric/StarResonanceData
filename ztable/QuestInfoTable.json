@@ -1,7 +1,7 @@
 {
   "10101": {
     "Id": 10101,
-    "TitleName": "Episode 1: Beginning of the Journey",
+    "TitleName": "Episode I: Beginning of the Journey",
     "TitleOrder": 1,
     "PhaseName": "Dream Unfinished",
     "PhaseOrder": 1,
@@ -26,7 +26,7 @@
     "PhaseName": "The Snow Knight's Tale",
     "PhaseOrder": 3,
     "Unlock": 10089,
-    "TaskInfo": "While collecting the horns of Caprahorns on the plains, you and Airona rescue a merchant from black mist monsters-thanks to the intervention of a Snow Knight named Tina. Introduced by Airona, Tina joins your party. But the monsters keep coming back even after defeat. Airona suspects the Void Engram-a dreadful phenomenon that devours life and warps the mind-is to blame. To uncover the truth, you delve deeper into the Void Engram. Fighting off wave after wave of Void Corruption monsters, you and your allies push forward and emerge victorious.",
+    "TaskInfo": "While collecting the horns of Caprahorns on the plains, you and Airona rescue a merchant from black mist monsters-thanks to the intervention of a Snow Knight named Tina. Introduced by Airona, Tina joins your party. But the monsters keep coming back even after defeat.<br>Airona suspects the Void Engram—a dreadful phenomenon that devours life and warps the mind—is to blame. To uncover the truth, you delve deeper into the Void Engram. Fighting off wave after wave of Void Corruption monsters, you and your allies push forward and emerge victorious.",
     "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_05"
   },
   "10104": {
@@ -36,7 +36,7 @@
     "PhaseName": "Nothing New Beneath the Void Engram",
     "PhaseOrder": 4,
     "Unlock": 10088,
-    "TaskInfo": "Your investigation takes you to the Cliff Ruins, where signs point to a deliberate plot behind the disasters. There, the Void Engram overwhelms you, but Airona and Tina fortunately rush to your rescue. You finally confront the Man in Black responsible for spreading the Void Engram. The Man in Black aims to unleash more of it, but your team defeats him. Though the Man in Black vanishes with the Void Engram, the failure is clear: the Tales of the Plains is resolved, and the curse has lifted.<br>You and Airona return to the Pioneer Bureau to claim your reward, only to find that Airona's past expenses will be deducted from your bounty. The remaining sum is entrusted to you. Guild Officer Valeria then invites you to officially join the Pioneer Bureau, marking the start of your new life as an adventurer.",
+    "TaskInfo": "Your investigation takes you to the Cliff Ruins, where signs point to a deliberate plot behind the disasters. There, the Void Engram overwhelms you, but Airona and Tina fortunately rush to your rescue.<br>You finally confront the Man in Black responsible for spreading the Void Engram. The Man in Black aims to unleash more of it, but your team defeats him. Though the Man in Black vanishes with the Void Engram, the failure is clear: the Tales of the Plains is resolved, and the curse has lifted.<br>You and Airona return to the Pioneer Bureau to claim your reward, only to find that Airona's past expenses will be deducted from your bounty. The remaining sum is entrusted to you.<br>Guild Officer Valeria then invites you to officially join the Pioneer Bureau, marking the start of your new life as an adventurer.",
     "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_06"
   },
   "10105": {
@@ -176,7 +176,7 @@
     "PhaseName": "Antinomy",
     "PhaseOrder": 5,
     "Unlock": 10311,
-    "TaskInfo": "With the storms momentarily calmed, the team agrees to meet at the Andra Resting Post.<br>Tina reaches out—she and Tatta have tracked Denvel down. You, Olvera, and Airona quickly divide the roles: Olvera will lead a surprise attack, Airona will stay behind to study the Void Sigils, and you'll link up with Tina and Tatta.<br>In a secluded part of the plains, you regroup with them and hear the plan: Tatta will act as bait to distract Denvel's elite guard, while Tina sneaks into the camp to use the Relic. Being concerned for Tina's safety, you volunteer to take on her part of the mission. The three of you approach the enemy camp, but Denvel sees it coming. Just as he strikes, Tatta blocks Denvel's attack to shield you. Denvel spares you and withdraws. Afterward, Tatta opens up about her connection with Denvel, shedding light on long-buried secrets.<br>You escort her back to Asterleeds. Soon, Airona's message reaches you, and the group reconvenes at the outpost.",
+    "TaskInfo": "With the storms momentarily calmed, the team agrees to meet at the Andra Resting Post.<br>Tina reaches out—she and Tatta have tracked Denvel down. You, Olvera, and Airona quickly divide the roles: Olvera will lead a surprise attack, Airona will stay behind to study the Void Sigils, and you'll link up with Tina and Tatta.<br>In a secluded part of the plains, you regroup with them and hear the plan: Tatta will act as bait to distract Denvel's elite guard, while Tina sneaks into the camp to use the Legacy. Being concerned for Tina's safety, you volunteer to take on her part of the mission. The three of you approach the enemy camp, but Denvel sees it coming. Just as he strikes, Tatta blocks Denvel's attack to shield you. Denvel spares you and withdraws. Afterward, Tatta opens up about her connection with Denvel, shedding light on long-buried secrets.<br>You escort her back to Asterleeds. Soon, Airona's message reaches you, and the group reconvenes at the outpost.",
     "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep03_03"
   },
   "10306": {
@@ -196,7 +196,7 @@
     "PhaseName": "Moonlit Aphorism",
     "PhaseOrder": 1,
     "Unlock": 10401,
-    "TaskInfo": "Following the priest's guidance, you and your companions arrive at the Kanamia Tribe. Someone left behind a strange letter. Following its instructions, you each set out to gather Intellect separately. Beneath the moonlit sky, you cross paths with a mysterious girl named Rorola, the sender of the letter. She reveals that the Kanamia Tribe's Forbidden Land is tied to the fate of the entire plain. To earn the right to enter the Forbidden Land, you join the Kanamia Brave Trial, hunting the fearsome Iron Fang in the dense forest and surviving a brutal gauntlet. Though you emerge victorious, the Chieftain sees through your outsider identity. At the critical moment, Rorola appears to defend you, revealing that a dire omen looms over the tribe and that you are the prophesied one destined to change its fate.",
+    "TaskInfo": "Following the priest's guidance, you and your companions arrive at the Kanamia Tribe. Someone left behind a strange letter. Following its instructions, you each set out to gather intel separately. Beneath the moonlit sky, you cross paths with a mysterious girl named Rorola, the sender of the letter. She reveals that the Kanamia Tribe's Forbidden Zone is tied to the fate of the entire plain. To earn the right to enter the Forbidden Zone, you join the Kanamia Brave Trial, hunting the fearsome Iron Fang in the dense forest and surviving a brutal gauntlet. Though you emerge victorious, the Chieftain sees through your outsider identity. At the critical moment, Rorola appears to defend you, revealing that a dire omen looms over the tribe and that you are the prophesied one destined to change its fate.",
     "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep04_01"
   },
   "10402": {
@@ -236,7 +236,7 @@
     "PhaseName": "Farewell to the Past",
     "PhaseOrder": 1,
     "Unlock": 10503,
-    "TaskInfo": "Everyone prepares to use the Engram Collector to resolve the Void Sigils. The group starts with the sigil at the Dragon Claw Valley, only to discover that its spread was caused by Denvel's forbidden art. Still, you activate the collector and successfully suppress the spread. Afterward, Olvera and Tina return to the city to deal with the crisis in Asterleedss while you and Airona head to Minsterhorn to handle the remaining sigils. At Minsterhorn and the Statue of the Hero, you manage to suppress two more sigils and encounter a young girl who stayed to protect Narulu. You then receive a letter from Agnes. Upon learning that Asterleeds is under attack from monsters, you and Airona rush back to the city. <br>Back in Asterleeds, you help Jerrad fight off the monsters, rescue civilians, and discuss strategies to deal with Denvel. Council Chair Lamond suggests Tatta might have some clues, and the group asks you to find him.",
+    "TaskInfo": "Everyone prepares to use the Engram Collector to resolve the Void Sigils. The group starts with the sigil at the Dragon Claw Valley, only to discover that its spread was caused by Denvel's forbidden art. Still, you activate the collector and successfully suppress the spread. Afterward, Olvera and Tina return to the city to deal with the crisis in Asterleeds while you and Airona head to Minsterhorn to handle the remaining sigils. At Minsterhorn and the Statue of the Hero, you manage to suppress two more sigils and encounter a young girl who stayed to protect Narulu. You then receive a letter from Agnes. Upon learning that Asterleeds is under attack from monsters, you and Airona rush back to the city. <br>Back in Asterleeds, you help Jerrad fight off the monsters, rescue civilians, and discuss strategies to deal with Denvel. Council Chair Lamond suggests Tatta might have some clues, and the group asks you to find him.",
     "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep05_01"
   },
   "10502": {
@@ -263,10 +263,150 @@
     "Id": 10504,
     "TitleName": "Episode V: Countdown to the End",
     "TitleOrder": 5,
-    "PhaseName": "Reunion with the Sea Breeze",
+    "PhaseName": "Reunion with the Seabreeze",
     "PhaseOrder": 4,
     "Unlock": 10513,
-    "TaskInfo": "After a bitter struggle in Dark Mist Fortress, the group finally defeats Denvel. But the Man in Black appears again, steals Hruga's Horn, and detonates Void Mist inside the bastion. In this desperate moment, Tina uses the Core of Stellarium to save everyone at the cost of her own life. Only your Resonance Power can save her. You bring Tina to the Engram Hub and revive her. However, the Core of Stellarium is gone for good. <br>Back in the city, you visit The Double-Faced Coin, speak with Jerrad, Valeria, and Dorothy to gather updates, and then return to your room to rest. In your dreams, some of your memories return. Upon waking, you talk to Airona and learn that your memories may be connected to the source of the Void Mist. Also, Airona has found out that Hruga's Horn is in the Bahamar Highlands. <br>Before leaving Asterleeds, you say farewell to Olvera and Tina. At the city gate of Asterleeds, you and Airona prepare to embark on your journey to the highlands. The story of the sea breeze comes to a pause for now, and a new adventure awaits.",
+    "TaskInfo": "After a bitter struggle in Dark Mist Fortress, the group finally defeats Denvel. But the Man in Black appears again, steals Hruga's Horn, and detonates Void Engram inside the bastion. In this desperate moment, Tina uses the Core of Stellarium to save everyone at the cost of her own life. Only your Resonance Power can save her. You bring Tina to the Engram Hub and revive her. However, the Core of Stellarium is gone for good. <br>Back in the city, you visit The Double-Faced Coin, speak with Jerrad, Valeria, and Dorothy to gather updates, and then return to your room to rest. In your dreams, some of your memories return. Upon waking, you talk to Airona and learn that your memories may be connected to the source of the Void Engram. Also, Airona has found out that Hruga's Horn is in the Bahamar Highlands. <br>Before leaving Asterleeds, you say farewell to Olvera and Tina. At the city gate of Asterleeds, you and Airona prepare to embark on your journey to the highlands. The story of the seabreeze comes to a pause for now, and a new adventure awaits.",
     "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep05_05"
+  },
+  "10601": {
+    "Id": 10601,
+    "TitleName": "Episode I: Dawn's Twilight",
+    "TitleOrder": 1,
+    "PhaseName": "Flowers and the Horizon",
+    "PhaseOrder": 1,
+    "Unlock": 10603,
+    "TaskInfo": "You and Airona arrive in the Bahamar Highlands. The Pillar of Divinity stands majestically before you, but the treacherous scent of Illusory Blooms lurks underfoot. In a flash, you are dragged into a vision filled with gunpowder and whispers. Fortunately, a young girl named Fafala's desperate assistance allows you both to escape. Afterward, the Priest Lothar steps in to purify the seeds, but even he seems to struggle against the power of the Illusory Blooms.<br>Later, you and Airona find a moment's respite at Fafala's home, where you taste the legendary Rainbean Rice and Highland Orange juice, only to discover their taste is a trial of courage in itself. Amid the laughter, you are gifted a protective talisman called a Starsoul Flask and hear strange rumors of frequent Illusory Plagues and a peculiar traveling troupe. Airona keenly senses that the highlands' Engram disturbance is converging toward the northeast—that the mine belonging to the Duchy of Byrnhald may hold clues about Hruga's Horn. With these unsolved mysteries in mind, you and she prepare to depart on an even more dangerous journey.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep06_01"
+  },
+  "10602": {
+    "Id": 10602,
+    "TitleName": "Episode I: Dawn's Twilight",
+    "TitleOrder": 1,
+    "PhaseName": "The Ties That Bind",
+    "PhaseOrder": 2,
+    "Unlock": 10606,
+    "TaskInfo": "You and Airona hit a wall at the mine checkpoint. Denied passage, your only recourse is to gather information from the villagers. Along the way, you save a little girl, Lily, from being knocked over by a soldier, and through this, you meet Village Chief Alphonse and the other villagers.<br>The mine's lockdown and the heavy guard by the Blackstone Legion make the main road impassable, so you head to the Pillar of Divinity to see what you can find out. The pilgrims here babble on about strange tales and miracles, but no one can give a straight answer. Instead, amid the chaos, a young woman named Darya seizes the opportunity to steal your and Airona's Starsoul Flasks. After a chase and confrontation, she admits she knows the secret entrance to the mine. She even reveals that the underground is also infested with Illusory Blooms, and the miners are suffering terribly under oppression. She proposes a deal: she will lead you to infiltrate the mine in exchange for you not pursuing the theft.<br>Faced with this cunning Miss Thief, you and Airona must decide whether to accept this risky bargain...",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep06_02"
+  },
+  "10603": {
+    "Id": 10603,
+    "TitleName": "Episode I: Dawn's Twilight",
+    "TitleOrder": 1,
+    "PhaseName": "Where the Sunlight Does Not Reach",
+    "PhaseOrder": 3,
+    "Unlock": 10609,
+    "TaskInfo": "Under Darya's guidance, you and Airona bypass the checkpoint and infiltrate the Sislesa Mine through a hidden secret passage. After making your way through the pitch-black mine tunnel, you finally catch a glimpse of the sorting area, strictly controlled by the Blackstone Legion, and those abnormally radiant red, Engram-rich ores.<br>Following the clues, you witness an even more disturbing reality: The miners have lost their minds due to the Illusory Blooms, and the Starsoul Flasks provide at best a fleeting moment of calm. At that moment, the squad launches a surprise raid to arrest people. Even the weak Navi is dragged away. You have no choice but to first hide to avoid the search, then wait for an opportunity to rescue your companion. To stop the calamity, you confront the Illusory Bloom head-on in the mine tunnel, resonating with the Stamen Crystal to shatter the illusion and collecting a new crystal.<br>Filled with frustration and self-blame, Darya resolves to continue leading the way. And so, you turn your attention to the most heavily guarded mining cave...",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep06_03"
+  },
+  "10604": {
+    "Id": 10604,
+    "TitleName": "Episode I: Dawn's Twilight",
+    "TitleOrder": 1,
+    "PhaseName": "A Path of Survival for the Brave",
+    "PhaseOrder": 4,
+    "Unlock": 10612,
+    "TaskInfo": "On the way to the Mining Zone, you and Airona accidentally find a lost Blackstone Legion badge, sensing from it the tense atmosphere of an impending storm. Darya suddenly raises the stakes, demanding five hundred Starsoul Flasks as her condition and revealing that she may have a relative who was lost in the mine. This personal stake and urgency make the atmosphere even more complex. You overhear that the squad intends to lower the isolation gate and release sleeping gas.<br>With the way back completely sealed, you have no choice but to risk passing through the Rock Serpent's lair. Tremors and collapses accompany your journey as danger closes in, until the massive Rock Serpent bursts from the ground, forcing you all to fight your way out.<br>In the end, you finally manage to leave the mine from the other side, able to catch your breath for a moment. Darya decides to go back to investigate for more information, promising to pass on what she finds, while you and Airona plan to head to the Pillar of Divinity to find a way to obtain Starsoul Flasks, preparing to re-enter the mining cave.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep06_04"
+  },
+  "10701": {
+    "Id": 10701,
+    "TitleName": "Episode II: Where All Fervor Sleeps",
+    "TitleOrder": 2,
+    "PhaseName": "Extending from the Radiance",
+    "PhaseOrder": 1,
+    "Unlock": 10703,
+    "TaskInfo": "After Darya's hasty departure, you and Airona decide to find a way to procure the Starsoul Flasks. The two of you first scout the area around the Pillar of Divinity for information, deducing that the person in charge of distribution, Boyce, is on duty. You then go to negotiate with him.<br>Using what you saw in the mine and the crystals extracted from the Illusory Blooms as evidence, you persuade Boyce, who offers to join your team into the mine and help coordinate supplies, but only after the necessary materials are restocked. You immediately collect Rockthistle Seeds and return with Boyce to meet Lothar. After confirming the situation, the priest decides to go to the Commander to negotiate in person, while also arranging for aid to be provided in bulk. And so, the five hundred Starsoul Flasks and accompanying supplies are ready, with Boyce as escort.<br>Airona continues to investigate the remnants of the Illusory Blooms, while you prepare to infiltrate the mine again, aiming for the mining cave and the root of the Engram disorder.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep07_01"
+  },
+  "10702": {
+    "Id": 10702,
+    "TitleName": "Episode II: Where All Fervor Sleeps",
+    "TitleOrder": 2,
+    "PhaseName": "Breathing Truth Amidst Deceit",
+    "PhaseOrder": 2,
+    "Unlock": 10706,
+    "TaskInfo": "You reunite with Airona on the outskirts of the mine, confirming that the giant Illusory Bloom has been reduced to an empty shell. You then meet up with Boyce, who has brought the Starsoul Flasks. Darya left a cryptic and hastily scrawled letter, suggesting that you disguise yourselves as merchants to blend in at the Bekmar Transport Station. To obtain the necessary disguises and a pass, you organize goods for a merchant in exchange for a share of his caravan's travel permit. The three of you successfully infiltrate the Transport Station but are quickly suspected due to your identities. Only after showing the Starsoul Flasks as cargo do you gain the approval of the leader, Maire. She lends you a Special Permit, but on the condition that you identify the traitor in her crew.<br>Following the clues, you first discover that Hebard has been allowing medicine to flow to the miners, then you uncover that Dedrick has been secretly selling rockthistle seed tea to the soldiers.<br>Finally, you confront Nevelle, who is carrying Crimson Marrow, and fight off the Blackstone Legion soldiers he summons. The evidence left after the battle points to a deeper conspiracy: Nevelle, instigated by a person in black, is colluding with the squad, intending to replace Maire and smuggle Crimson Marrow. You present your findings to Maire, who confirms that the person in black has been moving between the major caravans and the squad, constantly stirring up trouble.<br>As the situation becomes more complex, you take the Special Permit and prepare to find Boyce, who has wandered off to clear his head, before heading to the Mustard Tavern together to continue investigating the disorder in the mine and the true whereabouts of Hruga's Horn.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep07_02"
+  },
+  "10703": {
+    "Id": 10703,
+    "TitleName": "Episode II: Where All Fervor Sleeps",
+    "TitleOrder": 2,
+    "PhaseName": "The Astral Stones Speak in Silence",
+    "PhaseOrder": 3,
+    "Unlock": 10708,
+    "TaskInfo": "You and Airona regroup outside the mine. Boyce confesses that he has been secretly listening in and has noticed that the squad's patrols have become abnormally tense. Meanwhile, Darya keeps her promise and brings a lead on the miners' leader, Grieg. At your first meeting, Grieg refuses to take strangers into the mining cave. But soon after, the miners are attacked by monsters, and you step forward to save those who are trapped. Andre tragically sacrifices himself to save his comrades. Following the miners' custom, you select an Astral Stone for him, leaving his memory among the stone pile. Because of this, Grieg lets down his guard and confesses that the squad is in complete disarray, and that their mining tasks and the oppression they face are constantly intensifying. Although he still worries that a rash move could endanger his fellow miners, with his brothers' support, he decides to help you. He suggests first gathering intelligence at the Mustard Tavern on the timing of the squad's searches to find an opportunity to enter the mining cave.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep07_03"
+  },
+  "10704": {
+    "Id": 10704,
+    "TitleName": "Episode II: Where All Fervor Sleeps",
+    "TitleOrder": 2,
+    "PhaseName": "The Shadow Puts on a New Face",
+    "PhaseOrder": 4,
+    "Unlock": 10711,
+    "TaskInfo": "With Grieg's help, you and your companions infiltrate the Mining Zone and personally witness the Blackstone Legion secretly refining and transporting Crimson Marrow. Airona deduces from this that the mastermind is not a small faction but the squad's high command, and that the person in black has very likely been colluding with them all along.<br>The gravity of the situation makes the purpose of the investigation even clearer—this batch of ore must be prevented from falling into the hands of the person in black. However, the situation is becoming increasingly urgent. The search party is closing in, and you have no choice but to take Darya and retreat quickly through the secret passage. At this very moment, a mysterious figure appears, making the truth even more elusive...",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep07_04"
+  },
+  "10801": {
+    "Id": 10801,
+    "TitleName": "Episode III: The Buried and the Broken",
+    "TitleOrder": 3,
+    "PhaseName": "Piecing Together the Path Forward",
+    "PhaseOrder": 1,
+    "Unlock": 10803,
+    "TaskInfo": "You and your companions piece together clues from the shift change schedule and confirm that a mutiny occurred at the mine during an undocumented period. The duty rules were quietly rewritten, manpower was drastically reduced, and the whereabouts of sergeants such as Milo, Breck, and Devin are now a mystery. You first try to get the truth from Milo, who has long been corrupted by his will to survive. Then, following the clues, you find Breck, who, despite appearing to go with the flow, has left behind a key to the mine caves.<br>Inside the mine cave, you find an anonymous journal and learn that Crimson Marrow has been mined under the Grand Duke's orders for at least a year, and that someone named Klaus was caught up in the storm for his loyalty to those orders. The clues ultimately point to Devin—only by finding this sergeant, who still supports the commander, can the fragments of the truth be pieced together, blocking the outflow of ore. Darya returns to the transfer zone first to look after the miners, while you, Airona, and Boyce follow the mine cart tracks to the Transport Station, ready to continue digging into the smuggling chain and the mastermind behind it.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep08_01"
+  },
+  "10802": {
+    "Id": 10802,
+    "TitleName": "Episode III: The Buried and the Broken",
+    "TitleOrder": 3,
+    "PhaseName": "The Blind Spot at the Exit",
+    "PhaseOrder": 2,
+    "Unlock": 10806,
+    "TaskInfo": "You, Airona, and Boyce infiltrate the Transport Station to investigate and unexpectedly discover a hidden diversion at the smelting outlet. The Crimson Marrow is being quietly intercepted and sent back to the Mining Zone. By resonating with a Nappo, you retrieve the fragments, proving that the so-called \"output rates\" and \"waste\" are just a front. Tailing Reiner, you witness firsthand how he manipulates the mine under the pretext of lowering output rates, treating the miners as expendable labor. The clues gradually point to his collusion with the person in black. To stop the outflow of ore, you and Airona decide to go deeper underground to uncover the truth, while Boyce heads back to look after Darya and the miners. And so, you part ways to take on your new tasks.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep08_02"
+  },
+  "10803": {
+    "Id": 10803,
+    "TitleName": "Episode III: The Buried and the Broken",
+    "TitleOrder": 3,
+    "PhaseName": "The Wind and Ashes Took the Answers",
+    "PhaseOrder": 3,
+    "Unlock": 10809,
+    "TaskInfo": "You and your companions reunite in the transfer zone, only to witness Grieg and the miners being brutally threatened by Reiner. Taylor falls, an innocent victim, and a mixture of fear and anger fills every heart. Darya, devastated by her compatriot's betrayal, is on the verge of collapse and insists on finding a more drastic way to change their fate. Boyce, however, insists on reporting the situation to the Duchy, leading to a complete break between them. In his grief, Grieg decides to lead the miners in a desperate breakout, while Airona proposes another option—for you to return to Asterleeds first to seek help. You are forced to set off in a new direction alone, while the crisis in the mine behind you continues to deepen.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep08_03"
+  },
+  "10804": {
+    "Id": 10804,
+    "TitleName": "Episode III: The Buried and the Broken",
+    "TitleOrder": 3,
+    "PhaseName": "The Seabreeze Pushes Open a Secret Door",
+    "PhaseOrder": 4,
+    "Unlock": 10811,
+    "TaskInfo": "You return to Asterleeds with news from the mine, attempting to seek aid. Chairman Lamond, caught between caution and powerlessness, hesitates to take action, able only to hope for a turn for the better in the future. Dejected, you reunite with Jerrad in the bustling Central District, only to find that this carefree old friend has secretly been planning an operation. He masks his seriousness with jokes, disguising one hundred Asterleeds Resistance Corps soldiers as adventurers, preparing to head to the highlands to provide support in secret. Along the way, you work together to foil the plot of a spy known as \"Blackbird,\" confirming that your plan has not been exposed. Back on the street, you accept a warm steamed bun from an ordinary old woman, as if receiving an answer and strength from the city itself. Finally, amidst the intertwining peace and bustle, you get ready to set off once more, your gaze fixed on the distant highlands.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep08_04"
+  },
+  "10901": {
+    "Id": 10901,
+    "TitleName": "Episode IV: Giving Meaning to Every Bloom",
+    "TitleOrder": 4,
+    "PhaseName": "Sadness Spreads to Every Pair of Eyes",
+    "PhaseOrder": 1,
+    "Unlock": 10902,
+    "TaskInfo": "You return to the Bahamar Highlands with Jerrad, only to find Lallipar enveloped by Illusory Blooms. The familiar streets and fields have lost their former vitality. Fafala is struggling to hold on. Airona is here investigating the ore trade. You stand side-by-side once more, seeking a way out of the villagers' plight. Jerrad, using the alias \"Rab,\" negotiates and promises to send aid and supplies to the mine, while Alphonse and the Creed struggle to weigh their options, caught between the Illusory Plague and a shortage of supplies. You witness the quarrels and divisions among the pilgrims, and you hear Lothar and Alphonse confront the truth of the Starsoul Flasks—the comfort they bring is not true salvation.<br>The Illusory Blooms erupt once more. Federico returns, wounded, with a warning that a greater calamity is approaching. Fear and hope intertwine, the village is in turmoil, and you must once again step forward, following the remaining clues to find the giant Illusory Bloom that threatens the entire highlands.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep09_01"
+  },
+  "10902": {
+    "Id": 10902,
+    "TitleName": "Episode IV: Giving Meaning to Every Bloom",
+    "TitleOrder": 4,
+    "PhaseName": "Moonlight Ignites a Flame in the Heart",
+    "PhaseOrder": 2,
+    "Unlock": 10904,
+    "TaskInfo": "You pursue Nappo to the edge of the highlands, where, nourished by the Illusory Blooms, it has grown massive and dangerous. After a fierce battle, the Illusory Bloom's power is destroyed. The Nappo reverts to its original form and flees, hurt and afraid. When you return to Lallipar, you are greeted not by anxiety and chaos, but by an unexpected celebration. The villagers and pilgrims have gathered around a bonfire, preparing a simple yet lively feast to drive away the gloom and welcome back long-lost laughter. Fafala's small gift, Nida's cooking, and the night sky lit by lanterns all make this an unforgettable evening. However, even as joy fills the air, no one can deny it: The Illusory Plague has not gone away. This might just be the brief calm before the storm.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep09_03"
   }
 }

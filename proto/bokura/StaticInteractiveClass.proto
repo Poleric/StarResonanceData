@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message StaticInteractiveClassBase {
-  int32 id = 1463;
-  int32 interation_template = 1657;
-  string_array player_action_start = 530;
-  string_array player_action_loop = 1064;
-  string_array player_action_end = 1549;
-  int32 exit_type = 1391;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 InterationTemplate = 1657 [json_name = "InterationTemplate"];
+	string_array PlayerActionStart = 530 [json_name = "PlayerActionStart"];
+	string_array PlayerActionLoop = 1064 [json_name = "PlayerActionLoop"];
+	string_array PlayerActionEnd = 1549 [json_name = "PlayerActionEnd"];
+	int32 ExitType = 1391 [json_name = "ExitType"];
 }
 
 message StaticInteractiveClassMgr {
-  map<int32, bokura.StaticInteractiveClassBase> datas = 1;
+	map<int32, StaticInteractiveClassBase> datas = 1 [json_name = "datas"];
 }
-

@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message HomelandSetFurnitureNameRequest {
-  int64 structure_uuid = 1;
-  string name = 2;
-  bool is_outer = 3;
+	int64 structureUuid = 1 [json_name = "structureUuid"];
+	string name = 2 [json_name = "name"];
+	bool isOuter = 3 [json_name = "isOuter"];
 }
-

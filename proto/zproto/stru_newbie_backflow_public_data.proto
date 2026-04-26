@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "stru_backflow_online_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message NewbieBackflowPublicData {
+	bool levelAwardReceived = 1 [json_name = "levelAwardReceived"];
+	repeated int32 electivePreference = 2 [json_name = "electivePreference"];
+	repeated BackflowOnlineData onlineData = 3 [json_name = "onlineData"];
+	int64 borderLogoutTimeStamp = 4 [json_name = "borderLogoutTimeStamp"];
+}

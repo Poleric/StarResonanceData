@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message MarkPosition {
-  int32 x = 1;
-  int32 y = 2;
-}
+package zproto;
 
+message MarkPosition {
+	int32 x = 1 [json_name = "x"];
+	int32 y = 2 [json_name = "y"];
+}

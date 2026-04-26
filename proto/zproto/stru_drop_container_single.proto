@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message DropContainerSingle {
-  int32 id = 1;
-  int32 count = 2;
-  int64 cycle_time = 3;
-  int32 history_count = 4;
-}
+package zproto;
 
+message DropContainerSingle {
+	int32 Id = 1 [json_name = "Id"];
+	int32 Count = 2 [json_name = "Count"];
+	int64 CycleTime = 3 [json_name = "CycleTime"];
+	int32 HistoryCount = 4 [json_name = "HistoryCount"];
+}

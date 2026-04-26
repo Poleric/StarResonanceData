@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message BeginMatchParam {
-  int32 target_id = 3;
-  int32 want_leader = 4;
+	int32 targetId = 3 [json_name = "targetId"];
+	int32 wantLeader = 4 [json_name = "wantLeader"];
 }
-

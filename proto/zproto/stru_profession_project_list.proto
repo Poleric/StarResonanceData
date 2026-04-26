@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_profession_project_common_sync_data.proto";
+
+package zproto;
+
+message ProfessionProjectList {
+	map<int32, ProfessionProjectCommonSyncData> professionProjectList = 1 [json_name = "professionProjectList"];
+	int32 currentProjectId = 2 [json_name = "currentProjectId"];
+}

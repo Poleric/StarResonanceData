@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_hand_book_struct.proto";
 import "stru_dirty_mask.proto";
 
-message HandbookData {
-  map<int32, zproto.HandBookStruct> unlock_note_important_role_map = 1;
-  map<int32, zproto.HandBookStruct> unlock_note_reading_book_map = 2;
-  map<int32, zproto.HandBookStruct> unlock_note_dictionary_map = 3;
-  map<int32, zproto.HandBookStruct> unlock_note_post_card_map = 4;
-  map<int32, zproto.HandBookStruct> unlock_note_month_card_map = 5;
-}
+package zproto;
 
+message HandbookData {
+	map<int32, HandBookStruct> unlockNoteImportantRoleMap = 1 [json_name = "unlockNoteImportantRoleMap"];
+	map<int32, HandBookStruct> unlockNoteReadingBookMap = 2 [json_name = "unlockNoteReadingBookMap"];
+	map<int32, HandBookStruct> unlockNoteDictionaryMap = 3 [json_name = "unlockNoteDictionaryMap"];
+	map<int32, HandBookStruct> unlockNotePostCardMap = 4 [json_name = "unlockNotePostCardMap"];
+	map<int32, HandBookStruct> unlockNoteMonthCardMap = 5 [json_name = "unlockNoteMonthCardMap"];
+}

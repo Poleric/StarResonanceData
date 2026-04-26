@@ -5,15 +5,83 @@
     "SeasonTimeId": 10101,
     "MinEquipLevel": 100,
     "MaxEquipLevel": 200,
-    "MaxWeaponLevel": 60
+    "MaxWeaponLevel": 60,
+    "MasterScoreAward": [
+      [
+        500,
+        12030010
+      ],
+      [
+        1000,
+        12030020
+      ],
+      [
+        1500,
+        12030030
+      ],
+      [
+        2000,
+        12030040
+      ],
+      [
+        2500,
+        12030050
+      ],
+      [
+        3000,
+        12030060
+      ],
+      [
+        3650,
+        12030070
+      ]
+    ],
+    "SeasonLevelName": "Bane Lord Level",
+    "SeasonLevelIcon": "ui/atlas/season_talent/img_seasontalent_main_talent2",
+    "SeasonExpItemId": 0,
+    "SeasonIcon": "ui/atlas/season/life_season_icon_1"
   },
   "2": {
     "SeasonId": 2,
-    "SeasonName": "Imagine",
+    "SeasonName": "Dreambloom - Echoes of Lost Nightmares",
     "SeasonTimeId": 10201,
     "MinEquipLevel": 400,
     "MaxEquipLevel": 650,
-    "MaxWeaponLevel": 60
+    "MaxWeaponLevel": 60,
+    "MasterScoreAward": [
+      [
+        500,
+        12030110
+      ],
+      [
+        1000,
+        12030120
+      ],
+      [
+        1500,
+        12030130
+      ],
+      [
+        2000,
+        12030140
+      ],
+      [
+        2500,
+        12030150
+      ],
+      [
+        3000,
+        12030160
+      ],
+      [
+        3650,
+        12030170
+      ]
+    ],
+    "SeasonLevelName": "Deep-Slumber Psychoscope Level",
+    "SeasonLevelIcon": "ui/atlas/season_talent/img_seasontalent_main_talent2",
+    "SeasonExpItemId": 402,
+    "SeasonIcon": "ui/atlas/season/life_season_icon_2"
   },
   "3": {
     "SeasonId": 3,
@@ -21,7 +89,41 @@
     "SeasonTimeId": 10301,
     "MinEquipLevel": 700,
     "MaxEquipLevel": 950,
-    "MaxWeaponLevel": 60
+    "MaxWeaponLevel": 60,
+    "MasterScoreAward": [
+      [
+        500,
+        12030010
+      ],
+      [
+        1000,
+        12030020
+      ],
+      [
+        1500,
+        12030030
+      ],
+      [
+        2000,
+        12030040
+      ],
+      [
+        2500,
+        12030050
+      ],
+      [
+        3000,
+        12030060
+      ],
+      [
+        3650,
+        12030070
+      ]
+    ],
+    "SeasonLevelName": "ui/atlas/season_talent/img_seasontalent_main_talent2",
+    "SeasonLevelIcon": "ui/atlas/season_talent/img_seasontalent_main_talent2",
+    "SeasonExpItemId": 403,
+    "SeasonIcon": "ui/atlas/season/life_season_icon_3"
   },
   "4": {
     "SeasonId": 4,
@@ -29,6 +131,40 @@
     "SeasonTimeId": 10401,
     "MinEquipLevel": 1000,
     "MaxEquipLevel": 1250,
-    "MaxWeaponLevel": 60
+    "MaxWeaponLevel": 60,
+    "MasterScoreAward": [
+      [
+        500,
+        12030010
+      ],
+      [
+        1000,
+        12030020
+      ],
+      [
+        1500,
+        12030030
+      ],
+      [
+        2000,
+        12030040
+      ],
+      [
+        2500,
+        12030050
+      ],
+      [
+        3000,
+        12030060
+      ],
+      [
+        3650,
+        12030070
+      ]
+    ],
+    "SeasonLevelName": "ui/atlas/season_talent/img_seasontalent_main_talent2",
+    "SeasonLevelIcon": "ui/atlas/season_talent/img_seasontalent_main_talent2",
+    "SeasonExpItemId": 404,
+    "SeasonIcon": "ui/atlas/season/life_season_icon_4"
   }
 }

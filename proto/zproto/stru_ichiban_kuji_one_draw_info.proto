@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_item.proto";
+
+package zproto;
+
+message IchibanKujiOneDrawInfo {
+	Item item = 1 [json_name = "item"];
+	int32 luckPoolId = 2 [json_name = "luckPoolId"];
+	int32 prizeReturn = 3 [json_name = "prizeReturn"];
+	int32 prizeKeyId = 4 [json_name = "prizeKeyId"];
+}

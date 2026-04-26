@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message HomelandWarehouseStoreRequest {
-  map<int64, int64> items = 1;
+	map<int64, int64> items = 1 [json_name = "items"];
 }
-

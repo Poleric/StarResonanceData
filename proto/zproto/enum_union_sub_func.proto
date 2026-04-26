@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 enum UnionSubFunc {
-  UnionSubFuncTypeNode = 0;
-  UnionSubFuncScene = 1;
+	UnionSubFuncTypeNode = 0;
+	UnionSubFuncScene = 1;
 }
-

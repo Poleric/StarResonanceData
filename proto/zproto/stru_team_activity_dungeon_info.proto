@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_item.proto";
 import "stru_scene_info.proto";
 
-message TeamActivityDungeonInfo {
-  zproto.SceneInfo scene_info = 1;
-  zproto.Item use_item = 2;
-}
+package zproto;
 
+message TeamActivityDungeonInfo {
+	SceneInfo sceneInfo = 1 [json_name = "sceneInfo"];
+	Item useItem = 2 [json_name = "useItem"];
+}

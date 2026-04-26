@@ -1,17 +1,16 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ProfessionSignLevelTableBase {
-  int32 id = 1463;
-  int32 sign_item_id = 1175;
-  int32 level_id = 896;
-  int_table effect_para = 1683;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 SignItemId = 1175 [json_name = "SignItemId"];
+	int32 LevelID = 896 [json_name = "LevelID"];
+	int_table EffectPara = 1683 [json_name = "EffectPara"];
 }
 
 message ProfessionSignLevelTableMgr {
-  map<int32, bokura.ProfessionSignLevelTableBase> datas = 1;
+	map<int32, ProfessionSignLevelTableBase> datas = 1 [json_name = "datas"];
 }
-

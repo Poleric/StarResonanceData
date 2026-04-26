@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+enum ESeatedSourceType {
+	ESeatedSourceTypeNone = 0;
+	ESeatedSourceTypeEntity = 1;
+	ESeatedSourceTypeInteraction = 2;
+	ESeatedSourceTypeMax = 3;
+}

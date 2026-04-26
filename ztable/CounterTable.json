@@ -82,7 +82,7 @@
   "9": {
     "Id": 9,
     "Name": "玩家每日登录累计天数",
-    "TimeTableId": 10102,
+    "TimeTableId": 100,
     "RefreshNum": 0,
     "Limit": 0,
     "MonthCardLimit": 0,
@@ -92,7 +92,7 @@
   "10": {
     "Id": 10,
     "Name": "活跃度每日刷新次数",
-    "TimeTableId": 10102,
+    "TimeTableId": 100,
     "RefreshNum": 0,
     "Limit": 3,
     "MonthCardLimit": 0,
@@ -242,7 +242,7 @@
   "27": {
     "Id": 27,
     "Name": "月卡界面免费小礼包",
-    "TimeTableId": 10103,
+    "TimeTableId": 34,
     "RefreshNum": 0,
     "Limit": 1,
     "MonthCardLimit": 0,
@@ -254,7 +254,7 @@
     "Name": "助战刷新",
     "TimeTableId": 350,
     "RefreshNum": 0,
-    "Limit": 1000,
+    "Limit": 2000,
     "MonthCardLimit": 0,
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
@@ -324,7 +324,17 @@
     "Name": "友情点休闲活动刷新",
     "TimeTableId": 350,
     "RefreshNum": 0,
-    "Limit": 1000,
+    "Limit": 2000,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "36": {
+    "Id": 36,
+    "Name": "友情点总上限",
+    "TimeTableId": 350,
+    "RefreshNum": 0,
+    "Limit": 2000,
     "MonthCardLimit": 0,
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
@@ -449,30 +459,10 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
-  "201": {
-    "Id": 201,
-    "Name": "环城载具赛",
-    "TimeTableId": 100,
-    "RefreshNum": 0,
-    "Limit": 1,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
   "62": {
     "Id": 62,
     "Name": "raid本初始奖励次数-简单2",
     "TimeTableId": 271,
-    "RefreshNum": 0,
-    "Limit": 1,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
-  "202": {
-    "Id": 202,
-    "Name": "废都障碍赛",
-    "TimeTableId": 100,
     "RefreshNum": 0,
     "Limit": 1,
     "MonthCardLimit": 0,
@@ -489,30 +479,10 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
-  "203": {
-    "Id": 203,
-    "Name": "合作高空取物",
-    "TimeTableId": 100,
-    "RefreshNum": 0,
-    "Limit": 1,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
   "64": {
     "Id": 64,
     "Name": "raid本初始奖励次数-困难1",
     "TimeTableId": 271,
-    "RefreshNum": 0,
-    "Limit": 1,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
-  "204": {
-    "Id": 204,
-    "Name": "维尔古城巡逻",
-    "TimeTableId": 100,
     "RefreshNum": 0,
     "Limit": 1,
     "MonthCardLimit": 0,
@@ -529,30 +499,10 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
-  "205": {
-    "Id": 205,
-    "Name": "山贼营地巡逻",
-    "TimeTableId": 100,
-    "RefreshNum": 0,
-    "Limit": 1,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
   "66": {
     "Id": 66,
     "Name": "raid本初始奖励次数-困难3",
     "TimeTableId": 271,
-    "RefreshNum": 0,
-    "Limit": 1,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
-  "206": {
-    "Id": 206,
-    "Name": "姆克营地巡逻",
-    "TimeTableId": 100,
     "RefreshNum": 0,
     "Limit": 1,
     "MonthCardLimit": 0,
@@ -569,32 +519,12 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
-  "207": {
-    "Id": 207,
-    "Name": "舞蹈练习生",
-    "TimeTableId": 100,
-    "RefreshNum": 0,
-    "Limit": 1,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
   "68": {
     "Id": 68,
     "Name": "raid本噩梦模式开启后的奖励次数-简单2",
     "TimeTableId": 272,
     "RefreshNum": 0,
     "Limit": 2,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
-  "208": {
-    "Id": 208,
-    "Name": "路演小剧场",
-    "TimeTableId": 100,
-    "RefreshNum": 0,
-    "Limit": 1,
     "MonthCardLimit": 0,
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
@@ -609,32 +539,12 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
-  "209": {
-    "Id": 209,
-    "Name": "魅力鱼获巡游",
-    "TimeTableId": 100,
-    "RefreshNum": 0,
-    "Limit": 1,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
   "70": {
     "Id": 70,
     "Name": "raid本噩梦模式开启后的奖励次数-困难1",
     "TimeTableId": 272,
     "RefreshNum": 0,
     "Limit": 2,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
-  "210": {
-    "Id": 210,
-    "Name": "小猪骑士巡游",
-    "TimeTableId": 100,
-    "RefreshNum": 0,
-    "Limit": 1,
     "MonthCardLimit": 0,
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
@@ -649,32 +559,12 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
-  "401": {
-    "Id": 401,
-    "Name": "星光花火夜",
-    "TimeTableId": 100,
-    "RefreshNum": 0,
-    "Limit": 1,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
   "72": {
     "Id": 72,
     "Name": "raid本噩梦模式开启后的奖励次数-困难3",
     "TimeTableId": 272,
     "RefreshNum": 0,
     "Limit": 2,
-    "MonthCardLimit": 0,
-    "AccumulateLimit": 0,
-    "AccumulateRefreshNum": 0
-  },
-  "402": {
-    "Id": 402,
-    "Name": "星光花火夜",
-    "TimeTableId": 100,
-    "RefreshNum": 0,
-    "Limit": 1,
     "MonthCardLimit": 0,
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
@@ -709,6 +599,296 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
+  "76": {
+    "Id": 76,
+    "Name": "s2简单1号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "77": {
+    "Id": 77,
+    "Name": "s2简单2号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "78": {
+    "Id": 78,
+    "Name": "s2简单3号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "79": {
+    "Id": 79,
+    "Name": "s2困难1号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "80": {
+    "Id": 80,
+    "Name": "s2困难2号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "81": {
+    "Id": 81,
+    "Name": "s2困难3号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "82": {
+    "Id": 82,
+    "Name": "s2噩梦1号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "83": {
+    "Id": 83,
+    "Name": "s2噩梦2号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "84": {
+    "Id": 84,
+    "Name": "s2噩梦3号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "85": {
+    "Id": 85,
+    "Name": "萌新回归定制玩法刷新次数限制",
+    "TimeTableId": 282,
+    "RefreshNum": 0,
+    "Limit": 3,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "201": {
+    "Id": 201,
+    "Name": "环城载具赛",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "202": {
+    "Id": 202,
+    "Name": "废都障碍赛",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "203": {
+    "Id": 203,
+    "Name": "合作高空取物",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "204": {
+    "Id": 204,
+    "Name": "维尔古城巡逻",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "205": {
+    "Id": 205,
+    "Name": "山贼营地巡逻",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "206": {
+    "Id": 206,
+    "Name": "姆克营地巡逻",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "207": {
+    "Id": 207,
+    "Name": "舞蹈练习生",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "208": {
+    "Id": 208,
+    "Name": "路演小剧场",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "209": {
+    "Id": 209,
+    "Name": "魅力鱼获巡游",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "210": {
+    "Id": 210,
+    "Name": "小猪骑士巡游",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "211": {
+    "Id": 211,
+    "Name": "小伊别盯我！",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "214": {
+    "Id": 214,
+    "Name": "游星岛流光律动",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "213": {
+    "Id": 213,
+    "Name": "小伊鼓乐队",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "401": {
+    "Id": 401,
+    "Name": "星光花火夜",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "402": {
+    "Id": 402,
+    "Name": "星光花火夜",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "403": {
+    "Id": 403,
+    "Name": "灵舞",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "405": {
+    "Id": 405,
+    "Name": "幻形派对",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "408": {
+    "Id": 408,
+    "Name": "焰彩试放",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "409": {
+    "Id": 409,
+    "Name": "喧春灯会",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
   "501": {
     "Id": 501,
     "Name": "限时技能重置返还进阶之书任选箱的次数（timeID变了，次数会被刷新）",
@@ -719,12 +899,22 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
+  "502": {
+    "Id": 502,
+    "Name": "第二期限时技能重置返还进阶之书任选箱的次数（timeID变了，次数会被刷新）",
+    "TimeTableId": 100012,
+    "RefreshNum": 0,
+    "Limit": 3,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
   "1001": {
     "Id": 1001,
     "Name": "1赛季专精点上限",
     "TimeTableId": 10101,
     "RefreshNum": 0,
-    "Limit": 158,
+    "Limit": 132,
     "MonthCardLimit": 0,
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0

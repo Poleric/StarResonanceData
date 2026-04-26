@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_fish_rank_info.proto";
 
-message FishRankList {
-  zproto.FishRankInfo self_info = 1;
-  repeated zproto.FishRankInfo rank_list = 2;
-}
+package zproto;
 
+message FishRankList {
+	FishRankInfo selfInfo = 1 [json_name = "selfInfo"];
+	repeated FishRankInfo rankList = 2 [json_name = "rankList"];
+}

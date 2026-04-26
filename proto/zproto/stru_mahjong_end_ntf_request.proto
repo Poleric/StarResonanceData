@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_leave_mahjong_table_reason.proto";
+import "stru_mahjong_context.proto";
+
+package zproto;
+
+message MahjongEndNtfRequest {
+	MahjongContext context = 1 [json_name = "context"];
+	LeaveMahjongTableReason leaveMahjongTableReason = 2 [json_name = "leaveMahjongTableReason"];
+}

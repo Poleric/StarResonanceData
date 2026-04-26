@@ -1,17 +1,16 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message TextDescriptionBase {
-  int32 id = 1463;
-  mlstring text = 1949;
-  mlstring description = 75;
-  int32 show_rule = 716;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Text = 1949 [json_name = "Text"];
+	mlstring Description = 75 [json_name = "Description"];
+	int32 ShowRule = 716 [json_name = "ShowRule"];
 }
 
 message TextDescriptionMgr {
-  map<int32, bokura.TextDescriptionBase> datas = 1;
+	map<int32, TextDescriptionBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message AttrDescriptionBase {
-  int32 id = 1463;
-  mlstring description = 75;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Description = 75 [json_name = "Description"];
 }
 
 message AttrDescriptionMgr {
-  map<int32, bokura.AttrDescriptionBase> datas = 1;
+	map<int32, AttrDescriptionBase> datas = 1 [json_name = "datas"];
 }
-

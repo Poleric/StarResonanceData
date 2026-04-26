@@ -3,10 +3,9 @@ syntax = "proto3";
 package zproto;
 
 message UnionCrowdFund {
-  int64 fund_begin_time = 1;
-  map<int32, int64> fund_pos_char_id = 2;
-  int64 build_end_time = 3;
-  bool building_finished = 4;
-  bool fund_has_begin = 5;
+	int64 fundBeginTime = 1 [json_name = "fundBeginTime"];
+	map<int32, int64> fundPosCharId = 2 [json_name = "fundPosCharId"];
+	int64 buildEndTime = 3 [json_name = "buildEndTime"];
+	bool buildingFinished = 4 [json_name = "buildingFinished"];
+	bool fundHasBegin = 5 [json_name = "fundHasBegin"];
 }
-

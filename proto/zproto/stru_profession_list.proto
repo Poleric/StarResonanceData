@@ -1,19 +1,24 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_profession_info.proto";
 import "stru_profession_skill_info.proto";
 import "stru_profession_talent_info.proto";
 import "stru_dirty_mask.proto";
 
-message ProfessionList {
-  int32 cur_profession_id = 1;
-  repeated int32 cur_assist_professions = 3;
-  map<int32, zproto.ProfessionInfo> profession_list = 4;
-  map<int32, zproto.ProfessionSkillInfo> aoyi_skill_info_map = 7;
-  uint32 total_talent_points = 8;
-  uint32 total_talent_reset_count = 9;
-  map<int32, zproto.ProfessionTalentInfo> talent_list = 10;
-}
+package zproto;
 
+message ProfessionList {
+	int32 curProfessionId = 1 [json_name = "curProfessionId"];
+	repeated int32 curAssistProfessions = 3 [json_name = "curAssistProfessions"];
+	map<int32, ProfessionInfo> professionList = 4 [json_name = "professionList"];
+	map<int32, ProfessionSkillInfo> aoyiSkillInfoMap = 7 [json_name = "aoyiSkillInfoMap"];
+	uint32 totalTalentPoints = 8 [json_name = "totalTalentPoints"];
+	uint32 totalTalentResetCount = 9 [json_name = "totalTalentResetCount"];
+	map<int32, ProfessionTalentInfo> talentList = 10 [json_name = "talentList"];
+	int32 resetProfessionListFlag = 11 [json_name = "resetProfessionListFlag"];
+	uint32 totalAttackMark = 12 [json_name = "totalAttackMark"];
+	uint32 totalGuardMark = 13 [json_name = "totalGuardMark"];
+	uint32 totalHealMark = 14 [json_name = "totalHealMark"];
+	int32 resetTalentMarkItemFlag = 15 [json_name = "resetTalentMarkItemFlag"];
+	int32 resetTalentMarkItemPopUpNotice = 16 [json_name = "resetTalentMarkItemPopUpNotice"];
+}

@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_season_achievement.proto";
 import "stru_dirty_mask.proto";
 
-message SeasonAchievementList {
-  map<uint32, zproto.SeasonAchievement> season_achievement_list = 1;
-  map<uint32, bool> has_init_dones = 2;
-  uint64 version = 3;
-}
+package zproto;
 
+message SeasonAchievementList {
+	map<uint32, SeasonAchievement> seasonAchievementList = 1 [json_name = "seasonAchievementList"];
+	map<uint32, bool> hasInitDones = 2 [json_name = "hasInitDones"];
+	uint64 version = 3 [json_name = "version"];
+}

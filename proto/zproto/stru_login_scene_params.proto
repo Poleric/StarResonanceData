@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message LoginSceneParams {
-  int32 into_scene_type = 1;
-  int32 last_scene_id = 2;
-  int32 born_scene_id = 3;
+	int32 intoSceneType = 1 [json_name = "intoSceneType"];
+	int32 lastSceneId = 2 [json_name = "lastSceneId"];
+	int32 bornSceneId = 3 [json_name = "bornSceneId"];
 }
-

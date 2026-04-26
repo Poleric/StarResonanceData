@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message FishingResultReportReply {
-  bool durability_exhausted = 1;
-  bool is_burst = 2;
-  bool bait_exhausted = 3;
-  int32 size = 4;
-  bool size_new_record = 5;
-  zproto.EErrorCode err_code = 6;
-}
+package zproto;
 
+message FishingResultReportReply {
+	bool durabilityExhausted = 1 [json_name = "durabilityExhausted"];
+	bool isBurst = 2 [json_name = "isBurst"];
+	bool BaitExhausted = 3 [json_name = "BaitExhausted"];
+	int32 size = 4 [json_name = "size"];
+	bool sizeNewRecord = 5 [json_name = "sizeNewRecord"];
+	EErrorCode errCode = 6 [json_name = "errCode"];
+}

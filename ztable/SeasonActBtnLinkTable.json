@@ -1,0 +1,90 @@
+{
+  "1": {
+    "Id": 1,
+    "Icon": "ui/atlas/recommendedplay/play_icon_2",
+    "Name": "Point Rewards",
+    "BtnFunction": [],
+    "ShowCondition": [],
+    "RedDotId": 113
+  },
+  "2": {
+    "Id": 2,
+    "Icon": "ui/atlas/recommendedplay/play_icon_3",
+    "Name": "Pioneer Award",
+    "BtnFunction": [
+      "CheckOpenTreasureView",
+      "treasure",
+      "self"
+    ],
+    "ShowCondition": [],
+    "RedDotId": 50120100
+  },
+  "3": {
+    "Id": 3,
+    "Icon": "ui/atlas/recommendedplay/play_icon_4",
+    "Name": "Master Seal",
+    "BtnFunction": [
+      "OpenMaseterScoreView",
+      "hero_dungeon_main"
+    ],
+    "ShowCondition": [
+      [
+        112,
+        1
+      ]
+    ],
+    "RedDotId": 81000700
+  },
+  "4": {
+    "Id": 4,
+    "Icon": "ui/atlas/recommendedplay/play_icon_2",
+    "Name": "Friendship Store",
+    "BtnFunction": [
+      "OpenShopView",
+      "shop",
+      "800817"
+    ],
+    "ShowCondition": [],
+    "RedDotId": 0
+  },
+  "5": {
+    "Id": 5,
+    "Icon": "ui/atlas/recommendedplay/play_icon_5",
+    "Name": "Floor Rewards",
+    "BtnFunction": [
+      "OpenTargetView",
+      "weekly_hunt"
+    ],
+    "ShowCondition": [
+      [
+        14,
+        500888
+      ]
+    ],
+    "RedDotId": 1601
+  },
+  "6": {
+    "Id": 6,
+    "Icon": "ui/atlas/recommendedplay/play_icon_5",
+    "Name": "Skip-Floor Rewards",
+    "BtnFunction": [
+      "OpenJumpDialog",
+      "weekly_hunt"
+    ],
+    "ShowCondition": [
+      [
+        14,
+        500889
+      ],
+      [
+        114,
+        0
+      ],
+      [
+        115,
+        0
+      ]
+    ],
+    "RedDotId": 0
+  }
+}

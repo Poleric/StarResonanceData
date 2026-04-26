@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "enum_e_instrument_play_range.proto";
+
+package zproto;
+
+message SetSelfInstrumentPlayRangeRequest {
+	EInstrumentPlayRange playRange = 1 [json_name = "playRange"];
+}

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message RewardTotalFriendlinessLvRequest {
-  int32 level = 1;
+	int32 level = 1 [json_name = "level"];
 }
-

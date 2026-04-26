@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ActivationTableBase {
-  int32 id = 1463;
-  int32 target_type = 736;
-  int32 scene_id = 1506;
-  int_array param = 1207;
-  int32 activation = 1705;
-  mlstring target_des = 1279;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 TargetType = 736 [json_name = "TargetType"];
+	int32 SceneId = 1506 [json_name = "SceneId"];
+	int_array Param = 1207 [json_name = "Param"];
+	int32 Activation = 1705 [json_name = "Activation"];
+	mlstring TargetDes = 1279 [json_name = "TargetDes"];
 }
 
 message ActivationTableMgr {
-  map<int32, bokura.ActivationTableBase> datas = 1;
+	map<int32, ActivationTableBase> datas = 1 [json_name = "datas"];
 }
-

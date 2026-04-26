@@ -1,27 +1,26 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message TalentPoolTableBase {
-  int32 id = 1463;
-  string des = 266;
-  string sect_icon = 606;
-  int32 main_talent_id = 187;
-  int_array secondary_talent = 1064;
-  int_array passive_talent = 1570;
-  int_table talent_position = 1593;
-  int_array recommend_talent = 1992;
-  mlstring school_des = 926;
-  mlstring recommend_dimension = 852;
-  mlstring school_icon = 1576;
-  mlstring player_school_icon = 1946;
-  int_array fantasy_solution_list = 1523;
-  int32 strategy_page = 158;
+	int32 Id = 1463 [json_name = "Id"];
+	string Des = 266 [json_name = "Des"];
+	string SectIcon = 606 [json_name = "SectIcon"];
+	int32 MainTalentId = 187 [json_name = "MainTalentId"];
+	int_array SecondaryTalent = 1064 [json_name = "SecondaryTalent"];
+	int_array PassiveTalent = 1570 [json_name = "PassiveTalent"];
+	int_table TalentPosition = 1593 [json_name = "TalentPosition"];
+	int_array RecommendTalent = 1992 [json_name = "RecommendTalent"];
+	mlstring SchoolDes = 926 [json_name = "SchoolDes"];
+	mlstring RecommendDimension = 852 [json_name = "RecommendDimension"];
+	mlstring SchoolIcon = 1576 [json_name = "SchoolIcon"];
+	mlstring PlayerSchoolIcon = 1946 [json_name = "PlayerSchoolIcon"];
+	int_array FantasySolutionList = 1523 [json_name = "FantasySolutionList"];
+	int32 StrategyPage = 158 [json_name = "StrategyPage"];
 }
 
 message TalentPoolTableMgr {
-  map<int32, bokura.TalentPoolTableBase> datas = 1;
+	map<int32, TalentPoolTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_report_category_type.proto";
 import "enum_e_report_reason_type.proto";
 import "enum_e_report_scene_type.proto";
@@ -11,15 +9,16 @@ import "stru_report_home.proto";
 import "stru_report_picture.proto";
 import "stru_report_union.proto";
 
-message ReportUploadRequest {
-  zproto.EReportSceneType scene_type = 1;
-  zproto.EReportCategoryType category_type = 2;
-  repeated zproto.EReportReasonType reason_type = 3;
-  string report_desc = 4;
-  zproto.ReportBaseInfo report_base_info = 5;
-  zproto.ReportChat report_chat = 6;
-  zproto.ReportPicture report_picture = 7;
-  zproto.ReportUnion report_union = 8;
-  zproto.ReportHome report_home = 9;
-}
+package zproto;
 
+message ReportUploadRequest {
+	EReportSceneType sceneType = 1 [json_name = "sceneType"];
+	EReportCategoryType categoryType = 2 [json_name = "categoryType"];
+	repeated EReportReasonType reasonType = 3 [json_name = "reasonType"];
+	string reportDesc = 4 [json_name = "reportDesc"];
+	ReportBaseInfo reportBaseInfo = 5 [json_name = "reportBaseInfo"];
+	ReportChat reportChat = 6 [json_name = "reportChat"];
+	ReportPicture reportPicture = 7 [json_name = "reportPicture"];
+	ReportUnion reportUnion = 8 [json_name = "reportUnion"];
+	ReportHome reportHome = 9 [json_name = "reportHome"];
+}

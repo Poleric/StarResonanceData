@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message FasionWearRequest {
+	map<int32, int32> fasionTypeToFasionIdMap = 1 [json_name = "fasionTypeToFasionIdMap"];
+}

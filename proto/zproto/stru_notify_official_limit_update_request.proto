@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_union_official.proto";
 
-message NotifyOfficialLimitUpdateRequest {
-  map<int32, zproto.UnionOfficial> officials = 2;
-}
+package zproto;
 
+message NotifyOfficialLimitUpdateRequest {
+	map<int32, UnionOfficial> officials = 2 [json_name = "officials"];
+}

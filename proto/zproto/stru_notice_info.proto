@@ -3,12 +3,11 @@ syntax = "proto3";
 package zproto;
 
 message NoticeInfo {
-  uint32 notice_id = 1;
-  uint64 send_time = 2;
-  bool is_loop = 3;
-  int32 loop_number = 4;
-  uint32 loop_time_interval = 5;
-  string content_text = 6;
-  int64 end_time = 7;
+	uint32 noticeId = 1 [json_name = "noticeId"];
+	uint64 sendTime = 2 [json_name = "sendTime"];
+	bool isLoop = 3 [json_name = "isLoop"];
+	int32 loopNumber = 4 [json_name = "loopNumber"];
+	uint32 loopTimeInterval = 5 [json_name = "loopTimeInterval"];
+	string contentText = 6 [json_name = "contentText"];
+	int64 endTime = 7 [json_name = "endTime"];
 }
-

@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_id_ip_photo.proto";
 
-message GetFuncPhotoListReply {
-  repeated zproto.IdIpPhoto photo_list = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message GetFuncPhotoListReply {
+	repeated IdIpPhoto PhotoList = 2 [json_name = "PhotoList"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

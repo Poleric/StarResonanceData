@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_enum_union_notify_type.proto";
 import "stru_union_info.proto";
 import "stru_union_member.proto";
 import "stru_user_summary_data.proto";
 
-message NotifyUpdateMemberRequest {
-  zproto.UnionInfo info = 2;
-  repeated zproto.UnionMember member_info_list = 3;
-  zproto.EnumUnionNotifyType type = 4;
-  repeated zproto.UserSummaryData member_social_list = 5;
-}
+package zproto;
 
+message NotifyUpdateMemberRequest {
+	UnionInfo info = 2 [json_name = "info"];
+	repeated UnionMember memberInfoList = 3 [json_name = "memberInfoList"];
+	EnumUnionNotifyType type = 4 [json_name = "type"];
+	repeated UserSummaryData memberSocialList = 5 [json_name = "memberSocialList"];
+}

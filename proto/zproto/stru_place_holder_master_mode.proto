@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_master_mode_diff_dungeon_info.proto";
 
-message PlaceHolderMasterMode {
-  map<int32, zproto.MasterModeDiffDungeonInfo> master_mode_info = 1;
-  string user_name = 2;
-  int32 season_id = 3;
-}
+package zproto;
 
+message PlaceHolderMasterMode {
+	map<int32, MasterModeDiffDungeonInfo> masterModeInfo = 1 [json_name = "masterModeInfo"];
+	string userName = 2 [json_name = "userName"];
+	int32 seasonId = 3 [json_name = "seasonId"];
+}

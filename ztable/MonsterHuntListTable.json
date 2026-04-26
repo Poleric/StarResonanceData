@@ -25,11 +25,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_xiaozhu_idle",
     "ModelRetio": 1.2,
     "QuickJumpType": 1,
@@ -40,7 +36,7 @@
     ],
     "Award": 10500330,
     "TreasureBoxId": 0,
-    "Condition": "On Asteria Plains, common Boarlets appear on the Skyquake Fields.",
+    "Condition": "On Asteria Plains, common Boarlets on the Skyquake Fields.",
     "SceneTag": 0
   },
   "10011": {
@@ -69,11 +65,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_niuyang_idle",
     "ModelRetio": 0.5,
     "QuickJumpType": 1,
@@ -84,7 +76,7 @@
     ],
     "Award": 10500260,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary Caprahorns appear on the Skyquake Fields.",
+    "Condition": "Ordinary Caprahorns on the Skyquake Fields.",
     "SceneTag": 0
   },
   "10025": {
@@ -128,7 +120,7 @@
     ],
     "Award": 10500320,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary Boarrierriers appear at the abandoned campsite to the right of the Scout Lookout Post.",
+    "Condition": "Ordinary Boarriers at the abandoned campsite to the right of the Scout Lookout Post.",
     "SceneTag": 0
   },
   "10031": {
@@ -172,7 +164,7 @@
     ],
     "Award": 10500040,
     "TreasureBoxId": 40018,
-    "Condition": "The Boarrierrier mini-boss appears at the abandoned campsite to the right of the Scout Lookout Post. It will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A boarrier mini-boss that roams the abandoned camp to the right of the Scout Lookout Post on the Asteria Plains.",
     "SceneTag": 0
   },
   "10032": {
@@ -216,7 +208,7 @@
     ],
     "Award": 10700060,
     "TreasureBoxId": 40006,
-    "Condition": "Every hour on the hour, a Boarrierrier leader appears at the abandoned campsite to the right of the Scout Lookout Post in Asteria Plains, handle with care!",
+    "Condition": "Respawn Time: Respawns at the top of every hour. <br>A boar leader that roams the abandoned camp to the right of the Scout Lookout Post on the Asteria Plains. Be careful!",
     "SceneTag": 733
   },
   "10001": {
@@ -256,7 +248,7 @@
     ],
     "Award": 10500210,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary goblins with melee attacks appear in Ancient City of Vill.",
+    "Condition": "Ordinary melee goblins in Ancient City of Vill.",
     "SceneTag": 0
   },
   "10000": {
@@ -296,7 +288,7 @@
     ],
     "Award": 10500200,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary goblins appear in Ancient City of Vill.",
+    "Condition": "Ordinary goblins in Ancient City of Vill.",
     "SceneTag": 0
   },
   "10006": {
@@ -336,7 +328,7 @@
     ],
     "Award": 10500250,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary goblins with high defense appear in Ancient City of Vill.",
+    "Condition": "Ordinary goblins with high defense in Ancient City of Vill.",
     "SceneTag": 0
   },
   "10005": {
@@ -376,7 +368,7 @@
     ],
     "Award": 10500240,
     "TreasureBoxId": 0,
-    "Condition": "Ranged-attacking ordinary goblins appear in Ancient City of Vill.",
+    "Condition": "Ordinary ranged goblins in Ancient City of Vill.",
     "SceneTag": 0
   },
   "10035": {
@@ -416,7 +408,7 @@
     ],
     "Award": 10500060,
     "TreasureBoxId": 40020,
-    "Condition": "The melee-attacking Goblin King appears in Ancient City of Vill. It will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A Goblin mini-boss that roams the Ancient City of Vill on the Asteria Plains, skilled in close combat.",
     "SceneTag": 0
   },
   "10019": {
@@ -456,7 +448,7 @@
     ],
     "Award": 10500030,
     "TreasureBoxId": 40017,
-    "Condition": "The ranged-attacking Goblin King appears in Ancient City of Vill. It will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A Goblin mini-boss that roams the Ancient City of Vill on the Asteria Plains, skilled in ranged attack.",
     "SceneTag": 0
   },
   "10009": {
@@ -496,7 +488,7 @@
     ],
     "Award": 10700020,
     "TreasureBoxId": 40002,
-    "Condition": "Every half-hour, the ice ogre leading the goblins appears in Ancient City of Vill in Asteria Plains, handle with care!",
+    "Condition": "Respawn Time: Respawns at 30 minutes past every hour. <br>An Ice ogre that commands the Goblins in the Ancient City of Vill on the Asteria Plains. Be careful!",
     "SceneTag": 733
   },
   "10072": {
@@ -536,7 +528,7 @@
     ],
     "Award": 10500470,
     "TreasureBoxId": 0,
-    "Condition": "Melee fire goblins, tainted with fire aura due to the influence of Inferno Ogres, appear at Landing Battle Site.",
+    "Condition": "Melee fire goblins tainted with the fire of Inferno Ogre at the Landing Battle Site of Asteria Plains.",
     "SceneTag": 0
   },
   "10073": {
@@ -576,7 +568,7 @@
     ],
     "Award": 10500480,
     "TreasureBoxId": 0,
-    "Condition": "Melee fire goblins, tainted with fire aura due to the influence of Inferno Ogres, appear at Landing Battle Site.",
+    "Condition": "Melee fire goblins tainted with the fire of Inferno Ogre at the Landing Battle Site of Asteria Plains.",
     "SceneTag": 0
   },
   "10004": {
@@ -620,7 +612,7 @@
     ],
     "Award": 10500230,
     "TreasureBoxId": 0,
-    "Condition": "Goblin Mage tainted with fire aura due to the influence of Inferno Ogres appear at the Landing Battle Site of Asteria Plains.",
+    "Condition": "Goblin Mages tainted with the fire of Inferno Ogre at the Andra Landing Battlefield of Asteria Plains.",
     "SceneTag": 0
   },
   "10047": {
@@ -667,7 +659,7 @@
     ],
     "Award": 10500390,
     "TreasureBoxId": 0,
-    "Condition": "Mountain spirits fond of fire appear at Landing Battle Site.",
+    "Condition": "Mountain spirits fond of fire at the Landing Battle Site of Asteria Plains.",
     "SceneTag": 0
   },
   "10012": {
@@ -707,7 +699,7 @@
     ],
     "Award": 10500020,
     "TreasureBoxId": 40016,
-    "Condition": "The goblin mini-boss with long-range fire attacks appears at the Landing Battle Site of Asteria Plains. Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A Fire-element goblin mini-boss that roams the Andra Landing Battlefield on the Asteria Plains, specializing in ranged attacks.",
     "SceneTag": 0
   },
   "10042": {
@@ -747,7 +739,7 @@
     ],
     "Award": 10500080,
     "TreasureBoxId": 40022,
-    "Condition": "Mountain spirit mini-bosses with melee attacks appear at Landing Battle Site. They will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A mountain spirit mini-boss that roams the Andra Landing Battlefield on the Asteria Plains, skilled in melee attacks.",
     "SceneTag": 0
   },
   "10018": {
@@ -787,7 +779,7 @@
     ],
     "Award": 10700040,
     "TreasureBoxId": 40004,
-    "Condition": "Every hour on the hour, a giant orc emitting a fiery aura will appear at Landing Battle Site, handle with care!",
+    "Condition": "Respawn Time: Respawns at the top of every hour. <br>A towering orc cloaked in fire, roaming the Andra Landing Battlefield on the Asteria Plains. Be careful!",
     "SceneTag": 733
   },
   "10099": {
@@ -831,7 +823,7 @@
     ],
     "Award": 10500560,
     "TreasureBoxId": 0,
-    "Condition": "Small Arachnocrabs appear in the Underground District, often emerging in groups.",
+    "Condition": "Small Arachnocrabs in the Underground District, often emerging in groups.",
     "SceneTag": 0
   },
   "10014": {
@@ -875,7 +867,7 @@
     ],
     "Award": 10500270,
     "TreasureBoxId": 0,
-    "Condition": "Common adult Arachnocrabs appear at Underground District.",
+    "Condition": "Common adult Arachnocrabs in the Underground District.",
     "SceneTag": 0
   },
   "10034": {
@@ -919,7 +911,7 @@
     ],
     "Award": 10500050,
     "TreasureBoxId": 40019,
-    "Condition": "Elite Arachnocrabs, tainted by the polluted environment of the underground district, appear at Underground District. They will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>An elite Arachnocrab that roams the underground district of Asterleeds, corrupted by the district's pollution.",
     "SceneTag": 0
   },
   "10069": {
@@ -963,7 +955,7 @@
     ],
     "Award": 10700090,
     "TreasureBoxId": 40009,
-    "Condition": "Every half-hour, special Arachnocrabs with formidable strength appear at Underground District, handle with care!",
+    "Condition": "Respawn Time: Respawns at 30 minutes past every hour. <br>A powerful Arachnocrab that roams the underground district of Asterleeds. Be careful!",
     "SceneTag": 733
   },
   "10027": {
@@ -1007,7 +999,7 @@
     ],
     "Award": 10500340,
     "TreasureBoxId": 0,
-    "Condition": "Axe-wielding melee Brigands appear in the eastern and northern areas of Minsterhorn City, located in Asteria Plains.",
+    "Condition": "Axe-wielding melee Brigands in the eastern and northern areas of Minsterhorn City, located in Asteria Plains.",
     "SceneTag": 0
   },
   "10037": {
@@ -1051,7 +1043,7 @@
     ],
     "Award": 10500370,
     "TreasureBoxId": 0,
-    "Condition": "Dagger-wielding melee Brigands appear in the eastern and northern areas of Minsterhorn City, located in Asteria Plains.",
+    "Condition": "Dagger-wielding melee Brigands in the eastern and northern areas of Minsterhorn City, located in Asteria Plains.",
     "SceneTag": 0
   },
   "10028": {
@@ -1095,7 +1087,7 @@
     ],
     "Award": 10500350,
     "TreasureBoxId": 0,
-    "Condition": "Ranged-attacking Brigands appear at the Brigand camp in the western part of Minsterhorn City.",
+    "Condition": "Ranged Brigands at the Brigand camp in the western part of Minsterhorn City.",
     "SceneTag": 0
   },
   "10039": {
@@ -1139,7 +1131,7 @@
     ],
     "Award": 10500380,
     "TreasureBoxId": 0,
-    "Condition": "Melee-attacking Brigands appear at the Brigand camp in the western part of Minsterhorn City.",
+    "Condition": "Melee Brigands appear at the Brigand camp in the western part of Minsterhorn City.",
     "SceneTag": 0
   },
   "10038": {
@@ -1183,7 +1175,7 @@
     ],
     "Award": 10500070,
     "TreasureBoxId": 40021,
-    "Condition": "The dagger-wielding melee Brigand leader appears in the eastern and northern areas of Minsterhorn City. Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A Brigand mini-boss that roams the eastern and northern districts of Minsterhorn on the Asteria Plains, wielding a dagger in melee combat.",
     "SceneTag": 0
   },
   "10055": {
@@ -1227,7 +1219,7 @@
     ],
     "Award": 10500100,
     "TreasureBoxId": 40024,
-    "Condition": "The melee-attacking Brigand leader appears at the Brigand camp in the western part of Minsterhorn City. Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A Brigand mini-boss that roams the Brigand camp west of Minsterhorn on the Asteria Plains, skilled in close combat.",
     "SceneTag": 0
   },
   "10056": {
@@ -1271,7 +1263,7 @@
     ],
     "Award": 10700070,
     "TreasureBoxId": 40007,
-    "Condition": "Every hour on the hour, the Brigand leader appears at the Brigand camp in the western part of Minsterhorn city. Be cautious!",
+    "Condition": "Respawn Time: Respawns at the top of every hour. <br>The Brigand boss that roams the Brigand camp west of Minsterhorn on the Asteria Plains. Be careful!",
     "SceneTag": 733
   },
   "10074": {
@@ -1315,7 +1307,7 @@
     ],
     "Award": 10500490,
     "TreasureBoxId": 0,
-    "Condition": "Highly aggressive Bzzars appear in the underground district of Asterleeds.",
+    "Condition": "Highly aggressive Bzzars in the Underground District of Asterleeds.",
     "SceneTag": 0
   },
   "10075": {
@@ -1359,7 +1351,7 @@
     ],
     "Award": 10500500,
     "TreasureBoxId": 0,
-    "Condition": "Poisonous Bzzars appear in the underground district of Asterleeds.",
+    "Condition": "Poisonous Bzzars in the Underground District of Asterleeds.",
     "SceneTag": 0
   },
   "10076": {
@@ -1403,7 +1395,7 @@
     ],
     "Award": 10500160,
     "TreasureBoxId": 40030,
-    "Condition": "Void Bzzars, influenced by the environment of the underground district, appear in the underground district of Asterleeds. They will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A mutated Bzzar that roams the underground district of Asterleeds, corrupted by the district's pollution.",
     "SceneTag": 0
   },
   "10077": {
@@ -1432,11 +1424,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.11,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_fengchao_idle",
     "ModelRetio": 0.52,
     "QuickJumpType": 1,
@@ -1447,7 +1435,7 @@
     ],
     "Award": 10700100,
     "TreasureBoxId": 40010,
-    "Condition": "Every half-hour, the Bzzar nest appears in the underground district of Asterleeds. Be cautious!",
+    "Condition": "Respawn Time: Respawns at 30 minutes past every hour. <br>The hive that appears in the underground district of Asterleeds, home to all Bzzars. Be careful!",
     "SceneTag": 733
   },
   "10021": {
@@ -1491,7 +1479,7 @@
     ],
     "Award": 10500280,
     "TreasureBoxId": 0,
-    "Condition": "The Melee Muku King appears at Monster Camp in the southern region of the Kanamia Tribe.",
+    "Condition": "The melee Muku King at Monster Camp in the southern region of the Kanamia Tribe.",
     "SceneTag": 0
   },
   "10022": {
@@ -1535,7 +1523,7 @@
     ],
     "Award": 10500290,
     "TreasureBoxId": 0,
-    "Condition": "The melee Muku King appears at Monster Camp in the southern region of the Kanamia Tribe.",
+    "Condition": "The melee Muku King at Monster Camp in the southern region of the Kanamia Tribe.",
     "SceneTag": 0
   },
   "10024": {
@@ -1579,7 +1567,7 @@
     ],
     "Award": 10500310,
     "TreasureBoxId": 0,
-    "Condition": "The melee Muku King appears at Monster Camp in the southern region of the Kanamia Tribe.",
+    "Condition": "The melee Muku King at Monster Camp in the southern region of the Kanamia Tribe.",
     "SceneTag": 0
   },
   "10023": {
@@ -1619,7 +1607,7 @@
     ],
     "Award": 10500300,
     "TreasureBoxId": 0,
-    "Condition": "The melee Muku King appears at Monster Camp in the southern region of the Kanamia Tribe.",
+    "Condition": "The melee Muku King at Monster Camp in the southern region of the Kanamia Tribe.",
     "SceneTag": 0
   },
   "10057": {
@@ -1659,7 +1647,7 @@
     ],
     "Award": 10500110,
     "TreasureBoxId": 40025,
-    "Condition": "The hammer-wielding melee Muku leader appears at Monster Camp in the southern region of the Kanamia Tribe. Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A Muku mini-boss that roams the monster camp south of the Kanamia Tribe on the Asteria Plains, wielding a giant hammer in melee combat.",
     "SceneTag": 0
   },
   "10058": {
@@ -1699,7 +1687,7 @@
     ],
     "Award": 10500120,
     "TreasureBoxId": 40026,
-    "Condition": "The Muku Boss using dual axes for melee combat appears at Monster Camp in the southern region of the Kanamia Tribe. Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A Muku mini-boss that roams the monster camp south of the Kanamia Tribe on the Asteria Plains, wielding dual axes in melee combat.",
     "SceneTag": 0
   },
   "10059": {
@@ -1743,7 +1731,7 @@
     ],
     "Award": 10700080,
     "TreasureBoxId": 40008,
-    "Condition": "Every hour on the hour, a Muku leader will appear at Monster Camp in the Southern Kanamia Tribe, handle with care!",
+    "Condition": "Respawn Time: Respawns at the top of every hour. <br>The Muku boss that roams the monster camp south of the Kanamia Tribe on the Asteria Plains. Be careful!",
     "SceneTag": 733
   },
   "10030": {
@@ -1787,7 +1775,7 @@
     ],
     "Award": 10500360,
     "TreasureBoxId": 0,
-    "Condition": "Aggressive boars appear in the Windhowl Canyon.",
+    "Condition": "Aggressive boars in the Windhowl Canyon.",
     "SceneTag": 0
   },
   "10079": {
@@ -1831,7 +1819,7 @@
     ],
     "Award": 10500520,
     "TreasureBoxId": 0,
-    "Condition": "Boars mutated by wind attributes appear in the Windhowl Canyon.",
+    "Condition": "Boars mutated by Wind in Windhowl Canyon.",
     "SceneTag": 0
   },
   "10080": {
@@ -1875,7 +1863,7 @@
     ],
     "Award": 10500170,
     "TreasureBoxId": 40031,
-    "Condition": "Boar mini-bosses appear in the Windhowl Canyon. They will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A boarrier mini-boss that roams the Windhowl Canyon.",
     "SceneTag": 0
   },
   "10081": {
@@ -1919,7 +1907,7 @@
     ],
     "Award": 10700110,
     "TreasureBoxId": 40011,
-    "Condition": "Every half-hour, the Boarrier leader appears in the Windhowl Canyon. Be cautious!",
+    "Condition": "Respawn Time: Respawns at 30 minutes past every hour. <br>The boarrier boss that roams the Windhowl Canyon. Be careful!",
     "SceneTag": 733
   },
   "10078": {
@@ -1959,7 +1947,7 @@
     ],
     "Award": 10500510,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary goblins with wind attribute melee attacks appear in the Windhowl Canyon.",
+    "Condition": "Ordinary Wind melee goblins in Windhowl Canyon.",
     "SceneTag": 0
   },
   "10003": {
@@ -1999,7 +1987,7 @@
     ],
     "Award": 10500220,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary goblins with wind attribute ranged attacks appear in the Windhowl Canyon.",
+    "Condition": "Ordinary ranged goblins mutated by Wind in the Windhowl Canyon.",
     "SceneTag": 0
   },
   "10066": {
@@ -2039,7 +2027,7 @@
     ],
     "Award": 10500150,
     "TreasureBoxId": 40029,
-    "Condition": "Goblin mini-bosses wielding giant axes for melee attacks appear in the Windhowl Canyon. They will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A goblin mini-boss that roams the Windhowl Canyon, wielding a giant axe in melee combat.",
     "SceneTag": 0
   },
   "10007": {
@@ -2086,7 +2074,7 @@
     ],
     "Award": 10700010,
     "TreasureBoxId": 40001,
-    "Condition": "Every hour on the hour, on the hour, the leader of the storm goblins appears in the Windhowl Canyon. Be cautious!",
+    "Condition": "Respawn Time: Respawns at the top of every hour. <br>The boss of the Storm Goblins roaming the Windhowl Canyon. Approach with caution!",
     "SceneTag": 733
   },
   "10060": {
@@ -2130,7 +2118,7 @@
     ],
     "Award": 10500430,
     "TreasureBoxId": 0,
-    "Condition": "The melee-attacking Dark Mist Legion Scout appears in Dark Mist Fortress area, Asteria Plains.",
+    "Condition": "Melee Dark Mist Legion Scouts in the Dark Mist Fortress area of Asteria Plains.",
     "SceneTag": 0
   },
   "10062": {
@@ -2174,7 +2162,7 @@
     ],
     "Award": 10500450,
     "TreasureBoxId": 0,
-    "Condition": "The ranged-attacking Dark Mist Legion Gunner appears in the Dark Mist Fortress area of Asteria Plains.",
+    "Condition": "Ranged Dark Mist Legion Gunners in the Dark Mist Fortress area of Asteria Plains.",
     "SceneTag": 0
   },
   "10061": {
@@ -2218,7 +2206,7 @@
     ],
     "Award": 10500440,
     "TreasureBoxId": 0,
-    "Condition": "The melee-attacking Dark Mist Legion Guard appears in the Dark Mist Fortress area of Asteria Plains.",
+    "Condition": "Melee Dark Mist Legion Guards in the Dark Mist Fortress area of Asteria Plains.",
     "SceneTag": 0
   },
   "10063": {
@@ -2262,7 +2250,7 @@
     ],
     "Award": 10500460,
     "TreasureBoxId": 0,
-    "Condition": "The melee-attacking Dark Mist Swordsman appears in the Dark Mist Fortress area of Asteria Plains.",
+    "Condition": "Melee Dark Mist Swordsmen in the Dark Mist Fortress area of Asteria Plains.",
     "SceneTag": 0
   },
   "10064": {
@@ -2306,7 +2294,7 @@
     ],
     "Award": 10500130,
     "TreasureBoxId": 40027,
-    "Condition": "The ranged-attacking Dark Mist Legion Gunner Mini-Boss appears in the Dark Mist Fortress area of Asteria Plains. Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A gunner mini-boss of the Dark Mist Legion roaming the Dark Mist Fortress on the Asteria Plains, skilled in ranged attacks.",
     "SceneTag": 0
   },
   "10065": {
@@ -2350,7 +2338,7 @@
     ],
     "Award": 10500140,
     "TreasureBoxId": 40028,
-    "Condition": "The melee-attacking Dark Mist Swordsman Mini-Boss appears in the Dark Mist Fortress area of Asteria Plains. Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A swordsman mini-boss of the Dark Mist Legion roaming the Dark Mist Fortress on the Asteria Plains, skilled in in melee attacks.",
     "SceneTag": 0
   },
   "10010": {
@@ -2390,7 +2378,7 @@
     ],
     "Award": 10700030,
     "TreasureBoxId": 40003,
-    "Condition": "Every half-hour, the Ogre Boss surrounded by lightning will appear in the Dark Mist Fortress area of Asteria Plains. Handle with care!",
+    "Condition": "Respawn Time: Respawns at 30 minutes past every hour. <br>The ogre boss wreathed in lightning and roaming the Dark Mist Fortress on the Asteria Plains. Be careful!",
     "SceneTag": 733
   },
   "10082": {
@@ -2419,11 +2407,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_feiyu_idle",
     "ModelRetio": 0.7,
     "QuickJumpType": 1,
@@ -2434,7 +2418,7 @@
     ],
     "Award": 10500530,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary Skyfish appears in the Skimmer's Lair.",
+    "Condition": "Ordinary Skyfish in the Skimmer's Lair.",
     "SceneTag": 0
   },
   "10083": {
@@ -2463,11 +2447,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_feiyu_idle",
     "ModelRetio": 0.7,
     "QuickJumpType": 1,
@@ -2478,7 +2458,7 @@
     ],
     "Award": 10500540,
     "TreasureBoxId": 0,
-    "Condition": "Aggressive Jade Skyfish appears in the Skimmer's Lair.",
+    "Condition": "Aggressive Jade Skyfish in the Skimmer's Lair.",
     "SceneTag": 0
   },
   "10100": {
@@ -2518,7 +2498,7 @@
     ],
     "Award": 10500570,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary melee-attacking Murlocs appear in the Skimmer's Lair.",
+    "Condition": "Ordinary melee merman in the Skimmer's Lair.",
     "SceneTag": 0
   },
   "10101": {
@@ -2558,7 +2538,7 @@
     ],
     "Award": 10500580,
     "TreasureBoxId": 0,
-    "Condition": "Ordinary ranged-attacking Murloc appears in the Skimmer's Lair.",
+    "Condition": "Ordinary ranged Murlocs in the Skimmer's Lair.",
     "SceneTag": 0
   },
   "10104": {
@@ -2598,7 +2578,7 @@
     ],
     "Award": 10500180,
     "TreasureBoxId": 40032,
-    "Condition": "Can be found in the Skimmer's Lair. Murloc hunters and mages cooperate seamlessly, handle with care! Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>Appears in the Skimmer's Lair. The merman hunters and mages coordinate well with each other. Be careful!",
     "SceneTag": 0
   },
   "10105": {
@@ -2638,7 +2618,7 @@
     ],
     "Award": 10500190,
     "TreasureBoxId": 40033,
-    "Condition": "Can be found in the Skimmer's Lair. Murloc hunters and mages cooperate seamlessly, handle with care! Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>Appears in the Skimmer's Lair. The merman hunters and mages coordinate well with each other. Be careful!",
     "SceneTag": 0
   },
   "10084": {
@@ -2667,11 +2647,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_feiyu_idle",
     "ModelRetio": 0.7,
     "QuickJumpType": 1,
@@ -2682,7 +2658,7 @@
     ],
     "Award": 10700120,
     "TreasureBoxId": 40012,
-    "Condition": "Every hour on the hour, the leader of the Skyfish group appears in the Skimmer's Lair. Extremely aggressive Shrine Skyfish, handle with care!",
+    "Condition": "Respawn Time: Respawns at the top of every hour. <br>The boss of the Skyfish clan roaming the Skimmer's Lair. It's an extremely aggressive Celestial Flier. Be careful!",
     "SceneTag": 733
   },
   "10085": {
@@ -2722,7 +2698,7 @@
     ],
     "Award": 10700130,
     "TreasureBoxId": 40013,
-    "Condition": "Every half-hour, the leader of the underwater lizardmen appears in the Skimmer's Lair, handle with care!",
+    "Condition": "Respawn Time: Respawns at 30 minutes past every hour. <br>The boss of the Sea Lizardman clan roaming the Skimmer's Lair. Be careful!",
     "SceneTag": 733
   },
   "10053": {
@@ -2762,7 +2738,7 @@
     ],
     "Award": 10500420,
     "TreasureBoxId": 0,
-    "Condition": "In the northern plains, one may encounter a common Goblin from the Duskdye Woods , a creature wielding a stick and known for its potent short-range attacks.",
+    "Condition": "Stick-wielding melee goblins in the Duskdye Woods on the northern plain.",
     "SceneTag": 0
   },
   "10051": {
@@ -2802,7 +2778,7 @@
     ],
     "Award": 10500410,
     "TreasureBoxId": 0,
-    "Condition": "In the northern plains, one may encounter a common Goblin from the Duskdye Woods , a creature with potent short-range attacks.",
+    "Condition": "Ordinary melee goblins in the the Duskdye Woods on the northern plains.",
     "SceneTag": 0
   },
   "10008": {
@@ -2842,7 +2818,7 @@
     ],
     "Award": 10500010,
     "TreasureBoxId": 40015,
-    "Condition": "The Goblin Mini-Boss wielding a giant axe for melee combat appears in the Duskdye Woods. Will reappear 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A goblin mini-boss that roams the Duskdye Woods on the plains, wielding a giant axe in melee combat.",
     "SceneTag": 0
   },
   "10086": {
@@ -2889,7 +2865,7 @@
     ],
     "Award": 10700140,
     "TreasureBoxId": 40014,
-    "Condition": "Every hour on the hour, the goblin leader appears in the Duskdye Woods in the Northern Plains, handle with care!",
+    "Condition": "Respawn Time: Respawns at the top of every hour. <br>The goblin boss that roams the Duskdye Woods on the northern plains. Be careful!",
     "SceneTag": 733
   },
   "10049": {
@@ -2929,7 +2905,7 @@
     ],
     "Award": 10500400,
     "TreasureBoxId": 0,
-    "Condition": "In the northern plains, one may encounter a common Muku from the Everfall Forest, a creature with potent long-range attacks.",
+    "Condition": "Ordinary ranged Muku in the Everfall Forest on the northern plains.",
     "SceneTag": 0
   },
   "10087": {
@@ -2969,7 +2945,7 @@
     ],
     "Award": 10500550,
     "TreasureBoxId": 0,
-    "Condition": "In the northern plains, one may encounter a common Muku from the Everfall Forest, a creature with potent short-range attacks.",
+    "Condition": "Melee Muku in the Everfall Forest on the northern plains.",
     "SceneTag": 0
   },
   "10052": {
@@ -3009,7 +2985,7 @@
     ],
     "Award": 10500090,
     "TreasureBoxId": 40023,
-    "Condition": "In the northern plains, one may encounter a Muku Boss wielding a giant hammer for melee combat from the Everfall Forest, who reappears 3 minutes after being defeated.",
+    "Condition": "Respawn Time: Revives 3 minutes after being defeated. <br>A Muku mini-boss that roams the Everfall Forest on the northern plains, wielding a giant axe in melee combat.",
     "SceneTag": 0
   },
   "10029": {
@@ -3060,7 +3036,7 @@
     ],
     "Award": 10700050,
     "TreasureBoxId": 40005,
-    "Condition": "Every half-hour, Muku boss emerges in the Everfall Forest-a formidable foe demanding utmost caution.",
+    "Condition": "Respawn Time: Respawns at 30 minutes past every hour. <br>The Muku boss that roams the Everfall Forest on the northern plains. Approach with caution!",
     "SceneTag": 733
   },
   "10902": {
@@ -3089,11 +3065,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_xiaozhu_idle",
     "ModelRetio": 1.0,
     "QuickJumpType": 1,
@@ -3133,11 +3105,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_xiaozhu_idle",
     "ModelRetio": 1.0,
     "QuickJumpType": 1,
@@ -3148,7 +3116,7 @@
     ],
     "Award": 10500630,
     "TreasureBoxId": 0,
-    "Condition": "A magical creature, appears daily at 10:00, 14:00, and 18:00(UTC-2) on the Skyquake Fields.",
+    "Condition": "A magical creature, appears daily at 12:00, 16:00, and 20:00(UTC-2) on the Skyquake Fields.",
     "SceneTag": 0
   },
   "10904": {
@@ -3177,11 +3145,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_xiaozhu_idle",
     "ModelRetio": 1.0,
     "QuickJumpType": 5,
@@ -3219,11 +3183,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_nappo-gf_idle",
     "ModelRetio": 1.0,
     "QuickJumpType": 5,
@@ -3261,11 +3221,7 @@
       ]
     ],
     "SkillIds": [],
-    "ModelArray": [
-      -0.04,
-      0.0,
-      0.0
-    ],
+    "ModelArray": [],
     "DefaulAction": "as_mon_nappo-gf_idle",
     "ModelRetio": 1.0,
     "QuickJumpType": 5,
@@ -3276,5 +3232,1525 @@
     "TreasureBoxId": 0,
     "Condition": "A magical creature, appears every 2 hours at random locations. It is said that Silver Nappo is more likely to appear in areas where monsters gathered.",
     "SceneTag": 0
+  },
+  "11015": {
+    "MonsterId": 11015,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 78,
+    "Target": [
+      [
+        1,
+        1101501,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1101502,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1101503,
+        2,
+        20402300
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_niuyang_idle",
+    "ModelRetio": 0.5,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3312
+    ],
+    "Award": 10500990,
+    "TreasureBoxId": 0,
+    "Condition": "Little Caprahorns on the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11045": {
+    "MonsterId": 11045,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 79,
+    "Target": [
+      [
+        1,
+        1104501,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1104502,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1104503,
+        2,
+        20402300
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_xiongying_idle",
+    "ModelRetio": 0.4,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3320
+    ],
+    "Award": 10501000,
+    "TreasureBoxId": 0,
+    "Condition": "Giant eagles near the Fallen Valley in western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10015": {
+    "MonsterId": 10015,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 80,
+    "Target": [
+      [
+        1,
+        1001501,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1001502,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1001503,
+        2,
+        20402300
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_fengchao_idle",
+    "ModelRetio": 0.4,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3340
+    ],
+    "Award": 10501010,
+    "TreasureBoxId": 0,
+    "Condition": "Beehives near the ruins in western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11001": {
+    "MonsterId": 11001,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 81,
+    "Target": [
+      [
+        1,
+        1100101,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1100102,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1100103,
+        2,
+        20402370
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_xiyi_idle",
+    "ModelRetio": 0.8,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      2986
+    ],
+    "Award": 10500640,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 220</b></style><br>Ice-Dark lizards in the abandoned mine of the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11002": {
+    "MonsterId": 11002,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 82,
+    "Target": [
+      [
+        1,
+        1100201,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1100202,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1100203,
+        2,
+        20402371
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_xiyi_idle",
+    "ModelRetio": 0.8,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3003
+    ],
+    "Award": 10500650,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 400</b></style><br>Rock-Fire lizards in the abandoned mine of the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11003": {
+    "MonsterId": 11003,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 83,
+    "Target": [
+      [
+        1,
+        1100301,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1100302,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1100303,
+        2,
+        20402372
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_xiyi_idle",
+    "ModelRetio": 0.8,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      2977
+    ],
+    "Award": 10500660,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 420</b></style><br>Forest-Wind lizards in the abandoned mine of the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11004": {
+    "MonsterId": 11004,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 84,
+    "Target": [
+      [
+        1,
+        1100401,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1100402,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1100403,
+        2,
+        20402373
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_xiyi_idle",
+    "ModelRetio": 0.8,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      2989
+    ],
+    "Award": 10500670,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 680</b></style><br>Thunder-Light lizards in the abandoned mine of the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11005": {
+    "MonsterId": 11005,
+    "Scene": 9,
+    "Type": 2,
+    "Sort": 85,
+    "Target": [
+      [
+        1,
+        1100501,
+        0,
+        20402310
+      ],
+      [
+        2,
+        1100502,
+        1,
+        20402390
+      ],
+      [
+        3,
+        1100503,
+        2,
+        20402330
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_xiyi_idle",
+    "ModelRetio": 0.8,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      350
+    ],
+    "Award": 10500680,
+    "TreasureBoxId": 40040,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 710</b></style><br>Respawn Time: Revives 3 minutes after being defeated. <br>A powerful lizard found in the abandoned mine of the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11007": {
+    "MonsterId": 11007,
+    "Scene": 9,
+    "Type": 3,
+    "Sort": 86,
+    "Target": [
+      [
+        1,
+        1100701,
+        0,
+        20402340
+      ],
+      [
+        2,
+        1100702,
+        1,
+        20402350
+      ],
+      [
+        3,
+        1100703,
+        2,
+        20402399
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_xiyi_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      349
+    ],
+    "Award": 10500690,
+    "TreasureBoxId": 40034,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 720</b></style><br>Respawn Time: Respawns at the top of every hour. <br>The lizard boss found in the abandoned mine of the Bahamar Highlands. Approach with caution!",
+    "SceneTag": 733
+  },
+  "11008": {
+    "MonsterId": 11008,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 87,
+    "Target": [
+      [
+        1,
+        1100801,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1100802,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1100803,
+        2,
+        20402378
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_gebulin-ds_idle",
+    "ModelRetio": 0.7,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      407
+    ],
+    "Award": 10500770,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 880</b></style><br>Battle-hardened Goblin Warriors at the Goblin camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11009": {
+    "MonsterId": 11009,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 88,
+    "Target": [
+      [
+        1,
+        1100901,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1100902,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1100903,
+        2,
+        20402379
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_gebulin-ds_fidle",
+    "ModelRetio": 0.7,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      423
+    ],
+    "Award": 10500780,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 930</b></style><br>Battle-hardened Goblin Axemen at the Goblin camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11010": {
+    "MonsterId": 11010,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 89,
+    "Target": [
+      [
+        1,
+        1101001,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1101002,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1101003,
+        2,
+        20402380
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_gebulin-ss_idle",
+    "ModelRetio": 0.7,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3012
+    ],
+    "Award": 10500790,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 960</b></style><br>Battle-hardened Goblin Priests at the Goblin camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11011": {
+    "MonsterId": 11011,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 90,
+    "Target": [
+      [
+        1,
+        1101101,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1101102,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1101103,
+        2,
+        20402381
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_gebulin-ssfc_idle",
+    "ModelRetio": 0.7,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      450
+    ],
+    "Award": 10500800,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1020</b></style><br>Battle-hardened Goblin Guards at the Goblin camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11012": {
+    "MonsterId": 11012,
+    "Scene": 9,
+    "Type": 2,
+    "Sort": 91,
+    "Target": [
+      [
+        1,
+        1101201,
+        0,
+        20402310
+      ],
+      [
+        2,
+        1101202,
+        1,
+        20402393
+      ],
+      [
+        3,
+        1101203,
+        2,
+        20402330
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_gebulin-ds_idle",
+    "ModelRetio": 0.6,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      340
+    ],
+    "Award": 10500810,
+    "TreasureBoxId": 40043,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1030</b></style><br>Respawn Time: Revives 3 minutes after being defeated. <br>An unusually cunning Goblin Trickster found at the Goblin camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11013": {
+    "MonsterId": 11013,
+    "Scene": 9,
+    "Type": 2,
+    "Sort": 92,
+    "Target": [
+      [
+        1,
+        1101301,
+        0,
+        20402310
+      ],
+      [
+        2,
+        1101302,
+        1,
+        20402394
+      ],
+      [
+        3,
+        1101303,
+        2,
+        20402330
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_gebulin-ds_idle",
+    "ModelRetio": 0.6,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      341
+    ],
+    "Award": 10500820,
+    "TreasureBoxId": 40044,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1030</b></style><br>Respawn Time: Revives 3 minutes after being defeated. <br>An unusually cunning Goblin Shaman found at the Goblin camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "11014": {
+    "MonsterId": 11014,
+    "Scene": 9,
+    "Type": 3,
+    "Sort": 93,
+    "Target": [
+      [
+        1,
+        1101401,
+        0,
+        20402340
+      ],
+      [
+        2,
+        1101402,
+        1,
+        20402350
+      ],
+      [
+        3,
+        1101403,
+        2,
+        20402401
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_gebulin-ssfc_idle",
+    "ModelRetio": 0.8,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      342
+    ],
+    "Award": 10500830,
+    "TreasureBoxId": 40036,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1040</b></style><br>Respawn Time: Respawns at 30 minutes past every hour. <br>The Goblin boss found at the Goblin camp on the western Bahamar Highlands. Approach with caution!",
+    "SceneTag": 733
+  },
+  "10112": {
+    "MonsterId": 10112,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 94,
+    "Target": [
+      [
+        1,
+        1011201,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1011202,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1011203,
+        2,
+        20402382
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-dagger_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      355
+    ],
+    "Award": 10500840,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1190</b></style><br>A vanguard member of the Cabbage Mission, appearing at a camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10113": {
+    "MonsterId": 10113,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 95,
+    "Target": [
+      [
+        1,
+        1011301,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1011302,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1011303,
+        2,
+        20402383
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-archer_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      363
+    ],
+    "Award": 10500850,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1290</b></style><br>An archer of the Cabbage Mission, appearing at a camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10114": {
+    "MonsterId": 10114,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 96,
+    "Target": [
+      [
+        1,
+        1011401,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1011402,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1011403,
+        2,
+        20402384
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sword_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      370
+    ],
+    "Award": 10500860,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1310</b></style><br>A warrior of the Cabbage Mission, appearing at a camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10115": {
+    "MonsterId": 10115,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 97,
+    "Target": [
+      [
+        1,
+        1011501,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1011502,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1011503,
+        2,
+        20402385
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sword_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3036
+    ],
+    "Award": 10500870,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1340</b></style><br>A mage of the Cabbage Mission, appearing at a camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10116": {
+    "MonsterId": 10116,
+    "Scene": 9,
+    "Type": 2,
+    "Sort": 98,
+    "Target": [
+      [
+        1,
+        1011601,
+        0,
+        20402310
+      ],
+      [
+        2,
+        1011602,
+        1,
+        20402395
+      ],
+      [
+        3,
+        1011603,
+        2,
+        20402330
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sword_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      347
+    ],
+    "Award": 10500880,
+    "TreasureBoxId": 40045,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1360</b></style><br>Respawn Time: Revives 3 minutes after being defeated. <br>A captain of the Cabbage Mission, appearing at a camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10117": {
+    "MonsterId": 10117,
+    "Scene": 9,
+    "Type": 2,
+    "Sort": 99,
+    "Target": [
+      [
+        1,
+        1011701,
+        0,
+        20402310
+      ],
+      [
+        2,
+        1011702,
+        1,
+        20402396
+      ],
+      [
+        3,
+        1011703,
+        2,
+        20402330
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sword_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      346
+    ],
+    "Award": 10500890,
+    "TreasureBoxId": 40046,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1390</b></style><br>Respawn Time: Revives 3 minutes after being defeated. <br>A captain of the Cabbage Mission, appearing at a camp on the western Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10118": {
+    "MonsterId": 10118,
+    "Scene": 9,
+    "Type": 3,
+    "Sort": 100,
+    "Target": [
+      [
+        1,
+        1011801,
+        0,
+        20402340
+      ],
+      [
+        2,
+        1011802,
+        1,
+        20402350
+      ],
+      [
+        3,
+        1011803,
+        2,
+        20402402
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sssword_fidle",
+    "ModelRetio": 1.0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      345
+    ],
+    "Award": 10500900,
+    "TreasureBoxId": 40037,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1410</b></style><br>Respawn Time: Respawns at the top of every hour. <br>The strongest of the Cabbage Mission, calling himself the \"Cabbage Kingpin\" Appears at a camp on the western Bahamar Highlands. Approach with caution!",
+    "SceneTag": 733
+  },
+  "10106": {
+    "MonsterId": 10106,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 101,
+    "Target": [
+      [
+        1,
+        1010601,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1010602,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1010603,
+        2,
+        20402374
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-rifle_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3184
+    ],
+    "Award": 10500700,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1440</b></style><br>A Blackstone Legion ranged marksman patrolling near the Sislesa Mine on the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10107": {
+    "MonsterId": 10107,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 102,
+    "Target": [
+      [
+        1,
+        1010701,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1010702,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1010703,
+        2,
+        20402375
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-shield_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3159
+    ],
+    "Award": 10500710,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1460</b></style><br>Blackstone Legion melee guards patrolling near the Sislesa Mine on the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10108": {
+    "MonsterId": 10108,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 103,
+    "Target": [
+      [
+        1,
+        1010801,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1010802,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1010803,
+        2,
+        20402376
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sssword_fidle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3137
+    ],
+    "Award": 10500720,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1490</b></style><br>Blackstone Legion melee warriors patrolling near the Sislesa Mine on the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10109": {
+    "MonsterId": 10109,
+    "Scene": 9,
+    "Type": 1,
+    "Sort": 104,
+    "Target": [
+      [
+        1,
+        1010901,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1010902,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1010903,
+        2,
+        20402377
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sssword_fidle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3140
+    ],
+    "Award": 10500730,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1500</b></style><br>Blackstone Legion melee spearmen patrolling near the Sislesa Mine on the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10110": {
+    "MonsterId": 10110,
+    "Scene": 9,
+    "Type": 2,
+    "Sort": 105,
+    "Target": [
+      [
+        1,
+        1011001,
+        0,
+        20402310
+      ],
+      [
+        2,
+        1011002,
+        1,
+        20402391
+      ],
+      [
+        3,
+        1011003,
+        2,
+        20402330
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sword_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3040
+    ],
+    "Award": 10500740,
+    "TreasureBoxId": 40041,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1500</b></style><br>Respawn Time: Revives 3 minutes after being defeated. <br>A powerful officer within the Sislesa Mine on the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10111": {
+    "MonsterId": 10111,
+    "Scene": 9,
+    "Type": 2,
+    "Sort": 106,
+    "Target": [
+      [
+        1,
+        1011101,
+        0,
+        20402310
+      ],
+      [
+        2,
+        1011102,
+        1,
+        20402392
+      ],
+      [
+        3,
+        1011103,
+        2,
+        20402330
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sword_idle",
+    "ModelRetio": 0.9,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3039
+    ],
+    "Award": 10500750,
+    "TreasureBoxId": 40042,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1500</b></style><br>Respawn Time: Revives 3 minutes after being defeated. <br>A powerful officer within the Sislesa Mine on the Bahamar Highlands.",
+    "SceneTag": 0
+  },
+  "10119": {
+    "MonsterId": 10119,
+    "Scene": 9,
+    "Type": 3,
+    "Sort": 107,
+    "Target": [
+      [
+        1,
+        1011901,
+        0,
+        20402340
+      ],
+      [
+        2,
+        1011902,
+        1,
+        20402350
+      ],
+      [
+        3,
+        1011903,
+        2,
+        20402400
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_solider-sword_idle",
+    "ModelRetio": 1.0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      9,
+      3,
+      3038
+    ],
+    "Award": 10500760,
+    "TreasureBoxId": 40035,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1510</b></style><br>Respawn Time: Respawns at 30 minutes past every hour. <br>A powerful Blackstone Captain in the Garrison Outpost on the Bahamar Highlands. Approach with caution!",
+    "SceneTag": 733
+  },
+  "10045": {
+    "MonsterId": 10045,
+    "Scene": 93,
+    "Type": 1,
+    "Sort": 108,
+    "Target": [
+      [
+        1,
+        1004501,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1004502,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1004503,
+        2,
+        20402386
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_dihu_idle",
+    "ModelRetio": 1.0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      93,
+      3,
+      105
+    ],
+    "Award": 10500910,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1520</b></style><br>Foxens that prowl the Moonshadow Wilds.",
+    "SceneTag": 0
+  },
+  "10046": {
+    "MonsterId": 10046,
+    "Scene": 93,
+    "Type": 1,
+    "Sort": 109,
+    "Target": [
+      [
+        1,
+        1004601,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1004602,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1004603,
+        2,
+        20402387
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_dihu_idle",
+    "ModelRetio": 1.0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      93,
+      3,
+      95
+    ],
+    "Award": 10500920,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1630</b></style><br>Foxens that prowl the Moonshadow Wilds.",
+    "SceneTag": 0
+  },
+  "10044": {
+    "MonsterId": 10044,
+    "Scene": 93,
+    "Type": 2,
+    "Sort": 110,
+    "Target": [
+      [
+        1,
+        1004401,
+        0,
+        20402310
+      ],
+      [
+        2,
+        1004402,
+        1,
+        20402397
+      ],
+      [
+        3,
+        1004403,
+        2,
+        20402330
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_dihu_idle",
+    "ModelRetio": 1.0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      93,
+      3,
+      57
+    ],
+    "Award": 10500930,
+    "TreasureBoxId": 40047,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1730</b></style><br>Respawn Time: Revives 3 minutes after being defeated. <br>A powerful Blackfire Foxen that prowls the Moonshadow Wilds.",
+    "SceneTag": 0
+  },
+  "10041": {
+    "MonsterId": 10041,
+    "Scene": 93,
+    "Type": 3,
+    "Sort": 111,
+    "Target": [
+      [
+        1,
+        1004101,
+        0,
+        20402340
+      ],
+      [
+        2,
+        1004102,
+        1,
+        20402350
+      ],
+      [
+        3,
+        1004103,
+        2,
+        20402403
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_dihu_idle",
+    "ModelRetio": 1.0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      93,
+      3,
+      56
+    ],
+    "Award": 10500940,
+    "TreasureBoxId": 40038,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1830</b></style><br>Respawn Time: Respawns at the top of every hour. <br>The Foxen boss that prowls the Moonshadow Wilds. Approach with caution!",
+    "SceneTag": 733
+  },
+  "11020": {
+    "MonsterId": 11020,
+    "Scene": 94,
+    "Type": 1,
+    "Sort": 112,
+    "Target": [
+      [
+        1,
+        1102001,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1102002,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1102003,
+        2,
+        20402388
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_niuyang_idle",
+    "ModelRetio": 0.5,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      94,
+      3,
+      73
+    ],
+    "Award": 10500950,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 1930</b></style><br>Combat-ready Caprahorns found along the Stray Starway.",
+    "SceneTag": 0
+  },
+  "11021": {
+    "MonsterId": 11021,
+    "Scene": 94,
+    "Type": 1,
+    "Sort": 113,
+    "Target": [
+      [
+        1,
+        1102101,
+        0,
+        20402280
+      ],
+      [
+        2,
+        1102102,
+        1,
+        20402290
+      ],
+      [
+        3,
+        1102103,
+        2,
+        20402389
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_niuyang_idle",
+    "ModelRetio": 0.5,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      94,
+      3,
+      81
+    ],
+    "Award": 10500960,
+    "TreasureBoxId": 0,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 2030</b></style><br>Combat-ready Caprahorns found along the Stray Starway.",
+    "SceneTag": 0
+  },
+  "11022": {
+    "MonsterId": 11022,
+    "Scene": 94,
+    "Type": 2,
+    "Sort": 114,
+    "Target": [
+      [
+        1,
+        1102201,
+        0,
+        20402310
+      ],
+      [
+        2,
+        1102202,
+        1,
+        20402398
+      ],
+      [
+        3,
+        1102203,
+        2,
+        20402330
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_niuyang_idle",
+    "ModelRetio": 0.4,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      94,
+      3,
+      36
+    ],
+    "Award": 10500970,
+    "TreasureBoxId": 40048,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 2130</b></style><br>Respawn Time: Revives 3 minutes after being defeated. <br>A powerful Emerald Caprahorn that appears along the Stray Starway.",
+    "SceneTag": 0
+  },
+  "11023": {
+    "MonsterId": 11023,
+    "Scene": 94,
+    "Type": 3,
+    "Sort": 115,
+    "Target": [
+      [
+        1,
+        1102301,
+        0,
+        20402340
+      ],
+      [
+        2,
+        1102302,
+        1,
+        20402350
+      ],
+      [
+        3,
+        1102303,
+        2,
+        20402404
+      ]
+    ],
+    "SkillIds": [],
+    "ModelArray": [],
+    "DefaulAction": "as_mon_niuyang_idle",
+    "ModelRetio": 0.4,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      94,
+      3,
+      35
+    ],
+    "Award": 10500980,
+    "TreasureBoxId": 40039,
+    "Condition": "<style=\"tipsYellow\"><b>[Illusion Strength]: 2230</b></style><br>Respawn Time: Respawns at 30 minutes past every hour. <br>The Caprahorn boss that appears along the Stray Starway. Approach with caution!",
+    "SceneTag": 733
   }
 }

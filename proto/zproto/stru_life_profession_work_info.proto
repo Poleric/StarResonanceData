@@ -1,17 +1,16 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_item.proto";
 import "stru_dirty_mask.proto";
 
-message LifeProfessionWorkInfo {
-  uint32 life_profession_id = 1;
-  uint32 begin_time = 2;
-  uint32 end_time = 3;
-  uint32 count = 4;
-  uint32 cost = 5;
-  repeated zproto.Item reward = 6;
-  uint32 cost_id = 7;
-}
+package zproto;
 
+message LifeProfessionWorkInfo {
+	uint32 lifeProfessionId = 1 [json_name = "lifeProfessionId"];
+	uint32 beginTime = 2 [json_name = "beginTime"];
+	uint32 endTime = 3 [json_name = "endTime"];
+	uint32 count = 4 [json_name = "count"];
+	uint32 cost = 5 [json_name = "cost"];
+	repeated Item reward = 6 [json_name = "reward"];
+	uint32 costId = 7 [json_name = "costId"];
+}

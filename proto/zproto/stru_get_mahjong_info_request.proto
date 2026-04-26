@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zproto;
+
+message GetMahjongInfoRequest {
+	int32 notifyWorld = 1 [json_name = "notifyWorld"];
+	string tableGuid = 2 [json_name = "tableGuid"];
+}

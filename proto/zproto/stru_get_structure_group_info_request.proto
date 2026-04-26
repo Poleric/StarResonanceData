@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message GetStructureGroupInfoRequest {
-  bool is_outer = 1;
+	bool isOuter = 1 [json_name = "isOuter"];
 }
-

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message ShowMasterModeScore {
-  bool is_show = 1;
+	bool isShow = 1 [json_name = "isShow"];
 }
-

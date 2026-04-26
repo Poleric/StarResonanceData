@@ -1,25 +1,24 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message InvestigationStepTableBase {
-  int32 id = 1463;
-  int_array clue = 251;
-  int_array inference_step = 1997;
-  mlstring conclusion = 879;
-  mlstring conclusion_tips = 287;
-  mlstring conclusion_bubble = 1977;
-  int32 conclusion_action = 500;
-  mlstring_array iocked_bubble = 252;
-  int_array iocked_bubble_action = 506;
-  mlstring_array review_bubble = 364;
-  int_array review_bubble_action = 1051;
-  bool quick_reasoning = 1018;
+	int32 Id = 1463 [json_name = "Id"];
+	int_array Clue = 251 [json_name = "Clue"];
+	int_array InferenceStep = 1997 [json_name = "InferenceStep"];
+	mlstring Conclusion = 879 [json_name = "Conclusion"];
+	mlstring ConclusionTips = 287 [json_name = "ConclusionTips"];
+	mlstring ConclusionBubble = 1977 [json_name = "ConclusionBubble"];
+	int32 ConclusionAction = 500 [json_name = "ConclusionAction"];
+	mlstring_array IockedBubble = 252 [json_name = "IockedBubble"];
+	int_array IockedBubbleAction = 506 [json_name = "IockedBubbleAction"];
+	mlstring_array ReviewBubble = 364 [json_name = "ReviewBubble"];
+	int_array ReviewBubbleAction = 1051 [json_name = "ReviewBubbleAction"];
+	bool QuickReasoning = 1018 [json_name = "QuickReasoning"];
 }
 
 message InvestigationStepTableMgr {
-  map<int32, bokura.InvestigationStepTableBase> datas = 1;
+	map<int32, InvestigationStepTableBase> datas = 1 [json_name = "datas"];
 }
-

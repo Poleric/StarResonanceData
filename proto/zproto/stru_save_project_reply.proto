@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+import "stru_profession_project_common_sync_data.proto";
+import "stru_project_extra_sync_data.proto";
+
+package zproto;
+
+message SaveProjectReply {
+	ProfessionProjectCommonSyncData syncData = 1 [json_name = "syncData"];
+	int32 savedProjectId = 2 [json_name = "savedProjectId"];
+	ProjectExtraSyncData currentProjectSyncData = 3 [json_name = "currentProjectSyncData"];
+	EErrorCode errCode = 4 [json_name = "errCode"];
+}

@@ -1,6 +1,15 @@
 {
   "102101": {
     "BossId": 102101,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 1,
+    "Name": "Dragon Shackles",
     "GuideGroup": 1,
     "Title": "Clash! Floating Island - Dragon Shackles",
     "Sort": 1,
@@ -18,6 +27,15 @@
   },
   "102401": {
     "BossId": 102401,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 1,
+    "Name": "Dragon Shackles",
     "GuideGroup": 1,
     "Title": "Clash! Floating Island - Dragon Shackles",
     "Sort": 2,
@@ -35,6 +53,15 @@
   },
   "102701": {
     "BossId": 102701,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 1,
+    "Name": "Dragon Shackles",
     "GuideGroup": 1,
     "Title": "Clash! Floating Island - Dragon Shackles",
     "Sort": 3,
@@ -52,6 +79,15 @@
   },
   "102104": {
     "BossId": 102104,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 1,
+    "Name": "Dragon Shackles",
     "GuideGroup": 2,
     "Title": "Brutal! Floating Island - Dragon Shackles",
     "Sort": 4,
@@ -69,6 +105,15 @@
   },
   "102450": {
     "BossId": 102450,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 1,
+    "Name": "Dragon Shackles",
     "GuideGroup": 2,
     "Title": "Brutal! Floating Island - Dragon Shackles",
     "Sort": 5,
@@ -86,6 +131,15 @@
   },
   "102720": {
     "BossId": 102720,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 1,
+    "Name": "Dragon Shackles",
     "GuideGroup": 2,
     "Title": "Brutal! Floating Island - Dragon Shackles",
     "Sort": 6,
@@ -103,6 +157,15 @@
   },
   "102105": {
     "BossId": 102105,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 1,
+    "Name": "Dragon Shackles",
     "GuideGroup": 3,
     "Title": "Purge! Floating Island - Dragon Shackles",
     "Sort": 7,
@@ -120,6 +183,15 @@
   },
   "102451": {
     "BossId": 102451,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 1,
+    "Name": "Dragon Shackles",
     "GuideGroup": 3,
     "Title": "Purge! Floating Island - Dragon Shackles",
     "Sort": 8,
@@ -137,6 +209,15 @@
   },
   "102721": {
     "BossId": 102721,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 1,
+    "Name": "Dragon Shackles",
     "GuideGroup": 3,
     "Title": "Purge! Floating Island - Dragon Shackles",
     "Sort": 9,
@@ -151,5 +232,239 @@
       ]
     ],
     "Icon": "ui/atlas/monster_avatar/head_mon_raid01_03"
+  },
+  "102800": {
+    "BossId": 102800,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 2,
+    "Name": "Dreambloom Ruins",
+    "GuideGroup": 1,
+    "Title": "Clash! Dreambloom Ruins",
+    "Sort": 1,
+    "Buff": 828112,
+    "Desc": "Blessing Buffs are granted after 20 guildmembers clear the dungeon.",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid02_01"
+  },
+  "102901": {
+    "BossId": 102901,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 2,
+    "Name": "Dreambloom Ruins",
+    "GuideGroup": 1,
+    "Title": "Clash! Dreambloom Ruins",
+    "Sort": 2,
+    "Buff": 828115,
+    "Desc": "Blessing Buffs are granted after 20 guildmembers clear the dungeon.",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid02_02"
+  },
+  "103001": {
+    "BossId": 103001,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 2,
+    "Name": "Dreambloom Ruins",
+    "GuideGroup": 1,
+    "Title": "Clash! Dreambloom Ruins",
+    "Sort": 3,
+    "Buff": 828118,
+    "Desc": "Blessing Buffs are granted after 20 guildmembers clear the dungeon.",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid02_03"
+  },
+  "102821": {
+    "BossId": 102821,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 2,
+    "Name": "Dreambloom Ruins",
+    "GuideGroup": 2,
+    "Title": "Brutal! Dreambloom Ruins",
+    "Sort": 4,
+    "Buff": 828113,
+    "Desc": "Blessing Buffs are granted after 20 guildmembers clear the dungeon.",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid02_01"
+  },
+  "102911": {
+    "BossId": 102911,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 2,
+    "Name": "Dreambloom Ruins",
+    "GuideGroup": 2,
+    "Title": "Brutal! Dreambloom Ruins",
+    "Sort": 5,
+    "Buff": 828116,
+    "Desc": "Blessing Buffs are granted after 20 guildmembers clear the dungeon.",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid02_02"
+  },
+  "103011": {
+    "BossId": 103011,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 2,
+    "Name": "Dreambloom Ruins",
+    "GuideGroup": 2,
+    "Title": "Brutal! Dreambloom Ruins",
+    "Sort": 6,
+    "Buff": 828119,
+    "Desc": "Blessing Buffs are granted after 20 guildmembers clear the dungeon.",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid02_03"
+  },
+  "102831": {
+    "BossId": 102831,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 2,
+    "Name": "Dreambloom Ruins",
+    "GuideGroup": 3,
+    "Title": "Purge! Dreambloom Ruins",
+    "Sort": 7,
+    "Buff": 828114,
+    "Desc": "Blessing Buffs are granted after 20 guildmembers clear the dungeon.",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid02_01"
+  },
+  "102921": {
+    "BossId": 102921,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 2,
+    "Name": "Dreambloom Ruins",
+    "GuideGroup": 3,
+    "Title": "Purge! Dreambloom Ruins",
+    "Sort": 8,
+    "Buff": 828117,
+    "Desc": "Blessing Buffs are granted after 20 guildmembers clear the dungeon.",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid02_02"
+  },
+  "103021": {
+    "BossId": 103021,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 2,
+    "Name": "Dreambloom Ruins",
+    "GuideGroup": 3,
+    "Title": "Purge! Dreambloom Ruins",
+    "Sort": 9,
+    "Buff": 828120,
+    "Desc": "Blessing Buffs are granted after 20 guildmembers clear the dungeon.",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid02_03"
   }
 }

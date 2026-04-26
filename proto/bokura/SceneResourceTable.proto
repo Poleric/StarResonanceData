@@ -3,12 +3,11 @@ syntax = "proto3";
 package bokura;
 
 message SceneResourceTableBase {
-  int32 id = 1463;
-  int32 scene_load_type = 1292;
-  string scene_file = 1293;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 SceneLoadType = 1292 [json_name = "SceneLoadType"];
+	string SceneFile = 1293 [json_name = "SceneFile"];
 }
 
 message SceneResourceTableMgr {
-  map<int32, bokura.SceneResourceTableBase> datas = 1;
+	map<int32, SceneResourceTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ActionGroupMountInfo {
+	int32 mountId = 1 [json_name = "mountId"];
+	int32 mountSize = 2 [json_name = "mountSize"];
+}

@@ -3,11 +3,7 @@
     "Id": 1,
     "Type": 1,
     "ModelPath": "ch_wp_lightstick01_01",
-    "Postion": [
-      0.005,
-      0.0,
-      0.0
-    ],
+    "Postion": [],
     "Rotation": [
       90.0,
       0.0,
@@ -18,16 +14,16 @@
   "2": {
     "Id": 2,
     "Type": 1,
-    "ModelPath": "ch_wp_lightstick01_01",
+    "ModelPath": "ch_item_redpacket01_01",
     "Postion": [
-      0.0,
-      0.0,
+      -0.052,
+      0.0335,
       0.0
     ],
     "Rotation": [
-      90.0,
-      -30.0,
-      0.0
+      0.0,
+      0.0,
+      -98.0
     ],
     "DefaultSize": -1.0
   },
@@ -207,6 +203,150 @@
     ],
     "DefaultSize": 0.0
   },
+  "1094016": {
+    "Id": 1094016,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1094017": {
+    "Id": 1094017,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1094018": {
+    "Id": 1094018,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1094019": {
+    "Id": 1094019,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1094020": {
+    "Id": 1094020,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1094021": {
+    "Id": 1094021,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1094022": {
+    "Id": 1094022,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1094023": {
+    "Id": 1094023,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1094024": {
+    "Id": 1094024,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
   "1094099": {
     "Id": 1094099,
     "Type": 2,
@@ -257,6 +397,38 @@
   },
   "1095003": {
     "Id": 1095003,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1095005": {
+    "Id": 1095005,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1095006": {
+    "Id": 1095006,
     "Type": 2,
     "ModelPath": "0",
     "Postion": [
@@ -513,6 +685,230 @@
   },
   "1096016": {
     "Id": 1096016,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096017": {
+    "Id": 1096017,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096018": {
+    "Id": 1096018,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096019": {
+    "Id": 1096019,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096020": {
+    "Id": 1096020,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096021": {
+    "Id": 1096021,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096022": {
+    "Id": 1096022,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096023": {
+    "Id": 1096023,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096024": {
+    "Id": 1096024,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096025": {
+    "Id": 1096025,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096026": {
+    "Id": 1096026,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096027": {
+    "Id": 1096027,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096028": {
+    "Id": 1096028,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096029": {
+    "Id": 1096029,
+    "Type": 2,
+    "ModelPath": "0",
+    "Postion": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Rotation": [
+      180.0,
+      0.0,
+      0.0
+    ],
+    "DefaultSize": 0.0
+  },
+  "1096030": {
+    "Id": 1096030,
     "Type": 2,
     "ModelPath": "0",
     "Postion": [

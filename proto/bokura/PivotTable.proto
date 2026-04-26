@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message PivotTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  int32 map_id = 175;
-  mlstring area_name = 1408;
-  int_array setting_off_num = 162;
-  int_array circulate_award = 1952;
-  string pivot_pic = 274;
-  int32 pivot_area = 1354;
-  int32 camera_id = 472;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	int32 MapID = 175 [json_name = "MapID"];
+	mlstring AreaName = 1408 [json_name = "AreaName"];
+	int_array SettingOffNum = 162 [json_name = "SettingOffNum"];
+	int_array CirculateAward = 1952 [json_name = "CirculateAward"];
+	string PivotPic = 274 [json_name = "PivotPic"];
+	int32 PivotArea = 1354 [json_name = "PivotArea"];
+	int32 CameraId = 472 [json_name = "CameraId"];
 }
 
 message PivotTableMgr {
-  map<int32, bokura.PivotTableBase> datas = 1;
+	map<int32, PivotTableBase> datas = 1 [json_name = "datas"];
 }
-

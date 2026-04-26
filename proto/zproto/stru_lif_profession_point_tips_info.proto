@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_item_get_opt_src.proto";
 
-message LifProfessionPointTipsInfo {
-  zproto.EItemGetOptSrc get_life_point_type = 1;
-  uint32 life_profession_id = 2;
-  uint32 point_count = 3;
-}
+package zproto;
 
+message LifProfessionPointTipsInfo {
+	EItemGetOptSrc getLifePointType = 1 [json_name = "getLifePointType"];
+	uint32 lifeProfessionId = 2 [json_name = "lifeProfessionId"];
+	uint32 pointCount = 3 [json_name = "pointCount"];
+}

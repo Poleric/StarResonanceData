@@ -1,23 +1,22 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message SeasonNodeTableBase {
-  int32 id = 1463;
-  int32 hole_id = 820;
-  int32 hole_level = 829;
-  int_array node_id = 1205;
-  int32 node_type = 1959;
-  int32 season_id = 1669;
-  int_table node_collection = 1126;
-  int_table collection = 977;
-  int_table number_consume = 1835;
-  int_table other_consume = 1176;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 HoleId = 820 [json_name = "HoleId"];
+	int32 HoleLevel = 829 [json_name = "HoleLevel"];
+	int_array NodeId = 1205 [json_name = "NodeId"];
+	int32 NodeType = 1959 [json_name = "NodeType"];
+	int32 SeasonId = 1669 [json_name = "SeasonId"];
+	int_table NodeCollection = 1126 [json_name = "NodeCollection"];
+	int_table Collection = 977 [json_name = "Collection"];
+	int_table NumberConsume = 1835 [json_name = "NumberConsume"];
+	int_table OtherConsume = 1176 [json_name = "OtherConsume"];
 }
 
 message SeasonNodeTableMgr {
-  map<int32, bokura.SeasonNodeTableBase> datas = 1;
+	map<int32, SeasonNodeTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_union_resource.proto";
 
-message NotifyUnionResourceChangeRequest {
-  map<int32, zproto.UnionResource> change_resource_lib = 2;
-  int64 donor_mem_id = 3;
-}
+package zproto;
 
+message NotifyUnionResourceChangeRequest {
+	map<int32, UnionResource> changeResourceLib = 2 [json_name = "changeResourceLib"];
+	int64 donorMemId = 3 [json_name = "donorMemId"];
+}

@@ -31,7 +31,7 @@
     "Activation": 50,
     "Season": 1,
     "Title": "Dungeon",
-    "TargetDes": "Challenge \"Unstable Space\" ({*val2*})",
+    "TargetDes": "Complete \"Unstable Space\" ({*val2*})",
     "Active": 1,
     "Cycle": 1,
     "Sort": 2,
@@ -57,7 +57,7 @@
     "Activation": 75,
     "Season": 1,
     "Title": "Dungeon",
-    "TargetDes": "Challenge \"Chaotic Realm\" ({*val2*})",
+    "TargetDes": "Complete \"Chaotic Realm\" ({*val2*})",
     "Active": 1,
     "Cycle": 1,
     "Sort": 3,
@@ -104,7 +104,7 @@
     "Activation": 25,
     "Season": 1,
     "Title": "Hunting",
-    "TargetDes": "Defeat Elites ({*val2*})",
+    "TargetDes": "Defeat Elite ({*val2*})",
     "Active": 1,
     "Cycle": 1,
     "Sort": 5,
@@ -129,7 +129,7 @@
     "Activation": 50,
     "Season": 1,
     "Title": "Hunting",
-    "TargetDes": "Defeat Bosses ({*val2*})",
+    "TargetDes": "Defeat Boss ({*val2*})",
     "Active": 1,
     "Cycle": 1,
     "Sort": 6,
@@ -251,7 +251,7 @@
     "Activation": 25,
     "Season": 1,
     "Title": "Take Photos",
-    "TargetDes": "Take Photo(s) ({*val2*})",
+    "TargetDes": "Take Photo ({*val2*})",
     "Active": 1,
     "Cycle": 0,
     "Sort": 11,
@@ -301,7 +301,7 @@
     "Activation": 75,
     "Season": 1,
     "Title": "Commission",
-    "TargetDes": "Complete {*val*} Commission(s) ({*val2*})",
+    "TargetDes": "Complete {*val*} Commission ({*val2*})",
     "Active": 1,
     "Cycle": 0,
     "Sort": 14,
@@ -434,6 +434,52 @@
     "QuickJumpType": 5,
     "QuickJump": [
       122027
+    ],
+    "ShowCondition": []
+  },
+  "19": {
+    "Id": 19,
+    "TargetType": 800,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      1
+    ],
+    "IfFunctionOpen": 0,
+    "FunctionId": 0,
+    "Activation": 25,
+    "Season": 1,
+    "Title": "Starland",
+    "TargetDes": "Complete any Starland Permanent Event ({*val2*})",
+    "Active": 1,
+    "Cycle": 1,
+    "Sort": 20,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      800551
+    ],
+    "ShowCondition": []
+  },
+  "20": {
+    "Id": 20,
+    "TargetType": 800,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      2
+    ],
+    "IfFunctionOpen": 0,
+    "FunctionId": 0,
+    "Activation": 50,
+    "Season": 1,
+    "Title": "Starland",
+    "TargetDes": "Complete any Starland Timed Event ({*val2*})",
+    "Active": 1,
+    "Cycle": 1,
+    "Sort": 21,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      800550
     ],
     "ShowCondition": []
   }

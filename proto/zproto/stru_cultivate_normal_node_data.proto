@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message CultivateNormalNodeData {
+	int32 activeLevel = 1 [json_name = "activeLevel"];
+}

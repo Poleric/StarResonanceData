@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "enum_e_dungeon_play_type.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message DungeonPhaseData {
+	EDungeonPlayType type = 1 [json_name = "type"];
+	int32 phaseId = 2 [json_name = "phaseId"];
+	int64 beginTime = 3 [json_name = "beginTime"];
+	int64 phaseTime = 4 [json_name = "phaseTime"];
+	int64 endTime = 5 [json_name = "endTime"];
+}

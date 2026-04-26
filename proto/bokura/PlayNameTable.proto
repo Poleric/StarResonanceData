@@ -3,15 +3,14 @@ syntax = "proto3";
 package bokura;
 
 message PlayNameTableBase {
-  int32 id = 1463;
-  string name_cn = 1752;
-  string name_en = 1418;
-  string name_jp = 1498;
-  string name_kr = 1230;
-  int32 sex = 1062;
+	int32 Id = 1463 [json_name = "Id"];
+	string NameCN = 1752 [json_name = "NameCN"];
+	string NameEN = 1418 [json_name = "NameEN"];
+	string NameJP = 1498 [json_name = "NameJP"];
+	string NameKR = 1230 [json_name = "NameKR"];
+	int32 Sex = 1062 [json_name = "Sex"];
 }
 
 message PlayNameTableMgr {
-  map<int32, bokura.PlayNameTableBase> datas = 1;
+	map<int32, PlayNameTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message CancelEffectBuffRequest {
-  int64 union_id = 2;
-  int32 effect_buff_pos = 3;
+	int64 unionId = 2 [json_name = "unionId"];
+	int32 effectBuffPos = 3 [json_name = "effectBuffPos"];
 }
-

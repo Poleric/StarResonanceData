@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ModDecomposeTableBase {
-  int32 id = 1463;
-  int32 mod_lvl = 395;
-  int32 mod_type = 34;
-  int_table mod_decomposea = 1033;
-  int_table mod_decomposeb = 81;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 ModLvl = 395 [json_name = "ModLvl"];
+	int32 ModType = 34 [json_name = "ModType"];
+	int_table ModDecomposeA = 1033 [json_name = "ModDecomposeA"];
+	int_table ModDecomposeB = 81 [json_name = "ModDecomposeB"];
 }
 
 message ModDecomposeTableMgr {
-  map<int32, bokura.ModDecomposeTableBase> datas = 1;
+	map<int32, ModDecomposeTableBase> datas = 1 [json_name = "datas"];
 }
-

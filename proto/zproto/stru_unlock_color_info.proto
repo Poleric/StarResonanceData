@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message UnlockColorInfo {
-  map<int32, bool> color_info_map = 1;
-  map<int32, bool> color_block_info_map = 2;
-}
+package zproto;
 
+message UnlockColorInfo {
+	map<int32, bool> colorInfoMap = 1 [json_name = "colorInfoMap"];
+	map<int32, bool> colorBlockInfoMap = 2 [json_name = "colorBlockInfoMap"];
+}

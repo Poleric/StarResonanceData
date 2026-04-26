@@ -1,24 +1,23 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message EnvironmentResonanceTableBase {
-  int32 id = 1463;
-  mlstring name = 439;
-  mlstring desc = 1953;
-  int32 pivot_id = 1300;
-  mlstring button = 1927;
-  int_array skill = 655;
-  int32 position = 1863;
-  int32 scene_tag = 131;
-  int32 time = 601;
-  int_array trigger_buff_ids = 1397;
-  int32 slot_type = 517;
+	int32 Id = 1463 [json_name = "Id"];
+	mlstring Name = 439 [json_name = "Name"];
+	mlstring Desc = 1953 [json_name = "Desc"];
+	int32 PivotId = 1300 [json_name = "PivotId"];
+	mlstring Button = 1927 [json_name = "Button"];
+	int_array skill = 655 [json_name = "skill"];
+	int32 position = 1863 [json_name = "position"];
+	int32 SceneTag = 131 [json_name = "SceneTag"];
+	int32 Time = 601 [json_name = "Time"];
+	int_array TriggerBuffIds = 1397 [json_name = "TriggerBuffIds"];
+	int32 SlotType = 517 [json_name = "SlotType"];
 }
 
 message EnvironmentResonanceTableMgr {
-  map<int32, bokura.EnvironmentResonanceTableBase> datas = 1;
+	map<int32, EnvironmentResonanceTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_user_transfer_type.proto";
 import "stru_position_param.proto";
 
-message TransferParam {
-  int32 scene_id = 1;
-  zproto.EUserTransferType transfer_type = 2;
-  zproto.PositionParam position_param = 3;
-  int64 change_flag = 4;
-  bool is_server_switch = 5;
-  int32 visual_layer_config_id = 6;
-  string scene_guid = 7;
-  string connect_guid = 8;
-  int64 sub_scene_uuid = 9;
-  bool is_revive = 10;
-}
+package zproto;
 
+message TransferParam {
+	int32 sceneId = 1 [json_name = "sceneId"];
+	EUserTransferType transferType = 2 [json_name = "transferType"];
+	PositionParam positionParam = 3 [json_name = "positionParam"];
+	int64 changeFlag = 4 [json_name = "changeFlag"];
+	bool isServerSwitch = 5 [json_name = "isServerSwitch"];
+	int32 visualLayerConfigId = 6 [json_name = "visualLayerConfigId"];
+	string sceneGuid = 7 [json_name = "sceneGuid"];
+	string connectGuid = 8 [json_name = "connectGuid"];
+	int64 subSceneUuid = 9 [json_name = "subSceneUuid"];
+	bool isRevive = 10 [json_name = "isRevive"];
+}

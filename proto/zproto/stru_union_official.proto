@@ -3,8 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message UnionOfficial {
-  int32 official_id = 1;
-  map<uint32, bool> power = 2;
-  string name = 3;
+	int32 officialId = 1 [json_name = "officialId"];
+	map<uint32, bool> power = 2 [json_name = "power"];
+	string Name = 3 [json_name = "Name"];
 }
-

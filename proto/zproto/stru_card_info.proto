@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_char_team.proto";
 
-message CardInfo {
-  int64 char_id = 1;
-  string name = 2;
-  uint32 model_id = 3;
-  zproto.CharTeam team_info = 4;
-  bool is_friend = 5;
-  string union_name = 6;
-  uint64 union_id = 7;
-  int32 role_level = 8;
-  int32 gender = 9;
-  uint64 offline_time = 10;
-}
+package zproto;
 
+message CardInfo {
+	int64 charId = 1 [json_name = "charId"];
+	string name = 2 [json_name = "name"];
+	uint32 modelId = 3 [json_name = "modelId"];
+	CharTeam teamInfo = 4 [json_name = "teamInfo"];
+	bool isFriend = 5 [json_name = "isFriend"];
+	string unionName = 6 [json_name = "unionName"];
+	uint64 unionId = 7 [json_name = "unionId"];
+	int32 roleLevel = 8 [json_name = "roleLevel"];
+	int32 gender = 9 [json_name = "gender"];
+	uint64 offlineTime = 10 [json_name = "offlineTime"];
+}

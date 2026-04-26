@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message ReqSwitchSceneLineRequest {
-  uint32 line_id = 2;
-  int64 target_char_id = 3;
+	uint32 lineId = 2 [json_name = "lineId"];
+	int64 targetCharId = 3 [json_name = "targetCharId"];
 }
-

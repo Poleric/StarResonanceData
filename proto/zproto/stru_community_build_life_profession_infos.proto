@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_community_build_life_profession_info_list.proto";
+
+package zproto;
+
+message CommunityBuildLifeProfessionInfos {
+	map<int64, CommunityBuildLifeProfessionInfoList> buildLifeProfessionInfos = 1 [json_name = "buildLifeProfessionInfos"];
+}

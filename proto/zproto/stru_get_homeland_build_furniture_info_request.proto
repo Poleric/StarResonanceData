@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message GetHomelandBuildFurnitureInfoRequest {
-  int32 build_type = 1;
+	int32 buildType = 1 [json_name = "buildType"];
 }
-

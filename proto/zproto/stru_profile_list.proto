@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message ProfileList {
-  map<int32, bool> unlock_profile_list = 1;
-}
+package zproto;
 
+message ProfileList {
+	map<int32, bool> unlockProfileList = 1 [json_name = "unlockProfileList"];
+}

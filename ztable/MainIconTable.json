@@ -67,6 +67,86 @@
     "PCIcon": "ui/atlas/mainui/main_btn_home",
     "Path": "sys_main_setting_in"
   },
+  "102515": {
+    "Id": 102515,
+    "Title": "Homestead Blueprint",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      3
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 0,
+    "PCSortId": 0,
+    "Atlas": "",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_271",
+    "PCIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_271",
+    "Path": "sys_main_setting_in"
+  },
+  "102516": {
+    "Id": 102516,
+    "Title": "Save",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      3
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 0,
+    "PCSortId": 0,
+    "Atlas": "",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_270",
+    "PCIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_270",
+    "Path": "sys_main_setting_in"
+  },
+  "102517": {
+    "Id": 102517,
+    "Title": "Furniture List",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      3
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 0,
+    "PCSortId": 0,
+    "Atlas": "",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_277",
+    "PCIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_277",
+    "Path": "sys_main_setting_in"
+  },
+  "102518": {
+    "Id": 102518,
+    "Title": "Exit Preview",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      3
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 0,
+    "PCSortId": 0,
+    "Atlas": "",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_272",
+    "PCIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_272",
+    "Path": "sys_main_setting_in"
+  },
   "102100": {
     "Id": 102100,
     "Title": "Chat",
@@ -129,7 +209,7 @@
   },
   "100601": {
     "Id": 100601,
-    "Title": "Emote",
+    "Title": "Use Emotes - Mobile",
     "SystemPlace": [
       2
     ],
@@ -149,7 +229,7 @@
   },
   "100605": {
     "Id": 100605,
-    "Title": "Emote PC Entry",
+    "Title": "Use Emotes - PC",
     "SystemPlace": [
       0
     ],
@@ -166,6 +246,26 @@
     "Icon": "ui/atlas/mainui/main_btn_emo_lobby",
     "PCIcon": "ui/atlas/esc_icon/esc_icon_action_normal",
     "Path": ""
+  },
+  "100607": {
+    "Id": 100607,
+    "Title": "Actions Archive",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 3,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 23,
+    "PCSortId": 23,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_action_editor",
+    "PCIcon": "ui/atlas/esc_icon/esc_action_editor",
+    "Path": "sys_main_funcs_in"
   },
   "102500": {
     "Id": 102500,
@@ -968,5 +1068,25 @@
     "Icon": "ui/atlas/esc_icon/esc_icon_bpcard",
     "PCIcon": "ui/atlas/esc_icon/esc_icon_bpcard",
     "Path": "sys_main_season_in"
+  },
+  "1100001": {
+    "Id": 1100001,
+    "Title": "Troupe Performance",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 5,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 17,
+    "PCSortId": 17,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_fish",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_fish",
+    "Path": "sys_main_funcs_in"
   }
 }

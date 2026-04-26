@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_warehouse_info.proto";
 
-message GetWarehouseReply {
-  zproto.WarehouseInfo warehouse = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message GetWarehouseReply {
+	WarehouseInfo warehouse = 1 [json_name = "warehouse"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

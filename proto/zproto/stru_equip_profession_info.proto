@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message EquipProfessionInfo {
-  int32 profession_id = 1;
+	int32 professionId = 1 [json_name = "professionId"];
 }
-

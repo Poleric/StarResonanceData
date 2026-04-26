@@ -6,6 +6,13 @@
     "FitPart": [],
     "UseMaxNum": 5
   },
+  "1022007": {
+    "Id": 1022007,
+    "EffectType": 1,
+    "EffectParameter": 500,
+    "FitPart": [],
+    "UseMaxNum": 3
+  },
   "1022006": {
     "Id": 1022006,
     "EffectType": 1,

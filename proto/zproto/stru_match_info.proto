@@ -1,20 +1,19 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "enum_e_match_status.proto";
 import "stru_match_key_info.proto";
 import "stru_match_player_info.proto";
 
-message MatchInfo {
-  zproto.EMatchStatus match_status = 2;
-  int64 match_time = 3;
-  map<int64, zproto.MatchPlayerInfo> match_player_info = 5;
-  string match_token = 6;
-  int64 match_ready_time = 7;
-  zproto.MatchKeyInfo match_key_info = 8;
-  string match_grain_key = 9;
-  zproto.EErrorCode err_code = 10;
-}
+package zproto;
 
+message MatchInfo {
+	EMatchStatus matchStatus = 2 [json_name = "matchStatus"];
+	int64 matchTime = 3 [json_name = "matchTime"];
+	map<int64, MatchPlayerInfo> matchPlayerInfo = 5 [json_name = "matchPlayerInfo"];
+	string matchToken = 6 [json_name = "matchToken"];
+	int64 matchReadyTime = 7 [json_name = "matchReadyTime"];
+	MatchKeyInfo matchKeyInfo = 8 [json_name = "matchKeyInfo"];
+	string matchGrainKey = 9 [json_name = "matchGrainKey"];
+	EErrorCode errCode = 10 [json_name = "errCode"];
+}

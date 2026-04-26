@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message GetFaceUpTokenRequest {
-  string file_suffix = 1;
+	string fileSuffix = 1 [json_name = "fileSuffix"];
 }
-

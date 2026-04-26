@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dungeon_random_entity_config_id_info.proto";
 
-message WeeklyTowerInfo {
-  int32 climb_up_id = 1;
-  bool continuous = 2;
-  zproto.DungeonRandomEntityConfigIdInfo rand_entities = 3;
-}
+package zproto;
 
+message WeeklyTowerInfo {
+	int32 climbUpId = 1 [json_name = "climbUpId"];
+	bool continuous = 2 [json_name = "continuous"];
+	DungeonRandomEntityConfigIdInfo randEntities = 3 [json_name = "randEntities"];
+}

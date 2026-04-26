@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message WorldEventTransferInfo {
-  int32 event_id = 1;
+	int32 eventId = 1 [json_name = "eventId"];
 }
-

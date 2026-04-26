@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 enum EntEventType {
-  HudChat = 0;
-  PlayAnim = 1;
-  PlayAudio = 2;
-  EventPlayEffect = 3;
+	HudChat = 0;
+	PlayAnim = 1;
+	PlayAudio = 2;
+	EventPlayEffect = 3;
 }
-

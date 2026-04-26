@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message SetTimeMarkRequest {
-  repeated int32 mark_list = 2;
+	repeated int32 markList = 2 [json_name = "markList"];
 }
-

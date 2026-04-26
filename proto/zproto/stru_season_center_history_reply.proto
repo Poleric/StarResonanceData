@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_season_center_history.proto";
 
-message SeasonCenterHistoryReply {
-  zproto.SeasonCenterHistory history = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message SeasonCenterHistoryReply {
+	SeasonCenterHistory history = 1 [json_name = "history"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

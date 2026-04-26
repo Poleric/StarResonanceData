@@ -6,7 +6,7 @@
     "SingleValue": 80,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 80,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 0
   },
@@ -17,7 +17,7 @@
     "SingleValue": 80,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 80,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 0
   },
@@ -26,15 +26,9 @@
     "ItemID": 1092003,
     "ItemName": "粉麝香（草lv2）",
     "SingleValue": 110,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 70,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 0
   },
@@ -43,15 +37,9 @@
     "ItemID": 1092004,
     "ItemName": "寄语兰（草lv3）",
     "SingleValue": 150,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 20,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 0
   },
@@ -60,15 +48,9 @@
     "ItemID": 1092006,
     "ItemName": "婆婆树松（菇lv3）",
     "SingleValue": 150,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 20,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 0
   },
@@ -79,7 +61,7 @@
     "SingleValue": 80,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 80,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 0
   },
@@ -88,15 +70,9 @@
     "ItemID": 1092022,
     "ItemName": "菇LV2",
     "SingleValue": 110,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 70,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 0
   },
@@ -105,15 +81,9 @@
     "ItemID": 1092023,
     "ItemName": "果LV2",
     "SingleValue": 110,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 70,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 0
   },
@@ -122,15 +92,9 @@
     "ItemID": 1092024,
     "ItemName": "果LV3",
     "SingleValue": 150,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 20,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 0
   },
@@ -141,7 +105,7 @@
     "SingleValue": 130,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -150,15 +114,9 @@
     "ItemID": 1080012,
     "ItemName": "富生铁矿",
     "SingleValue": 150,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -167,15 +125,9 @@
     "ItemID": 1080013,
     "ItemName": "精铁矿",
     "SingleValue": 180,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -186,7 +138,7 @@
     "SingleValue": 130,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -195,15 +147,9 @@
     "ItemID": 1080022,
     "ItemName": "富黄铜矿",
     "SingleValue": 150,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -212,15 +158,9 @@
     "ItemID": 1080023,
     "ItemName": "亮铜矿",
     "SingleValue": 180,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -231,7 +171,7 @@
     "SingleValue": 130,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -240,15 +180,9 @@
     "ItemID": 1080032,
     "ItemName": "富银矿",
     "SingleValue": 150,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -257,15 +191,9 @@
     "ItemID": 1080033,
     "ItemName": "秘银矿",
     "SingleValue": 180,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -274,15 +202,9 @@
     "ItemID": 1080042,
     "ItemName": "富金矿",
     "SingleValue": 610,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -291,15 +213,9 @@
     "ItemID": 1080043,
     "ItemName": "闪金矿",
     "SingleValue": 710,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -310,7 +226,7 @@
     "SingleValue": 2500,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -321,7 +237,7 @@
     "SingleValue": 2500,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -332,7 +248,7 @@
     "SingleValue": 2500,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -343,7 +259,7 @@
     "SingleValue": 2500,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 30
   },
@@ -352,15 +268,9 @@
     "ItemID": 1024031,
     "ItemName": "绯红宝石·威3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -369,15 +279,9 @@
     "ItemID": 1024032,
     "ItemName": "绯红宝石·磐3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -386,15 +290,9 @@
     "ItemID": 1024033,
     "ItemName": "绯红宝石·疾3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -403,15 +301,9 @@
     "ItemID": 1024034,
     "ItemName": "绯红宝石·渊3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -420,15 +312,9 @@
     "ItemID": 1024131,
     "ItemName": "蓝诺宝石·威3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -437,15 +323,9 @@
     "ItemID": 1024132,
     "ItemName": "蓝诺宝石·磐3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -454,15 +334,9 @@
     "ItemID": 1024133,
     "ItemName": "蓝诺宝石·疾3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -471,15 +345,9 @@
     "ItemID": 1024134,
     "ItemName": "蓝诺宝石·渊3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -488,15 +356,9 @@
     "ItemID": 1024231,
     "ItemName": "天青宝石·威3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -505,15 +367,9 @@
     "ItemID": 1024232,
     "ItemName": "天青宝石·磐3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -522,15 +378,9 @@
     "ItemID": 1024233,
     "ItemName": "天青宝石·疾3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -539,15 +389,9 @@
     "ItemID": 1024234,
     "ItemName": "天青宝石·渊3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -556,15 +400,9 @@
     "ItemID": 1024331,
     "ItemName": "晨辉宝石·威3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -573,15 +411,9 @@
     "ItemID": 1024332,
     "ItemName": "晨辉宝石·磐3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -590,15 +422,9 @@
     "ItemID": 1024333,
     "ItemName": "晨辉宝石·疾3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -607,15 +433,9 @@
     "ItemID": 1024334,
     "ItemName": "晨辉宝石·渊3",
     "SingleValue": 5000,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -626,7 +446,7 @@
     "SingleValue": 160,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -635,15 +455,9 @@
     "ItemID": 1081012,
     "ItemName": "红晶原石2级",
     "SingleValue": 220,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 60,
+    "UpWeight": 0,
     "KeepWeight": 5,
     "DownWeight": 35
   },
@@ -652,15 +466,9 @@
     "ItemID": 1081013,
     "ItemName": "红晶原石3级",
     "SingleValue": 340,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 1,
     "DownWeight": 39
   },
@@ -671,7 +479,7 @@
     "SingleValue": 160,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -680,15 +488,9 @@
     "ItemID": 1081022,
     "ItemName": "蓝晶原石2级",
     "SingleValue": 220,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 60,
+    "UpWeight": 0,
     "KeepWeight": 5,
     "DownWeight": 35
   },
@@ -697,15 +499,9 @@
     "ItemID": 1081023,
     "ItemName": "蓝晶原石3级",
     "SingleValue": 340,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 1,
     "DownWeight": 39
   },
@@ -716,7 +512,7 @@
     "SingleValue": 160,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -725,15 +521,9 @@
     "ItemID": 1081032,
     "ItemName": "绿晶原石2级",
     "SingleValue": 220,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 60,
+    "UpWeight": 0,
     "KeepWeight": 5,
     "DownWeight": 35
   },
@@ -742,15 +532,9 @@
     "ItemID": 1081033,
     "ItemName": "绿晶原石3级",
     "SingleValue": 340,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 1,
     "DownWeight": 39
   },
@@ -761,7 +545,7 @@
     "SingleValue": 160,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -770,15 +554,9 @@
     "ItemID": 1081042,
     "ItemName": "黄晶原石2级",
     "SingleValue": 220,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 60,
+    "UpWeight": 0,
     "KeepWeight": 5,
     "DownWeight": 35
   },
@@ -787,15 +565,9 @@
     "ItemID": 1081043,
     "ItemName": "黄晶原石3级",
     "SingleValue": 340,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 1,
     "DownWeight": 39
   },
@@ -806,7 +578,7 @@
     "SingleValue": 80,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 20
   },
@@ -815,15 +587,9 @@
     "ItemID": 1082102,
     "ItemName": "精制鲜肉",
     "SingleValue": 110,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -832,15 +598,9 @@
     "ItemID": 1082103,
     "ItemName": "顶级鲜肉",
     "SingleValue": 150,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 5,
     "DownWeight": 35
   },
@@ -851,7 +611,7 @@
     "SingleValue": 80,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 20,
     "DownWeight": 20
   },
@@ -860,15 +620,9 @@
     "ItemID": 1082112,
     "ItemName": "精制鱼肉",
     "SingleValue": 110,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 10,
     "DownWeight": 30
   },
@@ -877,15 +631,9 @@
     "ItemID": 1082113,
     "ItemName": "顶级鱼肉",
     "SingleValue": 150,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 5,
     "DownWeight": 35
   },
@@ -896,7 +644,7 @@
     "SingleValue": 580,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -905,15 +653,9 @@
     "ItemID": 1082012,
     "ItemName": "冰元素微晶·等级2",
     "SingleValue": 650,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -922,15 +664,9 @@
     "ItemID": 1082013,
     "ItemName": "冰元素微晶·等级3",
     "SingleValue": 770,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -941,7 +677,7 @@
     "SingleValue": 580,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -950,15 +686,9 @@
     "ItemID": 1082022,
     "ItemName": "火元素微晶·等级2",
     "SingleValue": 650,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -967,15 +697,9 @@
     "ItemID": 1082023,
     "ItemName": "火元素微晶·等级3",
     "SingleValue": 770,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -986,7 +710,7 @@
     "SingleValue": 580,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -995,15 +719,9 @@
     "ItemID": 1082032,
     "ItemName": "森元素微晶·等级2",
     "SingleValue": 650,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1012,15 +730,9 @@
     "ItemID": 1082033,
     "ItemName": "森元素微晶·等级3",
     "SingleValue": 770,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1031,7 +743,7 @@
     "SingleValue": 580,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1040,15 +752,9 @@
     "ItemID": 1082042,
     "ItemName": "岩元素微晶·等级2",
     "SingleValue": 650,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1057,15 +763,9 @@
     "ItemID": 1082043,
     "ItemName": "岩元素微晶·等级3",
     "SingleValue": 770,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1076,7 +776,7 @@
     "SingleValue": 580,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1085,15 +785,9 @@
     "ItemID": 1082052,
     "ItemName": "风元素微晶·等级2",
     "SingleValue": 650,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1102,15 +796,9 @@
     "ItemID": 1082053,
     "ItemName": "风元素微晶·等级3",
     "SingleValue": 770,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1121,7 +809,7 @@
     "SingleValue": 580,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1130,15 +818,9 @@
     "ItemID": 1082062,
     "ItemName": "雷元素微晶·等级2",
     "SingleValue": 650,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1147,15 +829,9 @@
     "ItemID": 1082063,
     "ItemName": "雷元素微晶·等级3",
     "SingleValue": 770,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1166,7 +842,7 @@
     "SingleValue": 580,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1175,15 +851,9 @@
     "ItemID": 1082072,
     "ItemName": "光元素微晶·等级2",
     "SingleValue": 650,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1192,15 +862,9 @@
     "ItemID": 1082073,
     "ItemName": "光元素微晶·等级3",
     "SingleValue": 770,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1211,7 +875,7 @@
     "SingleValue": 580,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1220,15 +884,9 @@
     "ItemID": 1082082,
     "ItemName": "暗元素微晶·等级2",
     "SingleValue": 650,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 5,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1237,15 +895,9 @@
     "ItemID": 1082083,
     "ItemName": "暗元素微晶·等级3",
     "SingleValue": 770,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 37
   },
@@ -1256,7 +908,7 @@
     "SingleValue": 1200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1267,7 +919,7 @@
     "SingleValue": 2200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1278,7 +930,7 @@
     "SingleValue": 1200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1289,7 +941,7 @@
     "SingleValue": 2200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1300,7 +952,7 @@
     "SingleValue": 1200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1311,7 +963,7 @@
     "SingleValue": 2200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1322,7 +974,7 @@
     "SingleValue": 1200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1333,7 +985,7 @@
     "SingleValue": 2200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1344,7 +996,7 @@
     "SingleValue": 1200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1355,7 +1007,7 @@
     "SingleValue": 2200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1366,7 +1018,7 @@
     "SingleValue": 1200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1377,7 +1029,7 @@
     "SingleValue": 2200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1388,7 +1040,7 @@
     "SingleValue": 1200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1399,7 +1051,7 @@
     "SingleValue": 2200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1410,7 +1062,7 @@
     "SingleValue": 1200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1421,7 +1073,7 @@
     "SingleValue": 2200,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1430,15 +1082,9 @@
     "ItemID": 1011012,
     "ItemName": "九味鲜肉羹·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1447,15 +1093,9 @@
     "ItemID": 1011013,
     "ItemName": "九味鲜肉羹·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1464,15 +1104,9 @@
     "ItemID": 1011022,
     "ItemName": "奶香蜜汁肉排·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1481,15 +1115,9 @@
     "ItemID": 1011023,
     "ItemName": "奶香蜜汁肉排·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1498,15 +1126,9 @@
     "ItemID": 1011032,
     "ItemName": "鱼菇双鲜锅·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1515,15 +1137,9 @@
     "ItemID": 1011033,
     "ItemName": "鱼菇双鲜锅·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1532,15 +1148,9 @@
     "ItemID": 1011042,
     "ItemName": "朴素阿斯特锅·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1549,15 +1159,9 @@
     "ItemID": 1011043,
     "ItemName": "朴素阿斯特锅·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1566,15 +1170,9 @@
     "ItemID": 1011052,
     "ItemName": "绉纱果肉鲜滚羮·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1583,15 +1181,9 @@
     "ItemID": 1011053,
     "ItemName": "绉纱果肉鲜滚羮·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1600,15 +1192,9 @@
     "ItemID": 1011062,
     "ItemName": "香薰鱼·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1617,15 +1203,9 @@
     "ItemID": 1011063,
     "ItemName": "香薰鱼·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1634,15 +1214,9 @@
     "ItemID": 1011072,
     "ItemName": "肉馅蒸胖菇菇·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1651,15 +1225,9 @@
     "ItemID": 1011073,
     "ItemName": "肉馅蒸胖菇菇·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1668,15 +1236,9 @@
     "ItemID": 1011082,
     "ItemName": "黄油肉块·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1685,15 +1247,9 @@
     "ItemID": 1011083,
     "ItemName": "黄油肉块·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1702,15 +1258,9 @@
     "ItemID": 1011092,
     "ItemName": "炭火香果烤肉·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1719,15 +1269,9 @@
     "ItemID": 1011093,
     "ItemName": "炭火香果烤肉·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1736,15 +1280,9 @@
     "ItemID": 1011102,
     "ItemName": "清炖肉汤·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1753,15 +1291,9 @@
     "ItemID": 1011103,
     "ItemName": "清炖肉汤·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1770,15 +1302,9 @@
     "ItemID": 1011112,
     "ItemName": "九味阿斯特锅·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1787,15 +1313,9 @@
     "ItemID": 1011113,
     "ItemName": "九味阿斯特锅·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1804,15 +1324,9 @@
     "ItemID": 1011122,
     "ItemName": "九味腌肉·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1821,15 +1335,9 @@
     "ItemID": 1011123,
     "ItemName": "九味腌肉·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1838,15 +1346,9 @@
     "ItemID": 1011132,
     "ItemName": "菇噜果酱·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1855,15 +1357,9 @@
     "ItemID": 1011133,
     "ItemName": "菇噜果酱·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1872,15 +1368,9 @@
     "ItemID": 1011142,
     "ItemName": "花蜜月亮果·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1889,15 +1379,9 @@
     "ItemID": 1011143,
     "ItemName": "花蜜月亮果·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        4
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1906,15 +1390,9 @@
     "ItemID": 1012012,
     "ItemName": "满足双响串·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1923,15 +1401,9 @@
     "ItemID": 1012013,
     "ItemName": "满足双响串·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1940,15 +1412,9 @@
     "ItemID": 1012014,
     "ItemName": "满足双响串·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1957,15 +1423,9 @@
     "ItemID": 1012022,
     "ItemName": "真味双宝炖·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1974,15 +1434,9 @@
     "ItemID": 1012023,
     "ItemName": "真味双宝炖·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -1991,15 +1445,9 @@
     "ItemID": 1012024,
     "ItemName": "真味双宝炖·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2008,15 +1456,9 @@
     "ItemID": 1012032,
     "ItemName": "痛痛飞·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2025,15 +1467,9 @@
     "ItemID": 1012033,
     "ItemName": "痛痛飞·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2042,15 +1478,9 @@
     "ItemID": 1012034,
     "ItemName": "痛痛飞·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2059,15 +1489,9 @@
     "ItemID": 1012042,
     "ItemName": "山菌高汤海鲜烩·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2076,15 +1500,9 @@
     "ItemID": 1012043,
     "ItemName": "山菌高汤海鲜烩·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2093,15 +1511,9 @@
     "ItemID": 1012044,
     "ItemName": "山菌高汤海鲜烩·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2110,15 +1522,9 @@
     "ItemID": 1012052,
     "ItemName": "海风节阿斯特锅·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2127,15 +1533,9 @@
     "ItemID": 1012053,
     "ItemName": "海风节阿斯特锅·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2144,15 +1544,9 @@
     "ItemID": 1012054,
     "ItemName": "海风节阿斯特锅·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2161,15 +1555,9 @@
     "ItemID": 1012062,
     "ItemName": "果味海鲜冰激凌·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2178,15 +1566,9 @@
     "ItemID": 1012063,
     "ItemName": "果味海鲜冰激凌·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2195,15 +1577,9 @@
     "ItemID": 1012064,
     "ItemName": "果味海鲜冰激凌·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2212,15 +1588,9 @@
     "ItemID": 1012072,
     "ItemName": "海风节精选·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2229,15 +1599,9 @@
     "ItemID": 1012073,
     "ItemName": "海风节精选·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2246,15 +1610,9 @@
     "ItemID": 1012074,
     "ItemName": "海风节精选·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2263,15 +1621,9 @@
     "ItemID": 1012082,
     "ItemName": "妙香绵绵烧肉·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2280,15 +1632,9 @@
     "ItemID": 1012083,
     "ItemName": "妙香绵绵烧肉·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2297,15 +1643,9 @@
     "ItemID": 1012084,
     "ItemName": "妙香绵绵烧肉·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2314,15 +1654,9 @@
     "ItemID": 1012092,
     "ItemName": "透花琉璃蜜肉酱·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2331,15 +1665,9 @@
     "ItemID": 1012093,
     "ItemName": "透花琉璃蜜肉酱·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2348,15 +1676,9 @@
     "ItemID": 1012094,
     "ItemName": "透花琉璃蜜肉酱·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2365,15 +1687,9 @@
     "ItemID": 1012102,
     "ItemName": "卡尼曼坚果杯·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2382,15 +1698,9 @@
     "ItemID": 1012103,
     "ItemName": "卡尼曼坚果杯·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2399,15 +1709,9 @@
     "ItemID": 1012104,
     "ItemName": "卡尼曼坚果杯·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2416,15 +1720,9 @@
     "ItemID": 1012112,
     "ItemName": "黄油飞鱼·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2433,15 +1731,9 @@
     "ItemID": 1012113,
     "ItemName": "黄油飞鱼·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2450,15 +1742,9 @@
     "ItemID": 1012114,
     "ItemName": "黄油飞鱼·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2467,15 +1753,9 @@
     "ItemID": 1012122,
     "ItemName": "小熊蜂蜜肉排·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2484,15 +1764,9 @@
     "ItemID": 1012123,
     "ItemName": "小熊蜂蜜肉排·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2501,15 +1775,9 @@
     "ItemID": 1012124,
     "ItemName": "小熊蜂蜜肉排·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2518,15 +1786,9 @@
     "ItemID": 1012132,
     "ItemName": "花浓藏香蜜菇汤·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2535,15 +1797,9 @@
     "ItemID": 1012133,
     "ItemName": "花浓藏香蜜菇汤·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2552,15 +1808,9 @@
     "ItemID": 1012134,
     "ItemName": "花浓藏香蜜菇汤·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2569,15 +1819,9 @@
     "ItemID": 1012142,
     "ItemName": "寻觅鲜果汁·等级1",
     "SingleValue": 2200,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 10,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2586,15 +1830,9 @@
     "ItemID": 1012143,
     "ItemName": "寻觅鲜果汁·等级2",
     "SingleValue": 3300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2603,15 +1841,9 @@
     "ItemID": 1012144,
     "ItemName": "寻觅鲜果汁·等级3",
     "SingleValue": 5800,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2622,7 +1854,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2633,7 +1865,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2642,15 +1874,9 @@
     "ItemID": 1015013,
     "ItemName": "烈火糖浆·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2661,7 +1887,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2672,7 +1898,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2681,15 +1907,9 @@
     "ItemID": 1015023,
     "ItemName": "抗火含片·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2700,7 +1920,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2711,7 +1931,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2720,15 +1940,9 @@
     "ItemID": 1015033,
     "ItemName": "冰冻糖浆·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2739,7 +1953,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2750,7 +1964,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2759,15 +1973,9 @@
     "ItemID": 1015043,
     "ItemName": "抗冰含片·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2778,7 +1986,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2789,7 +1997,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2798,15 +2006,9 @@
     "ItemID": 1015053,
     "ItemName": "青蔓糖浆·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2817,7 +2019,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2828,7 +2030,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2837,15 +2039,9 @@
     "ItemID": 1015063,
     "ItemName": "抗森含片·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2856,7 +2052,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2867,7 +2063,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2876,15 +2072,9 @@
     "ItemID": 1015073,
     "ItemName": "震土糖浆·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2895,7 +2085,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2906,7 +2096,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2915,15 +2105,9 @@
     "ItemID": 1015083,
     "ItemName": "抗岩含片·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2934,7 +2118,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2945,7 +2129,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2954,15 +2138,9 @@
     "ItemID": 1015093,
     "ItemName": "旋风糖浆·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2973,7 +2151,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2984,7 +2162,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -2993,15 +2171,9 @@
     "ItemID": 1015103,
     "ItemName": "抗风含片·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3012,7 +2184,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3023,7 +2195,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3032,15 +2204,9 @@
     "ItemID": 1015113,
     "ItemName": "雷鸣糖浆·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3051,7 +2217,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3062,7 +2228,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3071,15 +2237,9 @@
     "ItemID": 1015123,
     "ItemName": "抗雷含片·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3090,7 +2250,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3101,7 +2261,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3110,15 +2270,9 @@
     "ItemID": 1015133,
     "ItemName": "光彩糖浆·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3129,7 +2283,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3140,7 +2294,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3149,15 +2303,9 @@
     "ItemID": 1015143,
     "ItemName": "抗光含片·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3168,7 +2316,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3179,7 +2327,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3188,15 +2336,9 @@
     "ItemID": 1015153,
     "ItemName": "暗夜糖浆·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3207,7 +2349,7 @@
     "SingleValue": 1600,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 8,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3218,7 +2360,7 @@
     "SingleValue": 2700,
     "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 3,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3227,15 +2369,9 @@
     "ItemID": 1015163,
     "ItemName": "抗暗含片·等级3",
     "SingleValue": 4300,
-    "ConditionLimit": [
-      [
-        30,
-        1,
-        7
-      ]
-    ],
+    "ConditionLimit": [],
     "RefreshNum": "",
-    "UpWeight": 1,
+    "UpWeight": 0,
     "KeepWeight": 3,
     "DownWeight": 39
   },
@@ -3367,6 +2503,2126 @@
     "ItemID": 1094011,
     "ItemName": "哈尼康鳙鱼",
     "SingleValue": 650,
+    "ConditionLimit": [
+      [
+        30,
+        1,
+        4
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 20,
+    "DownWeight": 30
+  },
+  "227": {
+    "Id": 227,
+    "ItemID": 1092082,
+    "ItemName": "山芥",
+    "SingleValue": 150,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 20,
+    "KeepWeight": 20,
+    "DownWeight": 0
+  },
+  "228": {
+    "Id": 228,
+    "ItemID": 1092083,
+    "ItemName": "苦橙",
+    "SingleValue": 150,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 20,
+    "KeepWeight": 20,
+    "DownWeight": 0
+  },
+  "229": {
+    "Id": 229,
+    "ItemID": 1092084,
+    "ItemName": "西红花",
+    "SingleValue": 150,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 20,
+    "KeepWeight": 20,
+    "DownWeight": 0
+  },
+  "230": {
+    "Id": 230,
+    "ItemID": 1092085,
+    "ItemName": "南风椒",
+    "SingleValue": 150,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 20,
+    "KeepWeight": 20,
+    "DownWeight": 0
+  },
+  "231": {
+    "Id": 231,
+    "ItemID": 1092086,
+    "ItemName": "雨豆",
+    "SingleValue": 150,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 20,
+    "KeepWeight": 20,
+    "DownWeight": 0
+  },
+  "232": {
+    "Id": 232,
+    "ItemID": 1092087,
+    "ItemName": "岩蓟花",
+    "SingleValue": 150,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 20,
+    "KeepWeight": 20,
+    "DownWeight": 0
+  },
+  "233": {
+    "Id": 233,
+    "ItemID": 1080044,
+    "ItemName": "鲁涅矿石",
+    "SingleValue": 150,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 30
+  },
+  "234": {
+    "Id": 234,
+    "ItemID": 1080045,
+    "ItemName": "鲁涅富矿石",
+    "SingleValue": 180,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 30
+  },
+  "235": {
+    "Id": 235,
+    "ItemID": 1080046,
+    "ItemName": "巴哈矿石",
+    "SingleValue": 150,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 30
+  },
+  "236": {
+    "Id": 236,
+    "ItemID": 1080047,
+    "ItemName": "巴哈富矿石",
+    "SingleValue": 180,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 30
+  },
+  "237": {
+    "Id": 237,
+    "ItemID": 1080048,
+    "ItemName": "费尔矿石",
+    "SingleValue": 150,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 30
+  },
+  "238": {
+    "Id": 238,
+    "ItemID": 1080049,
+    "ItemName": "费尔富矿石",
+    "SingleValue": 180,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 30
+  },
+  "239": {
+    "Id": 239,
+    "ItemID": 1080050,
+    "ItemName": "陨铁矿石",
+    "SingleValue": 610,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 30
+  },
+  "240": {
+    "Id": 240,
+    "ItemID": 1080051,
+    "ItemName": "陨铁富矿石",
+    "SingleValue": 710,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 30
+  },
+  "241": {
+    "Id": 241,
+    "ItemID": 1081014,
+    "ItemName": "幻蚀赤晶原石·1级",
+    "SingleValue": 340,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 1,
+    "DownWeight": 39
+  },
+  "242": {
+    "Id": 242,
+    "ItemID": 1081015,
+    "ItemName": "幻蚀赤晶原石·2级",
+    "SingleValue": 340,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 1,
+    "DownWeight": 39
+  },
+  "243": {
+    "Id": 243,
+    "ItemID": 1081024,
+    "ItemName": "幻蚀蓝晶原石·1级",
+    "SingleValue": 340,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 1,
+    "DownWeight": 39
+  },
+  "244": {
+    "Id": 244,
+    "ItemID": 1081025,
+    "ItemName": "幻蚀蓝晶原石·2级",
+    "SingleValue": 340,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 1,
+    "DownWeight": 39
+  },
+  "245": {
+    "Id": 245,
+    "ItemID": 1081034,
+    "ItemName": "幻蚀翠晶原石·1级",
+    "SingleValue": 340,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 1,
+    "DownWeight": 39
+  },
+  "246": {
+    "Id": 246,
+    "ItemID": 1081035,
+    "ItemName": "幻蚀翠晶原石·2级",
+    "SingleValue": 340,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 1,
+    "DownWeight": 39
+  },
+  "247": {
+    "Id": 247,
+    "ItemID": 1081044,
+    "ItemName": "幻蚀耀晶原石·1级",
+    "SingleValue": 340,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 1,
+    "DownWeight": 39
+  },
+  "248": {
+    "Id": 248,
+    "ItemID": 1081045,
+    "ItemName": "幻蚀耀晶原石·2级",
+    "SingleValue": 340,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 1,
+    "DownWeight": 39
+  },
+  "249": {
+    "Id": 249,
+    "ItemID": 1082107,
+    "ItemName": "腌制羊肋排",
+    "SingleValue": 150,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 5,
+    "DownWeight": 35
+  },
+  "250": {
+    "Id": 250,
+    "ItemID": 1082108,
+    "ItemName": "秘制风味腌肋排",
+    "SingleValue": 150,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 5,
+    "DownWeight": 35
+  },
+  "251": {
+    "Id": 251,
+    "ItemID": 1082117,
+    "ItemName": "粗盐腌鱼",
+    "SingleValue": 150,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 5,
+    "DownWeight": 35
+  },
+  "252": {
+    "Id": 252,
+    "ItemID": 1082118,
+    "ItemName": "醇香珍味腌鱼",
+    "SingleValue": 150,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 5,
+    "DownWeight": 35
+  },
+  "253": {
+    "Id": 253,
+    "ItemID": 1012153,
+    "ItemName": "黄油煎香烤肉卷·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "254": {
+    "Id": 254,
+    "ItemID": 1012154,
+    "ItemName": "黄油煎香烤肉卷·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "255": {
+    "Id": 255,
+    "ItemID": 1012163,
+    "ItemName": "好滋味炖肉·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "256": {
+    "Id": 256,
+    "ItemID": 1012164,
+    "ItemName": "好滋味炖肉·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "257": {
+    "Id": 257,
+    "ItemID": 1012173,
+    "ItemName": "清鲜汤·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "258": {
+    "Id": 258,
+    "ItemID": 1012174,
+    "ItemName": "清鲜汤·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "259": {
+    "Id": 259,
+    "ItemID": 1012183,
+    "ItemName": "山野蜜鱼宝·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "260": {
+    "Id": 260,
+    "ItemID": 1012184,
+    "ItemName": "山野蜜鱼宝·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "261": {
+    "Id": 261,
+    "ItemID": 1012193,
+    "ItemName": "橙香小鱼饼·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "262": {
+    "Id": 262,
+    "ItemID": 1012194,
+    "ItemName": "橙香小鱼饼·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "263": {
+    "Id": 263,
+    "ItemID": 1012203,
+    "ItemName": "极味鱼丝面·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "264": {
+    "Id": 264,
+    "ItemID": 1012204,
+    "ItemName": "极味鱼丝面·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "265": {
+    "Id": 265,
+    "ItemID": 1012213,
+    "ItemName": "辛香羊骨鲜·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "266": {
+    "Id": 266,
+    "ItemID": 1012214,
+    "ItemName": "辛香羊骨鲜·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "267": {
+    "Id": 267,
+    "ItemID": 1012223,
+    "ItemName": "盐焗鲜蔬羊肋排·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "268": {
+    "Id": 268,
+    "ItemID": 1012224,
+    "ItemName": "盐焗鲜蔬羊肋排·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "269": {
+    "Id": 269,
+    "ItemID": 1012233,
+    "ItemName": "溜溜果味羊排·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "270": {
+    "Id": 270,
+    "ItemID": 1012234,
+    "ItemName": "溜溜果味羊排·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "271": {
+    "Id": 271,
+    "ItemID": 1012243,
+    "ItemName": "橙汁羊肉烩饭·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "272": {
+    "Id": 272,
+    "ItemID": 1012244,
+    "ItemName": "橙汁羊肉烩饭·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "273": {
+    "Id": 273,
+    "ItemID": 1012253,
+    "ItemName": "酥脆小鱼干·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "274": {
+    "Id": 274,
+    "ItemID": 1012254,
+    "ItemName": "酥脆小鱼干·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "275": {
+    "Id": 275,
+    "ItemID": 1012263,
+    "ItemName": "咸香烤羊排·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "276": {
+    "Id": 276,
+    "ItemID": 1012264,
+    "ItemName": "咸香烤羊排·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "277": {
+    "Id": 277,
+    "ItemID": 1012273,
+    "ItemName": "甜蜜蜜沙拉·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "278": {
+    "Id": 278,
+    "ItemID": 1012274,
+    "ItemName": "甜蜜蜜沙拉·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "279": {
+    "Id": 279,
+    "ItemID": 1012283,
+    "ItemName": "苦橙汁·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "280": {
+    "Id": 280,
+    "ItemID": 1012284,
+    "ItemName": "苦橙汁·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "281": {
+    "Id": 281,
+    "ItemID": 1012293,
+    "ItemName": "黄金双拼肉堡·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "282": {
+    "Id": 282,
+    "ItemID": 1012294,
+    "ItemName": "黄金双拼肉堡·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "283": {
+    "Id": 283,
+    "ItemID": 1012303,
+    "ItemName": "双鲜豪炖·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "284": {
+    "Id": 284,
+    "ItemID": 1012304,
+    "ItemName": "双鲜豪炖·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "285": {
+    "Id": 285,
+    "ItemID": 1012313,
+    "ItemName": "火辣香煎鱼·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "286": {
+    "Id": 286,
+    "ItemID": 1012314,
+    "ItemName": "火辣香煎鱼·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "287": {
+    "Id": 287,
+    "ItemID": 1012323,
+    "ItemName": "暖风海鲜羹·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "288": {
+    "Id": 288,
+    "ItemID": 1012324,
+    "ItemName": "暖风海鲜羹·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "289": {
+    "Id": 289,
+    "ItemID": 1012333,
+    "ItemName": "素味咸鱼串·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "290": {
+    "Id": 290,
+    "ItemID": 1012334,
+    "ItemName": "素味咸鱼串·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "291": {
+    "Id": 291,
+    "ItemID": 1012343,
+    "ItemName": "怪味雨豆泥·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "292": {
+    "Id": 292,
+    "ItemID": 1012344,
+    "ItemName": "怪味雨豆泥·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "293": {
+    "Id": 293,
+    "ItemID": 1012353,
+    "ItemName": "烈焰椒香肋条·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "294": {
+    "Id": 294,
+    "ItemID": 1012354,
+    "ItemName": "烈焰椒香肋条·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "295": {
+    "Id": 295,
+    "ItemID": 1012363,
+    "ItemName": "炽辣肋排·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "296": {
+    "Id": 296,
+    "ItemID": 1012364,
+    "ItemName": "炽辣肋排·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "297": {
+    "Id": 297,
+    "ItemID": 1012373,
+    "ItemName": "拉尔帕尔田园煲·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "298": {
+    "Id": 298,
+    "ItemID": 1012374,
+    "ItemName": "拉尔帕尔田园煲·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "299": {
+    "Id": 299,
+    "ItemID": 1012383,
+    "ItemName": "高原特色合蒸·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "300": {
+    "Id": 300,
+    "ItemID": 1012384,
+    "ItemName": "高原特色合蒸·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "301": {
+    "Id": 301,
+    "ItemID": 1012393,
+    "ItemName": "滋滋冒油烤咸鱼·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "302": {
+    "Id": 302,
+    "ItemID": 1012394,
+    "ItemName": "滋滋冒油烤咸鱼·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "303": {
+    "Id": 303,
+    "ItemID": 1012403,
+    "ItemName": "滋滋冒油烤肋排·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "304": {
+    "Id": 304,
+    "ItemID": 1012404,
+    "ItemName": "滋滋冒油烤肋排·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "305": {
+    "Id": 305,
+    "ItemID": 1012413,
+    "ItemName": "风味醇香酱·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "306": {
+    "Id": 306,
+    "ItemID": 1012414,
+    "ItemName": "风味醇香酱·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "307": {
+    "Id": 307,
+    "ItemID": 1012423,
+    "ItemName": "雪酪流心蜜豆卷·等级1",
+    "SingleValue": 3300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "308": {
+    "Id": 308,
+    "ItemID": 1012424,
+    "ItemName": "雪酪流心蜜豆卷·等级2",
+    "SingleValue": 5800,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "309": {
+    "Id": 309,
+    "ItemID": 1015014,
+    "ItemName": "烈焰蜥脊试剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "310": {
+    "Id": 310,
+    "ItemID": 1015015,
+    "ItemName": "烈焰蜥脊试剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "311": {
+    "Id": 311,
+    "ItemID": 1015016,
+    "ItemName": "烈焰蜥脊试剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "312": {
+    "Id": 312,
+    "ItemID": 1015024,
+    "ItemName": "避火型蜥脊含片·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "313": {
+    "Id": 313,
+    "ItemID": 1015025,
+    "ItemName": "避火型蜥脊含片·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "314": {
+    "Id": 314,
+    "ItemID": 1015026,
+    "ItemName": "避火型蜥脊含片·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "315": {
+    "Id": 315,
+    "ItemID": 1015034,
+    "ItemName": "极寒蜥脊试剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "316": {
+    "Id": 316,
+    "ItemID": 1015035,
+    "ItemName": "极寒蜥脊试剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "317": {
+    "Id": 317,
+    "ItemID": 1015036,
+    "ItemName": "极寒蜥脊试剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "318": {
+    "Id": 318,
+    "ItemID": 1015044,
+    "ItemName": "避寒型蜥脊含片·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "319": {
+    "Id": 319,
+    "ItemID": 1015045,
+    "ItemName": "避寒型蜥脊含片·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "320": {
+    "Id": 320,
+    "ItemID": 1015046,
+    "ItemName": "避寒型蜥脊含片·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "321": {
+    "Id": 321,
+    "ItemID": 1015054,
+    "ItemName": "叶脉蜥脊试剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "322": {
+    "Id": 322,
+    "ItemID": 1015055,
+    "ItemName": "叶脉蜥脊试剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "323": {
+    "Id": 323,
+    "ItemID": 1015056,
+    "ItemName": "叶脉蜥脊试剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "324": {
+    "Id": 324,
+    "ItemID": 1015064,
+    "ItemName": "避茵型蜥脊含片·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "325": {
+    "Id": 325,
+    "ItemID": 1015065,
+    "ItemName": "避茵型蜥脊含片·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "326": {
+    "Id": 326,
+    "ItemID": 1015066,
+    "ItemName": "避茵型蜥脊含片·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "327": {
+    "Id": 327,
+    "ItemID": 1015074,
+    "ItemName": "砂岩蜥脊试剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "328": {
+    "Id": 328,
+    "ItemID": 1015075,
+    "ItemName": "砂岩蜥脊试剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "329": {
+    "Id": 329,
+    "ItemID": 1015076,
+    "ItemName": "砂岩蜥脊试剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "330": {
+    "Id": 330,
+    "ItemID": 1015084,
+    "ItemName": "避砂型蜥脊含片·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "331": {
+    "Id": 331,
+    "ItemID": 1015085,
+    "ItemName": "避砂型蜥脊含片·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "332": {
+    "Id": 332,
+    "ItemID": 1015086,
+    "ItemName": "避砂型蜥脊含片·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "333": {
+    "Id": 333,
+    "ItemID": 1015094,
+    "ItemName": "风鸣蜥脊试剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "334": {
+    "Id": 334,
+    "ItemID": 1015095,
+    "ItemName": "风鸣蜥脊试剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "335": {
+    "Id": 335,
+    "ItemID": 1015096,
+    "ItemName": "风鸣蜥脊试剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "336": {
+    "Id": 336,
+    "ItemID": 1015104,
+    "ItemName": "避风型蜥脊含片·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "337": {
+    "Id": 337,
+    "ItemID": 1015105,
+    "ItemName": "避风型蜥脊含片·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "338": {
+    "Id": 338,
+    "ItemID": 1015106,
+    "ItemName": "避风型蜥脊含片·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "339": {
+    "Id": 339,
+    "ItemID": 1015114,
+    "ItemName": "电解蜥脊试剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "340": {
+    "Id": 340,
+    "ItemID": 1015115,
+    "ItemName": "电解蜥脊试剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "341": {
+    "Id": 341,
+    "ItemID": 1015116,
+    "ItemName": "电解蜥脊试剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "342": {
+    "Id": 342,
+    "ItemID": 1015124,
+    "ItemName": "避雷型蜥脊含片·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "343": {
+    "Id": 343,
+    "ItemID": 1015125,
+    "ItemName": "避雷型蜥脊含片·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "344": {
+    "Id": 344,
+    "ItemID": 1015126,
+    "ItemName": "避雷型蜥脊含片·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "345": {
+    "Id": 345,
+    "ItemID": 1015134,
+    "ItemName": "辉白蜥脊试剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "346": {
+    "Id": 346,
+    "ItemID": 1015135,
+    "ItemName": "辉白蜥脊试剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "347": {
+    "Id": 347,
+    "ItemID": 1015136,
+    "ItemName": "辉白蜥脊试剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "348": {
+    "Id": 348,
+    "ItemID": 1015144,
+    "ItemName": "避光型蜥脊含片·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "349": {
+    "Id": 349,
+    "ItemID": 1015145,
+    "ItemName": "避光型蜥脊含片·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "350": {
+    "Id": 350,
+    "ItemID": 1015146,
+    "ItemName": "避光型蜥脊含片·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "351": {
+    "Id": 351,
+    "ItemID": 1015154,
+    "ItemName": "黯淡蜥脊试剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "352": {
+    "Id": 352,
+    "ItemID": 1015155,
+    "ItemName": "黯淡蜥脊试剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "353": {
+    "Id": 353,
+    "ItemID": 1015156,
+    "ItemName": "黯淡蜥脊试剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "354": {
+    "Id": 354,
+    "ItemID": 1015164,
+    "ItemName": "避夜型蜥脊含片·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "355": {
+    "Id": 355,
+    "ItemID": 1015165,
+    "ItemName": "避夜型蜥脊含片·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "356": {
+    "Id": 356,
+    "ItemID": 1015166,
+    "ItemName": "避夜型蜥脊含片·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "357": {
+    "Id": 357,
+    "ItemID": 1015171,
+    "ItemName": "物理增效药剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "358": {
+    "Id": 358,
+    "ItemID": 1015172,
+    "ItemName": "物理增效药剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "359": {
+    "Id": 359,
+    "ItemID": 1015173,
+    "ItemName": "物理增效药剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "360": {
+    "Id": 360,
+    "ItemID": 1015181,
+    "ItemName": "魔法增效药剂·等级1",
+    "SingleValue": 1600,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 8,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "361": {
+    "Id": 361,
+    "ItemID": 1015182,
+    "ItemName": "魔法增效药剂·等级2",
+    "SingleValue": 2700,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 3,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "362": {
+    "Id": 362,
+    "ItemID": 1015183,
+    "ItemName": "魔法增效药剂·等级3",
+    "SingleValue": 4300,
+    "ConditionLimit": [
+      [
+        9,
+        10220
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 1,
+    "KeepWeight": 3,
+    "DownWeight": 39
+  },
+  "363": {
+    "Id": 363,
+    "ItemID": 1024051,
+    "ItemName": "绯红宝石·威5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "364": {
+    "Id": 364,
+    "ItemID": 1024052,
+    "ItemName": "绯红宝石·磐5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "365": {
+    "Id": 365,
+    "ItemID": 1024053,
+    "ItemName": "绯红宝石·疾5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "366": {
+    "Id": 366,
+    "ItemID": 1024054,
+    "ItemName": "绯红宝石·渊5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "367": {
+    "Id": 367,
+    "ItemID": 1024151,
+    "ItemName": "蓝诺宝石·威5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "368": {
+    "Id": 368,
+    "ItemID": 1024152,
+    "ItemName": "蓝诺宝石·磐5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "369": {
+    "Id": 369,
+    "ItemID": 1024153,
+    "ItemName": "蓝诺宝石·疾5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "370": {
+    "Id": 370,
+    "ItemID": 1024154,
+    "ItemName": "蓝诺宝石·渊5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "371": {
+    "Id": 371,
+    "ItemID": 1024251,
+    "ItemName": "天青宝石·威5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "372": {
+    "Id": 372,
+    "ItemID": 1024252,
+    "ItemName": "天青宝石·磐5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "373": {
+    "Id": 373,
+    "ItemID": 1024253,
+    "ItemName": "天青宝石·疾5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "374": {
+    "Id": 374,
+    "ItemID": 1024254,
+    "ItemName": "天青宝石·渊5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "375": {
+    "Id": 375,
+    "ItemID": 1024351,
+    "ItemName": "晨辉宝石·威5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "376": {
+    "Id": 376,
+    "ItemID": 1024352,
+    "ItemName": "晨辉宝石·磐5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "377": {
+    "Id": 377,
+    "ItemID": 1024353,
+    "ItemName": "晨辉宝石·疾5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "378": {
+    "Id": 378,
+    "ItemID": 1024354,
+    "ItemName": "晨辉宝石·渊5",
+    "SingleValue": 7500,
+    "ConditionLimit": [],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 30
+  },
+  "379": {
+    "Id": 379,
+    "ItemID": 1094016,
+    "ItemName": "海冠狮子鱼",
+    "SingleValue": 500,
+    "ConditionLimit": [
+      [
+        30,
+        1,
+        4
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 20,
+    "DownWeight": 30
+  },
+  "380": {
+    "Id": 380,
+    "ItemID": 1094017,
+    "ItemName": "浮游冰羽",
+    "SingleValue": 650,
+    "ConditionLimit": [
+      [
+        30,
+        1,
+        7
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 20,
+    "DownWeight": 30
+  },
+  "381": {
+    "Id": 381,
+    "ItemID": 1094018,
+    "ItemName": "澄波绿鳍鱼",
+    "SingleValue": 500,
+    "ConditionLimit": [
+      [
+        30,
+        1,
+        4
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 35
+  },
+  "382": {
+    "Id": 382,
+    "ItemID": 1094019,
+    "ItemName": "翩跹蝴蝶鱼",
+    "SingleValue": 500,
+    "ConditionLimit": [
+      [
+        30,
+        1,
+        4
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 40,
+    "DownWeight": 20
+  },
+  "383": {
+    "Id": 383,
+    "ItemID": 1094020,
+    "ItemName": "午睡翻车鱼",
+    "SingleValue": 650,
+    "ConditionLimit": [
+      [
+        30,
+        1,
+        7
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 20,
+    "DownWeight": 30
+  },
+  "384": {
+    "Id": 384,
+    "ItemID": 1094021,
+    "ItemName": "远潮皇带鱼",
+    "SingleValue": 650,
+    "ConditionLimit": [
+      [
+        30,
+        1,
+        7
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 20,
+    "DownWeight": 30
+  },
+  "385": {
+    "Id": 385,
+    "ItemID": 1094022,
+    "ItemName": "流羽斗鱼",
+    "SingleValue": 650,
+    "ConditionLimit": [
+      [
+        30,
+        1,
+        7
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 10,
+    "DownWeight": 35
+  },
+  "386": {
+    "Id": 386,
+    "ItemID": 1094023,
+    "ItemName": "长吻雀鳝",
+    "SingleValue": 500,
+    "ConditionLimit": [
+      [
+        30,
+        1,
+        4
+      ]
+    ],
+    "RefreshNum": "",
+    "UpWeight": 0,
+    "KeepWeight": 40,
+    "DownWeight": 20
+  },
+  "387": {
+    "Id": 387,
+    "ItemID": 1094024,
+    "ItemName": "兰寿鲤",
+    "SingleValue": 500,
     "ConditionLimit": [
       [
         30,

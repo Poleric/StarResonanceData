@@ -3,17 +3,16 @@ syntax = "proto3";
 package bokura;
 
 message UnionIconTableBase {
-  int32 id = 1463;
-  int32 type = 673;
-  string show_icon_route = 711;
-  string resource_route = 399;
-  int32 show_sort = 1506;
-  int32 colour = 1759;
-  int32 limit = 640;
-  int32 is_hide = 1851;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Type = 673 [json_name = "Type"];
+	string ShowIconRoute = 711 [json_name = "ShowIconRoute"];
+	string ResourceRoute = 399 [json_name = "ResourceRoute"];
+	int32 ShowSort = 1506 [json_name = "ShowSort"];
+	int32 Colour = 1759 [json_name = "Colour"];
+	int32 Limit = 640 [json_name = "Limit"];
+	int32 IsHide = 1851 [json_name = "IsHide"];
 }
 
 message UnionIconTableMgr {
-  map<int32, bokura.UnionIconTableBase> datas = 1;
+	map<int32, UnionIconTableBase> datas = 1 [json_name = "datas"];
 }
-

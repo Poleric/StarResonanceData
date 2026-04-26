@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_user_summary_data.proto";
 
-message GrowFundMemInfo {
-  int32 fund_pos = 1;
-  zproto.UserSummaryData basic_avatar_data = 2;
-}
+package zproto;
 
+message GrowFundMemInfo {
+	int32 fundPos = 1 [json_name = "fundPos"];
+	UserSummaryData basicAvatarData = 2 [json_name = "basicAvatarData"];
+}

@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_apply_ride_result.proto";
 
-message NotifyRideIsAgreeParam {
-  int64 char_id = 1;
-  string char_name = 2;
-  zproto.EApplyRideResult result = 3;
-}
+package zproto;
 
+message NotifyRideIsAgreeParam {
+	int64 charId = 1 [json_name = "charId"];
+	string charName = 2 [json_name = "charName"];
+	EApplyRideResult result = 3 [json_name = "result"];
+}

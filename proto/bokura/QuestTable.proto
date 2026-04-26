@@ -1,28 +1,27 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message QuestTableBase {
-  int32 quest_id = 874;
-  mlstring quest_name = 813;
-  mlstring quest_detail = 567;
-  int32 quest_type = 728;
-  int32 quest_step = 263;
-  int32 award_id = 1197;
-  int32 follow_quest = 879;
-  int_array pre_quest = 1240;
-  string pre_quest_logic = 1105;
-  int_array must_pre_quest = 1049;
-  string_table access_limit = 90;
-  string_array time_limit = 1722;
-  string_table continue_limit = 1395;
-  string_table abort_limit = 1720;
-  string step_flow_path = 1794;
+	int32 QuestId = 874 [json_name = "QuestId"];
+	mlstring QuestName = 813 [json_name = "QuestName"];
+	mlstring QuestDetail = 567 [json_name = "QuestDetail"];
+	int32 QuestType = 728 [json_name = "QuestType"];
+	int32 QuestStep = 263 [json_name = "QuestStep"];
+	int32 AwardId = 1197 [json_name = "AwardId"];
+	int32 FollowQuest = 879 [json_name = "FollowQuest"];
+	int_array PreQuest = 1240 [json_name = "PreQuest"];
+	string PreQuestLogic = 1105 [json_name = "PreQuestLogic"];
+	int_array MustPreQuest = 1049 [json_name = "MustPreQuest"];
+	string_table AccessLimit = 90 [json_name = "AccessLimit"];
+	string_array TimeLimit = 1722 [json_name = "TimeLimit"];
+	string_table ContinueLimit = 1395 [json_name = "ContinueLimit"];
+	string_table AbortLimit = 1720 [json_name = "AbortLimit"];
+	string StepFlowPath = 1794 [json_name = "StepFlowPath"];
 }
 
 message QuestTableMgr {
-  map<int32, bokura.QuestTableBase> datas = 1;
+	map<int32, QuestTableBase> datas = 1 [json_name = "datas"];
 }
-

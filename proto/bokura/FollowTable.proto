@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FollowTableBase {
-  int32 id = 1463;
-  number_array para_offset = 82;
-  number_array para_sca_double = 258;
-  number_array para_sca_base = 2047;
-  number_array para_pre_dis = 1023;
-  number_array para_pre_double = 98;
-  number_array para_s_pre_base = 105;
-  number_array para_time_to = 112;
-  number_array para_time_back = 1135;
+	int32 Id = 1463 [json_name = "Id"];
+	number_array ParaOffset = 82 [json_name = "ParaOffset"];
+	number_array ParaScaDouble = 258 [json_name = "ParaScaDouble"];
+	number_array ParaScaBase = 2047 [json_name = "ParaScaBase"];
+	number_array ParaPreDis = 1023 [json_name = "ParaPreDis"];
+	number_array ParaPreDouble = 98 [json_name = "ParaPreDouble"];
+	number_array ParaSPreBase = 105 [json_name = "ParaSPreBase"];
+	number_array ParaTimeTo = 112 [json_name = "ParaTimeTo"];
+	number_array ParaTimeBack = 1135 [json_name = "ParaTimeBack"];
 }
 
 message FollowTableMgr {
-  map<int32, bokura.FollowTableBase> datas = 1;
+	map<int32, FollowTableBase> datas = 1 [json_name = "datas"];
 }
-

@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message NotifyCommunityFurnitureItemUpdateRequest {
-  map<int32, int64> add_items = 1;
+	map<int32, int64> addItems = 1 [json_name = "addItems"];
 }
-

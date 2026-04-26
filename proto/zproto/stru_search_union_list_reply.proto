@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_union_list_data.proto";
 
-message SearchUnionListReply {
-  repeated zproto.UnionListData union_list = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message SearchUnionListReply {
+	repeated UnionListData unionList = 1 [json_name = "unionList"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

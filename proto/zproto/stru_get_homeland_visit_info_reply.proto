@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "stru_community_build_life_profession_infos.proto";
+import "enum_e_error_code.proto";
+import "stru_homeland_visit_info.proto";
+
+package zproto;
+
+message GetHomelandVisitInfoReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	HomelandVisitInfo homelandVisitInfo = 2 [json_name = "homelandVisitInfo"];
+	CommunityBuildLifeProfessionInfos lifeProfessionInfos = 3 [json_name = "lifeProfessionInfos"];
+}

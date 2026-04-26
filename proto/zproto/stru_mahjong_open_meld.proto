@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+message MahjongOpenMeld {
+	int32 MeldType = 1 [json_name = "MeldType"];
+	repeated int32 Cards = 2 [json_name = "Cards"];
+	int32 Card = 3 [json_name = "Card"];
+	int32 FromPlayerIndex = 4 [json_name = "FromPlayerIndex"];
+}

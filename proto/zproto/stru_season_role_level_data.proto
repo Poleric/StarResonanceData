@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_season_role_level.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message SeasonRoleLevelData {
+	map<int32, SeasonRoleLevel> seasonRoleLevelMap = 1 [json_name = "seasonRoleLevelMap"];
+}

@@ -16,10 +16,7 @@
         2
       ]
     ],
-    "GroupRates": [
-      1.0,
-      1.0
-    ],
+    "GroupRates": [],
     "GroupWeight": [],
     "EquipLvLimit": []
   },
@@ -493,6 +490,44 @@
     ],
     "EquipLvLimit": []
   },
+  "7601": {
+    "AwardID": 7601,
+    "DropType": 2,
+    "GroupContent": [
+      [
+        57156,
+        1,
+        1,
+        3
+      ],
+      [
+        57157,
+        1,
+        1,
+        3
+      ],
+      [
+        57158,
+        1,
+        1,
+        3
+      ],
+      [
+        57159,
+        1,
+        1,
+        3
+      ]
+    ],
+    "GroupRates": [],
+    "GroupWeight": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "EquipLvLimit": []
+  },
   "1205001": {
     "AwardID": 1205001,
     "DropType": 2,
@@ -625,6 +660,51 @@
     ],
     "GroupRates": [],
     "GroupWeight": [
+      1
+    ],
+    "EquipLvLimit": []
+  },
+  "800101": {
+    "AwardID": 800101,
+    "DropType": 2,
+    "GroupContent": [
+      [
+        8001002,
+        1,
+        1,
+        3
+      ],
+      [
+        8001003,
+        1,
+        1,
+        3
+      ],
+      [
+        8001004,
+        1,
+        1,
+        3
+      ],
+      [
+        8001005,
+        1,
+        1,
+        3
+      ],
+      [
+        8001006,
+        1,
+        1,
+        3
+      ]
+    ],
+    "GroupRates": [],
+    "GroupWeight": [
+      2,
+      2,
+      2,
+      1,
       1
     ],
     "EquipLvLimit": []

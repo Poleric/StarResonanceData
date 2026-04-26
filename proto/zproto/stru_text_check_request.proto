@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_session_info.proto";
 import "enum_text_check_scene_type.proto";
 
-message TextCheckRequest {
-  zproto.SessionInfo session = 1;
-  zproto.TextCheckSceneType scene_type = 2;
-  repeated string str = 3;
-  map<string, string> parame = 4;
-}
+package zproto;
 
+message TextCheckRequest {
+	SessionInfo session = 1 [json_name = "session"];
+	TextCheckSceneType sceneType = 2 [json_name = "sceneType"];
+	repeated string str = 3 [json_name = "str"];
+	map<string, string> parame = 4 [json_name = "parame"];
+}

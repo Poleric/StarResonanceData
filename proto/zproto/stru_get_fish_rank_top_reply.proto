@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_fish_rank_info.proto";
 
-message GetFishRankTopReply {
-  int32 fish_area_id = 1;
-  map<int32, zproto.FishRankInfo> rank_list = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message GetFishRankTopReply {
+	int32 fishAreaId = 1 [json_name = "fishAreaId"];
+	map<int32, FishRankInfo> rankList = 2 [json_name = "rankList"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

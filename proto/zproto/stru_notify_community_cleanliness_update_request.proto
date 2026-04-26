@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message NotifyCommunityCleanlinessUpdateRequest {
-  int32 new_cleanliness = 1;
-  int64 new_last_subtract_cleanliness_time = 2;
-  int32 old_cleanliness = 3;
-  int32 actual_subtract = 4;
+	int32 newCleanliness = 1 [json_name = "newCleanliness"];
+	int64 newLastSubtractCleanlinessSec = 2 [json_name = "newLastSubtractCleanlinessSec"];
+	int32 oldCleanliness = 3 [json_name = "oldCleanliness"];
+	int32 actualSubtract = 4 [json_name = "actualSubtract"];
 }
-

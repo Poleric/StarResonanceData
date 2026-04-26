@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message SetSignatureRequest {
-  string signature = 2;
+	string signature = 2 [json_name = "signature"];
 }
-

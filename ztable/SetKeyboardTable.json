@@ -147,7 +147,7 @@
     ],
     "SchemeId": 1,
     "NameRule": 0,
-    "SetDes": "Normal Attack",
+    "SetDes": "Basic Attack",
     "KeyboardDes": 1,
     "FunctionId": 0,
     "Sort": 12,
@@ -166,7 +166,7 @@
     ],
     "SchemeId": 1,
     "NameRule": 0,
-    "SetDes": "Skill 1",
+    "SetDes": "Expertise Skill 1",
     "KeyboardDes": 1,
     "FunctionId": 0,
     "Sort": 14,
@@ -780,7 +780,7 @@
     ],
     "SchemeId": 1,
     "NameRule": 0,
-    "SetDes": "Expertise Skill",
+    "SetDes": "Special Attack",
     "KeyboardDes": 1,
     "FunctionId": 0,
     "Sort": 13,
@@ -1049,7 +1049,7 @@
     ],
     "SchemeId": 1,
     "NameRule": 0,
-    "SetDes": "Channel",
+    "SetDes": "Line",
     "KeyboardDes": 2,
     "FunctionId": 101010,
     "Sort": 135,
@@ -1576,12 +1576,12 @@
     "Id": 155,
     "ActionIds": [
       [
-        101
+        113
       ]
     ],
     "SchemeId": 1,
     "NameRule": 0,
-    "SetDes": "Chat Channel Toggle",
+    "SetDes": "Chat Channel - Switch Left",
     "KeyboardDes": 1,
     "FunctionId": 0,
     "Sort": 154,
@@ -1769,6 +1769,25 @@
     "Id": 165,
     "ActionIds": [
       [
+        114
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Chat Channel - Switch Right",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 165,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 2,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "166": {
+    "Id": 166,
+    "ActionIds": [
+      [
         24
       ]
     ],
@@ -1777,12 +1796,126 @@
     "SetDes": "Zoom Out/Zoom In",
     "KeyboardDes": 0,
     "FunctionId": 0,
-    "Sort": 165,
+    "Sort": 166,
     "HideInSettingView": 0,
     "CanChange": [
       0,
       1
     ],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "167": {
+    "Id": 167,
+    "ActionIds": [
+      [
+        119
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Open Skill Drawer",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 167,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "168": {
+    "Id": 168,
+    "ActionIds": [
+      [
+        120
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Role Skill 1",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 168,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "169": {
+    "Id": 169,
+    "ActionIds": [
+      [
+        121
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Role Skill 2",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 169,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "170": {
+    "Id": 170,
+    "ActionIds": [
+      [
+        122
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Role Skill 3",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 170,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "171": {
+    "Id": 171,
+    "ActionIds": [
+      [
+        123
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Role Skill 4",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 171,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "172": {
+    "Id": 172,
+    "ActionIds": [
+      [
+        185
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Homestead Blueprint",
+    "KeyboardDes": 2,
+    "FunctionId": 102515,
+    "Sort": 172,
+    "HideInSettingView": 0,
+    "CanChange": [],
     "Quickdescription": 0,
     "ShowList": 0,
     "GoBack": "0"

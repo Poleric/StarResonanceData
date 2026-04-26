@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message NeighbouringSceneTableBase {
-  int32 id = 1463;
-  int_array neighbouring_scene = 854;
-  int_array portal = 1218;
+	int32 Id = 1463 [json_name = "Id"];
+	int_array NeighbouringScene = 854 [json_name = "NeighbouringScene"];
+	int_array Portal = 1218 [json_name = "Portal"];
 }
 
 message NeighbouringSceneTableMgr {
-  map<int32, bokura.NeighbouringSceneTableBase> datas = 1;
+	map<int32, NeighbouringSceneTableBase> datas = 1 [json_name = "datas"];
 }
-

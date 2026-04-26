@@ -1,0 +1,27 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Airona",
+    "PhotoCallCondition": [],
+    "NpcId": [
+      1008800,
+      1011901
+    ]
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Tina",
+    "PhotoCallCondition": [],
+    "NpcId": [
+      1011902
+    ]
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Fafala",
+    "PhotoCallCondition": [],
+    "NpcId": [
+      1011903
+    ]
+  }
+}

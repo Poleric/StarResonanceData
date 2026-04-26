@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message RechargeData {
-  int64 accumulate_amount = 1;
-  int64 last_recharge_time = 2;
-  int64 last_recharge_amount = 3;
-  int64 last_diamond_amount = 4;
-}
+package zproto;
 
+message RechargeData {
+	int64 accumulateAmount = 1 [json_name = "accumulateAmount"];
+	int64 lastRechargeTime = 2 [json_name = "lastRechargeTime"];
+	int64 lastRechargeAmount = 3 [json_name = "lastRechargeAmount"];
+	int64 lastDiamondAmount = 4 [json_name = "lastDiamondAmount"];
+}

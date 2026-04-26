@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "stru_mahjong_award_item.proto";
+
+package zproto;
+
+message MahjongFinalSettleInfo {
+	int64 PlayerId = 1 [json_name = "PlayerId"];
+	int32 Coin = 2 [json_name = "Coin"];
+	int32 ScoringPoint = 3 [json_name = "ScoringPoint"];
+	int32 RankScore = 4 [json_name = "RankScore"];
+	int32 CoinChange = 5 [json_name = "CoinChange"];
+	repeated MahjongAwardItem clientMahjongAwardItem = 6 [json_name = "clientMahjongAwardItem"];
+}

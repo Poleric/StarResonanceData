@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message GetNearTeamListRequest {
-  int64 map_id = 2;
-  bool is_refresh = 3;
-  int32 member_count = 4;
-  bool ignore_self_talent = 5;
+	int64 mapId = 2 [json_name = "mapId"];
+	bool isRefresh = 3 [json_name = "isRefresh"];
+	int32 memberCount = 4 [json_name = "memberCount"];
+	bool IgnoreSelfTalent = 5 [json_name = "IgnoreSelfTalent"];
 }
-

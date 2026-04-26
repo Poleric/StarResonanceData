@@ -39,9 +39,29 @@
     "UpperLlimit": 0,
     "SpecialHint": []
   },
+  "5": {
+    "Id": 5,
+    "Name": "Prize Pool Points",
+    "Package": 1,
+    "Classify": 15,
+    "SortId": 1103,
+    "PreviewId": 102,
+    "UpperLlimit": 0,
+    "SpecialHint": []
+  },
   "31": {
     "Id": 31,
     "Name": "Life Skills Cultivation",
+    "Package": 102,
+    "Classify": 0,
+    "SortId": 0,
+    "PreviewId": 102,
+    "UpperLlimit": 0,
+    "SpecialHint": []
+  },
+  "40": {
+    "Id": 40,
+    "Name": "Season EXP",
     "Package": 102,
     "Classify": 0,
     "SortId": 0,
@@ -292,6 +312,30 @@
     "Classify": 15,
     "SortId": 1103,
     "PreviewId": 102,
+    "UpperLlimit": 0,
+    "SpecialHint": [
+      4
+    ]
+  },
+  "124": {
+    "Id": 124,
+    "Name": "Phantom Factor",
+    "Package": 1,
+    "Classify": 13,
+    "SortId": 1240,
+    "PreviewId": 105,
+    "UpperLlimit": 0,
+    "SpecialHint": [
+      4
+    ]
+  },
+  "125": {
+    "Id": 125,
+    "Name": "Gameplay Items",
+    "Package": 1,
+    "Classify": 13,
+    "SortId": 1104,
+    "PreviewId": 101,
     "UpperLlimit": 0,
     "SpecialHint": [
       4
@@ -668,7 +712,7 @@
   },
   "502": {
     "Id": 502,
-    "Name": "Talent Points",
+    "Name": "Talent Point",
     "Package": 102,
     "Classify": 0,
     "SortId": 0,
@@ -860,7 +904,7 @@
   },
   "905": {
     "Id": 905,
-    "Name": "Space Background",
+    "Name": "Background",
     "Package": 9,
     "Classify": 0,
     "SortId": 0,
@@ -922,6 +966,26 @@
     "Id": 1113,
     "Name": "Pollen",
     "Package": 11,
+    "Classify": 0,
+    "SortId": 0,
+    "PreviewId": 0,
+    "UpperLlimit": 0,
+    "SpecialHint": []
+  },
+  "1211": {
+    "Id": 1211,
+    "Name": "Slumberdream Mask",
+    "Package": 1,
+    "Classify": 0,
+    "SortId": 0,
+    "PreviewId": 0,
+    "UpperLlimit": 0,
+    "SpecialHint": []
+  },
+  "1212": {
+    "Id": 1212,
+    "Name": "Slumberdream Charm",
+    "Package": 1,
     "Classify": 0,
     "SortId": 0,
     "PreviewId": 0,

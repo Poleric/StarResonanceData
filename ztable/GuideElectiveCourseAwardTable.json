@@ -1,0 +1,676 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Num": 1,
+    "Limit": 0,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24003010
+      ],
+      [
+        2,
+        24003020
+      ],
+      [
+        4,
+        24003040
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500216,
+    "ShowType": 1,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_refinebox"
+      ],
+      [
+        "2",
+        "item_icons_cuisine56"
+      ],
+      [
+        "3",
+        "item_icons_fashionbox251"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1022005
+      ],
+      [
+        1040071
+      ],
+      [
+        1040438,
+        1040439
+      ]
+    ]
+  },
+  "1002": {
+    "Id": 1002,
+    "Num": 2,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24003010
+      ],
+      [
+        2,
+        24003020
+      ],
+      [
+        4,
+        24003050
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500216,
+    "ShowType": 1,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_refinebox"
+      ],
+      [
+        "2",
+        "item_icons_cuisine56"
+      ],
+      [
+        "3",
+        "item_icons_fashionbox252"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1022005
+      ],
+      [
+        1040071
+      ],
+      [
+        1040440
+      ]
+    ]
+  },
+  "1003": {
+    "Id": 1003,
+    "Num": 3,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24003010
+      ],
+      [
+        2,
+        24003020
+      ],
+      [
+        4,
+        24003060
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500216,
+    "ShowType": 1,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_refinebox"
+      ],
+      [
+        "2",
+        "item_icons_cuisine56"
+      ],
+      [
+        "3",
+        "item_icons_fashionbox253"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1022005
+      ],
+      [
+        1040071
+      ],
+      [
+        1040441
+      ]
+    ]
+  },
+  "1004": {
+    "Id": 1004,
+    "Num": 4,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24003010
+      ],
+      [
+        2,
+        24003020
+      ],
+      [
+        4,
+        24003030
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500216,
+    "ShowType": 1,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_refinebox"
+      ],
+      [
+        "2",
+        "item_icons_cuisine56"
+      ],
+      [
+        "3",
+        "item_icons_seasonmaterial06"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1022005
+      ],
+      [
+        1040071
+      ],
+      [
+        1040144
+      ]
+    ]
+  },
+  "1005": {
+    "Id": 1005,
+    "Num": 5,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24003010
+      ],
+      [
+        2,
+        24003020
+      ],
+      [
+        4,
+        24003030
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500216,
+    "ShowType": 1,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_refinebox"
+      ],
+      [
+        "2",
+        "item_icons_cuisine56"
+      ],
+      [
+        "3",
+        "item_icons_seasonmaterial06"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1022005
+      ],
+      [
+        1040071
+      ],
+      [
+        1040144
+      ]
+    ]
+  },
+  "1006": {
+    "Id": 1006,
+    "Num": 6,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24003080
+      ],
+      [
+        2,
+        24003090
+      ],
+      [
+        4,
+        24003100
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500216,
+    "ShowType": 1,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_refinebox"
+      ],
+      [
+        "2",
+        "item_icons_cuisine56"
+      ],
+      [
+        "3",
+        "item_icons_seasonmaterial06"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1022005
+      ],
+      [
+        1040071
+      ],
+      [
+        1040144
+      ]
+    ]
+  },
+  "1007": {
+    "Id": 1007,
+    "Num": 7,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24003080
+      ],
+      [
+        2,
+        24003090
+      ],
+      [
+        4,
+        24003070
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500216,
+    "ShowType": 1,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_refinebox"
+      ],
+      [
+        "2",
+        "item_icons_cuisine56"
+      ],
+      [
+        "3",
+        "item_icons_bindinggashacoin"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1022005
+      ],
+      [
+        1040071
+      ],
+      [
+        1070030
+      ]
+    ]
+  },
+  "2001": {
+    "Id": 2001,
+    "Num": 1,
+    "Limit": 0,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24007010
+      ],
+      [
+        2,
+        24007020
+      ],
+      [
+        4,
+        24007040
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500228,
+    "ShowType": 2,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_cuisine56"
+      ],
+      [
+        "2",
+        "item_icons_refinebox"
+      ],
+      [
+        "3",
+        "item_icons_fashionbox251"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1040144
+      ],
+      [
+        1040157
+      ],
+      [
+        1040438,
+        1040439
+      ]
+    ]
+  },
+  "2002": {
+    "Id": 2002,
+    "Num": 2,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24007010
+      ],
+      [
+        2,
+        24007020
+      ],
+      [
+        4,
+        24007050
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500228,
+    "ShowType": 2,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_cuisine56"
+      ],
+      [
+        "2",
+        "item_icons_refinebox"
+      ],
+      [
+        "3",
+        "item_icons_fashionbox252"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1040144
+      ],
+      [
+        1040157
+      ],
+      [
+        1040440
+      ]
+    ]
+  },
+  "2003": {
+    "Id": 2003,
+    "Num": 3,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24007010
+      ],
+      [
+        2,
+        24007020
+      ],
+      [
+        4,
+        24007060
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500228,
+    "ShowType": 2,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_cuisine56"
+      ],
+      [
+        "2",
+        "item_icons_refinebox"
+      ],
+      [
+        "3",
+        "item_icons_fashionbox253"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1040144
+      ],
+      [
+        1040157
+      ],
+      [
+        1040441
+      ]
+    ]
+  },
+  "2004": {
+    "Id": 2004,
+    "Num": 4,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24007010
+      ],
+      [
+        2,
+        24007020
+      ],
+      [
+        4,
+        24007030
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500228,
+    "ShowType": 2,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_cuisine56"
+      ],
+      [
+        "2",
+        "item_icons_refinebox"
+      ],
+      [
+        "3",
+        "item_icons_seasonmaterial06"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1040144
+      ],
+      [
+        1040157
+      ],
+      [
+        1220004
+      ]
+    ]
+  },
+  "2005": {
+    "Id": 2005,
+    "Num": 5,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24007010
+      ],
+      [
+        2,
+        24007020
+      ],
+      [
+        4,
+        24007030
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500228,
+    "ShowType": 2,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_cuisine56"
+      ],
+      [
+        "2",
+        "item_icons_refinebox"
+      ],
+      [
+        "3",
+        "item_icons_seasonmaterial06"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1040144
+      ],
+      [
+        1040157
+      ],
+      [
+        1220004
+      ]
+    ]
+  },
+  "2006": {
+    "Id": 2006,
+    "Num": 6,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24007010
+      ],
+      [
+        2,
+        24007020
+      ],
+      [
+        4,
+        24007030
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500228,
+    "ShowType": 2,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_cuisine56"
+      ],
+      [
+        "2",
+        "item_icons_refinebox"
+      ],
+      [
+        "3",
+        "item_icons_seasonmaterial06"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1040144
+      ],
+      [
+        1040157
+      ],
+      [
+        1220004
+      ]
+    ]
+  },
+  "2007": {
+    "Id": 2007,
+    "Num": 7,
+    "Limit": 4,
+    "TargetNum": 6,
+    "Target": [
+      [
+        1,
+        24007010
+      ],
+      [
+        2,
+        24007020
+      ],
+      [
+        4,
+        24007070
+      ]
+    ],
+    "Type": [],
+    "FunctionId": 500228,
+    "ShowType": 2,
+    "ShowPic": [
+      [
+        "1",
+        "item_icons_cuisine56"
+      ],
+      [
+        "2",
+        "item_icons_refinebox"
+      ],
+      [
+        "3",
+        "item_icons_bindinggashacoin"
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1040144
+      ],
+      [
+        1040157
+      ],
+      [
+        1070030
+      ]
+    ]
+  }
+}

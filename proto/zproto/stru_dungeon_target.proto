@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dungeon_target_data.proto";
 import "stru_dirty_mask.proto";
 
-message DungeonTarget {
-  map<int32, zproto.DungeonTargetData> target_data = 1;
-}
+package zproto;
 
+message DungeonTarget {
+	map<int32, DungeonTargetData> targetData = 1 [json_name = "targetData"];
+}

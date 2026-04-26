@@ -1,19 +1,18 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message ResolveTableBase {
-  int32 id = 1463;
-  int32 item_id = 609;
-  string item_name = 1477;
-  int_array get_item = 859;
-  int32 function_id = 149;
-  int32 limit = 640;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 ItemID = 609 [json_name = "ItemID"];
+	string ItemName = 1477 [json_name = "ItemName"];
+	int_array GetItem = 859 [json_name = "GetItem"];
+	int32 FunctionId = 149 [json_name = "FunctionId"];
+	int32 Limit = 640 [json_name = "Limit"];
 }
 
 message ResolveTableMgr {
-  map<int32, bokura.ResolveTableBase> datas = 1;
+	map<int32, ResolveTableBase> datas = 1 [json_name = "datas"];
 }
-

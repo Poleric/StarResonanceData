@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_questionnaire_info.proto";
 
-message GetQuestionnaireListReply {
-  repeated zproto.QuestionnaireInfo questionnaires = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message GetQuestionnaireListReply {
+	repeated QuestionnaireInfo questionnaires = 1 [json_name = "questionnaires"];
+	EErrorCode errCode = 2 [json_name = "errCode"];
+}

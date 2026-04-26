@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message MahjongMatchRequest {
+	int32 GameType = 1 [json_name = "GameType"];
+}

@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EDungeonPlayType {
+	DungeonPlayTypeNull = 0;
+	DungeonPlayTypeNormal = 1;
+	DungeonPlayTypeLinear = 2;
+	DungeonPlayTypePlanetMemory = 3;
+	DungeonPlayTypePlanetMemoryLoop = 4;
+	DungeonPlayTypeParkour = 5;
+	DungeonPlayTypeFlux = 6;
+	DungeonThunderFlux = 7;
+	DungeonPlayTypeHeroNormal = 8;
+	DungeonPlayTypeHeroChallenge = 9;
+	DungeonPlayTypeCommunity = 10;
+	DungeonPlayTypeHomeland = 11;
+	DungeonPlayTypeUnionScene = 12;
+	DungeonPlayTypeUnionPlay = 13;
+	DungeonPlayTypeWorldBoss = 15;
+	DungeonPlayWeeklyTower = 16;
+	DungeonPlayTypeMasterMode = 17;
+	DungeonPlayTypeRaid = 18;
+	DungeonPlayTypeRogue = 19;
+	DungeonPlayTypeHideSeek = 20;
+}

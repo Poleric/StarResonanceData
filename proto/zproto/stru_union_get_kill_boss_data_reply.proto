@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_union_raid_kill_boss_record.proto";
 
-message UnionGetKillBossDataReply {
-  int32 kill_cnt = 1;
-  repeated zproto.UnionRaidKillBossRecord kill_boss_records = 2;
-  zproto.EErrorCode err_code = 3;
-}
+package zproto;
 
+message UnionGetKillBossDataReply {
+	int32 killCnt = 1 [json_name = "killCnt"];
+	repeated UnionRaidKillBossRecord killBossRecords = 2 [json_name = "killBossRecords"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

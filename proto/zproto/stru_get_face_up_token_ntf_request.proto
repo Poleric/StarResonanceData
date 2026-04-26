@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_tmp_token_result.proto";
 
-message GetFaceUpTokenNtfRequest {
-  zproto.EErrorCode err_code = 1;
-  zproto.TmpTokenResult result = 2;
-  string short_guid = 3;
-}
+package zproto;
 
+message GetFaceUpTokenNtfRequest {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	TmpTokenResult result = 2 [json_name = "result"];
+	string shortGuid = 3 [json_name = "shortGuid"];
+}

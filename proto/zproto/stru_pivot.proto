@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_pivot_info.proto";
 import "stru_dirty_mask.proto";
 
-message Pivot {
-  map<int32, zproto.PivotInfo> pivots = 1;
-  map<int32, zproto.PivotInfo> map_pivots = 2;
-}
+package zproto;
 
+message Pivot {
+	map<int32, PivotInfo> pivots = 1 [json_name = "pivots"];
+	map<int32, PivotInfo> mapPivots = 2 [json_name = "mapPivots"];
+}

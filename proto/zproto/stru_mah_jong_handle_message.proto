@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+message MahJongHandleMessage {
+	int32 Handle_ = 1 [json_name = "Handle"];
+	int32 HandleCard = 2 [json_name = "HandleCard"];
+	repeated int32 Cards = 3 [json_name = "Cards"];
+	int32 DiscardIndex = 4 [json_name = "DiscardIndex"];
+}

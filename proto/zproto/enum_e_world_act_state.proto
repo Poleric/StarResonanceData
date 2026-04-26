@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EWorldActState {
+	WorldActStateNull = 0;
+	WorldActStateWaiting = 1;
+	WorldActStateReady = 2;
+	WorldActStatePlaying = 3;
+	WorldActStateEnd = 4;
+	WorldActStateSettlement = 5;
+}

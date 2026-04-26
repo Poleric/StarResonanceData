@@ -1,17 +1,16 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_profession_skill_info.proto";
 import "stru_dirty_mask.proto";
 
-message ProfessionInfo {
-  int32 profession_id = 1;
-  int32 level = 2;
-  int64 experience = 3;
-  map<int32, zproto.ProfessionSkillInfo> skill_info_map = 4;
-  repeated int32 active_skill_ids = 6;
-  map<int32, int32> slot_skill_info_map = 7;
-  int32 use_skin_id = 8;
-}
+package zproto;
 
+message ProfessionInfo {
+	int32 professionId = 1 [json_name = "professionId"];
+	int32 level = 2 [json_name = "level"];
+	int64 experience = 3 [json_name = "experience"];
+	map<int32, ProfessionSkillInfo> skillInfoMap = 4 [json_name = "skillInfoMap"];
+	repeated int32 activeSkillIds = 6 [json_name = "activeSkillIds"];
+	map<int32, int32> slotSkillInfoMap = 7 [json_name = "slotSkillInfoMap"];
+	int32 UseSkinId = 8 [json_name = "UseSkinId"];
+}

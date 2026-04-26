@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message MonthCardItem {
-  int32 item_id = 1;
-  int64 create_time = 2;
-}
+package zproto;
 
+message MonthCardItem {
+	int32 itemId = 1 [json_name = "itemId"];
+	int64 createTime = 2 [json_name = "createTime"];
+}

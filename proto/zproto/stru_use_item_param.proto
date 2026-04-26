@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message UseItemParam {
-  int64 item_uuid = 1;
-  string param = 2;
-  map<uint32, uint32> select = 3;
-  int32 use_num = 4;
+	int64 itemUuid = 1 [json_name = "itemUuid"];
+	string param = 2 [json_name = "param"];
+	map<uint32, uint32> select = 3 [json_name = "select"];
+	int32 useNum = 4 [json_name = "useNum"];
 }
-

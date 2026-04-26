@@ -1,14 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 
-message WorldBossInfo {
-  int32 boss_stage = 1;
-  int32 boss_killed_num = 2;
-  int32 uuid = 3;
-  int32 boss_cfg_id = 4;
-  zproto.EErrorCode err_code = 5;
-}
+package zproto;
 
+message WorldBossInfo {
+	int32 bossStage = 1 [json_name = "bossStage"];
+	int32 bossKilledNum = 2 [json_name = "bossKilledNum"];
+	int32 uuid = 3 [json_name = "uuid"];
+	int32 bossCfgId = 4 [json_name = "bossCfgId"];
+	EErrorCode errCode = 5 [json_name = "errCode"];
+}

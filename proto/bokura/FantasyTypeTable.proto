@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FantasyTypeTableBase {
-  int32 id = 1463;
-  string des = 266;
-  mlstring name = 439;
-  string type_tips = 209;
-  string type_show = 52;
+	int32 Id = 1463 [json_name = "Id"];
+	string Des = 266 [json_name = "Des"];
+	mlstring Name = 439 [json_name = "Name"];
+	string TypeTips = 209 [json_name = "TypeTips"];
+	string TypeShow = 52 [json_name = "TypeShow"];
 }
 
 message FantasyTypeTableMgr {
-  map<int32, bokura.FantasyTypeTableBase> datas = 1;
+	map<int32, FantasyTypeTableBase> datas = 1 [json_name = "datas"];
 }
-

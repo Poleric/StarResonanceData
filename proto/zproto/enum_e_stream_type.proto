@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EStreamType {
+	StreamTypeDeltaDirtySafe = 0;
+	StreamTypeDeltaDirty = 1;
+	StreamTypeFullDirty = 2;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "stru_hide_seek_skill_slot_info.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message HideSeekInfo {
+	int32 weaponId = 1 [json_name = "weaponId"];
+	map<int32, bool> pursuerWeaponMap = 2 [json_name = "pursuerWeaponMap"];
+	map<int32, HideSeekSkillSlotInfo> pursuerSkillSlotInfo = 3 [json_name = "pursuerSkillSlotInfo"];
+	map<int32, HideSeekSkillSlotInfo> hiderSkillSlotInfo = 4 [json_name = "hiderSkillSlotInfo"];
+}

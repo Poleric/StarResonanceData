@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message UnionData {
-  int64 unionid = 1;
-  string name = 2;
-  int32 union_hunt_rank = 3;
-}
+package zproto;
 
+message UnionData {
+	int64 unionid = 1 [json_name = "unionid"];
+	string name = 2 [json_name = "name"];
+	int32 unionHuntRank = 3 [json_name = "unionHuntRank"];
+}

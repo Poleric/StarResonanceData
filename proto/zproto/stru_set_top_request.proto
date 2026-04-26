@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message SetTopRequest {
-  int64 char_id = 2;
-  bool is_top = 3;
+	int64 charId = 2 [json_name = "charId"];
+	bool isTop = 3 [json_name = "isTop"];
 }
-

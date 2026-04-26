@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_shop_item_buy_limit.proto";
 import "enum_shop_limit_buy_type.proto";
 
-message ShopItemInfo {
-  int32 item_id = 1;
-  int64 start_time = 2;
-  int64 end_time = 3;
-  zproto.ShopLimitBuyType limit_buy_type = 4;
-  map<int32, zproto.ShopItemBuyLimit> buy_count = 5;
-}
+package zproto;
 
+message ShopItemInfo {
+	int32 itemId = 1 [json_name = "itemId"];
+	int64 startTime = 2 [json_name = "startTime"];
+	int64 endTime = 3 [json_name = "endTime"];
+	ShopLimitBuyType limitBuyType = 4 [json_name = "limitBuyType"];
+	map<int32, ShopItemBuyLimit> buyCount = 5 [json_name = "buyCount"];
+}

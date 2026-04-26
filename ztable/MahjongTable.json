@@ -1,0 +1,191 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "初始牌面(卡通)",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 1,
+    "Model": [
+      [
+        "mahjong/textures/t_mahjong_skin01_d"
+      ]
+    ],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": "ui/atlas/mahjong_icon_default_toon/"
+  },
+  "1001": {
+    "Id": 1001,
+    "Name": "初始牌背(卡通)",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 2,
+    "Model": [
+      [
+        "mahjong/textures/t_mahjong_basicskin_01_d"
+      ]
+    ],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": "ui/atlas/mahjong_icon_default_toon/"
+  },
+  "2001": {
+    "Id": 2001,
+    "Name": "初始立直棒",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 3,
+    "Model": [
+      [
+        "mahjong/prefabs/default/dianbang/skm_mahjong_dianbang_a"
+      ]
+    ],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": ""
+  },
+  "3001": {
+    "Id": 3001,
+    "Name": "初始胡牌特效",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 4,
+    "Model": [],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": ""
+  },
+  "4001": {
+    "Id": 4001,
+    "Name": "初始立直特效",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 5,
+    "Model": [],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": ""
+  },
+  "5001": {
+    "Id": 5001,
+    "Name": "初始鸣牌指示",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 6,
+    "Model": [],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": ""
+  },
+  "6001": {
+    "Id": 6001,
+    "Name": "初始立直音乐",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 7,
+    "Model": [],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": ""
+  },
+  "7001": {
+    "Id": 7001,
+    "Name": "初始对局音乐",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 8,
+    "Model": [],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": ""
+  },
+  "8001": {
+    "Id": 8001,
+    "Name": "初始桌布",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 9,
+    "Model": [
+      [
+        "mahjong/materials/mi_mahjong_table_a"
+      ]
+    ],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": ""
+  },
+  "9001": {
+    "Id": 9001,
+    "Name": "初始出牌手",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 10,
+    "Model": [
+      [
+        "1",
+        "mahjong/prefabs/default/hand/mahjong_default_hand"
+      ],
+      [
+        "2",
+        "mahjong/prefabs/default/hand/ch_item_fhead01_01"
+      ]
+    ],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": ""
+  },
+  "2": {
+    "Id": 2,
+    "Name": "初始牌面(真实)",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 1,
+    "Model": [
+      [
+        "mahjong/textures/t_mahjong_basicskin_02_d"
+      ]
+    ],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": "ui/atlas/mahjong_icon_default_real/"
+  },
+  "1002": {
+    "Id": 1002,
+    "Name": "初始牌背(真实)",
+    "Des": "默认参数",
+    "Condition": [],
+    "Type": 2,
+    "Model": [
+      [
+        "mahjong/textures/t_mahjong_basicskin_01_d"
+      ]
+    ],
+    "Action": "",
+    "Effect": [],
+    "SoundEffects": "",
+    "Audio": "",
+    "Path": "ui/atlas/mahjong_icon_default_real/"
+  }
+}

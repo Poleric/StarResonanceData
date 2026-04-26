@@ -1,12 +1,13 @@
 syntax = "proto3";
 
-package zproto;
-
+import "stru_community_build_life_profession_infos.proto";
 import "enum_e_error_code.proto";
 import "stru_homeland_base_info.proto";
 
-message CommunityGetHomeLandBaseInfoReply {
-  zproto.HomelandBaseInfo homeland_base_info = 1;
-  zproto.EErrorCode err_code = 2;
-}
+package zproto;
 
+message CommunityGetHomeLandBaseInfoReply {
+	HomelandBaseInfo homelandBaseInfo = 1 [json_name = "homelandBaseInfo"];
+	CommunityBuildLifeProfessionInfos lifeProfessionInfos = 2 [json_name = "lifeProfessionInfos"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

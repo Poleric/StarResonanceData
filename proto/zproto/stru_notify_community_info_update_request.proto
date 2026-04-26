@@ -1,23 +1,22 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_community_bulletin_board.proto";
 import "stru_community_invitation_info.proto";
 import "stru_community_player_info.proto";
 import "stru_community_quit_cohabitant.proto";
 
-message NotifyCommunityInfoUpdateRequest {
-  int64 house_owner_char_id = 1;
-  int64 homeland_id = 2;
-  repeated int64 remove_groups = 3;
-  map<int64, zproto.CommunityBulletinBoard> add_bulletin_boards = 4;
-  repeated int64 remove_bulletin_boards = 5;
-  map<int64, zproto.CommunityPlayerInfo> add_cohabitant = 6;
-  repeated int64 remove_cohabitant = 7;
-  map<int64, zproto.CommunityInvitationInfo> add_invitation_list = 8;
-  repeated int64 remove_invitation_list = 9;
-  repeated zproto.CommunityQuitCohabitant add_quit_cohabitant = 10;
-  repeated zproto.CommunityQuitCohabitant remove_quit_cohabitant = 11;
-}
+package zproto;
 
+message NotifyCommunityInfoUpdateRequest {
+	int64 houseOwnerCharId = 1 [json_name = "houseOwnerCharId"];
+	int64 homelandId = 2 [json_name = "homelandId"];
+	repeated int64 removeGroups = 3 [json_name = "removeGroups"];
+	map<int64, CommunityBulletinBoard> addBulletinBoards = 4 [json_name = "addBulletinBoards"];
+	repeated int64 removeBulletinBoards = 5 [json_name = "removeBulletinBoards"];
+	map<int64, CommunityPlayerInfo> addCohabitant = 6 [json_name = "addCohabitant"];
+	repeated int64 removeCohabitant = 7 [json_name = "removeCohabitant"];
+	map<int64, CommunityInvitationInfo> addInvitationList = 8 [json_name = "addInvitationList"];
+	repeated int64 removeInvitationList = 9 [json_name = "removeInvitationList"];
+	repeated CommunityQuitCohabitant addQuitCohabitant = 10 [json_name = "addQuitCohabitant"];
+	repeated CommunityQuitCohabitant removeQuitCohabitant = 11 [json_name = "removeQuitCohabitant"];
+}

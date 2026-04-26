@@ -1,15 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_user_summary_data.proto";
 
-message SocialInfo {
-  string remark = 1;
-  bool remind = 2;
-  bool top = 3;
-  int32 group_id = 4;
-  zproto.UserSummaryData social_data = 5;
-  int64 last_refresh_time = 6;
-}
+package zproto;
 
+message SocialInfo {
+	string remark = 1 [json_name = "remark"];
+	bool remind = 2 [json_name = "remind"];
+	bool top = 3 [json_name = "top"];
+	int32 groupId = 4 [json_name = "groupId"];
+	UserSummaryData socialData = 5 [json_name = "socialData"];
+	int64 lastRefreshTime = 6 [json_name = "lastRefreshTime"];
+}

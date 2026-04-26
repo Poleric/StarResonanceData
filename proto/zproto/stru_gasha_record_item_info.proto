@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message GashaRecordItemInfo {
-  int32 config_id = 1;
-  uint32 count = 2;
-  int64 time = 3;
-  int32 quality = 4;
+	int32 configId = 1 [json_name = "configId"];
+	uint32 count = 2 [json_name = "count"];
+	int64 time = 3 [json_name = "time"];
+	int32 quality = 4 [json_name = "quality"];
 }
-

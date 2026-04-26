@@ -115,9 +115,9 @@
     "PlotCharactersGender": "通用nappo",
     "PlotCharactersAge": "通用nappo",
     "PlotCharactersContent": "通用nappo",
-    "CutDialogueIdle": "",
-    "IdleAnimationClip": "",
-    "IdleEmo": 0
+    "CutDialogueIdle": "as_f_base_idle",
+    "IdleAnimationClip": "as_f_base_skt_idle01",
+    "IdleEmo": 301
   },
   "13": {
     "Id": 13,
@@ -125,8 +125,8 @@
     "PlotCharactersGender": "通用猫",
     "PlotCharactersAge": "通用猫",
     "PlotCharactersContent": "通用猫",
-    "CutDialogueIdle": "",
-    "IdleAnimationClip": "",
+    "CutDialogueIdle": "as_mon_mao_idle",
+    "IdleAnimationClip": "as_mon_mao_idle",
     "IdleEmo": 0
   },
   "14": {
@@ -135,8 +135,8 @@
     "PlotCharactersGender": "通用狗",
     "PlotCharactersAge": "通用狗",
     "PlotCharactersContent": "通用狗",
-    "CutDialogueIdle": "",
-    "IdleAnimationClip": "",
+    "CutDialogueIdle": "as_mon_gou_idle",
+    "IdleAnimationClip": "as_mon_gou_idle",
     "IdleEmo": 0
   },
   "15": {
@@ -145,8 +145,8 @@
     "PlotCharactersGender": "通用鸡",
     "PlotCharactersAge": "通用鸡",
     "PlotCharactersContent": "通用鸡",
-    "CutDialogueIdle": "",
-    "IdleAnimationClip": "",
+    "CutDialogueIdle": "as_mon_ji_idle",
+    "IdleAnimationClip": "as_mon_ji_idle",
     "IdleEmo": 0
   },
   "16": {
@@ -255,7 +255,7 @@
     "PlotCharactersGender": "男",
     "PlotCharactersAge": "24岁",
     "PlotCharactersContent": "布法利亚教团护卫者队长。清冷、忧郁、神秘的教团护卫者",
-    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "CutDialogueIdle": "as_wpnpc_m_base_boyce_sidle",
     "IdleAnimationClip": "as_wpnpc_m_base_boyce_skt_idle",
     "IdleEmo": 622
   },
@@ -265,7 +265,7 @@
     "PlotCharactersGender": "设定中",
     "PlotCharactersAge": "设定中",
     "PlotCharactersContent": "设定中",
-    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "CutDialogueIdle": "as_wpnpc_f_base_daya_sidle",
     "IdleAnimationClip": "as_wpnpc_f_base_daya_skt_idle",
     "IdleEmo": 637
   },
@@ -315,7 +315,7 @@
     "PlotCharactersGender": "女",
     "PlotCharactersAge": "设定中",
     "PlotCharactersContent": "设定中",
-    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "CutDialogueIdle": "as_wpnpc_f_base_farfara_sidle",
     "IdleAnimationClip": "as_wpnpc_f_base_farfara_skt_idle",
     "IdleEmo": 625
   },
@@ -397,14 +397,14 @@
     "PlotCharactersContent": "黯影军团士兵",
     "CutDialogueIdle": "as_npc_m_youth_idle",
     "IdleAnimationClip": "as_npc_m_youth_skt_idle",
-    "IdleEmo": 0
+    "IdleEmo": 150
   },
   "308": {
     "Id": 308,
     "PlotCharactersName": "拉布",
     "PlotCharactersGender": "女",
     "PlotCharactersAge": "未知",
-    "PlotCharactersContent": "黯影军团士兵",
+    "PlotCharactersContent": "海风节吉祥物玩偶",
     "CutDialogueIdle": "as_f_base_skt_catidle",
     "IdleAnimationClip": "as_f_base_skt_catidle",
     "IdleEmo": 0
@@ -414,7 +414,7 @@
     "PlotCharactersName": "维塔",
     "PlotCharactersGender": "男",
     "PlotCharactersAge": "未知",
-    "PlotCharactersContent": "黯影军团士兵",
+    "PlotCharactersContent": "海风节吉祥物玩偶",
     "CutDialogueIdle": "as_f_base_skt_catidle",
     "IdleAnimationClip": "as_f_base_skt_catidle",
     "IdleEmo": 0
@@ -467,7 +467,7 @@
     "PlotCharactersContent": "班哈尔特普通士兵",
     "CutDialogueIdle": "as_npc_m_youth_idle",
     "IdleAnimationClip": "as_npc_m_youth_skt_idle",
-    "IdleEmo": 0
+    "IdleEmo": 150
   },
   "404": {
     "Id": 404,
@@ -487,7 +487,7 @@
     "PlotCharactersContent": "黑石军团士兵",
     "CutDialogueIdle": "as_npc_m_youth_idle",
     "IdleAnimationClip": "as_npc_m_youth_skt_idle",
-    "IdleEmo": 0
+    "IdleEmo": 150
   },
   "602": {
     "Id": 602,
@@ -497,7 +497,37 @@
     "PlotCharactersContent": "神官",
     "CutDialogueIdle": "as_npc_m_youth_priestidle",
     "IdleAnimationClip": "as_npc_f_youth_skt_idle",
-    "IdleEmo": 0
+    "IdleEmo": 150
+  },
+  "603": {
+    "Id": 603,
+    "PlotCharactersName": "莉莉",
+    "PlotCharactersGender": "女",
+    "PlotCharactersAge": "幼年",
+    "PlotCharactersContent": "拉尔帕尔村小女孩",
+    "CutDialogueIdle": "as_npc_f_child_idle",
+    "IdleAnimationClip": "as_npc_f_child_skt_idle",
+    "IdleEmo": 167
+  },
+  "604": {
+    "Id": 604,
+    "PlotCharactersName": "阿尔方斯",
+    "PlotCharactersGender": "男",
+    "PlotCharactersAge": "老年",
+    "PlotCharactersContent": "拉尔帕尔村村长",
+    "CutDialogueIdle": "as_npc_m_elder_idle",
+    "IdleAnimationClip": "as_npc_m_elder_skt_idle",
+    "IdleEmo": 203
+  },
+  "605": {
+    "Id": 605,
+    "PlotCharactersName": "霍尔根",
+    "PlotCharactersGender": "男",
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "教团守卫",
+    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "IdleAnimationClip": "as_npc_f_youth_skt_idle",
+    "IdleEmo": 159
   },
   "701": {
     "Id": 701,
@@ -535,6 +565,16 @@
     "PlotCharactersGender": "男",
     "PlotCharactersAge": "35岁",
     "PlotCharactersContent": "平民矿工，嘴硬心软",
+    "CutDialogueIdle": "as_npc_m_middle_idle",
+    "IdleAnimationClip": "as_npc_m_middle_skt_idle",
+    "IdleEmo": 195
+  },
+  "705": {
+    "Id": 705,
+    "PlotCharactersName": "纳维",
+    "PlotCharactersGender": "男",
+    "PlotCharactersAge": "25岁",
+    "PlotCharactersContent": "敏感懦弱，优柔寡断的普通矿工",
     "CutDialogueIdle": "as_npc_m_middle_idle",
     "IdleAnimationClip": "as_npc_m_middle_skt_idle",
     "IdleEmo": 195

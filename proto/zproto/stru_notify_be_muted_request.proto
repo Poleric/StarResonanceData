@@ -3,7 +3,7 @@ syntax = "proto3";
 package zproto;
 
 message NotifyBeMutedRequest {
-  bool is_ban = 1;
-  int64 end_timestamp = 2;
+	bool isBan = 1 [json_name = "isBan"];
+	int64 endTimestamp = 2 [json_name = "endTimestamp"];
+	int32 banReason = 3 [json_name = "banReason"];
 }
-

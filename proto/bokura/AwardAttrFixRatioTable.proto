@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message AwardAttrFixRatioTableBase {
-  int32 id = 1463;
-  int32 attr_id = 1307;
-  int32 type = 673;
-  int32 item_type = 809;
-  int_table item_params = 1953;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 AttrId = 1307 [json_name = "AttrId"];
+	int32 Type = 673 [json_name = "Type"];
+	int32 ItemType = 809 [json_name = "ItemType"];
+	int_table ItemParams = 1953 [json_name = "ItemParams"];
 }
 
 message AwardAttrFixRatioTableMgr {
-  map<int32, bokura.AwardAttrFixRatioTableBase> datas = 1;
+	map<int32, AwardAttrFixRatioTableBase> datas = 1 [json_name = "datas"];
 }
-

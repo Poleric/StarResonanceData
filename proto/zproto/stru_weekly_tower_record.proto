@@ -1,13 +1,14 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message WeeklyTowerRecord {
-  int64 begin_time = 1;
-  int32 max_climb_up_id = 2;
-  repeated int32 award_climb_up_ids = 3;
-  int32 rule_id = 4;
-}
+package zproto;
 
+message WeeklyTowerRecord {
+	int64 beginTime = 1 [json_name = "beginTime"];
+	int32 maxClimbUpId = 2 [json_name = "maxClimbUpId"];
+	repeated int32 awardClimbUpIds = 3 [json_name = "awardClimbUpIds"];
+	int32 ruleId = 4 [json_name = "ruleId"];
+	int32 maxJumpAwardClimbUpId = 5 [json_name = "maxJumpAwardClimbUpId"];
+	int32 lastMaxClimbUpId = 6 [json_name = "lastMaxClimbUpId"];
+}

@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_int_vec3.proto";
 
-message ColorData {
-  map<int32, zproto.IntVec3> color_dict = 1;
-  map<int32, bool> reset_dict = 2;
-  map<int32, zproto.IntVec3> attachment_color = 3;
-  map<int32, bool> attachment_reset = 4;
-}
+package zproto;
 
+message ColorData {
+	map<int32, IntVec3> colorDict = 1 [json_name = "colorDict"];
+	map<int32, bool> resetDict = 2 [json_name = "resetDict"];
+	map<int32, IntVec3> attachmentColor = 3 [json_name = "attachmentColor"];
+	map<int32, bool> attachmentReset = 4 [json_name = "attachmentReset"];
+}

@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_session_info.proto";
 
-message NotifyTeamMemVoiceIdChangeRequest {
-  zproto.SessionInfo session = 1;
-  int64 member_id = 2;
-  int32 voice_id = 3;
-}
+package zproto;
 
+message NotifyTeamMemVoiceIdChangeRequest {
+	SessionInfo session = 1 [json_name = "session"];
+	int64 memberId = 2 [json_name = "memberId"];
+	int32 voiceId = 3 [json_name = "voiceId"];
+}

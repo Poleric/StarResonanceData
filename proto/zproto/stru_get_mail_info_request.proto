@@ -3,7 +3,6 @@ syntax = "proto3";
 package zproto;
 
 message GetMailInfoRequest {
-  int64 mail_uuid = 2;
-  repeated int64 mail_uuid_list = 3;
+	int64 mailUuid = 2 [json_name = "mailUuid"];
+	repeated int64 mailUuidList = 3 [json_name = "mailUuidList"];
 }
-

@@ -1,22 +1,21 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_activity_reward_progress.proto";
 import "stru_buy_gift_info.proto";
 import "enum_e_activity_obtain_status.proto";
 
-message ActivityAward {
-  int32 award_id = 1;
-  int64 reward_show_begintime = 2;
-  int64 reward_show_endtime = 3;
-  int64 reward_begintime = 4;
-  int64 reward_endtime = 5;
-  map<int32, string> condition = 6;
-  map<int32, int32> item_list = 7;
-  repeated int32 award_list = 8;
-  zproto.EActivityObtainStatus obtain_status = 9;
-  zproto.ActivityRewardProgress progress_list = 10;
-  zproto.BuyGiftInfo reward_info = 11;
-}
+package zproto;
 
+message ActivityAward {
+	int32 awardId = 1 [json_name = "awardId"];
+	int64 reward_show_begintime = 2 [json_name = "rewardShowBegintime"];
+	int64 reward_show_endtime = 3 [json_name = "rewardShowEndtime"];
+	int64 reward_begintime = 4 [json_name = "rewardBegintime"];
+	int64 reward_endtime = 5 [json_name = "rewardEndtime"];
+	map<int32, string> condition = 6 [json_name = "condition"];
+	map<int32, int32> itemList = 7 [json_name = "itemList"];
+	repeated int32 awardList = 8 [json_name = "awardList"];
+	EActivityObtainStatus obtainStatus = 9 [json_name = "obtainStatus"];
+	ActivityRewardProgress progressList = 10 [json_name = "progressList"];
+	BuyGiftInfo rewardInfo = 11 [json_name = "rewardInfo"];
+}

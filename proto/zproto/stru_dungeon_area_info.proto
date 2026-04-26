@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dungeon_area_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message DungeonAreaInfo {
+	map<int64, DungeonAreaData> dungeonAreaDataMap = 1 [json_name = "dungeonAreaDataMap"];
+}

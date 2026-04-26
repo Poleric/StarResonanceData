@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_homeland_slot_fashion.proto";
+
+package zproto;
+
+message HomelandHangFashionRequest {
+	int64 structureUuid = 1 [json_name = "structureUuid"];
+	bool isOuter = 2 [json_name = "isOuter"];
+	repeated HomelandSlotFashion fashionData = 3 [json_name = "fashionData"];
+}

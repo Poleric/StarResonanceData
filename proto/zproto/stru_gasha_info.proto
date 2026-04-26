@@ -1,17 +1,16 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message GashaInfo {
-  uint32 id = 1;
-  uint32 draw_count = 4;
-  int64 refresh_time = 5;
-  uint32 wish_id = 8;
-  uint32 wish_value = 9;
-  uint32 wish_finish_count = 10;
-  int64 wish_reset_time = 11;
-  uint32 wish_limit = 12;
-}
+package zproto;
 
+message GashaInfo {
+	uint32 id = 1 [json_name = "id"];
+	uint32 drawCount = 4 [json_name = "drawCount"];
+	int64 refreshTime = 5 [json_name = "refreshTime"];
+	uint32 wishId = 8 [json_name = "wishId"];
+	uint32 wishValue = 9 [json_name = "wishValue"];
+	uint32 wishFinishCount = 10 [json_name = "wishFinishCount"];
+	int64 wishResetTime = 11 [json_name = "wishResetTime"];
+	uint32 wishLimit = 12 [json_name = "wishLimit"];
+}

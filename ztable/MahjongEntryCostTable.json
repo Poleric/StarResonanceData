@@ -1,0 +1,280 @@
+{
+  "1": {
+    "Id": 1,
+    "LowestRank": 0,
+    "MaxRank": 19,
+    "InitialPoints": 25000,
+    "ItemId": [],
+    "Icon": [],
+    "WeightGet": [
+      [
+        2500,
+        1
+      ],
+      [
+        2500,
+        50
+      ]
+    ],
+    "EntryCoin": [],
+    "ScoringPoint": [
+      [
+        50,
+        50,
+        50,
+        50
+      ],
+      [
+        50,
+        50,
+        50,
+        50
+      ]
+    ],
+    "BonusRankPoint": [],
+    "Award": [
+      [
+        1,
+        17003020
+      ],
+      [
+        2,
+        17003030
+      ],
+      [
+        3,
+        17003040
+      ],
+      [
+        4,
+        17003050
+      ]
+    ],
+    "LimitAward": [
+      10004,
+      30
+    ]
+  },
+  "2": {
+    "Id": 2,
+    "LowestRank": 0,
+    "MaxRank": 19,
+    "InitialPoints": 25000,
+    "ItemId": [],
+    "Icon": [],
+    "WeightGet": [
+      [
+        2500,
+        1
+      ],
+      [
+        2500,
+        50
+      ]
+    ],
+    "EntryCoin": [],
+    "ScoringPoint": [
+      [
+        50,
+        50,
+        50,
+        50
+      ],
+      [
+        50,
+        50,
+        50,
+        50
+      ]
+    ],
+    "BonusRankPoint": [],
+    "Award": [
+      [
+        1,
+        17003020
+      ],
+      [
+        2,
+        17003030
+      ],
+      [
+        3,
+        17003040
+      ],
+      [
+        4,
+        17003050
+      ]
+    ],
+    "LimitAward": [
+      10004,
+      30
+    ]
+  },
+  "100": {
+    "Id": 100,
+    "LowestRank": 0,
+    "MaxRank": 5,
+    "InitialPoints": 25000,
+    "ItemId": [],
+    "Icon": [],
+    "WeightGet": [
+      [
+        1000,
+        0
+      ]
+    ],
+    "EntryCoin": [],
+    "ScoringPoint": [
+      [
+        15,
+        5,
+        -5,
+        -15
+      ]
+    ],
+    "BonusRankPoint": [
+      10,
+      5,
+      0
+    ],
+    "Award": [],
+    "LimitAward": []
+  },
+  "101": {
+    "Id": 101,
+    "LowestRank": 3,
+    "MaxRank": 8,
+    "InitialPoints": 25000,
+    "ItemId": [],
+    "Icon": [
+      2500
+    ],
+    "WeightGet": [
+      [
+        1000,
+        50
+      ]
+    ],
+    "EntryCoin": [
+      500
+    ],
+    "ScoringPoint": [
+      [
+        15,
+        5,
+        -5,
+        -15
+      ]
+    ],
+    "BonusRankPoint": [
+      20,
+      10,
+      0
+    ],
+    "Award": [],
+    "LimitAward": []
+  },
+  "102": {
+    "Id": 102,
+    "LowestRank": 6,
+    "MaxRank": 11,
+    "InitialPoints": 25000,
+    "ItemId": [],
+    "Icon": [
+      5000
+    ],
+    "WeightGet": [
+      [
+        1000,
+        100
+      ]
+    ],
+    "EntryCoin": [
+      1000
+    ],
+    "ScoringPoint": [
+      [
+        15,
+        5,
+        -5,
+        -15
+      ]
+    ],
+    "BonusRankPoint": [
+      40,
+      20,
+      0
+    ],
+    "Award": [],
+    "LimitAward": []
+  },
+  "103": {
+    "Id": 103,
+    "LowestRank": 9,
+    "MaxRank": 14,
+    "InitialPoints": 25000,
+    "ItemId": [],
+    "Icon": [
+      10000
+    ],
+    "WeightGet": [
+      [
+        1000,
+        200
+      ]
+    ],
+    "EntryCoin": [
+      2000
+    ],
+    "ScoringPoint": [
+      [
+        15,
+        5,
+        -5,
+        -15
+      ]
+    ],
+    "BonusRankPoint": [
+      55,
+      30,
+      0
+    ],
+    "Award": [],
+    "LimitAward": []
+  },
+  "104": {
+    "Id": 104,
+    "LowestRank": 12,
+    "MaxRank": 19,
+    "InitialPoints": 25000,
+    "ItemId": [],
+    "Icon": [
+      10000
+    ],
+    "WeightGet": [
+      [
+        1000,
+        200
+      ]
+    ],
+    "EntryCoin": [
+      2000
+    ],
+    "ScoringPoint": [
+      [
+        15,
+        5,
+        -5,
+        -15
+      ]
+    ],
+    "BonusRankPoint": [
+      60,
+      30,
+      0
+    ],
+    "Award": [],
+    "LimitAward": []
+  }
+}

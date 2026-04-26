@@ -1,12 +1,11 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_use_slot_type.proto";
 
-message UseSlotRequest {
-  int32 slot_id = 1;
-  zproto.EUseSlotType use_type = 2;
-  bytes extra_data = 3;
-}
+package zproto;
 
+message UseSlotRequest {
+	int32 slotId = 1 [json_name = "slotId"];
+	EUseSlotType useType = 2 [json_name = "useType"];
+	bytes extraData = 3 [json_name = "extraData"];
+}

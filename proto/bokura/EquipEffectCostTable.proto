@@ -1,16 +1,15 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message EquipEffectCostTableBase {
-  int32 effect_type = 527;
-  mlstring effect_type_name = 911;
-  int_table item_cost = 452;
+	int32 EffectType = 527 [json_name = "EffectType"];
+	mlstring EffectTypeName = 911 [json_name = "EffectTypeName"];
+	int_table ItemCost = 452 [json_name = "ItemCost"];
 }
 
 message EquipEffectCostTableMgr {
-  map<int32, bokura.EquipEffectCostTableBase> datas = 1;
+	map<int32, EquipEffectCostTableBase> datas = 1 [json_name = "datas"];
 }
-

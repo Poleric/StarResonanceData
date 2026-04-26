@@ -1,19 +1,20 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_error_code.proto";
 import "stru_team_activity.proto";
 import "stru_team_base_info.proto";
+import "stru_team_member_fast_sync_data.proto";
 import "stru_team_mem_data.proto";
 import "stru_team_mem_real_time_voice_info.proto";
 
-message GetTeamInfoReply {
-  zproto.TeamBaseInfo base_info = 1;
-  repeated zproto.TeamMemData member_data = 2;
-  zproto.TeamActivity team_activity = 3;
-  map<int64, zproto.TeamMemRealTimeVoiceInfo> mem_real_time_voice_infos = 4;
-  map<int64, int32> mem_voice_id = 6;
-  zproto.EErrorCode err_code = 7;
-}
+package zproto;
 
+message GetTeamInfoReply {
+	TeamBaseInfo baseInfo = 1 [json_name = "baseInfo"];
+	repeated TeamMemData memberData = 2 [json_name = "memberData"];
+	TeamActivity teamActivity = 3 [json_name = "teamActivity"];
+	map<int64, TeamMemRealTimeVoiceInfo> memRealTimeVoiceInfos = 4 [json_name = "memRealTimeVoiceInfos"];
+	map<int64, int32> memVoiceId = 6 [json_name = "memVoiceId"];
+	map<int64, TeamMemberFastSyncData> memberFastSyncData = 7 [json_name = "memberFastSyncData"];
+	EErrorCode errCode = 8 [json_name = "errCode"];
+}

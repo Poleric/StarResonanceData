@@ -3,6 +3,5 @@ syntax = "proto3";
 package zproto;
 
 message RecommendPlayMatchParam {
-  int32 activity_id = 1;
+	int32 activityId = 1 [json_name = "activityId"];
 }
-

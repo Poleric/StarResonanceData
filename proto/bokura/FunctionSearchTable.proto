@@ -1,18 +1,17 @@
 syntax = "proto3";
 
-package bokura;
-
 import "table_basic.proto";
 
+package bokura;
+
 message FunctionSearchTableBase {
-  int32 id = 1463;
-  int32 sort = 1643;
-  int32 quick_jump_type = 506;
-  int_array quick_jump_param = 1617;
-  int32 is_hide = 1851;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 Sort = 1643 [json_name = "Sort"];
+	int32 QuickJumpType = 506 [json_name = "QuickJumpType"];
+	int_array QuickJumpParam = 1617 [json_name = "QuickJumpParam"];
+	int32 IsHide = 1851 [json_name = "IsHide"];
 }
 
 message FunctionSearchTableMgr {
-  map<int32, bokura.FunctionSearchTableBase> datas = 1;
+	map<int32, FunctionSearchTableBase> datas = 1 [json_name = "datas"];
 }
-

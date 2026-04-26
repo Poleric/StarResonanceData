@@ -3,15 +3,14 @@ syntax = "proto3";
 package bokura;
 
 message BugReportConfigTableBase {
-  int32 id = 1463;
-  int32 data_type = 682;
-  int32 data_index = 1373;
-  string data_value = 569;
-  string data_value2 = 1651;
-  string desc = 1953;
+	int32 Id = 1463 [json_name = "Id"];
+	int32 DataType = 682 [json_name = "DataType"];
+	int32 DataIndex = 1373 [json_name = "DataIndex"];
+	string DataValue = 569 [json_name = "DataValue"];
+	string DataValue2 = 1651 [json_name = "DataValue2"];
+	string Desc = 1953 [json_name = "Desc"];
 }
 
 message BugReportConfigTableMgr {
-  map<int32, bokura.BugReportConfigTableBase> datas = 1;
+	map<int32, BugReportConfigTableBase> datas = 1 [json_name = "datas"];
 }
-

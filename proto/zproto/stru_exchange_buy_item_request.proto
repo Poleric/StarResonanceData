@@ -3,9 +3,8 @@ syntax = "proto3";
 package zproto;
 
 message ExchangeBuyItemRequest {
-  string uuid = 2;
-  int32 config_id = 3;
-  int32 num = 4;
-  int32 price = 5;
+	string uuid = 2 [json_name = "uuid"];
+	int32 configId = 3 [json_name = "configId"];
+	int32 num = 4 [json_name = "num"];
+	int32 price = 5 [json_name = "price"];
 }
-

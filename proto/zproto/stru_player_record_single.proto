@@ -1,13 +1,12 @@
 syntax = "proto3";
 
-package zproto;
-
 import "stru_dirty_mask.proto";
 
-message PlayerRecordSingle {
-  int32 id = 1;
-  int32 total_count = 2;
-  int64 cycle_count = 3;
-  int64 cycle_time = 4;
-}
+package zproto;
 
+message PlayerRecordSingle {
+	int32 Id = 1 [json_name = "Id"];
+	int32 TotalCount = 2 [json_name = "TotalCount"];
+	int64 CycleCount = 3 [json_name = "CycleCount"];
+	int64 CycleTime = 4 [json_name = "CycleTime"];
+}

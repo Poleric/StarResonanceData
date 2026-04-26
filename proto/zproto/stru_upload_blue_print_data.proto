@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "enum_blue_print_type.proto";
+import "stru_homeland_decoration_info.proto";
+import "stru_structure.proto";
+
+package zproto;
+
+message UploadBluePrintData {
+	int32 houseLevel = 1 [json_name = "houseLevel"];
+	map<int64, Structure> structures = 2 [json_name = "structures"];
+	repeated int32 unlockedAreas = 3 [json_name = "unlockedAreas"];
+	HomelandDecorationInfo decorationInfo = 4 [json_name = "decorationInfo"];
+	int64 charId = 5 [json_name = "charId"];
+	BluePrintType bluePrintType = 6 [json_name = "bluePrintType"];
+	int32 slot = 7 [json_name = "slot"];
+}

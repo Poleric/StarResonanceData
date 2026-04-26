@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message CommunityBuildLifeProfessionCancelRequest {
+	int64 buildUuid = 1 [json_name = "buildUuid"];
+}

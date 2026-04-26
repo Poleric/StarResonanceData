@@ -1,11 +1,10 @@
 syntax = "proto3";
 
-package zproto;
-
 import "enum_e_exchange_item_type.proto";
 
-message ExchangeCareCancelRequest {
-  zproto.EExchangeItemType type = 1;
-  int32 item_config_id = 2;
-}
+package zproto;
 
+message ExchangeCareCancelRequest {
+	EExchangeItemType type = 1 [json_name = "type"];
+	int32 itemConfigId = 2 [json_name = "itemConfigId"];
+}

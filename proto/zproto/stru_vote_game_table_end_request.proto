@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "enum_e_game_table_vote.proto";
+
+package zproto;
+
+message VoteGameTableEndRequest {
+	string tableGuid = 1 [json_name = "tableGuid"];
+	EGameTableVote vote = 2 [json_name = "vote"];
+}

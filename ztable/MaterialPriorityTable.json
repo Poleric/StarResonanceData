@@ -170,5 +170,14 @@
     ],
     "MaterialPriority": 3,
     "MaterialType": 3
+  },
+  "33901": {
+    "Id": 33901,
+    "Name": "神族煌墓副本 元能塔金色材质",
+    "MaterialFilePath": [
+      "materials/mon/mi_int_powertower_001b"
+    ],
+    "MaterialPriority": 4,
+    "MaterialType": 3
   }
 }

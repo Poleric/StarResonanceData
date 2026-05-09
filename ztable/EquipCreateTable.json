@@ -4,6 +4,7 @@
     "EquipId": 2000601,
     "EquipNameGroupId": 2000401,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -37,6 +38,7 @@
     "EquipId": 2000602,
     "EquipNameGroupId": 2000402,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -74,6 +76,7 @@
     "EquipId": 2000603,
     "EquipNameGroupId": 2000404,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -111,6 +114,7 @@
     "EquipId": 2000604,
     "EquipNameGroupId": 2000405,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -149,6 +153,7 @@
     "EquipId": 2000605,
     "EquipNameGroupId": 2000409,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -186,6 +191,7 @@
     "EquipId": 2000606,
     "EquipNameGroupId": 2000411,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -224,6 +230,7 @@
     "EquipId": 2000607,
     "EquipNameGroupId": 2000412,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -262,6 +269,7 @@
     "EquipId": 2000608,
     "EquipNameGroupId": 2000413,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -300,6 +308,7 @@
     "EquipId": 2000609,
     "EquipNameGroupId": 2000501,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -342,6 +351,7 @@
     "EquipId": 2000610,
     "EquipNameGroupId": 2000502,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -388,6 +398,7 @@
     "EquipId": 2000611,
     "EquipNameGroupId": 2000504,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -434,6 +445,7 @@
     "EquipId": 2000612,
     "EquipNameGroupId": 2000505,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -481,6 +493,7 @@
     "EquipId": 2000613,
     "EquipNameGroupId": 2000509,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -527,6 +540,7 @@
     "EquipId": 2000614,
     "EquipNameGroupId": 2000511,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -574,6 +588,7 @@
     "EquipId": 2000615,
     "EquipNameGroupId": 2000512,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -621,6 +636,7 @@
     "EquipId": 2000616,
     "EquipNameGroupId": 2000513,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -668,6 +684,7 @@
     "EquipId": 2000617,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -714,6 +731,7 @@
     "EquipId": 2000618,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -764,6 +782,7 @@
     "EquipId": 2000619,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -814,6 +833,7 @@
     "EquipId": 2000620,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -865,6 +885,7 @@
     "EquipId": 2000621,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -915,6 +936,7 @@
     "EquipId": 2000622,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -966,6 +988,7 @@
     "EquipId": 2000623,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1017,6 +1040,7 @@
     "EquipId": 2000624,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1063,11 +1087,64 @@
     "TimelineId": 511011,
     "FunctionId": 100713
   },
+  "2000625": {
+    "Id": 2000625,
+    "EquipId": 2000625,
+    "EquipNameGroupId": 0,
+    "PerfectCondition": 0,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ],
+      [
+        1070036,
+        100
+      ],
+      [
+        1070035,
+        250
+      ]
+    ],
+    "Sort": 25,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        3
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      1.15,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.1,
+      1.1
+    ],
+    "SsprHeight": 0.5,
+    "TimelineId": 511012,
+    "FunctionId": 100713
+  },
   "2001101": {
     "Id": 2001101,
     "EquipId": 2001101,
     "EquipNameGroupId": 2000913,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1110,6 +1187,7 @@
     "EquipId": 2001102,
     "EquipNameGroupId": 2000921,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1156,6 +1234,7 @@
     "EquipId": 2001103,
     "EquipNameGroupId": 2000901,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1202,6 +1281,7 @@
     "EquipId": 2001104,
     "EquipNameGroupId": 2000925,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1249,6 +1329,7 @@
     "EquipId": 2001105,
     "EquipNameGroupId": 2000905,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1295,6 +1376,7 @@
     "EquipId": 2001106,
     "EquipNameGroupId": 2000917,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1342,6 +1424,7 @@
     "EquipId": 2001107,
     "EquipNameGroupId": 2000909,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1389,6 +1472,7 @@
     "EquipId": 2001108,
     "EquipNameGroupId": 2000929,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1436,6 +1520,7 @@
     "EquipId": 2001109,
     "EquipNameGroupId": 2001013,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1478,6 +1563,7 @@
     "EquipId": 2001110,
     "EquipNameGroupId": 2001021,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1524,6 +1610,7 @@
     "EquipId": 2001111,
     "EquipNameGroupId": 2001001,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1570,6 +1657,7 @@
     "EquipId": 2001112,
     "EquipNameGroupId": 2001025,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1617,6 +1705,7 @@
     "EquipId": 2001113,
     "EquipNameGroupId": 2001005,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1663,6 +1752,7 @@
     "EquipId": 2001114,
     "EquipNameGroupId": 2001017,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1710,6 +1800,7 @@
     "EquipId": 2001115,
     "EquipNameGroupId": 2001009,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1757,6 +1848,7 @@
     "EquipId": 2001116,
     "EquipNameGroupId": 2001029,
     "PerfectCondition": 100,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1799,11 +1891,860 @@
     "TimelineId": 511011,
     "FunctionId": 100715
   },
+  "2001501": {
+    "Id": 2001501,
+    "EquipId": 2001501,
+    "EquipNameGroupId": 2001313,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        20000
+      ],
+      [
+        1070063,
+        50
+      ]
+    ],
+    "Sort": 2001501,
+    "ShowCondition": [
+      [
+        9,
+        10317
+      ],
+      [
+        43,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10317
+      ]
+    ],
+    "ModelPos": [],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.18,
+    "TimelineId": 511001,
+    "FunctionId": 100715
+  },
+  "2001502": {
+    "Id": 2001502,
+    "EquipId": 2001502,
+    "EquipNameGroupId": 2001321,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        20000
+      ],
+      [
+        1070063,
+        50
+      ]
+    ],
+    "Sort": 2001502,
+    "ShowCondition": [
+      [
+        9,
+        10317
+      ],
+      [
+        43,
+        2
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10317
+      ]
+    ],
+    "ModelPos": [
+      1.18,
+      1.08,
+      1.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.35,
+    "TimelineId": 511002,
+    "FunctionId": 100715
+  },
+  "2001503": {
+    "Id": 2001503,
+    "EquipId": 2001503,
+    "EquipNameGroupId": 2001341,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        20000
+      ],
+      [
+        1070063,
+        50
+      ]
+    ],
+    "Sort": 2001503,
+    "ShowCondition": [
+      [
+        9,
+        10317
+      ],
+      [
+        43,
+        3
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10317
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      1.15,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.1,
+      1.1
+    ],
+    "SsprHeight": 0.5,
+    "TimelineId": 511012,
+    "FunctionId": 100715
+  },
+  "2001504": {
+    "Id": 2001504,
+    "EquipId": 2001504,
+    "EquipNameGroupId": 2001301,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        20000
+      ],
+      [
+        1070063,
+        50
+      ]
+    ],
+    "Sort": 2001504,
+    "ShowCondition": [
+      [
+        9,
+        10317
+      ],
+      [
+        43,
+        4
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10317
+      ]
+    ],
+    "ModelPos": [
+      1.0,
+      0.95,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.2,
+    "TimelineId": 511004,
+    "FunctionId": 100715
+  },
+  "2001505": {
+    "Id": 2001505,
+    "EquipId": 2001505,
+    "EquipNameGroupId": 2001325,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        20000
+      ],
+      [
+        1070063,
+        50
+      ]
+    ],
+    "Sort": 2001505,
+    "ShowCondition": [
+      [
+        9,
+        10317
+      ],
+      [
+        43,
+        5
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10317
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      0.94,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0,
+      1.0
+    ],
+    "SsprHeight": 0.46,
+    "TimelineId": 511005,
+    "FunctionId": 100715
+  },
+  "2001506": {
+    "Id": 2001506,
+    "EquipId": 2001506,
+    "EquipNameGroupId": 2001305,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        20000
+      ],
+      [
+        1070063,
+        50
+      ]
+    ],
+    "Sort": 2001506,
+    "ShowCondition": [
+      [
+        9,
+        10317
+      ],
+      [
+        43,
+        9
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10317
+      ]
+    ],
+    "ModelPos": [
+      1.0,
+      1.05,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.31,
+    "TimelineId": 511006,
+    "FunctionId": 100715
+  },
+  "2001507": {
+    "Id": 2001507,
+    "EquipId": 2001507,
+    "EquipNameGroupId": 2001317,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        20000
+      ],
+      [
+        1070063,
+        50
+      ]
+    ],
+    "Sort": 2001507,
+    "ShowCondition": [
+      [
+        9,
+        10317
+      ],
+      [
+        43,
+        11
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10317
+      ]
+    ],
+    "ModelPos": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      0.0,
+      1.0
+    ],
+    "SsprHeight": 0.38,
+    "TimelineId": 511009,
+    "FunctionId": 100715
+  },
+  "2001508": {
+    "Id": 2001508,
+    "EquipId": 2001508,
+    "EquipNameGroupId": 2001309,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        20000
+      ],
+      [
+        1070063,
+        50
+      ]
+    ],
+    "Sort": 2001508,
+    "ShowCondition": [
+      [
+        9,
+        10317
+      ],
+      [
+        43,
+        12
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10317
+      ]
+    ],
+    "ModelPos": [
+      0.65,
+      0.58,
+      -2.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0,
+      1.0
+    ],
+    "SsprHeight": 0.41,
+    "TimelineId": 511010,
+    "FunctionId": 100715
+  },
+  "2001509": {
+    "Id": 2001509,
+    "EquipId": 2001509,
+    "EquipNameGroupId": 2001329,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        20000
+      ],
+      [
+        1070063,
+        50
+      ]
+    ],
+    "Sort": 2001509,
+    "ShowCondition": [
+      [
+        9,
+        10317
+      ],
+      [
+        43,
+        13
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10317
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      1.0,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      0.0,
+      1.0
+    ],
+    "SsprHeight": 0.3,
+    "TimelineId": 511011,
+    "FunctionId": 100715
+  },
+  "2001510": {
+    "Id": 2001510,
+    "EquipId": 2001510,
+    "EquipNameGroupId": 2001413,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        50000
+      ],
+      [
+        1070063,
+        100
+      ]
+    ],
+    "Sort": 2001510,
+    "ShowCondition": [
+      [
+        9,
+        10318
+      ],
+      [
+        43,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10318
+      ]
+    ],
+    "ModelPos": [],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.18,
+    "TimelineId": 511001,
+    "FunctionId": 100715
+  },
+  "2001511": {
+    "Id": 2001511,
+    "EquipId": 2001511,
+    "EquipNameGroupId": 2001421,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        50000
+      ],
+      [
+        1070063,
+        100
+      ]
+    ],
+    "Sort": 2001511,
+    "ShowCondition": [
+      [
+        9,
+        10318
+      ],
+      [
+        43,
+        2
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10318
+      ]
+    ],
+    "ModelPos": [
+      1.18,
+      1.08,
+      1.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.35,
+    "TimelineId": 511002,
+    "FunctionId": 100715
+  },
+  "2001512": {
+    "Id": 2001512,
+    "EquipId": 2001512,
+    "EquipNameGroupId": 2001441,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        50000
+      ],
+      [
+        1070063,
+        100
+      ]
+    ],
+    "Sort": 2001512,
+    "ShowCondition": [
+      [
+        9,
+        10318
+      ],
+      [
+        43,
+        3
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10318
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      1.15,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.1,
+      1.1
+    ],
+    "SsprHeight": 0.5,
+    "TimelineId": 511012,
+    "FunctionId": 100715
+  },
+  "2001513": {
+    "Id": 2001513,
+    "EquipId": 2001513,
+    "EquipNameGroupId": 2001401,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        50000
+      ],
+      [
+        1070063,
+        100
+      ]
+    ],
+    "Sort": 2001513,
+    "ShowCondition": [
+      [
+        9,
+        10318
+      ],
+      [
+        43,
+        4
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10318
+      ]
+    ],
+    "ModelPos": [
+      1.0,
+      0.95,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.2,
+    "TimelineId": 511004,
+    "FunctionId": 100715
+  },
+  "2001514": {
+    "Id": 2001514,
+    "EquipId": 2001514,
+    "EquipNameGroupId": 2001425,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        50000
+      ],
+      [
+        1070063,
+        100
+      ]
+    ],
+    "Sort": 2001514,
+    "ShowCondition": [
+      [
+        9,
+        10318
+      ],
+      [
+        43,
+        5
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10318
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      0.94,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0,
+      1.0
+    ],
+    "SsprHeight": 0.46,
+    "TimelineId": 511005,
+    "FunctionId": 100715
+  },
+  "2001515": {
+    "Id": 2001515,
+    "EquipId": 2001515,
+    "EquipNameGroupId": 2001405,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        50000
+      ],
+      [
+        1070063,
+        100
+      ]
+    ],
+    "Sort": 2001515,
+    "ShowCondition": [
+      [
+        9,
+        10318
+      ],
+      [
+        43,
+        9
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10318
+      ]
+    ],
+    "ModelPos": [
+      1.0,
+      1.05,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.31,
+    "TimelineId": 511006,
+    "FunctionId": 100715
+  },
+  "2001516": {
+    "Id": 2001516,
+    "EquipId": 2001516,
+    "EquipNameGroupId": 2001417,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        50000
+      ],
+      [
+        1070063,
+        100
+      ]
+    ],
+    "Sort": 2001516,
+    "ShowCondition": [
+      [
+        9,
+        10318
+      ],
+      [
+        43,
+        11
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10318
+      ]
+    ],
+    "ModelPos": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      0.0,
+      1.0
+    ],
+    "SsprHeight": 0.38,
+    "TimelineId": 511009,
+    "FunctionId": 100715
+  },
+  "2001517": {
+    "Id": 2001517,
+    "EquipId": 2001517,
+    "EquipNameGroupId": 2001409,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        50000
+      ],
+      [
+        1070063,
+        100
+      ]
+    ],
+    "Sort": 2001517,
+    "ShowCondition": [
+      [
+        9,
+        10318
+      ],
+      [
+        43,
+        12
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10318
+      ]
+    ],
+    "ModelPos": [
+      0.65,
+      0.58,
+      -2.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0,
+      1.0
+    ],
+    "SsprHeight": 0.41,
+    "TimelineId": 511010,
+    "FunctionId": 100715
+  },
+  "2001518": {
+    "Id": 2001518,
+    "EquipId": 2001518,
+    "EquipNameGroupId": 2001429,
+    "PerfectCondition": 100,
+    "GsCondition": 0,
+    "ConsumableItems": [
+      [
+        10008,
+        50000
+      ],
+      [
+        1070063,
+        100
+      ]
+    ],
+    "Sort": 2001518,
+    "ShowCondition": [
+      [
+        9,
+        10318
+      ],
+      [
+        43,
+        13
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        10318
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      1.0,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      0.0,
+      1.0
+    ],
+    "SsprHeight": 0.3,
+    "TimelineId": 511011,
+    "FunctionId": 100715
+  },
   "200061702": {
     "Id": 200061702,
     "EquipId": 2000617,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1846,6 +2787,7 @@
     "EquipId": 2000618,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1892,6 +2834,7 @@
     "EquipId": 2000619,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1938,6 +2881,7 @@
     "EquipId": 2000620,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -1985,6 +2929,7 @@
     "EquipId": 2000621,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -2031,6 +2976,7 @@
     "EquipId": 2000622,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -2078,6 +3024,7 @@
     "EquipId": 2000623,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -2125,6 +3072,7 @@
     "EquipId": 2000624,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         10008,
@@ -2172,6 +3120,7 @@
     "EquipId": 2011043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2208,6 +3157,7 @@
     "EquipId": 2011043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2244,6 +3194,7 @@
     "EquipId": 2011043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2280,6 +3231,7 @@
     "EquipId": 2011044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2316,6 +3268,7 @@
     "EquipId": 2011044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2352,6 +3305,7 @@
     "EquipId": 2011045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2388,6 +3342,7 @@
     "EquipId": 2011045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2424,6 +3379,7 @@
     "EquipId": 2011045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2460,6 +3416,7 @@
     "EquipId": 2021043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2496,6 +3453,7 @@
     "EquipId": 2021043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2532,6 +3490,7 @@
     "EquipId": 2021043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2568,6 +3527,7 @@
     "EquipId": 2021044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2604,6 +3564,7 @@
     "EquipId": 2021044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2640,6 +3601,7 @@
     "EquipId": 2021045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2676,6 +3638,7 @@
     "EquipId": 2021045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2712,6 +3675,7 @@
     "EquipId": 2021045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2748,6 +3712,7 @@
     "EquipId": 2031043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2784,6 +3749,7 @@
     "EquipId": 2031043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2820,6 +3786,7 @@
     "EquipId": 2031043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2856,6 +3823,7 @@
     "EquipId": 2031044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2892,6 +3860,7 @@
     "EquipId": 2031044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2928,6 +3897,7 @@
     "EquipId": 2031045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -2964,6 +3934,7 @@
     "EquipId": 2031045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3000,6 +3971,7 @@
     "EquipId": 2031045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3036,6 +4008,7 @@
     "EquipId": 2041043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3072,6 +4045,7 @@
     "EquipId": 2041043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3108,6 +4082,7 @@
     "EquipId": 2041043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3144,6 +4119,7 @@
     "EquipId": 2041044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3180,6 +4156,7 @@
     "EquipId": 2041044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3216,6 +4193,7 @@
     "EquipId": 2041045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3252,6 +4230,7 @@
     "EquipId": 2041045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3288,6 +4267,7 @@
     "EquipId": 2041045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3324,6 +4304,7 @@
     "EquipId": 2081043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3360,6 +4341,7 @@
     "EquipId": 2081043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3396,6 +4378,7 @@
     "EquipId": 2081043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3432,6 +4415,7 @@
     "EquipId": 2081044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3468,6 +4452,7 @@
     "EquipId": 2081044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3504,6 +4489,7 @@
     "EquipId": 2081045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3540,6 +4526,7 @@
     "EquipId": 2081045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3576,6 +4563,7 @@
     "EquipId": 2081045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3612,6 +4600,7 @@
     "EquipId": 2091043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3648,6 +4637,7 @@
     "EquipId": 2091043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3684,6 +4674,7 @@
     "EquipId": 2091043,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3720,6 +4711,7 @@
     "EquipId": 2091044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3756,6 +4748,7 @@
     "EquipId": 2091044,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3792,6 +4785,7 @@
     "EquipId": 2091045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3828,6 +4822,7 @@
     "EquipId": 2091045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3864,6 +4859,7 @@
     "EquipId": 2091045,
     "EquipNameGroupId": 0,
     "PerfectCondition": 0,
+    "GsCondition": 0,
     "ConsumableItems": [
       [
         1022303,
@@ -3894,5 +4890,438 @@
     "SsprHeight": 0.0,
     "TimelineId": 0,
     "FunctionId": 100715
+  },
+  "200062601": {
+    "Id": 200062601,
+    "EquipId": 2000626,
+    "EquipNameGroupId": 2000617,
+    "PerfectCondition": 100,
+    "GsCondition": 180,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ]
+    ],
+    "Sort": 7,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        1
+      ],
+      [
+        5,
+        2000617,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.18,
+    "TimelineId": 511001,
+    "FunctionId": 100713
+  },
+  "200062702": {
+    "Id": 200062702,
+    "EquipId": 2000627,
+    "EquipNameGroupId": 2000618,
+    "PerfectCondition": 100,
+    "GsCondition": 180,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ]
+    ],
+    "Sort": 8,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        2
+      ],
+      [
+        5,
+        2000618,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [
+      1.18,
+      1.08,
+      1.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.25,
+    "TimelineId": 511002,
+    "FunctionId": 100713
+  },
+  "200062803": {
+    "Id": 200062803,
+    "EquipId": 2000628,
+    "EquipNameGroupId": 2000619,
+    "PerfectCondition": 100,
+    "GsCondition": 180,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ]
+    ],
+    "Sort": 9,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        4
+      ],
+      [
+        5,
+        2000619,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [
+      1.0,
+      0.95,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.2,
+    "TimelineId": 511004,
+    "FunctionId": 100713
+  },
+  "200062904": {
+    "Id": 200062904,
+    "EquipId": 2000629,
+    "EquipNameGroupId": 2000620,
+    "PerfectCondition": 100,
+    "GsCondition": 180,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ]
+    ],
+    "Sort": 10,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        5
+      ],
+      [
+        5,
+        2000620,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      0.94,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0,
+      1.0
+    ],
+    "SsprHeight": 0.46,
+    "TimelineId": 511005,
+    "FunctionId": 100713
+  },
+  "200063005": {
+    "Id": 200063005,
+    "EquipId": 2000630,
+    "EquipNameGroupId": 2000621,
+    "PerfectCondition": 100,
+    "GsCondition": 180,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ]
+    ],
+    "Sort": 11,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        9
+      ],
+      [
+        5,
+        2000621,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [
+      1.0,
+      1.05,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0
+    ],
+    "SsprHeight": 0.21,
+    "TimelineId": 511006,
+    "FunctionId": 100713
+  },
+  "200063106": {
+    "Id": 200063106,
+    "EquipId": 2000631,
+    "EquipNameGroupId": 2000622,
+    "PerfectCondition": 100,
+    "GsCondition": 180,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ]
+    ],
+    "Sort": 12,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        11
+      ],
+      [
+        5,
+        2000622,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      0.0,
+      1.0
+    ],
+    "SsprHeight": 0.37,
+    "TimelineId": 511009,
+    "FunctionId": 100713
+  },
+  "200063207": {
+    "Id": 200063207,
+    "EquipId": 2000632,
+    "EquipNameGroupId": 2000623,
+    "PerfectCondition": 100,
+    "GsCondition": 180,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ]
+    ],
+    "Sort": 13,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        12
+      ],
+      [
+        5,
+        2000623,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [
+      0.65,
+      0.58,
+      -2.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.0,
+      1.0
+    ],
+    "SsprHeight": 0.41,
+    "TimelineId": 511010,
+    "FunctionId": 100713
+  },
+  "200063308": {
+    "Id": 200063308,
+    "EquipId": 2000633,
+    "EquipNameGroupId": 2000624,
+    "PerfectCondition": 100,
+    "GsCondition": 180,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ]
+    ],
+    "Sort": 14,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        13
+      ],
+      [
+        5,
+        2000624,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      1.0,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      0.0,
+      1.0
+    ],
+    "SsprHeight": 0.3,
+    "TimelineId": 511011,
+    "FunctionId": 100713
+  },
+  "200063409": {
+    "Id": 200063409,
+    "EquipId": 2000634,
+    "EquipNameGroupId": 2000625,
+    "PerfectCondition": 100,
+    "GsCondition": 180,
+    "ConsumableItems": [
+      [
+        10008,
+        100000
+      ]
+    ],
+    "Sort": 15,
+    "ShowCondition": [
+      [
+        9,
+        100008
+      ],
+      [
+        43,
+        3
+      ],
+      [
+        5,
+        2000625,
+        1
+      ]
+    ],
+    "CreateCondition": [
+      [
+        9,
+        100008
+      ]
+    ],
+    "ModelPos": [
+      1.1,
+      1.15,
+      0.0
+    ],
+    "ModelRot": [],
+    "TimelineScale": 1.0,
+    "ModelScale": [
+      1.1,
+      1.1
+    ],
+    "SsprHeight": 0.5,
+    "TimelineId": 511012,
+    "FunctionId": 100713
   }
 }

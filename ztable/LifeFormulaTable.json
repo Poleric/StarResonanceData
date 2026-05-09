@@ -1418,6 +1418,82 @@
     "Attribute": [],
     "NextNodes": []
   },
+  "103029": {
+    "Id": 103029,
+    "ProId": 103,
+    "GroupId": 10329,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Eclipse Ruby Master",
+    "Des": "Learn to gather rich Eclipse Ruby to obtain Eclipse Ruby Lv.3.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/ruby_familiarity",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "103030": {
+    "Id": 103030,
+    "ProId": 103,
+    "GroupId": 10330,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Eclipse Sapphire Master",
+    "Des": "Learn to gather Eclipse Sapphire to obtain Eclipse Sapphire Lv.3.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/sapphire_familiarity",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "103031": {
+    "Id": 103031,
+    "ProId": 103,
+    "GroupId": 10331,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Eclipse Emerald Master",
+    "Des": "Learn to gather Eclipse Emerald to obtain Eclipse Emerald Lv.3.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/emerald_familiarity",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "103032": {
+    "Id": 103032,
+    "ProId": 103,
+    "GroupId": 10332,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Eclipse Topaz Master",
+    "Des": "Learn to gather Eclipse Topaz to obtain Eclipse Diamond Lv.3.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/white_sapphire_familiarity",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
   "201001": {
     "Id": 201001,
     "ProId": 201,
@@ -1959,6 +2035,146 @@
       [
         9,
         10220
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201029": {
+    "Id": 201029,
+    "ProId": 201,
+    "GroupId": 2029,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Fish Master Chef",
+    "Des": "Learn to cook higher-quality dishes using Bahamar Premium Fish Meat.",
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      201033
+    ]
+  },
+  "201030": {
+    "Id": 201030,
+    "ProId": 201,
+    "GroupId": 2030,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Meat Master Chef",
+    "Des": "Learn to cook higher-quality dishes using Bahamar Premium Raw Meat.",
+    "Icon": "ui/atlas/life_formula/life_cook/meat_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      201034
+    ]
+  },
+  "201031": {
+    "Id": 201031,
+    "ProId": 201,
+    "GroupId": 2031,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Bean Master Chef",
+    "Des": "Learn to cook higher-quality dishes using Bahamar beans.",
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      201035
+    ]
+  },
+  "201032": {
+    "Id": 201032,
+    "ProId": 201,
+    "GroupId": 2032,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Fruit Master Chef",
+    "Des": "Learn to cook higher-quality dishes using Bahamar fruits.",
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      201036
+    ]
+  },
+  "201033": {
+    "Id": 201033,
+    "ProId": 201,
+    "GroupId": 2033,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Fish Expert Chef",
+    "Des": "Learn to cook expert-level dishes using Bahamar Premium Fish Meat.",
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201034": {
+    "Id": 201034,
+    "ProId": 201,
+    "GroupId": 2034,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Meat Expert Chef",
+    "Des": "Learn to cook expert-level dishes using Bahamar Premium Raw Meat.",
+    "Icon": "ui/atlas/life_formula/life_cook/meat_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201035": {
+    "Id": 201035,
+    "ProId": 201,
+    "GroupId": 2035,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Bean Expert Chef",
+    "Des": "Learn to cook expert-level dishes using Bahamar beans.",
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201036": {
+    "Id": 201036,
+    "ProId": 201,
+    "GroupId": 2036,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Fruit Expert Chef",
+    "Des": "Learn to cook expert-level dishes using Bahamar fruits.",
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
       ]
     ],
     "Attribute": [],
@@ -2661,6 +2877,181 @@
     "Attribute": [],
     "NextNodes": []
   },
+  "202041": {
+    "Id": 202041,
+    "ProId": 202,
+    "GroupId": 3041,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Herbal Master",
+    "Des": "Learn to craft higher-quality Healing, PHY Boost, and MAG Boost Potions using Bahamar herbs.",
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202046
+    ]
+  },
+  "202042": {
+    "Id": 202042,
+    "ProId": 202,
+    "GroupId": 3042,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Ice & Fire Master",
+    "Des": "Learn to craft higher-quality potions using Lizard Spine Ice Crystal Shards and Lizard Spine Fire Crystal Shards.",
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202047
+    ]
+  },
+  "202043": {
+    "Id": 202043,
+    "ProId": 202,
+    "GroupId": 3043,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Nature Master",
+    "Des": "Learn to craft higher-quality potions using Lizard Spine Forest Crystal Shards and Lizard Spine Rock Crystal Shards.",
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202048
+    ]
+  },
+  "202044": {
+    "Id": 202044,
+    "ProId": 202,
+    "GroupId": 3044,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Wind & Thunder Master",
+    "Des": "Learn to craft higher-quality potions using Lizard Spine Wind Crystal Shards and Lizard Spine Thunder Crystal Shards.",
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202049
+    ]
+  },
+  "202045": {
+    "Id": 202045,
+    "ProId": 202,
+    "GroupId": 3045,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Light & Dark Master",
+    "Des": "Learn to craft higher-quality potions using Lizard Spine Light Crystal Shards and Lizard Spine Dark Crystal Shards.",
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202050
+    ]
+  },
+  "202046": {
+    "Id": 202046,
+    "ProId": 202,
+    "GroupId": 3046,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Herbal Expert",
+    "Des": "Learn to craft expert-level Healing, PHY Boost, and MAG Boost Potions using Bahamar herbs.",
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202047": {
+    "Id": 202047,
+    "ProId": 202,
+    "GroupId": 3047,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Ice & Fire Expert",
+    "Des": "Learn to craft expert-level potions using Lizard Spine Ice Crystal Shards and Lizard Spine Fire Crystal Shards.",
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202048": {
+    "Id": 202048,
+    "ProId": 202,
+    "GroupId": 3048,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Nature Expert",
+    "Des": "Learn to craft expert-level potions using Lizard Spine Forest Crystal Shards and Lizard Spine Rock Crystal Shards.",
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202049": {
+    "Id": 202049,
+    "ProId": 202,
+    "GroupId": 3049,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Wind & Thunder Expert",
+    "Des": "Learn to craft expert-level potions using Lizard Spine Wind Crystal Shards and Lizard Spine Thunder Crystal Shards.",
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202050": {
+    "Id": 202050,
+    "ProId": 202,
+    "GroupId": 3050,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Light & Dark Expert",
+    "Des": "Learn to craft expert-level potions using Lizard Spine Light Crystal Shards and Lizard Spine Dark Crystal Shards.",
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
   "203001": {
     "Id": 203001,
     "ProId": 203,
@@ -3152,6 +3543,82 @@
     "Attribute": [],
     "NextNodes": []
   },
+  "203029": {
+    "Id": 203029,
+    "ProId": 203,
+    "GroupId": 4029,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Mystery Metal Master",
+    "Des": "Learn to use Runye Rich Ore to produce Mystery Metal more efficiently.",
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "203030": {
+    "Id": 203030,
+    "ProId": 203,
+    "GroupId": 4030,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Radiant Stone Master",
+    "Des": "Learn to use Bahamar Rich Ore to produce Radiant Stone more efficiently.",
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "203031": {
+    "Id": 203031,
+    "ProId": 203,
+    "GroupId": 4031,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Fine Forgestone Master",
+    "Des": "Learn to use Feier Rich Ore to produce Fine Forgestone more efficiently.",
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "203032": {
+    "Id": 203032,
+    "ProId": 203,
+    "GroupId": 4032,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Bahamar Machining Master",
+    "Des": "Learn to use Meteorite Rich Ore to produce Meteorite Mech Shards more efficiently.",
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_equipment_gems_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
   "204001": {
     "Id": 204001,
     "ProId": 204,
@@ -3615,6 +4082,82 @@
       [
         9,
         10220
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "204029": {
+    "Id": 204029,
+    "ProId": 204,
+    "GroupId": 5029,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Eclipse Ruby Cutting Master",
+    "Des": "Learn to cut raw Eclipse Ruby Lv.3 into flawless Gemcores.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/triangle_cutting_technology_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "204030": {
+    "Id": 204030,
+    "ProId": 204,
+    "GroupId": 5030,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Eclipse Sapphire Cutting Master",
+    "Des": "Learn to cut raw Eclipse Sapphire Lv.3 into flawless Gemcores.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/square_cutting_technology_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "204031": {
+    "Id": 204031,
+    "ProId": 204,
+    "GroupId": 5031,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Eclipse Emerald Cutting Master",
+    "Des": "Learn to cut raw Eclipse Emerald Lv.3 into flawless Gemcores.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/special_cutting_technology_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "204032": {
+    "Id": 204032,
+    "ProId": 204,
+    "GroupId": 5032,
+    "SeasonId": 3,
+    "Level": 1,
+    "Name": "Eclipse Diamond Cutting Master",
+    "Des": "Learn to cut raw Eclipse Diamond Lv.3 into flawless Gemcores.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/pear_cutting_technology_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        9,
+        10319
       ]
     ],
     "Attribute": [],

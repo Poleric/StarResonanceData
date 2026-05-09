@@ -178,5 +178,17 @@
     "Icon": "ui/atlas/hud/quest_state/blueprint_icon_state_1",
     "UiShrinkDistance": [],
     "UiMinScale": 0
+  },
+  "16": {
+    "Id": 16,
+    "Type": "副本目标追踪（不显示导航）",
+    "Team": 2,
+    "SceneTrack": 1,
+    "MapTrack": 2,
+    "StartDistance": 0,
+    "EndDistance": 0,
+    "Icon": "ui/atlas/hud/quest_state/common_img_dot04",
+    "UiShrinkDistance": [],
+    "UiMinScale": 0
   }
 }

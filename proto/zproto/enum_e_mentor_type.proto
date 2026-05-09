@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EMentorType {
+	EMentorTypeNone = 0;
+	EMentorTypeInternship = 1;
+	EMentorTypeRegular = 2;
+}

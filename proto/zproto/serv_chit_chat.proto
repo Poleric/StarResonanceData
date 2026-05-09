@@ -10,6 +10,8 @@ import "stru_get_ark_json_with_tencent_reply.proto";
 import "stru_get_ark_json_with_tencent_request.proto";
 import "stru_get_chip_chat_records_reply.proto";
 import "stru_get_chip_chat_records_request.proto";
+import "stru_get_newbie_chat_channel_id_reply.proto";
+import "stru_get_newbie_chat_channel_id_request.proto";
 import "stru_get_private_chat_targets_reply.proto";
 import "stru_get_private_chat_targets_request.proto";
 import "stru_get_world_chat_channel_id_reply.proto";
@@ -24,6 +26,8 @@ import "stru_query_chat_mute_reply.proto";
 import "stru_query_chat_mute_request.proto";
 import "stru_send_chit_chat_msg_reply.proto";
 import "stru_send_chit_chat_msg_request.proto";
+import "stru_set_newbie_chat_channel_id_reply.proto";
+import "stru_set_newbie_chat_channel_id_request.proto";
 import "stru_set_private_chat_has_read_reply.proto";
 import "stru_set_private_chat_has_read_request.proto";
 import "stru_set_world_chat_channel_id_reply.proto";
@@ -142,5 +146,21 @@ message ChitChat {
 
 	message GetArkJsonWithTencent {
 		GetArkJsonWithTencentRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message SetNewbieChatChannelId_Ret {
+		SetNewbieChatChannelIdReply ret = 1 [json_name = "ret"];
+	}
+
+	message SetNewbieChatChannelId {
+		SetNewbieChatChannelIdRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message GetNewbieChatChannelId_Ret {
+		GetNewbieChatChannelIdReply ret = 1 [json_name = "ret"];
+	}
+
+	message GetNewbieChatChannelId {
+		GetNewbieChatChannelIdRequest vRequest = 1 [json_name = "vRequest"];
 	}
 }

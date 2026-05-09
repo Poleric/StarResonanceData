@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message MentorTargetData {
+	int32 targetId = 1 [json_name = "targetId"];
+	int32 targetState = 2 [json_name = "targetState"];
+	int64 curProgress = 3 [json_name = "curProgress"];
+}

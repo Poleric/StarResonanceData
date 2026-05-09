@@ -136,5 +136,143 @@
         45
       ]
     ]
+  },
+  "3": {
+    "Id": 3,
+    "Season": 3,
+    "TeamNumber": 1,
+    "ProcessId": [],
+    "ProcessAward": [
+      15000280,
+      15000290,
+      15000300,
+      15000310,
+      15000320,
+      15000330,
+      15000340,
+      15000350,
+      15000360,
+      15000370,
+      15000380,
+      15000390
+    ],
+    "TimerId": 8852,
+    "MailId": 1401,
+    "ProcessMailId": 1402,
+    "Icon": [
+      [
+        "1",
+        "ui/atlas/weekly_hunt/weekly_hunt_item_compact_bg_1"
+      ],
+      [
+        "2",
+        "ui/atlas/weekly_hunt/weekly_hunt_item_compact_bg_2"
+      ],
+      [
+        "3",
+        "ui/atlas/weekly_hunt/weekly_hunt_item_boss_bg"
+      ]
+    ],
+    "JumpStage": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "JumpConfig": [
+      [
+        20,
+        15
+      ],
+      [
+        30,
+        25
+      ],
+      [
+        40,
+        35
+      ],
+      [
+        50,
+        45
+      ],
+      [
+        60,
+        45
+      ]
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "Season": 4,
+    "TeamNumber": 1,
+    "ProcessId": [],
+    "ProcessAward": [
+      15000160,
+      15000170,
+      15000180,
+      15000190,
+      15000200,
+      15000210,
+      15000220,
+      15000230,
+      15000240,
+      15000250,
+      15000260,
+      15000270
+    ],
+    "TimerId": 8850,
+    "MailId": 1401,
+    "ProcessMailId": 1402,
+    "Icon": [
+      [
+        "1",
+        "ui/atlas/weekly_hunt/weekly_hunt_item_compact_bg_1"
+      ],
+      [
+        "2",
+        "ui/atlas/weekly_hunt/weekly_hunt_item_compact_bg_2"
+      ],
+      [
+        "3",
+        "ui/atlas/weekly_hunt/weekly_hunt_item_boss_bg"
+      ]
+    ],
+    "JumpStage": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "JumpConfig": [
+      [
+        20,
+        15
+      ],
+      [
+        30,
+        25
+      ],
+      [
+        40,
+        35
+      ],
+      [
+        50,
+        45
+      ],
+      [
+        60,
+        45
+      ]
+    ]
   }
 }

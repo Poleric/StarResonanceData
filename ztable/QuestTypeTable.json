@@ -265,6 +265,32 @@
     "QuestListHide": false,
     "Order": 10
   },
+  "40": {
+    "QuestTypeId": 40,
+    "QuestTypeName": "Npc多分支任务",
+    "QuestTypeGroupID": 6,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": 0,
+    "Counts": [],
+    "ForcedTracking": false,
+    "AutoTracking": 2,
+    "QuestListHide": false,
+    "Order": 10
+  },
+  "41": {
+    "QuestTypeId": 41,
+    "QuestTypeName": "Npc多分支任务-视野层级或副本",
+    "QuestTypeGroupID": 6,
+    "QuestTypeUI": "",
+    "ShowQuestUI": true,
+    "ResetType": -1,
+    "Counts": [],
+    "ForcedTracking": true,
+    "AutoTracking": 0,
+    "QuestListHide": true,
+    "Order": 114
+  },
   "50": {
     "QuestTypeId": 50,
     "QuestTypeName": "引导任务",

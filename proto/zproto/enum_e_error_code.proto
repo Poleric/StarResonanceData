@@ -158,6 +158,9 @@ enum EErrorCode {
 	ErrItemPackageInCd = 2335;
 	ErrItemLocked = 2336;
 	ErrItemLockOverflow = 2337;
+	ErrItemRecycleHasBindLimit = 2338;
+	ErrItemRecycleCoinExceeded = 2339;
+	ErrItemRecycleCoinOverflow = 2340;
 	ErrHomeLandItemNotExist = 2352;
 	ErrHomeLandNotFurnitureCannotRecycle = 2353;
 	ErrMonthlyCardNotExists = 2380;
@@ -329,6 +332,7 @@ enum EErrorCode {
 	ErrAwardRandomTypeNoMatch = 2627;
 	ErrAwardActorIsNull = 2628;
 	ErrCounterUpToLimit = 2629;
+	ErrCounterTimerOff = 2630;
 	ErrEquipWashAttrNotExist = 2700;
 	ErrNotEquipInCombat = 2701;
 	ErrEquipPart = 2702;
@@ -964,6 +968,8 @@ enum EErrorCode {
 	ErrUseSkillTargetPosDisCheck = 5712;
 	ErrStopPassiveSkillByType = 5713;
 	ErrStopPassiveSkillById = 5714;
+	ErrUseSkillAttrNotSupport = 5715;
+	ErrUseSkillDissatisfy = 5716;
 	ErrFightLogicConditionBlockInvalid = 5730;
 	ErrFightLogicActionGroupInvalid = 5731;
 	ErrFightLogicConditionNotMatch = 5732;
@@ -1001,6 +1007,7 @@ enum EErrorCode {
 	ErrBattlePassLevelError = 6206;
 	ErrNoRefreshTimes = 6207;
 	ErrTargetNotCompleted = 6208;
+	ErrTargetAwardGet = 6209;
 	ErrOnlinePeriodTooMore = 6251;
 	ErrPersonalTagTooMore = 6252;
 	ErrPersonalTagNotFound = 6253;
@@ -1100,6 +1107,7 @@ enum EErrorCode {
 	ErrExchangeItemExistMinPrice = 6490;
 	ErrExchangeNoticeItemMin = 6491;
 	ErrExchangePreBuyUserFull = 6492;
+	ErrExchangeItemExpireTimeNotEnough = 6493;
 	ErrModHoleNotUnlock = 6501;
 	ErrModNotExist = 6502;
 	ErrModSimilarRepeated = 6503;
@@ -1237,6 +1245,9 @@ enum EErrorCode {
 	EErGashaWishRepeated = 7026;
 	EErGashaWishCountNoEnough = 7027;
 	ErrWarehouseAuthority = 7028;
+	ErrStoryNodeType = 7030;
+	ErrStoryNodeIdLock = 7031;
+	ErrStoryPerReceived = 7032;
 	ErrEquipCantDecompose = 7051;
 	ErrEquipNotRecastRecord = 7052;
 	ErrEquipOnCantUsedRecastConsume = 7053;
@@ -1254,6 +1265,17 @@ enum EErrorCode {
 	ErrEquipDecomposeOverflow = 7065;
 	ErrEquipDecomposeEnchantAward = 7066;
 	ErrEquipDecomposeBreakAward = 7067;
+	ErrEquipRecastPerfectionAlreadyMax = 7068;
+	ErrEquipCreateGsNotMatch = 7069;
+	ErrEquipTransformAttrSame = 7071;
+	ErrEquipTransformAttrExist = 7072;
+	ErrEquipTransformAttrNotExistInLib = 7073;
+	ErrEquipTransformCurAttrNoLib = 7074;
+	ErrEquipTransformAttrNotEnoughInLib = 7075;
+	ErrEquipTransformNotAllow = 7076;
+	ErrEquipTransformNotCurProfession = 7077;
+	ErrEquipTransformAttrEnoughInLib = 7078;
+	ErrEquipTransformPerfectionNoMatch = 7079;
 	ErrUserIsMatching = 7101;
 	ErrUserNotInMatching = 7102;
 	ErrUseNotWaitReady = 7103;
@@ -1296,6 +1318,9 @@ enum EErrorCode {
 	ErrFunctionNoAward = 7271;
 	ErrFunctionHasDrawn = 7272;
 	ErrTLogIllegalExportArea = 7281;
+	ErrMentorNewBackLimit = 7291;
+	ErrMentorNotMentor = 7292;
+	ErrMentorInternshipAssessFirst = 7293;
 	ErrPayOrderFail = 7300;
 	ErrPayCostNotEnough = 7301;
 	ErrPayCantBuy = 7302;
@@ -1362,6 +1387,7 @@ enum EErrorCode {
 	ErrSeasonTalentCultivateLineAlreadyActive = 7564;
 	ErrSeasonTalentCultivateLineAlreadyDisabled = 7565;
 	ErrSeasonTalentSwitchInGreaterRiftScene = 7566;
+	ErrSeasonTalentFactorNotCurrentSeason = 7567;
 	ErrActionGroupNumUpToLimit = 7601;
 	ErrActionGroupNotExist = 7602;
 	ErrActionGroupActionIdInvalid = 7603;
@@ -1387,6 +1413,8 @@ enum EErrorCode {
 	ErrGamePlayNotSupported = 7665;
 	ErrBandNotInInstrumentState = 7700;
 	ErrBandTeamMemberCancelActivity = 7701;
+	ErrBandInstrumentLevelNotEnough = 7702;
+	ErrBandInstrumentUnlocked = 7703;
 	ErrHomeBluePrintSlotInvalid = 7801;
 	ErrShareCodeGenerateFailed = 7851;
 	ErrShareCodeInvalid = 7852;

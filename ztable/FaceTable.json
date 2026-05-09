@@ -1062,6 +1062,131 @@
       ]
     ]
   },
+  "1011062": {
+    "Id": 1011062,
+    "Type": 101,
+    "Sex": 1,
+    "Model": [],
+    "SortId": 221,
+    "Icon": "face_icon_m_hair_ip003x01",
+    "Resource": "ch_m_hair_ip003x01",
+    "Unlock": [
+      [
+        1076058,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "1011060": {
+    "Id": 1011060,
+    "Type": 101,
+    "Sex": 1,
+    "Model": [],
+    "SortId": 218,
+    "Icon": "face_icon_m_hair_ip002x01",
+    "Resource": "ch_m_hair_ip002x01",
+    "Unlock": [
+      [
+        1076049,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "1011059": {
+    "Id": 1011059,
+    "Type": 101,
+    "Sex": 1,
+    "Model": [],
+    "SortId": 219,
+    "Icon": "face_icon_m_hair062",
+    "Resource": "ch_m_hair_hair062",
+    "Unlock": [
+      [
+        1076054,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "1011061": {
+    "Id": 1011061,
+    "Type": 101,
+    "Sex": 1,
+    "Model": [],
+    "SortId": 220,
+    "Icon": "face_icon_m_hair061",
+    "Resource": "ch_m_hair_hair061",
+    "Unlock": [
+      [
+        1076055,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80109
+      ]
+    ]
+  },
+  "1011063": {
+    "Id": 1011063,
+    "Type": 101,
+    "Sex": 1,
+    "Model": [],
+    "SortId": 222,
+    "Icon": "face_icon_m_hair064",
+    "Resource": "ch_m_hair_hair064",
+    "Unlock": [
+      [
+        1074166,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": []
+  },
   "1012001": {
     "Id": 1012001,
     "Type": 101,
@@ -1877,6 +2002,105 @@
         80204
       ]
     ]
+  },
+  "1012049": {
+    "Id": 1012049,
+    "Type": 101,
+    "Sex": 2,
+    "Model": [],
+    "SortId": 213,
+    "Icon": "face_icon_f_hair_ip003x02",
+    "Resource": "ch_f_hair_ip003x02",
+    "Unlock": [
+      [
+        1076059,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "1012047": {
+    "Id": 1012047,
+    "Type": 101,
+    "Sex": 2,
+    "Model": [],
+    "SortId": 211,
+    "Icon": "face_icon_f_hair_ip002x01",
+    "Resource": "ch_f_hair_ip002x01",
+    "Unlock": [
+      [
+        1076049,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "1012048": {
+    "Id": 1012048,
+    "Type": 101,
+    "Sex": 2,
+    "Model": [],
+    "SortId": 212,
+    "Icon": "face_icon_f_hair056",
+    "Resource": "ch_f_hair_hair056",
+    "Unlock": [
+      [
+        1076054,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "1012050": {
+    "Id": 1012050,
+    "Type": 101,
+    "Sex": 2,
+    "Model": [],
+    "SortId": 214,
+    "Icon": "face_icon_f_hair057",
+    "Resource": "ch_f_hair_hair057",
+    "Unlock": [
+      [
+        1074166,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": []
   },
   "1021001": {
     "Id": 1021001,
@@ -3554,6 +3778,32 @@
       ]
     ]
   },
+  "1022028": {
+    "Id": 1022028,
+    "Type": 102,
+    "Sex": 2,
+    "Model": [],
+    "SortId": 213,
+    "Icon": "face_icon_f_fhair050",
+    "Resource": "ch_f_fhair_hair050",
+    "Unlock": [
+      [
+        1076056,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80109
+      ]
+    ]
+  },
   "1032001": {
     "Id": 1032001,
     "Type": 103,
@@ -4084,6 +4334,32 @@
       [
         110,
         80207
+      ]
+    ]
+  },
+  "1032029": {
+    "Id": 1032029,
+    "Type": 103,
+    "Sex": 2,
+    "Model": [],
+    "SortId": 213,
+    "Icon": "face_icon_f_bhair050",
+    "Resource": "ch_f_bhair_hair050",
+    "Unlock": [
+      [
+        1076057,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80109
       ]
     ]
   },
@@ -4672,6 +4948,22 @@
     "SortId": 99,
     "Icon": "",
     "Resource": "ch_f_hair_hair040_b",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 1,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": []
+  },
+  "10100009": {
+    "Id": 10100009,
+    "Type": 101,
+    "Sex": 2,
+    "Model": [],
+    "SortId": 99,
+    "Icon": "",
+    "Resource": "ch_f_hair_ip003x02npc",
     "Unlock": [],
     "Create": 0,
     "IsHide": 1,
@@ -6139,6 +6431,558 @@
     "FaceShapeId": 0,
     "Number": 0,
     "Condition": []
+  },
+  "2011111": {
+    "Id": 2011111,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      1
+    ],
+    "SortId": 119,
+    "Icon": "face_icon_c_feature_ip002x01",
+    "Resource": "ch_c_feature_ip002x01",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2011113": {
+    "Id": 2011113,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      1
+    ],
+    "SortId": 121,
+    "Icon": "face_icon_c_feature094",
+    "Resource": "ch_c_feature_94",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2011112": {
+    "Id": 2011112,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      1
+    ],
+    "SortId": 120,
+    "Icon": "face_icon_c_feature_ip002x02",
+    "Resource": "ch_c_feature_ip002x02",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2011114": {
+    "Id": 2011114,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      1
+    ],
+    "SortId": 122,
+    "Icon": "face_icon_c_feature095",
+    "Resource": "ch_c_feature_95",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2011212": {
+    "Id": 2011212,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      2
+    ],
+    "SortId": 119,
+    "Icon": "face_icon_c_feature_ip002x01",
+    "Resource": "ch_c_feature_ip002x01",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2011214": {
+    "Id": 2011214,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      2
+    ],
+    "SortId": 121,
+    "Icon": "face_icon_c_feature094",
+    "Resource": "ch_c_feature_94",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2011213": {
+    "Id": 2011213,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      2
+    ],
+    "SortId": 120,
+    "Icon": "face_icon_c_feature_ip002x02",
+    "Resource": "ch_c_feature_ip002x02",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2011215": {
+    "Id": 2011215,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      2
+    ],
+    "SortId": 122,
+    "Icon": "face_icon_c_feature095",
+    "Resource": "ch_c_feature_95",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2011312": {
+    "Id": 2011312,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      3
+    ],
+    "SortId": 119,
+    "Icon": "face_icon_c_feature_ip002x01",
+    "Resource": "ch_c_feature_ip002x01",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2011314": {
+    "Id": 2011314,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      3
+    ],
+    "SortId": 121,
+    "Icon": "face_icon_c_feature094",
+    "Resource": "ch_c_feature_94",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2011313": {
+    "Id": 2011313,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      3
+    ],
+    "SortId": 120,
+    "Icon": "face_icon_c_feature_ip002x02",
+    "Resource": "ch_c_feature_ip002x02",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2011315": {
+    "Id": 2011315,
+    "Type": 201,
+    "Sex": 1,
+    "Model": [
+      3
+    ],
+    "SortId": 122,
+    "Icon": "face_icon_c_feature095",
+    "Resource": "ch_c_feature_95",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2012112": {
+    "Id": 2012112,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      1
+    ],
+    "SortId": 119,
+    "Icon": "face_icon_c_feature_ip002x01",
+    "Resource": "ch_c_feature_ip002x01",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2012114": {
+    "Id": 2012114,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      1
+    ],
+    "SortId": 121,
+    "Icon": "face_icon_c_feature094",
+    "Resource": "ch_c_feature_94",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2012113": {
+    "Id": 2012113,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      1
+    ],
+    "SortId": 120,
+    "Icon": "face_icon_c_feature_ip002x02",
+    "Resource": "ch_c_feature_ip002x02",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2012115": {
+    "Id": 2012115,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      1
+    ],
+    "SortId": 122,
+    "Icon": "face_icon_c_feature095",
+    "Resource": "ch_c_feature_95",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2012212": {
+    "Id": 2012212,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      2
+    ],
+    "SortId": 119,
+    "Icon": "face_icon_c_feature_ip002x01",
+    "Resource": "ch_c_feature_ip002x01",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2012214": {
+    "Id": 2012214,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      2
+    ],
+    "SortId": 121,
+    "Icon": "face_icon_c_feature094",
+    "Resource": "ch_c_feature_94",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2012213": {
+    "Id": 2012213,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      2
+    ],
+    "SortId": 120,
+    "Icon": "face_icon_c_feature_ip002x02",
+    "Resource": "ch_c_feature_ip002x02",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2012215": {
+    "Id": 2012215,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      2
+    ],
+    "SortId": 122,
+    "Icon": "face_icon_c_feature095",
+    "Resource": "ch_c_feature_95",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2012312": {
+    "Id": 2012312,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      3
+    ],
+    "SortId": 119,
+    "Icon": "face_icon_c_feature_ip002x01",
+    "Resource": "ch_c_feature_ip002x01",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2012314": {
+    "Id": 2012314,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      3
+    ],
+    "SortId": 121,
+    "Icon": "face_icon_c_feature094",
+    "Resource": "ch_c_feature_94",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "2012313": {
+    "Id": 2012313,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      3
+    ],
+    "SortId": 120,
+    "Icon": "face_icon_c_feature_ip002x02",
+    "Resource": "ch_c_feature_ip002x02",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
+  "2012315": {
+    "Id": 2012315,
+    "Type": 201,
+    "Sex": 2,
+    "Model": [
+      3
+    ],
+    "SortId": 122,
+    "Icon": "face_icon_c_feature095",
+    "Resource": "ch_c_feature_95",
+    "Unlock": [],
+    "Create": 1,
+    "IsHide": 0,
+    "Weight": 1,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
   },
   "3010001": {
     "Id": 3010001,

@@ -671,6 +671,82 @@
     ],
     "BreakThroughAddAwardPackID": []
   },
+  "10010": {
+    "Id": 10010,
+    "DecomposeId": 10010,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001661,
+    "RecastAddAwardPackID": 0,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": [
+      [
+        1,
+        1,
+        20001601
+      ],
+      [
+        2,
+        2,
+        20001611
+      ],
+      [
+        3,
+        3,
+        20001621
+      ]
+    ]
+  },
+  "10011": {
+    "Id": 10011,
+    "DecomposeId": 10011,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001920,
+    "RecastAddAwardPackID": 0,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "10012": {
+    "Id": 10012,
+    "DecomposeId": 10012,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001930,
+    "RecastAddAwardPackID": 0,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
   "11001": {
     "Id": 11001,
     "DecomposeId": 11001,
@@ -956,6 +1032,360 @@
         2,
         2,
         20001650
+      ]
+    ]
+  },
+  "14001": {
+    "Id": 14001,
+    "DecomposeId": 14001,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001670,
+    "RecastAddAwardPackID": 20001830,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14002": {
+    "Id": 14002,
+    "DecomposeId": 14002,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001680,
+    "RecastAddAwardPackID": 20001840,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14003": {
+    "Id": 14003,
+    "DecomposeId": 14003,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001690,
+    "RecastAddAwardPackID": 20001830,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14004": {
+    "Id": 14004,
+    "DecomposeId": 14004,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001700,
+    "RecastAddAwardPackID": 20001840,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14005": {
+    "Id": 14005,
+    "DecomposeId": 14005,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001710,
+    "RecastAddAwardPackID": 20001850,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14006": {
+    "Id": 14006,
+    "DecomposeId": 14006,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001720,
+    "RecastAddAwardPackID": 20001860,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14007": {
+    "Id": 14007,
+    "DecomposeId": 14007,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001730,
+    "RecastAddAwardPackID": 20001850,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14008": {
+    "Id": 14008,
+    "DecomposeId": 14008,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001740,
+    "RecastAddAwardPackID": 20001860,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14009": {
+    "Id": 14009,
+    "DecomposeId": 14009,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001750,
+    "RecastAddAwardPackID": 20001870,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14010": {
+    "Id": 14010,
+    "DecomposeId": 14010,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001760,
+    "RecastAddAwardPackID": 20001890,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14011": {
+    "Id": 14011,
+    "DecomposeId": 14011,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001770,
+    "RecastAddAwardPackID": 20001870,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14012": {
+    "Id": 14012,
+    "DecomposeId": 14012,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001780,
+    "RecastAddAwardPackID": 20001890,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": []
+  },
+  "14013": {
+    "Id": 14013,
+    "DecomposeId": 14013,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001790,
+    "RecastAddAwardPackID": 20001850,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": [
+      [
+        1,
+        1,
+        20001890
+      ]
+    ]
+  },
+  "14014": {
+    "Id": 14014,
+    "DecomposeId": 14014,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001800,
+    "RecastAddAwardPackID": 20001850,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": [
+      [
+        1,
+        1,
+        20001890
+      ]
+    ]
+  },
+  "14015": {
+    "Id": 14015,
+    "DecomposeId": 14015,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001810,
+    "RecastAddAwardPackID": 20001870,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": [
+      [
+        1,
+        1,
+        20001900
+      ],
+      [
+        2,
+        2,
+        20001910
+      ]
+    ]
+  },
+  "14016": {
+    "Id": 14016,
+    "DecomposeId": 14016,
+    "RecastNum": [],
+    "DecomposeAwardPackID": 20001820,
+    "RecastAddAwardPackID": 20001870,
+    "EnchantAddAwardPackID": [
+      [
+        1,
+        3,
+        20002010
+      ],
+      [
+        4,
+        99,
+        20002020
+      ]
+    ],
+    "BreakThroughAddAwardPackID": [
+      [
+        1,
+        1,
+        20001900
+      ],
+      [
+        2,
+        2,
+        20001910
       ]
     ]
   }

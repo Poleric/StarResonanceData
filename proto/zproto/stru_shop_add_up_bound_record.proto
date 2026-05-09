@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message ShopAddUpBoundRecord {
+	int32 addUpCount = 1 [json_name = "addUpCount"];
+	int64 lastRefreshTimestamp = 2 [json_name = "lastRefreshTimestamp"];
+}

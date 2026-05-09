@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "enum_e_equip_attr_category.proto";
+
+package zproto;
+
+message TransformEquipRequest {
+	uint64 uuid = 1 [json_name = "uuid"];
+	EEquipAttrCategory category = 2 [json_name = "category"];
+	int32 currentAttr = 3 [json_name = "currentAttr"];
+	int32 desiredAttr = 4 [json_name = "desiredAttr"];
+}

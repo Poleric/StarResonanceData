@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message StoryUnlockNodes {
+	map<uint32, bool> unlockNodeList = 1 [json_name = "unlockNodeList"];
+	map<uint32, bool> stayStepNodeList = 2 [json_name = "stayStepNodeList"];
+}

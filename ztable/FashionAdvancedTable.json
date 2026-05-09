@@ -928,5 +928,125 @@
     "FashionId": 7125136,
     "Quality": 4,
     "SortId": 1
+  },
+  "701514501": {
+    "Id": 701514501,
+    "Name": "Thumping Vigil - Frenzy",
+    "Icon": "simplesuit_icon_m_band01up01",
+    "Banner": "fashion_skin_21",
+    "Consume": [
+      [
+        1076050,
+        1
+      ]
+    ],
+    "FashionId": 7015145,
+    "Quality": 4,
+    "SortId": 1
+  },
+  "701514601": {
+    "Id": 701514601,
+    "Name": "Thumping Vigil - Frenzy",
+    "Icon": "simplesuit_icon_f_band01up01",
+    "Banner": "fashion_skin_21",
+    "Consume": [
+      [
+        1076050,
+        1
+      ]
+    ],
+    "FashionId": 7015146,
+    "Quality": 4,
+    "SortId": 1
+  },
+  "711514501": {
+    "Id": 711514501,
+    "Name": "Thumping Vigil - Frenzy",
+    "Icon": "gloves_icon_m_band01up01",
+    "Banner": "fashion_skin_21",
+    "Consume": [
+      [
+        1076051,
+        1
+      ]
+    ],
+    "FashionId": 7115145,
+    "Quality": 4,
+    "SortId": 1
+  },
+  "711514601": {
+    "Id": 711514601,
+    "Name": "Thumping Vigil - Frenzy",
+    "Icon": "gloves_icon_f_band01up01",
+    "Banner": "fashion_skin_21",
+    "Consume": [
+      [
+        1076051,
+        1
+      ]
+    ],
+    "FashionId": 7115146,
+    "Quality": 4,
+    "SortId": 1
+  },
+  "712514501": {
+    "Id": 712514501,
+    "Name": "Thumping Vigil - Frenzy",
+    "Icon": "shoes_icon_m_band01up01",
+    "Banner": "fashion_skin_21",
+    "Consume": [
+      [
+        1076052,
+        1
+      ]
+    ],
+    "FashionId": 7125145,
+    "Quality": 4,
+    "SortId": 1
+  },
+  "712514601": {
+    "Id": 712514601,
+    "Name": "Thumping Vigil - Frenzy",
+    "Icon": "shoes_icon_f_band01up01",
+    "Banner": "fashion_skin_21",
+    "Consume": [
+      [
+        1076052,
+        1
+      ]
+    ],
+    "FashionId": 7125146,
+    "Quality": 4,
+    "SortId": 1
+  },
+  "713034501": {
+    "Id": 713034501,
+    "Name": "Thumping Vigil - Frenzy",
+    "Icon": "headwear_icon_m_band01up01",
+    "Banner": "fashion_skin_21",
+    "Consume": [
+      [
+        1076053,
+        1
+      ]
+    ],
+    "FashionId": 7130345,
+    "Quality": 4,
+    "SortId": 1
+  },
+  "713034601": {
+    "Id": 713034601,
+    "Name": "Thumping Vigil - Frenzy",
+    "Icon": "headwear_icon_f_band01up01",
+    "Banner": "fashion_skin_21",
+    "Consume": [
+      [
+        1076053,
+        1
+      ]
+    ],
+    "FashionId": 7130346,
+    "Quality": 4,
+    "SortId": 1
   }
 }

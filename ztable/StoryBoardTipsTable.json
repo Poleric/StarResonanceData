@@ -1,0 +1,23 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Remark": "锁定",
+    "IconPath": "",
+    "IconName": "Lock-On",
+    "PresetPos": 0
+  },
+  "1002": {
+    "Id": 1002,
+    "Remark": "解锁",
+    "IconPath": "",
+    "IconName": "Unlock",
+    "PresetPos": 0
+  },
+  "2001": {
+    "Id": 2001,
+    "Remark": "曾被隐藏",
+    "IconPath": "",
+    "IconName": "Previously Hidden",
+    "PresetPos": 0
+  }
+}

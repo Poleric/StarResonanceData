@@ -4,6 +4,7 @@ package zproto;
 
 enum EFunctionType {
 	FunctionTypeNull = 0;
+	FunctionTypePickupProfession = 100108;
 	FunctionTypeCheckName = 100215;
 	FunctionTypeMonsterHunt = 100804;
 	FunctionTypeTeamVoice = 101008;
@@ -15,6 +16,7 @@ enum EFunctionType {
 	FunctionTypeRide = 102800;
 	FunctionTypeProfessionLv = 104201;
 	FunctionTypeHomeRecycle = 106105;
+	FunctionTypeBlackMarketRecycle = 106109;
 	FunctionTypeLinearDungeon = 300100;
 	FunctionTypeHeroDungeonNormal = 300201;
 	FunctionTypeHeroDungeonChallenge = 300202;

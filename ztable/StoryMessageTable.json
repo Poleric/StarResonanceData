@@ -15,6 +15,14 @@
     "DurationTime": 4.0,
     "Interrupt": 0
   },
+  "581201": {
+    "Id": 581201,
+    "Content": "Boyce reaches out to his younger self, but the child does not respond.<br>—He dissolves into a blinding beam of white light within the illusion.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
   "2002401": {
     "Id": 2002401,
     "Content": "You hear a sound coming from not far away, rising and falling. <br>You first thought it was just the bleating of Caprahorns, but upon closer listening, you pick up a faint call for help...",
@@ -31,20 +39,52 @@
     "DurationTime": 8.0,
     "Interrupt": 0
   },
+  "2002501": {
+    "Id": 2002501,
+    "Content": "There was the brief sound of a weapon being unsheathed, and the informer's voice stopped abruptly.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "2002502": {
+    "Id": 2002502,
+    "Content": "The Imagine Seed was activated, and a clear image appeared in my mind—",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "2002503": {
+    "Id": 2002503,
+    "Content": "The soldiers skillfully carried away the bodies of Reiner and the others, barely sparing us a glance.<br>Their black military boots trampled the torn List on the ground, as if it were garbage that had never held any meaning.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "2002601": {
+    "Id": 2002601,
+    "Content": "I arrived at the Garrison Outpost with fifty guards disguised as adventurers.<br>Reynold called out the soldiers inside and loudly questioned them about the mine.<br>They laughed, acting as if they didn't care at all.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "2002602": {
+    "Id": 2002602,
+    "Content": "After intercepting the pursuing soldiers, I didn't waste time fighting, but rather retreated immediately,<br>heading toward Asterleeds.<br>When I reached the city entrance, I saw Jerrad and the others waiting anxiously.<br>Seeing me return safely, everyone smiled and breathed a sigh of relief.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
   "3000801": {
     "Id": 3000801,
     "Content": "As you and Lure chatted while fishing, time flew by...",
     "Type": 140,
-    "FadeInTime": 1,
+    "FadeInTime": 0,
     "DurationTime": 4.0,
-    "Interrupt": 0
-  },
-  "5010301": {
-    "Id": 5010301,
-    "Content": "Rose saw the little kitten under the tree and called out to it with soft \"meows.\"<br>The kitten trotted over and rubbed against Rose, meowing softly.<br>Before long, Rose came back to my side and nudged me to follow it.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 14.0,
     "Interrupt": 0
   },
   "3000901": {
@@ -133,6 +173,134 @@
     "Type": 140,
     "FadeInTime": 1,
     "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3001501": {
+    "Id": 3001501,
+    "Content": "Afterwards, you took the three awakened members of the Adventurer squad and left the Cabbage Mission's hideout without any obstruction.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3001901": {
+    "Id": 3001901,
+    "Content": "With the combined efforts of the Adventurers, the Cabbage Kingpin was defeated. But as the dust settled, she was nowhere to be seen...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3002501": {
+    "Id": 3002501,
+    "Content": "Isabella reached out towards the Illusory Bloom. You closed your eyes and let your guard down...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "3002502": {
+    "Id": 3002502,
+    "Content": "\"Isabella... promise me... you will live on...\"<br>\"Promise me...\"",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "3002601": {
+    "Id": 3002601,
+    "Content": "The next day, I went to the fishing spot, planning to help old Demi win the competition.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "3002602": {
+    "Id": 3002602,
+    "Content": "The competition started and fish were being thrown into the bucket one after the other. I was on a roll!<br>When the match finally ended and the catch was counted, it turned out I had won...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3002701": {
+    "Id": 3002701,
+    "Content": "When I went back and told Paton and Asheley, neither of them believed me. They insisted on finding the other person to ask them directly.<br>So I brought them here to verify my story... Davi came along too, to watch the fun.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "3002801": {
+    "Id": 3002801,
+    "Content": "So I took Duffy to the entrance of Lallipar and hung a sign around his neck.<br>It read, \"I will never be a scammer again!\" Duffy was so embarrassed he wished he could just sink into the ground.<br>He probably won't be scamming anyone anymore.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "3002901": {
+    "Id": 3002901,
+    "Content": "The moment she took the seal,<br>Sabine's relieved expression turned blank,<br>then returned to the coldness she had when we first met.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3003101": {
+    "Id": 3003101,
+    "Content": "A wisp of fine, ash-like mist escaped from the seal of the bone cylinder placed on the ground.<br>It swirled in the air, weaving into eerie shapes,<br>before finally settling into a swirling triangle.<br>A moment later, it was blown away by a gust of wind...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "3003301": {
+    "Id": 3003301,
+    "Content": "You informed Evelyn about the malfunctioning Mechcore Oculoid encountered in the Gloomy Depths...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "3003302": {
+    "Id": 3003302,
+    "Content": "Soon, Anthony had gathered all the parts on the list...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3003501": {
+    "Id": 3003501,
+    "Content": "After waiting for an unknown amount of time, you saw the consultant returning with Carojé on their back.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "3003502": {
+    "Id": 3003502,
+    "Content": "You told them about what was seen in the Gloomy Depths...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3003601": {
+    "Id": 3003601,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3003602": {
+    "Id": 3003602,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
     "Interrupt": 0
   },
   "3061001": {
@@ -319,12 +487,372 @@
     "DurationTime": 3.0,
     "Interrupt": 0
   },
+  "3064201": {
+    "Id": 3064201,
+    "Content": "\"Wait! \"<br>Someone suddenly darts out just as I try to approach the Caprahorn.<br>Even though he lowers his voice, the abrupt sound still breaks the forest's quiet.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3064202": {
+    "Id": 3064202,
+    "Content": "Two Foxens emerge quietly from the bushes, staring at the injured Caprahorn, their gazes filled with ferocity.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3064501": {
+    "Id": 3064501,
+    "Content": "I measured the wall five times with a tape measure...<br>Something very strange occurred.<br>The reading was different every time.<br>Each time I released the tape and pulled it tight again,<br>the scale had shifted in a ghost-like manner...<br>Although this frightening discovery sent chills down my spine,<br>I still managed to complete the five measurements.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 14.0,
+    "Interrupt": 0
+  },
+  "3064502": {
+    "Id": 3064502,
+    "Content": "I measured the wall five times with a protractor...<br>The strange phenomenon occurred again. Despite placing it on the exact same corner,<br>whenever I moved the protractor then put it back,<br>the scale had shifted...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "3064601": {
+    "Id": 3064601,
+    "Content": "Marcel carefully disassembled the clockwork chicken<br>and modified the precision gears and clockwork mechanisms inside...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "3064602": {
+    "Id": 3064602,
+    "Content": "The experiment began, and the clockwork chicken walked towards the predetermined point.<br>However, its speed did not change significantly.<br><br>Just as everyone was looking disappointed,<br>the clockwork chicken suddenly vanished from the track.<br><br>Then two clockwork chickens appeared at the start and finish lines simultaneously!<br>—And a moment later, they merged back into one...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 14.0,
+    "Interrupt": 0
+  },
+  "3064701": {
+    "Id": 3064701,
+    "Content": "Julien and Marcel repeated the clockwork chicken experiment.<br>Unfortunately,<br>the bizarre splitting phenomenon did not occur this time...<br>The priest's expression grew even more solemn.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3064801": {
+    "Id": 3064801,
+    "Content": "Afterwards, the Creed Priest had a long discussion with the artisan team leader.<br>The guards remained vigilant nearby, so I couldn't get close.<br>But at the same time, a strong wind blew through the camp, whipping up dead grass on the ground and tracing a vortex that resembled a triangle.<br>Occasionally, words like \"memory\" and \"traces\" were carried on the wind, only to quickly fade away...<br><br>When the meeting ended, both of their expressions were even more grave than when they arrived.<br><br>But regardless, the sensational Crimson Marrow incident<br>had finally come to an end—at least on the surface.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 15.0,
+    "Interrupt": 0
+  },
+  "3064901": {
+    "Id": 3064901,
+    "Content": "After taking the herbs, her furrowed brow gradually relaxed, and her breathing steadied.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3065001": {
+    "Id": 3065001,
+    "Content": "Flavia's hand trembled slightly<br>as she dropped the reverse reagent into the solution.<br><br>The solution grew slightly cloudy, then separated as if by an invisible hand.<br>A portion sank to the bottom, coagulating into fine crimson crystal fragments...<br>The other part remained suspended in the liquid, taking on a much darker hue.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "3065101": {
+    "Id": 3065101,
+    "Content": "Juster took out a narrow-necked vial and slowly passed it by his glasses.<br>When the vial approached the slender part of the right frame,<br>the crystal inside suddenly lit up with a bright yellow glow.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3065201": {
+    "Id": 3065201,
+    "Content": "Lorraine frantically opened her backpack to check, relaxing only after seeing its contents.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3065202": {
+    "Id": 3065202,
+    "Content": "I moved the girl to a safe corner. It wasn't long before she woke up from her unconscious state, seemingly without any serious injuries.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "3065301": {
+    "Id": 3065301,
+    "Content": "I stepped on a particularly soft patch of ground, but it was too late to turn back by the time I felt it. A figure lunged forward from behind me.<br>\"Watch out!\"",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3065302": {
+    "Id": 3065302,
+    "Content": "Just as I was about to strike to ensure Adriana's safety, the Basilisk stopped and nudged the girl with its snout.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3065401": {
+    "Id": 3065401,
+    "Content": "The Crimson Foxen stared at you intently as it slowly backed away. It picked up the fallen foxen in its mouth and disappeared into the night with a few large bounds.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "3065402": {
+    "Id": 3065402,
+    "Content": "You recounted the scene you just witnessed to Alfonso, and he fell silent...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "3065601": {
+    "Id": 3065601,
+    "Content": "Schlange listened silently to your account...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3065602": {
+    "Id": 3065602,
+    "Content": "Konrad frowned as he listened to your account, sighing from time to time...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3065603": {
+    "Id": 3065603,
+    "Content": "After handing the letter to Konrad, you left the area...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3066201": {
+    "Id": 3066201,
+    "Content": "You made a quick dash back to hand the Starsoul Flask over to the villagers. After using it, Taliesin's condition seemed to improve significantly...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "3066401": {
+    "Id": 3066401,
+    "Content": "With some assistance, the artisans finally pinned Varian down in a flurry and used the Starsoul Flask on him. After a long while, he began to regain consciousness...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
   "3910302": {
     "Id": 3910302,
     "Content": "The emotional Julian falls silent. <br>Only the sounds of the wind, the chirping of insects, <br>and the paint-covered brush on canvas remain. <br><br>A long time passes... then a cry of surprise breaks the silence...",
     "Type": 140,
     "FadeInTime": 1,
     "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "3911701": {
+    "Id": 3911701,
+    "Content": "Lushuna sang an a cappella tidal tune on the spot. Not just me, but other tourists on the beach stopped to listen.<br>The song was melodious and moving, carrying the unique gentleness and vastness of the ocean.<br>It felt as if the tide rose and fell with the melody, melting the freshness of the sea breeze and the weight of the reefs into his voice...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 13.0,
+    "Interrupt": 0
+  },
+  "4050001": {
+    "Id": 4050001,
+    "Content": "Horrace and his party left...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050002": {
+    "Id": 4050002,
+    "Content": "Luca grabbed the money and dashed away...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050003": {
+    "Id": 4050003,
+    "Content": "The villagers, still in shock, kept their distance from me.<br>It seemed they'd rather walk along the dangerous cliff edge than get close...<br>Lysa babbled nonsense the whole way, bursting into tears at the mere mention of Boyce.<br>After much trouble, I finally managed to escort them back to their homes...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "4050004": {
+    "Id": 4050004,
+    "Content": "Horrace, Lothar, and their party left...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050005": {
+    "Id": 4050005,
+    "Content": "The boss lady left.<br>I felt like I could hear faint, hearty laughter coming from the direction she went...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050006": {
+    "Id": 4050006,
+    "Content": "Boyce began skillfully brewing the potion...<br>A strange fragrance filled the air,<br>like the scent of dew at dawn,<br>or damp earth after a rainshower,<br>finally condensing into the freshness of an insect flitting past one's nose...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "4050007": {
+    "Id": 4050007,
+    "Content": "Boyce closed his eyes and began to meditate...<br>After a while, Olsonne was the first to wake up.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050008": {
+    "Id": 4050008,
+    "Content": "With Olsonne taken away by the cultists,<br>the Dreamweaver incident came to a close.<br>But the truth of the matter,<br>like the light that once shone in Boyce's eyes,<br>was frozen once more...<br>After that,<br>I didn't see Boyce for a long time.<br>Perhaps I will never again see<br>that heat amid the frost.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "4050009": {
+    "Id": 4050009,
+    "Content": "Boyce held the dim staff in front of him.<br>Without hesitation, he made a motion with both hands,<br>and with a crisp snap, the staff broke in two.<br>The Creed soldiers swarmed in<br>and took Boyce away...<br>Because of my connection with the Pioneer Bureau,<br>they didn't give me much trouble.<br>Boyce didn't appear again for a long time after that,<br>but the news that he would be judged by the Creed<br>had already spread...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 15.0,
+    "Interrupt": 0
+  },
+  "4050010": {
+    "Id": 4050010,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 1.5,
+    "Interrupt": 0
+  },
+  "4050011": {
+    "Id": 4050011,
+    "Content": "...Only when one no longer fears falling can one learn to fly.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050012": {
+    "Id": 4050012,
+    "Content": "(Boyce took a doll out of his pocket.)",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "4050013": {
+    "Id": 4050013,
+    "Content": "Once you regain consciousness, a golden field of wheat spreads out before you.<br>The breeze is gentle, and the outlines of a high tower and a steel giant are faintly visible in the distance.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "4050101": {
+    "Id": 4050101,
+    "Content": "Darya and I found the person in charge of the Blackstone Legion and explained the situation.<br>The leader was astounded and immediately led his men to resolve the issue.<br>Only after the soldiers were settled did we plan to ask about the full story.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "4050102": {
+    "Id": 4050102,
+    "Content": "I parted ways with Darya after that, though I occasionally hear news of her working hard to earn Luno.<br>Sometimes, she sends mementos from the plateau where she's hard at work, telling me that everything is going well for her.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "4050103": {
+    "Id": 4050103,
+    "Content": "Some time later, I received another letter from Darya.<br>With the note was a drawing of a little figure in pain. She said that she had fallen ill and urgently needed a kind adventurer to care for her.<br>I rushed over, only to find her sitting on her bed, looking listless.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 14.0,
+    "Interrupt": 0
+  },
+  "4050201": {
+    "Id": 4050201,
+    "Content": "Since then, Fafala has refused to even look at me.<br>When the village chief returned, I quietly left.<br>... I hope she gets well soon.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "4050202": {
+    "Id": 4050202,
+    "Content": "Her world seemed to be swallowed by fog once again.<br>No matter what I said, Fafala wouldn't answer.<br>By the time Chief Alphonse returned, I was already standing at the door.<br>... I hope that one day, I can see her smile again.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "4050203": {
+    "Id": 4050203,
+    "Content": "I reached under the bed and felt a tiny object hanging from the bed board.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.0,
+    "Interrupt": 0
+  },
+  "4050301": {
+    "Id": 4050301,
+    "Content": "Magne seemed to have finally let go of a long-held worry. She waved as she ran into the distance and soon disappeared at the other end of the village.<br>Now, only Airona and I remained.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "4050302": {
+    "Id": 4050302,
+    "Content": "Belleet finished speaking and slowly walked away.<br>I stood under the tree, her words ringing in my mind.<br>About the moonlight, about the flower that blooms only once...<br><br>Before I knew it, the sky had darkened.<br>When I came to, a familiar figure was standing by the Sea Lily under the tree.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 13.0,
+    "Interrupt": 0
+  },
+  "5010301": {
+    "Id": 5010301,
+    "Content": "Rose saw the little kitten under the tree and called out to it with soft \"meows.\"<br>The kitten trotted over and rubbed against Rose, meowing softly.<br>Before long, Rose came back to my side and nudged me to follow it.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 14.0,
     "Interrupt": 0
   },
   "5013101": {
@@ -335,19 +863,19 @@
     "DurationTime": 4.0,
     "Interrupt": 0
   },
-  "10010401": {
-    "Id": 10010401,
-    "Content": "The Man in Black disappeared into the Void Engram.<br>By the time I regained consciousness, I was already back in reality.",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 4.0,
-    "Interrupt": 0
-  },
   "5013201": {
     "Id": 5013201,
     "Content": "\"Come! You must find the item that still shines even when it is as old as the ancient Renewal Light!\"",
     "Type": 140,
     "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "10010401": {
+    "Id": 10010401,
+    "Content": "The Man in Black disappeared into the Void Engram.<br>By the time I regained consciousness, I was already back in reality.",
+    "Type": 140,
+    "FadeInTime": 0,
     "DurationTime": 4.0,
     "Interrupt": 0
   },
@@ -437,6 +965,14 @@
     "Type": 140,
     "FadeInTime": 0,
     "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "17021001": {
+    "Id": 17021001,
+    "Content": "I boarded the cruise with Luyanis.<br>The ship slowly left the shore, the sea breeze brushing my cheeks with a damp chill.<br>Mist soon swallowed the beach behind us, leaving only the sound of waves and the ship's movement.<br><br>I don't know how much time passed before the fog gradually lifted. A strange and brilliant island floated before my eyes like a dream.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 16.0,
     "Interrupt": 0
   },
   "17100106": {
@@ -551,6 +1087,158 @@
     "DurationTime": 4.0,
     "Interrupt": 0
   },
+  "30812001": {
+    "Id": 30812001,
+    "Content": "The Creed Guards came to Sunset Wilds and took the mysterious Masked Man away.<br>After some time, I went to ask about the results of the interrogation...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "30812002": {
+    "Id": 30812002,
+    "Content": "Just as I was about to continue asking questions, I noticed another merchant nearby gesturing to me.<br>So I decided to go over and ask...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "30813001": {
+    "Id": 30813001,
+    "Content": "No matter how much I called out to the little Caprahorn, it remained indifferent.<br>It even took a fighting stance when approached, displaying its wild nature.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.5,
+    "Interrupt": 0
+  },
+  "30813002": {
+    "Id": 30813002,
+    "Content": "I found Heremon and took him to the little Caprahorn.<br>But no matter how much he called out, it remained highly agitated and primed to attack.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.5,
+    "Interrupt": 0
+  },
+  "30818001": {
+    "Id": 30818001,
+    "Content": "Just as I spoke, birds scattered from the forest, and a heavy, low growl came from behind.<br>At the same time, thousands of gazes flickered among the trees—it was a herd of Caprahorn hiding in the woods.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 11.0,
+    "Interrupt": 0
+  },
+  "30818002": {
+    "Id": 30818002,
+    "Content": "Thanks to the adventurers' close cooperation, the giant Flamehorn slowly retreated back into the forest, and the gazes of the thousands of Caprahorn vanished.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "30837001": {
+    "Id": 30837001,
+    "Content": "Shrouded in darkness, a terrifying willpower swept over you,<br>overwhelming you with an irresistible drowsiness.<br>You lost consciousness...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "30839001": {
+    "Id": 30839001,
+    "Content": "The Blackstone Legion Soldier left quickly after finishing speaking,<br>leaving only an unguarded silhouette...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.5,
+    "Interrupt": 0
+  },
+  "30843001": {
+    "Id": 30843001,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 2.0,
+    "Interrupt": 0
+  },
+  "30844001": {
+    "Id": 30844001,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "30844002": {
+    "Id": 30844002,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "30845001": {
+    "Id": 30845001,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 5.5,
+    "Interrupt": 0
+  },
+  "30845002": {
+    "Id": 30845002,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "31101001": {
+    "Id": 31101001,
+    "Content": "No one expected the grand prize to be working as a staff member on Starland.<br>I spent the whole day busy—handing out balloons, guiding crowds, operating attractions, and doing other random tasks...<br>In the end, I was exhausted, lying catatonic on the beach. Maybe the person who won this super-special reward knew what the prize entailed, and that's why...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 14.0,
+    "Interrupt": 0
+  },
+  "31105001": {
+    "Id": 31105001,
+    "Content": "After the Lost and Found broadcast, a lady came looking for one of the items, calling herself Nyx.<br>She said she was Ometawi's companion and was sent to pick it up before describing the letter's features perfectly.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "31107001": {
+    "Id": 31107001,
+    "Content": "The children excitedly hid in the nearby Cherry Blossom Forest...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "31110001": {
+    "Id": 31110001,
+    "Content": "Tachi-Tachi relished the lamb chops, eating with gusto.<br>Boto's face squeezed itself into a forced smile,<br>as if he were enduring a tragic battle...<br>Finally, under the supervision of the Starland staff,<br>Boto and Tachi-Tachi left the island.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "31110002": {
+    "Id": 31110002,
+    "Content": "Special lamb chop held tightly in his arms,<br>Boto left Starland with Tachi-Tachi.<br>There was still a hint of roast meat in the wind,<br>but it was soon overpowered by the scent of the sea.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
+    "Interrupt": 0
+  },
+  "31110003": {
+    "Id": 31110003,
+    "Content": "At Boto's insistence,<br>the staff was forced to helplessly watch Tachi-Tachi gorge himself.<br>A triumphant smile adorned Boto's face the entire time,<br>as if he had won an unprecedented victory.<br>After Tachi-Tachi had eaten his fill, Boto thanked you profusely<br>and took Tachi-Tachi for a walk on the beach.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
   "33000201": {
     "Id": 33000201,
     "Content": "\"3, 2, 1—\" <br>An intense light flooded the entire cave...",
@@ -621,6 +1309,14 @@
     "Type": 140,
     "FadeInTime": 0,
     "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "33080701": {
+    "Id": 33080701,
+    "Content": "Alp ran off angrily...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
     "Interrupt": 0
   },
   "33251501": {
@@ -751,22 +1447,6 @@
     "DurationTime": 4.0,
     "Interrupt": 0
   },
-  "30818001": {
-    "Id": 30818001,
-    "Content": "Just as I spoke, birds scattered from the forest, and a heavy, low growl came from behind.<br>At the same time, thousands of gazes flickered among the trees—it was a herd of Caprahorn hiding in the woods.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 11.0,
-    "Interrupt": 0
-  },
-  "30818002": {
-    "Id": 30818002,
-    "Content": "Thanks to the adventurers' close cooperation, the giant Flamehorn slowly retreated back into the forest, and the gazes of the thousands of Caprahorn vanished.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 7.0,
-    "Interrupt": 0
-  },
   "33450102": {
     "Id": 33450102,
     "Content": "A while later...",
@@ -847,228 +1527,12 @@
     "DurationTime": 11.0,
     "Interrupt": 0
   },
-  "33080701": {
-    "Id": 33080701,
-    "Content": "Alp ran off angrily...",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 3.0,
-    "Interrupt": 0
-  },
-  "60904241": {
-    "Id": 60904241,
-    "Content": "You taste the stone-wheat flatbread with Caprahorn meat made by Anemone, but you can't chew the crust no matter how hard you try. <br>Anemone went to great lengths to salvage the texture of the ingredients, but it's clear her efforts were all for nothing.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 12.0,
-    "Interrupt": 0
-  },
-  "3064201": {
-    "Id": 3064201,
-    "Content": "\"Wait! \"<br>Someone suddenly darts out just as I try to approach the Caprahorn.<br>Even though he lowers his voice, the abrupt sound still breaks the forest's quiet.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 7.0,
-    "Interrupt": 0
-  },
-  "3064202": {
-    "Id": 3064202,
-    "Content": "Two Foxens emerge quietly from the bushes, staring at the injured Caprahorn, their gazes filled with ferocity.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 6.0,
-    "Interrupt": 0
-  },
-  "4050001": {
-    "Id": 4050001,
-    "Content": "Horrace and his party left...",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 3.0,
-    "Interrupt": 0
-  },
-  "4050101": {
-    "Id": 4050101,
-    "Content": "Darya and I found the person in charge of the Blackstone Legion and explained the situation.<br>The leader was astounded and immediately led his men to resolve the issue.<br>Only after the soldiers were settled did we plan to ask about the full story.",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 12.0,
-    "Interrupt": 0
-  },
-  "4050002": {
-    "Id": 4050002,
-    "Content": "Luca grabbed the money and dashed away...",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 3.0,
-    "Interrupt": 0
-  },
-  "4050102": {
-    "Id": 4050102,
-    "Content": "I parted ways with Darya after that, though I occasionally hear news of her working hard to earn Luno.<br>Sometimes, she sends mementos from the plateau where she's hard at work, telling me that everything is going well for her.",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 11.0,
-    "Interrupt": 0
-  },
-  "4050003": {
-    "Id": 4050003,
-    "Content": "The villagers, still in shock, kept their distance from me.<br>It seemed they'd rather walk along the dangerous cliff edge than get close...<br>Lysa babbled nonsense the whole way, bursting into tears at the mere mention of Boyce.<br>After much trouble, I finally managed to escort them back to their homes...",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 10.0,
-    "Interrupt": 0
-  },
-  "4050103": {
-    "Id": 4050103,
-    "Content": "Some time later, I received another letter from Darya.<br>With the note was a drawing of a little figure in pain. She said that she had fallen ill and urgently needed a kind adventurer to care for her.<br>I rushed over, only to find her sitting on her bed, looking listless.",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 14.0,
-    "Interrupt": 0
-  },
-  "4050004": {
-    "Id": 4050004,
-    "Content": "Horrace, Lothar, and their party left...",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 3.0,
-    "Interrupt": 0
-  },
-  "4050005": {
-    "Id": 4050005,
-    "Content": "The boss lady left.<br>I felt like I could hear faint, hearty laughter coming from the direction she went...",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 3.0,
-    "Interrupt": 0
-  },
-  "4050006": {
-    "Id": 4050006,
-    "Content": "Boyce began skillfully brewing the potion...<br>A strange fragrance filled the air,<br>like the scent of dew at dawn,<br>or damp earth after a rainshower,<br>finally condensing into the freshness of an insect flitting past one's nose...",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 8.0,
-    "Interrupt": 0
-  },
-  "4050007": {
-    "Id": 4050007,
-    "Content": "Boyce closed his eyes and began to meditate...<br>After a while, Olsonne was the first to wake up.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 3.0,
-    "Interrupt": 0
-  },
-  "4050008": {
-    "Id": 4050008,
-    "Content": "With Olsonne taken away by the cultists,<br>the Dreamweaver incident came to a close.<br>But the truth of the matter,<br>like the light that once shone in Boyce's eyes,<br>was frozen once more...<br>After that,<br>I didn't see Boyce for a long time.<br>Perhaps I will never again see<br>that heat amid the frost.",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 11.0,
-    "Interrupt": 0
-  },
-  "4050009": {
-    "Id": 4050009,
-    "Content": "Boyce held the dim staff in front of him.<br>Without hesitation, he made a motion with both hands,<br>and with a crisp snap, the staff broke in two.<br>The Creed soldiers swarmed in<br>and took Boyce away...<br>Because of my connection with the Pioneer Bureau,<br>they didn't give me much trouble.<br>Boyce didn't appear again for a long time after that,<br>but the news that he would be judged by the Creed<br>had already spread...",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 15.0,
-    "Interrupt": 0
-  },
-  "4050010": {
-    "Id": 4050010,
-    "Content": "",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 1.5,
-    "Interrupt": 0
-  },
-  "4050301": {
-    "Id": 4050301,
-    "Content": "Magne seemed to have finally let go of a long-held worry. She waved as she ran into the distance and soon disappeared at the other end of the village.<br>Now, only Airona and I remained.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 10.0,
-    "Interrupt": 0
-  },
-  "4050011": {
-    "Id": 4050011,
-    "Content": "...Only when one no longer fears falling can one learn to fly.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 3.0,
-    "Interrupt": 0
-  },
-  "581201": {
-    "Id": 581201,
-    "Content": "(The adult Boyce hugged the young Boyce, and the young Boyce vanished in a burst of light.)",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 5.0,
-    "Interrupt": 0
-  },
-  "4050012": {
-    "Id": 4050012,
-    "Content": "(Boyce took a doll out of his pocket.)",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 3.0,
-    "Interrupt": 0
-  },
-  "4050302": {
-    "Id": 4050302,
-    "Content": "Belleet finished speaking and slowly walked away.<br>I stood under the tree, her words ringing in my mind.<br>About the moonlight, about the flower that blooms only once...<br><br>Before I knew it, the sky had darkened.<br>When I came to, a familiar figure was standing by the Sea Lily under the tree.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 13.0,
-    "Interrupt": 0
-  },
-  "2002501": {
-    "Id": 2002501,
-    "Content": "There was the brief sound of a weapon being unsheathed, and the informer's voice stopped abruptly.",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 3.0,
-    "Interrupt": 0
-  },
-  "2002601": {
-    "Id": 2002601,
-    "Content": "I arrived at the Garrison Outpost with fifty guards disguised as adventurers.<br>Reynold called out the soldiers inside and loudly questioned them about the mine.<br>They laughed, acting as if they didn't care at all.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 8.0,
-    "Interrupt": 0
-  },
-  "2002502": {
-    "Id": 2002502,
-    "Content": "The Imagine Seed was activated, and a clear image appeared in my mind—",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 4.0,
-    "Interrupt": 0
-  },
-  "2002503": {
-    "Id": 2002503,
-    "Content": "The soldiers skillfully carried away the bodies of Reiner and the others, barely sparing us a glance.<br>Their black military boots trampled the torn List on the ground, as if it were garbage that had never held any meaning.",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 11.0,
-    "Interrupt": 0
-  },
   "50070001": {
     "Id": 50070001,
     "Content": "The mysterious figure abruptly vanishes before your very eyes, as if they were never there.<br>But your conversation drives you to join this insane treasure hunt...",
     "Type": 140,
     "FadeInTime": 1,
     "DurationTime": 7.0,
-    "Interrupt": 0
-  },
-  "2002602": {
-    "Id": 2002602,
-    "Content": "After intercepting the pursuing soldiers, I didn't waste time fighting, but rather retreated immediately,<br>heading toward Asterleeds.<br>When I reached the city entrance, I saw Jerrad and the others waiting anxiously.<br>Seeing me return safely, everyone smiled and breathed a sigh of relief.",
-    "Type": 140,
-    "FadeInTime": 1,
-    "DurationTime": 11.0,
     "Interrupt": 0
   },
   "50070002": {
@@ -1079,68 +1543,116 @@
     "DurationTime": 5.0,
     "Interrupt": 0
   },
-  "17021001": {
-    "Id": 17021001,
-    "Content": "I boarded the cruise with Luyanis.<br>The ship slowly left the shore, the sea breeze brushing my cheeks with a damp chill.<br>Mist soon swallowed the beach behind us, leaving only the sound of waves and the ship's movement.<br><br>I don't know how much time passed before the fog gradually lifted. A strange and brilliant island floated before my eyes like a dream.",
+  "60904241": {
+    "Id": 60904241,
+    "Content": "You taste the stone-wheat flatbread with Caprahorn meat made by Anemone, but you can't chew the crust no matter how hard you try. <br>Anemone went to great lengths to salvage the texture of the ingredients, but it's clear her efforts were all for nothing.",
     "Type": 140,
     "FadeInTime": 1,
-    "DurationTime": 16.0,
+    "DurationTime": 12.0,
     "Interrupt": 0
   },
-  "31101001": {
-    "Id": 31101001,
-    "Content": "No one expected the grand prize to be working as a staff member on Starland.<br>I spent the whole day busy—handing out balloons, guiding crowds, operating attractions, and doing other random tasks...<br>In the end, I was exhausted, lying catatonic on the beach. Maybe the person who won this super-special reward knew what the prize entailed, and that's why...",
+  "3067201": {
+    "Id": 3067201,
+    "Content": "A weapon was hurriedly drawn, ready for battle—only to see the Ridge Fang headbutt the thrown spherical object. It was clearly playing around with the newcomer.",
     "Type": 140,
     "FadeInTime": 1,
-    "DurationTime": 14.0,
+    "DurationTime": 11.0,
     "Interrupt": 0
   },
-  "31105001": {
-    "Id": 31105001,
-    "Content": "After the Lost and Found broadcast, a lady came looking for one of the items, calling herself Nyx.<br>She said she was Ometawi's companion and was sent to pick it up before describing the letter's features perfectly.",
+  "3067202": {
+    "Id": 3067202,
+    "Content": "The Ridge Fang also relaxed and lay down amidst the music at the side, looking as if it was about to fall asleep.",
     "Type": 140,
     "FadeInTime": 1,
-    "DurationTime": 10.0,
+    "DurationTime": 5.0,
     "Interrupt": 0
   },
-  "3911701": {
-    "Id": 3911701,
-    "Content": "Lushuna sang an a cappella tidal tune on the spot. Not just me, but other tourists on the beach stopped to listen.<br>The song was melodious and moving, carrying the unique gentleness and vastness of the ocean.<br>It felt as if the tide rose and fell with the melody, melting the freshness of the sea breeze and the weight of the reefs into his voice...",
-    "Type": 140,
-    "FadeInTime": 0,
-    "DurationTime": 13.0,
-    "Interrupt": 0
-  },
-  "31107001": {
-    "Id": 31107001,
-    "Content": "The children excitedly hid in the nearby Cherry Blossom Forest...",
+  "30041001": {
+    "Id": 30041001,
+    "Content": "",
     "Type": 140,
     "FadeInTime": 1,
-    "DurationTime": 4.0,
+    "DurationTime": 12.0,
     "Interrupt": 0
   },
-  "31110001": {
-    "Id": 31110001,
-    "Content": "Tachi-Tachi relished the lamb chops, eating with gusto.<br>Boto's face squeezed itself into a forced smile,<br>as if he were enduring a tragic battle...<br>Finally, under the supervision of the Starland staff,<br>Boto and Tachi-Tachi left the island.",
+  "3067601": {
+    "Id": 3067601,
+    "Content": "",
     "Type": 140,
     "FadeInTime": 1,
-    "DurationTime": 10.0,
+    "DurationTime": 6.0,
     "Interrupt": 0
   },
-  "31110002": {
-    "Id": 31110002,
-    "Content": "Special lamb chop held tightly in his arms,<br>Boto left Starland with Tachi-Tachi.<br>There was still a hint of roast meat in the wind,<br>but it was soon overpowered by the scent of the sea.",
+  "30043001": {
+    "Id": 30043001,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "3067602": {
+    "Id": 3067602,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3067603": {
+    "Id": 3067603,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "3067604": {
+    "Id": 3067604,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3067605": {
+    "Id": 3067605,
+    "Content": "",
     "Type": 140,
     "FadeInTime": 1,
     "DurationTime": 7.0,
     "Interrupt": 0
   },
-  "31110003": {
-    "Id": 31110003,
-    "Content": "At Boto's insistence,<br>the staff was forced to helplessly watch Tachi-Tachi gorge himself.<br>A triumphant smile adorned Boto's face the entire time,<br>as if he had won an unprecedented victory.<br>After Tachi-Tachi had eaten his fill, Boto thanked you profusely<br>and took Tachi-Tachi for a walk on the beach.",
+  "3067701": {
+    "Id": 3067701,
+    "Content": "",
     "Type": 140,
     "FadeInTime": 1,
-    "DurationTime": 10.0,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3067801": {
+    "Id": 3067801,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "3067802": {
+    "Id": 3067802,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 3.0,
+    "Interrupt": 0
+  },
+  "3067803": {
+    "Id": 3067803,
+    "Content": "",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 7.0,
     "Interrupt": 0
   }
 }

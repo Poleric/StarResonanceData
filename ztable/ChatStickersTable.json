@@ -2778,5 +2778,105 @@
     "IsDefUnlock": 1,
     "UnlockItem": 1078023,
     "ShowCornerMark": 1
+  },
+  "14001": {
+    "Id": 14001,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_1",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078034,
+    "ShowCornerMark": 1
+  },
+  "14002": {
+    "Id": 14002,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_2",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078035,
+    "ShowCornerMark": 1
+  },
+  "14003": {
+    "Id": 14003,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_3",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078036,
+    "ShowCornerMark": 1
+  },
+  "14004": {
+    "Id": 14004,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_4",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078037,
+    "ShowCornerMark": 1
+  },
+  "14005": {
+    "Id": 14005,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_5",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078038,
+    "ShowCornerMark": 1
+  },
+  "14006": {
+    "Id": 14006,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_6",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078039,
+    "ShowCornerMark": 1
+  },
+  "14007": {
+    "Id": 14007,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_7",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078040,
+    "ShowCornerMark": 1
+  },
+  "14008": {
+    "Id": 14008,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_8",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078041,
+    "ShowCornerMark": 1
+  },
+  "14009": {
+    "Id": 14009,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_9",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078042,
+    "ShowCornerMark": 1
+  },
+  "14010": {
+    "Id": 14010,
+    "Type": 4,
+    "GroupId": 14,
+    "Res": "sticker_ip003_10",
+    "Text": "tw_1f600",
+    "IsDefUnlock": 1,
+    "UnlockItem": 1078043,
+    "ShowCornerMark": 1
   }
 }

@@ -1,0 +1,56 @@
+{
+  "1": {
+    "Id": 1,
+    "FunctionId": 500242,
+    "TargetNum": 5,
+    "AwardId": [],
+    "Target": [],
+    "ShowPicItem": []
+  },
+  "2": {
+    "Id": 2,
+    "FunctionId": 500243,
+    "TargetNum": 0,
+    "AwardId": [
+      [
+        3,
+        24008010,
+        8
+      ]
+    ],
+    "Target": [],
+    "ShowPicItem": []
+  },
+  "3": {
+    "Id": 3,
+    "FunctionId": 500245,
+    "TargetNum": 0,
+    "AwardId": [],
+    "Target": [
+      [
+        60,
+        24008110
+      ],
+      [
+        150,
+        24008120
+      ]
+    ],
+    "ShowPicItem": [
+      [
+        1040360
+      ],
+      [
+        1040113
+      ]
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "FunctionId": 500246,
+    "TargetNum": 0,
+    "AwardId": [],
+    "Target": [],
+    "ShowPicItem": []
+  }
+}

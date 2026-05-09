@@ -2,6 +2,8 @@
   "680701": {
     "BuffId": 680701,
     "BuffName": "懒人跳",
+    "Name": "",
+    "Desc": "",
     "ActiveLevel": 1,
     "Style": 0,
     "LockItem": [],
@@ -11,6 +13,8 @@
   "682501": {
     "BuffId": 682501,
     "BuffName": "跳跃次数+1 3段跳 免疫坠落",
+    "Name": "",
+    "Desc": "",
     "ActiveLevel": 18,
     "Style": 0,
     "LockItem": [],
@@ -20,6 +24,8 @@
   "682503": {
     "BuffId": 682503,
     "BuffName": "跳跃次数+1 4段跳",
+    "Name": "",
+    "Desc": "",
     "ActiveLevel": 30,
     "Style": 0,
     "LockItem": [],
@@ -29,6 +35,8 @@
   "682505": {
     "BuffId": 682505,
     "BuffName": "跳跃次数+1 5段跳",
+    "Name": "",
+    "Desc": "",
     "ActiveLevel": 35,
     "Style": 0,
     "LockItem": [],
@@ -38,6 +46,8 @@
   "680201": {
     "BuffId": 680201,
     "BuffName": "水平跳",
+    "Name": "",
+    "Desc": "",
     "ActiveLevel": 40,
     "Style": 0,
     "LockItem": [],
@@ -47,6 +57,8 @@
   "680501": {
     "BuffId": 680501,
     "BuffName": "蹬墙跑",
+    "Name": "",
+    "Desc": "",
     "ActiveLevel": 45,
     "Style": 0,
     "LockItem": [],
@@ -56,6 +68,8 @@
   "680401": {
     "BuffId": 680401,
     "BuffName": "踢墙跳",
+    "Name": "",
+    "Desc": "",
     "ActiveLevel": 48,
     "Style": 0,
     "LockItem": [],
@@ -65,6 +79,8 @@
   "680101": {
     "BuffId": 680101,
     "BuffName": "舞空",
+    "Name": "",
+    "Desc": "",
     "ActiveLevel": 50,
     "Style": 0,
     "LockItem": [],

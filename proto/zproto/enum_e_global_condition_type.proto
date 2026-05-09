@@ -86,6 +86,7 @@ enum EGlobalConditionType {
 	GlobalConditionTypeGreaterOnlineTime = 91;
 	GlobalConditionTypeLessOnlineTime = 92;
 	GlobalConditionTypeSeasonLevel = 93;
+	GlobalConditionTypePickProfession = 94;
 	GlobalConditionTypeHasHomeAuthority = 100;
 	GlobalConditionTypeHomeCohabitant = 101;
 	GlobalConditionTypeNewbieOnline = 102;
@@ -109,5 +110,7 @@ enum EGlobalConditionType {
 	GlobalConditionTypeIsGameTablePlaying = 124;
 	GlobalConditionTypeWorldActRegister = 125;
 	GlobalConditionTypeBpActive = 126;
+	GlobalConditionTypeInstrumentLevel = 127;
+	GlobalConditionTypeScoreLevel = 128;
 	GlobalConditionTypeIchibanPoolEmpty = 129;
 }

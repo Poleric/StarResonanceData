@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+
+package zproto;
+
+message GetNewbieChatChannelIdReply {
+	uint32 channelId = 1 [json_name = "channelId"];
+	uint32 state = 2 [json_name = "state"];
+	EErrorCode errCode = 3 [json_name = "errCode"];
+}

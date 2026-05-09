@@ -816,20 +816,6 @@
       9007
     ]
   },
-  "1000411": {
-    "Id": 1000411,
-    "Question": "What role does the \"List\" play in this process?",
-    "Answer": [],
-    "QuestionBubble": "Maybe it's better to continue investigating...",
-    "QuestionBubbleAction": 9047,
-    "WrongBubble": [
-      "No, the clues don't match up.",
-      "I should think about it again. My thoughts are a mess."
-    ],
-    "WrongBubbleAction": [
-      9007
-    ]
-  },
   "1000311": {
     "Id": 1000311,
     "Question": "What is the young miner's attitude?",
@@ -842,6 +828,52 @@
       "Something feels off...",
       "Damn! No clues!",
       "Better think it through again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000312": {
+    "Id": 1000312,
+    "Question": "What is the older miner's attitude?",
+    "Answer": [
+      2,
+      3
+    ],
+    "QuestionBubble": "It's still not enough.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again...",
+      "Damn! No clues!"
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000313": {
+    "Id": 1000313,
+    "Question": "What are the attitudes of the miners who started families with Byrnhalds?",
+    "Answer": [
+      4
+    ],
+    "QuestionBubble": "The conclusion is almost here!",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000411": {
+    "Id": 1000411,
+    "Question": "What role does the \"List\" play in this process?",
+    "Answer": [],
+    "QuestionBubble": "Maybe it's better to continue investigating...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, the clues don't match up.",
+      "I should think about it again. My thoughts are a mess."
     ],
     "WrongBubbleAction": [
       9007
@@ -865,23 +897,6 @@
       9007
     ]
   },
-  "1000312": {
-    "Id": 1000312,
-    "Question": "What is the older miner's attitude?",
-    "Answer": [
-      2,
-      3
-    ],
-    "QuestionBubble": "It's still not enough.",
-    "QuestionBubbleAction": 9047,
-    "WrongBubble": [
-      "No, think again...",
-      "Damn! No clues!"
-    ],
-    "WrongBubbleAction": [
-      9007
-    ]
-  },
   "1000413": {
     "Id": 1000413,
     "Question": "If we want to find the \"Crown\", what should we do next?",
@@ -900,16 +915,48 @@
       9007
     ]
   },
-  "1000313": {
-    "Id": 1000313,
-    "Question": "What are the attitudes of the miners who started families with Byrnhalds?",
+  "1000511": {
+    "Id": 1000511,
+    "Question": "Are the treasure clues in the message bottle accurate?",
     "Answer": [
-      4
+      1
+    ],
+    "QuestionBubble": "I need to extract useful information from this...",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000512": {
+    "Id": 1000512,
+    "Question": "Was the bottle really left by someone from the past?",
+    "Answer": [
+      2
+    ],
+    "QuestionBubble": "It's still not enough.",
+    "QuestionBubbleAction": 9047,
+    "WrongBubble": [
+      "No, think again..."
+    ],
+    "WrongBubbleAction": [
+      9007
+    ]
+  },
+  "1000513": {
+    "Id": 1000513,
+    "Question": "Why are there similar notes buried here?",
+    "Answer": [
+      3
     ],
     "QuestionBubble": "The conclusion is almost here!",
     "QuestionBubbleAction": 9047,
     "WrongBubble": [
-      "No, think again..."
+      "Something doesn't feel right...",
+      "Darn it! I've got no clue!",
+      "Better think it through again..."
     ],
     "WrongBubbleAction": [
       9007

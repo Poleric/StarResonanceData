@@ -1,7 +1,7 @@
 # StarResonanceData
  Blue Protocol: Star Resonance data
 
-## Updated to version 1.0.38929.0-sea
+## Updated to version 1.2.40234.0_C40234_R40234-cn
 
 # Credits
 

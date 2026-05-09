@@ -1223,7 +1223,10 @@
       "addItem 12010078,1",
       "addItem 12010079,1",
       "addItem 12010080,1",
-      "addItem 12010081,1"
+      "addItem 12010081,1",
+      "addItem 12010082,1",
+      "addItem 12010083,1",
+      "addItem 12010084,1"
     ],
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -4080,6 +4083,90 @@
     "AuToClose": false,
     "OnOff": false
   },
+  "2097": {
+    "Id": 2097,
+    "GMGroup": 2,
+    "Type": 2,
+    "Command": "send220",
+    "ParameterOrContent": [
+      "sendAward 20023813",
+      "sendAward 20023814",
+      "sendAward 20023815",
+      "sendAward 20023816",
+      "sendAward 20023817",
+      "sendAward 20023818",
+      "sendAward 20023819",
+      "sendAward 20023820",
+      "sendAward 20023821",
+      "sendAward 20023822",
+      "sendAward 20023823",
+      "putOnAllBestEquip"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "",
+    "CommandOrParameterRemark": [
+      ""
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2098": {
+    "Id": 2098,
+    "GMGroup": 2,
+    "Type": 2,
+    "Command": "send240",
+    "ParameterOrContent": [
+      "sendAward 20023826",
+      "sendAward 20023827",
+      "sendAward 20023828",
+      "sendAward 20023829",
+      "sendAward 20023830",
+      "sendAward 20023831",
+      "sendAward 20023832",
+      "sendAward 20023833",
+      "sendAward 20023834",
+      "sendAward 20023835",
+      "sendAward 20023836",
+      "putOnAllBestEquip"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "",
+    "CommandOrParameterRemark": [
+      ""
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "2099": {
+    "Id": 2099,
+    "GMGroup": 2,
+    "Type": 2,
+    "Command": "send260",
+    "ParameterOrContent": [
+      "sendAward 20023839",
+      "sendAward 20023840",
+      "sendAward 20023841",
+      "sendAward 20023842",
+      "sendAward 20023843",
+      "sendAward 20023844",
+      "sendAward 20023845",
+      "sendAward 20023846",
+      "sendAward 20023847",
+      "sendAward 20023848",
+      "sendAward 20023849",
+      "putOnAllBestEquip"
+    ],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "",
+    "CommandOrParameterRemark": [
+      ""
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
   "3001": {
     "Id": 3001,
     "GMGroup": 3,
@@ -4478,10 +4565,10 @@
       "addProfession 3",
       "addProfession 4",
       "addProfession 5",
-      "addProfession 8",
       "addProfession 9",
-      "addProfession 10",
-      "addProfession 11"
+      "addProfession 11",
+      "addProfession 12",
+      "addProfession 13"
     ],
     "OptionalParameter": [],
     "ParameterCheck": [],
@@ -7851,6 +7938,21 @@
     "ButtonShow": "设置相对时间偏移（针对当前服务器时间进行偏移，累加，无记忆）",
     "CommandOrParameterRemark": [
       "执行后需要通过getTime确认时间已经偏移后再进行测试，执行过程需要10s左右"
+    ],
+    "AuToClose": false,
+    "OnOff": false
+  },
+  "8024": {
+    "Id": 8024,
+    "GMGroup": 8,
+    "Type": 3,
+    "Command": "GMRogueAddAllEntry",
+    "ParameterOrContent": [],
+    "OptionalParameter": [],
+    "ParameterCheck": [],
+    "ButtonShow": "增加当前场景的所有词条",
+    "CommandOrParameterRemark": [
+      "增加当前场景的所有词条"
     ],
     "AuToClose": false,
     "OnOff": false

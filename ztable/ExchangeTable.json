@@ -546,5 +546,37 @@
     "Trace": false,
     "Screen": 1,
     "ConditionShow": []
+  },
+  "275": {
+    "Id": 275,
+    "ShopName": "Dreamvoid Silk & Dust Shop",
+    "SystemId": 100275,
+    "Npc": "",
+    "ShowType": 0,
+    "CurrencyDisplay": [
+      1070066
+    ],
+    "CameraTemplateId": [
+      4034
+    ],
+    "ExchangeBtnName": "Exchange",
+    "Trace": false,
+    "Screen": 0,
+    "ConditionShow": []
+  },
+  "278": {
+    "Id": 278,
+    "ShopName": "Ember Relic Exchange",
+    "SystemId": 100278,
+    "Npc": "",
+    "ShowType": 0,
+    "CurrencyDisplay": [],
+    "CameraTemplateId": [
+      4032
+    ],
+    "ExchangeBtnName": "Exchange",
+    "Trace": false,
+    "Screen": 1,
+    "ConditionShow": []
   }
 }

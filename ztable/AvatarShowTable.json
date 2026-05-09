@@ -72,5 +72,27 @@
         "ui/textures/season_title/season_reward_f_02"
       ]
     ]
+  },
+  "103001": {
+    "Id": 103001,
+    "Comment": "第三赛季展示时装",
+    "Name": "Backlight Command - Set",
+    "BasicAvatar": [],
+    "FashionItemId": [
+      [
+        7015051
+      ],
+      [
+        7015052
+      ]
+    ],
+    "DesignPage": [
+      [
+        "ui/textures/season_title/season_reward_m_03"
+      ],
+      [
+        "ui/textures/season_title/season_reward_f_03"
+      ]
+    ]
   }
 }

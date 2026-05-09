@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_story_unlock_nodes.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message StoryDataList {
+	map<uint32, uint32> percentageAwards = 1 [json_name = "percentageAwards"];
+	map<uint32, bool> firstPassAwards = 2 [json_name = "firstPassAwards"];
+	map<uint32, StoryUnlockNodes> unlockRoleList = 3 [json_name = "unlockRoleList"];
+}

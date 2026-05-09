@@ -101,15 +101,24 @@
     "Id": 4,
     "ResIDs": [
       13011,
-      13001
+      13001,
+      13021
     ],
-    "Desc": "双斧|狂意/炎魂/赤痕",
+    "Desc": "双斧|狂意/炎魂/赤红魂槽",
     "IntParams": [],
-    "IntParams1": [],
+    "IntParams1": [
+      [
+        13021,
+        11320,
+        1,
+        1
+      ]
+    ],
     "IntParams2": [],
     "UIType": [
       2,
-      1
+      1,
+      5
     ],
     "SecondsCost": [],
     "BindElemental": [
@@ -118,11 +127,40 @@
         "#f8ac39"
       ]
     ],
-    "OpenBuff": [],
-    "ResIcon": "ui/atlas/battle_weapon_thunder/main_thunder_",
-    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_purple",
-    "PrefabPath": "ui/prefabs/main/battle_weapon/main_thunder_tpl",
-    "EffectShowBuff": []
+    "OpenBuff": [
+      0,
+      2208030,
+      2208430
+    ],
+    "ResIcon": "ui/atlas/battle_weapon_axe/main_axe_",
+    "ResEffect": "ui/uieffect/prefab/ui_sfx_battle_001/ui_sfx_group_battle_001_red",
+    "PrefabPath": "ui/prefabs/main/battle_weapon/main_axe_tpl",
+    "EffectShowBuff": [
+      [
+        "0",
+        "2208152",
+        "0",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_sf_fankui_loop"
+      ],
+      [
+        "0",
+        "2208622",
+        "0",
+        "ui/uieffect/prefab/ui_sfx_battle_weapon_001/ui_sfx_group_sf_fankui_loop"
+      ],
+      [
+        "1",
+        "35102",
+        "1",
+        "0"
+      ],
+      [
+        "1",
+        "35103",
+        "1",
+        "0"
+      ]
+    ]
   },
   "5": {
     "Id": 5,
@@ -535,6 +573,24 @@
       90011
     ],
     "Desc": "肉鸽大秘境公共资源模版",
+    "IntParams": [],
+    "IntParams1": [],
+    "IntParams2": [],
+    "UIType": [],
+    "SecondsCost": [],
+    "BindElemental": [],
+    "OpenBuff": [],
+    "ResIcon": "",
+    "ResEffect": "",
+    "PrefabPath": "",
+    "EffectShowBuff": []
+  },
+  "90021": {
+    "Id": 90021,
+    "ResIDs": [
+      90021
+    ],
+    "Desc": "肉鸽大秘境s3公共资源模版",
     "IntParams": [],
     "IntParams1": [],
     "IntParams2": [],

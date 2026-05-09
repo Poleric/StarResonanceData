@@ -1,0 +1,6073 @@
+{
+  "1": {
+    "Id": 1,
+    "TargetType": 283,
+    "Num": 10,
+    "SceneId": 0,
+    "Param": [],
+    "TargetDes": "Play for a total of 10s in any mode.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "2": {
+    "Id": 2,
+    "TargetType": 283,
+    "Num": 10,
+    "SceneId": 0,
+    "Param": [
+      2
+    ],
+    "TargetDes": "Play for a total of 10s in any mode.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "3": {
+    "Id": 3,
+    "TargetType": 283,
+    "Num": 10,
+    "SceneId": 0,
+    "Param": [
+      3
+    ],
+    "TargetDes": "Play for a total of 10s in any mode.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "4": {
+    "Id": 4,
+    "TargetType": 283,
+    "Num": 10,
+    "SceneId": 0,
+    "Param": [
+      4
+    ],
+    "TargetDes": "Play for a total of 10s in any mode.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "5": {
+    "Id": 5,
+    "TargetType": 283,
+    "Num": 60,
+    "SceneId": 0,
+    "Param": [],
+    "TargetDes": "Play for a total of 60s in any mode.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "6": {
+    "Id": 6,
+    "TargetType": 283,
+    "Num": 60,
+    "SceneId": 0,
+    "Param": [
+      2
+    ],
+    "TargetDes": "Play for a total of 60s in any mode.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "7": {
+    "Id": 7,
+    "TargetType": 283,
+    "Num": 60,
+    "SceneId": 0,
+    "Param": [
+      3
+    ],
+    "TargetDes": "Play for a total of 60s in any mode.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "8": {
+    "Id": 8,
+    "TargetType": 283,
+    "Num": 60,
+    "SceneId": 0,
+    "Param": [
+      4
+    ],
+    "TargetDes": "Play for a total of 60s in any mode.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "101": {
+    "Id": 101,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010001,
+      1
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Scale 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "102": {
+    "Id": 102,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010002,
+      1
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Scale 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "103": {
+    "Id": 103,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010004,
+      1
+    ],
+    "TargetDes": "Play \"Alternating Between Two Notes 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "104": {
+    "Id": 104,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010009,
+      1
+    ],
+    "TargetDes": "Play \"Alternating Between Two Notes 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "105": {
+    "Id": 105,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010010,
+      1
+    ],
+    "TargetDes": "Play \"Rests 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "106": {
+    "Id": 106,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010012,
+      1
+    ],
+    "TargetDes": "Play \"Rests 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "107": {
+    "Id": 107,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010014,
+      1
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Melody 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "108": {
+    "Id": 108,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010016,
+      1
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Melody 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "109": {
+    "Id": 109,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010017,
+      1
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Melody 03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "110": {
+    "Id": 110,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010018,
+      1
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 1\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "111": {
+    "Id": 111,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010019,
+      1
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Scale - Other Key Signatures 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "112": {
+    "Id": 112,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010021,
+      1
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Scale - Other Key Signatures 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "113": {
+    "Id": 113,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010023,
+      1
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "114": {
+    "Id": 114,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010024,
+      1
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "115": {
+    "Id": 115,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010025,
+      1
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "116": {
+    "Id": 116,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010026,
+      1
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 04\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "117": {
+    "Id": 117,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010027,
+      1
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 05\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "118": {
+    "Id": 118,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010028,
+      1
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 06\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "119": {
+    "Id": 119,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010029,
+      1
+    ],
+    "TargetDes": "Play \"Blues Scale 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "120": {
+    "Id": 120,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010030,
+      1
+    ],
+    "TargetDes": "Play \"Blues Scale 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "121": {
+    "Id": 121,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010032,
+      1
+    ],
+    "TargetDes": "Play \"Triplets 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "122": {
+    "Id": 122,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010035,
+      1
+    ],
+    "TargetDes": "Play \"Triplets 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "123": {
+    "Id": 123,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010036,
+      1
+    ],
+    "TargetDes": "Play \"Triplet Combination Rhythm 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "124": {
+    "Id": 124,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010039,
+      1
+    ],
+    "TargetDes": "Play \"Triplet Combination Rhythm 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "125": {
+    "Id": 125,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010042,
+      1
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 2\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "126": {
+    "Id": 126,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010045,
+      1
+    ],
+    "TargetDes": "Play \"Scalar Progression A01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "127": {
+    "Id": 127,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010046,
+      1
+    ],
+    "TargetDes": "Play \"Scalar Progression A02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "128": {
+    "Id": 128,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010049,
+      1
+    ],
+    "TargetDes": "Play \"Scalar Progression B01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "129": {
+    "Id": 129,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010050,
+      1
+    ],
+    "TargetDes": "Play \"Scalar Progression B02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "130": {
+    "Id": 130,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010052,
+      1
+    ],
+    "TargetDes": "Play \"Scalar Progression in a Phrase 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "131": {
+    "Id": 131,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010055,
+      1
+    ],
+    "TargetDes": "Play \"Scalar Progression in a Phrase 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "132": {
+    "Id": 132,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010056,
+      1
+    ],
+    "TargetDes": "Play \"Basic Speed Exercise 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "133": {
+    "Id": 133,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010062,
+      1
+    ],
+    "TargetDes": "Play \"Basic Speed Exercise 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "134": {
+    "Id": 134,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010063,
+      1
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 3\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "135": {
+    "Id": 135,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010064,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords A01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "136": {
+    "Id": 136,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010065,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords A02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "137": {
+    "Id": 137,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010066,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords A03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "138": {
+    "Id": 138,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010067,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords A04\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "139": {
+    "Id": 139,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010069,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords B01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "140": {
+    "Id": 140,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010071,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords B02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "141": {
+    "Id": 141,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010072,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords C01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "142": {
+    "Id": 142,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010076,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords C02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "143": {
+    "Id": 143,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010078,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords D01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "144": {
+    "Id": 144,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010079,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords D02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "145": {
+    "Id": 145,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010080,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords E01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "146": {
+    "Id": 146,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010082,
+      1
+    ],
+    "TargetDes": "Play \"Power Chords E02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "147": {
+    "Id": 147,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010083,
+      1
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 4\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "148": {
+    "Id": 148,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020003,
+      1
+    ],
+    "TargetDes": "Play \"Basic Pitch Recognition 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "149": {
+    "Id": 149,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020005,
+      1
+    ],
+    "TargetDes": "Play \"Basic Pitch Recognition 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "150": {
+    "Id": 150,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020007,
+      1
+    ],
+    "TargetDes": "Play \"Note Duration Combinations 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "151": {
+    "Id": 151,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020010,
+      1
+    ],
+    "TargetDes": "Play \"Note Duration Combinations 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "152": {
+    "Id": 152,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020012,
+      1
+    ],
+    "TargetDes": "Play \"Performance with Rests 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "153": {
+    "Id": 153,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020013,
+      1
+    ],
+    "TargetDes": "Play \"Performance with Rests 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "154": {
+    "Id": 154,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020016,
+      1
+    ],
+    "TargetDes": "Play \"Basic Pitch Recognition 03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "155": {
+    "Id": 155,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020018,
+      1
+    ],
+    "TargetDes": "Play \"Basic Pitch Recognition 04\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "156": {
+    "Id": 156,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020020,
+      1
+    ],
+    "TargetDes": "Play \"Cross-Octave Performance 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "157": {
+    "Id": 157,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020022,
+      1
+    ],
+    "TargetDes": "Play \"Cross-Octave Performance 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "158": {
+    "Id": 158,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020023,
+      1
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 1\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "159": {
+    "Id": 159,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020024,
+      1
+    ],
+    "TargetDes": "Play \"Upper Register Familiarization 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "160": {
+    "Id": 160,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020028,
+      1
+    ],
+    "TargetDes": "Play \"Upper Register Familiarization 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "161": {
+    "Id": 161,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020029,
+      1
+    ],
+    "TargetDes": "Play \"Lower Register Familiarization 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "162": {
+    "Id": 162,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020031,
+      1
+    ],
+    "TargetDes": "Play \"Lower Register Familiarization 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "163": {
+    "Id": 163,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020032,
+      1
+    ],
+    "TargetDes": "Play \"Eighth Notes 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "164": {
+    "Id": 164,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020035,
+      1
+    ],
+    "TargetDes": "Play \"Eighth Notes 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "165": {
+    "Id": 165,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020036,
+      1
+    ],
+    "TargetDes": "Play \"Dotted Notes 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "166": {
+    "Id": 166,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020038,
+      1
+    ],
+    "TargetDes": "Play \"Dotted Notes 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "167": {
+    "Id": 167,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020040,
+      1
+    ],
+    "TargetDes": "Play \"Dotted Notes 03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "168": {
+    "Id": 168,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020041,
+      1
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 2\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "169": {
+    "Id": 169,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020043,
+      1
+    ],
+    "TargetDes": "Play \"Dyad Basics 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "170": {
+    "Id": 170,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020044,
+      1
+    ],
+    "TargetDes": "Play \"Dyad Basics 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "171": {
+    "Id": 171,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020047,
+      1
+    ],
+    "TargetDes": "Play \"1 Sharp 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "172": {
+    "Id": 172,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020050,
+      1
+    ],
+    "TargetDes": "Play \"1 Sharp 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "173": {
+    "Id": 173,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020051,
+      1
+    ],
+    "TargetDes": "Play \"2 Sharps 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "174": {
+    "Id": 174,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020054,
+      1
+    ],
+    "TargetDes": "Play \"2 Sharps 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "175": {
+    "Id": 175,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020055,
+      1
+    ],
+    "TargetDes": "Play \"3 Sharps 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "176": {
+    "Id": 176,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020058,
+      1
+    ],
+    "TargetDes": "Play \"3 Sharps 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "177": {
+    "Id": 177,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020059,
+      1
+    ],
+    "TargetDes": "Play \"4 Sharps 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "178": {
+    "Id": 178,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020061,
+      1
+    ],
+    "TargetDes": "Play \"4 Sharps 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "179": {
+    "Id": 179,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020062,
+      1
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 3\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "180": {
+    "Id": 180,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020063,
+      1
+    ],
+    "TargetDes": "Play \"1 Flat 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "181": {
+    "Id": 181,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020066,
+      1
+    ],
+    "TargetDes": "Play \"1 Flat 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "182": {
+    "Id": 182,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020067,
+      1
+    ],
+    "TargetDes": "Play \"2 Flats 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "183": {
+    "Id": 183,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020070,
+      1
+    ],
+    "TargetDes": "Play \"2 Flats 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "184": {
+    "Id": 184,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020071,
+      1
+    ],
+    "TargetDes": "Play \"3 Flats 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "185": {
+    "Id": 185,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020074,
+      1
+    ],
+    "TargetDes": "Play \"3 Flats 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "186": {
+    "Id": 186,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020075,
+      1
+    ],
+    "TargetDes": "Play \"4 Flats 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "187": {
+    "Id": 187,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020077,
+      1
+    ],
+    "TargetDes": "Play \"4 Flats 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "188": {
+    "Id": 188,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020078,
+      1
+    ],
+    "TargetDes": "Play \"4 Flats 03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "189": {
+    "Id": 189,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020079,
+      1
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 4\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "190": {
+    "Id": 190,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030002,
+      1
+    ],
+    "TargetDes": "Play \"Basic Rhythm Patterns 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "191": {
+    "Id": 191,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030004,
+      1
+    ],
+    "TargetDes": "Play \"Basic Rhythm Patterns 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "192": {
+    "Id": 192,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030006,
+      1
+    ],
+    "TargetDes": "Play \"Basic Rhythm Patterns 03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "193": {
+    "Id": 193,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030008,
+      1
+    ],
+    "TargetDes": "Play \"Open Strings 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "194": {
+    "Id": 194,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030011,
+      1
+    ],
+    "TargetDes": "Play \"Open Strings 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "195": {
+    "Id": 195,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030012,
+      1
+    ],
+    "TargetDes": "Play \"Chromatic Scale 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "196": {
+    "Id": 196,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030014,
+      1
+    ],
+    "TargetDes": "Play \"Chromatic Scale 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "197": {
+    "Id": 197,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030016,
+      1
+    ],
+    "TargetDes": "Play \"Pentatonic, Major, and Harmonic Minor Scales 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "198": {
+    "Id": 198,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030019,
+      1
+    ],
+    "TargetDes": "Play \"Pentatonic, Major, and Harmonic Minor Scales 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "199": {
+    "Id": 199,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030020,
+      1
+    ],
+    "TargetDes": "Play \"Arpeggio Basics 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "200": {
+    "Id": 200,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030021,
+      1
+    ],
+    "TargetDes": "Play \"Arpeggio Basics 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "201": {
+    "Id": 201,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030023,
+      1
+    ],
+    "TargetDes": "Play \"Electric Bass Exam Piece - Tier 1\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "202": {
+    "Id": 202,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030024,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 1 Sharp and 1 Flat 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "203": {
+    "Id": 203,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030027,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 1 Sharp and 1 Flat 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "204": {
+    "Id": 204,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030030,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 2 Sharps and 2 Flats 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "205": {
+    "Id": 205,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030032,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 2 Sharps and 2 Flats 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "206": {
+    "Id": 206,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030033,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 2 Sharps and 2 Flats 03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "207": {
+    "Id": 207,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030035,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 2 Sharps and 2 Flats 04\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "208": {
+    "Id": 208,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030036,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 3 Sharps and 3 Flats 01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "209": {
+    "Id": 209,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030038,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 3 Sharps and 3 Flats 02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "210": {
+    "Id": 210,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030039,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 3 Sharps and 3 Flats 03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "211": {
+    "Id": 211,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030041,
+      1
+    ],
+    "TargetDes": "Play \"Basic Modes with 3 Sharps and 3 Flats 04\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "212": {
+    "Id": 212,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030042,
+      1
+    ],
+    "TargetDes": "Play \"Electric Bass Exam Piece - Tier 2\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "213": {
+    "Id": 213,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030043,
+      1
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics A01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "214": {
+    "Id": 214,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030044,
+      1
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics A02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "215": {
+    "Id": 215,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030047,
+      1
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics B01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "216": {
+    "Id": 216,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030048,
+      1
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics B02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "217": {
+    "Id": 217,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030051,
+      1
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics C01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "218": {
+    "Id": 218,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030054,
+      1
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics C02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "219": {
+    "Id": 219,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030059,
+      1
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics D01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "220": {
+    "Id": 220,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030060,
+      1
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics D02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "221": {
+    "Id": 221,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030061,
+      1
+    ],
+    "TargetDes": "Play \"Electric Bass Exam Piece - Tier 3\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "222": {
+    "Id": 222,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040001,
+      1
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm A01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "223": {
+    "Id": 223,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040002,
+      1
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm A02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "224": {
+    "Id": 224,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040003,
+      1
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm A03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "225": {
+    "Id": 225,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040007,
+      1
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm B01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "226": {
+    "Id": 226,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040009,
+      1
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm B02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "227": {
+    "Id": 227,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040011,
+      1
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm B03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "228": {
+    "Id": 228,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040014,
+      1
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm C01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "229": {
+    "Id": 229,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040017,
+      1
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm C02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "230": {
+    "Id": 230,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040018,
+      1
+    ],
+    "TargetDes": "Play \"Drum Kit Exam Piece - Tier 1\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "231": {
+    "Id": 231,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040019,
+      1
+    ],
+    "TargetDes": "Play \"Basic Bass Drum Rhythm A01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "232": {
+    "Id": 232,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040021,
+      1
+    ],
+    "TargetDes": "Play \"Basic Bass Drum Rhythm A02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "233": {
+    "Id": 233,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040024,
+      1
+    ],
+    "TargetDes": "Play \"Basic Bass Drum Rhythm B01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "234": {
+    "Id": 234,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040027,
+      1
+    ],
+    "TargetDes": "Play \"Basic Bass Drum Rhythm B02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "235": {
+    "Id": 235,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040030,
+      1
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm A01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "236": {
+    "Id": 236,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040032,
+      1
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm A02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "237": {
+    "Id": 237,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040033,
+      1
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm B01\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "238": {
+    "Id": 238,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040034,
+      1
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm B02\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "239": {
+    "Id": 239,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040038,
+      1
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm B03\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "240": {
+    "Id": 240,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040039,
+      1
+    ],
+    "TargetDes": "Play \"Drum Kit Exam Piece - Tier 2\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1001": {
+    "Id": 1001,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010018,
+      1
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 1\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1002": {
+    "Id": 1002,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010042,
+      1
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 2\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1003": {
+    "Id": 1003,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010063,
+      1
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 3\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1004": {
+    "Id": 1004,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010083,
+      1
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 4\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1005": {
+    "Id": 1005,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020023,
+      1
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 1\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1006": {
+    "Id": 1006,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020041,
+      1
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 2\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1007": {
+    "Id": 1007,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020062,
+      1
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 3\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1008": {
+    "Id": 1008,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020079,
+      1
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 4\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1009": {
+    "Id": 1009,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030023,
+      1
+    ],
+    "TargetDes": "Play \"Electric Bass Exam Piece - Tier 1\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1010": {
+    "Id": 1010,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030042,
+      1
+    ],
+    "TargetDes": "Play \"Electric Bass Exam Piece - Tier 2\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1011": {
+    "Id": 1011,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030061,
+      1
+    ],
+    "TargetDes": "Play \"Electric Bass Exam Piece - Tier 3\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1012": {
+    "Id": 1012,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040018,
+      1
+    ],
+    "TargetDes": "Play \"Drum Kit Exam Piece - Tier 1\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "1013": {
+    "Id": 1013,
+    "TargetType": 281,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040039,
+      1
+    ],
+    "TargetDes": "Play \"Drum Kit Exam Piece - Tier 2\" once with an S rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010001": {
+    "Id": 15010001,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010001
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Scale 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010002": {
+    "Id": 15010002,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010002
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Scale 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010003": {
+    "Id": 15010003,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010003
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010004": {
+    "Id": 15010004,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010004
+    ],
+    "TargetDes": "Play \"Alternating Between Two Notes 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010005": {
+    "Id": 15010005,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010005
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010006": {
+    "Id": 15010006,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010006
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010007": {
+    "Id": 15010007,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010007
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010008": {
+    "Id": 15010008,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010008
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010009": {
+    "Id": 15010009,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010009
+    ],
+    "TargetDes": "Play \"Alternating Between Two Notes 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010010": {
+    "Id": 15010010,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010010
+    ],
+    "TargetDes": "Play \"Rests 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010011": {
+    "Id": 15010011,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010011
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010012": {
+    "Id": 15010012,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010012
+    ],
+    "TargetDes": "Play \"Rests 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010013": {
+    "Id": 15010013,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010013
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010014": {
+    "Id": 15010014,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010014
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Melody 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010015": {
+    "Id": 15010015,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010015
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010016": {
+    "Id": 15010016,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010016
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Melody 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010017": {
+    "Id": 15010017,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010017
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Melody 03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010018": {
+    "Id": 15010018,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010018
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 1\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010019": {
+    "Id": 15010019,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010019
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Scale - Other Key Signatures 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010020": {
+    "Id": 15010020,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010020
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010021": {
+    "Id": 15010021,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010021
+    ],
+    "TargetDes": "Play \"Minor Pentatonic Scale - Other Key Signatures 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010022": {
+    "Id": 15010022,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010022
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010023": {
+    "Id": 15010023,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010023
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010024": {
+    "Id": 15010024,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010024
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010025": {
+    "Id": 15010025,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010025
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010026": {
+    "Id": 15010026,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010026
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 04\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010027": {
+    "Id": 15010027,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010027
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 05\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010028": {
+    "Id": 15010028,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010028
+    ],
+    "TargetDes": "Play \"Common Rhythm Patterns 06\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010029": {
+    "Id": 15010029,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010029
+    ],
+    "TargetDes": "Play \"Blues Scale 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010030": {
+    "Id": 15010030,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010030
+    ],
+    "TargetDes": "Play \"Blues Scale 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010031": {
+    "Id": 15010031,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010031
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010032": {
+    "Id": 15010032,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010032
+    ],
+    "TargetDes": "Play \"Triplets 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010033": {
+    "Id": 15010033,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010033
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010034": {
+    "Id": 15010034,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010034
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010035": {
+    "Id": 15010035,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010035
+    ],
+    "TargetDes": "Play \"Triplets 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010036": {
+    "Id": 15010036,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010036
+    ],
+    "TargetDes": "Play \"Triplet Combination Rhythm 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010037": {
+    "Id": 15010037,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010037
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010038": {
+    "Id": 15010038,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010038
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010039": {
+    "Id": 15010039,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010039
+    ],
+    "TargetDes": "Play \"Triplet Combination Rhythm 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010040": {
+    "Id": 15010040,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010040
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010041": {
+    "Id": 15010041,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010041
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010042": {
+    "Id": 15010042,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010042
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 2\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010043": {
+    "Id": 15010043,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010043
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010044": {
+    "Id": 15010044,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010044
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010045": {
+    "Id": 15010045,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010045
+    ],
+    "TargetDes": "Play \"Scalar Progression A01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010046": {
+    "Id": 15010046,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010046
+    ],
+    "TargetDes": "Play \"Scalar Progression A02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010047": {
+    "Id": 15010047,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010047
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010048": {
+    "Id": 15010048,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010048
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010049": {
+    "Id": 15010049,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010049
+    ],
+    "TargetDes": "Play \"Scalar Progression B01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010050": {
+    "Id": 15010050,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010050
+    ],
+    "TargetDes": "Play \"Scalar Progression B02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010051": {
+    "Id": 15010051,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010051
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010052": {
+    "Id": 15010052,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010052
+    ],
+    "TargetDes": "Play \"Scalar Progression in a Phrase 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010053": {
+    "Id": 15010053,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010053
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010054": {
+    "Id": 15010054,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010054
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010055": {
+    "Id": 15010055,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010055
+    ],
+    "TargetDes": "Play \"Scalar Progression in a Phrase 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010056": {
+    "Id": 15010056,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010056
+    ],
+    "TargetDes": "Play \"Basic Speed Exercise 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010057": {
+    "Id": 15010057,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010057
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010058": {
+    "Id": 15010058,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010058
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010059": {
+    "Id": 15010059,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010059
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010060": {
+    "Id": 15010060,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010060
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010061": {
+    "Id": 15010061,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010061
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010062": {
+    "Id": 15010062,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010062
+    ],
+    "TargetDes": "Play \"Basic Speed Exercise 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010063": {
+    "Id": 15010063,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010063
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 3\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010064": {
+    "Id": 15010064,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010064
+    ],
+    "TargetDes": "Play \"Power Chords A01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010065": {
+    "Id": 15010065,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010065
+    ],
+    "TargetDes": "Play \"Power Chords A02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010066": {
+    "Id": 15010066,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010066
+    ],
+    "TargetDes": "Play \"Power Chords A03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010067": {
+    "Id": 15010067,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010067
+    ],
+    "TargetDes": "Play \"Power Chords A04\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010068": {
+    "Id": 15010068,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010068
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010069": {
+    "Id": 15010069,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010069
+    ],
+    "TargetDes": "Play \"Power Chords B01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010070": {
+    "Id": 15010070,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010070
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010071": {
+    "Id": 15010071,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010071
+    ],
+    "TargetDes": "Play \"Power Chords B02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010072": {
+    "Id": 15010072,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010072
+    ],
+    "TargetDes": "Play \"Power Chords C01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010073": {
+    "Id": 15010073,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010073
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010074": {
+    "Id": 15010074,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010074
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010075": {
+    "Id": 15010075,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010075
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010076": {
+    "Id": 15010076,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010076
+    ],
+    "TargetDes": "Play \"Power Chords C02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010077": {
+    "Id": 15010077,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010077
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010078": {
+    "Id": 15010078,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010078
+    ],
+    "TargetDes": "Play \"Power Chords D01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010079": {
+    "Id": 15010079,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010079
+    ],
+    "TargetDes": "Play \"Power Chords D02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010080": {
+    "Id": 15010080,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010080
+    ],
+    "TargetDes": "Play \"Power Chords E01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010081": {
+    "Id": 15010081,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010081
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010082": {
+    "Id": 15010082,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010082
+    ],
+    "TargetDes": "Play \"Power Chords E02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15010083": {
+    "Id": 15010083,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15010083
+    ],
+    "TargetDes": "Play \"Electric Guitar Exam Piece - Tier 4\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020001": {
+    "Id": 15020001,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020001
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020002": {
+    "Id": 15020002,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020002
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020003": {
+    "Id": 15020003,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020003
+    ],
+    "TargetDes": "Play \"Basic Pitch Recognition 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020004": {
+    "Id": 15020004,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020004
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020005": {
+    "Id": 15020005,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020005
+    ],
+    "TargetDes": "Play \"Basic Pitch Recognition 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020006": {
+    "Id": 15020006,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020006
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020007": {
+    "Id": 15020007,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020007
+    ],
+    "TargetDes": "Play \"Note Duration Combinations 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020008": {
+    "Id": 15020008,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020008
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020009": {
+    "Id": 15020009,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020009
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020010": {
+    "Id": 15020010,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020010
+    ],
+    "TargetDes": "Play \"Note Duration Combinations 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020011": {
+    "Id": 15020011,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020011
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020012": {
+    "Id": 15020012,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020012
+    ],
+    "TargetDes": "Play \"Performance with Rests 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020013": {
+    "Id": 15020013,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020013
+    ],
+    "TargetDes": "Play \"Performance with Rests 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020014": {
+    "Id": 15020014,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020014
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020015": {
+    "Id": 15020015,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020015
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020016": {
+    "Id": 15020016,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020016
+    ],
+    "TargetDes": "Play \"Basic Pitch Recognition 03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020017": {
+    "Id": 15020017,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020017
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020018": {
+    "Id": 15020018,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020018
+    ],
+    "TargetDes": "Play \"Basic Pitch Recognition 04\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020019": {
+    "Id": 15020019,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020019
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020020": {
+    "Id": 15020020,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020020
+    ],
+    "TargetDes": "Play \"Cross-Octave Performance 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020021": {
+    "Id": 15020021,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020021
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020022": {
+    "Id": 15020022,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020022
+    ],
+    "TargetDes": "Play \"Cross-Octave Performance 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020023": {
+    "Id": 15020023,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020023
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 1\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020024": {
+    "Id": 15020024,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020024
+    ],
+    "TargetDes": "Play \"Upper Register Familiarization 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020025": {
+    "Id": 15020025,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020025
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020026": {
+    "Id": 15020026,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020026
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020027": {
+    "Id": 15020027,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020027
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020028": {
+    "Id": 15020028,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020028
+    ],
+    "TargetDes": "Play \"Upper Register Familiarization 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020029": {
+    "Id": 15020029,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020029
+    ],
+    "TargetDes": "Play \"Lower Register Familiarization 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020030": {
+    "Id": 15020030,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020030
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020031": {
+    "Id": 15020031,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020031
+    ],
+    "TargetDes": "Play \"Lower Register Familiarization 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020032": {
+    "Id": 15020032,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020032
+    ],
+    "TargetDes": "Play \"Eighth Notes 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020033": {
+    "Id": 15020033,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020033
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020034": {
+    "Id": 15020034,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020034
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020035": {
+    "Id": 15020035,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020035
+    ],
+    "TargetDes": "Play \"Eighth Notes 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020036": {
+    "Id": 15020036,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020036
+    ],
+    "TargetDes": "Play \"Dotted Notes 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020037": {
+    "Id": 15020037,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020037
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020038": {
+    "Id": 15020038,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020038
+    ],
+    "TargetDes": "Play \"Dotted Notes 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020039": {
+    "Id": 15020039,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020039
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020040": {
+    "Id": 15020040,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020040
+    ],
+    "TargetDes": "Play \"Dotted Notes 03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020041": {
+    "Id": 15020041,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020041
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 2\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020042": {
+    "Id": 15020042,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020042
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020043": {
+    "Id": 15020043,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020043
+    ],
+    "TargetDes": "Play \"Dyad Basics 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020044": {
+    "Id": 15020044,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020044
+    ],
+    "TargetDes": "Play \"Dyad Basics 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020045": {
+    "Id": 15020045,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020045
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020046": {
+    "Id": 15020046,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020046
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020047": {
+    "Id": 15020047,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020047
+    ],
+    "TargetDes": "Play \"1 Sharp 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020048": {
+    "Id": 15020048,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020048
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020049": {
+    "Id": 15020049,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020049
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020050": {
+    "Id": 15020050,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020050
+    ],
+    "TargetDes": "Play \"1 Sharp 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020051": {
+    "Id": 15020051,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020051
+    ],
+    "TargetDes": "Play \"2 Sharps 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020052": {
+    "Id": 15020052,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020052
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020053": {
+    "Id": 15020053,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020053
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020054": {
+    "Id": 15020054,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020054
+    ],
+    "TargetDes": "Play \"2 Sharps 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020055": {
+    "Id": 15020055,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020055
+    ],
+    "TargetDes": "Play \"3 Sharps 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020056": {
+    "Id": 15020056,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020056
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020057": {
+    "Id": 15020057,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020057
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020058": {
+    "Id": 15020058,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020058
+    ],
+    "TargetDes": "Play \"3 Sharps 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020059": {
+    "Id": 15020059,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020059
+    ],
+    "TargetDes": "Play \"4 Sharps 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020060": {
+    "Id": 15020060,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020060
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020061": {
+    "Id": 15020061,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020061
+    ],
+    "TargetDes": "Play \"4 Sharps 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020062": {
+    "Id": 15020062,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020062
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 3\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020063": {
+    "Id": 15020063,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020063
+    ],
+    "TargetDes": "Play \"1 Flat 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020064": {
+    "Id": 15020064,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020064
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020065": {
+    "Id": 15020065,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020065
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020066": {
+    "Id": 15020066,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020066
+    ],
+    "TargetDes": "Play \"1 Flat 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020067": {
+    "Id": 15020067,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020067
+    ],
+    "TargetDes": "Play \"2 Flats 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020068": {
+    "Id": 15020068,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020068
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020069": {
+    "Id": 15020069,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020069
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020070": {
+    "Id": 15020070,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020070
+    ],
+    "TargetDes": "Play \"2 Flats 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020071": {
+    "Id": 15020071,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020071
+    ],
+    "TargetDes": "Play \"3 Flats 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020072": {
+    "Id": 15020072,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020072
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020073": {
+    "Id": 15020073,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020073
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020074": {
+    "Id": 15020074,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020074
+    ],
+    "TargetDes": "Play \"3 Flats 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020075": {
+    "Id": 15020075,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020075
+    ],
+    "TargetDes": "Play \"4 Flats 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020076": {
+    "Id": 15020076,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020076
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020077": {
+    "Id": 15020077,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020077
+    ],
+    "TargetDes": "Play \"4 Flats 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020078": {
+    "Id": 15020078,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020078
+    ],
+    "TargetDes": "Play \"4 Flats 03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15020079": {
+    "Id": 15020079,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15020079
+    ],
+    "TargetDes": "Play \"Piano Exam Piece - Tier 4\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030001": {
+    "Id": 15030001,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030001
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030002": {
+    "Id": 15030002,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030002
+    ],
+    "TargetDes": "Play \"Basic Rhythm Patterns 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030003": {
+    "Id": 15030003,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030003
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030004": {
+    "Id": 15030004,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030004
+    ],
+    "TargetDes": "Play \"Basic Rhythm Patterns 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030005": {
+    "Id": 15030005,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030005
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030006": {
+    "Id": 15030006,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030006
+    ],
+    "TargetDes": "Play \"Basic Rhythm Patterns 03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030007": {
+    "Id": 15030007,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030007
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030008": {
+    "Id": 15030008,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030008
+    ],
+    "TargetDes": "Play \"Open Strings 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030009": {
+    "Id": 15030009,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030009
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030010": {
+    "Id": 15030010,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030010
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030011": {
+    "Id": 15030011,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030011
+    ],
+    "TargetDes": "Play \"Open Strings 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030012": {
+    "Id": 15030012,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030012
+    ],
+    "TargetDes": "Play \"Chromatic Scale 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030013": {
+    "Id": 15030013,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030013
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030014": {
+    "Id": 15030014,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030014
+    ],
+    "TargetDes": "Play \"Chromatic Scale 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030015": {
+    "Id": 15030015,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030015
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030016": {
+    "Id": 15030016,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030016
+    ],
+    "TargetDes": "Play \"Pentatonic, Major, and Harmonic Minor Scales 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030017": {
+    "Id": 15030017,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030017
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030018": {
+    "Id": 15030018,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030018
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030019": {
+    "Id": 15030019,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030019
+    ],
+    "TargetDes": "Play \"Pentatonic, Major, and Harmonic Minor Scales 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030020": {
+    "Id": 15030020,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030020
+    ],
+    "TargetDes": "Play \"Arpeggio Basics 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030021": {
+    "Id": 15030021,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030021
+    ],
+    "TargetDes": "Play \"Arpeggio Basics 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030022": {
+    "Id": 15030022,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030022
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030023": {
+    "Id": 15030023,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030023
+    ],
+    "TargetDes": "Play \"Electric Bass Exam Piece - Tier 1\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030024": {
+    "Id": 15030024,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030024
+    ],
+    "TargetDes": "Play \"Basic Modes with 1 Sharp and 1 Flat 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030025": {
+    "Id": 15030025,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030025
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030026": {
+    "Id": 15030026,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030026
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030027": {
+    "Id": 15030027,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030027
+    ],
+    "TargetDes": "Play \"Basic Modes with 1 Sharp and 1 Flat 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030028": {
+    "Id": 15030028,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030028
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030029": {
+    "Id": 15030029,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030029
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030030": {
+    "Id": 15030030,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030030
+    ],
+    "TargetDes": "Play \"Basic Modes with 2 Sharps and 2 Flats 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030031": {
+    "Id": 15030031,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030031
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030032": {
+    "Id": 15030032,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030032
+    ],
+    "TargetDes": "Play \"Basic Modes with 2 Sharps and 2 Flats 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030033": {
+    "Id": 15030033,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030033
+    ],
+    "TargetDes": "Play \"Basic Modes with 2 Sharps and 2 Flats 03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030034": {
+    "Id": 15030034,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030034
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030035": {
+    "Id": 15030035,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030035
+    ],
+    "TargetDes": "Play \"Basic Modes with 2 Sharps and 2 Flats 04\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030036": {
+    "Id": 15030036,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030036
+    ],
+    "TargetDes": "Play \"Basic Modes with 3 Sharps and 3 Flats 01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030037": {
+    "Id": 15030037,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030037
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030038": {
+    "Id": 15030038,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030038
+    ],
+    "TargetDes": "Play \"Basic Modes with 3 Sharps and 3 Flats 02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030039": {
+    "Id": 15030039,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030039
+    ],
+    "TargetDes": "Play \"Basic Modes with 3 Sharps and 3 Flats 03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030040": {
+    "Id": 15030040,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030040
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030041": {
+    "Id": 15030041,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030041
+    ],
+    "TargetDes": "Play \"Basic Modes with 3 Sharps and 3 Flats 04\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030042": {
+    "Id": 15030042,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030042
+    ],
+    "TargetDes": "Play \"Electric Bass Exam Piece - Tier 2\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030043": {
+    "Id": 15030043,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030043
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics A01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030044": {
+    "Id": 15030044,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030044
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics A02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030045": {
+    "Id": 15030045,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030045
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030046": {
+    "Id": 15030046,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030046
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030047": {
+    "Id": 15030047,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030047
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics B01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030048": {
+    "Id": 15030048,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030048
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics B02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030049": {
+    "Id": 15030049,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030049
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030050": {
+    "Id": 15030050,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030050
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030051": {
+    "Id": 15030051,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030051
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics C01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030052": {
+    "Id": 15030052,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030052
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030053": {
+    "Id": 15030053,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030053
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030054": {
+    "Id": 15030054,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030054
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics C02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030055": {
+    "Id": 15030055,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030055
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030056": {
+    "Id": 15030056,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030056
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030057": {
+    "Id": 15030057,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030057
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030058": {
+    "Id": 15030058,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030058
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030059": {
+    "Id": 15030059,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030059
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics D01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030060": {
+    "Id": 15030060,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030060
+    ],
+    "TargetDes": "Play \"Blues Accompaniment Basics D02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15030061": {
+    "Id": 15030061,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15030061
+    ],
+    "TargetDes": "Play \"Electric Bass Exam Piece - Tier 3\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040001": {
+    "Id": 15040001,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040001
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm A01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040002": {
+    "Id": 15040002,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040002
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm A02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040003": {
+    "Id": 15040003,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040003
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm A03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040004": {
+    "Id": 15040004,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040004
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040005": {
+    "Id": 15040005,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040005
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040006": {
+    "Id": 15040006,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040006
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040007": {
+    "Id": 15040007,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040007
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm B01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040008": {
+    "Id": 15040008,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040008
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040009": {
+    "Id": 15040009,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040009
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm B02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040010": {
+    "Id": 15040010,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040010
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040011": {
+    "Id": 15040011,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040011
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm B03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040012": {
+    "Id": 15040012,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040012
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040013": {
+    "Id": 15040013,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040013
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040014": {
+    "Id": 15040014,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040014
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm C01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040015": {
+    "Id": 15040015,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040015
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040016": {
+    "Id": 15040016,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040016
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040017": {
+    "Id": 15040017,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040017
+    ],
+    "TargetDes": "Play \"Basic Snare Drum Rhythm C02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040018": {
+    "Id": 15040018,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040018
+    ],
+    "TargetDes": "Play \"Drum Kit Exam Piece - Tier 1\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040019": {
+    "Id": 15040019,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040019
+    ],
+    "TargetDes": "Play \"Basic Bass Drum Rhythm A01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040020": {
+    "Id": 15040020,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040020
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040021": {
+    "Id": 15040021,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040021
+    ],
+    "TargetDes": "Play \"Basic Bass Drum Rhythm A02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040022": {
+    "Id": 15040022,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040022
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040023": {
+    "Id": 15040023,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040023
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040024": {
+    "Id": 15040024,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040024
+    ],
+    "TargetDes": "Play \"Basic Bass Drum Rhythm B01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040025": {
+    "Id": 15040025,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040025
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040026": {
+    "Id": 15040026,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040026
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040027": {
+    "Id": 15040027,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040027
+    ],
+    "TargetDes": "Play \"Basic Bass Drum Rhythm B02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040028": {
+    "Id": 15040028,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040028
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040029": {
+    "Id": 15040029,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040029
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040030": {
+    "Id": 15040030,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040030
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm A01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040031": {
+    "Id": 15040031,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040031
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040032": {
+    "Id": 15040032,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040032
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm A02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040033": {
+    "Id": 15040033,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040033
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm B01\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040034": {
+    "Id": 15040034,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040034
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm B02\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040035": {
+    "Id": 15040035,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040035
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040036": {
+    "Id": 15040036,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040036
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040037": {
+    "Id": 15040037,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040037
+    ],
+    "TargetDes": "",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040038": {
+    "Id": 15040038,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040038
+    ],
+    "TargetDes": "Play \"Snare & Bass Drum Combined Rhythm B03\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  },
+  "15040039": {
+    "Id": 15040039,
+    "TargetType": 282,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      15040039
+    ],
+    "TargetDes": "Play \"Drum Kit Exam Piece - Tier 2\" once with any rating.",
+    "IsTeamShare": false,
+    "TargetPos": "",
+    "TargetCarrier": 0,
+    "IsShowProgress": false
+  }
+}

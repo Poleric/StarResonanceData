@@ -134,24 +134,69 @@
   "301": {
     "Id": 301,
     "SeasonId": 3,
-    "SeasonTitle": "Season Affix S3",
+    "SeasonTitle": "Seasonal Theme",
     "PreviewType": 2,
     "ResourceRoute": [
-      "ui/textures/large_ui/season_window/season_main_window_03",
-      "ui/textures/large_ui/season_window/season_main_window_04"
+      "ui/textures/season_window/season_main_window_18",
+      "ui/textures/season_window/season_main_window_20"
     ],
-    "Content": "",
+    "Content": "In the new season, Adventurers will be able to combat hallucinations with greater ease, gradually tearing open the boundary between illusion and reality.\\n\\n\\nNew Class:\\nTwin Striker\\nDominates the combat rhythm with high-frequency combos, building a solid defense with a unique self-healing mechanism that balances damage and sustain.\\n\\n\\nNew Illusion Factors:\\nInspiration Factor: Builds energy acquisition.\\nReality Factor: Grants bonuses upon acquiring energy.",
     "Sort": 301
   },
   "302": {
     "Id": 302,
     "SeasonId": 3,
-    "SeasonTitle": "Season Title and Emblem S3",
+    "SeasonTitle": "Season Entry",
+    "PreviewType": 2,
+    "ResourceRoute": [
+      "ui/textures/season_window/season_main_window_17",
+      "ui/textures/season_window/season_main_window_19"
+    ],
+    "Content": "The Illusion invasion has mutated the planes. Strange echoes drift through the Chaotic Realm, making it difficult to distinguish real sensations.\\n\\nWhen in combat, Echo Residue will slowly increase. This growth rate speeds up while challenging bosses.\\n\\nDefeating monsters and triggering special events will also grant Echo Residue.\\n\\nWhen Echo Residue is full, all players receive an Exaltation Anthem buff that enhances combat attributes.\\n\\nIn Master Mode, you can actively consume Echo Residue to start the anthem and trigger the buff early. However, this will strengthen nearby monsters affected by Seed of Illusion, and reward extra points upon their defeat.\\n\\nThe Squeaky Boarlet might take the opportunity to slip into the Adventurer's plane, hammering out chaotic beats with off-key notes while it waits for someone to play with.",
+    "Sort": 302
+  },
+  "303": {
+    "Id": 303,
+    "SeasonId": 3,
+    "SeasonTitle": "Season Title and Deep-Slumber Psychoscope",
     "PreviewType": 1,
     "ResourceRoute": [
-      "ui/textures/large_ui/season_window/season_main_window_01"
+      "ui/textures/season_window/season_main_window_22"
+    ],
+    "Content": "Take on the new season's achievements, raise your season Title, and prove your strength for all to see!\\n\\nDeep-Slumber Psychoscope has been reset and restructured. Choose Inspiration and Reality Factors to create your own build!",
+    "Sort": 303
+  },
+  "304": {
+    "Id": 304,
+    "SeasonId": 3,
+    "SeasonTitle": "Battle Pass: Part I Costume",
+    "PreviewType": 1,
+    "ResourceRoute": [
+      "ui/textures/season_window/season_main_window_21"
+    ],
+    "Content": "Purchase the Season Pass I and reach Lv.30 to obtain the limited-edition Stellar Navigator set.",
+    "Sort": 304
+  },
+  "305": {
+    "Id": 305,
+    "SeasonId": 3,
+    "SeasonTitle": "Limited Title Outfit",
+    "PreviewType": 1,
+    "ResourceRoute": [
+      "ui/textures/season_window/season_main_window_23"
+    ],
+    "Content": "Participate in seasonal Features and reach the title rank \"Chaotic Variations I\" to obtain the limited-edition Backlight Command set!",
+    "Sort": 306
+  },
+  "306": {
+    "Id": 306,
+    "SeasonId": 3,
+    "SeasonTitle": "",
+    "PreviewType": 1,
+    "ResourceRoute": [
+      "ui/textures/season_window/season_main_window_24"
     ],
     "Content": "",
-    "Sort": 302
+    "Sort": 305
   }
 }

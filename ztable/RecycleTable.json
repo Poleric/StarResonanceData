@@ -125,7 +125,8 @@
       505702
     ],
     "CurrencyDisplay": [
-      1070059
+      1070059,
+      1070073
     ]
   },
   "108": {
@@ -145,6 +146,21 @@
     ],
     "CurrencyDisplay": [
       10015
+    ]
+  },
+  "109": {
+    "Id": 109,
+    "Name": "",
+    "SystemId": 106109,
+    "Npc": "",
+    "ShowType": 1,
+    "CameraTemplateId": [
+      4028
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [],
+    "CurrencyDisplay": [
+      10018
     ]
   },
   "199": {

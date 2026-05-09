@@ -147,11 +147,7 @@
     "ShowMiniMap": 0,
     "MiniMapRatio": 50,
     "SubScene": [
-      8,
-      9,
-      10,
-      12,
-      18
+      10
     ],
     "AmbEvent": "",
     "ReverEvent": "Reverb_Normal",
@@ -223,7 +219,7 @@
     "SceneSubType": 4,
     "ParentId": 0,
     "IsShareParentSceneData": false,
-    "SceneResourceId": 12,
+    "SceneResourceId": 41,
     "SceneUi": [
       "mainui"
     ],
@@ -240,7 +236,7 @@
       "Amb_2D_Common",
       "Object_Fld002"
     ],
-    "BornId": 1,
+    "BornId": 3,
     "ReviveTableId": [
       101,
       200
@@ -304,7 +300,7 @@
     ],
     "Bgm": [
       "BGM_FlowPath_Scene",
-      "BGM_Cty001"
+      "BGM_Starland"
     ],
     "LoadingBgm": "",
     "FallDis": 1.0,
@@ -319,9 +315,9 @@
     "ShowMiniMap": 0,
     "MiniMapRatio": 50,
     "SubScene": [
-      15,
-      16,
-      17
+      17,
+      20,
+      21
     ],
     "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
     "ReverEvent": "Reverb_Normal",
@@ -682,7 +678,12 @@
       "x": 0.0,
       "y": 0.0
     },
-    "MapEntryCondition": [],
+    "MapEntryCondition": [
+      [
+        9,
+        99900
+      ]
+    ],
     "AudioBank": [
       "Amb_2D_Common"
     ],
@@ -708,7 +709,7 @@
     "ShowMiniMap": 0,
     "MiniMapRatio": 50,
     "SubScene": [],
-    "AmbEvent": "",
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
     "ReverEvent": "Reverb_Normal",
     "DefaultSceneArea": 0,
     "MoveSyncConfigId": 0,
@@ -734,7 +735,12 @@
       "x": 0.0,
       "y": 0.0
     },
-    "MapEntryCondition": [],
+    "MapEntryCondition": [
+      [
+        9,
+        99901
+      ]
+    ],
     "AudioBank": [
       "Amb_2D_Common"
     ],
@@ -760,8 +766,8 @@
     "ShowMiniMap": 0,
     "MiniMapRatio": 50,
     "SubScene": [],
-    "AmbEvent": "",
-    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": "Amb_2D_Fld001_Cave_YaZhiYiJi_Loop",
+    "ReverEvent": "Reverb_Medium",
     "DefaultSceneArea": 0,
     "MoveSyncConfigId": 0,
     "HaveWater": true,
@@ -928,7 +934,7 @@
     "ShowMiniMap": 0,
     "MiniMapRatio": 50,
     "SubScene": [],
-    "AmbEvent": "",
+    "AmbEvent": "Amb_2D_Fld002_WindSoft_DayNight_Loop",
     "ReverEvent": "Reverb_Normal",
     "DefaultSceneArea": 0,
     "MoveSyncConfigId": 0,
@@ -1645,6 +1651,271 @@
     "ReviveTableId": [
       109,
       201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng002"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "1150": {
+    "Id": 1150,
+    "Name": "Chaotic - Towering Ruin",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1150,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": -141.69,
+      "y": -344.64
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "scene_dng002",
+      "Amb_2D_Common"
+    ],
+    "BornId": 18,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng002"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "1151": {
+    "Id": 1151,
+    "Name": "Chaotic - Towering Ruin",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1150,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": -141.69,
+      "y": -344.64
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "scene_dng002",
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng002"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "1152": {
+    "Id": 1152,
+    "Name": "Chaotic - Towering Ruin",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1150,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": -141.69,
+      "y": -344.64
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "scene_dng002",
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng002"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "1153": {
+    "Id": 1153,
+    "Name": "Unstable - Towering Ruin",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1150,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": -141.69,
+      "y": -344.64
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "scene_dng002",
+      "Amb_2D_Common"
+    ],
+    "BornId": 4,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng002"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "1154": {
+    "Id": 1154,
+    "Name": "Unstable - Towering Ruin",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1150,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": -141.69,
+      "y": -344.64
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "scene_dng002",
+      "Amb_2D_Common"
+    ],
+    "BornId": 4,
+    "ReviveTableId": [
+      102,
+      200
     ],
     "Bgm": [
       "BGM_FlowPath_Scene",
@@ -3238,11 +3509,271 @@
     "HaveWater": false,
     "FootstepFxOverride": []
   },
+  "1611": {
+    "Id": 1611,
+    "Name": "Unstable - Tina's Mindrealm",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1611,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": -245.75,
+      "y": -150.82
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_Dng001_Dina"
+    ],
+    "BornId": 104083,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng001"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "1621": {
+    "Id": 1621,
+    "Name": "Unstable - Tina's Mindrealm",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1611,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": -245.75,
+      "y": -150.82
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_Dng001_Dina"
+    ],
+    "BornId": 6,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng001"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "1631": {
+    "Id": 1631,
+    "Name": "Chaotic - Tina's Mindrealm",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1611,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": -245.75,
+      "y": -150.82
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_Dng001_Dina"
+    ],
+    "BornId": 108562,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng001"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "1632": {
+    "Id": 1632,
+    "Name": "Chaotic - Tina's Mindrealm",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1611,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": -245.75,
+      "y": -150.82
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_Dng001_Dina"
+    ],
+    "BornId": 108562,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng001"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "1633": {
+    "Id": 1633,
+    "Name": "Chaotic - Tina's Mindrealm",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 1611,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": -245.75,
+      "y": -150.82
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_Dng001_Dina"
+    ],
+    "BornId": 54,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng001"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
   "5000": {
     "Id": 5000,
     "Name": "Content mechanism test scene",
     "SceneType": 2,
-    "SceneSubType": 6,
+    "SceneSubType": 5,
     "ParentId": 8,
     "IsShareParentSceneData": false,
     "SceneResourceId": 4,
@@ -3865,6 +4396,58 @@
     "HaveWater": false,
     "FootstepFxOverride": []
   },
+  "5604": {
+    "Id": 5604,
+    "Name": "Fafala's Home",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 5602,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 24,
+    "ReviveTableId": [
+      2
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld002_Main",
+      "BGM_Fld002_Area_FafalaHome"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
   "5811": {
     "Id": 5811,
     "Name": "Smelting Furnace Pipes",
@@ -3960,7 +4543,215 @@
     "ShowMiniMap": 1,
     "MiniMapRatio": 0,
     "SubScene": [],
-    "AmbEvent": "",
+    "AmbEvent": "Amb_2D_DngDragonIce_LightSnow_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "5813": {
+    "Id": 5813,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6521,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 8.81,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 2,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6521"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 1,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld001_UnderFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "5900": {
+    "Id": 5900,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6561,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6561"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "5910": {
+    "Id": 5910,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6511,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common",
+      "Boss_StoneSnake"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      102
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6511"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld002_MiningUnderground_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "5901": {
+    "Id": 5901,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6541,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6541"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
     "ReverEvent": "Reverb_Normal",
     "DefaultSceneArea": 0,
     "MoveSyncConfigId": 0,
@@ -6000,6 +6791,1051 @@
     "HaveWater": false,
     "FootstepFxOverride": []
   },
+  "6521": {
+    "Id": 6521,
+    "Name": "Chaotic - Mechanized Processing Facility",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6521,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 8.81,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 107920,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6521"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 1,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld001_UnderFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6522": {
+    "Id": 6522,
+    "Name": "Chaotic - Mechanized Processing Facility",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6521,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 8.81,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 107920,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6521"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 1,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld001_UnderFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6523": {
+    "Id": 6523,
+    "Name": "Chaotic - Mechanized Processing Facility",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6521,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 8.81,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108104,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6521"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 1,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld001_UnderFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6524": {
+    "Id": 6524,
+    "Name": "Chaotic - Mechanized Processing Facility",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6521,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 8.81,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108104,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6521"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 1,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld001_UnderFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6525": {
+    "Id": 6525,
+    "Name": "Chaotic - Mechanized Processing Facility",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6521,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 8.81,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108104,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6521"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 1,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld001_UnderFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6511": {
+    "Id": 6511,
+    "Name": "Unstable Space - Cursed Radiant Tomb",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6511,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common",
+      "Boss_StoneSnake"
+    ],
+    "BornId": 108387,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6511"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld002_MiningUnderground_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6512": {
+    "Id": 6512,
+    "Name": "Unstable Space - Cursed Radiant Tomb",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6511,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common",
+      "Boss_StoneSnake"
+    ],
+    "BornId": 108387,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6511"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld002_MiningUnderground_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6513": {
+    "Id": 6513,
+    "Name": "Cursed Radiant Tomb",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6511,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common",
+      "Boss_StoneSnake"
+    ],
+    "BornId": 108198,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6511"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld002_MiningUnderground_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6541": {
+    "Id": 6541,
+    "Name": "Unstable Space - Mistveil Hunting Ground",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6541,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108034,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6541"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6514": {
+    "Id": 6514,
+    "Name": "Cursed Radiant Tomb",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6511,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common",
+      "Boss_StoneSnake"
+    ],
+    "BornId": 108198,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6511"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld002_MiningUnderground_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6542": {
+    "Id": 6542,
+    "Name": "Unstable Space - Mistveil Hunting Ground",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6541,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108034,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6541"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6515": {
+    "Id": 6515,
+    "Name": "Cursed Radiant Tomb",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6511,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 1024.0,
+      "y": 1024.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common",
+      "Boss_StoneSnake"
+    ],
+    "BornId": 108198,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6511"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 0,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Fld002_MiningUnderground_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6543": {
+    "Id": 6543,
+    "Name": "Chaotic - Mistveil Hunting Ground",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6541,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108844,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6541"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6544": {
+    "Id": 6544,
+    "Name": "Chaotic - Mistveil Hunting Ground",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6541,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108844,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6541"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6545": {
+    "Id": 6545,
+    "Name": "Chaotic - Mistveil Hunting Ground",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6541,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108844,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6541"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6561": {
+    "Id": 6561,
+    "Name": "Unstable Space - Sea-Ringed Reef",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6561,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108028,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6561"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6562": {
+    "Id": 6562,
+    "Name": "Unstable Space - Sea-Ringed Reef",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6561,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108028,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6561"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6563": {
+    "Id": 6563,
+    "Name": "Chaotic - Sea-Ringed Reef",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6561,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108603,
+    "ReviveTableId": [
+      102,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6561"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6564": {
+    "Id": 6564,
+    "Name": "Chaotic - Sea-Ringed Reef",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6561,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108603,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6561"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "6565": {
+    "Id": 6565,
+    "Name": "Chaotic - Sea-Ringed Reef",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 6561,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 108603,
+    "ReviveTableId": [
+      109,
+      201
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6561"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": true,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
   "7001": {
     "Id": 7001,
     "Name": "Parkour",
@@ -7698,6 +9534,58 @@
     "HaveWater": true,
     "FootstepFxOverride": []
   },
+  "7152": {
+    "Id": 7152,
+    "Name": "World Dominator",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 7150,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 256.0,
+      "y": 256.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 28,
+    "ReviveTableId": [
+      105,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng7150"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": true,
+    "FootstepFxOverride": []
+  },
   "8001": {
     "Id": 8001,
     "Name": "Village Defense Battle",
@@ -8410,6 +10298,162 @@
     "HaveWater": true,
     "FootstepFxOverride": []
   },
+  "9205": {
+    "Id": 9205,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 90,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 2048.0,
+      "y": 2048.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld002_Main"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 1,
+    "CutsceneId": 0,
+    "MainUi": 1,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 50,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": true,
+    "FootstepFxOverride": []
+  },
+  "9206": {
+    "Id": 9206,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 90,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 2048.0,
+      "y": 2048.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld002_Main"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 1,
+    "CutsceneId": 0,
+    "MainUi": 1,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 50,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": true,
+    "FootstepFxOverride": []
+  },
+  "9207": {
+    "Id": 9207,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 90,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 2048.0,
+      "y": 2048.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Fld002_Main"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 1,
+    "CutsceneId": 0,
+    "MainUi": 1,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 50,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": true,
+    "FootstepFxOverride": []
+  },
   "10001": {
     "Id": 10001,
     "Name": "Square Practice Field 1",
@@ -8794,54 +10838,6 @@
     "HaveWater": false,
     "FootstepFxOverride": []
   },
-  "10030": {
-    "Id": 10030,
-    "Name": "Zone Test Scene",
-    "SceneType": 2,
-    "SceneSubType": 4,
-    "ParentId": 0,
-    "IsShareParentSceneData": false,
-    "SceneResourceId": 10,
-    "SceneUi": [
-      "mainui"
-    ],
-    "MapSize": {
-      "x": 128.0,
-      "y": 128.0
-    },
-    "MapOffset": {
-      "x": 0.0,
-      "y": 0.0
-    },
-    "MapEntryCondition": [],
-    "AudioBank": [
-      "Amb_2D_Common"
-    ],
-    "BornId": 15,
-    "ReviveTableId": [
-      5
-    ],
-    "Bgm": [],
-    "LoadingBgm": "",
-    "FallDis": 1.0,
-    "Weather": -1,
-    "DayAndNight": 0,
-    "CutsceneId": 0,
-    "MainUi": 1,
-    "CanChangeLayer": false,
-    "PreloadCutscenes": [],
-    "PreloadEPFlows": [],
-    "EPFlowId": 0,
-    "ShowMiniMap": 0,
-    "MiniMapRatio": 0,
-    "SubScene": [],
-    "AmbEvent": "",
-    "ReverEvent": "Reverb_Normal",
-    "DefaultSceneArea": 0,
-    "MoveSyncConfigId": 0,
-    "HaveWater": false,
-    "FootstepFxOverride": []
-  },
   "11001": {
     "Id": 11001,
     "Name": "Wondrous Tag",
@@ -8884,6 +10880,54 @@
     "PreloadEPFlows": [],
     "EPFlowId": 0,
     "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "10030": {
+    "Id": 10030,
+    "Name": "Zone Test Scene",
+    "SceneType": 2,
+    "SceneSubType": 4,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 10,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 15,
+    "ReviveTableId": [
+      5
+    ],
+    "Bgm": [],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 1,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
     "MiniMapRatio": 0,
     "SubScene": [],
     "AmbEvent": "",
@@ -9423,6 +11467,112 @@
     "HaveWater": false,
     "FootstepFxOverride": []
   },
+  "12022": {
+    "Id": 12022,
+    "Name": "Guild Hunt - Normal",
+    "SceneType": 2,
+    "SceneSubType": 9,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 18,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 3.44
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 148,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng1301_Area_B",
+      "BGM_Dng1301"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 6,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "12023": {
+    "Id": 12023,
+    "Name": "Guild Hunt - Hard",
+    "SceneType": 2,
+    "SceneSubType": 9,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 18,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 3.44
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 21,
+    "ReviveTableId": [
+      106,
+      108
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng1301_Area_B",
+      "BGM_Dng1301"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": 6,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
   "12030": {
     "Id": 12030,
     "Name": "Ee-chan's Story",
@@ -9635,6 +11785,59 @@
     "HaveWater": false,
     "FootstepFxOverride": []
   },
+  "12052": {
+    "Id": 12052,
+    "Name": "Giant Golem Crusade",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 7151,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 512.0,
+      "y": 512.0
+    },
+    "MapOffset": {
+      "x": -290.12,
+      "y": 887.26
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_Dng001_Dina",
+      "Object_Dng12050"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      105,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng7150"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_Dng12050_BattleField_Large_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
   "12100": {
     "Id": 12100,
     "Name": "Echoing Dungeon",
@@ -9664,8 +11867,8 @@
       5
     ],
     "Bgm": [
-      "BGM F1owPath Scene",
-      "BGM Dng6001"
+      "BGM_FlowPath_Scene",
+      "BGM_Dng6001"
     ],
     "LoadingBgm": "",
     "FallDis": 1.0,
@@ -9972,6 +12175,159 @@
     "Bgm": [
       "BGM_FlowPath_Scene",
       "BGM_Dng13011"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "13021": {
+    "Id": 13021,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 13021,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 2048.0,
+      "y": 2048.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 109678,
+    "ReviveTableId": [
+      111
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng13021"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "13022": {
+    "Id": 13022,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 13021,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 2048.0,
+      "y": 2048.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 109678,
+    "ReviveTableId": [
+      112
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng13021"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 1,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "13023": {
+    "Id": 13023,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 13021,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 2048.0,
+      "y": 2048.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 109678,
+    "ReviveTableId": [
+      113
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng13021"
     ],
     "LoadingBgm": "",
     "FallDis": 1.0,
@@ -17032,6 +19388,159 @@
   "24604": {
     "Id": 24604,
     "Name": "Support 26",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 22,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 256.0,
+      "y": 256.0
+    },
+    "MapOffset": {
+      "x": 8.81,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Class",
+      "BGM_Dng_Class_Asteria"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": true,
+    "FootstepFxOverride": []
+  },
+  "24650": {
+    "Id": 24650,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 18,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 3.44
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Class",
+      "BGM_Dng_Class_Duskblood"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": true,
+    "FootstepFxOverride": []
+  },
+  "24651": {
+    "Id": 24651,
+    "Name": "",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 20,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      108
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Class",
+      "BGM_Dng_Class_Asteria"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Common_WindSoft_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": true,
+    "FootstepFxOverride": []
+  },
+  "24652": {
+    "Id": 24652,
+    "Name": "",
     "SceneType": 2,
     "SceneSubType": 5,
     "ParentId": 0,
@@ -24995,6 +27504,3146 @@
       "Amb_2D_Common"
     ],
     "BornId": 102199,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32101": {
+    "Id": 32101,
+    "Name": "Floor 1",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32102": {
+    "Id": 32102,
+    "Name": "Floor 2",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32103": {
+    "Id": 32103,
+    "Name": "Floor 3",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32104": {
+    "Id": 32104,
+    "Name": "Floor 4",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32105": {
+    "Id": 32105,
+    "Name": "Floor 5",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32106": {
+    "Id": 32106,
+    "Name": "Floor 6",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32107": {
+    "Id": 32107,
+    "Name": "Floor 7",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32108": {
+    "Id": 32108,
+    "Name": "Floor 8",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32109": {
+    "Id": 32109,
+    "Name": "Floor 9",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32110": {
+    "Id": 32110,
+    "Name": "Floor 10",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32111": {
+    "Id": 32111,
+    "Name": "Floor 11",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32112": {
+    "Id": 32112,
+    "Name": "Floor 12",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32113": {
+    "Id": 32113,
+    "Name": "Floor 13",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32114": {
+    "Id": 32114,
+    "Name": "Floor 14",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32115": {
+    "Id": 32115,
+    "Name": "Floor 15",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32116": {
+    "Id": 32116,
+    "Name": "Floor 16",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32117": {
+    "Id": 32117,
+    "Name": "Floor 17",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32118": {
+    "Id": 32118,
+    "Name": "Floor 18",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32119": {
+    "Id": 32119,
+    "Name": "Floor 19",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32120": {
+    "Id": 32120,
+    "Name": "Floor 20",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_FlowPath_Scene",
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32121": {
+    "Id": 32121,
+    "Name": "Floor 21",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32122": {
+    "Id": 32122,
+    "Name": "Floor 22",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32123": {
+    "Id": 32123,
+    "Name": "Floor 23",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32124": {
+    "Id": 32124,
+    "Name": "Floor 24",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32125": {
+    "Id": 32125,
+    "Name": "Floor 25",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32126": {
+    "Id": 32126,
+    "Name": "Floor 26",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32127": {
+    "Id": 32127,
+    "Name": "Floor 27",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32128": {
+    "Id": 32128,
+    "Name": "Floor 28",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32129": {
+    "Id": 32129,
+    "Name": "Floor 29",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32130": {
+    "Id": 32130,
+    "Name": "Floor 30",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32131": {
+    "Id": 32131,
+    "Name": "Floor 31",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32132": {
+    "Id": 32132,
+    "Name": "Floor 32",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32133": {
+    "Id": 32133,
+    "Name": "Floor 33",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32134": {
+    "Id": 32134,
+    "Name": "Floor 34",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32135": {
+    "Id": 32135,
+    "Name": "Floor 35",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32136": {
+    "Id": 32136,
+    "Name": "Floor 36",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32137": {
+    "Id": 32137,
+    "Name": "Floor 37",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32138": {
+    "Id": 32138,
+    "Name": "Floor 38",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32139": {
+    "Id": 32139,
+    "Name": "Floor 39",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32140": {
+    "Id": 32140,
+    "Name": "Floor 40",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32141": {
+    "Id": 32141,
+    "Name": "Floor 41",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32142": {
+    "Id": 32142,
+    "Name": "Floor 42",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32143": {
+    "Id": 32143,
+    "Name": "Floor 43",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32144": {
+    "Id": 32144,
+    "Name": "Floor 44",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32145": {
+    "Id": 32145,
+    "Name": "Floor 45",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32146": {
+    "Id": 32146,
+    "Name": "Floor 46",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32147": {
+    "Id": 32147,
+    "Name": "Floor 47",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32148": {
+    "Id": 32148,
+    "Name": "Floor 48",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32149": {
+    "Id": 32149,
+    "Name": "Floor 49",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32150": {
+    "Id": 32150,
+    "Name": "Floor 50",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32151": {
+    "Id": 32151,
+    "Name": "Floor 51",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32152": {
+    "Id": 32152,
+    "Name": "Floor 52",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32153": {
+    "Id": 32153,
+    "Name": "Floor 53",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32154": {
+    "Id": 32154,
+    "Name": "Floor 54",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32155": {
+    "Id": 32155,
+    "Name": "Floor 55",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 1,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_Boss",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32156": {
+    "Id": 32156,
+    "Name": "Floor 56",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32157": {
+    "Id": 32157,
+    "Name": "Floor 57",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32158": {
+    "Id": 32158,
+    "Name": "Floor 58",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32159": {
+    "Id": 32159,
+    "Name": "Floor 59",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 50,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 100551,
+    "ReviveTableId": [
+      104,
+      200
+    ],
+    "Bgm": [
+      "BGM_Dng_Tower_General",
+      "BGM_Dng_Tower"
+    ],
+    "LoadingBgm": "",
+    "FallDis": 1.0,
+    "Weather": -1,
+    "DayAndNight": 0,
+    "CutsceneId": 0,
+    "MainUi": 2,
+    "CanChangeLayer": false,
+    "PreloadCutscenes": [],
+    "PreloadEPFlows": [],
+    "EPFlowId": 0,
+    "ShowMiniMap": 0,
+    "MiniMapRatio": 0,
+    "SubScene": [],
+    "AmbEvent": "Amb_2D_Dng002_RobotFactory_Loop",
+    "ReverEvent": "Reverb_Normal",
+    "DefaultSceneArea": 0,
+    "MoveSyncConfigId": 0,
+    "HaveWater": false,
+    "FootstepFxOverride": []
+  },
+  "32160": {
+    "Id": 32160,
+    "Name": "Floor 60",
+    "SceneType": 2,
+    "SceneSubType": 5,
+    "ParentId": 0,
+    "IsShareParentSceneData": false,
+    "SceneResourceId": 51,
+    "SceneUi": [
+      "mainui"
+    ],
+    "MapSize": {
+      "x": 128.0,
+      "y": 128.0
+    },
+    "MapOffset": {
+      "x": 5.7,
+      "y": 11.35
+    },
+    "MapEntryCondition": [],
+    "AudioBank": [
+      "Amb_2D_Common"
+    ],
+    "BornId": 102231,
     "ReviveTableId": [
       104,
       200

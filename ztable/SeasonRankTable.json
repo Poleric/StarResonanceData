@@ -7030,5 +7030,3276 @@
     "CoreRewardId": [],
     "FinalRewardId": [],
     "BackRankId": 0
+  },
+  "1030101001": {
+    "Id": 1030101001,
+    "RankSequence": 1,
+    "RankToLevel": 0,
+    "BigRankId": 100,
+    "RankId": 1030101,
+    "Des": "英勇黄铜",
+    "Name": "Overture of Embers I",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_01",
+    "IconBig": "ui/textures/armband/armband_icon_s3_1",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_01",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        5
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 1030101,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030101002
+  },
+  "1030101002": {
+    "Id": 1030101002,
+    "RankSequence": 2,
+    "RankToLevel": 0,
+    "BigRankId": 100,
+    "RankId": 1030101,
+    "Des": "英勇黄铜",
+    "Name": "Overture of Embers I",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_01",
+    "IconBig": "ui/textures/armband/armband_icon_s3_1",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_01",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        7
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030101003
+  },
+  "1030101003": {
+    "Id": 1030101003,
+    "RankSequence": 3,
+    "RankToLevel": 0,
+    "BigRankId": 100,
+    "RankId": 1030101,
+    "Des": "英勇黄铜",
+    "Name": "Overture of Embers I",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_01",
+    "IconBig": "ui/textures/armband/armband_icon_s3_1",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_01",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        9
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030102001
+  },
+  "1030102001": {
+    "Id": 1030102001,
+    "RankSequence": 4,
+    "RankToLevel": 1,
+    "BigRankId": 100,
+    "RankId": 1030102,
+    "Des": "英勇黄铜",
+    "Name": "Overture of Embers II",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_02",
+    "IconBig": "ui/textures/armband/armband_icon_s3_2",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_02",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        11
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200450,
+    "ArmbandReward": 1030102,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030102002
+  },
+  "1030102002": {
+    "Id": 1030102002,
+    "RankSequence": 5,
+    "RankToLevel": 1,
+    "BigRankId": 100,
+    "RankId": 1030102,
+    "Des": "英勇黄铜",
+    "Name": "Overture of Embers II",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_02",
+    "IconBig": "ui/textures/armband/armband_icon_s3_2",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_02",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        13
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030102003
+  },
+  "1030102003": {
+    "Id": 1030102003,
+    "RankSequence": 6,
+    "RankToLevel": 1,
+    "BigRankId": 100,
+    "RankId": 1030102,
+    "Des": "英勇黄铜",
+    "Name": "Overture of Embers II",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_02",
+    "IconBig": "ui/textures/armband/armband_icon_s3_2",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_02",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        15
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030103001
+  },
+  "1030103001": {
+    "Id": 1030103001,
+    "RankSequence": 7,
+    "RankToLevel": 2,
+    "BigRankId": 100,
+    "RankId": 1030103,
+    "Des": "英勇黄铜",
+    "Name": "Overture of Embers III",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_03",
+    "IconBig": "ui/textures/armband/armband_icon_s3_3",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_03",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        17
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200460,
+    "ArmbandReward": 1030103,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030103002
+  },
+  "1030103002": {
+    "Id": 1030103002,
+    "RankSequence": 8,
+    "RankToLevel": 2,
+    "BigRankId": 100,
+    "RankId": 1030103,
+    "Des": "英勇黄铜",
+    "Name": "Overture of Embers III",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_03",
+    "IconBig": "ui/textures/armband/armband_icon_s3_3",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_03",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        19
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030103003
+  },
+  "1030103003": {
+    "Id": 1030103003,
+    "RankSequence": 9,
+    "RankToLevel": 2,
+    "BigRankId": 100,
+    "RankId": 1030103,
+    "Des": "英勇黄铜",
+    "Name": "Overture of Embers III",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_03",
+    "IconBig": "ui/textures/armband/armband_icon_s3_3",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_47",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_03",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        21
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030201001
+  },
+  "1030201001": {
+    "Id": 1030201001,
+    "RankSequence": 10,
+    "RankToLevel": 3,
+    "BigRankId": 200,
+    "RankId": 1030201,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone I",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_04",
+    "IconBig": "ui/textures/armband/armband_icon_s3_4",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_04",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        23
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200470,
+    "ArmbandReward": 1030201,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030201002
+  },
+  "1030201002": {
+    "Id": 1030201002,
+    "RankSequence": 11,
+    "RankToLevel": 3,
+    "BigRankId": 200,
+    "RankId": 1030201,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone I",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_04",
+    "IconBig": "ui/textures/armband/armband_icon_s3_4",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_04",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        25
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030201003
+  },
+  "1030201003": {
+    "Id": 1030201003,
+    "RankSequence": 12,
+    "RankToLevel": 3,
+    "BigRankId": 200,
+    "RankId": 1030201,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone I",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_04",
+    "IconBig": "ui/textures/armband/armband_icon_s3_4",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_04",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        27
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030201004
+  },
+  "1030201004": {
+    "Id": 1030201004,
+    "RankSequence": 13,
+    "RankToLevel": 3,
+    "BigRankId": 200,
+    "RankId": 1030201,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone I",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_04",
+    "IconBig": "ui/textures/armband/armband_icon_s3_4",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_04",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        29
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030202001
+  },
+  "1030202001": {
+    "Id": 1030202001,
+    "RankSequence": 14,
+    "RankToLevel": 4,
+    "BigRankId": 200,
+    "RankId": 1030202,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone II",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_05",
+    "IconBig": "ui/textures/armband/armband_icon_s3_5",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_05",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        31
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200480,
+    "ArmbandReward": 1030202,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030202002
+  },
+  "1030202002": {
+    "Id": 1030202002,
+    "RankSequence": 15,
+    "RankToLevel": 4,
+    "BigRankId": 200,
+    "RankId": 1030202,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone II",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_05",
+    "IconBig": "ui/textures/armband/armband_icon_s3_5",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_05",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        33
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030202003
+  },
+  "1030202003": {
+    "Id": 1030202003,
+    "RankSequence": 16,
+    "RankToLevel": 4,
+    "BigRankId": 200,
+    "RankId": 1030202,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone II",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_05",
+    "IconBig": "ui/textures/armband/armband_icon_s3_5",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_05",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        35
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030202004
+  },
+  "1030202004": {
+    "Id": 1030202004,
+    "RankSequence": 17,
+    "RankToLevel": 4,
+    "BigRankId": 200,
+    "RankId": 1030202,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone II",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_05",
+    "IconBig": "ui/textures/armband/armband_icon_s3_5",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_05",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        37
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030203001
+  },
+  "1030203001": {
+    "Id": 1030203001,
+    "RankSequence": 18,
+    "RankToLevel": 5,
+    "BigRankId": 200,
+    "RankId": 1030203,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone III",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_06",
+    "IconBig": "ui/textures/armband/armband_icon_s3_6",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_06",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        39
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200490,
+    "ArmbandReward": 1030203,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030203002
+  },
+  "1030203002": {
+    "Id": 1030203002,
+    "RankSequence": 19,
+    "RankToLevel": 5,
+    "BigRankId": 200,
+    "RankId": 1030203,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone III",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_06",
+    "IconBig": "ui/textures/armband/armband_icon_s3_6",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_06",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        41
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030203003
+  },
+  "1030203003": {
+    "Id": 1030203003,
+    "RankSequence": 20,
+    "RankToLevel": 5,
+    "BigRankId": 200,
+    "RankId": 1030203,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone III",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_06",
+    "IconBig": "ui/textures/armband/armband_icon_s3_6",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_06",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        43
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030203004
+  },
+  "1030203004": {
+    "Id": 1030203004,
+    "RankSequence": 21,
+    "RankToLevel": 5,
+    "BigRankId": 200,
+    "RankId": 1030203,
+    "Des": "不屈白银",
+    "Name": "Illusory Monotone III",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_06",
+    "IconBig": "ui/textures/armband/armband_icon_s3_6",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_48",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_06",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        45
+      ],
+      [
+        5,
+        1071007,
+        0
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030301001
+  },
+  "1030301001": {
+    "Id": 1030301001,
+    "RankSequence": 22,
+    "RankToLevel": 6,
+    "BigRankId": 300,
+    "RankId": 1030301,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers I",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "IconBig": "ui/textures/armband/armband_icon_s3_7",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        47
+      ],
+      [
+        5,
+        1071007,
+        1
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200500,
+    "ArmbandReward": 1030301,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030301002
+  },
+  "1030301002": {
+    "Id": 1030301002,
+    "RankSequence": 23,
+    "RankToLevel": 6,
+    "BigRankId": 300,
+    "RankId": 1030301,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers I",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "IconBig": "ui/textures/armband/armband_icon_s3_7",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        49
+      ],
+      [
+        5,
+        1071007,
+        1
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030301003
+  },
+  "1030301003": {
+    "Id": 1030301003,
+    "RankSequence": 24,
+    "RankToLevel": 6,
+    "BigRankId": 300,
+    "RankId": 1030301,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers I",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "IconBig": "ui/textures/armband/armband_icon_s3_7",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        51
+      ],
+      [
+        5,
+        1071007,
+        1
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030301004
+  },
+  "1030301004": {
+    "Id": 1030301004,
+    "RankSequence": 25,
+    "RankToLevel": 6,
+    "BigRankId": 300,
+    "RankId": 1030301,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers I",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "IconBig": "ui/textures/armband/armband_icon_s3_7",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        53
+      ],
+      [
+        5,
+        1071007,
+        1
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030301005
+  },
+  "1030301005": {
+    "Id": 1030301005,
+    "RankSequence": 26,
+    "RankToLevel": 6,
+    "BigRankId": 300,
+    "RankId": 1030301,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers I",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "IconBig": "ui/textures/armband/armband_icon_s3_7",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_07",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        55
+      ],
+      [
+        5,
+        1071007,
+        1
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030302001
+  },
+  "1030302001": {
+    "Id": 1030302001,
+    "RankSequence": 27,
+    "RankToLevel": 7,
+    "BigRankId": 300,
+    "RankId": 1030302,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers II",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "IconBig": "ui/textures/armband/armband_icon_s3_8",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        57
+      ],
+      [
+        5,
+        1071007,
+        1
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200510,
+    "ArmbandReward": 1030302,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030302002
+  },
+  "1030302002": {
+    "Id": 1030302002,
+    "RankSequence": 28,
+    "RankToLevel": 7,
+    "BigRankId": 300,
+    "RankId": 1030302,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers II",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "IconBig": "ui/textures/armband/armband_icon_s3_8",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        59
+      ],
+      [
+        5,
+        1071007,
+        2
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030302003
+  },
+  "1030302003": {
+    "Id": 1030302003,
+    "RankSequence": 29,
+    "RankToLevel": 7,
+    "BigRankId": 300,
+    "RankId": 1030302,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers II",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "IconBig": "ui/textures/armband/armband_icon_s3_8",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        61
+      ],
+      [
+        5,
+        1071007,
+        2
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030302004
+  },
+  "1030302004": {
+    "Id": 1030302004,
+    "RankSequence": 30,
+    "RankToLevel": 7,
+    "BigRankId": 300,
+    "RankId": 1030302,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers II",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "IconBig": "ui/textures/armband/armband_icon_s3_8",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        63
+      ],
+      [
+        5,
+        1071007,
+        2
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030302005
+  },
+  "1030302005": {
+    "Id": 1030302005,
+    "RankSequence": 31,
+    "RankToLevel": 7,
+    "BigRankId": 300,
+    "RankId": 1030302,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers II",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "IconBig": "ui/textures/armband/armband_icon_s3_8",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_08",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        65
+      ],
+      [
+        5,
+        1071007,
+        2
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030303001
+  },
+  "1030303001": {
+    "Id": 1030303001,
+    "RankSequence": 32,
+    "RankToLevel": 8,
+    "BigRankId": 300,
+    "RankId": 1030303,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers III",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "IconBig": "ui/textures/armband/armband_icon_s3_9",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        67
+      ],
+      [
+        5,
+        1071007,
+        2
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200520,
+    "ArmbandReward": 1030303,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030303002
+  },
+  "1030303002": {
+    "Id": 1030303002,
+    "RankSequence": 33,
+    "RankToLevel": 8,
+    "BigRankId": 300,
+    "RankId": 1030303,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers III",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "IconBig": "ui/textures/armband/armband_icon_s3_9",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        69
+      ],
+      [
+        5,
+        1071007,
+        2
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030303003
+  },
+  "1030303003": {
+    "Id": 1030303003,
+    "RankSequence": 34,
+    "RankToLevel": 8,
+    "BigRankId": 300,
+    "RankId": 1030303,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers III",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "IconBig": "ui/textures/armband/armband_icon_s3_9",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        71
+      ],
+      [
+        5,
+        1071007,
+        2
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030303004
+  },
+  "1030303004": {
+    "Id": 1030303004,
+    "RankSequence": 35,
+    "RankToLevel": 8,
+    "BigRankId": 300,
+    "RankId": 1030303,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers III",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "IconBig": "ui/textures/armband/armband_icon_s3_9",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        73
+      ],
+      [
+        5,
+        1071007,
+        2
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030303005
+  },
+  "1030303005": {
+    "Id": 1030303005,
+    "RankSequence": 36,
+    "RankToLevel": 8,
+    "BigRankId": 300,
+    "RankId": 1030303,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers III",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "IconBig": "ui/textures/armband/armband_icon_s3_9",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_09",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        75
+      ],
+      [
+        5,
+        1071007,
+        2
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030304001
+  },
+  "1030304001": {
+    "Id": 1030304001,
+    "RankSequence": 37,
+    "RankToLevel": 9,
+    "BigRankId": 300,
+    "RankId": 1030304,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers IV",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "IconBig": "ui/textures/armband/armband_icon_s3_10",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        77
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200530,
+    "ArmbandReward": 1030304,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030304002
+  },
+  "1030304002": {
+    "Id": 1030304002,
+    "RankSequence": 38,
+    "RankToLevel": 9,
+    "BigRankId": 300,
+    "RankId": 1030304,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers IV",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "IconBig": "ui/textures/armband/armband_icon_s3_10",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        79
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030304003
+  },
+  "1030304003": {
+    "Id": 1030304003,
+    "RankSequence": 39,
+    "RankToLevel": 9,
+    "BigRankId": 300,
+    "RankId": 1030304,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers IV",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "IconBig": "ui/textures/armband/armband_icon_s3_10",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        81
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030304004
+  },
+  "1030304004": {
+    "Id": 1030304004,
+    "RankSequence": 40,
+    "RankToLevel": 9,
+    "BigRankId": 300,
+    "RankId": 1030304,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers IV",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "IconBig": "ui/textures/armband/armband_icon_s3_10",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        83
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030304005
+  },
+  "1030304005": {
+    "Id": 1030304005,
+    "RankSequence": 41,
+    "RankToLevel": 9,
+    "BigRankId": 300,
+    "RankId": 1030304,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers IV",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "IconBig": "ui/textures/armband/armband_icon_s3_10",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_10",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        85
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030305001
+  },
+  "1030305001": {
+    "Id": 1030305001,
+    "RankSequence": 42,
+    "RankToLevel": 10,
+    "BigRankId": 300,
+    "RankId": 1030305,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers V",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "IconBig": "ui/textures/armband/armband_icon_s3_11",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        87
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200540,
+    "ArmbandReward": 1030305,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030305002
+  },
+  "1030305002": {
+    "Id": 1030305002,
+    "RankSequence": 43,
+    "RankToLevel": 10,
+    "BigRankId": 300,
+    "RankId": 1030305,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers V",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "IconBig": "ui/textures/armband/armband_icon_s3_11",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        89
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030305003
+  },
+  "1030305003": {
+    "Id": 1030305003,
+    "RankSequence": 44,
+    "RankToLevel": 10,
+    "BigRankId": 300,
+    "RankId": 1030305,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers V",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "IconBig": "ui/textures/armband/armband_icon_s3_11",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        91
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030305004
+  },
+  "1030305004": {
+    "Id": 1030305004,
+    "RankSequence": 45,
+    "RankToLevel": 10,
+    "BigRankId": 300,
+    "RankId": 1030305,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers V",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "IconBig": "ui/textures/armband/armband_icon_s3_11",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        93
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030305005
+  },
+  "1030305005": {
+    "Id": 1030305005,
+    "RankSequence": 46,
+    "RankToLevel": 10,
+    "BigRankId": 300,
+    "RankId": 1030305,
+    "Des": "荣耀黄金",
+    "Name": "The Rift Whispers V",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "IconBig": "ui/textures/armband/armband_icon_s3_11",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_49",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_11",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        95
+      ],
+      [
+        5,
+        1071007,
+        3
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030401001
+  },
+  "1030401001": {
+    "Id": 1030401001,
+    "RankSequence": 47,
+    "RankToLevel": 11,
+    "BigRankId": 400,
+    "RankId": 1030401,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations I",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "IconBig": "ui/textures/armband/armband_icon_s3_12",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        98
+      ],
+      [
+        5,
+        1071007,
+        4
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200550,
+    "ArmbandReward": 1030401,
+    "CoreRewardId": [
+      [
+        103001
+      ]
+    ],
+    "FinalRewardId": [],
+    "BackRankId": 1030401002
+  },
+  "1030401002": {
+    "Id": 1030401002,
+    "RankSequence": 48,
+    "RankToLevel": 11,
+    "BigRankId": 400,
+    "RankId": 1030401,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations I",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "IconBig": "ui/textures/armband/armband_icon_s3_12",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        101
+      ],
+      [
+        5,
+        1071007,
+        4
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030401003
+  },
+  "1030401003": {
+    "Id": 1030401003,
+    "RankSequence": 49,
+    "RankToLevel": 11,
+    "BigRankId": 400,
+    "RankId": 1030401,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations I",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "IconBig": "ui/textures/armband/armband_icon_s3_12",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        104
+      ],
+      [
+        5,
+        1071007,
+        4
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030401004
+  },
+  "1030401004": {
+    "Id": 1030401004,
+    "RankSequence": 50,
+    "RankToLevel": 11,
+    "BigRankId": 400,
+    "RankId": 1030401,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations I",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "IconBig": "ui/textures/armband/armband_icon_s3_12",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        107
+      ],
+      [
+        5,
+        1071007,
+        4
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030401005
+  },
+  "1030401005": {
+    "Id": 1030401005,
+    "RankSequence": 51,
+    "RankToLevel": 11,
+    "BigRankId": 400,
+    "RankId": 1030401,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations I",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "IconBig": "ui/textures/armband/armband_icon_s3_12",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_12",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        110
+      ],
+      [
+        5,
+        1071007,
+        4
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030402001
+  },
+  "1030402001": {
+    "Id": 1030402001,
+    "RankSequence": 52,
+    "RankToLevel": 12,
+    "BigRankId": 400,
+    "RankId": 1030402,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations II",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "IconBig": "ui/textures/armband/armband_icon_s3_13",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        113
+      ],
+      [
+        5,
+        1071007,
+        5
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200560,
+    "ArmbandReward": 1030402,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030402002
+  },
+  "1030402002": {
+    "Id": 1030402002,
+    "RankSequence": 53,
+    "RankToLevel": 12,
+    "BigRankId": 400,
+    "RankId": 1030402,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations II",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "IconBig": "ui/textures/armband/armband_icon_s3_13",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        116
+      ],
+      [
+        5,
+        1071007,
+        5
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030402003
+  },
+  "1030402003": {
+    "Id": 1030402003,
+    "RankSequence": 54,
+    "RankToLevel": 12,
+    "BigRankId": 400,
+    "RankId": 1030402,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations II",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "IconBig": "ui/textures/armband/armband_icon_s3_13",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        119
+      ],
+      [
+        5,
+        1071007,
+        5
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030402004
+  },
+  "1030402004": {
+    "Id": 1030402004,
+    "RankSequence": 55,
+    "RankToLevel": 12,
+    "BigRankId": 400,
+    "RankId": 1030402,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations II",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "IconBig": "ui/textures/armband/armband_icon_s3_13",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        122
+      ],
+      [
+        5,
+        1071007,
+        5
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030402005
+  },
+  "1030402005": {
+    "Id": 1030402005,
+    "RankSequence": 56,
+    "RankToLevel": 12,
+    "BigRankId": 400,
+    "RankId": 1030402,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations II",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "IconBig": "ui/textures/armband/armband_icon_s3_13",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_13",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        125
+      ],
+      [
+        5,
+        1071007,
+        5
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030403001
+  },
+  "1030403001": {
+    "Id": 1030403001,
+    "RankSequence": 57,
+    "RankToLevel": 13,
+    "BigRankId": 400,
+    "RankId": 1030403,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations III",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "IconBig": "ui/textures/armband/armband_icon_s3_14",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        128
+      ],
+      [
+        5,
+        1071007,
+        6
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200570,
+    "ArmbandReward": 1030403,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030403002
+  },
+  "1030403002": {
+    "Id": 1030403002,
+    "RankSequence": 58,
+    "RankToLevel": 13,
+    "BigRankId": 400,
+    "RankId": 1030403,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations III",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "IconBig": "ui/textures/armband/armband_icon_s3_14",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        131
+      ],
+      [
+        5,
+        1071007,
+        6
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030403003
+  },
+  "1030403003": {
+    "Id": 1030403003,
+    "RankSequence": 59,
+    "RankToLevel": 13,
+    "BigRankId": 400,
+    "RankId": 1030403,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations III",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "IconBig": "ui/textures/armband/armband_icon_s3_14",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        134
+      ],
+      [
+        5,
+        1071007,
+        6
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030403004
+  },
+  "1030403004": {
+    "Id": 1030403004,
+    "RankSequence": 60,
+    "RankToLevel": 13,
+    "BigRankId": 400,
+    "RankId": 1030403,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations III",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "IconBig": "ui/textures/armband/armband_icon_s3_14",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        137
+      ],
+      [
+        5,
+        1071007,
+        6
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030403005
+  },
+  "1030403005": {
+    "Id": 1030403005,
+    "RankSequence": 61,
+    "RankToLevel": 13,
+    "BigRankId": 400,
+    "RankId": 1030403,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations III",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "IconBig": "ui/textures/armband/armband_icon_s3_14",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_14",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        140
+      ],
+      [
+        5,
+        1071007,
+        6
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030404001
+  },
+  "1030404001": {
+    "Id": 1030404001,
+    "RankSequence": 62,
+    "RankToLevel": 14,
+    "BigRankId": 400,
+    "RankId": 1030404,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations IV",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "IconBig": "ui/textures/armband/armband_icon_s3_15",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        143
+      ],
+      [
+        5,
+        1071007,
+        7
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200580,
+    "ArmbandReward": 1030404,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030404002
+  },
+  "1030404002": {
+    "Id": 1030404002,
+    "RankSequence": 63,
+    "RankToLevel": 14,
+    "BigRankId": 400,
+    "RankId": 1030404,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations IV",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "IconBig": "ui/textures/armband/armband_icon_s3_15",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        146
+      ],
+      [
+        5,
+        1071007,
+        7
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030404003
+  },
+  "1030404003": {
+    "Id": 1030404003,
+    "RankSequence": 64,
+    "RankToLevel": 14,
+    "BigRankId": 400,
+    "RankId": 1030404,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations IV",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "IconBig": "ui/textures/armband/armband_icon_s3_15",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        149
+      ],
+      [
+        5,
+        1071007,
+        7
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030404004
+  },
+  "1030404004": {
+    "Id": 1030404004,
+    "RankSequence": 65,
+    "RankToLevel": 14,
+    "BigRankId": 400,
+    "RankId": 1030404,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations IV",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "IconBig": "ui/textures/armband/armband_icon_s3_15",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        152
+      ],
+      [
+        5,
+        1071007,
+        7
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030404005
+  },
+  "1030404005": {
+    "Id": 1030404005,
+    "RankSequence": 66,
+    "RankToLevel": 14,
+    "BigRankId": 400,
+    "RankId": 1030404,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations IV",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "IconBig": "ui/textures/armband/armband_icon_s3_15",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_15",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        155
+      ],
+      [
+        5,
+        1071007,
+        7
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030405001
+  },
+  "1030405001": {
+    "Id": 1030405001,
+    "RankSequence": 67,
+    "RankToLevel": 15,
+    "BigRankId": 400,
+    "RankId": 1030405,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations V",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "IconBig": "ui/textures/armband/armband_icon_s3_16",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        158
+      ],
+      [
+        5,
+        1071007,
+        8
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200590,
+    "ArmbandReward": 1030405,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030405002
+  },
+  "1030405002": {
+    "Id": 1030405002,
+    "RankSequence": 68,
+    "RankToLevel": 15,
+    "BigRankId": 400,
+    "RankId": 1030405,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations V",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "IconBig": "ui/textures/armband/armband_icon_s3_16",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        161
+      ],
+      [
+        5,
+        1071007,
+        8
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030405003
+  },
+  "1030405003": {
+    "Id": 1030405003,
+    "RankSequence": 69,
+    "RankToLevel": 15,
+    "BigRankId": 400,
+    "RankId": 1030405,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations V",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "IconBig": "ui/textures/armband/armband_icon_s3_16",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        164
+      ],
+      [
+        5,
+        1071007,
+        8
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030405004
+  },
+  "1030405004": {
+    "Id": 1030405004,
+    "RankSequence": 70,
+    "RankToLevel": 15,
+    "BigRankId": 400,
+    "RankId": 1030405,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations V",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "IconBig": "ui/textures/armband/armband_icon_s3_16",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        167
+      ],
+      [
+        5,
+        1071007,
+        8
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030405005
+  },
+  "1030405005": {
+    "Id": 1030405005,
+    "RankSequence": 71,
+    "RankToLevel": 15,
+    "BigRankId": 400,
+    "RankId": 1030405,
+    "Des": "华贵铂金",
+    "Name": "Chaotic Variations V",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "IconBig": "ui/textures/armband/armband_icon_s3_16",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_50",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_16",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        170
+      ],
+      [
+        5,
+        1071007,
+        8
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030501001
+  },
+  "1030501001": {
+    "Id": 1030501001,
+    "RankSequence": 72,
+    "RankToLevel": 16,
+    "BigRankId": 500,
+    "RankId": 1030501,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble I",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "IconBig": "ui/textures/armband/armband_icon_s3_17",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        175
+      ],
+      [
+        5,
+        1071007,
+        10
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200600,
+    "ArmbandReward": 1030501,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030501002
+  },
+  "1030501002": {
+    "Id": 1030501002,
+    "RankSequence": 73,
+    "RankToLevel": 16,
+    "BigRankId": 500,
+    "RankId": 1030501,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble I",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "IconBig": "ui/textures/armband/armband_icon_s3_17",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        180
+      ],
+      [
+        5,
+        1071007,
+        10
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030501003
+  },
+  "1030501003": {
+    "Id": 1030501003,
+    "RankSequence": 74,
+    "RankToLevel": 16,
+    "BigRankId": 500,
+    "RankId": 1030501,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble I",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "IconBig": "ui/textures/armband/armband_icon_s3_17",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        185
+      ],
+      [
+        5,
+        1071007,
+        10
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030501004
+  },
+  "1030501004": {
+    "Id": 1030501004,
+    "RankSequence": 75,
+    "RankToLevel": 16,
+    "BigRankId": 500,
+    "RankId": 1030501,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble I",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "IconBig": "ui/textures/armband/armband_icon_s3_17",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        190
+      ],
+      [
+        5,
+        1071007,
+        10
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030501005
+  },
+  "1030501005": {
+    "Id": 1030501005,
+    "RankSequence": 76,
+    "RankToLevel": 16,
+    "BigRankId": 500,
+    "RankId": 1030501,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble I",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "IconBig": "ui/textures/armband/armband_icon_s3_17",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_17",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        195
+      ],
+      [
+        5,
+        1071007,
+        10
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030502001
+  },
+  "1030502001": {
+    "Id": 1030502001,
+    "RankSequence": 77,
+    "RankToLevel": 17,
+    "BigRankId": 500,
+    "RankId": 1030502,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble II",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "IconBig": "ui/textures/armband/armband_icon_s3_18",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        200
+      ],
+      [
+        5,
+        1071007,
+        11
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200610,
+    "ArmbandReward": 1030502,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030502002
+  },
+  "1030502002": {
+    "Id": 1030502002,
+    "RankSequence": 78,
+    "RankToLevel": 17,
+    "BigRankId": 500,
+    "RankId": 1030502,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble II",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "IconBig": "ui/textures/armband/armband_icon_s3_18",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        205
+      ],
+      [
+        5,
+        1071007,
+        11
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030502003
+  },
+  "1030502003": {
+    "Id": 1030502003,
+    "RankSequence": 79,
+    "RankToLevel": 17,
+    "BigRankId": 500,
+    "RankId": 1030502,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble II",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "IconBig": "ui/textures/armband/armband_icon_s3_18",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        210
+      ],
+      [
+        5,
+        1071007,
+        11
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030502004
+  },
+  "1030502004": {
+    "Id": 1030502004,
+    "RankSequence": 80,
+    "RankToLevel": 17,
+    "BigRankId": 500,
+    "RankId": 1030502,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble II",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "IconBig": "ui/textures/armband/armband_icon_s3_18",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        215
+      ],
+      [
+        5,
+        1071007,
+        11
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030502005
+  },
+  "1030502005": {
+    "Id": 1030502005,
+    "RankSequence": 81,
+    "RankToLevel": 17,
+    "BigRankId": 500,
+    "RankId": 1030502,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble II",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "IconBig": "ui/textures/armband/armband_icon_s3_18",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_18",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        220
+      ],
+      [
+        5,
+        1071007,
+        11
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030503001
+  },
+  "1030503001": {
+    "Id": 1030503001,
+    "RankSequence": 82,
+    "RankToLevel": 18,
+    "BigRankId": 500,
+    "RankId": 1030503,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble III",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "IconBig": "ui/textures/armband/armband_icon_s3_19",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        225
+      ],
+      [
+        5,
+        1071007,
+        12
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200620,
+    "ArmbandReward": 1030503,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030503002
+  },
+  "1030503002": {
+    "Id": 1030503002,
+    "RankSequence": 83,
+    "RankToLevel": 18,
+    "BigRankId": 500,
+    "RankId": 1030503,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble III",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "IconBig": "ui/textures/armband/armband_icon_s3_19",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        230
+      ],
+      [
+        5,
+        1071007,
+        12
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030503003
+  },
+  "1030503003": {
+    "Id": 1030503003,
+    "RankSequence": 84,
+    "RankToLevel": 18,
+    "BigRankId": 500,
+    "RankId": 1030503,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble III",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "IconBig": "ui/textures/armband/armband_icon_s3_19",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        235
+      ],
+      [
+        5,
+        1071007,
+        12
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030503004
+  },
+  "1030503004": {
+    "Id": 1030503004,
+    "RankSequence": 85,
+    "RankToLevel": 18,
+    "BigRankId": 500,
+    "RankId": 1030503,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble III",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "IconBig": "ui/textures/armband/armband_icon_s3_19",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        240
+      ],
+      [
+        5,
+        1071007,
+        12
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030503005
+  },
+  "1030503005": {
+    "Id": 1030503005,
+    "RankSequence": 86,
+    "RankToLevel": 18,
+    "BigRankId": 500,
+    "RankId": 1030503,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble III",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "IconBig": "ui/textures/armband/armband_icon_s3_19",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_19",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        245
+      ],
+      [
+        5,
+        1071007,
+        12
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030504001
+  },
+  "1030504001": {
+    "Id": 1030504001,
+    "RankSequence": 87,
+    "RankToLevel": 19,
+    "BigRankId": 500,
+    "RankId": 1030504,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble IV",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "IconBig": "ui/textures/armband/armband_icon_s3_20",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        250
+      ],
+      [
+        5,
+        1071007,
+        13
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200630,
+    "ArmbandReward": 1030504,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030504002
+  },
+  "1030504002": {
+    "Id": 1030504002,
+    "RankSequence": 88,
+    "RankToLevel": 19,
+    "BigRankId": 500,
+    "RankId": 1030504,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble IV",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "IconBig": "ui/textures/armband/armband_icon_s3_20",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        255
+      ],
+      [
+        5,
+        1071007,
+        13
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030504003
+  },
+  "1030504003": {
+    "Id": 1030504003,
+    "RankSequence": 89,
+    "RankToLevel": 19,
+    "BigRankId": 500,
+    "RankId": 1030504,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble IV",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "IconBig": "ui/textures/armband/armband_icon_s3_20",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        260
+      ],
+      [
+        5,
+        1071007,
+        13
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030504004
+  },
+  "1030504004": {
+    "Id": 1030504004,
+    "RankSequence": 90,
+    "RankToLevel": 19,
+    "BigRankId": 500,
+    "RankId": 1030504,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble IV",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "IconBig": "ui/textures/armband/armband_icon_s3_20",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        265
+      ],
+      [
+        5,
+        1071007,
+        13
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030504005
+  },
+  "1030504005": {
+    "Id": 1030504005,
+    "RankSequence": 91,
+    "RankToLevel": 19,
+    "BigRankId": 500,
+    "RankId": 1030504,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble IV",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "IconBig": "ui/textures/armband/armband_icon_s3_20",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_20",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        270
+      ],
+      [
+        5,
+        1071007,
+        13
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030505001
+  },
+  "1030505001": {
+    "Id": 1030505001,
+    "RankSequence": 92,
+    "RankToLevel": 20,
+    "BigRankId": 500,
+    "RankId": 1030505,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble V",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "IconBig": "ui/textures/armband/armband_icon_s3_21",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        275
+      ],
+      [
+        5,
+        1071007,
+        14
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200640,
+    "ArmbandReward": 1030505,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030505002
+  },
+  "1030505002": {
+    "Id": 1030505002,
+    "RankSequence": 93,
+    "RankToLevel": 20,
+    "BigRankId": 500,
+    "RankId": 1030505,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble V",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "IconBig": "ui/textures/armband/armband_icon_s3_21",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        280
+      ],
+      [
+        5,
+        1071007,
+        14
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030505003
+  },
+  "1030505003": {
+    "Id": 1030505003,
+    "RankSequence": 94,
+    "RankToLevel": 20,
+    "BigRankId": 500,
+    "RankId": 1030505,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble V",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "IconBig": "ui/textures/armband/armband_icon_s3_21",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        285
+      ],
+      [
+        5,
+        1071007,
+        14
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030505004
+  },
+  "1030505004": {
+    "Id": 1030505004,
+    "RankSequence": 95,
+    "RankToLevel": 20,
+    "BigRankId": 500,
+    "RankId": 1030505,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble V",
+    "StarLevel": 4,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "IconBig": "ui/textures/armband/armband_icon_s3_21",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        290
+      ],
+      [
+        5,
+        1071007,
+        14
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1030505005
+  },
+  "1030505005": {
+    "Id": 1030505005,
+    "RankSequence": 96,
+    "RankToLevel": 20,
+    "BigRankId": 500,
+    "RankId": 1030505,
+    "Des": "璀璨钻石",
+    "Name": "Dawn Ensemble V",
+    "StarLevel": 5,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "IconBig": "ui/textures/armband/armband_icon_s3_21",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_51",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_21",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        295
+      ],
+      [
+        5,
+        1071007,
+        14
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1039900001
+  },
+  "1039900001": {
+    "Id": 1039900001,
+    "RankSequence": 97,
+    "RankToLevel": 21,
+    "BigRankId": 900,
+    "RankId": 1039900,
+    "Des": "最强王者",
+    "Name": "Void Conductor",
+    "StarLevel": 1,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_22",
+    "IconBig": "ui/textures/armband/armband_icon_s3_22",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_55",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_22",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        310
+      ],
+      [
+        5,
+        1071007,
+        15
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 20200650,
+    "ArmbandReward": 1039900,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1039900002
+  },
+  "1039900002": {
+    "Id": 1039900002,
+    "RankSequence": 98,
+    "RankToLevel": 21,
+    "BigRankId": 900,
+    "RankId": 1039900,
+    "Des": "最强王者",
+    "Name": "Void Conductor",
+    "StarLevel": 2,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_22",
+    "IconBig": "ui/textures/armband/armband_icon_s3_22",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_55",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_22",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        320
+      ],
+      [
+        5,
+        1071007,
+        16
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 1039900003
+  },
+  "1039900003": {
+    "Id": 1039900003,
+    "RankSequence": 99,
+    "RankToLevel": 21,
+    "BigRankId": 900,
+    "RankId": 1039900,
+    "Des": "最强王者",
+    "Name": "Concerto of Truth",
+    "StarLevel": 3,
+    "IconMonster": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_22",
+    "IconBig": "ui/textures/armband/armband_icon_s3_22",
+    "IconMin": "ui/atlas/item/c_tab_icon/com_icon_tab_55",
+    "HudIcon": "ui/atlas/hud/seasonrank/season_rank_titlehud_03_22",
+    "SeasonId": 3,
+    "Conditions": [
+      [
+        5,
+        1071006,
+        330
+      ],
+      [
+        5,
+        1071007,
+        18
+      ]
+    ],
+    "EchoPoints": [],
+    "RewardId": 0,
+    "ArmbandReward": 0,
+    "CoreRewardId": [],
+    "FinalRewardId": [],
+    "BackRankId": 0
   }
 }

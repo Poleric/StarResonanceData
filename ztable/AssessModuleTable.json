@@ -33,7 +33,9 @@
       1020154,
       1020155,
       1020156,
-      1020157
+      1020157,
+      1020158,
+      1020159
     ],
     "IsBlock": false
   },
@@ -44,9 +46,9 @@
     "TextDes": "Equip high-quality, high-level gear, and perform reforging, refining, and embedding.",
     "NeedItem": [
       10008,
-      1022204,
-      1022205,
-      1022206,
+      1022207,
+      1022208,
+      1022209,
       1022001,
       1022002,
       1022003,
@@ -55,7 +57,8 @@
       1022007,
       1022101,
       1022102,
-      1022103
+      1022103,
+      1022210
     ],
     "IsBlock": false
   },
@@ -97,8 +100,8 @@
     "Title": "Mind Projection",
     "TextDes": "Activate a projection and pair it with the effect that suits you.",
     "NeedItem": [
-      402,
-      1220004
+      403,
+      1220005
     ],
     "IsBlock": false
   }

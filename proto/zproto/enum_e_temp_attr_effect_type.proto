@@ -18,6 +18,7 @@ enum ETempAttrEffectType {
 	TempAttrBulletMaxSpeed = 204;
 	TempAttrFightResAddRate = 301;
 	TempAttrFightResSubRate = 302;
+	TempAttrFightResRelateAttrRate = 303;
 	TempAttrDodgeLosslessRate = 350;
 	TempAttrDodgeMaxCount = 351;
 	TempAttrChargeCountAdd = 352;

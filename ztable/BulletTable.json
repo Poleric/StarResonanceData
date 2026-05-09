@@ -309,6 +309,32 @@
       1
     ]
   },
+  "3210": {
+    "Id": 3210,
+    "Name": "战斗幻想娜宝弓箭子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 1.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3321000,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
   "3220": {
     "Id": 3220,
     "Name": "娜宝环绕月刃",
@@ -1228,6 +1254,136 @@
     "DamageWeightType": 0,
     "HitCampType": []
   },
+  "3521": {
+    "Id": 3521,
+    "Name": "水球子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 5.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 33521,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "3522": {
+    "Id": 3522,
+    "Name": "眼球子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 5.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 33522,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "3523": {
+    "Id": 3523,
+    "Name": "叉子子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 5.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 33523,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "3524": {
+    "Id": 3524,
+    "Name": "冰泡泡发射（玩家）",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 6.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 1,
+    "DamageInterval": 30,
+    "BulletAttrId": 33524,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "3525": {
+    "Id": 3525,
+    "Name": "水泡泡发射（玩家）",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 6.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 1,
+    "DamageInterval": 30,
+    "BulletAttrId": 33525,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
   "3600": {
     "Id": 3600,
     "Name": "追踪元素剑",
@@ -1439,6 +1595,84 @@
       1
     ]
   },
+  "3608": {
+    "Id": 3608,
+    "Name": "蜜蜂子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 33608,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "3609": {
+    "Id": 3609,
+    "Name": "雄鹰风刃",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 3.0,
+    "ModelID": 0,
+    "BoomCount": 10,
+    "BoomInterval": 0,
+    "DamageInterval": 15,
+    "BulletAttrId": 33609,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "3610": {
+    "Id": 3610,
+    "Name": "圆形火焰弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 33610,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
   "3700": {
     "Id": 3700,
     "Name": "黑洞激光（长）",
@@ -1557,6 +1791,59 @@
     "BoomInterval": 5,
     "DamageInterval": 60,
     "BulletAttrId": 33800,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1,
+      2
+    ]
+  },
+  "3900": {
+    "Id": 3900,
+    "Name": "火焰弹",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 50.0,
+    "ModelID": 4,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3390000,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "3901": {
+    "Id": 3901,
+    "Name": "转阶段火焰弹",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 75.0,
+    "ModelID": 4,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 33901,
     "Tags": [],
     "DeadShowStageId": 1,
     "DelayDestroyTime": 0.0,
@@ -1864,6 +2151,32 @@
     },
     "DamageWeightType": 0,
     "HitCampType": []
+  },
+  "4601": {
+    "Id": 4601,
+    "Name": "对龙机象原子炮假子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 2.5,
+    "ModelID": 33914,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 34601,
+    "Tags": [],
+    "DeadShowStageId": 2,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
   },
   "7002": {
     "Id": 7002,
@@ -2300,6 +2613,32 @@
     "BulletAttrId": 37101,
     "Tags": [],
     "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "7200": {
+    "Id": 7200,
+    "Name": "点射子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 1.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 37200,
+    "Tags": [],
+    "DeadShowStageId": 1,
     "DelayDestroyTime": 0.0,
     "BulletCount": 0,
     "DamageWeight": {
@@ -5561,6 +5900,84 @@
       1
     ]
   },
+  "300302": {
+    "Id": 300302,
+    "Name": "分身扫整个场地",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 10.0,
+    "ModelID": 0,
+    "BoomCount": 999,
+    "BoomInterval": 5,
+    "DamageInterval": 15,
+    "BulletAttrId": 330030200,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "300303": {
+    "Id": 300303,
+    "Name": "班哈尔特士官长步枪-子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3300303,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "300304": {
+    "Id": 300304,
+    "Name": "班哈尔特士官长扫整个场地",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 10.0,
+    "ModelID": 0,
+    "BoomCount": 999,
+    "BoomInterval": 5,
+    "DamageInterval": 15,
+    "BulletAttrId": 3300304,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
   "300401": {
     "Id": 300401,
     "Name": "静止暖风枪气",
@@ -5870,6 +6287,78 @@
     "HitCampType": [
       1
     ]
+  },
+  "304801": {
+    "Id": 304801,
+    "Name": "斥力球子弹",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 7.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3304801,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": []
+  },
+  "304802": {
+    "Id": 304802,
+    "Name": "raid轨道炮子弹",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 0.73,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3304802,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": []
+  },
+  "304803": {
+    "Id": 304803,
+    "Name": "raid立方体坠落",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 1.0,
+    "ModelID": 0,
+    "BoomCount": 0,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3304803,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": []
   },
   "391001": {
     "Id": 391001,
@@ -6610,6 +7099,89 @@
     "DeadShowStageId": 1,
     "DelayDestroyTime": 0.0,
     "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "700015": {
+    "Id": 700015,
+    "Name": "煌墓BOSS元能塔扩散子弹",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 10.0,
+    "ModelID": 0,
+    "BoomCount": 999,
+    "BoomInterval": 1,
+    "DamageInterval": 15,
+    "BulletAttrId": 3700015,
+    "Tags": [
+      69
+    ],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1,
+      3
+    ]
+  },
+  "700016": {
+    "Id": 700016,
+    "Name": "电磁球（煌墓）",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 4.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 30,
+    "DamageInterval": 30,
+    "BulletAttrId": 370001600,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "700017": {
+    "Id": 700017,
+    "Name": "煌墓三足眼舱扩散电磁",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 5.0,
+    "ModelID": 0,
+    "BoomCount": 999,
+    "BoomInterval": 1,
+    "DamageInterval": 15,
+    "BulletAttrId": 3700017,
+    "Tags": [
+      69
+    ],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
     "DamageWeight": {
       "x": 0.0,
       "y": 0.0
@@ -7811,6 +8383,110 @@
       1
     ]
   },
+  "920203": {
+    "Id": 920203,
+    "Name": "裁定执行者扔炸弹",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3920203,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "920204": {
+    "Id": 920204,
+    "Name": "裁定执行者扔炸弹2",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3920204,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "920205": {
+    "Id": 920205,
+    "Name": "蜘蛛火子弹-必中跟踪假子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3920205,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "920206": {
+    "Id": 920206,
+    "Name": "蜘蛛土子弹-必中跟踪假子弹",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3920206,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
   "1000001": {
     "Id": 1000001,
     "Name": "山贼射手-散射",
@@ -8062,6 +8738,240 @@
     "DeadShowStageId": 1,
     "DelayDestroyTime": 0.0,
     "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1000011": {
+    "Id": 1000011,
+    "Name": "山怪环绕子弹",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 999,
+    "BoomInterval": 30,
+    "DamageInterval": 30,
+    "BulletAttrId": 31000011,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1000012": {
+    "Id": 1000012,
+    "Name": "山怪环绕子弹2",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3100001200,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1000013": {
+    "Id": 1000013,
+    "Name": "山怪火球子弹",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 1.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3100001300,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1000014": {
+    "Id": 1000014,
+    "Name": "掠食蟹蛛-子弹1",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 5.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3100001400,
+    "Tags": [],
+    "DeadShowStageId": 2,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1000015": {
+    "Id": 1000015,
+    "Name": "掠食蟹蛛-子弹2",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 5.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3100001500,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1000016": {
+    "Id": 1000016,
+    "Name": "掠食蟹蛛-子弹3",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 1.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3100001600,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1000017": {
+    "Id": 1000017,
+    "Name": "掠食蟹蛛-子弹4",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 1.0,
+    "ModelID": 0,
+    "BoomCount": 99,
+    "BoomInterval": 15,
+    "DamageInterval": 15,
+    "BulletAttrId": 3100001700,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1000018": {
+    "Id": 1000018,
+    "Name": "掠食蟹蛛-子弹5",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 1.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3100001800,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1000019": {
+    "Id": 1000019,
+    "Name": "山怪魂火球子弹",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 1.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3100001900,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
     "DamageWeight": {
       "x": 0.0,
       "y": 0.0
@@ -9260,6 +10170,32 @@
       1
     ]
   },
+  "1010602": {
+    "Id": 1010602,
+    "Name": "火焰子弹-英雄本S3",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 2.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 31010602,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
   "1011206": {
     "Id": 1011206,
     "Name": "卷心菜雷球",
@@ -9273,6 +10209,32 @@
     "BoomInterval": 0,
     "DamageInterval": 0,
     "BulletAttrId": 31011206,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "1011207": {
+    "Id": 1011207,
+    "Name": "雷球-英雄本S3",
+    "IsFollow": false,
+    "BulletType": 1,
+    "DamageType": 1,
+    "Start": 0.0,
+    "Duration": 5.0,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 31011207,
     "Tags": [],
     "DeadShowStageId": 1,
     "DelayDestroyTime": 0.0,
@@ -9343,6 +10305,30 @@
     "HitCampType": [
       1
     ]
+  },
+  "1121501": {
+    "Id": 1121501,
+    "Name": "三重爆弹毛球",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 0.8,
+    "ModelID": 0,
+    "BoomCount": 1,
+    "BoomInterval": 0,
+    "DamageInterval": 0,
+    "BulletAttrId": 3112150100,
+    "Tags": [],
+    "DeadShowStageId": 1,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 0,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": []
   },
   "1200001": {
     "Id": 1200001,
@@ -13833,6 +14819,84 @@
     "BoomInterval": 10,
     "DamageInterval": 10,
     "BulletAttrId": 31013040100,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "11102202": {
+    "Id": 11102202,
+    "Name": "旋转激光",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 0.5,
+    "ModelID": 0,
+    "BoomCount": 10000,
+    "BoomInterval": 10,
+    "DamageInterval": 10,
+    "BulletAttrId": 31110220200,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "11102203": {
+    "Id": 11102203,
+    "Name": "黑洞激光",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 30.0,
+    "ModelID": 0,
+    "BoomCount": 10000,
+    "BoomInterval": 10,
+    "DamageInterval": 10,
+    "BulletAttrId": 311102203,
+    "Tags": [],
+    "DeadShowStageId": 0,
+    "DelayDestroyTime": 0.0,
+    "BulletCount": 1,
+    "DamageWeight": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "DamageWeightType": 0,
+    "HitCampType": [
+      1
+    ]
+  },
+  "11102204": {
+    "Id": 11102204,
+    "Name": "黑洞激光",
+    "IsFollow": false,
+    "BulletType": 0,
+    "DamageType": 0,
+    "Start": 0.0,
+    "Duration": 30.0,
+    "ModelID": 0,
+    "BoomCount": 10000,
+    "BoomInterval": 10,
+    "DamageInterval": 10,
+    "BulletAttrId": 311102204,
     "Tags": [],
     "DeadShowStageId": 0,
     "DelayDestroyTime": 0.0,

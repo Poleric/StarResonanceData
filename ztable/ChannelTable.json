@@ -136,5 +136,25 @@
     "ItemShareLimit": [],
     "LevelLimit": 3,
     "IsShowHUD": 0
+  },
+  "9": {
+    "Id": 9,
+    "Type": 1,
+    "ChannelName": "Newbie",
+    "ChannelIcon": "ui/atlas/mainui/chat/chat_newbie",
+    "ChannelStyle": "ChannelTeam",
+    "ChannelStylePC": "ChannelTeamPC",
+    "NoticeStyle": "DFEDFE",
+    "FunctionId": 102107,
+    "SubFunctionId": [],
+    "Sort": 7,
+    "ChannelFunc": [
+      "102130",
+      "102129",
+      "102128"
+    ],
+    "ItemShareLimit": [],
+    "LevelLimit": 3,
+    "IsShowHUD": 0
   }
 }

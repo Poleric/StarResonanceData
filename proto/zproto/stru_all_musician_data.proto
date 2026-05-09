@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "stru_instru_attr_unlock_struct.proto";
+import "stru_music_all_data.proto";
+import "stru_musician_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message AllMusicianData {
+	map<int32, MusicianData> musicianDataMap = 1 [json_name = "musicianDataMap"];
+	map<int32, MusicAllData> musicAllDataMap = 2 [json_name = "musicAllDataMap"];
+	int64 dailyTargetLastRefreshTime = 3 [json_name = "dailyTargetLastRefreshTime"];
+	int64 weeklyTargetLastRefreshTime = 4 [json_name = "weeklyTargetLastRefreshTime"];
+	map<int32, InstruAttrUnlockStruct> instruAttrUnlockDataMap = 5 [json_name = "instruAttrUnlockDataMap"];
+	int32 dailyGetAwardCount = 6 [json_name = "dailyGetAwardCount"];
+	int32 weeklyGetAwardCount = 7 [json_name = "weeklyGetAwardCount"];
+}

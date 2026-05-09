@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+enum ETargetStateType {
+	ETargetStateTypeAccepted = 0;
+	ETargetStateTypeCompleted = 1;
+	ETargetStateTypeReceived = 2;
+}

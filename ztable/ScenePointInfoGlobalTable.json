@@ -5825,6 +5825,16 @@
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
   },
+  "80506011": {
+    "UId": 80506011,
+    "Position": [
+      120.33,
+      100.5367,
+      29.11
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
   "80506014": {
     "UId": 80506014,
     "Position": [
@@ -6208,22 +6218,22 @@
   "90001658": {
     "UId": 90001658,
     "Position": [
-      -395.09,
-      151.17,
-      -614.27
+      -394.41,
+      151.12,
+      -621.01
     ],
     "PathFindingPoint": 0,
-    "HeightLayerIndex": 0
+    "HeightLayerIndex": -1
   },
   "90001665": {
     "UId": 90001665,
     "Position": [
-      -483.97,
-      120.2,
-      -638.84
+      -478.7,
+      120.66,
+      -637.5
     ],
     "PathFindingPoint": 0,
-    "HeightLayerIndex": 0
+    "HeightLayerIndex": -1
   },
   "90001668": {
     "UId": 90001668,
@@ -6948,9 +6958,9 @@
   "90004059": {
     "UId": 90004059,
     "Position": [
-      -190.93,
+      -190.42,
       299.24,
-      -289.54
+      -287.33
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -7048,9 +7058,9 @@
   "90004351": {
     "UId": 90004351,
     "Position": [
-      206.93,
-      114.46,
-      -603.49
+      221.0,
+      118.0,
+      -600.0
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -7068,9 +7078,9 @@
   "90004393": {
     "UId": 90004393,
     "Position": [
-      354.55,
-      154.29,
-      -304.49
+      342.76,
+      158.28,
+      -304.75
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -7081,6 +7091,316 @@
       254.7,
       156.1,
       -255.0
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "90004492": {
+    "UId": 90004492,
+    "Position": [
+      221.0,
+      118.0,
+      -600.0
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "90004539": {
+    "UId": 90004539,
+    "Position": [
+      -462.53,
+      159.73,
+      -460.6
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": -1
+  },
+  "90004568": {
+    "UId": 90004568,
+    "Position": [
+      406.12,
+      123.46,
+      -560.25
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": -1
+  },
+  "90004670": {
+    "UId": 90004670,
+    "Position": [
+      430.9,
+      142.78,
+      -581.85
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": -1
+  },
+  "90004696": {
+    "UId": 90004696,
+    "Position": [
+      256.71,
+      152.93,
+      -301.69
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": -1
+  },
+  "90004736": {
+    "UId": 90004736,
+    "Position": [
+      -167.08,
+      291.27,
+      -505.46
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "90004737": {
+    "UId": 90004737,
+    "Position": [
+      62.97,
+      221.49,
+      -713.61
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "90004738": {
+    "UId": 90004738,
+    "Position": [
+      310.65,
+      158.07,
+      -361.51
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": -1
+  },
+  "90004759": {
+    "UId": 90004759,
+    "Position": [
+      347.9,
+      123.67,
+      -586.35
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": -1
+  },
+  "90004802": {
+    "UId": 90004802,
+    "Position": [
+      -324.01,
+      223.76,
+      -431.54
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "90004803": {
+    "UId": 90004803,
+    "Position": [
+      -424.37,
+      223.74,
+      -401.87
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "90004835": {
+    "UId": 90004835,
+    "Position": [
+      -160.18,
+      289.83,
+      -531.03
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "90004846": {
+    "UId": 90004846,
+    "Position": [
+      -10.47,
+      112.1,
+      -646.73
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": -1
+  },
+  "90004851": {
+    "UId": 90004851,
+    "Position": [
+      -38.95,
+      102.88,
+      -309.14
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": -1
+  },
+  "90004954": {
+    "UId": 90004954,
+    "Position": [
+      248.87,
+      241.3196,
+      -276.32
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "90005037": {
+    "UId": 90005037,
+    "Position": [
+      191.38,
+      160.17,
+      -750.27
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "90005059": {
+    "UId": 90005059,
+    "Position": [
+      319.29,
+      229.16,
+      -486.0
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000003": {
+    "UId": 100000003,
+    "Position": [
+      37.77,
+      366.37,
+      52.61
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000022": {
+    "UId": 100000022,
+    "Position": [
+      37.77,
+      366.37,
+      52.61
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000031": {
+    "UId": 100000031,
+    "Position": [
+      563.68,
+      262.49,
+      448.29
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000033": {
+    "UId": 100000033,
+    "Position": [
+      -623.26,
+      268.34,
+      -556.42
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000074": {
+    "UId": 100000074,
+    "Position": [
+      548.77,
+      291.02,
+      -45.69
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000076": {
+    "UId": 100000076,
+    "Position": [
+      -211.0,
+      321.54,
+      64.91
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000083": {
+    "UId": 100000083,
+    "Position": [
+      -330.11,
+      297.35,
+      -479.06
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000088": {
+    "UId": 100000088,
+    "Position": [
+      -474.07,
+      306.25,
+      -105.04
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000090": {
+    "UId": 100000090,
+    "Position": [
+      296.68,
+      415.39,
+      -61.61
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000092": {
+    "UId": 100000092,
+    "Position": [
+      450.95,
+      313.85,
+      48.79
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": -1
+  },
+  "100000221": {
+    "UId": 100000221,
+    "Position": [
+      573.06,
+      269.14,
+      255.63
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000223": {
+    "UId": 100000223,
+    "Position": [
+      255.32,
+      382.04,
+      -278.18
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000348": {
+    "UId": 100000348,
+    "Position": [
+      -149.42,
+      319.65,
+      -303.82
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "100000393": {
+    "UId": 100000393,
+    "Position": [
+      -349.08,
+      331.47,
+      247.65
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -7250,7 +7570,7 @@
     "Position": [
       146.77,
       68.95,
-      415.5
+      415.45
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -7258,9 +7578,9 @@
   "110000328": {
     "UId": 110000328,
     "Position": [
-      373.65,
-      60.2653,
-      253.63
+      373.6,
+      60.27,
+      253.6
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -7269,7 +7589,7 @@
     "UId": 110000330,
     "Position": [
       306.53,
-      163.2202,
+      163.09,
       383.96
     ],
     "PathFindingPoint": 0,
@@ -7298,8 +7618,8 @@
   "110000336": {
     "UId": 110000336,
     "Position": [
-      63.73,
-      50.8,
+      63.74,
+      50.8135,
       12.89
     ],
     "PathFindingPoint": 0,
@@ -7321,6 +7641,26 @@
       239.77,
       56.06,
       243.78
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "110000448": {
+    "UId": 110000448,
+    "Position": [
+      217.17,
+      59.85,
+      328.16
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "110000493": {
+    "UId": 110000493,
+    "Position": [
+      217.17,
+      59.85,
+      328.16
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -8235,22 +8575,32 @@
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
   },
-  "110001149": {
-    "UId": 110001149,
-    "Position": [
-      320.87,
-      56.1,
-      380.86
-    ],
-    "PathFindingPoint": 0,
-    "HeightLayerIndex": 0
-  },
   "110000976": {
     "UId": 110000976,
     "Position": [
       153.18,
       59.36,
       144.1
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "110000977": {
+    "UId": 110000977,
+    "Position": [
+      154.41,
+      59.36,
+      149.63
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "110001143": {
+    "UId": 110001143,
+    "Position": [
+      113.08,
+      80.24,
+      423.04
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -8305,22 +8655,12 @@
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
   },
-  "110000977": {
-    "UId": 110000977,
+  "110001149": {
+    "UId": 110001149,
     "Position": [
-      154.41,
-      59.36,
-      149.63
-    ],
-    "PathFindingPoint": 0,
-    "HeightLayerIndex": 0
-  },
-  "110001143": {
-    "UId": 110001143,
-    "Position": [
-      113.08,
-      80.24,
-      423.04
+      320.87,
+      56.1,
+      380.86
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -9659,7 +9999,7 @@
     "UId": 910000008,
     "Position": [
       -176.19,
-      70.03,
+      70.0803,
       -69.64
     ],
     "PathFindingPoint": 0,
@@ -9679,7 +10019,7 @@
     "UId": 910000012,
     "Position": [
       -60.79,
-      53.35,
+      52.27,
       -40.81
     ],
     "PathFindingPoint": 0,
@@ -9698,9 +10038,9 @@
   "920000001": {
     "UId": 920000001,
     "Position": [
-      -79.25,
-      151.44,
-      270.68
+      -29.78,
+      145.22,
+      130.84
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -9748,9 +10088,19 @@
   "920000013": {
     "UId": 920000013,
     "Position": [
-      -125.09,
-      139.26,
-      294.02
+      -136.05,
+      136.23,
+      358.99
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "920000108": {
+    "UId": 920000108,
+    "Position": [
+      -35.87,
+      145.37,
+      116.61
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
@@ -9825,6 +10175,16 @@
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
   },
+  "930000409": {
+    "UId": 930000409,
+    "Position": [
+      -53.98,
+      86.15,
+      -530.94
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
   "940000001": {
     "UId": 940000001,
     "Position": [
@@ -9885,6 +10245,16 @@
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
   },
+  "940000016": {
+    "UId": 940000016,
+    "Position": [
+      148.97,
+      122.0,
+      14.48
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
   "940000018": {
     "UId": 940000018,
     "Position": [
@@ -9895,12 +10265,122 @@
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0
   },
-  "940000016": {
-    "UId": 940000016,
+  "950000001": {
+    "UId": 950000001,
     "Position": [
-      148.97,
-      122.0,
-      14.48
+      -101.09,
+      320.0125,
+      132.68
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000002": {
+    "UId": 950000002,
+    "Position": [
+      35.99,
+      359.98,
+      385.98
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000005": {
+    "UId": 950000005,
+    "Position": [
+      -101.16,
+      320.01,
+      132.73
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000007": {
+    "UId": 950000007,
+    "Position": [
+      88.26,
+      312.0125,
+      97.19
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000009": {
+    "UId": 950000009,
+    "Position": [
+      -53.47,
+      314.99,
+      -63.71
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000011": {
+    "UId": 950000011,
+    "Position": [
+      -36.64,
+      330.01,
+      303.79
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000013": {
+    "UId": 950000013,
+    "Position": [
+      255.89,
+      308.95,
+      -36.01
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000015": {
+    "UId": 950000015,
+    "Position": [
+      241.1,
+      324.99,
+      263.18
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000268": {
+    "UId": 950000268,
+    "Position": [
+      20.35,
+      312.11,
+      96.06
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000308": {
+    "UId": 950000308,
+    "Position": [
+      0.65,
+      316.37,
+      51.54
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000338": {
+    "UId": 950000338,
+    "Position": [
+      -11.19,
+      312.18,
+      62.16
+    ],
+    "PathFindingPoint": 0,
+    "HeightLayerIndex": 0
+  },
+  "950000342": {
+    "UId": 950000342,
+    "Position": [
+      97.0,
+      312.0,
+      79.52
     ],
     "PathFindingPoint": 0,
     "HeightLayerIndex": 0

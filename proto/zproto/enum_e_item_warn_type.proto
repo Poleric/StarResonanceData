@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EItemWarnType {
+	EItemWarnTypeNull = 0;
+	EItemWarnTypeHoldWarn = 1;
+	EItemWarnTypeHoldMax = 2;
+	EItemWarnTypeTimeExpire = 3;
+	EItemWarnTypeEmailExpire = 4;
+}

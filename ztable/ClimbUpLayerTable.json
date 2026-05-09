@@ -1723,5 +1723,770 @@
       119
     ],
     "RewardId": 15010038
+  },
+  "201": {
+    "Id": 201,
+    "DungeonId": 32101,
+    "Season": 3,
+    "LayerNumber": 1,
+    "StageId": 1,
+    "LayarType": 1,
+    "AffixId": [],
+    "RewardId": 15010980
+  },
+  "202": {
+    "Id": 202,
+    "DungeonId": 32102,
+    "Season": 3,
+    "LayerNumber": 2,
+    "StageId": 1,
+    "LayarType": 1,
+    "AffixId": [],
+    "RewardId": 0
+  },
+  "203": {
+    "Id": 203,
+    "DungeonId": 32103,
+    "Season": 3,
+    "LayerNumber": 3,
+    "StageId": 1,
+    "LayarType": 2,
+    "AffixId": [],
+    "RewardId": 15010981
+  },
+  "204": {
+    "Id": 204,
+    "DungeonId": 32104,
+    "Season": 3,
+    "LayerNumber": 4,
+    "StageId": 1,
+    "LayarType": 1,
+    "AffixId": [],
+    "RewardId": 0
+  },
+  "205": {
+    "Id": 205,
+    "DungeonId": 32105,
+    "Season": 3,
+    "LayerNumber": 5,
+    "StageId": 2,
+    "LayarType": 3,
+    "AffixId": [],
+    "RewardId": 15010982
+  },
+  "206": {
+    "Id": 206,
+    "DungeonId": 32106,
+    "Season": 3,
+    "LayerNumber": 6,
+    "StageId": 3,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "207": {
+    "Id": 207,
+    "DungeonId": 32107,
+    "Season": 3,
+    "LayerNumber": 7,
+    "StageId": 3,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 0
+  },
+  "208": {
+    "Id": 208,
+    "DungeonId": 32108,
+    "Season": 3,
+    "LayerNumber": 8,
+    "StageId": 3,
+    "LayarType": 2,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "209": {
+    "Id": 209,
+    "DungeonId": 32109,
+    "Season": 3,
+    "LayerNumber": 9,
+    "StageId": 3,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 0
+  },
+  "210": {
+    "Id": 210,
+    "DungeonId": 32110,
+    "Season": 3,
+    "LayerNumber": 10,
+    "StageId": 4,
+    "LayarType": 3,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "211": {
+    "Id": 211,
+    "DungeonId": 32111,
+    "Season": 3,
+    "LayerNumber": 11,
+    "StageId": 5,
+    "LayarType": 1,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "212": {
+    "Id": 212,
+    "DungeonId": 32112,
+    "Season": 3,
+    "LayerNumber": 12,
+    "StageId": 5,
+    "LayarType": 1,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 0
+  },
+  "213": {
+    "Id": 213,
+    "DungeonId": 32113,
+    "Season": 3,
+    "LayerNumber": 13,
+    "StageId": 5,
+    "LayarType": 2,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "214": {
+    "Id": 214,
+    "DungeonId": 32114,
+    "Season": 3,
+    "LayerNumber": 14,
+    "StageId": 5,
+    "LayarType": 1,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 0
+  },
+  "215": {
+    "Id": 215,
+    "DungeonId": 32115,
+    "Season": 3,
+    "LayerNumber": 15,
+    "StageId": 6,
+    "LayarType": 3,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "216": {
+    "Id": 216,
+    "DungeonId": 32116,
+    "Season": 3,
+    "LayerNumber": 16,
+    "StageId": 7,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "217": {
+    "Id": 217,
+    "DungeonId": 32117,
+    "Season": 3,
+    "LayerNumber": 17,
+    "StageId": 7,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 0
+  },
+  "218": {
+    "Id": 218,
+    "DungeonId": 32118,
+    "Season": 3,
+    "LayerNumber": 18,
+    "StageId": 7,
+    "LayarType": 2,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "219": {
+    "Id": 219,
+    "DungeonId": 32119,
+    "Season": 3,
+    "LayerNumber": 19,
+    "StageId": 7,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 0
+  },
+  "220": {
+    "Id": 220,
+    "DungeonId": 32120,
+    "Season": 3,
+    "LayerNumber": 20,
+    "StageId": 8,
+    "LayarType": 3,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "221": {
+    "Id": 221,
+    "DungeonId": 32121,
+    "Season": 3,
+    "LayerNumber": 21,
+    "StageId": 9,
+    "LayarType": 1,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "222": {
+    "Id": 222,
+    "DungeonId": 32122,
+    "Season": 3,
+    "LayerNumber": 22,
+    "StageId": 9,
+    "LayarType": 1,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 0
+  },
+  "223": {
+    "Id": 223,
+    "DungeonId": 32123,
+    "Season": 3,
+    "LayerNumber": 23,
+    "StageId": 9,
+    "LayarType": 2,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "224": {
+    "Id": 224,
+    "DungeonId": 32124,
+    "Season": 3,
+    "LayerNumber": 24,
+    "StageId": 9,
+    "LayarType": 1,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 0
+  },
+  "225": {
+    "Id": 225,
+    "DungeonId": 32125,
+    "Season": 3,
+    "LayerNumber": 25,
+    "StageId": 10,
+    "LayarType": 3,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "226": {
+    "Id": 226,
+    "DungeonId": 32126,
+    "Season": 3,
+    "LayerNumber": 26,
+    "StageId": 11,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "227": {
+    "Id": 227,
+    "DungeonId": 32127,
+    "Season": 3,
+    "LayerNumber": 27,
+    "StageId": 11,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 0
+  },
+  "228": {
+    "Id": 228,
+    "DungeonId": 32128,
+    "Season": 3,
+    "LayerNumber": 28,
+    "StageId": 11,
+    "LayarType": 2,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "229": {
+    "Id": 229,
+    "DungeonId": 32129,
+    "Season": 3,
+    "LayerNumber": 29,
+    "StageId": 11,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 0
+  },
+  "230": {
+    "Id": 230,
+    "DungeonId": 32130,
+    "Season": 3,
+    "LayerNumber": 30,
+    "StageId": 12,
+    "LayarType": 3,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "231": {
+    "Id": 231,
+    "DungeonId": 32131,
+    "Season": 3,
+    "LayerNumber": 31,
+    "StageId": 13,
+    "LayarType": 1,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "232": {
+    "Id": 232,
+    "DungeonId": 32132,
+    "Season": 3,
+    "LayerNumber": 32,
+    "StageId": 13,
+    "LayarType": 1,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 0
+  },
+  "233": {
+    "Id": 233,
+    "DungeonId": 32133,
+    "Season": 3,
+    "LayerNumber": 33,
+    "StageId": 13,
+    "LayarType": 2,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "234": {
+    "Id": 234,
+    "DungeonId": 32134,
+    "Season": 3,
+    "LayerNumber": 34,
+    "StageId": 13,
+    "LayarType": 1,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 0
+  },
+  "235": {
+    "Id": 235,
+    "DungeonId": 32135,
+    "Season": 3,
+    "LayerNumber": 35,
+    "StageId": 14,
+    "LayarType": 3,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "236": {
+    "Id": 236,
+    "DungeonId": 32136,
+    "Season": 3,
+    "LayerNumber": 36,
+    "StageId": 15,
+    "LayarType": 1,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "237": {
+    "Id": 237,
+    "DungeonId": 32137,
+    "Season": 3,
+    "LayerNumber": 37,
+    "StageId": 15,
+    "LayarType": 1,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 0
+  },
+  "238": {
+    "Id": 238,
+    "DungeonId": 32138,
+    "Season": 3,
+    "LayerNumber": 38,
+    "StageId": 15,
+    "LayarType": 2,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "239": {
+    "Id": 239,
+    "DungeonId": 32139,
+    "Season": 3,
+    "LayerNumber": 39,
+    "StageId": 15,
+    "LayarType": 1,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 0
+  },
+  "240": {
+    "Id": 240,
+    "DungeonId": 32140,
+    "Season": 3,
+    "LayerNumber": 40,
+    "StageId": 16,
+    "LayarType": 3,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "241": {
+    "Id": 241,
+    "DungeonId": 32141,
+    "Season": 3,
+    "LayerNumber": 41,
+    "StageId": 17,
+    "LayarType": 1,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "242": {
+    "Id": 242,
+    "DungeonId": 32142,
+    "Season": 3,
+    "LayerNumber": 42,
+    "StageId": 17,
+    "LayarType": 1,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 0
+  },
+  "243": {
+    "Id": 243,
+    "DungeonId": 32143,
+    "Season": 3,
+    "LayerNumber": 43,
+    "StageId": 17,
+    "LayarType": 2,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "244": {
+    "Id": 244,
+    "DungeonId": 32144,
+    "Season": 3,
+    "LayerNumber": 44,
+    "StageId": 17,
+    "LayarType": 1,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 0
+  },
+  "245": {
+    "Id": 245,
+    "DungeonId": 32145,
+    "Season": 3,
+    "LayerNumber": 45,
+    "StageId": 18,
+    "LayarType": 3,
+    "AffixId": [
+      1004,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "246": {
+    "Id": 246,
+    "DungeonId": 32146,
+    "Season": 3,
+    "LayerNumber": 46,
+    "StageId": 19,
+    "LayarType": 1,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "247": {
+    "Id": 247,
+    "DungeonId": 32147,
+    "Season": 3,
+    "LayerNumber": 47,
+    "StageId": 19,
+    "LayarType": 1,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 0
+  },
+  "248": {
+    "Id": 248,
+    "DungeonId": 32148,
+    "Season": 3,
+    "LayerNumber": 48,
+    "StageId": 19,
+    "LayarType": 2,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "249": {
+    "Id": 249,
+    "DungeonId": 32149,
+    "Season": 3,
+    "LayerNumber": 49,
+    "StageId": 19,
+    "LayarType": 1,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 0
+  },
+  "250": {
+    "Id": 250,
+    "DungeonId": 32150,
+    "Season": 3,
+    "LayerNumber": 50,
+    "StageId": 20,
+    "LayarType": 3,
+    "AffixId": [
+      1001,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "251": {
+    "Id": 251,
+    "DungeonId": 32151,
+    "Season": 3,
+    "LayerNumber": 51,
+    "StageId": 21,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "252": {
+    "Id": 252,
+    "DungeonId": 32152,
+    "Season": 3,
+    "LayerNumber": 52,
+    "StageId": 21,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 0
+  },
+  "253": {
+    "Id": 253,
+    "DungeonId": 32153,
+    "Season": 3,
+    "LayerNumber": 53,
+    "StageId": 21,
+    "LayarType": 2,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "254": {
+    "Id": 254,
+    "DungeonId": 32154,
+    "Season": 3,
+    "LayerNumber": 54,
+    "StageId": 21,
+    "LayarType": 1,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 0
+  },
+  "255": {
+    "Id": 255,
+    "DungeonId": 32155,
+    "Season": 3,
+    "LayerNumber": 55,
+    "StageId": 22,
+    "LayarType": 3,
+    "AffixId": [
+      1003,
+      119
+    ],
+    "RewardId": 15010982
+  },
+  "256": {
+    "Id": 256,
+    "DungeonId": 32156,
+    "Season": 3,
+    "LayerNumber": 56,
+    "StageId": 23,
+    "LayarType": 1,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 15010980
+  },
+  "257": {
+    "Id": 257,
+    "DungeonId": 32157,
+    "Season": 3,
+    "LayerNumber": 57,
+    "StageId": 23,
+    "LayarType": 1,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 0
+  },
+  "258": {
+    "Id": 258,
+    "DungeonId": 32158,
+    "Season": 3,
+    "LayerNumber": 58,
+    "StageId": 23,
+    "LayarType": 2,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 15010981
+  },
+  "259": {
+    "Id": 259,
+    "DungeonId": 32159,
+    "Season": 3,
+    "LayerNumber": 59,
+    "StageId": 23,
+    "LayarType": 1,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 0
+  },
+  "260": {
+    "Id": 260,
+    "DungeonId": 32160,
+    "Season": 3,
+    "LayerNumber": 60,
+    "StageId": 24,
+    "LayarType": 3,
+    "AffixId": [
+      1002,
+      119
+    ],
+    "RewardId": 15010982
   }
 }

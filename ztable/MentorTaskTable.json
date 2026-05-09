@@ -1,0 +1,464 @@
+{
+  "3001": {
+    "Id": 3001,
+    "Type": 3,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      8
+    ],
+    "Title": "指导者周期任务",
+    "Describe": "Clear Unstable Space {*val*} time(s) with new/returning players",
+    "AwardId": 0,
+    "WeekScore": 5,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      421
+    ],
+    "TextAdd": "指导者周期任务",
+    "Sort": 3001
+  },
+  "3002": {
+    "Id": 3002,
+    "Type": 3,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      9
+    ],
+    "Title": "指导者周期任务",
+    "Describe": "Clear Chaotic Realm on Normal/Hard {*val*} time(s) with new/returning players",
+    "AwardId": 0,
+    "WeekScore": 10,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ],
+    "TextAdd": "指导者周期任务",
+    "Sort": 3002
+  },
+  "3003": {
+    "Id": 3003,
+    "Type": 3,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      13
+    ],
+    "Title": "指导者周期任务",
+    "Describe": "Clear Guild Hunt {*val*} time(s) with new/returning players",
+    "AwardId": 0,
+    "WeekScore": 15,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500151
+    ],
+    "TextAdd": "指导者周期任务",
+    "Sort": 3003
+  },
+  "3004": {
+    "Id": 3004,
+    "Type": 3,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      16
+    ],
+    "Title": "指导者周期任务",
+    "Describe": "Clear Stimen Vaults {*val*} time(s) with new/returning players",
+    "AwardId": 0,
+    "WeekScore": 5,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      503376
+    ],
+    "TextAdd": "指导者周期任务",
+    "Sort": 3004
+  },
+  "3005": {
+    "Id": 3005,
+    "Type": 3,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      17
+    ],
+    "Title": "指导者周期任务",
+    "Describe": "Clear Chaotic Realm - Master {*val*} time(s) with new/returning players",
+    "AwardId": 0,
+    "WeekScore": 30,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ],
+    "TextAdd": "指导者周期任务",
+    "Sort": 3005
+  },
+  "3006": {
+    "Id": 3006,
+    "Type": 3,
+    "Condition": [],
+    "TargetType": 502,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      16000001,
+      16000002,
+      16000003,
+      16000106,
+      16000107,
+      16000108,
+      16000210,
+      16000220,
+      16000230,
+      16000240,
+      16000250,
+      16000260,
+      16000270,
+      16000280,
+      16000290
+    ],
+    "Title": "指导者周期任务",
+    "Describe": "Clear a 20-player Raid on any difficulty and claim the rewards {*val*} time(s) with new/returning players.",
+    "AwardId": 0,
+    "WeekScore": 30,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      95,
+      5,
+      341
+    ],
+    "TextAdd": "指导者周期任务",
+    "Sort": 3006
+  },
+  "3007": {
+    "Id": 3007,
+    "Type": 3,
+    "Condition": [],
+    "TargetType": 822,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      103100,
+      103200,
+      103300,
+      103107,
+      103207,
+      103308,
+      103108,
+      103208,
+      103309
+    ],
+    "Title": "指导者周期任务",
+    "Describe": "Assist in clearing this season's 20-player raid: Field of Forgotten Illusions 1 time",
+    "AwardId": 0,
+    "WeekScore": 30,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      95,
+      5,
+      341
+    ],
+    "TextAdd": "指导者周期任务",
+    "Sort": 3007
+  },
+  "4001": {
+    "Id": 4001,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      8,
+      9,
+      13,
+      16
+    ],
+    "Title": "Novice Challenge I",
+    "Describe": "Clear Unstable Space, Chaotic Realm (Normal/Hard), Guild Hunt, or Stimen Vaults {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008210,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      421
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 4001
+  },
+  "4002": {
+    "Id": 4002,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 100,
+    "SceneId": 0,
+    "Param": [
+      8,
+      9,
+      13,
+      16
+    ],
+    "Title": "Novice Challenge II",
+    "Describe": "Clear Unstable Space, Chaotic Realm (Normal/Hard), Guild Hunt, or Stimen Vaults {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008220,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      421
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 4002
+  },
+  "4003": {
+    "Id": 4003,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 300,
+    "SceneId": 0,
+    "Param": [
+      8,
+      9,
+      13,
+      16
+    ],
+    "Title": "Novice Challenge III",
+    "Describe": "Clear Unstable Space, Chaotic Realm (Normal/Hard), Guild Hunt, or Stimen Vaults {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008230,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      421
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 4003
+  },
+  "5001": {
+    "Id": 5001,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 10,
+    "SceneId": 0,
+    "Param": [
+      17
+    ],
+    "Title": "Master Challenge I",
+    "Describe": "Clear Chaotic Realm - Master {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008240,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 5001
+  },
+  "5002": {
+    "Id": 5002,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      17
+    ],
+    "Title": "Master Challenge II",
+    "Describe": "Clear Chaotic Realm - Master {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008250,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 5002
+  },
+  "5003": {
+    "Id": 5003,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 100,
+    "SceneId": 0,
+    "Param": [
+      17
+    ],
+    "Title": "Master Challenge III",
+    "Describe": "Clear Chaotic Realm - Master {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008260,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 5003
+  },
+  "5004": {
+    "Id": 5004,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 501,
+    "Num": 300,
+    "SceneId": 0,
+    "Param": [
+      17
+    ],
+    "Title": "Master Challenge IV",
+    "Describe": "Clear Chaotic Realm - Master {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008270,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 5004
+  },
+  "6001": {
+    "Id": 6001,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 502,
+    "Num": 5,
+    "SceneId": 0,
+    "Param": [
+      16000001,
+      16000002,
+      16000003,
+      16000106,
+      16000107,
+      16000108,
+      16000210,
+      16000220,
+      16000230,
+      16000240,
+      16000250,
+      16000260,
+      16000270,
+      16000280,
+      16000290
+    ],
+    "Title": "Raid Challenge I",
+    "Describe": "Clear a 20-player Raid on any difficulty and claim the rewards {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008280,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      95,
+      5,
+      341
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 6001
+  },
+  "6002": {
+    "Id": 6002,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 502,
+    "Num": 20,
+    "SceneId": 0,
+    "Param": [
+      16000001,
+      16000002,
+      16000003,
+      16000106,
+      16000107,
+      16000108,
+      16000210,
+      16000220,
+      16000230,
+      16000240,
+      16000250,
+      16000260,
+      16000270,
+      16000280,
+      16000290
+    ],
+    "Title": "Raid Challenge II",
+    "Describe": "Clear a 20-player Raid on any difficulty and claim the rewards {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008290,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      95,
+      5,
+      341
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 6002
+  },
+  "6003": {
+    "Id": 6003,
+    "Type": 4,
+    "Condition": [],
+    "TargetType": 502,
+    "Num": 50,
+    "SceneId": 0,
+    "Param": [
+      16000001,
+      16000002,
+      16000003,
+      16000106,
+      16000107,
+      16000108,
+      16000210,
+      16000220,
+      16000230,
+      16000240,
+      16000250,
+      16000260,
+      16000270,
+      16000280,
+      16000290
+    ],
+    "Title": "Raid Challenge III",
+    "Describe": "Clear a 20-player Raid on any difficulty and claim the rewards {*cur*}/{*total*} time(s) with new/returning players",
+    "AwardId": 24008300,
+    "WeekScore": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      95,
+      5,
+      341
+    ],
+    "TextAdd": "指导者挑战任务",
+    "Sort": 6003
+  }
+}

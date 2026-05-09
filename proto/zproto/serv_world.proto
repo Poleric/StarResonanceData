@@ -280,6 +280,7 @@ import "stru_get_mail_manager_request.proto";
 import "stru_get_mail_uuid_list_reply.proto";
 import "stru_get_mail_uuid_list_request.proto";
 import "stru_get_match_info_param.proto";
+import "stru_get_musician_target_reward_request.proto";
 import "stru_get_near_team_list_reply.proto";
 import "stru_get_near_team_list_request.proto";
 import "stru_get_personal_info_reply.proto";
@@ -403,12 +404,15 @@ import "stru_match_info.proto";
 import "stru_match_ready_param.proto";
 import "stru_materials.proto";
 import "stru_medal_node.proto";
+import "stru_mentor_query_assess_task_info_reply.proto";
 import "stru_modify_project_name_request.proto";
 import "stru_monster_award_info.proto";
 import "stru_monster_award_param.proto";
 import "stru_monster_hunt_level_award_param.proto";
 import "stru_move_photo_to_union_album_request.proto";
 import "stru_move_tmp_photo_to_album_request.proto";
+import "stru_musician_get_level_reward_request.proto";
+import "stru_musician_level_up_request.proto";
 import "stru_notice_list.proto";
 import "stru_pay_reply.proto";
 import "stru_pay_request.proto";
@@ -522,6 +526,7 @@ import "stru_set_personal_zone_tags_request.proto";
 import "stru_set_personal_zone_theme_request.proto";
 import "stru_set_personal_zone_title_request.proto";
 import "stru_set_personal_zone_u_i_position_request.proto";
+import "stru_set_pickup_profession_request.proto";
 import "stru_set_recruit_info_request.proto";
 import "stru_set_remind_request.proto";
 import "stru_set_self_instrument_play_range_request.proto";
@@ -561,6 +566,8 @@ import "stru_start_ensemble_activity_request.proto";
 import "stru_start_game_table_request.proto";
 import "stru_start_playing_dungeon_info.proto";
 import "stru_start_ride_param.proto";
+import "stru_story_quest_info.proto";
+import "stru_story_quest_request.proto";
 import "stru_switch_info.proto";
 import "stru_switch_profession_info.proto";
 import "stru_switch_project_reply.proto";
@@ -585,6 +592,7 @@ import "stru_team_tower_layer.proto";
 import "stru_tower_jump_award.proto";
 import "stru_tower_process_award.proto";
 import "stru_transfer_leader_request.proto";
+import "stru_transform_equip_request.proto";
 import "stru_un_bind_group_with_tencent_reply.proto";
 import "stru_un_bind_group_with_tencent_request.proto";
 import "stru_un_install_fantasy_request.proto";
@@ -601,8 +609,11 @@ import "stru_union_remove_item_request.proto";
 import "stru_union_scene.proto";
 import "stru_unlock_action_group_request.proto";
 import "stru_unlock_info.proto";
+import "stru_unlock_music_request.proto";
+import "stru_unlock_musician_request.proto";
 import "stru_unlock_project_reply.proto";
 import "stru_unlock_project_request.proto";
+import "stru_update_music_data_request.proto";
 import "stru_update_structure_request.proto";
 import "stru_update_team_group_request.proto";
 import "stru_upgrade_mod_request.proto";
@@ -721,6 +732,7 @@ message World {
 		uint32 qteId = 1 [json_name = "qteId"];
 		repeated int32 index = 2 [json_name = "index"];
 		bool res = 3 [json_name = "res"];
+		bool perfect = 4 [json_name = "perfect"];
 	}
 
 	message UseItem_Ret {
@@ -826,6 +838,10 @@ message World {
 	message LockItem {
 		repeated int64 vLockUuids = 1 [json_name = "vLockUuids"];
 		repeated int64 vUnlockUuids = 2 [json_name = "vUnlockUuids"];
+	}
+
+	message ClaimOverflowCoin_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
 	}
 
 	message LeaveScene_Ret {
@@ -1051,6 +1067,14 @@ message World {
 
 	message EquipBreach {
 		EquipBreachRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message TransformEquip_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message TransformEquip {
+		TransformEquipRequest vRequest = 1 [json_name = "vRequest"];
 	}
 
 	message SetFaceData_Ret {
@@ -2551,6 +2575,14 @@ message World {
 
 	message ResetTalentMarkItemPopUpNotice {
 		ResetTalentMarkItemPopUpNoticeRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message SetPickupProfession_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message SetPickupProfession {
+		SetPickupProfessionRequest vRequest = 1 [json_name = "vRequest"];
 	}
 
 	message FastCook_Ret {
@@ -4777,6 +4809,78 @@ message World {
 		LeaderExitEnsembleActivityRequest vRequest = 1 [json_name = "vRequest"];
 	}
 
+	message AcceptStoryQuest_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message AcceptStoryQuest {
+		StoryQuestInfo vStoryQuestInfo = 1 [json_name = "vStoryQuestInfo"];
+	}
+
+	message BackStoryQuest_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message BackStoryQuest {
+		StoryQuestInfo vStoryQuestInfo = 1 [json_name = "vStoryQuestInfo"];
+	}
+
+	message GetStoryQuestAward_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message GetStoryQuestAward {
+		StoryQuestRequest vStoryQuestRequest = 1 [json_name = "vStoryQuestRequest"];
+	}
+
+	message MusicianGetLevelReward_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message MusicianGetLevelReward {
+		MusicianGetLevelRewardRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message MusicianLevelUp_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message MusicianLevelUp {
+		MusicianLevelUpRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message GetMusicianTargetReward_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message GetMusicianTargetReward {
+		GetMusicianTargetRewardRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message UnlockMusic_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message UnlockMusic {
+		UnlockMusicRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message UpdateMusicData_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message UpdateMusicData {
+		UpdateMusicDataRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message UnlockMusician_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message UnlockMusician {
+		UnlockMusicianRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
 	message GetActivityList_Ret {
 		GetActivityListReply ret = 1 [json_name = "ret"];
 	}
@@ -5056,5 +5160,45 @@ message World {
 
 	message ExitActivity_Ret {
 		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message MentorInternshipAssess_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message MentorRegularAssess_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message MentorSetTagShow_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message MentorSetTagShow {
+		bool vShow = 1 [json_name = "vShow"];
+	}
+
+	message MentorTargetReward_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message MentorTargetReward {
+		int32 vTargetId = 1 [json_name = "vTargetId"];
+	}
+
+	message MentorCyclicalProgressReward_Ret {
+		EErrorCode ret = 1 [json_name = "ret"];
+	}
+
+	message MentorCyclicalProgressReward {
+		int32 vScore = 1 [json_name = "vScore"];
+	}
+
+	message MentorQueryAssessTaskInfo_Ret {
+		MentorQueryAssessTaskInfoReply ret = 1 [json_name = "ret"];
+	}
+
+	message MentorQueryAssessTaskInfo {
+		bool vIsRegular = 1 [json_name = "vIsRegular"];
 	}
 }

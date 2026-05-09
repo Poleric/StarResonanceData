@@ -21,4 +21,5 @@ message ProfessionList {
 	uint32 totalHealMark = 14 [json_name = "totalHealMark"];
 	int32 resetTalentMarkItemFlag = 15 [json_name = "resetTalentMarkItemFlag"];
 	int32 resetTalentMarkItemPopUpNotice = 16 [json_name = "resetTalentMarkItemPopUpNotice"];
+	int32 pickProfessionId = 17 [json_name = "pickProfessionId"];
 }

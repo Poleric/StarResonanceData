@@ -174,7 +174,7 @@
     "PlotCharactersName": "奥尔维拉",
     "PlotCharactersGender": "女",
     "PlotCharactersAge": "26岁",
-    "PlotCharactersContent": "阿斯特里斯守备兵团团长。性格冷静，坚毅果敢，充满魄力。\n战斗力与智慧超群，但在强大的外表下，有一颗温柔细腻的心。",
+    "PlotCharactersContent": "阿斯特里斯守备兵团团长。性格冷静，坚毅果敢，充满魄力。_x000d_\n战斗力与智慧超群，但在强大的外表下，有一颗温柔细腻的心。",
     "CutDialogueIdle": "as_wpnpc_f_base_olvera_perform01",
     "IdleAnimationClip": "as_wpnpc_f_base_olvera_skt_idle",
     "IdleEmo": 37
@@ -184,7 +184,7 @@
     "PlotCharactersName": "蒂娜",
     "PlotCharactersGender": "女",
     "PlotCharactersAge": "22岁",
-    "PlotCharactersContent": "阿斯特里斯的自由战士。个性阳光，心性乐观、积极向上，且充满感染力。面对困境时，仍能保持果决与勇气。\n向往自由，但是也愿意为了更多人的利益而牺牲自我，有很强的责任感和牺牲精神。",
+    "PlotCharactersContent": "阿斯特里斯的自由战士。个性阳光，心性乐观、积极向上，且充满感染力。面对困境时，仍能保持果决与勇气。_x000d_\n向往自由，但是也愿意为了更多人的利益而牺牲自我，有很强的责任感和牺牲精神。",
     "CutDialogueIdle": "as_wpnpc_f_base_tina_sidle",
     "IdleAnimationClip": "as_wpnpc_f_base_tina_skt_idle",
     "IdleEmo": 56
@@ -204,7 +204,7 @@
     "PlotCharactersName": "杰拉德",
     "PlotCharactersGender": "男",
     "PlotCharactersAge": "27岁",
-    "PlotCharactersContent": "现任阿斯特里斯守备兵团副官，奥尔维拉的直属部下。风趣爽朗、行动力极强的男人。喜欢新奇的事物，待人热心友善，容易亲近。\n平时看似大大咧咧、对很多事都不够专注的样子，实际非常细心，总能体察他人的心意。",
+    "PlotCharactersContent": "现任阿斯特里斯守备兵团副官，奥尔维拉的直属部下。风趣爽朗、行动力极强的男人。喜欢新奇的事物，待人热心友善，容易亲近。_x000d_\n平时看似大大咧咧、对很多事都不够专注的样子，实际非常细心，总能体察他人的心意。",
     "CutDialogueIdle": "as_wpnpc_m_base_comeau_sidle",
     "IdleAnimationClip": "as_wpnpc_m_base_comeau_skt_idle",
     "IdleEmo": 77
@@ -274,7 +274,7 @@
     "PlotCharactersName": "拉蒙德",
     "PlotCharactersGender": "男",
     "PlotCharactersAge": "45岁",
-    "PlotCharactersContent": "阿斯特里斯众议院议长。政治家、文人、禁欲、庄重、亲切。温文尔雅、风度翩翩的政治家。言行优雅亲切，举手投足间充满魅力。\n但在平易近人的表象下，他洞察人心，老谋深算，一切皆为了阿斯特里斯的利益而行动。",
+    "PlotCharactersContent": "阿斯特里斯众议院议长。政治家、文人、禁欲、庄重、亲切。温文尔雅、风度翩翩的政治家。言行优雅亲切，举手投足间充满魅力。_x000d_\n但在平易近人的表象下，他洞察人心，老谋深算，一切皆为了阿斯特里斯的利益而行动。",
     "CutDialogueIdle": "as_wpnpc_m_base_lavan_sidle",
     "IdleAnimationClip": "as_wpnpc_m_base_lavan_skt_idle",
     "IdleEmo": 97
@@ -578,5 +578,45 @@
     "CutDialogueIdle": "as_npc_m_middle_idle",
     "IdleAnimationClip": "as_npc_m_middle_skt_idle",
     "IdleEmo": 195
+  },
+  "1001": {
+    "Id": 1001,
+    "PlotCharactersName": "阿良良木历",
+    "PlotCharactersGender": "男",
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "物语系列联动角色",
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 0
+  },
+  "800": {
+    "Id": 800,
+    "PlotCharactersName": "星瞳",
+    "PlotCharactersGender": "女",
+    "PlotCharactersAge": "青年",
+    "PlotCharactersContent": "",
+    "CutDialogueIdle": "",
+    "IdleAnimationClip": "",
+    "IdleEmo": 0
+  },
+  "1002": {
+    "Id": 1002,
+    "PlotCharactersName": "战场原黑仪",
+    "PlotCharactersGender": "女",
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "物语系列联动角色",
+    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "IdleAnimationClip": "as_npc_f_youth_skt_idle",
+    "IdleEmo": 0
+  },
+  "1601": {
+    "Id": 1601,
+    "PlotCharactersName": "黑石军团士兵（没头防报错）",
+    "PlotCharactersGender": "男",
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "黑石军团士兵",
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 0
   }
 }

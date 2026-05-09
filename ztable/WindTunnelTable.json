@@ -388,5 +388,11 @@
     "Name": "raid02蚀花残影P1左侧风通道",
     "EffectPath": "13011_WindTunnel_02",
     "IsControllable": false
+  },
+  "656101": {
+    "Id": 656101,
+    "Name": "环海石礁大师风通道",
+    "EffectPath": "6561_WindTunnel_Dungeon_01",
+    "IsControllable": false
   }
 }

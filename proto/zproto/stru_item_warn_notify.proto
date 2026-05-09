@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "enum_e_item_warn_type.proto";
+import "stru_item.proto";
+
+package zproto;
+
+message ItemWarnNotify {
+	EItemWarnType type = 1 [json_name = "type"];
+	repeated Item items = 2 [json_name = "items"];
+}

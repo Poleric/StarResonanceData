@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message SetPickupProfessionRequest {
+	int32 professionId = 1 [json_name = "professionId"];
+}

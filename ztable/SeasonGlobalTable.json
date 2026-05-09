@@ -85,7 +85,7 @@
   },
   "3": {
     "SeasonId": 3,
-    "SeasonName": "Decay",
+    "SeasonName": "Echoes of Ember - Concerto of Illusion and Reality",
     "SeasonTimeId": 10301,
     "MinEquipLevel": 700,
     "MaxEquipLevel": 950,
@@ -93,41 +93,37 @@
     "MasterScoreAward": [
       [
         500,
-        12030010
+        12030210
       ],
       [
         1000,
-        12030020
+        12030220
       ],
       [
         1500,
-        12030030
+        12030230
       ],
       [
         2000,
-        12030040
+        12030240
       ],
       [
         2500,
-        12030050
+        12030250
       ],
       [
         3000,
-        12030060
-      ],
-      [
-        3650,
-        12030070
+        12030260
       ]
     ],
-    "SeasonLevelName": "ui/atlas/season_talent/img_seasontalent_main_talent2",
-    "SeasonLevelIcon": "ui/atlas/season_talent/img_seasontalent_main_talent2",
+    "SeasonLevelName": "Deep-Slumber Psychoscope Level",
+    "SeasonLevelIcon": "ui/atlas/season_talent/img_seasontalent_main_talent3",
     "SeasonExpItemId": 403,
     "SeasonIcon": "ui/atlas/season/life_season_icon_3"
   },
   "4": {
     "SeasonId": 4,
-    "SeasonName": "Rebirth",
+    "SeasonName": "TBD",
     "SeasonTimeId": 10401,
     "MinEquipLevel": 1000,
     "MaxEquipLevel": 1250,
@@ -163,7 +159,7 @@
       ]
     ],
     "SeasonLevelName": "ui/atlas/season_talent/img_seasontalent_main_talent2",
-    "SeasonLevelIcon": "ui/atlas/season_talent/img_seasontalent_main_talent2",
+    "SeasonLevelIcon": "ui/atlas/season_talent/img_seasontalent_main_talent4",
     "SeasonExpItemId": 404,
     "SeasonIcon": "ui/atlas/season/life_season_icon_4"
   }

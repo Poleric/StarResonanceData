@@ -1583,7 +1583,7 @@
   },
   "963001": {
     "Id": 963001,
-    "TalentId": 962,
+    "TalentId": 911,
     "WeaponType": 9,
     "BdType": 1,
     "TalentStage": 1,
@@ -2819,7 +2819,7 @@
   },
   "1142001": {
     "Id": 1142001,
-    "TalentId": 1146,
+    "TalentId": 1150,
     "WeaponType": 11,
     "BdType": 0,
     "TalentStage": 1,
@@ -2867,7 +2867,7 @@
   },
   "1139001": {
     "Id": 1139001,
-    "TalentId": 1150,
+    "TalentId": 1146,
     "WeaponType": 11,
     "BdType": 0,
     "TalentStage": 1,
@@ -4085,7 +4085,7 @@
   },
   "3194": {
     "Id": 3194,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -4248,7 +4248,7 @@
   },
   "359005": {
     "Id": 359005,
-    "TalentId": 359,
+    "TalentId": 347,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -4412,7 +4412,7 @@
   },
   "3192": {
     "Id": 3192,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -4467,7 +4467,7 @@
   },
   "3193": {
     "Id": 3193,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -4485,7 +4485,7 @@
   },
   "3191": {
     "Id": 3191,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -4599,7 +4599,7 @@
   },
   "3190": {
     "Id": 3190,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -5016,7 +5016,7 @@
   },
   "3189": {
     "Id": 3189,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -5071,7 +5071,7 @@
   },
   "3188": {
     "Id": 3188,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -5144,7 +5144,7 @@
   },
   "3176": {
     "Id": 3176,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -5198,7 +5198,7 @@
   },
   "3175": {
     "Id": 3175,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -5472,7 +5472,7 @@
   },
   "3187": {
     "Id": 3187,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -5492,7 +5492,7 @@
   },
   "3186": {
     "Id": 3186,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -5546,7 +5546,7 @@
   },
   "3185": {
     "Id": 3185,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -5621,7 +5621,7 @@
   },
   "3184": {
     "Id": 3184,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -5700,7 +5700,7 @@
   },
   "3183": {
     "Id": 3183,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -5953,7 +5953,7 @@
   },
   "3182": {
     "Id": 3182,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -5992,7 +5992,7 @@
   },
   "3181": {
     "Id": 3181,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -7686,7 +7686,7 @@
   },
   "3180": {
     "Id": 3180,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -9703,7 +9703,7 @@
   },
   "128028": {
     "Id": 128028,
-    "TalentId": 128,
+    "TalentId": 173,
     "WeaponType": 1,
     "BdType": 1,
     "TalentStage": 1,
@@ -10159,7 +10159,7 @@
   },
   "1238001": {
     "Id": 1238001,
-    "TalentId": 1228,
+    "TalentId": 1267,
     "WeaponType": 12,
     "BdType": 0,
     "TalentStage": 1,
@@ -13662,7 +13662,7 @@
   },
   "347006": {
     "Id": 347006,
-    "TalentId": 347,
+    "TalentId": 359,
     "WeaponType": 3,
     "BdType": 1,
     "TalentStage": 1,
@@ -13680,7 +13680,7 @@
   },
   "3174": {
     "Id": 3174,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -13876,7 +13876,7 @@
   },
   "3179": {
     "Id": 3179,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -13950,7 +13950,7 @@
   },
   "3178": {
     "Id": 3178,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 1,
@@ -14019,7 +14019,7 @@
   },
   "3177": {
     "Id": 3177,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
@@ -14056,7 +14056,7 @@
   },
   "3172": {
     "Id": 3172,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
@@ -14090,7 +14090,7 @@
   },
   "3173": {
     "Id": 3173,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
@@ -14249,7 +14249,7 @@
   },
   "3171": {
     "Id": 3171,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
@@ -14338,7 +14338,7 @@
   },
   "3170": {
     "Id": 3170,
-    "TalentId": 3,
+    "TalentId": 1,
     "WeaponType": 3,
     "BdType": 0,
     "TalentStage": 0,
@@ -18679,7 +18679,7 @@
   },
   "913016": {
     "Id": 913016,
-    "TalentId": 911,
+    "TalentId": 962,
     "WeaponType": 9,
     "BdType": 1,
     "TalentStage": 1,

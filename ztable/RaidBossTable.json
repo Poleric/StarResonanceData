@@ -4,7 +4,7 @@
     "Name": "Rin·Izcorgiky",
     "FirstPassAward": [],
     "PassAward": [
-      16000010,
+      16000001,
       70900040
     ],
     "Condition": [
@@ -13,8 +13,8 @@
         1
       ]
     ],
-    "AwardCount": 61,
-    "UPAwardCount": 61,
+    "AwardCount": 90,
+    "UPAwardCount": 90,
     "TimerId": 276,
     "OpenTimerId": 273,
     "RecommendFightValue": 12710,
@@ -29,7 +29,7 @@
     "Name": "Bone·Xiolotl",
     "FirstPassAward": [],
     "PassAward": [
-      16000020,
+      16000002,
       70900040
     ],
     "Condition": [
@@ -38,8 +38,8 @@
         1
       ]
     ],
-    "AwardCount": 62,
-    "UPAwardCount": 62,
+    "AwardCount": 91,
+    "UPAwardCount": 91,
     "TimerId": 276,
     "OpenTimerId": 274,
     "RecommendFightValue": 15210,
@@ -54,7 +54,7 @@
     "Name": "Light·Tonatiuh",
     "FirstPassAward": [],
     "PassAward": [
-      16000030,
+      16000003,
       70900040
     ],
     "Condition": [
@@ -63,8 +63,8 @@
         1
       ]
     ],
-    "AwardCount": 63,
-    "UPAwardCount": 63,
+    "AwardCount": 92,
+    "UPAwardCount": 92,
     "TimerId": 276,
     "OpenTimerId": 275,
     "RecommendFightValue": 16140,
@@ -229,7 +229,8 @@
     "Name": "Caprahorn - Bloom & Steel",
     "FirstPassAward": [],
     "PassAward": [
-      16000110
+      16000106,
+      70900040
     ],
     "Condition": [
       [
@@ -237,8 +238,8 @@
         2
       ]
     ],
-    "AwardCount": 76,
-    "UPAwardCount": 76,
+    "AwardCount": 93,
+    "UPAwardCount": 93,
     "TimerId": 0,
     "OpenTimerId": 2321,
     "RecommendFightValue": 35190,
@@ -253,7 +254,8 @@
     "Name": "Withered Bloomshard",
     "FirstPassAward": [],
     "PassAward": [
-      16000120
+      16000107,
+      70900040
     ],
     "Condition": [
       [
@@ -261,8 +263,8 @@
         2
       ]
     ],
-    "AwardCount": 77,
-    "UPAwardCount": 77,
+    "AwardCount": 94,
+    "UPAwardCount": 94,
     "TimerId": 0,
     "OpenTimerId": 2322,
     "RecommendFightValue": 35890,
@@ -277,7 +279,8 @@
     "Name": "Erosion Bloom Afterimage",
     "FirstPassAward": [],
     "PassAward": [
-      16000130
+      16000108,
+      70900040
     ],
     "Condition": [
       [
@@ -285,8 +288,8 @@
         2
       ]
     ],
-    "AwardCount": 78,
-    "UPAwardCount": 78,
+    "AwardCount": 95,
+    "UPAwardCount": 95,
     "TimerId": 0,
     "OpenTimerId": 2323,
     "RecommendFightValue": 37740,
@@ -439,5 +442,221 @@
     "BossIcon": "ui/atlas/monster_avatar/head_mon_raid02_03",
     "Background": "ui/textures/raid/raid_02_03",
     "HelpID": 4503
+  },
+  "103100": {
+    "BossId": 103100,
+    "Name": "",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000210
+    ],
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ],
+    "AwardCount": 96,
+    "UPAwardCount": 96,
+    "TimerId": 0,
+    "OpenTimerId": 2330,
+    "RecommendFightValue": 47650,
+    "AssessId": 103100,
+    "Content": "",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid03_01",
+    "Background": "ui/textures/raid/raid_03_01",
+    "HelpID": 4513
+  },
+  "103200": {
+    "BossId": 103200,
+    "Name": "",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000220
+    ],
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ],
+    "AwardCount": 97,
+    "UPAwardCount": 97,
+    "TimerId": 0,
+    "OpenTimerId": 2331,
+    "RecommendFightValue": 48150,
+    "AssessId": 103200,
+    "Content": "",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid03_02",
+    "Background": "ui/textures/raid/raid_03_02",
+    "HelpID": 4514
+  },
+  "103300": {
+    "BossId": 103300,
+    "Name": "",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000230
+    ],
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ],
+    "AwardCount": 98,
+    "UPAwardCount": 98,
+    "TimerId": 0,
+    "OpenTimerId": 2332,
+    "RecommendFightValue": 50500,
+    "AssessId": 103300,
+    "Content": "",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid03_03",
+    "Background": "ui/textures/raid/raid_03_03",
+    "HelpID": 4515
+  },
+  "103107": {
+    "BossId": 103107,
+    "Name": "",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000240
+    ],
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ],
+    "AwardCount": 99,
+    "UPAwardCount": 99,
+    "TimerId": 0,
+    "OpenTimerId": 2333,
+    "RecommendFightValue": 51000,
+    "AssessId": 103107,
+    "Content": "",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid03_01",
+    "Background": "ui/textures/raid/raid_03_01",
+    "HelpID": 4513
+  },
+  "103207": {
+    "BossId": 103207,
+    "Name": "",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000250
+    ],
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ],
+    "AwardCount": 100,
+    "UPAwardCount": 100,
+    "TimerId": 0,
+    "OpenTimerId": 2334,
+    "RecommendFightValue": 51000,
+    "AssessId": 103207,
+    "Content": "",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid03_02",
+    "Background": "ui/textures/raid/raid_03_02",
+    "HelpID": 4514
+  },
+  "103308": {
+    "BossId": 103308,
+    "Name": "",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000260
+    ],
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ],
+    "AwardCount": 101,
+    "UPAwardCount": 101,
+    "TimerId": 0,
+    "OpenTimerId": 2335,
+    "RecommendFightValue": 51000,
+    "AssessId": 103308,
+    "Content": "",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid03_03",
+    "Background": "ui/textures/raid/raid_03_03",
+    "HelpID": 4515
+  },
+  "103108": {
+    "BossId": 103108,
+    "Name": "",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000270
+    ],
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ],
+    "AwardCount": 102,
+    "UPAwardCount": 102,
+    "TimerId": 0,
+    "OpenTimerId": 2336,
+    "RecommendFightValue": 51000,
+    "AssessId": 103108,
+    "Content": "",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid03_01",
+    "Background": "ui/textures/raid/raid_03_01",
+    "HelpID": 4513
+  },
+  "103208": {
+    "BossId": 103208,
+    "Name": "",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000280
+    ],
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ],
+    "AwardCount": 103,
+    "UPAwardCount": 103,
+    "TimerId": 0,
+    "OpenTimerId": 2337,
+    "RecommendFightValue": 51000,
+    "AssessId": 103208,
+    "Content": "",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid03_02",
+    "Background": "ui/textures/raid/raid_03_02",
+    "HelpID": 4514
+  },
+  "103309": {
+    "BossId": 103309,
+    "Name": "",
+    "FirstPassAward": [],
+    "PassAward": [
+      16000290
+    ],
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ],
+    "AwardCount": 104,
+    "UPAwardCount": 104,
+    "TimerId": 0,
+    "OpenTimerId": 2338,
+    "RecommendFightValue": 51000,
+    "AssessId": 103309,
+    "Content": "",
+    "BossIcon": "ui/atlas/monster_avatar/head_mon_raid03_03",
+    "Background": "ui/textures/raid/raid_03_03",
+    "HelpID": 4515
   }
 }

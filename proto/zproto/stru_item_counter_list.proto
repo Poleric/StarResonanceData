@@ -7,4 +7,5 @@ package zproto;
 
 message ItemCounterList {
 	map<int32, ItemCounterInfo> itemCounterMap = 1 [json_name = "itemCounterMap"];
+	map<int32, ItemCounterInfo> itemGainCounterMap = 2 [json_name = "itemGainCounterMap"];
 }

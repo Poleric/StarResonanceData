@@ -50,6 +50,16 @@
     "CompleteAction": [],
     "Time": 46
   },
+  "700003": {
+    "Id": 700003,
+    "Name": "Squeaky Boarlet Invasion",
+    "TargetList": [
+      700003
+    ],
+    "Difficult": 1,
+    "CompleteAction": [],
+    "Time": 46
+  },
   "1021001": {
     "Id": 1021001,
     "Name": "Protect Tina",
@@ -223,6 +233,23 @@
       ]
     ],
     "Time": 61
+  },
+  "6561001": {
+    "Id": 6561001,
+    "Name": "",
+    "TargetList": [
+      6561021,
+      6561022
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        150,
+        50
+      ]
+    ],
+    "Time": 91
   },
   "1211002": {
     "Id": 1211002,

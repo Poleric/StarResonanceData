@@ -5879,6 +5879,24 @@
     "PlotCharactersId": 114,
     "CountTime": 0.0
   },
+  "1301102": {
+    "Id": 1301102,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "1301103": {
+    "Id": 1301103,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "1301104": {
+    "Id": 1301104,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
   "2000101": {
     "Id": 2000101,
     "Content": "Mighty adventurer, your strength is undeniable!",
@@ -10907,6 +10925,432 @@
     "PlotCharactersId": 4,
     "CountTime": 0.0
   },
+  "110010401": {
+    "Id": 110010401,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110010402": {
+    "Id": 110010402,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110010403": {
+    "Id": 110010403,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110010404": {
+    "Id": 110010404,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110010601": {
+    "Id": 110010601,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110010602": {
+    "Id": 110010602,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110010603": {
+    "Id": 110010603,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110010604": {
+    "Id": 110010604,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110011301": {
+    "Id": 110011301,
+    "Content": "",
+    "PlotCharactersId": 6,
+    "CountTime": 0.0
+  },
+  "110011302": {
+    "Id": 110011302,
+    "Content": "",
+    "PlotCharactersId": 6,
+    "CountTime": 0.0
+  },
+  "110011303": {
+    "Id": 110011303,
+    "Content": "",
+    "PlotCharactersId": 6,
+    "CountTime": 0.0
+  },
+  "110011501": {
+    "Id": 110011501,
+    "Content": "",
+    "PlotCharactersId": 7,
+    "CountTime": 0.0
+  },
+  "110011502": {
+    "Id": 110011502,
+    "Content": "",
+    "PlotCharactersId": 7,
+    "CountTime": 0.0
+  },
+  "110011503": {
+    "Id": 110011503,
+    "Content": "",
+    "PlotCharactersId": 7,
+    "CountTime": 0.0
+  },
+  "110011801": {
+    "Id": 110011801,
+    "Content": "",
+    "PlotCharactersId": 1,
+    "CountTime": 0.0
+  },
+  "110011802": {
+    "Id": 110011802,
+    "Content": "",
+    "PlotCharactersId": 1,
+    "CountTime": 0.0
+  },
+  "110011803": {
+    "Id": 110011803,
+    "Content": "",
+    "PlotCharactersId": 1,
+    "CountTime": 0.0
+  },
+  "110011804": {
+    "Id": 110011804,
+    "Content": "",
+    "PlotCharactersId": 1,
+    "CountTime": 0.0
+  },
+  "110011901": {
+    "Id": 110011901,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110011902": {
+    "Id": 110011902,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110011903": {
+    "Id": 110011903,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110011904": {
+    "Id": 110011904,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110012601": {
+    "Id": 110012601,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110012602": {
+    "Id": 110012602,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110012603": {
+    "Id": 110012603,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110012701": {
+    "Id": 110012701,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110012702": {
+    "Id": 110012702,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110012703": {
+    "Id": 110012703,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110013401": {
+    "Id": 110013401,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110013402": {
+    "Id": 110013402,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110013403": {
+    "Id": 110013403,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110013501": {
+    "Id": 110013501,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110013502": {
+    "Id": 110013502,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110013503": {
+    "Id": 110013503,
+    "Content": "",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "110013601": {
+    "Id": 110013601,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110013602": {
+    "Id": 110013602,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110013603": {
+    "Id": 110013603,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110020701": {
+    "Id": 110020701,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110020702": {
+    "Id": 110020702,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110020703": {
+    "Id": 110020703,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110020801": {
+    "Id": 110020801,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110020802": {
+    "Id": 110020802,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110020803": {
+    "Id": 110020803,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110050101": {
+    "Id": 110050101,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110050102": {
+    "Id": 110050102,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110050103": {
+    "Id": 110050103,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110050201": {
+    "Id": 110050201,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110050202": {
+    "Id": 110050202,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110050301": {
+    "Id": 110050301,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110050302": {
+    "Id": 110050302,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110050501": {
+    "Id": 110050501,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110050502": {
+    "Id": 110050502,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110050503": {
+    "Id": 110050503,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110051101": {
+    "Id": 110051101,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110051102": {
+    "Id": 110051102,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110051103": {
+    "Id": 110051103,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110051201": {
+    "Id": 110051201,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110051202": {
+    "Id": 110051202,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110051203": {
+    "Id": 110051203,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110051401": {
+    "Id": 110051401,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110051402": {
+    "Id": 110051402,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110051403": {
+    "Id": 110051403,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110080501": {
+    "Id": 110080501,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110080502": {
+    "Id": 110080502,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110080503": {
+    "Id": 110080503,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110250201": {
+    "Id": 110250201,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110250202": {
+    "Id": 110250202,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110250203": {
+    "Id": 110250203,
+    "Content": "",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "110250401": {
+    "Id": 110250401,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110250402": {
+    "Id": 110250402,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
+  "110250403": {
+    "Id": 110250403,
+    "Content": "",
+    "PlotCharactersId": 2,
+    "CountTime": 0.0
+  },
   "110901021": {
     "Id": 110901021,
     "Content": "The creations of the Bapharian Divines are truly breathtaking...",
@@ -11180,6 +11624,48 @@
   "160000173": {
     "Id": 160000173,
     "Content": "The season of abundance has come! Return now, following the steps of the dance!",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "192020101": {
+    "Id": 192020101,
+    "Content": "The activity's a bit too frequent... doesn't look like a temporary gathering.",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "192020102": {
+    "Id": 192020102,
+    "Content": "At this stage, I wouldn't recommend getting involved. But there's no need to stop it, either.",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "192020103": {
+    "Id": 192020103,
+    "Content": "Node contamination... What a pain.",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "196010201": {
+    "Id": 196010201,
+    "Content": "The same scale readings, but taken at a different time—the deviation changes?",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "196010202": {
+    "Id": 196010202,
+    "Content": "Maybe this isn't even an error... It's more like some kind of disturbance!",
+    "PlotCharactersId": 3,
+    "CountTime": 0.0
+  },
+  "196010301": {
+    "Id": 196010301,
+    "Content": "Unbelievable! All the parameters are drifting—drifting to the point they can't be corrected.",
+    "PlotCharactersId": 4,
+    "CountTime": 0.0
+  },
+  "196010302": {
+    "Id": 196010302,
+    "Content": "I don't even dare look at the dial anymore. It feels like something behind it is watching me...",
     "PlotCharactersId": 4,
     "CountTime": 0.0
   },

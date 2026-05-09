@@ -7,4 +7,6 @@ package zproto;
 message EnterInstrumentStateRequest {
 	int32 instrumentId = 1 [json_name = "instrumentId"];
 	EInstrumentPlayRange playRange = 2 [json_name = "playRange"];
+	int32 playMode = 3 [json_name = "playMode"];
+	int32 playMusicScoreId = 4 [json_name = "playMusicScoreId"];
 }

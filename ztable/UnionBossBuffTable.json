@@ -466,5 +466,239 @@
       ]
     ],
     "Icon": "ui/atlas/monster_avatar/head_mon_raid02_03"
+  },
+  "103100": {
+    "BossId": 103100,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 3,
+    "Name": "",
+    "GuideGroup": 1,
+    "Title": "",
+    "Sort": 1,
+    "Buff": 829352,
+    "Desc": "",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid03_01"
+  },
+  "103200": {
+    "BossId": 103200,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 3,
+    "Name": "",
+    "GuideGroup": 1,
+    "Title": "",
+    "Sort": 2,
+    "Buff": 829355,
+    "Desc": "",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid03_02"
+  },
+  "103300": {
+    "BossId": 103300,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 3,
+    "Name": "",
+    "GuideGroup": 1,
+    "Title": "",
+    "Sort": 3,
+    "Buff": 829358,
+    "Desc": "",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid03_03"
+  },
+  "103107": {
+    "BossId": 103107,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 3,
+    "Name": "",
+    "GuideGroup": 2,
+    "Title": "",
+    "Sort": 1,
+    "Buff": 829353,
+    "Desc": "",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid03_01"
+  },
+  "103207": {
+    "BossId": 103207,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 3,
+    "Name": "",
+    "GuideGroup": 2,
+    "Title": "",
+    "Sort": 2,
+    "Buff": 829356,
+    "Desc": "",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid03_02"
+  },
+  "103308": {
+    "BossId": 103308,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 3,
+    "Name": "",
+    "GuideGroup": 2,
+    "Title": "",
+    "Sort": 3,
+    "Buff": 829359,
+    "Desc": "",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid03_03"
+  },
+  "103108": {
+    "BossId": 103108,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 3,
+    "Name": "",
+    "GuideGroup": 3,
+    "Title": "",
+    "Sort": 1,
+    "Buff": 829354,
+    "Desc": "",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid03_01"
+  },
+  "103208": {
+    "BossId": 103208,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 3,
+    "Name": "",
+    "GuideGroup": 3,
+    "Title": "",
+    "Sort": 2,
+    "Buff": 829357,
+    "Desc": "",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid03_02"
+  },
+  "103309": {
+    "BossId": 103309,
+    "Condition": [
+      [
+        1,
+        1,
+        60
+      ]
+    ],
+    "Tabid": 3,
+    "Name": "",
+    "GuideGroup": 3,
+    "Title": "",
+    "Sort": 3,
+    "Buff": 829360,
+    "Desc": "",
+    "ConditionValue": 20,
+    "RecordLimit": 50,
+    "OpenConditionValue": [
+      [
+        103,
+        2
+      ]
+    ],
+    "Icon": "ui/atlas/monster_avatar/head_mon_raid03_03"
   }
 }

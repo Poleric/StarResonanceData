@@ -53,7 +53,15 @@
     "PreviewText": "Complete Battle Pass Quests and Achievements to raise your Season Title and earn Emblems. More fun modes, generous rewards, and a points shop are waiting for you. Clean it out!",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_52",
     "PreviewAward": 22000010,
-    "ConditionShow": []
+    "ConditionShow": [
+      [
+        27,
+        2,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "800521": {
     "Id": 800521,
@@ -346,42 +354,82 @@
   "810014": {
     "Id": 810014,
     "Preview": 37,
-    "PreviewText": "Venture deep into the ominous land. Beware of deceptive visions and purge the slumbering nightmares! Earn gauntlet and earring drops, along with exclusive appearances!",
+    "PreviewText": "Venture deep into the ominous land. Beware of deceptive visions and purge the slumbering nightmares! Earn weapon, gauntlet, and earring drops, along with exclusive appearances!",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_44",
     "PreviewAward": 22000010,
-    "ConditionShow": []
+    "ConditionShow": [
+      [
+        27,
+        2,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "810015": {
     "Id": 810015,
     "Preview": 38,
-    "PreviewText": "Explore the abandoned mine where colossal beasts lurk; race death through collapsing tunnels! Earn helmet and necklace drops, along with exclusive appearances!",
+    "PreviewText": "Explore the abandoned mine where colossal beasts lurk; race death through collapsing tunnels! Earn weapon, helmet, and necklace drops, along with exclusive appearances!",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_43",
     "PreviewAward": 22000010,
-    "ConditionShow": []
+    "ConditionShow": [
+      [
+        27,
+        2,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "810016": {
     "Id": 810016,
     "Preview": 39,
-    "PreviewText": "Carry the sins of the past and guide the lost spirits to rest. Complete this long-overdue rite of atonement! Earn armor and ring drops, along with exclusive appearances!",
+    "PreviewText": "Carry the sins of the past and guide the lost spirits to rest. Complete this long-overdue rite of atonement! Earn weapon, armor, and ring drops, along with exclusive appearances!",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_46",
     "PreviewAward": 22000010,
-    "ConditionShow": []
+    "ConditionShow": [
+      [
+        27,
+        2,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "810017": {
     "Id": 810017,
     "Preview": 40,
-    "PreviewText": "Ancient ruins hidden in the mountains are said to hold unknown treasures—and deadly guardians. Earn bracelet drops, along with exclusive appearances!",
+    "PreviewText": "Ancient ruins hidden in the mountains are said to hold unknown treasures—and deadly guardians. Earn weapon and bracelet drops, along with exclusive appearances!",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_45",
     "PreviewAward": 22000010,
-    "ConditionShow": []
+    "ConditionShow": [
+      [
+        27,
+        2,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "810018": {
     "Id": 810018,
     "Preview": 41,
-    "PreviewText": "In the underground vaults where void-corrupted souls are bound, even light cannot escape. Earn boots and charm drops, along with exclusive appearances!",
+    "PreviewText": "In the underground vaults where void-corrupted souls are bound, even light cannot escape. Earn weapon, boots, and charm drops, along with exclusive appearances!",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_42",
     "PreviewAward": 22000010,
-    "ConditionShow": []
+    "ConditionShow": [
+      [
+        27,
+        2,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "810019": {
     "Id": 810019,
@@ -389,12 +437,20 @@
     "PreviewText": "To rescue the Cabbage Mission Team, you venture into a mysterious wilderness, where the towering Illusory Bloom seems especially suspicious. Earn weapon drops along with exclusive appearances!",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_47",
     "PreviewAward": 22000010,
-    "ConditionShow": []
+    "ConditionShow": [
+      [
+        27,
+        2,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "810020": {
     "Id": 810020,
     "Preview": 43,
-    "PreviewText": "In the Dreambloom Ruins raid, creatures afflicted by the Illusory Plague no longer belong among their own kind. Within the Caprahorn herd, the old king and the new king clash for dominance. Participate to earn generous rewards!",
+    "PreviewText": "In the 20-player raid Dreambloom Ruins, the immortal stone golem bars the path. Use ancient Divine-tech devices to uncover the true cause of the anomaly. Earn rich rewards for participating!",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_48",
     "PreviewAward": 22000010,
     "ConditionShow": []
@@ -405,7 +461,15 @@
     "PreviewText": "Survive the hazardous unknown and finish the timed spatial investigation to earn high-value gear and materials!",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_51",
     "PreviewAward": 22000010,
-    "ConditionShow": []
+    "ConditionShow": [
+      [
+        27,
+        2,
+        0,
+        0,
+        0
+      ]
+    ]
   },
   "810025": {
     "Id": 810025,
@@ -428,6 +492,86 @@
     "Preview": 47,
     "PreviewText": "To combat the highlands' Illusory Plague, researchers extracted energy from Illusory Blooms and created Slumberdream Valley—a testing ground where uncontrollable illusion power has made everything unpredictable.",
     "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_58",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810039": {
+    "Id": 810039,
+    "Preview": 48,
+    "PreviewText": "Venture deep into the forbidden domain of the Divines, awaken the slumbering ancient deity's remains, and face the final judgment of annihilation energy! Earn Gauntlets and Earrings drops, plus exclusive appearance items!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_59",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810040": {
+    "Id": 810040,
+    "Preview": 49,
+    "PreviewText": "Infiltrate the Mechanized Processing Facility deep within Sislesa Mine and expose the Blackstone Legion's crimes with hard evidence! Earn Helmet and Necklace drops, plus exclusive appearance items!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_60",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810041": {
+    "Id": 810041,
+    "Preview": 50,
+    "PreviewText": "Sink into the dreamscape woven by the Illusory Bloom, awaken the shadows buried in the past, and resolve lingering regrets! Earn Armor and Ring drops, plus exclusive appearance items!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_61",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810042": {
+    "Id": 810042,
+    "Preview": 51,
+    "PreviewText": "Adventurers who trespass into the dense fog are both hunter and prey! Earn Bracelet (L) and Bracelet (R) drops, plus exclusive appearance items!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_62",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810043": {
+    "Id": 810043,
+    "Preview": 52,
+    "PreviewText": "Illusions are nourished within the Illusion. Go deep into the Towering Ruin and purify the corrupted remains! Earn Boots and Charm drops, plus exclusive appearance items!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_63",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810044": {
+    "Id": 810044,
+    "Preview": 53,
+    "PreviewText": "Explore the lost underwater ruins, brave treacherous environments, and investigate the source of the mysterious melody! Earn Weapon drops, plus exclusive appearance items!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_64",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810045": {
+    "Id": 810045,
+    "Preview": 55,
+    "PreviewText": "The seemingly ordinary ruins of the Divines conceal secrets beyond measurement. Even the most precise artisan instruments produce random errors. In the end, the artisans chose to remain, vowing to unravel the mystery.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_67",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810046": {
+    "Id": 810046,
+    "Preview": 56,
+    "PreviewText": "At the lower levels of the ruins of the Bapharian Divines, the hidden and enclosed environment has become a breeding ground for shadows. As a result, illicit dealings from the highlands inevitably make their way here.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_68",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810047": {
+    "Id": 810047,
+    "Preview": 54,
+    "PreviewText": "◆Survive the hazardous unknown and finish the timed survey to earn high-value gear and materials!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_65",
+    "PreviewAward": 22000010,
+    "ConditionShow": []
+  },
+  "810048": {
+    "Id": 810048,
+    "Preview": 5,
+    "PreviewText": "Complete Season Pass quests and achievements to advance your Season Title and earn and develop Emblems. More fun modes, generous rewards, and a Season Store await—clear it out!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_66",
     "PreviewAward": 22000010,
     "ConditionShow": []
   }

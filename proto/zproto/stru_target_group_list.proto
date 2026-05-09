@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_musician_target_group_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message TargetGroupList {
+	map<int32, MusicianTargetGroupData> targetGroupList = 1 [json_name = "targetGroupList"];
+}

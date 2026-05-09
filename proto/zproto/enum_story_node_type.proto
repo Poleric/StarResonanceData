@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+enum StoryNodeType {
+	StoryNodeType_Null = 0;
+	StoryNodeType_Small = 1;
+	StoryNodeType_Big = 2;
+	StoryNodeType_Begin = 3;
+	StoryNodeType_End = 4;
+}

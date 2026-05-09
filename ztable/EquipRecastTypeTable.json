@@ -112,5 +112,23 @@
     "RecastType": 5,
     "RecastItemId": 1022209,
     "AllPurposeItem": 2
+  },
+  "20": {
+    "Id": 20,
+    "RecastType": 5,
+    "RecastItemId": 1022207,
+    "AllPurposeItem": 4
+  },
+  "21": {
+    "Id": 21,
+    "RecastType": 5,
+    "RecastItemId": 1022208,
+    "AllPurposeItem": 4
+  },
+  "22": {
+    "Id": 22,
+    "RecastType": 5,
+    "RecastItemId": 1022209,
+    "AllPurposeItem": 4
   }
 }

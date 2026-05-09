@@ -71,10 +71,12 @@
   },
   "4": {
     "Id": 4,
-    "TargetType": 241,
+    "TargetType": 272,
     "Num": 20,
     "SceneId": 0,
-    "Param": [],
+    "Param": [
+      53
+    ],
     "IfFunctionOpen": 0,
     "FunctionId": 0,
     "Activation": 25,

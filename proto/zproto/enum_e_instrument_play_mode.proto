@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EInstrumentPlayMode {
+	EInstruPlayModeNormal = 0;
+	EInstruPlayModeMusicScore = 1;
+	EInstruPlayModeAutoMusicScore = 2;
+}

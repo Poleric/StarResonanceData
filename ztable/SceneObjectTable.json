@@ -2413,6 +2413,56 @@
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
+  "1206": {
+    "Id": 1206,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        1206
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
   "1301": {
     "Id": 1301,
     "Name": "",
@@ -3109,6 +3159,192 @@
     "Id": 1507,
     "Name": "",
     "ModelID": 34018,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "1508": {
+    "Id": 1508,
+    "Name": "",
+    "ModelID": 34019,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "1509": {
+    "Id": 1509,
+    "Name": "",
+    "ModelID": 34020,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "1510": {
+    "Id": 1510,
+    "Name": "",
+    "ModelID": 34021,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "1511": {
+    "Id": 1511,
+    "Name": "",
+    "ModelID": 34022,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "1512": {
+    "Id": 1512,
+    "Name": "",
+    "ModelID": 34023,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "1513": {
+    "Id": 1513,
+    "Name": "",
+    "ModelID": 34024,
     "AttributeId": 0,
     "ExportVoxel": false,
     "VoxelPath": "",
@@ -8054,6 +8290,175 @@
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
+  "2106": {
+    "Id": 2106,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 320030,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2106
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        821067,
+        0
+      ],
+      [
+        1,
+        0,
+        821039
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "2107": {
+    "Id": 2107,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 320030,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2107
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        821040,
+        0
+      ],
+      [
+        1,
+        0,
+        821039
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "2108": {
+    "Id": 2108,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 320030,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        821084,
+        0
+      ],
+      [
+        1,
+        0,
+        821039
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
   "2110": {
     "Id": 2110,
     "Name": "",
@@ -12232,6 +12637,302 @@
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
+  "3370": {
+    "Id": 3370,
+    "Name": "",
+    "ModelID": 20105,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        1,
+        3370
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        882345,
+        0
+      ],
+      [
+        1,
+        828109,
+        882349
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3371": {
+    "Id": 3371,
+    "Name": "",
+    "ModelID": 20105,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        1,
+        3371
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        882345,
+        0
+      ],
+      [
+        1,
+        828110,
+        882349
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3372": {
+    "Id": 3372,
+    "Name": "",
+    "ModelID": 20105,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        1,
+        3370
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        882345,
+        0
+      ],
+      [
+        1,
+        828111,
+        882349
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3373": {
+    "Id": 3373,
+    "Name": "",
+    "ModelID": 20105,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        1,
+        3370
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        882345,
+        0
+      ],
+      [
+        1,
+        828111,
+        882349
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3374": {
+    "Id": 3374,
+    "Name": "",
+    "ModelID": 20105,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        3370
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        829351,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
   "3381": {
     "Id": 3381,
     "Name": "",
@@ -12359,6 +13060,74 @@
     "StatusTransition": [],
     "DefaultState": 0,
     "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 7900012.0,
+        "y": 4.0
+      }
+    ],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3384": {
+    "Id": 3384,
+    "Name": "",
+    "ModelID": 102905,
+    "AttributeId": 300004,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 1,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        4213
+      ]
+    ],
     "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
@@ -13244,6 +14013,370 @@
     ],
     "InteractionMount": [],
     "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3531": {
+    "Id": 3531,
+    "Name": "",
+    "ModelID": 103201,
+    "AttributeId": 300004,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 7900013.0,
+        "y": 3.0
+      }
+    ],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3532": {
+    "Id": 3532,
+    "Name": "",
+    "ModelID": 103202,
+    "AttributeId": 300004,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 7900013.0,
+        "y": 3.0
+      }
+    ],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3533": {
+    "Id": 3533,
+    "Name": "",
+    "ModelID": 103203,
+    "AttributeId": 300004,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        4141
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3540": {
+    "Id": 3540,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        3540
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        882308,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3541": {
+    "Id": 3541,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        3541
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        882308,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3542": {
+    "Id": 3542,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        3542
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        882308,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "3543": {
+    "Id": 3543,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        3543
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        882308,
+        0
+      ]
+    ],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [],
     "DissolutionCfg": [],
@@ -21445,6 +22578,47 @@
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
+  "11001": {
+    "Id": 11001,
+    "Name": "Starland Buildings",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
   "12011": {
     "Id": 12011,
     "Name": "",
@@ -25757,6 +26931,56 @@
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
+  "40030": {
+    "Id": 40030,
+    "Name": "Energy Tower Conversion",
+    "ModelID": 4,
+    "AttributeId": 0,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        4127
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
   "40100": {
     "Id": 40100,
     "Name": "",
@@ -25900,6 +27124,224 @@
       [
         0,
         6001
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "40201": {
+    "Id": 40201,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 7,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        883611,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "40202": {
+    "Id": 40202,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 7,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        883612,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "40203": {
+    "Id": 40203,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 7,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        883651,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "40204": {
+    "Id": 40204,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 7,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        883652,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "40211": {
+    "Id": 40211,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        4211
       ]
     ],
     "InteractionMount": [],
@@ -27334,6 +28776,154 @@
   },
   "50020": {
     "Id": 50020,
+    "Name": "",
+    "ModelID": 80004,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2001
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000081,
+        0
+      ],
+      [
+        1,
+        7000083,
+        7000082
+      ],
+      [
+        2,
+        7000084,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "50021": {
+    "Id": 50021,
+    "Name": "",
+    "ModelID": 80004,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2001
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000081,
+        0
+      ],
+      [
+        1,
+        7000083,
+        7000082
+      ],
+      [
+        2,
+        7000084,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "50022": {
+    "Id": 50022,
     "Name": "",
     "ModelID": 80004,
     "AttributeId": 300001,
@@ -29849,6 +31439,66 @@
       [
         1,
         828125,
+        0
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "50731": {
+    "Id": 50731,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        1,
+        3605
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        1,
+        829351,
         0
       ]
     ],
@@ -32412,6 +34062,75 @@
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
+  "50936": {
+    "Id": 50936,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
   "50941": {
     "Id": 50941,
     "Name": "",
@@ -34556,6 +36275,765 @@
   },
   "51119": {
     "Id": 51119,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51120": {
+    "Id": 51120,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51121": {
+    "Id": 51121,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51122": {
+    "Id": 51122,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51123": {
+    "Id": 51123,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51124": {
+    "Id": 51124,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51125": {
+    "Id": 51125,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51126": {
+    "Id": 51126,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51127": {
+    "Id": 51127,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51128": {
+    "Id": 51128,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51129": {
+    "Id": 51129,
+    "Name": "",
+    "ModelID": 80011,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 4,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        2004
+      ],
+      [
+        1,
+        2006
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7000061,
+        0
+      ],
+      [
+        1,
+        7000063,
+        7000062
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "51130": {
+    "Id": 51130,
     "Name": "",
     "ModelID": 80011,
     "AttributeId": 300001,
@@ -41272,12 +43750,7 @@
       ]
     ],
     "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        101
-      ]
-    ],
+    "InteractionTemplate": [],
     "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
@@ -46438,6 +48911,282 @@
     "Id": 64411,
     "Name": "",
     "ModelID": 57175,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        1
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "65131": {
+    "Id": 65131,
+    "Name": "",
+    "ModelID": 65131,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        1
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "65132": {
+    "Id": 65132,
+    "Name": "",
+    "ModelID": 5017,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        1
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "65133": {
+    "Id": 65133,
+    "Name": "",
+    "ModelID": 65133,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        1
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "65134": {
+    "Id": 65134,
+    "Name": "",
+    "ModelID": 65134,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        1
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "65135": {
+    "Id": 65135,
+    "Name": "",
+    "ModelID": 65135,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        1
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "65136": {
+    "Id": 65136,
+    "Name": "",
+    "ModelID": 65136,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
@@ -52523,7 +55272,7 @@
   "90397": {
     "Id": 90397,
     "Name": "",
-    "ModelID": 902027,
+    "ModelID": 104117,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
@@ -52554,7 +55303,7 @@
   "90398": {
     "Id": 90398,
     "Name": "",
-    "ModelID": 902027,
+    "ModelID": 570507,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
@@ -52710,6 +55459,347 @@
     "Id": 90403,
     "Name": "",
     "ModelID": 900005,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90500": {
+    "Id": 90500,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90501": {
+    "Id": 90501,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90502": {
+    "Id": 90502,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90503": {
+    "Id": 90503,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90504": {
+    "Id": 90504,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90505": {
+    "Id": 90505,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90506": {
+    "Id": 90506,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90507": {
+    "Id": 90507,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90508": {
+    "Id": 90508,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90509": {
+    "Id": 90509,
+    "Name": "",
+    "ModelID": 902027,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "90510": {
+    "Id": 90510,
+    "Name": "",
+    "ModelID": 902027,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
@@ -53354,351 +56444,6 @@
     "InteractionTemplate": [],
     "InteractionMount": [],
     "ShowStatusInfo": [],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": true,
-    "SeatGroup": []
-  },
-  "130101": {
-    "Id": 130101,
-    "Name": "",
-    "ModelID": 130101,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": -1,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        3
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        1
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        130104
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [
-      [
-        0,
-        880900,
-        0
-      ],
-      [
-        1,
-        880902,
-        880901
-      ]
-    ],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": true,
-    "SeatGroup": []
-  },
-  "130102": {
-    "Id": 130102,
-    "Name": "",
-    "ModelID": 4,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": -1,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        1
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        130102
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [
-      [
-        0,
-        880903,
-        0
-      ],
-      [
-        1,
-        0,
-        880904
-      ]
-    ],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": true,
-    "SeatGroup": []
-  },
-  "130103": {
-    "Id": 130103,
-    "Name": "",
-    "ModelID": 4,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 1000,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": -1,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        1
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        130103
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [
-      [
-        0,
-        880905,
-        0
-      ],
-      [
-        1,
-        0,
-        880906
-      ]
-    ],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": true,
-    "SeatGroup": []
-  },
-  "130104": {
-    "Id": 130104,
-    "Name": "",
-    "ModelID": 130104,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": 3,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        3
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        1
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        130105
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [
-      [
-        0,
-        880907,
-        0
-      ],
-      [
-        1,
-        880909,
-        880908
-      ]
-    ],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": true,
-    "SeatGroup": []
-  },
-  "130105": {
-    "Id": 130105,
-    "Name": "",
-    "ModelID": 130105,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": 3,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        1
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [],
-    "InteractionMount": [],
-    "ShowStatusInfo": [],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": true,
-    "SeatGroup": []
-  },
-  "130106": {
-    "Id": 130106,
-    "Name": "",
-    "ModelID": 4,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 3000,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": -1,
-    "StatusInfo": [
-      [
-        0,
-        3
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        1
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [],
-    "InteractionMount": [],
-    "ShowStatusInfo": [
-      [
-        0,
-        880910,
-        0
-      ],
-      [
-        1,
-        0,
-        880911
-      ]
-    ],
     "ShowStatusTransition": [],
     "AppearDisAppearCfg": [],
     "DissolutionCfg": [],
@@ -56729,116 +59474,6 @@
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
-  "110156": {
-    "Id": 110156,
-    "Name": "",
-    "ModelID": 110161,
-    "AttributeId": 320030,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": 3,
-    "StatusInfo": [
-      [
-        0,
-        3
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        2,
-        2
-      ]
-    ],
-    "StatusTransition": [],
-    "DefaultState": 0,
-    "InteractionTemplate": [],
-    "InteractionMount": [],
-    "ShowStatusInfo": [
-      [
-        0,
-        7020190,
-        0
-      ],
-      [
-        1,
-        7020192,
-        7020191
-      ]
-    ],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": false,
-    "SeatGroup": []
-  },
-  "110157": {
-    "Id": 110157,
-    "Name": "",
-    "ModelID": 110162,
-    "AttributeId": 320030,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": 3,
-    "StatusInfo": [
-      [
-        0,
-        3
-      ],
-      [
-        1,
-        3
-      ],
-      [
-        2,
-        2
-      ]
-    ],
-    "StatusTransition": [],
-    "DefaultState": 0,
-    "InteractionTemplate": [],
-    "InteractionMount": [],
-    "ShowStatusInfo": [
-      [
-        0,
-        7020190,
-        0
-      ],
-      [
-        1,
-        7020192,
-        7020191
-      ]
-    ],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": false,
-    "SeatGroup": []
-  },
   "110154": {
     "Id": 110154,
     "Name": "",
@@ -57011,6 +59646,461 @@
     ],
     "IsNotGround": false,
     "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "110156": {
+    "Id": 110156,
+    "Name": "",
+    "ModelID": 110161,
+    "AttributeId": 320030,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7020190,
+        0
+      ],
+      [
+        1,
+        7020192,
+        7020191
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "110157": {
+    "Id": 110157,
+    "Name": "",
+    "ModelID": 110162,
+    "AttributeId": 320030,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7020190,
+        0
+      ],
+      [
+        1,
+        7020192,
+        7020191
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "130101": {
+    "Id": 130101,
+    "Name": "",
+    "ModelID": 130101,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        130104
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        880900,
+        0
+      ],
+      [
+        1,
+        880902,
+        880901
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": true,
+    "SeatGroup": []
+  },
+  "130102": {
+    "Id": 130102,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        130102
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        880903,
+        0
+      ],
+      [
+        1,
+        0,
+        880904
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": true,
+    "SeatGroup": []
+  },
+  "130103": {
+    "Id": 130103,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 1000,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        130103
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        880905,
+        0
+      ],
+      [
+        1,
+        0,
+        880906
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": true,
+    "SeatGroup": []
+  },
+  "130104": {
+    "Id": 130104,
+    "Name": "",
+    "ModelID": 130104,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        130105
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        880907,
+        0
+      ],
+      [
+        1,
+        880909,
+        880908
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": true,
+    "SeatGroup": []
+  },
+  "130105": {
+    "Id": 130105,
+    "Name": "",
+    "ModelID": 130105,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": true,
+    "SeatGroup": []
+  },
+  "130106": {
+    "Id": 130106,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 3000,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        880910,
+        0
+      ],
+      [
+        1,
+        0,
+        880911
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": true,
     "SeatGroup": []
   },
   "130107": {
@@ -60751,6 +63841,82 @@
   "642301": {
     "Id": 642301,
     "Name": "Soundless City: Gravity Well",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "654101": {
+    "Id": 654101,
+    "Name": "Hunting Grounds Fruit Tree",
+    "ModelID": 654101,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        654101
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "654102": {
+    "Id": 654102,
+    "Name": "Barrier Mist",
     "ModelID": 4,
     "AttributeId": 300001,
     "ExportVoxel": false,
@@ -71117,6 +74283,549 @@
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
+  "731033": {
+    "Id": 731033,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        730015
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731034": {
+    "Id": 731034,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        730018
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731035": {
+    "Id": 731035,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        730019
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731037": {
+    "Id": 731037,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        730021
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731038": {
+    "Id": 731038,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        730022
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731039": {
+    "Id": 731039,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        730023
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731040": {
+    "Id": 731040,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        730025
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731041": {
+    "Id": 731041,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        730026
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731042": {
+    "Id": 731042,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731043": {
+    "Id": 731043,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        730027
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731044": {
+    "Id": 731044,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "731045": {
+    "Id": 731045,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
   "800001": {
     "Id": 800001,
     "Name": "",
@@ -73907,7 +77616,7 @@
   "1100103": {
     "Id": 1100103,
     "Name": "Starland Gold Coin",
-    "ModelID": 1203054,
+    "ModelID": 4,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
@@ -86354,7 +90063,7 @@
     "Id": 9202006,
     "Name": "Common Chest",
     "ModelID": 9202006,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -86451,7 +90160,7 @@
     "Id": 9202007,
     "Name": "Exquisite Chest",
     "ModelID": 9202007,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -86548,7 +90257,7 @@
     "Id": 9202008,
     "Name": "Luxurious Chest",
     "ModelID": 9202008,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -86645,7 +90354,7 @@
     "Id": 9202009,
     "Name": "Random Entry Orb",
     "ModelID": 9202009,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -86894,22 +90603,12 @@
       [
         1,
         2
-      ],
-      [
-        2,
-        3
       ]
     ],
     "StatusTransition": [
       [
         0,
-        2,
-        9202034
-      ],
-      [
-        0,
-        1,
-        9202035
+        0
       ]
     ],
     "DefaultState": 0,
@@ -86917,10 +90616,6 @@
       [
         0,
         9202034
-      ],
-      [
-        0,
-        9202035
       ]
     ],
     "InteractionMount": [],
@@ -87065,7 +90760,7 @@
     "Id": 9202015,
     "Name": "Random Entry Orb",
     "ModelID": 9202010,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -87158,8 +90853,8 @@
   },
   "9202016": {
     "Id": 9202016,
-    "Name": "Uncharged Device",
-    "ModelID": 9202001,
+    "Name": "",
+    "ModelID": 9202036,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
@@ -87190,7 +90885,7 @@
     "InteractionTemplate": [
       [
         0,
-        0
+        9202053
       ]
     ],
     "InteractionMount": [],
@@ -87242,6 +90937,10 @@
       [
         0,
         0
+      ],
+      [
+        1,
+        3
       ]
     ],
     "StatusTransition": [
@@ -87288,7 +90987,7 @@
     "Id": 9202018,
     "Name": "",
     "ModelID": 9200004,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -87309,7 +91008,7 @@
       ],
       [
         1,
-        2
+        3
       ]
     ],
     "StatusTransition": [
@@ -87356,7 +91055,7 @@
     "Id": 9202019,
     "Name": "",
     "ModelID": 9200004,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -87383,7 +91082,7 @@
     "StatusTransition": [
       [
         0,
-        0
+        1
       ]
     ],
     "DefaultState": 0,
@@ -87391,10 +91090,6 @@
       [
         0,
         9202050
-      ],
-      [
-        0,
-        9202053
       ]
     ],
     "InteractionMount": [],
@@ -87410,7 +91105,7 @@
     "Id": 9202020,
     "Name": "Luxurious Chest",
     "ModelID": 9202008,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -87507,7 +91202,7 @@
     "Id": 9202021,
     "Name": "",
     "ModelID": 10006,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 0,
@@ -87553,7 +91248,7 @@
     "Id": 9202022,
     "Name": "",
     "ModelID": 10008,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -87770,7 +91465,7 @@
     "Id": 9202030,
     "Name": "Random Entry Orb",
     "ModelID": 9202010,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -88482,7 +92177,7 @@
     "Id": 9202044,
     "Name": "Luxurious Chest",
     "ModelID": 9202008,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -88579,7 +92274,7 @@
     "Id": 9202045,
     "Name": "\"Common\" Chest",
     "ModelID": 9202006,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -88671,7 +92366,7 @@
     "Id": 9202046,
     "Name": "Luxurious Chest",
     "ModelID": 9202034,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -88891,7 +92586,7 @@
     "Id": 9202049,
     "Name": "Random Entry Orb",
     "ModelID": 9202010,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -88986,7 +92681,7 @@
     "Id": 9202050,
     "Name": "Exquisite Chest",
     "ModelID": 9202007,
-    "AttributeId": 0,
+    "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
@@ -89079,21 +92774,21 @@
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
-  "65131": {
-    "Id": 65131,
+  "9205001": {
+    "Id": 9205001,
     "Name": "",
-    "ModelID": 65131,
+    "ModelID": 9202006,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
     "IsShowHp": false,
-    "BodyDuration": 0,
+    "BodyDuration": 3400,
     "BornDuration": 0,
     "SobjBeHit": "",
     "IsClimbable": false,
     "SceneObjType": 0,
-    "EndStateId": 0,
+    "EndStateId": 1,
     "BornClientBuffs": [],
     "DeadClientBuffs": [],
     "GoLayer": 3,
@@ -89101,45 +92796,96 @@
       [
         0,
         0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
       ]
     ],
     "StatusTransition": [
       [
         0,
-        0
+        1
       ]
     ],
     "DefaultState": 0,
     "InteractionTemplate": [
       [
         0,
-        1
+        9202008
       ]
     ],
     "InteractionMount": [],
-    "ShowStatusInfo": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7520010,
+        0
+      ],
+      [
+        1,
+        7520011,
+        0
+      ],
+      [
+        2,
+        7520012,
+        0
+      ],
+      [
+        3,
+        7520013,
+        0
+      ]
+    ],
     "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
     "IsNotGround": false,
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
-  "65132": {
-    "Id": 65132,
+  "9205002": {
+    "Id": 9205002,
     "Name": "",
-    "ModelID": 5017,
+    "ModelID": 9202007,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
     "IsShowHp": false,
-    "BodyDuration": 0,
+    "BodyDuration": 3400,
     "BornDuration": 0,
     "SobjBeHit": "",
     "IsClimbable": false,
     "SceneObjType": 0,
-    "EndStateId": 0,
+    "EndStateId": 1,
     "BornClientBuffs": [],
     "DeadClientBuffs": [],
     "GoLayer": 3,
@@ -89147,45 +92893,96 @@
       [
         0,
         0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
       ]
     ],
     "StatusTransition": [
       [
         0,
-        0
+        1
       ]
     ],
     "DefaultState": 0,
     "InteractionTemplate": [
       [
         0,
-        1
+        9202009
       ]
     ],
     "InteractionMount": [],
-    "ShowStatusInfo": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7520020,
+        0
+      ],
+      [
+        1,
+        7520021,
+        0
+      ],
+      [
+        2,
+        7520022,
+        0
+      ],
+      [
+        3,
+        7520023,
+        0
+      ]
+    ],
     "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
     "IsNotGround": false,
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
-  "65133": {
-    "Id": 65133,
+  "9205003": {
+    "Id": 9205003,
     "Name": "",
-    "ModelID": 65133,
+    "ModelID": 9202008,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
     "DefaultCamp": 2,
     "IsShowHp": false,
-    "BodyDuration": 0,
+    "BodyDuration": 3400,
     "BornDuration": 0,
     "SobjBeHit": "",
     "IsClimbable": false,
     "SceneObjType": 0,
-    "EndStateId": 0,
+    "EndStateId": 1,
     "BornClientBuffs": [],
     "DeadClientBuffs": [],
     "GoLayer": 3,
@@ -89193,170 +92990,83 @@
       [
         0,
         0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
       ]
     ],
     "StatusTransition": [
       [
         0,
-        0
+        1
       ]
     ],
     "DefaultState": 0,
     "InteractionTemplate": [
       [
         0,
-        1
+        9202010
       ]
     ],
     "InteractionMount": [],
-    "ShowStatusInfo": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7520030,
+        0
+      ],
+      [
+        1,
+        7520031,
+        0
+      ],
+      [
+        2,
+        7520032,
+        0
+      ],
+      [
+        3,
+        7520033,
+        0
+      ]
+    ],
     "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
     "IsNotGround": false,
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
-  "65134": {
-    "Id": 65134,
-    "Name": "",
-    "ModelID": 65134,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": 3,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        0
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        1
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": false,
-    "SeatGroup": []
-  },
-  "65135": {
-    "Id": 65135,
-    "Name": "",
-    "ModelID": 65135,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": 3,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        0
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        1
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": false,
-    "SeatGroup": []
-  },
-  "65136": {
-    "Id": 65136,
-    "Name": "",
-    "ModelID": 65136,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": 3,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        0
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        1
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": false,
-    "SeatGroup": []
-  },
-  "731033": {
-    "Id": 731033,
+  "9205004": {
+    "Id": 9205004,
     "Name": "",
     "ModelID": 4,
     "AttributeId": 300001,
@@ -89372,7 +93082,93 @@
     "EndStateId": 0,
     "BornClientBuffs": [],
     "DeadClientBuffs": [],
-    "GoLayer": -1,
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        9202080
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205005": {
+    "Id": 9205005,
+    "Name": "",
+    "ModelID": 4,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        3
+      ]
+    ],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205010": {
+    "Id": 9205010,
+    "Name": "",
+    "ModelID": 7065001,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
     "StatusInfo": [
       [
         0,
@@ -89393,22 +93189,40 @@
     "InteractionTemplate": [
       [
         0,
-        730015
+        9205010
       ]
     ],
     "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
     "IsNotGround": false,
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
-  "731034": {
-    "Id": 731034,
+  "9205011": {
+    "Id": 9205011,
     "Name": "",
-    "ModelID": 4,
+    "ModelID": 9202035,
     "AttributeId": 300001,
     "ExportVoxel": false,
     "VoxelPath": "",
@@ -89422,7 +93236,7 @@
     "EndStateId": 0,
     "BornClientBuffs": [],
     "DeadClientBuffs": [],
-    "GoLayer": -1,
+    "GoLayer": 3,
     "StatusInfo": [
       [
         0,
@@ -89430,234 +93244,70 @@
       ],
       [
         1,
-        2
+        0
       ]
     ],
     "StatusTransition": [
       [
         0,
         0
+      ],
+      [
+        1,
+        1,
+        9205012
+      ],
+      [
+        1,
+        1,
+        9205011
       ]
     ],
     "DefaultState": 0,
     "InteractionTemplate": [
       [
         0,
-        730018
+        9205012
+      ],
+      [
+        1,
+        9205012
+      ],
+      [
+        1,
+        9205011
       ]
     ],
     "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
     "IsNotGround": false,
     "IsCanShapeShift": false,
     "SeatGroup": []
   },
-  "731035": {
-    "Id": 731035,
+  "9205012": {
+    "Id": 9205012,
     "Name": "",
-    "ModelID": 4,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": -1,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        0
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        730019
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": false,
-    "SeatGroup": []
-  },
-  "731037": {
-    "Id": 731037,
-    "Name": "",
-    "ModelID": 4,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": -1,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        0
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        730021
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": false,
-    "SeatGroup": []
-  },
-  "731038": {
-    "Id": 731038,
-    "Name": "",
-    "ModelID": 4,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": -1,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        0
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        730022
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": false,
-    "SeatGroup": []
-  },
-  "731039": {
-    "Id": 731039,
-    "Name": "",
-    "ModelID": 4,
-    "AttributeId": 300001,
-    "ExportVoxel": false,
-    "VoxelPath": "",
-    "DefaultCamp": 2,
-    "IsShowHp": false,
-    "BodyDuration": 0,
-    "BornDuration": 0,
-    "SobjBeHit": "",
-    "IsClimbable": false,
-    "SceneObjType": 0,
-    "EndStateId": 0,
-    "BornClientBuffs": [],
-    "DeadClientBuffs": [],
-    "GoLayer": -1,
-    "StatusInfo": [
-      [
-        0,
-        0
-      ],
-      [
-        1,
-        2
-      ]
-    ],
-    "StatusTransition": [
-      [
-        0,
-        0
-      ]
-    ],
-    "DefaultState": 0,
-    "InteractionTemplate": [
-      [
-        0,
-        730023
-      ]
-    ],
-    "InteractionMount": [],
-    "ShowStatusInfo": [],
-    "ShowStatusTransition": [],
-    "AppearDisAppearCfg": [],
-    "DissolutionCfg": [],
-    "IsNotGround": false,
-    "IsCanShapeShift": false,
-    "SeatGroup": []
-  },
-  "11001": {
-    "Id": 11001,
-    "Name": "Starland Buildings",
     "ModelID": 80011,
     "AttributeId": 300001,
     "ExportVoxel": false,
@@ -89672,11 +93322,84 @@
     "EndStateId": 0,
     "BornClientBuffs": [],
     "DeadClientBuffs": [],
-    "GoLayer": 3,
+    "GoLayer": -1,
     "StatusInfo": [
       [
         0,
         0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        3200
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        997389,
+        0
+      ],
+      [
+        1,
+        0,
+        997390
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205013": {
+    "Id": 9205013,
+    "Name": "",
+    "ModelID": 9202010,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
       ]
     ],
     "StatusTransition": [
@@ -89686,7 +93409,569 @@
       ]
     ],
     "DefaultState": 0,
-    "InteractionTemplate": [],
+    "InteractionTemplate": [
+      [
+        0,
+        9205020
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [
+      [
+        0,
+        7520034,
+        0
+      ],
+      [
+        1,
+        7520030,
+        0
+      ],
+      [
+        2,
+        7520034,
+        7520031
+      ]
+    ],
+    "ShowStatusTransition": [
+      "0=1=1=69=0",
+      "1=2=1=69=1"
+    ],
+    "AppearDisAppearCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205014": {
+    "Id": 9205014,
+    "Name": "",
+    "ModelID": 7065001,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": -1,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        9205014
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205021": {
+    "Id": 9205021,
+    "Name": "",
+    "ModelID": 9202001,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0,
+        9205034
+      ],
+      [
+        1,
+        1,
+        9205033
+      ],
+      [
+        0,
+        2,
+        9202001
+      ],
+      [
+        1,
+        2,
+        9202001
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        9202001
+      ],
+      [
+        1,
+        9202001
+      ],
+      [
+        1,
+        9205033
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205022": {
+    "Id": 9205022,
+    "Name": "",
+    "ModelID": 9202001,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0,
+        9205034
+      ],
+      [
+        1,
+        1,
+        9205033
+      ],
+      [
+        0,
+        2,
+        9202002
+      ],
+      [
+        1,
+        2,
+        9202002
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        9202002
+      ],
+      [
+        1,
+        9202002
+      ],
+      [
+        1,
+        9205033
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205023": {
+    "Id": 9205023,
+    "Name": "",
+    "ModelID": 9202001,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0,
+        9205034
+      ],
+      [
+        1,
+        1,
+        9205033
+      ],
+      [
+        0,
+        2,
+        9202003
+      ],
+      [
+        1,
+        2,
+        9202003
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        9202003
+      ],
+      [
+        1,
+        9202003
+      ],
+      [
+        1,
+        9205033
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205024": {
+    "Id": 9205024,
+    "Name": "",
+    "ModelID": 9202001,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0,
+        9205034
+      ],
+      [
+        1,
+        1,
+        9205033
+      ],
+      [
+        0,
+        2,
+        9202004
+      ],
+      [
+        1,
+        2,
+        9202004
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        9202004
+      ],
+      [
+        1,
+        9202004
+      ],
+      [
+        1,
+        9205033
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205025": {
+    "Id": 9205025,
+    "Name": "",
+    "ModelID": 9202001,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0,
+        9205034
+      ],
+      [
+        1,
+        1,
+        9205033
+      ],
+      [
+        0,
+        2,
+        9202005
+      ],
+      [
+        1,
+        2,
+        9202005
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        9202005
+      ],
+      [
+        1,
+        9202005
+      ],
+      [
+        1,
+        9205033
+      ]
+    ],
+    "InteractionMount": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "IsCanShapeShift": false,
+    "SeatGroup": []
+  },
+  "9205026": {
+    "Id": 9205026,
+    "Name": "",
+    "ModelID": 9202001,
+    "AttributeId": 300001,
+    "ExportVoxel": false,
+    "VoxelPath": "",
+    "DefaultCamp": 2,
+    "IsShowHp": false,
+    "BodyDuration": 0,
+    "BornDuration": 0,
+    "SobjBeHit": "",
+    "IsClimbable": false,
+    "SceneObjType": 0,
+    "EndStateId": 0,
+    "BornClientBuffs": [],
+    "DeadClientBuffs": [],
+    "GoLayer": 3,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        9205035
+      ],
+      [
+        1,
+        9205035
+      ],
+      [
+        1,
+        9205033
+      ]
+    ],
     "InteractionMount": [],
     "ShowStatusInfo": [],
     "ShowStatusTransition": [],

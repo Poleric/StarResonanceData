@@ -1077,6 +1077,29 @@
     "DefaultCamp": 0,
     "LifeInfo": []
   },
+  "1062": {
+    "Id": 1062,
+    "Name": "S3蒂娜BOSS交互门",
+    "ModelID": 50002,
+    "EffectPath": "effect/boss/shihuacanying/p_fx_crimson_armor_fissure_loop",
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        100130
+      ]
+    ],
+    "InteractionMount": [],
+    "InteractionTriggerCondition": [],
+    "InteractionCondition": [],
+    "InteractionAction": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "DefaultCamp": 0,
+    "LifeInfo": []
+  },
   "1070": {
     "Id": 1070,
     "Name": "预设拍照触发点",

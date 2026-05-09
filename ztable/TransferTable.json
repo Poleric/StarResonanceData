@@ -181,19 +181,19 @@
   },
   "50016": {
     "Id": 50016,
-    "Name": "Teleport - Cave 1",
+    "Name": "Teleport - Sunken Corridor",
     "TransferType": 1,
     "MapId": 91,
     "PivotId": 0,
     "TransferDec": "In this area where Engram converges, adventurers can resonate with it to perceive the flow of Engram throughout the area, thereby obtaining the map information of the area.<br>Using Engram abilities allows for quick movement among activated Hubs and Teleporters.",
-    "ScenePoint": 1,
+    "ScenePoint": 10,
     "AwardId": [],
     "IsOn": false,
     "SceneTag": 501
   },
   "50017": {
     "Id": 50017,
-    "Name": "Teleport - Cave 2",
+    "Name": "Teleport - Gloomy Depths",
     "TransferType": 1,
     "MapId": 92,
     "PivotId": 0,
@@ -229,12 +229,36 @@
   },
   "50020": {
     "Id": 50020,
-    "Name": "Teleport - Sunset Woodland",
+    "Name": "Teleport - Sunset Wilds",
     "TransferType": 1,
     "MapId": 95,
     "PivotId": 0,
     "TransferDec": "In this area where Engram converges, adventurers can resonate with it to perceive the flow of Engram throughout the area, thereby obtaining the map information of the area.<br>Using Engram abilities allows for quick movement among activated Hubs and Teleporters.",
-    "ScenePoint": 1,
+    "ScenePoint": 7,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 501
+  },
+  "50021": {
+    "Id": 50021,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 88,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 501
+  },
+  "50022": {
+    "Id": 50022,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 221,
     "AwardId": [],
     "IsOn": false,
     "SceneTag": 501
@@ -599,6 +623,18 @@
     "IsOn": true,
     "SceneTag": 732
   },
+  "50731": {
+    "Id": 50731,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 95,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 342,
+    "AwardId": [],
+    "IsOn": true,
+    "SceneTag": 732
+  },
   "50801": {
     "Id": 50801,
     "Name": "Town Gate Square",
@@ -841,7 +877,7 @@
   },
   "50910": {
     "Id": 50910,
-    "Name": "Cave Teleporter 1",
+    "Name": "Teleport - Mossy Hanging Garden",
     "TransferType": 1,
     "MapId": 91,
     "PivotId": 50016,
@@ -853,7 +889,7 @@
   },
   "50911": {
     "Id": 50911,
-    "Name": "Cave Teleporter 2",
+    "Name": "Teleport - Stone Vein Hollow",
     "TransferType": 1,
     "MapId": 91,
     "PivotId": 50016,
@@ -865,19 +901,19 @@
   },
   "50912": {
     "Id": 50912,
-    "Name": "Cave Teleporter 3",
+    "Name": "Teleport - Haven Corridor",
     "TransferType": 1,
     "MapId": 91,
     "PivotId": 50016,
     "TransferDec": "They are teleportation device left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
-    "ScenePoint": 1,
+    "ScenePoint": 39,
     "AwardId": [],
     "IsOn": false,
     "SceneTag": 105
   },
   "50920": {
     "Id": 50920,
-    "Name": "Cave 2 Teleporter 1",
+    "Name": "Teleport - Stone Spring Crevice",
     "TransferType": 1,
     "MapId": 92,
     "PivotId": 50017,
@@ -889,7 +925,7 @@
   },
   "50921": {
     "Id": 50921,
-    "Name": "Cave 2 Teleporter 2",
+    "Name": "Teleport - Tidebreath Chamber",
     "TransferType": 1,
     "MapId": 92,
     "PivotId": 50017,
@@ -901,7 +937,7 @@
   },
   "50922": {
     "Id": 50922,
-    "Name": "Cave 2 Teleporter 3",
+    "Name": "Teleport - Undercurrent's End",
     "TransferType": 1,
     "MapId": 92,
     "PivotId": 50017,
@@ -1043,6 +1079,18 @@
     "IsOn": false,
     "SceneTag": 105
   },
+  "50936": {
+    "Id": 50936,
+    "Name": "Sislesa Mine - Cavern Zero",
+    "TransferType": 1,
+    "MapId": 9,
+    "PivotId": 0,
+    "TransferDec": "These are teleportation devices left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
+    "ScenePoint": 4851,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
   "50941": {
     "Id": 50941,
     "Name": "Luminous Grove",
@@ -1093,15 +1141,15 @@
   },
   "50945": {
     "Id": 50945,
-    "Name": "Teleport - Sunset Woodland 1",
+    "Name": "Teleport - Sunfall Plains",
     "TransferType": 1,
     "MapId": 95,
-    "PivotId": 0,
+    "PivotId": 50020,
     "TransferDec": "They are teleportation device left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
-    "ScenePoint": 0,
+    "ScenePoint": 2,
     "AwardId": [],
     "IsOn": false,
-    "SceneTag": 0
+    "SceneTag": 105
   },
   "50946": {
     "Id": 50946,
@@ -1117,51 +1165,51 @@
   },
   "50947": {
     "Id": 50947,
-    "Name": "Teleport - Sunset Woodland 2",
+    "Name": "Teleport - Windrest Platform",
     "TransferType": 1,
     "MapId": 95,
-    "PivotId": 0,
+    "PivotId": 50020,
     "TransferDec": "These are teleportation devices left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
-    "ScenePoint": 0,
+    "ScenePoint": 9,
     "AwardId": [],
     "IsOn": false,
-    "SceneTag": 0
+    "SceneTag": 105
   },
   "50948": {
     "Id": 50948,
-    "Name": "Teleport - Sunset Woodland 3",
+    "Name": "Teleport - Homeward Bird Valley",
     "TransferType": 1,
     "MapId": 95,
-    "PivotId": 0,
+    "PivotId": 50020,
     "TransferDec": "These are teleportation devices left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
-    "ScenePoint": 0,
+    "ScenePoint": 11,
     "AwardId": [],
     "IsOn": false,
-    "SceneTag": 0
+    "SceneTag": 105
   },
   "50949": {
     "Id": 50949,
-    "Name": "Teleport - Sunset Woodland 4",
+    "Name": "Teleport - Golden Spring",
     "TransferType": 1,
     "MapId": 95,
-    "PivotId": 0,
+    "PivotId": 50020,
     "TransferDec": "These are teleportation devices left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
-    "ScenePoint": 0,
+    "ScenePoint": 13,
     "AwardId": [],
     "IsOn": false,
-    "SceneTag": 0
+    "SceneTag": 105
   },
   "50950": {
     "Id": 50950,
-    "Name": "Teleport - Sunset Woodland 5",
+    "Name": "Teleport - Crimson Leaf Corridor",
     "TransferType": 1,
     "MapId": 95,
-    "PivotId": 0,
+    "PivotId": 50020,
     "TransferDec": "These are teleportation devices left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
-    "ScenePoint": 0,
+    "ScenePoint": 15,
     "AwardId": [],
     "IsOn": false,
-    "SceneTag": 0
+    "SceneTag": 105
   },
   "51111": {
     "Id": 51111,
@@ -1215,25 +1263,25 @@
     "Id": 51115,
     "Name": "Teleport - House of Dreams \"Daylight\"",
     "TransferType": 1,
-    "MapId": 0,
+    "MapId": 11,
     "PivotId": 0,
     "TransferDec": "These are teleportation devices left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
     "ScenePoint": 332,
     "AwardId": [],
-    "IsOn": false,
-    "SceneTag": 0
+    "IsOn": true,
+    "SceneTag": 1105
   },
   "51116": {
     "Id": 51116,
     "Name": "Teleport - Distant Mountain",
     "TransferType": 1,
-    "MapId": 0,
+    "MapId": 11,
     "PivotId": 0,
     "TransferDec": "These are teleportation devices left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
     "ScenePoint": 334,
     "AwardId": [],
-    "IsOn": false,
-    "SceneTag": 0
+    "IsOn": true,
+    "SceneTag": 1106
   },
   "51117": {
     "Id": 51117,
@@ -1270,6 +1318,138 @@
     "AwardId": [],
     "IsOn": true,
     "SceneTag": 1109
+  },
+  "51120": {
+    "Id": 51120,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 3,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51121": {
+    "Id": 51121,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 31,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51122": {
+    "Id": 51122,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 33,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51123": {
+    "Id": 51123,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 74,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51124": {
+    "Id": 51124,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 76,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51125": {
+    "Id": 51125,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 83,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51126": {
+    "Id": 51126,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 90,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51127": {
+    "Id": 51127,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 223,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51128": {
+    "Id": 51128,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 92,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51129": {
+    "Id": 51129,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 348,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
+  },
+  "51130": {
+    "Id": 51130,
+    "Name": "",
+    "TransferType": 1,
+    "MapId": 10,
+    "PivotId": 0,
+    "TransferDec": "",
+    "ScenePoint": 393,
+    "AwardId": [],
+    "IsOn": false,
+    "SceneTag": 105
   },
   "512001": {
     "Id": 512001,

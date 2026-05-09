@@ -74,7 +74,7 @@
     "MasteryDes": [
       [
         "",
-        "Each 1% Mastery increases the DMG of skills that use Thunder Sigils by 2.8%<br>"
+        "Each 1% Mastery increases the DMG of skills that use Thunder Sigils by 3.4%<br>"
       ],
       [
         "",
@@ -176,7 +176,7 @@
       ],
       [
         "",
-        "Each 1% Mastery grants 1% Ice Energy gain efficiency and 0.4% Ice Bonus<br>"
+        "Each 1% Mastery grants 1% Ice Energy gain efficiency and 0.2% Ice Bonus.<br>Mastery Enhancement: Each 1% Mastery increases the Ice Bonus conversion ratio by 3%.<br>"
       ]
     ],
     "AttackShow": [
@@ -205,10 +205,10 @@
   "3": {
     "Id": 3,
     "ProfessionId": 3,
-    "Name": "Flame Vanguard",
-    "LineFeedName": "Flame Vanguard",
-    "Icon": "ui/atlas/profession/profession_horizontal_01",
-    "Intro": "A melee weapon with outstanding offensive power.<br>Each strike can inflict <color=#fcbe03>Ignite</color>, dealing <color=#fcbe03>Special DMG</color>.<br>By stacking Energy, unleashes an <color=#fcbe03>Ultimate</color>, entering a powerful burst state. Boosting <color=#fcbe03>Attack SPD</color> greatly increases DMG during this state.",
+    "Name": "Twin Striker",
+    "LineFeedName": "Twin Striker",
+    "Icon": "ui/atlas/profession/profession_horizontal_09",
+    "Intro": "Excels in <color=#fcbe03>close-range</color> combat, using <color=#fcbe03>Dual Axes</color> as a weapon. Moves are as swift and fierce as fire, with excellent <color=#fcbe03>small-area attack</color> capabilities.",
     "Element": 1,
     "Talent": 1,
     "TalentColor": "#db8787",
@@ -248,31 +248,31 @@
     ],
     "TalentSkill": [],
     "ShowTalentStage": [
-      124,
-      125
+      128,
+      129
     ],
-    "Create": 0,
-    "IsOpen": false,
+    "Create": 1,
+    "IsOpen": true,
     "Index": 9,
     "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
     "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
-    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
-    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_9",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_9",
     "UnlockCondition": [
       [
         2,
-        170100,
+        170108,
         2
       ]
     ],
     "MasteryDes": [
       [
         "",
-        "Adds Fire DMG<br>"
+        "Each 1% Mastery provides 3.2% CD Boost for Blazing Assault, Rage Cleave, and Axe Wind, and 0.2% ATK.<br>"
       ],
       [
         "",
-        "Adds Fire DMG<br>"
+        "Each 1% Mastery grants 0.72% Fire Bonus.<br>"
       ]
     ],
     "AttackShow": [
@@ -296,7 +296,7 @@
       ]
     ],
     "RangeType": 0,
-    "WeaponSkinId": 7330001
+    "WeaponSkinId": 7330002
   },
   "4": {
     "Id": 4,
@@ -372,7 +372,7 @@
     "MasteryDes": [
       [
         "",
-        "Each 1% Mastery increases Wind Bonus by 0.72%<br>"
+        "Each 1% Mastery grants 0.35% Wind Bonus.<br>Mastery Enhancement: Each 1% Mastery increases the Wind Bonus conversion ratio by 3%.<br>"
       ],
       [
         "",

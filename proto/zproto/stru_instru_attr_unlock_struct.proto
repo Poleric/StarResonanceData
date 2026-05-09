@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_attr_unlock_value_list_struct.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message InstruAttrUnlockStruct {
+	map<int32, AttrUnlockValueListStruct> unlockListMap = 1 [json_name = "unlockListMap"];
+	int32 curMusicRangeMinValue = 2 [json_name = "curMusicRangeMinValue"];
+	int32 curMusicRangeMaxValue = 3 [json_name = "curMusicRangeMaxValue"];
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EInteractionAbortType {
+	EInteractionAbortTypeNone = 0;
+	EInteractionAbortTypeUI = 1;
+	EInteractionAbortTypeInputMove = 2;
+	EInteractionAbortTypeBehit = 3;
+}

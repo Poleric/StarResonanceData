@@ -1492,7 +1492,7 @@
     "Text": "Wind Fury",
     "Type": 3,
     "Par": 3401187,
-    "Description": "Increases DMG dealt by <style=\"accent-gn\">15%</style> for <style=\"accent-gn\">15s</style>.",
+    "Description": "Increases DMG dealt by <style=\"accent-gn\">15%</style> and Attack SPD by <style=\"accent-gn\">10%</style> for <style=\"accent-gn\">15s</style>.",
     "ShowRule": 1
   },
   "1188": {
@@ -1596,7 +1596,7 @@
     "Text": "Fantasia Impact",
     "Type": 3,
     "Par": 3401200,
-    "Description": "Luck Effect: Deals Adaptive DMG equal to <style=\"accent-gn\">1250%</style> ATK to enemies within <style=\"accent-gn\">3m</style>.",
+    "Description": "Luck Effect: Deals Adaptive DMG equal to <style=\"accent-gn\">1375%</style> ATK to enemies within <style=\"accent-gn\">3m</style>, but cannot Crit.",
     "ShowRule": 1
   },
   "1201": {
@@ -1604,7 +1604,7 @@
     "Text": "Phantom Execution",
     "Type": 3,
     "Par": 3401201,
-    "Description": "Deals Adaptive DMG equal to <style=\"accent-gn\">650%</style> ATK to the enemies within <style=\"accent-gn\">3m</style>, and the Crit DMG reaches <style=\"accent-gn\">500%</style>.",
+    "Description": "Deals Adaptive DMG equal to <style=\"accent-gn\">850%</style> ATK to the enemies within <style=\"accent-gn\">3m</style>, and the Crit DMG reaches <style=\"accent-gn\">500%</style>.",
     "ShowRule": 1
   },
   "1202": {
@@ -1700,7 +1700,7 @@
     "Text": "Burn.",
     "Type": 3,
     "Par": 3401213,
-    "Description": "Deals <style=\"accent-gn\">30% x stack count</style> ATK as <style=\"physical\">Attack DMG</style> every <style=\"accent-gn\">2</style>s for <style=\"accent-gn\">10</style>s. Stacks up to <style=\"accent-gn\">10</style> times. When <style=\"accent-gn\">Burn</style> reaches max stacks, newly inflicted <style=\"accent-gn\">Burn</style> stacks immediately deal <style=\"accent-gn\">30%</style> ATK as <style=\"physical\">Attack DMG</style> once.",
+    "Description": "Deals <style=\"accent-gn\">35% × stack count</style> ATK as <style=\"physical\">Attack DMG</style> every <style=\"accent-gn\">2</style>s for <style=\"accent-gn\">10</style>s, stacking up to <style=\"accent-gn\">10</style> times. When <style=\"accent-gn\">Burn</style> reaches max stacks, any newly applied <style=\"accent-gn\">Burn</style> immediately deals <style=\"accent-gn\">35%</style> ATK as <style=\"physical\">Attack DMG</style>.",
     "ShowRule": 1
   },
   "1214": {
@@ -1708,7 +1708,7 @@
     "Text": "Explosion.",
     "Type": 3,
     "Par": 3401214,
-    "Description": "Deals <style=\"accent-gn\">60%</style> ATK as <style=\"physical\">Attack DMG</style> to enemies in range, and grants <style=\"accent-gn\">10</style> <style=\"accent-gn\">Flame Soul</style>.",
+    "Description": "Deals <style=\"accent-gn\">800%</style> ATK as <style=\"physical\">Attack DMG</style> to enemies in range, and grants <style=\"accent-gn\">10</style> <style=\"accent-gn\">Flame Soul</style>.",
     "ShowRule": 1
   },
   "1215": {
@@ -1716,7 +1716,7 @@
     "Text": "Hellfire Meteor.",
     "Type": 3,
     "Par": 3401215,
-    "Description": "Deals <style=\"accent-gn\">300%</style> ATK as <style=\"physical\">Attack DMG</style> to enemy targets.",
+    "Description": "Deals <style=\"accent-gn\">500%</style> ATK as <style=\"physical\">Attack DMG</style> to enemy targets.",
     "ShowRule": 1
   },
   "1216": {
@@ -1724,7 +1724,23 @@
     "Text": "Formless Flame Slash.",
     "Type": 3,
     "Par": 3401216,
-    "Description": "Every hit has a chance to add further stages:<br>Formless Flame Slash<style=\"accent-gn\"> Stage 1</style> Chance: <style=\"accent-gn\">30%</style>. <br>Formless Flame Slash<style=\"accent-gn\"> Stage 2</style> Chance: <style=\"accent-gn\">10%</style>.<br>Formless Flame Slash<style=\"accent-gn\"> Stage 3</style> Chance: <style=\"accent-gn\">3%</style>.",
+    "Description": "Each hit has a chance to add extra stages based on the current skill multiplier:<br>Formless Flame Slash<style=\"accent-gn\"> Stage 1</style> Chance: <style=\"accent-gn\">20%</style>.<br>Formless Flame Slash<style=\"accent-gn\"> Stage 2</style> Chance: <style=\"accent-gn\">10%</style>.<br>Formless Flame Slash<style=\"accent-gn\"> Stage 3</style> Chance: <style=\"accent-gn\">5%</style>.",
+    "ShowRule": 1
+  },
+  "1217": {
+    "Id": 1217,
+    "Text": "Great Crimson Lotus",
+    "Type": 3,
+    "Par": 3401217,
+    "Description": "Deals <style=\"physical\">Attack DMG</style> equal to <style=\"accent-gn\">800%</style> of ATK to enemies within range.",
+    "ShowRule": 1
+  },
+  "1218": {
+    "Id": 1218,
+    "Text": "Flame Suppression",
+    "Type": 3,
+    "Par": 3401218,
+    "Description": "When taking DMG, if own HP percentage is higher than the attacker's, DMG taken from that attacker is reduced by <style=\"accent-gn\">10%</style>.<br>When dealing DMG, if own HP percentage is higher than the target's, DMG dealt to that target is increased by <style=\"accent-gn\">5%</style>.",
     "ShowRule": 1
   },
   "1500": {
@@ -2689,7 +2705,7 @@
   },
   "1621": {
     "Id": 1621,
-    "Text": "Frenzied Slash.",
+    "Text": "Frenzied Slash",
     "Type": 2,
     "Par": 1606,
     "Description": "",
@@ -2713,7 +2729,7 @@
   },
   "1624": {
     "Id": 1624,
-    "Text": "Whirlwind Slash.",
+    "Text": "Axe Wind",
     "Type": 2,
     "Par": 1612,
     "Description": "",

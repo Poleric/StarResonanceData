@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "stru_musician_target_group_data.proto";
+import "stru_target_group_list.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message MusicianData {
+	int32 musicianId = 1 [json_name = "musicianId"];
+	int32 level = 2 [json_name = "level"];
+	int32 exp = 3 [json_name = "exp"];
+	TargetGroupList dailyTargetGroupList = 4 [json_name = "dailyTargetGroupList"];
+	TargetGroupList weeklyTargetGroupList = 5 [json_name = "weeklyTargetGroupList"];
+	MusicianTargetGroupData mainTargetGroup = 6 [json_name = "mainTargetGroup"];
+	map<int32, bool> awardMap = 7 [json_name = "awardMap"];
+}

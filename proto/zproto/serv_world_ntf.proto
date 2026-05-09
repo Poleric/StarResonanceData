@@ -12,7 +12,9 @@ import "stru_dungeon_ready_info.proto";
 import "stru_dungeon_sync_data.proto";
 import "stru_enter_match_result_ntf_request.proto";
 import "stru_entry_random_data_param.proto";
+import "stru_entry_upgrade_data_param.proto";
 import "stru_invite_apply_ride_param.proto";
+import "stru_item_warn_notify.proto";
 import "stru_mahjong_end_ntf_request.proto";
 import "stru_mahjong_start_ntf_request.proto";
 import "stru_notice_info.proto";
@@ -236,6 +238,10 @@ message WorldNtf {
 		NoticeMultiLanguageInfo vInfo = 1 [json_name = "vInfo"];
 	}
 
+	message NotifyItemWarn {
+		ItemWarnNotify vInfo = 1 [json_name = "vInfo"];
+	}
+
 	message QteBegin {
 		uint32 qteId = 1 [json_name = "qteId"];
 	}
@@ -298,6 +304,10 @@ message WorldNtf {
 
 	message NotifyEntryRandomData {
 		EntryRandomDataParam param = 1 [json_name = "param"];
+	}
+
+	message NotifyEntryUpgradeData {
+		EntryUpgradeDataParam param = 1 [json_name = "param"];
 	}
 
 	message NotifyPlayDataAttackInfo {

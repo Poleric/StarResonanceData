@@ -1179,16 +1179,6 @@
     "BeHitAct": "",
     "VehicleID": 0
   },
-  "130": {
-    "Id": 130,
-    "Name": "1440龙爪罗罗拉",
-    "Type": 1,
-    "RoleID": 1440,
-    "WeaponID": 10,
-    "ModelType": 0,
-    "BeHitAct": "",
-    "VehicleID": 0
-  },
   "119": {
     "Id": 119,
     "Name": "1701丹佛",
@@ -1249,32 +1239,12 @@
     "BeHitAct": "",
     "VehicleID": 0
   },
-  "28013": {
-    "Id": 28013,
-    "Name": "28013卫刃助战NPC",
-    "Type": 0,
-    "RoleID": 1,
-    "WeaponID": 2000107,
-    "ModelType": 0,
-    "BeHitAct": "",
-    "VehicleID": 0
-  },
   "125": {
     "Id": 125,
     "Name": "17000暴戾野猪",
     "Type": 1,
     "RoleID": 17000,
     "WeaponID": 0,
-    "ModelType": 0,
-    "BeHitAct": "",
-    "VehicleID": 0
-  },
-  "28016": {
-    "Id": 28016,
-    "Name": "28016法杖助战NPC",
-    "Type": 0,
-    "RoleID": 1,
-    "WeaponID": 2,
     "ModelType": 0,
     "BeHitAct": "",
     "VehicleID": 0
@@ -1315,6 +1285,16 @@
     "Type": 1,
     "RoleID": 17004,
     "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "130": {
+    "Id": 130,
+    "Name": "1440龙爪罗罗拉",
+    "Type": 1,
+    "RoleID": 1440,
+    "WeaponID": 10,
     "ModelType": 0,
     "BeHitAct": "",
     "VehicleID": 0
@@ -2009,41 +1989,11 @@
     "BeHitAct": "",
     "VehicleID": 0
   },
-  "10064": {
-    "Id": 10064,
-    "Name": "10064精英黯影枪手",
-    "Type": 1,
-    "RoleID": 10064,
-    "WeaponID": 0,
-    "ModelType": 0,
-    "BeHitAct": "",
-    "VehicleID": 0
-  },
   "200": {
     "Id": 200,
     "Name": "10106黑石军团星元铳士",
     "Type": 1,
     "RoleID": 10106,
-    "WeaponID": 0,
-    "ModelType": 0,
-    "BeHitAct": "",
-    "VehicleID": 0
-  },
-  "10065": {
-    "Id": 10065,
-    "Name": "10065精英黯影剑士",
-    "Type": 1,
-    "RoleID": 10065,
-    "WeaponID": 0,
-    "ModelType": 0,
-    "BeHitAct": "",
-    "VehicleID": 0
-  },
-  "10066": {
-    "Id": 10066,
-    "Name": "10066精英黯影法师",
-    "Type": 1,
-    "RoleID": 130111,
     "WeaponID": 0,
     "ModelType": 0,
     "BeHitAct": "",
@@ -2999,16 +2949,6 @@
     "BeHitAct": "",
     "VehicleID": 0
   },
-  "69102": {
-    "Id": 69102,
-    "Name": "69102年兽雷魔",
-    "Type": 1,
-    "RoleID": 69102,
-    "WeaponID": 0,
-    "ModelType": 0,
-    "BeHitAct": "",
-    "VehicleID": 0
-  },
   "298": {
     "Id": 298,
     "Name": "11024梦魇角羊",
@@ -3018,16 +2958,6 @@
     "ModelType": 0,
     "BeHitAct": "",
     "VehicleID": 0
-  },
-  "403": {
-    "Id": 403,
-    "Name": "4700舞龙舞狮",
-    "Type": 0,
-    "RoleID": 1,
-    "WeaponID": 0,
-    "ModelType": 0,
-    "BeHitAct": "",
-    "VehicleID": 75073
   },
   "299": {
     "Id": 299,
@@ -3279,6 +3209,16 @@
     "BeHitAct": "",
     "VehicleID": 0
   },
+  "324": {
+    "Id": 324,
+    "Name": "33601沉眠学者",
+    "Type": 1,
+    "RoleID": 10117,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
   "325": {
     "Id": 325,
     "Name": "4670双人雪橇",
@@ -3289,21 +3229,151 @@
     "BeHitAct": "",
     "VehicleID": 0
   },
-  "400": {
-    "Id": 400,
-    "Name": "4660麋鹿",
-    "Type": 0,
-    "RoleID": 1,
+  "326": {
+    "Id": 326,
+    "Name": "33703班哈尔特士官长",
+    "Type": 1,
+    "RoleID": 33703,
     "WeaponID": 0,
     "ModelType": 0,
     "BeHitAct": "",
-    "VehicleID": 75066
+    "VehicleID": 0
   },
-  "324": {
-    "Id": 324,
-    "Name": "33601沉眠学者",
+  "327": {
+    "Id": 327,
+    "Name": "33402潜水娜宝",
     "Type": 1,
-    "RoleID": 10117,
+    "RoleID": 4601,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "328": {
+    "Id": 328,
+    "Name": "33801碎夜之牙",
+    "Type": 1,
+    "RoleID": 33801,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "329": {
+    "Id": 329,
+    "Name": "11218精英浮瞳",
+    "Type": 1,
+    "RoleID": 11218,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "330": {
+    "Id": 330,
+    "Name": "11217巡视浮瞳",
+    "Type": 1,
+    "RoleID": 11217,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "331": {
+    "Id": 331,
+    "Name": "11216圣堂之眼",
+    "Type": 1,
+    "RoleID": 11216,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "332": {
+    "Id": 332,
+    "Name": "11211高原野猪王",
+    "Type": 1,
+    "RoleID": 11211,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "333": {
+    "Id": 333,
+    "Name": "33705班哈尔特士剑士",
+    "Type": 1,
+    "RoleID": 33705,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "334": {
+    "Id": 334,
+    "Name": "33500多戈尔曼FB",
+    "Type": 1,
+    "RoleID": 33500,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "335": {
+    "Id": 335,
+    "Name": "1406风龙",
+    "Type": 1,
+    "RoleID": 3000064,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "336": {
+    "Id": 336,
+    "Name": "11212毛玉1",
+    "Type": 1,
+    "RoleID": 11212,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "337": {
+    "Id": 337,
+    "Name": "11213毛玉2",
+    "Type": 1,
+    "RoleID": 11213,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "338": {
+    "Id": 338,
+    "Name": "11214食人毛球",
+    "Type": 1,
+    "RoleID": 11214,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "339": {
+    "Id": 339,
+    "Name": "11215嗜血毛球",
+    "Type": 1,
+    "RoleID": 11215,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "340": {
+    "Id": 340,
+    "Name": "1153幻幻花",
+    "Type": 1,
+    "RoleID": 1153,
     "WeaponID": 0,
     "ModelType": 0,
     "BeHitAct": "",
@@ -3319,15 +3389,55 @@
     "BeHitAct": "",
     "VehicleID": 0
   },
-  "500": {
-    "Id": 500,
-    "Name": "35203动漫岛眼球",
+  "351": {
+    "Id": 351,
+    "Name": "700079音响",
     "Type": 1,
-    "RoleID": 35203,
+    "RoleID": 700079,
     "WeaponID": 0,
     "ModelType": 0,
     "BeHitAct": "",
     "VehicleID": 0
+  },
+  "352": {
+    "Id": 352,
+    "Name": "33901神罚代理者",
+    "Type": 1,
+    "RoleID": 33901,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "391": {
+    "Id": 391,
+    "Name": "33910三足机器人",
+    "Type": 1,
+    "RoleID": 33910,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "392": {
+    "Id": 392,
+    "Name": "33813虹视猎手",
+    "Type": 1,
+    "RoleID": 33813,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "400": {
+    "Id": 400,
+    "Name": "4660麋鹿",
+    "Type": 0,
+    "RoleID": 1,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 75066
   },
   "401": {
     "Id": 401,
@@ -3339,16 +3449,6 @@
     "BeHitAct": "",
     "VehicleID": 75064
   },
-  "351": {
-    "Id": 351,
-    "Name": "700079音响",
-    "Type": 1,
-    "RoleID": 700079,
-    "WeaponID": 0,
-    "ModelType": 0,
-    "BeHitAct": "",
-    "VehicleID": 0
-  },
   "402": {
     "Id": 402,
     "Name": "4690猫巴士",
@@ -3358,5 +3458,185 @@
     "ModelType": 0,
     "BeHitAct": "",
     "VehicleID": 75072
+  },
+  "403": {
+    "Id": 403,
+    "Name": "4700舞龙舞狮",
+    "Type": 0,
+    "RoleID": 1,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 75073
+  },
+  "404": {
+    "Id": 404,
+    "Name": "11203掠食蟹蛛",
+    "Type": 1,
+    "RoleID": 11203,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "405": {
+    "Id": 405,
+    "Name": "11206多格尔曼",
+    "Type": 1,
+    "RoleID": 11206,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "406": {
+    "Id": 406,
+    "Name": "11202杀手蟹蛛",
+    "Type": 1,
+    "RoleID": 11202,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "407": {
+    "Id": 407,
+    "Name": "4710乐队箱",
+    "Type": 0,
+    "RoleID": 1,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 75080
+  },
+  "500": {
+    "Id": 500,
+    "Name": "35203动漫岛眼球",
+    "Type": 1,
+    "RoleID": 35203,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "10064": {
+    "Id": 10064,
+    "Name": "10064精英黯影枪手",
+    "Type": 1,
+    "RoleID": 10064,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "10065": {
+    "Id": 10065,
+    "Name": "10065精英黯影剑士",
+    "Type": 1,
+    "RoleID": 10065,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "10066": {
+    "Id": 10066,
+    "Name": "10066精英黯影法师",
+    "Type": 1,
+    "RoleID": 130111,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "28013": {
+    "Id": 28013,
+    "Name": "28013卫刃助战NPC",
+    "Type": 0,
+    "RoleID": 1,
+    "WeaponID": 2000107,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "28016": {
+    "Id": 28016,
+    "Name": "28016法杖助战NPC",
+    "Type": 0,
+    "RoleID": 1,
+    "WeaponID": 2,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "69102": {
+    "Id": 69102,
+    "Name": "69102年兽雷魔",
+    "Type": 1,
+    "RoleID": 69102,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "103100": {
+    "Id": 103100,
+    "Name": "103100对龙机像1阶段",
+    "Type": 1,
+    "RoleID": 103100,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "103101": {
+    "Id": 103101,
+    "Name": "103101歼灭炮",
+    "Type": 1,
+    "RoleID": 103101,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "103200": {
+    "Id": 103200,
+    "Name": "103200对龙机像2阶段",
+    "Type": 1,
+    "RoleID": 103100,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "103205": {
+    "Id": 103205,
+    "Name": "103205raid 机械守卫",
+    "Type": 1,
+    "RoleID": 103205,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "103300": {
+    "Id": 103300,
+    "Name": "103300对龙机像3阶段",
+    "Type": 1,
+    "RoleID": 103300,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
+  },
+  "103301": {
+    "Id": 103301,
+    "Name": "103301对龙机像3阶段炮管",
+    "Type": 1,
+    "RoleID": 103301,
+    "WeaponID": 0,
+    "ModelType": 0,
+    "BeHitAct": "",
+    "VehicleID": 0
   }
 }

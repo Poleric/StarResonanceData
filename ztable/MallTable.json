@@ -2154,7 +2154,7 @@
     "RefreshCostItem": [],
     "Icon": "",
     "CurrencyDisplay": [
-      1220004
+      1220005
     ],
     "HelpLibraryId": 0
   },
@@ -2177,7 +2177,7 @@
     "RefreshCostItem": [],
     "Icon": "",
     "CurrencyDisplay": [
-      1070059
+      1070073
     ],
     "HelpLibraryId": 0
   },
@@ -2272,6 +2272,31 @@
     "Icon": "",
     "CurrencyDisplay": [
       10015
+    ],
+    "HelpLibraryId": 0
+  },
+  "1517": {
+    "Id": 1517,
+    "FunctionId": 100279,
+    "Name": "",
+    "ShowType": 10,
+    "ViewType": 0,
+    "SubViewType": [],
+    "HasFatherType": 1517,
+    "MallPageId": 0,
+    "MallType": 0,
+    "RefreshIntervalType": 0,
+    "WeightId": [],
+    "TimerId": 40301,
+    "Sort": 1517,
+    "ShowCountDown": 0,
+    "MallManualRefresh": 0,
+    "RefreshCostItem": [],
+    "Icon": "",
+    "CurrencyDisplay": [
+      1070077,
+      1070076,
+      1070075
     ],
     "HelpLibraryId": 0
   },
@@ -2508,7 +2533,7 @@
   "3004": {
     "Id": 3004,
     "FunctionId": 800604,
-    "Name": "Season Point Exchange",
+    "Name": "Echoes of Ember Store",
     "ShowType": 1,
     "ViewType": 0,
     "SubViewType": [],
@@ -2524,14 +2549,14 @@
     "RefreshCostItem": [],
     "Icon": "",
     "CurrencyDisplay": [
-      10001
+      10016
     ],
     "HelpLibraryId": 0
   },
   "3005": {
     "Id": 3005,
     "FunctionId": 800605,
-    "Name": "Season Point Exchange",
+    "Name": "Echoes of Ember Elite Store",
     "ShowType": 1,
     "ViewType": 0,
     "SubViewType": [],
@@ -2547,7 +2572,7 @@
     "RefreshCostItem": [],
     "Icon": "",
     "CurrencyDisplay": [
-      10001
+      10017
     ],
     "HelpLibraryId": 0
   },
@@ -2748,7 +2773,7 @@
     "RefreshIntervalType": 0,
     "WeightId": [],
     "TimerId": 40014,
-    "Sort": 10000,
+    "Sort": 1000,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
@@ -2772,7 +2797,7 @@
     "RefreshIntervalType": 0,
     "WeightId": [],
     "TimerId": 40018,
-    "Sort": 10001,
+    "Sort": 999,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
@@ -2796,7 +2821,7 @@
     "RefreshIntervalType": 0,
     "WeightId": [],
     "TimerId": 40026,
-    "Sort": 10002,
+    "Sort": 998,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
@@ -2820,7 +2845,7 @@
     "RefreshIntervalType": 0,
     "WeightId": [],
     "TimerId": 48032,
-    "Sort": 10003,
+    "Sort": 997,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
@@ -2844,7 +2869,7 @@
     "RefreshIntervalType": 0,
     "WeightId": [],
     "TimerId": 40059,
-    "Sort": 10004,
+    "Sort": 996,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
@@ -2855,6 +2880,30 @@
       10003
     ],
     "HelpLibraryId": 23001
+  },
+  "10005": {
+    "Id": 10005,
+    "FunctionId": 819306,
+    "Name": "  ",
+    "ShowType": 6,
+    "ViewType": 1,
+    "SubViewType": [],
+    "HasFatherType": 0,
+    "MallPageId": 0,
+    "MallType": 0,
+    "RefreshIntervalType": 0,
+    "WeightId": [],
+    "TimerId": 900004,
+    "Sort": 995,
+    "ShowCountDown": 0,
+    "MallManualRefresh": 0,
+    "RefreshCostItem": [],
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_123",
+    "CurrencyDisplay": [
+      1070123,
+      10003
+    ],
+    "HelpLibraryId": 23003
   },
   "20000": {
     "Id": 20000,
@@ -2868,17 +2917,17 @@
     "MallType": 0,
     "RefreshIntervalType": 0,
     "WeightId": [],
-    "TimerId": 70001,
+    "TimerId": 70003,
     "Sort": 20000,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
     "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_123",
     "CurrencyDisplay": [
-      12001,
-      13002,
-      13001,
-      1070201
+      12002,
+      13004,
+      13003,
+      1070202
     ],
     "HelpLibraryId": 0
   },
@@ -2894,17 +2943,17 @@
     "MallType": 0,
     "RefreshIntervalType": 0,
     "WeightId": [],
-    "TimerId": 70001,
+    "TimerId": 70003,
     "Sort": 20001,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
     "Icon": "",
     "CurrencyDisplay": [
-      12001,
-      13002,
-      13001,
-      1070201
+      12002,
+      13004,
+      13003,
+      1070202
     ],
     "HelpLibraryId": 0
   },
@@ -2920,17 +2969,17 @@
     "MallType": 0,
     "RefreshIntervalType": 0,
     "WeightId": [],
-    "TimerId": 70001,
+    "TimerId": 70003,
     "Sort": 20002,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
     "Icon": "",
     "CurrencyDisplay": [
-      12001,
-      13002,
-      13001,
-      1070201
+      12002,
+      13004,
+      13003,
+      1070202
     ],
     "HelpLibraryId": 0
   }

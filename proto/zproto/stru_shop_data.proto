@@ -1,6 +1,7 @@
 syntax = "proto3";
 
 import "stru_player_buy_record.proto";
+import "stru_shop_add_up_bound_record.proto";
 import "stru_shop_compensation_data.proto";
 import "stru_shop_refresh_record.proto";
 import "stru_dirty_mask.proto";
@@ -12,4 +13,5 @@ message ShopData {
 	map<int32, PlayerBuyRecord> normalShopRecords = 2 [json_name = "normalShopRecords"];
 	map<int32, PlayerBuyRecord> seasonShopRecords = 3 [json_name = "seasonShopRecords"];
 	ShopCompensationData compensationItemData = 4 [json_name = "compensationItemData"];
+	map<int32, ShopAddUpBoundRecord> addUpBoundRecords = 5 [json_name = "addUpBoundRecords"];
 }

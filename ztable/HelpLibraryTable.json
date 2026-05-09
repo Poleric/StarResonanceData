@@ -259,7 +259,7 @@
     "GroupName": "",
     "Title": "Embed",
     "Content": [
-      "Embedding gems into gear can grant the gear the attributes carried by the gems, and choosing <style=\"GuideBookLab1\">intermediate or advanced embedding methods</style> can directly obtain <style=\"GuideBookLab1\">higher-level gem effects</style>.<br><style=\"GuideBookLab1\">Tip</style>: Embedding gems can improve gear attributes. (Material Source: Life Skill)"
+      "Embedding gems/sigils into gear can grant the gear the attributes that they carry, and choosing <style=\"GuideBookLab1\">intermediate or advanced embedding methods</style> can directly obtain <style=\"GuideBookLab1\">higher-level gem/sigil effects</style>.<br><style=\"GuideBookLab1\">Tip</style>: Embedding gems/sigils can improve gear attributes. (Material Source: Life Skill)"
     ],
     "Res": [
       "ycx_xiangqian01"
@@ -289,7 +289,7 @@
     "Res": [
       "ycx_mozu01"
     ],
-    "Sequence": 10,
+    "Sequence": 11,
     "DurationTime": 0,
     "EventType": 0,
     "Param": "",
@@ -320,7 +320,7 @@
     "Res": [
       "ycx_playerlevel01"
     ],
-    "Sequence": 11,
+    "Sequence": 12,
     "DurationTime": 0,
     "EventType": 0,
     "Param": "",
@@ -345,7 +345,7 @@
     "Res": [
       "ycx_touxian01"
     ],
-    "Sequence": 12,
+    "Sequence": 13,
     "DurationTime": 0,
     "EventType": 0,
     "Param": "",
@@ -408,8 +408,58 @@
       "ycx_seasontalent01_04",
       "ycx_seasontalent01_05"
     ],
-    "Sequence": 13,
+    "Sequence": 17,
     "DurationTime": 20,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "1015": {
+    "Id": 1015,
+    "SortId": 15,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 1,
+    "GroupName": "",
+    "Title": "Regional Reputation Level",
+    "Content": [
+      "For adventurers, gaining Reputation EXP and raising its level is crucial! It unlocks valuable rewards and allows you to exchange abundant resources in the shop, paving the way for your accelerated growth. <br>Different regions maintain independent Reputation systems, and each region's Reputation EXP must be earned separately. <br>Complete regional <style=\"GuideBookLab1\">Quests</style> or participate in <style=\"GuideBookLab1\">Illuminate the Journey</style> activities to easily earn Reputation EXP and steadily increase your Reputation level."
+    ],
+    "Res": [
+      "mingxin_reputation"
+    ],
+    "Sequence": 18,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "1016": {
+    "Id": 1016,
+    "SortId": 14,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 1,
+    "GroupName": "",
+    "Title": "Modification Guide",
+    "Content": [
+      "Modification is divided into Reforge Effect Modification and Rare Effect Modification.<br>Reforge Effect Modification: When gear reaches maximum Perfection, it can no longer be reforged. If the current reforge effects are unsatisfactory, one effect can be manually selected from the gear's reforge effect pool.<br>Rare Effect Modification: If the current rare effect is unsatisfactory, one effect can be manually selected from the gear's rare effect pool. Some gear does not initially have a rare effect, but one can still be selected from the gear's rare effect pool through Modification."
+    ],
+    "Res": [
+      "ycx_zbgz01"
+    ],
+    "Sequence": 10,
+    "DurationTime": 0,
     "EventType": 0,
     "Param": "",
     "Button": "",
@@ -541,31 +591,6 @@
       "home_04"
     ],
     "Sequence": 16,
-    "DurationTime": 0,
-    "EventType": 0,
-    "Param": "",
-    "Button": "",
-    "FunctionId": 0,
-    "Icon": "",
-    "Guideunlock": 0,
-    "Condition": []
-  },
-  "1015": {
-    "Id": 1015,
-    "SortId": 15,
-    "Type": 1,
-    "TypeGroup": 0,
-    "MainTitle": "",
-    "HelpGroup": 1,
-    "GroupName": "",
-    "Title": "Regional Reputation Level",
-    "Content": [
-      "For adventurers, gaining Reputation EXP and raising its level is crucial! It unlocks valuable rewards and allows you to exchange abundant resources in the shop, paving the way for your accelerated growth. <br>Different regions maintain independent Reputation systems, and each region's Reputation EXP must be earned separately. <br>Complete regional <style=\"GuideBookLab1\">Quests</style> or participate in <style=\"GuideBookLab1\">Illuminate the Journey</style> activities to easily earn Reputation EXP and steadily increase your Reputation level."
-    ],
-    "Res": [
-      "mingxin_reputation"
-    ],
-    "Sequence": 17,
     "DurationTime": 0,
     "EventType": 0,
     "Param": "",
@@ -1301,6 +1326,56 @@
       "jita_xiezou"
     ],
     "Sequence": 29,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "2214": {
+    "Id": 2214,
+    "SortId": 96,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 2,
+    "GroupName": "",
+    "Title": "Twin Striker - Formless Expertise Spec",
+    "Content": [
+      "A spec utilizing <style=\"GuideBookLab1\">Blazing Ascension</style> as the Special Attack. Core build: By alternating between Special Attacks and different Class Skills, the <style=\"GuideBookLab1\">Formless</style> level is increased to accelerate skill rotation, providing a high DMG bonus while aiming to trigger more <style=\"GuideBookLab1\">Formless Flame Slashes</style>.<style=\"GuideBookLab3\"><br>Optimal Class Skill Build</style><br><style=\"GuideBookLab1\">Required</style><br><style=\"GuideBookLab1\">Blazing Assault</style>: Grants Flame Souls.<br><style=\"GuideBookLab1\">Rage Cleave</style>: Enhances core DMG output.<br><style=\"GuideBookLab1\">Axe Wind</style>: Enhances large-area sustained DMG.<br><style=\"GuideBookLab1\">Wasteland's End</style>: Enhances skill cast frequency and increases Haste.<br><style=\"GuideBookLab1\">Optional</style><br><style=\"GuideBookLab1\">Flowing Splendor Slash</style>: Enhances survivability.<br><style=\"GuideBookLab1\">Endless Hellfire</style>: Improves Flame Soul acquisition efficiency and increases Crit.<br><style=\"GuideBookLab3\">Main Attributes for Spec Training</style><br><style=\"GuideBookLab1\">Basic Attribute</style><br>Strength: Increases Twin Striker's ATK and Armor.<br><style=\"GuideBookLab1\">Advanced Attributes</style><br>Luck: Grants a chance to trigger a Lucky Strike when dealing DMG or healing.<br>Mastery: Increases the CD Boost of Blazing Assault, Rage Cleave, and Axe Wind.<br><style=\"GuideBookLab3\">Optimal Battle Imagine Build</style><br>Equip <style=\"GuideBookLab1\">Stunt! Frenzied Shot</style> or <style=\"GuideBookLab1\">Stunt! Kinetic Strike</style> to temporarily boost Luck and Mastery.<br>For more details, please go to the <style=\"GuideBookLab1\">Battle Imagine</style> gear interface and tap <style=\"GuideBookLab1\">Filter</style> to view recommendations."
+    ],
+    "Res": [
+      "shuangfu_wuxiang"
+    ],
+    "Sequence": 30,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "2314": {
+    "Id": 2314,
+    "SortId": 91,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 2,
+    "GroupName": "",
+    "Title": "Twin Striker - Crimson Expertise Spec",
+    "Content": [
+      "A spec utilizing <style=\"GuideBookLab1\">Fanatic Slash</style> as the Special Attack. Core build: Uses <style=\"GuideBookLab1\">Crimson Soul Gauge</style> as its core combat resource. Accumulating <style=\"GuideBookLab1\">Crimson Soul Gauge</style> grants various buffs. Using <style=\"GuideBookLab1\">Wildfire Dance</style> as the core DMG output, the efficiency of generating the <style=\"GuideBookLab1\">Crimson Soul Gauge</style> is increased, enabling sustained high DMG.<br><style=\"GuideBookLab3\">Optimal Class Skill Build</style><br><style=\"GuideBookLab1\">Required</style><br><style=\"GuideBookLab1\">Unbound Meteor</style>: Grants Flame Souls.<br><style=\"GuideBookLab1\">Wildfire Dance</style>: Enhances core DMG output and large-area sustained damage.<br><style=\"GuideBookLab1\">Flowing Splendor Slash</style>: Enhances survivability and sustain.<br><style=\"GuideBookLab1\">Endless Hellfire</style>: Improves Flame Soul acquisition efficiency and increases Crit.<br><style=\"GuideBookLab1\">Optional</style><br><style=\"GuideBookLab1\">Wasteland's End</style>: Enhances skill cast frequency and increases Haste.<br><style=\"GuideBookLab3\">Main Attributes for Spec Training</style><br><style=\"GuideBookLab1\">Basic Attribute</style><br>Strength: Increases Twin Striker's ATK and Armor.<br><style=\"GuideBookLab1\">Advanced Attributes</style><br>Haste: Increases Attack SPD and Casting SPD.<br>Crit: Increases bonus DMG on critical hits, starting at 150%.<br><style=\"GuideBookLab3\">Optimal Battle Imagine Build</style><br>Equip <style=\"GuideBookLab1\">Stunt! Twin Fangs</style> or <style=\"GuideBookLab1\">Stunt! Super Critical</style> to temporarily boost Haste and Crit.<br>For more details, please go to the <style=\"GuideBookLab1\">Battle Imagine</style> gear interface and tap <style=\"GuideBookLab1\">Filter</style> to view recommendations."
+    ],
+    "Res": [
+      "shuangfu_chihong"
+    ],
+    "Sequence": 31,
     "DurationTime": 0,
     "EventType": 0,
     "Param": "",
@@ -2101,6 +2176,242 @@
       ]
     ]
   },
+  "4041": {
+    "Id": 4041,
+    "SortId": 111,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "Cursed Radiant Tomb - Divine Punisher",
+    "Content": [
+      "Matrix Protocol: Matrix Towers are summoned into the field in batches. Once a Matrix Tower's progress bar is full, its charging is complete. When three fully charged blue Matrix Towers are connected in a line, the team-wiping Divine Retribution Protocol is triggered.<br><style=\"GuideBookLab2\">Tips: Carefully guide the Disintegration Beam to convert blue Matrix Towers into gold ones. When three golden Matrix Towers are connected in a line, the boss will be forced into a Protocol Collapse state.</style>",
+      "Polarized Judgment: Three heavy-duty tripod robots appear on the field. An Ion Blade randomly spawns on either the left or right side of each robot. After a few seconds, they charge forward, dealing massive AoE damage to the side of the field corresponding to the Ion Blade.<br><style=\"GuideBookLab2\">Tips: Identify the position of the robots' Ion Blades to determine which side is the safe zone. The overlapping safe zone of all three robots is where players can avoid damage. Move there promptly to dodge the attack.</style>",
+      "Matrix Towers: Matrix Towers that appear on the field initially exist in an ethereal form while slowly accumulating a progress bar. After 40s, they materialize into physical Matrix Towers, indicating that charging is complete. At that moment, they will deal AoE damage.<br><style=\"GuideBookLab2\">Tips: Two Matrix Towers will complete charging simultaneously. Pay attention to positioning and avoid standing at the intersection of the two large AoE damage zones.</style>"
+    ],
+    "Res": [
+      "goldvaultboss_01",
+      "goldvaultboss_03",
+      "goldvaultboss_04"
+    ],
+    "Sequence": 1,
+    "DurationTime": 10,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ]
+  },
+  "4042": {
+    "Id": 4042,
+    "SortId": 112,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "Mechanized Processing Facility - Thanatos - Final Form",
+    "Content": [
+      "Uncontrolled Roar: Thanatos - Final Form overheats and loses control, triggering a thermal reaction across the field and causing periodic steam leaks.<br><style=\"GuideBookLab2\">Tips: Locate the minecarts on both sides of the field and use the Crimson Crystals inside them to block the leaking steam vents.</style>",
+      "Uncontrolled Roar: Thanatos - Final Form overheats and loses control, triggering a thermal reaction across the field. After a period of time, a fire tornado will appear.<br><style=\"GuideBookLab2\">Tips: The fire tornado periodically releases energy. If the energy comes into contact with Crimson Crystals or steam, it will trigger an explosive reaction. Prevent the energy from making contact.</style>",
+      "Overheated: In the Uncontrolled Roar state, Thanatos - Final Form gains an ATK boost. When Thanatos - Final Form enters steam, it will continuously release thermal shocks before entering a CD state, removing one stack of the ATK boost.<br><style=\"GuideBookLab2\">Tips: Monitor Thanatos - Final Form's ATK boost stacks and lure it into the steam at the right time.</style>",
+      "Overdrive Bombardment: Thanatos - Final Form enters a charging state and launches an artillery strike after a period of time. Use the cannons in the arena to defeat Thanatos - Final Form.<br><style=\"GuideBookLab2\">Tips: Destroy the charging turrets and guide them to a designated location. Turrets will prioritize following healers within their range. When the monsters summoned by Thanatos - Final Form are defeated, they drop electrical energy. Use the energy to charge available cannons to fight against Thanatos - Final Form.</style>",
+      "Predation: Thanatos - Final Form unleashes a fierce flurry of attacks in a short period. Pay attention to the indicator above targeted players' heads to prepare for the next mechanic.<br><style=\"GuideBookLab2\">Tips: Targeted players should observe the marker icon's shape and evade the subsequent circular or ring-shaped AoE attacks accordingly.</style>",
+      "Predation: Thanatos - Final Form unleashes a fierce flurry of attacks in a short period. Pay attention to Thanatos - Final Form's position and use Phantom Dash to respond.<br><style=\"GuideBookLab2\">Tips: Save Phantom Dash to counter Thanatos - Final Form's actions. Additionally, be mindful of the subsequent target mechanic and group up or disperse at the appropriate locations.</style>"
+    ],
+    "Res": [
+      "factoryboss_01",
+      "factoryboss_02",
+      "factoryboss_03",
+      "factoryboss_04",
+      "factoryboss_05",
+      "factoryboss_06"
+    ],
+    "Sequence": 2,
+    "DurationTime": 10,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ]
+  },
+  "4044": {
+    "Id": 4044,
+    "SortId": 114,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "Mistveil Hunting Ground - Mist-Piercing Fang",
+    "Content": [
+      "Scar: Mist-Piercing Fang uses its sharp claws, fangs, and compressed airflow to deal heavy Bleed damage to adventurers, deplete their Armor, and disable healing skills.<br><style=\"GuideBookLab2\">Tips: Adventurers must proactively take on the various debuffs applied by Mist-Piercing Fang according to their roles.</style>",
+      "Opportunistic Pounce: The boss randomly targets an adventurer without the Scar debuff, deals damage and applies a Red Scar.<br><style=\"GuideBookLab2\">Tips: Adventurers on the field should maintain a Scar debuff that does not interfere with their role's functionality.</style>",
+      "Mighty Bite: Mist-Piercing Fang uses wind magic to root its current aggro target and leaps backward. It then targets the nearest adventurer in front of it, deals damage, and applies a Blue Scar.<br><style=\"GuideBookLab2\">Tips: Non-Guardian adventurers must stand in front of Mist-Piercing Fang to prevent Guardian adventurers from having their armor broken.</style>",
+      "Crush Cyclone: Mist-Piercing Fang targets a healer adventurer, spawning several tornadoes at their feet. If the tornadoes are not removed within a certain period, a Green Scar will be applied to all adventurers.<br><style=\"GuideBookLab2\">Tips: DPS adventurers should actively contact the tornadoes to remove them, gaining a Green Scar in the process.</style>",
+      "Hunt: Mist-Piercing Fang randomly targets an adventurer and turns invisible, becoming untargetable and immune to attacks while using wind magic to apply a shield to itself. After a short period, it leaps in front of an adventurer to instantly kill them, then repeats this behavior.<br><style=\"GuideBookLab2\">Tips: If the targeted adventurer is near the Tree of Healing, Mist-Piercing Fang's attack will be interrupted, leaving it staggered and consuming the tree's charge. At this point, adventurers can attack Mist-Piercing Fang. This skill ends when Mist-Piercing Fang's shield is broken.</style>",
+      "Tree of Healing: It has a charged and an uncharged state. When an adventurer interacts with it, all Scars on adventurers within its range are removed, and the tree enters its uncharged state.<br><style=\"GuideBookLab2\">Tips: When the Tree of Healing enters the uncharged state, it will recharge after 60s.</style>",
+      ""
+    ],
+    "Res": [
+      "direhowl_07",
+      "direhowl_05",
+      "direhowl_01",
+      "direhowl_04",
+      "direhowl_06",
+      "direhowl_03",
+      "direhowl_08"
+    ],
+    "Sequence": 4,
+    "DurationTime": 10,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ]
+  },
+  "4045": {
+    "Id": 4045,
+    "SortId": 115,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "Void - Towering Ruin - Kartgriff",
+    "Content": [
+      "Illusory Bloom Corruption: Three Illusory Bloom Cocoons are present in the arena. They tether to and charge Kartgriff's Remnant, increasing its Corruption level. The higher the Corruption level, the greater Kartgriff's Remnant's DMG Reduction. Break the Illusory Blooms to return to the real dimension and suppress Corruption through mechanics.<br><style=\"GuideBookLab2\">Tips: Coordinate interrupt skills to stop the charging and reduce Corruption gain. When the Corruption value reaches a certain threshold, break the Illusory Bloom to enter the real dimension and suppress Corruption.</style>",
+      "Seed of Imprisonment: The Illusory Bloom Cocoon randomly spawns four blooming Illusory Blooms around itself. The Illusory Blooms last for 30s, and touching them inflicts a root effect. In Master Mode, naturally dissipating Illusory Blooms will leave behind a Corruption Zone.<br><style=\"GuideBookLab2\">Tips: During non-essential mechanic phases in combat, split up to step on the Illusory Blooms and purify them. Purify them promptly to avoid impacting core mechanics.</style>",
+      "Sky Crack - Reverse: Kartgriff charges an Electromagnetic Core and summons charging lasers to empower it. If a laser hits the core, it gains charge. Charging reduces Corruption and Kartgriff's HP in the Lunalusion dimension. Lasers hitting players deal damage; in Master Mode, they also apply Electromagnetic Vulnerability stacks. Illusory Bloom Cocoons attempt to interfere with the charging by constantly summoning Illusory Blooms in the arena. Lasers hitting an Illusory Bloom destroy it, dealing AoE damage and stacking Corruption.<br><style=\"GuideBookLab2\">Tips: Block the laser path appropriately to clear the Illusory Blooms on one side, then allow the laser on the other side to fully charge the core.</style>",
+      "Dimensional Banishment - Reverse: Players return to the real dimension by breaking the Illusory Blooms. Monsters corrupted by the Illusory Blooms continuously unleash AoE damage to prevent Kartgriff's recovery.<br><style=\"GuideBookLab2\">Tips: DPS players should break the enemy monsters' toughness gauges, while healers should take the opportunity to continuously heal allied monsters. Pick up Engram Orbs to suppress Corruption.</style>",
+      "Momentary Rift: Players return to the real dimension by breaking the Illusory Blooms. In the real dimension, there are four portals, categorized as either real or Lunalusion. The Lunalusion portals visible to each player differ, and only the overlapping portals are the correct ones. During this period, Corruption continuously increases, and players constantly take damage.<br><style=\"GuideBookLab2\">Tips: First, gather at one portal and observe the number of players, then move to another. The portal with the most players is the correct one.</style>"
+    ],
+    "Res": [
+      "s3_juta_01",
+      "s3_juta_03",
+      "s3_juta_02",
+      "s3_juta_04",
+      "s3_juta_05"
+    ],
+    "Sequence": 5,
+    "DurationTime": 10,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ]
+  },
+  "4043": {
+    "Id": 4043,
+    "SortId": 113,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "Void - Tina's Mindrealm - Void Reverie",
+    "Content": [
+      "Void Corruption Curse: Void Tina deals damage to the entire arena and curses several cabinets. The cursed cabinets will erupt with Void Corruption after a period of time.<br><style=\"GuideBookLab2\">Tips: Interact with a cabinet before it erupts to absorb the Void Corruption. After absorbing it, allow it to detonate in a safe location.</style>",
+      "Void Corruption Oppression: After charging for a period of time, Void Tina attacks the entire arena. Tina (Original Form) blesses several cabinets. Quickly move to the vicinity of the blessed cabinets to avoid the damage.<br><style=\"GuideBookLab2\">Tips: Move near the blessed cabinets to take cover before the charging finishes. On Hard Mode or above, this skill disables Phantom Dash, so make use of the teleportation mechanic between cabinets wisely.</style>",
+      "Void Corruption Strike: After charging for a period of time, Void Tina sequentially attacks targets on the field in numerical order, dealing massive damage. On Master difficulty or above, each attack is followed by an extra super-wide slash to the right.<br><style=\"GuideBookLab2\">Tips: Spread out to prevent taking multiple hits. On Master difficulty or above, be careful not to stand to the right of other players to avoid taking secondary damage.</style>",
+      "Reverie Megamorph: Overwhelmed by painful memories, Tina manifests a colossal Inner Demon that wields a long Lance, sweeping for massive DMG. Tina (Original Form) summons cabinets that players can interact with to teleport.<br><br><style=\"GuideBookLab2\">Tips: Keep an eye on Void Tina's location and find the cabinet near the tail end of the Lance. Just before the sweep lands, interact with the cabinet to teleport across and avoid the hit.</style>",
+      "Void Corruption Clone: Summons a clone at the edge of the arena. After a brief delay, the clone unleashes a continuously advancing wave of Void Corruption toward the center of the arena.<br><style=\"GuideBookLab2\">Tips: Observe the clone's position, move to the cabinet opposite the clone in advance, and teleport to the other side at the right moment to avoid the damage.</style>",
+      "Byrnhald Invasion: Recreates the scene of the Byrnhald invasion from the past within the Illusory Bloom's domain. Defeat the Byrnhald soldiers to end this illusion.<br><style=\"GuideBookLab2\">Tips: Eliminate the soldiers as quickly as possible while protecting as many civilians as you can. Each civilian's death grants Tina an ATK increase.</style>"
+    ],
+    "Res": [
+      "tinaboss_jinkong_06",
+      "tinaboss_jinkong_01",
+      "tinaboss_jinkong_02",
+      "tinaboss_jinkong_05",
+      "tinaboss_jinkong_04",
+      "tinaboss_jinkong_03"
+    ],
+    "Sequence": 3,
+    "DurationTime": 10,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ]
+  },
+  "4046": {
+    "Id": 4046,
+    "SortId": 116,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "Sea-Ringed Reef - Abyssal Nappo",
+    "Content": [
+      "Dual Notes: Abyssal Nappo's elemental attacks apply two different Note marks to players. The Notes cannot coexist; when a player is hit by another elemental attack, the mark changes to the corresponding Note.<br><style=\"GuideBookLab2\">Tips: The Note marks are used to handle specific mechanics. Try to avoid situations where all players in the party share the same mark.</style>",
+      "Brilliant Performance: Abyssal Nappo begins its unique performance. Once the cast bar is full, it unleashes a powerful strike and destroys all bubbles.<br><style=\"GuideBookLab2\">Tips: Enter the bubbles to avoid the attack during the cast.</style>",
+      "Cold Wave Symphony: Summons stack markers of different elements. After a brief delay, bubble attacks of the corresponding elements descend. If no players are inside a stack marker, a second, arena-wide attack is triggered.<br><style=\"GuideBookLab2\">Tips: Split into two groups to share the damage. You can use this mechanic to balance the Notes within the party.</style>",
+      "Torrent Duet: Abyssal Nappo summons speakers to unleash a large-scale wave attack. During this phase, players with the corresponding Note mark can see the danger zones. When such a player enters the safe zone, the Note above their head will flash to indicate it.<br><style=\"GuideBookLab2\">Tips: Players with the matching Note should move to the safe zone as soon as possible. Players with different Notes should watch the Notes above other players' heads to identify the safe zone's location.</style>",
+      "Super Dance - Opening: Abyssal Nappo sways and dances, creating two-colored warning zones on the ground. After several beats, Nappo attacks one of the colored zones and grants players a shield of the opposite color.<br><style=\"GuideBookLab2\">Tips: During the Opening phase of Super Dance, leaving the spotlight area will result in massive damage. Watch the warnings and avoid the attacks, then remember the color of your shield to handle upcoming mechanics.</style>",
+      "Super Dance - Variation: Abyssal Nappo uses Notes to cast spells, summoning clones or sonic orbs. If clones appear, players should quickly focus fire or interrupt the clone whose color is opposite to their shield. If sonic orbs appear, players must use their shield to absorb sonic orbs of the same color, preventing subsequent attacks.<br><style=\"GuideBookLab2\">Tips: Spread out in advance and quickly handle clones or sonic orbs according to your shield color.</style>",
+      "Super Dance - Boiling Point: Abyssal Nappo can hardly suppress its excitement and begins casting Brilliant Performance. At this time, the speakers on the field will display random elemental beam markers.<br><style=\"GuideBookLab2\">Tips: Enter the bubbles to avoid the attack. You can adjust the bubble's direction to target the outer-ring speakers of the corresponding element. Successfully hitting them will apply a vulnerability effect to Nappo.</style>"
+    ],
+    "Res": [
+      "diverboss_01",
+      "diverboss_02",
+      "diverboss_03",
+      "diverboss_04",
+      "diverboss_05",
+      "diverboss_06",
+      "diverboss_07"
+    ],
+    "Sequence": 6,
+    "DurationTime": 10,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ]
+  },
   "4200": {
     "Id": 4200,
     "SortId": 202,
@@ -2734,7 +3045,12 @@
     "FunctionId": 0,
     "Icon": "",
     "Guideunlock": 0,
-    "Condition": []
+    "Condition": [
+      [
+        1,
+        99999
+      ]
+    ]
   },
   "4506": {
     "Id": 4506,
@@ -2844,7 +3160,12 @@
     "FunctionId": 0,
     "Icon": "",
     "Guideunlock": 0,
-    "Condition": []
+    "Condition": [
+      [
+        1,
+        99999
+      ]
+    ]
   },
   "4509": {
     "Id": 4509,
@@ -2869,7 +3190,12 @@
     "FunctionId": 0,
     "Icon": "",
     "Guideunlock": 0,
-    "Condition": []
+    "Condition": [
+      [
+        1,
+        99999
+      ]
+    ]
   },
   "4510": {
     "Id": 4510,
@@ -2884,7 +3210,7 @@
       "",
       "Gameplay Activated",
       "",
-      "The Floating Island - Dragon Shackles is extremely dangerous and requires coordinated teamwork to overcome powerful foes. A party of at least 10 players is required to start the challenge, and the party leader must initiate it.<br>",
+      "Floating Island - Dragon Shackles can be challenged in a party. Once the party is formed, the leader must initiate the challenge.<br>",
       "",
       "Rewards",
       "",
@@ -2892,11 +3218,7 @@
       "",
       "Dynamic Difficulty",
       "",
-      "Floating Island - Dragon Shackles dynamically adjusts its difficulty based on the party size. When the number of players decreases, the difficulty is lowered accordingly.<br>",
-      "",
-      "Guild Buffs",
-      "",
-      "If 20+ guild members successfully clear Boss Challenges, teaming up with fellow members will grant Guild Buffs. Cooperation with your guild members is highly recommended!"
+      "Floating Island - Dragon Shackles dynamically adjusts its difficulty based on the party size. When the number of players decreases, the difficulty is lowered accordingly."
     ],
     "Res": [],
     "Sequence": 0,
@@ -2922,8 +3244,7 @@
       "By defeating enemies in Slumberdream Valley, adventurers can collect a special resource, <style=\"GuideBookLab1\">[Slumberdream Remnants]</style>, which can be used to purchase items or activate special effects in designated situations. Slumberdream Remnants cannot be taken out of Slumberdream Valley. After defeating the final Boss, <style=\"GuideBookLab1\">Slumbering Scholar</style>, the system will convert any remaining Slumberdream Remnants into rewards that can be carried out. <br>Completing high-difficulty challenges also grants a certain amount of <style=\"GuideBookLab1\">[Slumberdream Crystals]</style>, which can be exchanged for various progression items in the Slumberdream Store. <br>Completing related quests grants <style=\"GuideBookLab1\">[Slumberdream Feathers]</style>, which can be exchanged for various cosmetic rewards in the Slumberdream Store.",
       "Slumberdream Valley consists of five progressively leveled areas. While inside an area, adventurers continuously accumulate <style=\"GuideBookLab1\">[Slumberdream Value]</style>. Higher-level areas cause Slumberdream Value to accumulate more rapidly. When Slumberdream Value reaches 100%, the adventurer enters the <style=\"GuideBookLab1\">[Slumberdream]</style> state, becoming unable to fight or interact with the environment. <br>Each area contains a unique regional event. Completing the event activates that area's <style=\"GuideBookLab1\">[Dream Separator]</style>, which adventurers can interact with to trigger special effects. <br><style=\"GuideBookLab1\">Rescue Ally</style>: Spend Slumberdream Remnants to waken a nearby ally trapped in the \"Slumberdream\". <br><style=\"GuideBookLab1\">Awaken from Dreamscape</style>: Instantly teleports the entire team to the final Boss to begin the final battle. The higher the area level where the final battle is triggered, the stronger the Boss—and the greater the rewards.",
       "Adventurers can obtain unique buffs and enhancements by using items such as <style=\"GuideBookLab1\">[Slumberdream Masks]</style>, <style=\"GuideBookLab1\">[Slumberdream Charms]</style>, and <style=\"GuideBookLab1\">[Slumberdream Sigils]</style>, further improving their combat experience. <br>Slumberdream Mask: Before unlocking Illusion, you can equip different types of masks on the <style=\"GuideBookLab1\">Nappo statues</style> in the scene to gain unique <style=\"GuideBookLab1\">buffs</style> and increase the difficulty.<br><style=\"GuideBookLab1\">* Multiple masks can be equipped in a single challenge to further increase both difficulty and rewards. </style><br>Slumberdream Charm: Carrying a Charm greatly increases the adventurer's Slumberdream Resistance, <style=\"GuideBookLab1\">slows Slumberdream Value accumulation</style>, and boosts ATK, DEF, and HP. <br>Slumberdream Sigil: When opening chests in Slumberdream Valley, there is a chance to obtain a <style=\"GuideBookLab1\">[Dreamweaver Crystal Cluster]</style>. Using one allows you to choose one of three random Slumberdream Sigils and gain a powerful <style=\"GuideBookLab1\">temporary enhancement</style>.",
-      "The <style=\"GuideBookLab1\">[Slumberdream Psychoscope]</style> is a unique progression system that provides <style=\"GuideBookLab1\">feature-wide buffs</style> effective only within the Slumberdream Valley. By inserting [Rhapsody Factors] into the Psychoscope, powerful class-specific boosts can also be granted.<br><style=\"GuideBookLab1\">* Rhapsody Factors can be purchased from the Slumberdream Store. <br>The Slumberdream Psychoscope allows <style=\"GuideBookLab1\">multiple preset plans</style>. After a plan is saved, adventurers can select and activate it via the <style=\"GuideBookLab1\">\"Switch Plan\"</style> button in the lower-left corner.",
-      "Hidden areas exist within Slumberdream Valley that require the special item, <style=\"GuideBookLab1\">[Mind Key]</style>, to access. These areas may hold rich rewards—but also great danger. Adventurers wishing to explore them should first purchase Mind Keys from the <style=\"GuideBookLab1\">Slumberdream Store</style>."
+      "The <style=\"GuideBookLab1\">[Slumberdream Psychoscope]</style> is a unique progression system that provides <style=\"GuideBookLab1\">feature-wide buffs</style> effective only within the Slumberdream Valley. By inserting [Rhapsody Factors] into the Psychoscope, powerful class-specific boosts can also be granted.<br><style=\"GuideBookLab1\">* Rhapsody Factors can be purchased from the Slumberdream Store. <br>The Slumberdream Psychoscope allows <style=\"GuideBookLab1\">multiple preset plans</style>. After a plan is saved, adventurers can select and activate it via the <style=\"GuideBookLab1\">\"Switch Plan\"</style> button in the lower-left corner."
     ],
     "Res": [
       "roguedm_shop",
@@ -2943,7 +3264,111 @@
     "Condition": [
       [
         105,
-        2
+        3
+      ]
+    ]
+  },
+  "4602": {
+    "Id": 4602,
+    "SortId": 462,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Res": [
+      "roguedm_event1",
+      "roguedm_event2",
+      "roguedm_event3",
+      "roguedm_event4",
+      "roguedm_event5"
+    ],
+    "Sequence": 46,
+    "DurationTime": 15,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": [
+      [
+        105,
+        3
+      ]
+    ]
+  },
+  "4603": {
+    "Id": 4603,
+    "SortId": 462,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      "",
+      "",
+      ""
+    ],
+    "Res": [
+      "roguedm_event1",
+      "roguedm_event2",
+      "roguedm_event3"
+    ],
+    "Sequence": 47,
+    "DurationTime": 15,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": [
+      [
+        1,
+        99999
+      ]
+    ]
+  },
+  "4604": {
+    "Id": 4604,
+    "SortId": 462,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      "",
+      ""
+    ],
+    "Res": [
+      "roguedm_event4",
+      "roguedm_event5"
+    ],
+    "Sequence": 48,
+    "DurationTime": 15,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": [
+      [
+        1,
+        99999
       ]
     ]
   },
@@ -2960,7 +3385,7 @@
       "",
       "Gameplay activated",
       "",
-      "The Dreambloom Ruins are extremely dangerous and requires coordinated teamwork to overcome powerful foes. A party of at least 10 players is required to start the challenge, and the party leader must initiate it.<br>",
+      "The Dreambloom Ruins can be challenged in a party. Once the party is formed, the leader must initiate the challenge.<br>",
       "",
       "Rewards",
       "",
@@ -2968,15 +3393,146 @@
       "",
       "Dynamic Difficulty",
       "",
-      "The dungeon dynamically adjusts its difficulty based on party size. When the number of players decreases, the difficulty is lowered accordingly.<br>",
-      "",
-      "Guild Buffs",
-      "",
-      "If 20+ guild members successfully clear Boss Challenges, teaming up with fellow members will grant Guild Buffs. Cooperation with your guild members is highly recommended!"
+      "The Dreambloom Ruins adjusts its difficulty based on party size. When the number of players decreases, the difficulty is lowered accordingly."
     ],
     "Res": [],
     "Sequence": 0,
     "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "4512": {
+    "Id": 4512,
+    "SortId": 452,
+    "Type": 3,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 0,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Res": [],
+    "Sequence": 0,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "4513": {
+    "Id": 4513,
+    "SortId": 459,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Res": [
+      "raidmech01_01",
+      "raidmech01_02",
+      "raidmech01_03",
+      "raidmech01_04",
+      "raidmech01_05",
+      "raidmech01_06"
+    ],
+    "Sequence": 45,
+    "DurationTime": 15,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "4514": {
+    "Id": 4514,
+    "SortId": 460,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Res": [
+      "raidmech02_01",
+      "raidmech02_03",
+      "raidmech02_02",
+      "raidmech02_04"
+    ],
+    "Sequence": 46,
+    "DurationTime": 15,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "4515": {
+    "Id": 4515,
+    "SortId": 461,
+    "Type": 1,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 3,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Res": [
+      "raidmech03_01",
+      "raidmech03_02",
+      "raidmech03_03",
+      "raidmech03_04"
+    ],
+    "Sequence": 47,
+    "DurationTime": 15,
     "EventType": 0,
     "Param": "",
     "Button": "",
@@ -3245,6 +3801,52 @@
       "Renewal Light Vault Card",
       "",
       "The prizes obtained from <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> can be recycled at Kalista in the Meowlux Member Store on the second floor of the shopping center near the Pioneer Bureau for <color=#9cb9ef>Renewal Light Vault Cards</color>. When obtaining a duplicate Appearance through <color=#ab85f6>[R] Wishes</color>, it will automatically be converted into a certain number of Renewal Light Vault Cards, which can be used to exchange for rare items at the Renewal Store. After the event ends at 05:00 on March 9, 2026 (UTC-2), <color=#ffe2af>Kalista</color> will continue to maintain the Renewal Store access for exchanging for Renewal Light Vault Cards and other Renewal Light Wish rewards."
+    ],
+    "Res": [],
+    "Sequence": 0,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "300292": {
+    "Id": 300292,
+    "SortId": 300292,
+    "Type": 3,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 0,
+    "GroupName": "",
+    "Title": "  ",
+    "Content": [
+      "",
+      "  ",
+      "",
+      "  ",
+      "",
+      "  ",
+      "",
+      "  ",
+      "",
+      "Prizes & Pity",
+      "",
+      "Prizes are divided into four tiers by grade. The rarer the prize, the lower the chance of getting it. <br>A pity system is in place. If you haven't received an [SSR] after a certain number of wishes, you'll be guaranteed to obtain an [SSR] once the wish count reaches the pity threshold.<br>",
+      "",
+      "Pity Carryover",
+      "",
+      "The pity count for this Wish is <color=#ffe2af>calculated independently</color>and will not carry over to other Wish events, nor affect their pity counts.<br>",
+      "",
+      "Prize Binding Rules",
+      "",
+      "  ",
+      "",
+      "  ",
+      "",
+      "  "
     ],
     "Res": [],
     "Sequence": 0,
@@ -5222,7 +5824,7 @@
       "",
       "Rewards",
       "",
-      "The rewards from Unstable Space improve as the server progresses. At launch, it drops Lv.120 gear and Reforge Stones. When a new gear level becomes available, it will begin dropping gear and Reforge Stones of that level, along with Glittering Fluxgold—a material used to forge exclusive weapons. Glittering Fluxgold has a fixed drop rate of 1 piece every 2 clears. You can check the reward preview in Unstable Space for details. Missed rewards can be reclaimed the following week via the Reclaim Hub. <br><br>Both Solo/Duo and Multiplayer modes of Unstable Space now drop the same items, so you may freely choose either mode."
+      "The rewards from Unstable Space improve as the server progresses. At launch, it drops Lv.220 gear and Reforge Stones. When a new gear level becomes available, it will begin dropping gear and Reforge Stones of that level, along with materials used to forge exclusive weapons. These materials have a fixed drop rate of 1 piece every 2 clears. You can check the reward preview in Unstable Space for details. Missed rewards can be reclaimed the following week via the Reclaim Hub.<br><br>Both Solo/Duo and Multiplayer modes of Unstable Space now drop the same items, so you may freely choose either mode."
     ],
     "Res": [],
     "Sequence": 0,
@@ -5260,11 +5862,11 @@
       "",
       "Rewards",
       "",
-      "First Clear Rewards: <br>Normal: Lv.120 Legendary gear of your choice. <br>Hard/Master 1/Master 6: Legendary gear select chests of the corresponding levels. <br><br>Clear Rewards: Each successful clear of Hard or higher difficulty grants a piece of Legendary gear for your class <br><br>Special Event Rewards: If the \"Nappo Pandemonium\" event appears in the dungeon, successfully defeating the mischievous Nappo and interacting with its remaining device before clearing the dungeon grants special loot rewards (weekly limit of 5, counted separately across Basic + Hard, Master 1–5, and Master 6+ pools).<br>",
+      "First Clear Rewards:<br>Normal/Hard/Master 1/Master 6: Legendary gear select chests of the corresponding levels.<br><br>Clear Rewards: Each successful clear of Hard or higher difficulty grants a piece of Legendary gear for the current class.<br><br>Special Event Rewards: If the \"Squeaky Boarlet\" event appears in the dungeon, successfully defeating the Squeaky Boarlet and interacting with the devices it leaves behind before clearing the dungeon grants special loot rewards (weekly limit of 5, counted separately across Normal + Hard, Master 1–5, and Master 6+ pools).<br>",
       "",
       "Dungeon-Exclusive Appearance Acquisition",
       "",
-      "1. Dreamweave Dust, the general exchange material for the exclusive dungeon appearances of the \"Dreambloom\" season: Dropped in all difficulties. <br>Drop Limit: Normal/Hard: 800 total; Master 1–5: 800 total; Master 6 and above: No limit. <br><br>2. Dreamweave Silk, the special exchange material for the exclusive dungeon appearances of the \"Dreambloom\" season: Each difficulty drops its own corresponding type of Dreamweave Silk. <br>Drop Limit: Each type of Dreamweave Silk has a total drop limit of 100 across its corresponding difficulties.<br>",
+      "1. Dreamvoid Dust, the general exchange material for the exclusive dungeon appearances of the \"Echoes of Ember\" season: Drops in all difficulties.<br>Drop limit: Normal/Hard: 800 total; Master 1–5: 800 total; Master 6 and above: no limit.<br><br>2. Dreamvoid Silk, the special exchange material for the exclusive dungeon appearances of the \"Echoes of Ember\" season: Each dungeon drops its own corresponding type of Dreamvoid Silk.<br>Drop Limit: Each type of Dreamvoid Silk has a total drop limit of 100 across all difficulties in its respective dungeon.<br>",
       "",
       "Monster Attribute Notes",
       "",
@@ -5272,7 +5874,7 @@
       "",
       "About Reforge Stone",
       "",
-      "Normal/Hard modes drop Reforge Stone Lv.120. <br>Master 1–5 drop Reforge Stone Lv.140. <br>Master 6 and above drop Reforge Stone Lv. 160. <br>Reforge Stone rewards have a weekly limit. Limits for different levels of Reforge Stones are independent."
+      "Normal/Hard modes drop Reforge Stone Lv.220.<br>Master 1–5 drop Reforge Stone Lv.240.<br>Master 6 and above drop Reforge Stone Lv.260.<br>Reforge Stone rewards have a weekly limit. Limits for different levels of Reforge Stones are independent."
     ],
     "Res": [],
     "Sequence": 0,
@@ -5302,7 +5904,7 @@
       "",
       "Reforge Function",
       "",
-      "The first reforge <style=\"GuideBookLab1\">unlocks</style> a <style=\"GuideBookLab1\">reforging attribute</style> under Advanced Attributes, while subsequent reforge will <style=\"GuideBookLab1\">steadily improve</style> the gear's <style=\"GuideBookLab1\">perfection level</style>. For gear below the max perfection level, Reforge enhances basic and advanced attributes. However, once <style=\"GuideBookLab1\">perfection is capped</style>, Reforge will <style=\"GuideBookLab1\">only refresh the reforging attribute</style>.<br>Notably, when <style=\"GuideBookLab1\">reforged gear is dismantled</style>, <style=\"GuideBookLab1\">reforge materials</style> will be <style=\"GuideBookLab1\">refunded</style>, making it risk-free to reforge pre-capped gear.<br>",
+      "The first reforge <style=\"GuideBookLab1\">unlocks</style> a <style=\"GuideBookLab1\">reforging attribute</style> under Advanced Attributes, while subsequent reforges will <style=\"GuideBookLab1\">steadily improve</style> the gear's <style=\"GuideBookLab1\">perfection level</style>. For gear below the max perfection level, Reforge enhances basic and advanced attributes. However, once <style=\"GuideBookLab1\">perfection is capped</style>, it <style=\"GuideBookLab1\">can no longer be further reforged</style>. At that point, if the current reforging attribute is unsatisfactory, the <style=\"GuideBookLab1\">modification feature</style> can be used to <style=\"GuideBookLab1\">manually select</style> an attribute from that gear's reforging effect pool to apply. Notably, when <style=\"GuideBookLab1\">reforged gear is dismantled</style>, <style=\"GuideBookLab1\">reforge materials</style> will be <style=\"GuideBookLab1\">refunded</style>, making it risk-free to reforge pre-capped gear.<br>",
       "",
       "Refine Function",
       "",
@@ -5310,7 +5912,11 @@
       "",
       "Embedding",
       "",
-      "Embedding a <style=\"GuideBookLab1\">gem</style> into gear will <style=\"GuideBookLab1\">transfer its attributes onto the gear</style>. <style=\"GuideBookLab1\">Intermediate or advanced embedding</style> grants <style=\"GuideBookLab1\">higher-level gem effects</style>. (Note: Gems embedded in the gear will not be returned upon dismantling.)<br>",
+      "Embedding a <style=\"GuideBookLab1\">gem/sigil</style> into gear will <style=\"GuideBookLab1\">transfer its attributes onto the gear</style>. <style=\"GuideBookLab1\">Intermediate or advanced embedding</style> grants <style=\"GuideBookLab1\">higher-level gem/sigil effects</style>. (Note: Gems/sigils embedded in the gear will not be returned upon dismantling.)<br>",
+      "",
+      "Modification Feature",
+      "",
+      "Modification is divided into Reforge Effect Modification and Rare Effect Modification.<br>Reforge Effect Modification: When gear reaches maximum Perfection, it can no longer be reforged. If the current reforge effects are unsatisfactory, one effect can be manually selected from the gear's reforge effect pool.<br>Rare Effect Modification: If the current rare effect is unsatisfactory, one effect can be manually selected from the gear's rare effect pool. Some gear does not initially have a rare effect, but one can still be selected from the gear's rare effect pool through Modification.<br>Note: 1) The Modification interface only displays gear available for the current class. Gear for other classes will only appear after switching to that class. 2) Currently, for specialization-adaptive gear, only certain special weapons can be modified. Modification results are calculated independently for each specialization. 3) Only one effect can be selected per Modification. Each Modification consumes materials separately, and consumed materials are not refunded upon dismantling. Choose entry effects carefully.<br>",
       "",
       "Outfit Set",
       "",
@@ -5322,7 +5928,7 @@
       "",
       "Perfection",
       "",
-      "Perfection is a straightforward indicator of gear's quality, with a maximum value of <style=\"GuideBookLab1\">100</style>.<br>Perfection Cap: Different pieces of gear may have different perfection potential. Before reaching the cap, each <style=\"GuideBookLab1\">reforge attempt</style> will <style=\"GuideBookLab1\">change (increase) the gear's perfection</style>. Once the perfection level <style=\"GuideBookLab1\">reaches the cap</style>, <style=\"GuideBookLab1\">further reforging</style> will <style=\"GuideBookLab1\">only refresh the reforging stats</style>."
+      "Perfection is a straightforward indicator of gear's quality, with a maximum value of <style=\"GuideBookLab1\">100</style>.<br>Perfection Cap: Different pieces of gear may have different Perfection caps. Before the gear's Perfection reaches the cap, each <style=\"GuideBookLab1\">Reforge</style> will <style=\"GuideBookLab1\">change (increase) the Perfection</style>. However, once the gear's Perfection <style=\"GuideBookLab1\">reaches the cap</style>, it <style=\"GuideBookLab1\">can no longer be reforged</style>."
     ],
     "Res": [],
     "Sequence": 0,
@@ -5622,7 +6228,7 @@
       "",
       "Module Introduction",
       "",
-      "Modules are advanced technologies inherited from a previous era. Widely equipped by adventurers, modules offer powerful performance boosts in battle. They come in three quality tiers: Basic, Advanced, and Excellent, with Excellent modules providing the strongest effects. Each adventurer can equip up to four modules at a time.<br>",
+      "Modules are advanced technologies inherited from a previous era. Widely equipped by adventurers, modules offer powerful performance boosts in battle. They come in three quality tiers: Basic, Advanced, and Excellent, with Excellent modules providing the strongest effects. Each adventurer can equip up to five modules at a time.<br>",
       "",
       "Effect",
       "",
@@ -6677,8 +7283,12 @@
     "MainTitle": "",
     "HelpGroup": 0,
     "GroupName": "",
-    "Title": "Pre-Battle Growth Loadout",
+    "Title": "Class Loot & Pre-Battle Growth Loadout",
     "Content": [
+      "",
+      "Class Loot Rules",
+      "",
+      "Adventurers can set another unlocked class as their loot class. When obtaining growth items for the current class, items for the selected loot class will be received instead.<br>",
       "",
       "Pre-Battle Growth Loadout",
       "",
@@ -7343,7 +7953,11 @@
       "",
       "Monster Attributes",
       "",
-      "In the Ruins, attributes of monsters on each floor scale only with the number of entering players, and are not affected by Power Scores or server progresses. A new mechanic, Illusion Energy check, will be introduced in the new season—players below the required Illusion Energy threshold will be weakened."
+      "In the Ruins, attributes of monsters on each floor scale only with the number of players entering and are not affected by player Power Score or server age. A new mechanic, Illusion-Breaking Energy check, will be introduced in the new season—players who do not meet the required Illusion-Breaking Energy will receive a debuff.<br>",
+      "",
+      "Skip Floors",
+      "",
+      "When the reset happens every 2 weeks, players can skip a certain number of floors based on how many floors they have unlocked and their highest cleared floor this season. Players can claim skip-floor rewards for the corresponding floors directly. You cannot start challenges in the new cycle until these have been claimed."
     ],
     "Res": [],
     "Sequence": 0,
@@ -8354,6 +8968,32 @@
     "Guideunlock": 0,
     "Condition": []
   },
+  "23003": {
+    "Id": 23003,
+    "SortId": 23003,
+    "Type": 3,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 0,
+    "GroupName": "",
+    "Title": "  ",
+    "Content": [
+      "",
+      "  ",
+      "",
+      "  "
+    ],
+    "Res": [],
+    "Sequence": 0,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
   "2502": {
     "Id": 2502,
     "SortId": 2502,
@@ -8754,6 +9394,55 @@
     "Guideunlock": 0,
     "Condition": []
   },
+  "25001": {
+    "Id": 25001,
+    "SortId": 25001,
+    "Type": 3,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 0,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Res": [],
+    "Sequence": 0,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "25002": {
+    "Id": 25002,
+    "SortId": 25002,
+    "Type": 3,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 0,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      ""
+    ],
+    "Res": [],
+    "Sequence": 0,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
   "23002": {
     "Id": 23002,
     "SortId": 23002,
@@ -8768,6 +9457,100 @@
       "Astral Store",
       "",
       "Participate in Starry Carnival to earn <color=#eed335>Meowlux Special Universal Tickets</color> and <color=#9cb9ef>Astral Gold Meow Tickets</color>! Exchange them at the Astral Store for limited rewards!"
+    ],
+    "Res": [],
+    "Sequence": 0,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "2410": {
+    "Id": 2410,
+    "SortId": 2410,
+    "Type": 3,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 0,
+    "GroupName": "",
+    "Title": "Musician",
+    "Content": [
+      "",
+      "Musician Proficiency Level",
+      "",
+      "Adventurers can obtain <style=\"GuideBookLab1\">Proficiency</style> for different musicians by completing <style=\"GuideBookLab1\">Daily Practice</style> and <style=\"GuideBookLab1\">Weekly Practice</style> quests to increase their Proficiency, unlocking more instrument functions, sheet music, and level rewards.<br><br>Practice quests refresh daily and weekly, and their difficulty is matched to the musician's current Proficiency Level to help Adventurers unfamiliar with real instruments progress step by step.<br><br>Daily quest rewards can be claimed up to <style=\"GuideBookLab1\">1 time</style> per day, and weekly quest rewards can be claimed up to <style=\"GuideBookLab1\">5 times</style> per week. Adventurers may choose to focus on increasing the Proficiency Level of a single instrument or improve multiple instruments simultaneously.",
+      "",
+      "More Instrument Features",
+      "",
+      "Each instrument is equipped with professional performance features.<br><br>For example, the keyboard provides a <style=\"GuideBookLab1\">full range of octaves and a sustain pedal</style>. The electric guitar supports playing techniques such as <style=\"GuideBookLab1\">harmonics and palm muting</style>, and allows you to freely switch between effects like <style=\"GuideBookLab1\">clean, overdrive, and distortion</style>. The electric bass also features various playing techniques and effect switching. These performance features gradually unlock as your musician proficiency level increases.<br><br>You also have a <style=\"GuideBookLab1\">built-in smart metronome</style>, allowing you to adjust the beat and tempo based on specific songs and ensemble requirements. The metronome supports both <style=\"GuideBookLab1\">Solo Practice Mode</style> and <style=\"GuideBookLab1\">Group Ensemble Mode</style>. In solo mode, you can use it to hone your skills, while in ensemble mode, you can synchronize the beat for all members, enabling seamless collaboration.",
+      "",
+      "Graded Tutorials",
+      "",
+      "There are <style=\"GuideBookLab1\">graded tutorials</style> of varying difficulties to help Adventurers learn instrument performances and gradually familiarize themselves with notes and keys. Tutorials gradually unlock as your musician proficiency level increases.",
+      "",
+      "Ensemble Feature",
+      "",
+      "The online ensemble feature allows Adventurers to use the <style=\"GuideBookLab1\">Party system</style> to initiate an <style=\"GuideBookLab1\">ensemble</style> in Free Performance mode. During an ensemble, all members can synchronize beats for seamless collaboration.<br><br>Parties <style=\"GuideBookLab1\">are not restricted by instrument types</style>, so Adventurers can form ensembles based on the requirements of each song."
+    ],
+    "Res": [],
+    "Sequence": 0,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "3032": {
+    "Id": 3032,
+    "SortId": 3032,
+    "Type": 3,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 0,
+    "GroupName": "",
+    "Title": "Instructor Overview",
+    "Content": [
+      "",
+      "Instructor Certification Overview",
+      "",
+      "Complete designated tasks in the Instructor Certification to become a Star Instructor. After becoming a certified Star Instructor, pass the seasonal evaluation to be promoted to Sky Instructor and receive the specified rewards.<br>",
+      "",
+      "Instructor Quests",
+      "",
+      "Instructor Weekly Quests: Quests can be completed repeatedly to earn Instructor Points. Reach the required weekly Instructor Points to claim rewards. Rewards reset every Monday at 5:00 AM.<br>Challenge Quests: Complete the corresponding challenge quests to obtain rewards!"
+    ],
+    "Res": [],
+    "Sequence": 0,
+    "DurationTime": 0,
+    "EventType": 0,
+    "Param": "",
+    "Button": "",
+    "FunctionId": 0,
+    "Icon": "",
+    "Guideunlock": 0,
+    "Condition": []
+  },
+  "3033": {
+    "Id": 3033,
+    "SortId": 3033,
+    "Type": 0,
+    "TypeGroup": 0,
+    "MainTitle": "",
+    "HelpGroup": 0,
+    "GroupName": "",
+    "Title": "",
+    "Content": [
+      "",
+      "",
+      "",
+      ""
     ],
     "Res": [],
     "Sequence": 0,

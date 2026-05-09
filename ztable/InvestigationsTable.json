@@ -340,6 +340,26 @@
     "Guarantee": 3,
     "IsHidePlayerModel": false
   },
+  "10003": {
+    "Id": 10003,
+    "InvestigationTheme": "The Miners' Situation",
+    "UnlockCondition": [
+      [
+        2,
+        20026,
+        20026010
+      ]
+    ],
+    "InvestigationStep": [
+      100031
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Are the miners willing to leave this place and return to Asterleeds? <br>Please analyze the truth based on the clues investigated previously.",
+    "IockedTips": "Advance Quest <style=\"emph-quest\">Homeward</style> to unlock the investigation.",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
   "10004": {
     "Id": 10004,
     "InvestigationTheme": "Find the \"List\"",
@@ -360,22 +380,22 @@
     "Guarantee": 3,
     "IsHidePlayerModel": false
   },
-  "10003": {
-    "Id": 10003,
-    "InvestigationTheme": "The Miners' Situation",
+  "10005": {
+    "Id": 10005,
+    "InvestigationTheme": "Is the message bottle really a treasure clue?",
     "UnlockCondition": [
       [
         2,
-        20026,
-        20026010
+        30814,
+        30814013
       ]
     ],
     "InvestigationStep": [
-      100031
+      100051
     ],
     "CompletionConditions": [],
-    "ThemeIntroduction": "Are the miners willing to leave this place and return to Asterleeds? <br>Please analyze the truth based on the clues investigated previously.",
-    "IockedTips": "Advance Quest <style=\"emph-quest\">Homeward</style> to unlock the investigation.",
+    "ThemeIntroduction": "Ely refuses to believe this is false hope.<br>Please analyze the truth based on the clues investigated previously.",
+    "IockedTips": "Advance the quest <style=\"emph-quest\">All For Naught</style> to unlock the investigation.",
     "ThemePic": "ui/textures/investigation/investigation_common_bg",
     "Guarantee": 3,
     "IsHidePlayerModel": false

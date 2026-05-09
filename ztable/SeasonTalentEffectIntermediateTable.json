@@ -1,28 +1,28 @@
 {
   "100": {
     "Id": 100,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "101": {
     "Id": 101,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "102": {
     "Id": 102,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "103": {
     "Id": 103,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -31,7 +31,7 @@
   },
   "104": {
     "Id": 104,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -40,7 +40,7 @@
   },
   "105": {
     "Id": 105,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -49,7 +49,7 @@
   },
   "106": {
     "Id": 106,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -57,6 +57,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -67,7 +68,7 @@
   },
   "107": {
     "Id": 107,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -75,6 +76,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -85,7 +87,7 @@
   },
   "108": {
     "Id": 108,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -93,6 +95,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -103,7 +106,7 @@
   },
   "109": {
     "Id": 109,
-    "Name": "Class DEF",
+    "Name": "Class Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality3",
     "FactorType": [
       4
@@ -111,6 +114,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -121,28 +125,28 @@
   },
   "110": {
     "Id": 110,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "111": {
     "Id": 111,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "112": {
     "Id": 112,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "113": {
     "Id": 113,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -151,7 +155,7 @@
   },
   "114": {
     "Id": 114,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -160,7 +164,7 @@
   },
   "115": {
     "Id": 115,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -169,7 +173,7 @@
   },
   "116": {
     "Id": 116,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -177,6 +181,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -187,7 +192,7 @@
   },
   "117": {
     "Id": 117,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -195,6 +200,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -205,7 +211,7 @@
   },
   "118": {
     "Id": 118,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -213,6 +219,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -223,7 +230,7 @@
   },
   "119": {
     "Id": 119,
-    "Name": "Class DEF",
+    "Name": "Class Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality3",
     "FactorType": [
       4
@@ -231,6 +238,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -241,28 +249,28 @@
   },
   "120": {
     "Id": 120,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "121": {
     "Id": 121,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "122": {
     "Id": 122,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "123": {
     "Id": 123,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -271,7 +279,7 @@
   },
   "124": {
     "Id": 124,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -280,7 +288,7 @@
   },
   "125": {
     "Id": 125,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -289,7 +297,7 @@
   },
   "126": {
     "Id": 126,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -297,6 +305,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -307,7 +316,7 @@
   },
   "127": {
     "Id": 127,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -315,6 +324,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -325,7 +335,7 @@
   },
   "128": {
     "Id": 128,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -333,6 +343,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -343,7 +354,7 @@
   },
   "129": {
     "Id": 129,
-    "Name": "Class DEF",
+    "Name": "Class Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality3",
     "FactorType": [
       4
@@ -351,6 +362,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -361,28 +373,28 @@
   },
   "130": {
     "Id": 130,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "131": {
     "Id": 131,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "132": {
     "Id": 132,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "133": {
     "Id": 133,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -391,7 +403,7 @@
   },
   "134": {
     "Id": 134,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -400,7 +412,7 @@
   },
   "135": {
     "Id": 135,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -409,7 +421,7 @@
   },
   "136": {
     "Id": 136,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -417,6 +429,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -427,7 +440,7 @@
   },
   "137": {
     "Id": 137,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -435,6 +448,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -445,7 +459,7 @@
   },
   "138": {
     "Id": 138,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -453,6 +467,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -463,7 +478,7 @@
   },
   "139": {
     "Id": 139,
-    "Name": "Class DEF",
+    "Name": "Class Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality3",
     "FactorType": [
       4
@@ -471,6 +486,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -481,28 +497,28 @@
   },
   "140": {
     "Id": 140,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "141": {
     "Id": 141,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "142": {
     "Id": 142,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "143": {
     "Id": 143,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -511,7 +527,7 @@
   },
   "144": {
     "Id": 144,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -520,7 +536,7 @@
   },
   "145": {
     "Id": 145,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -529,7 +545,7 @@
   },
   "146": {
     "Id": 146,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -537,6 +553,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -547,7 +564,7 @@
   },
   "147": {
     "Id": 147,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -555,6 +572,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -565,7 +583,7 @@
   },
   "148": {
     "Id": 148,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -573,6 +591,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -583,7 +602,7 @@
   },
   "149": {
     "Id": 149,
-    "Name": "Class DEF",
+    "Name": "Class Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality3",
     "FactorType": [
       4
@@ -591,6 +610,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -601,28 +621,28 @@
   },
   "150": {
     "Id": 150,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "151": {
     "Id": 151,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "152": {
     "Id": 152,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "153": {
     "Id": 153,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -631,7 +651,7 @@
   },
   "154": {
     "Id": 154,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -640,7 +660,7 @@
   },
   "155": {
     "Id": 155,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -649,7 +669,7 @@
   },
   "156": {
     "Id": 156,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -657,6 +677,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -667,7 +688,7 @@
   },
   "157": {
     "Id": 157,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -675,6 +696,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -685,7 +707,7 @@
   },
   "158": {
     "Id": 158,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -693,6 +715,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -703,7 +726,7 @@
   },
   "159": {
     "Id": 159,
-    "Name": "Class DEF",
+    "Name": "Class Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality3",
     "FactorType": [
       4
@@ -711,6 +734,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -721,28 +745,28 @@
   },
   "160": {
     "Id": 160,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "161": {
     "Id": 161,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "162": {
     "Id": 162,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "163": {
     "Id": 163,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -751,7 +775,7 @@
   },
   "164": {
     "Id": 164,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -760,7 +784,7 @@
   },
   "165": {
     "Id": 165,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -769,7 +793,7 @@
   },
   "166": {
     "Id": 166,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -777,6 +801,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -787,7 +812,7 @@
   },
   "167": {
     "Id": 167,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -795,6 +820,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -805,7 +831,7 @@
   },
   "168": {
     "Id": 168,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -813,6 +839,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -823,7 +850,7 @@
   },
   "169": {
     "Id": 169,
-    "Name": "Class DEF",
+    "Name": "Class Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality3",
     "FactorType": [
       4
@@ -831,6 +858,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -841,28 +869,28 @@
   },
   "170": {
     "Id": 170,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "171": {
     "Id": 171,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "172": {
     "Id": 172,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "173": {
     "Id": 173,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -871,7 +899,7 @@
   },
   "174": {
     "Id": 174,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -880,7 +908,7 @@
   },
   "175": {
     "Id": 175,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -889,7 +917,7 @@
   },
   "176": {
     "Id": 176,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -897,6 +925,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -907,7 +936,7 @@
   },
   "177": {
     "Id": 177,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -915,6 +944,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -925,7 +955,7 @@
   },
   "178": {
     "Id": 178,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -933,6 +963,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -943,7 +974,7 @@
   },
   "179": {
     "Id": 179,
-    "Name": "Class DEF",
+    "Name": "Class Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality3",
     "FactorType": [
       4
@@ -951,6 +982,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -969,6 +1001,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -979,7 +1012,7 @@
   },
   "181": {
     "Id": 181,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -987,6 +1020,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -997,14 +1031,14 @@
   },
   "182": {
     "Id": 182,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "183": {
     "Id": 183,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -1013,7 +1047,7 @@
   },
   "184": {
     "Id": 184,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1021,6 +1055,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1031,14 +1066,14 @@
   },
   "185": {
     "Id": 185,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "186": {
     "Id": 186,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -1055,6 +1090,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1065,7 +1101,7 @@
   },
   "188": {
     "Id": 188,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1073,6 +1109,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1091,6 +1128,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1101,7 +1139,7 @@
   },
   "190": {
     "Id": 190,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1109,6 +1147,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1119,14 +1158,14 @@
   },
   "191": {
     "Id": 191,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "192": {
     "Id": 192,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -1135,7 +1174,7 @@
   },
   "193": {
     "Id": 193,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1143,6 +1182,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1153,14 +1193,14 @@
   },
   "194": {
     "Id": 194,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "195": {
     "Id": 195,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -1177,6 +1217,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1187,7 +1228,7 @@
   },
   "197": {
     "Id": 197,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1195,6 +1236,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1213,6 +1255,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1223,7 +1266,7 @@
   },
   "199": {
     "Id": 199,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1231,6 +1274,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1241,14 +1285,14 @@
   },
   "200": {
     "Id": 200,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "201": {
     "Id": 201,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -1257,7 +1301,7 @@
   },
   "202": {
     "Id": 202,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1265,6 +1309,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1275,14 +1320,14 @@
   },
   "203": {
     "Id": 203,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "204": {
     "Id": 204,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -1299,6 +1344,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1309,7 +1355,7 @@
   },
   "206": {
     "Id": 206,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1317,6 +1363,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1335,6 +1382,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1345,7 +1393,7 @@
   },
   "208": {
     "Id": 208,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1353,6 +1401,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1363,14 +1412,14 @@
   },
   "209": {
     "Id": 209,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "210": {
     "Id": 210,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -1379,7 +1428,7 @@
   },
   "211": {
     "Id": 211,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1387,6 +1436,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1397,14 +1447,14 @@
   },
   "212": {
     "Id": 212,
-    "Name": "General ATK",
+    "Name": "Polarity",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
     "FactorType": [],
     "ProfessionId": []
   },
   "213": {
     "Id": 213,
-    "Name": "General DEF",
+    "Name": "Stasis",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
     "FactorType": [
       2
@@ -1421,6 +1471,7 @@
     "ProfessionId": [
       1,
       2,
+      3,
       4,
       5,
       9,
@@ -1431,7 +1482,7 @@
   },
   "215": {
     "Id": 215,
-    "Name": "Class-Exclusive",
+    "Name": "Inspiration",
     "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
     "FactorType": [
       3
@@ -1439,6 +1490,565 @@
     "ProfessionId": [
       1,
       2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "216": {
+    "Id": 216,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "217": {
+    "Id": 217,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "218": {
+    "Id": 218,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "219": {
+    "Id": 219,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "220": {
+    "Id": 220,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "221": {
+    "Id": 221,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "222": {
+    "Id": 222,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "223": {
+    "Id": 223,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "224": {
+    "Id": 224,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "225": {
+    "Id": 225,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "226": {
+    "Id": 226,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "227": {
+    "Id": 227,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "228": {
+    "Id": 228,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "229": {
+    "Id": 229,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "230": {
+    "Id": 230,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "231": {
+    "Id": 231,
+    "Name": "Reality",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      6
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "232": {
+    "Id": 232,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality5",
+    "FactorType": [
+      5
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "233": {
+    "Id": 233,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      3
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "234": {
+    "Id": 234,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
+    "FactorType": [],
+    "ProfessionId": []
+  },
+  "235": {
+    "Id": 235,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
+    "FactorType": [
+      2
+    ],
+    "ProfessionId": []
+  },
+  "236": {
+    "Id": 236,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      3
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "237": {
+    "Id": 237,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
+    "FactorType": [],
+    "ProfessionId": []
+  },
+  "238": {
+    "Id": 238,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
+    "FactorType": [
+      2
+    ],
+    "ProfessionId": []
+  },
+  "239": {
+    "Id": 239,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality5",
+    "FactorType": [
+      5
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "240": {
+    "Id": 240,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      3
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "241": {
+    "Id": 241,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality5",
+    "FactorType": [
+      5
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "242": {
+    "Id": 242,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      3
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "243": {
+    "Id": 243,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
+    "FactorType": [],
+    "ProfessionId": []
+  },
+  "244": {
+    "Id": 244,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
+    "FactorType": [
+      2
+    ],
+    "ProfessionId": []
+  },
+  "245": {
+    "Id": 245,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      3
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "246": {
+    "Id": 246,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality2",
+    "FactorType": [],
+    "ProfessionId": []
+  },
+  "247": {
+    "Id": 247,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality4",
+    "FactorType": [
+      2
+    ],
+    "ProfessionId": []
+  },
+  "248": {
+    "Id": 248,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality5",
+    "FactorType": [
+      5
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      11,
+      12,
+      13
+    ]
+  },
+  "249": {
+    "Id": 249,
+    "Name": "",
+    "Icon": "ui/atlas/season_talent/img_season_talent_tree_quality1",
+    "FactorType": [
+      3
+    ],
+    "ProfessionId": [
+      1,
+      2,
+      3,
       4,
       5,
       9,

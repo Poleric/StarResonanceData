@@ -18,6 +18,25 @@
     ],
     "Icon": ""
   },
+  "920501": {
+    "VariableId": 920501,
+    "VariableName": "DMpoint",
+    "VariableType": 1,
+    "VariableDisplayName": "",
+    "VariableLimit": [],
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_307"
+  },
+  "920502": {
+    "VariableId": 920502,
+    "VariableName": "DMboss",
+    "VariableType": 1,
+    "VariableDisplayName": "DMpoint",
+    "VariableLimit": [
+      0,
+      2000
+    ],
+    "Icon": ""
+  },
   "1100101": {
     "VariableId": 1100101,
     "VariableName": "hideAward",

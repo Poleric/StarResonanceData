@@ -40,5 +40,35 @@
     "ShowName": "Slumberdream Value",
     "IsShowPercent": 1,
     "Order": 3
+  },
+  "4": {
+    "Id": 4,
+    "Type": 2,
+    "Datas": [
+      "music_value",
+      "music_value_max"
+    ],
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar_3_color",
+    "ProgressColor": "#FFFFFF",
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_music",
+    "IconColor": "#000000",
+    "ShowName": "Echo Residue",
+    "IsShowPercent": 0,
+    "Order": 2
+  },
+  "5": {
+    "Id": 5,
+    "Type": 1,
+    "Datas": [
+      "90021",
+      "90027"
+    ],
+    "ProgressIcon": "ui/atlas/mainui/progress/main_progress_bar",
+    "ProgressColor": "#F04F84",
+    "Icon": "ui/atlas/mainui/progress/icon/main_progress_icon_illusion",
+    "IconColor": "#000000",
+    "ShowName": "",
+    "IsShowPercent": 1,
+    "Order": 3
   }
 }

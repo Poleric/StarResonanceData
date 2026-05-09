@@ -597,6 +597,19 @@
     "SkillFlowOffset": 0.0,
     "SkillFlowRadius": 0.0
   },
+  "70": {
+    "Id": 70,
+    "Des": "斥力球小击退",
+    "BehitType": 2,
+    "HorImpactForce": 3200.0,
+    "VerImpactForce": 200.0,
+    "StiffingTime": 0.7,
+    "StiffHangTime": 0.0,
+    "StiffEndTime": 0.0,
+    "MinimumHorSpeed": 10.0,
+    "SkillFlowOffset": 0.0,
+    "SkillFlowRadius": 0.0
+  },
   "4001": {
     "Id": 4001,
     "Des": "击飞5",

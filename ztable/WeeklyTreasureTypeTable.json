@@ -1780,5 +1780,1383 @@
     "UpTargetAward": [],
     "HelpId": 2503,
     "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2101": {
+    "Id": 2101,
+    "Season": 3,
+    "Week": [],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31010,
+    "UpTargetAward": [
+      [
+        210001,
+        31011
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2102": {
+    "Id": 2102,
+    "Season": 3,
+    "Week": [
+      2
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31020,
+    "UpTargetAward": [
+      [
+        210001,
+        31021
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2103": {
+    "Id": 2103,
+    "Season": 3,
+    "Week": [
+      3
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31030,
+    "UpTargetAward": [
+      [
+        210001,
+        31031
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2104": {
+    "Id": 2104,
+    "Season": 3,
+    "Week": [
+      4
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31040,
+    "UpTargetAward": [
+      [
+        210001,
+        31041
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2105": {
+    "Id": 2105,
+    "Season": 3,
+    "Week": [
+      5
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31050,
+    "UpTargetAward": [
+      [
+        210001,
+        31051
+      ],
+      [
+        210002,
+        31052
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2106": {
+    "Id": 2106,
+    "Season": 3,
+    "Week": [
+      6
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31060,
+    "UpTargetAward": [
+      [
+        210001,
+        31061
+      ],
+      [
+        210002,
+        31062
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2107": {
+    "Id": 2107,
+    "Season": 3,
+    "Week": [
+      7
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31070,
+    "UpTargetAward": [
+      [
+        210001,
+        31071
+      ],
+      [
+        210002,
+        31072
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2108": {
+    "Id": 2108,
+    "Season": 3,
+    "Week": [
+      8
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31080,
+    "UpTargetAward": [
+      [
+        210001,
+        31081
+      ],
+      [
+        210002,
+        31082
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2109": {
+    "Id": 2109,
+    "Season": 3,
+    "Week": [
+      9
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31090,
+    "UpTargetAward": [
+      [
+        210001,
+        31091
+      ],
+      [
+        210002,
+        31092
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2110": {
+    "Id": 2110,
+    "Season": 3,
+    "Week": [
+      10
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31100,
+    "UpTargetAward": [
+      [
+        210001,
+        31101
+      ],
+      [
+        210002,
+        31102
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2111": {
+    "Id": 2111,
+    "Season": 3,
+    "Week": [
+      11
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31110,
+    "UpTargetAward": [
+      [
+        210001,
+        31111
+      ],
+      [
+        210002,
+        31112
+      ],
+      [
+        210003,
+        31113
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2112": {
+    "Id": 2112,
+    "Season": 3,
+    "Week": [
+      12
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31120,
+    "UpTargetAward": [
+      [
+        210001,
+        31121
+      ],
+      [
+        210002,
+        31122
+      ],
+      [
+        210003,
+        31123
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2113": {
+    "Id": 2113,
+    "Season": 3,
+    "Week": [
+      13
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31130,
+    "UpTargetAward": [
+      [
+        210001,
+        31131
+      ],
+      [
+        210002,
+        31132
+      ],
+      [
+        210003,
+        31133
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2114": {
+    "Id": 2114,
+    "Season": 3,
+    "Week": [
+      14
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31140,
+    "UpTargetAward": [
+      [
+        210001,
+        31141
+      ],
+      [
+        210002,
+        31142
+      ],
+      [
+        210003,
+        31143
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2115": {
+    "Id": 2115,
+    "Season": 3,
+    "Week": [
+      15
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31150,
+    "UpTargetAward": [
+      [
+        210001,
+        31151
+      ],
+      [
+        210002,
+        31152
+      ],
+      [
+        210003,
+        31153
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2116": {
+    "Id": 2116,
+    "Season": 3,
+    "Week": [
+      16
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31160,
+    "UpTargetAward": [
+      [
+        210001,
+        31161
+      ],
+      [
+        210002,
+        31162
+      ],
+      [
+        210003,
+        31163
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2117": {
+    "Id": 2117,
+    "Season": 3,
+    "Week": [
+      17
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31170,
+    "UpTargetAward": [
+      [
+        210001,
+        31171
+      ],
+      [
+        210002,
+        31172
+      ],
+      [
+        210003,
+        31173
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2118": {
+    "Id": 2118,
+    "Season": 3,
+    "Week": [
+      18
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31180,
+    "UpTargetAward": [
+      [
+        210001,
+        31181
+      ],
+      [
+        210002,
+        31182
+      ],
+      [
+        210003,
+        31183
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2119": {
+    "Id": 2119,
+    "Season": 3,
+    "Week": [
+      19
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31190,
+    "UpTargetAward": [
+      [
+        210001,
+        31191
+      ],
+      [
+        210002,
+        31192
+      ],
+      [
+        210003,
+        31193
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2120": {
+    "Id": 2120,
+    "Season": 3,
+    "Week": [
+      20
+    ],
+    "Type": 1,
+    "Name": "Chaotic Realm",
+    "Target": [
+      110001,
+      110002,
+      110003
+    ],
+    "BaseAward": 31200,
+    "UpTargetAward": [
+      [
+        210001,
+        31201
+      ],
+      [
+        210002,
+        31202
+      ],
+      [
+        210003,
+        31203
+      ]
+    ],
+    "HelpId": 2501,
+    "Picture": "ui/textures/treasure/treasure_01"
+  },
+  "2201": {
+    "Id": 2201,
+    "Season": 3,
+    "Week": [],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32010,
+    "UpTargetAward": [
+      [
+        220001,
+        32011
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2202": {
+    "Id": 2202,
+    "Season": 3,
+    "Week": [
+      2
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32020,
+    "UpTargetAward": [
+      [
+        220001,
+        32021
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2203": {
+    "Id": 2203,
+    "Season": 3,
+    "Week": [
+      3
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32030,
+    "UpTargetAward": [
+      [
+        220001,
+        32031
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2204": {
+    "Id": 2204,
+    "Season": 3,
+    "Week": [
+      4
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32040,
+    "UpTargetAward": [
+      [
+        220001,
+        32041
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2205": {
+    "Id": 2205,
+    "Season": 3,
+    "Week": [
+      5
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32050,
+    "UpTargetAward": [
+      [
+        220001,
+        32051
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2206": {
+    "Id": 2206,
+    "Season": 3,
+    "Week": [
+      6
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32060,
+    "UpTargetAward": [
+      [
+        220001,
+        32061
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2207": {
+    "Id": 2207,
+    "Season": 3,
+    "Week": [
+      7
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32070,
+    "UpTargetAward": [
+      [
+        220001,
+        32071
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2208": {
+    "Id": 2208,
+    "Season": 3,
+    "Week": [
+      8
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32080,
+    "UpTargetAward": [
+      [
+        220001,
+        32081
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2209": {
+    "Id": 2209,
+    "Season": 3,
+    "Week": [
+      9
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32090,
+    "UpTargetAward": [
+      [
+        220001,
+        32091
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2210": {
+    "Id": 2210,
+    "Season": 3,
+    "Week": [
+      10
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32100,
+    "UpTargetAward": [
+      [
+        220001,
+        32101
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2211": {
+    "Id": 2211,
+    "Season": 3,
+    "Week": [
+      11
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32110,
+    "UpTargetAward": [
+      [
+        220001,
+        32111
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2212": {
+    "Id": 2212,
+    "Season": 3,
+    "Week": [
+      12
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32120,
+    "UpTargetAward": [
+      [
+        220001,
+        32121
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2213": {
+    "Id": 2213,
+    "Season": 3,
+    "Week": [
+      13
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32130,
+    "UpTargetAward": [
+      [
+        220001,
+        32131
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2214": {
+    "Id": 2214,
+    "Season": 3,
+    "Week": [
+      14
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32140,
+    "UpTargetAward": [
+      [
+        220001,
+        32141
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2215": {
+    "Id": 2215,
+    "Season": 3,
+    "Week": [
+      15
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32150,
+    "UpTargetAward": [
+      [
+        220001,
+        32151
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2216": {
+    "Id": 2216,
+    "Season": 3,
+    "Week": [
+      16
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32160,
+    "UpTargetAward": [
+      [
+        220001,
+        32161
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2217": {
+    "Id": 2217,
+    "Season": 3,
+    "Week": [
+      17
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32170,
+    "UpTargetAward": [
+      [
+        220001,
+        32171
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2218": {
+    "Id": 2218,
+    "Season": 3,
+    "Week": [
+      18
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32180,
+    "UpTargetAward": [
+      [
+        220001,
+        32181
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2219": {
+    "Id": 2219,
+    "Season": 3,
+    "Week": [
+      19
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32190,
+    "UpTargetAward": [
+      [
+        220001,
+        32191
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2220": {
+    "Id": 2220,
+    "Season": 3,
+    "Week": [
+      20
+    ],
+    "Type": 2,
+    "Name": "Wilds",
+    "Target": [
+      120001,
+      120002,
+      120003
+    ],
+    "BaseAward": 32200,
+    "UpTargetAward": [
+      [
+        220001,
+        32201
+      ]
+    ],
+    "HelpId": 2502,
+    "Picture": "ui/textures/treasure/treasure_02"
+  },
+  "2301": {
+    "Id": 2301,
+    "Season": 3,
+    "Week": [],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33010,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2302": {
+    "Id": 2302,
+    "Season": 3,
+    "Week": [
+      2
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33020,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2303": {
+    "Id": 2303,
+    "Season": 3,
+    "Week": [
+      3
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33030,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2304": {
+    "Id": 2304,
+    "Season": 3,
+    "Week": [
+      4
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33040,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2305": {
+    "Id": 2305,
+    "Season": 3,
+    "Week": [
+      5
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33050,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2306": {
+    "Id": 2306,
+    "Season": 3,
+    "Week": [
+      6
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33060,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2307": {
+    "Id": 2307,
+    "Season": 3,
+    "Week": [
+      7
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33070,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2308": {
+    "Id": 2308,
+    "Season": 3,
+    "Week": [
+      8
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33080,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2309": {
+    "Id": 2309,
+    "Season": 3,
+    "Week": [
+      9
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33090,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2310": {
+    "Id": 2310,
+    "Season": 3,
+    "Week": [
+      10
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33100,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2311": {
+    "Id": 2311,
+    "Season": 3,
+    "Week": [
+      11
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33110,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2312": {
+    "Id": 2312,
+    "Season": 3,
+    "Week": [
+      12
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33120,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2313": {
+    "Id": 2313,
+    "Season": 3,
+    "Week": [
+      13
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33130,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2314": {
+    "Id": 2314,
+    "Season": 3,
+    "Week": [
+      14
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33140,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2315": {
+    "Id": 2315,
+    "Season": 3,
+    "Week": [
+      15
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33150,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2316": {
+    "Id": 2316,
+    "Season": 3,
+    "Week": [
+      16
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33160,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2317": {
+    "Id": 2317,
+    "Season": 3,
+    "Week": [
+      17
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33170,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2318": {
+    "Id": 2318,
+    "Season": 3,
+    "Week": [
+      18
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33180,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2319": {
+    "Id": 2319,
+    "Season": 3,
+    "Week": [
+      19
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33190,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
+  },
+  "2320": {
+    "Id": 2320,
+    "Season": 3,
+    "Week": [
+      20
+    ],
+    "Type": 3,
+    "Name": "Life Skill",
+    "Target": [
+      130001,
+      130002,
+      130003
+    ],
+    "BaseAward": 33200,
+    "UpTargetAward": [],
+    "HelpId": 2503,
+    "Picture": "ui/textures/treasure/treasure_03"
   }
 }

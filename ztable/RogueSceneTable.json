@@ -2,14 +2,20 @@
   "9202": {
     "SceneId": 9202,
     "EntryTypeName": "Slumberdream Sigil",
-    "EntryDatabaseId": 1,
+    "EntryDatabaseIds": [],
     "GetEntryInterfaceTitle": "Please select a random Sigil.",
     "UpgradeEntryInterfaceTitle": "Please select an entry to upgrade",
     "HoldingEntryInterfaceTitle": "Slumberdream Sigils Owned",
     "HoldInterfaceButtonIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_176",
-    "RefreshPrice": [],
+    "RefreshPrice": [
+      0,
+      0
+    ],
     "RefreshNumber": 0,
-    "LockedPrice": [],
+    "LockedPrice": [
+      0,
+      0
+    ],
     "LockedNumber": 0,
     "BDName": [
       [
@@ -69,14 +75,23 @@
   "9203": {
     "SceneId": 9203,
     "EntryTypeName": "Slumberdream Sigil",
-    "EntryDatabaseId": 1,
+    "EntryDatabaseIds": [
+      1,
+      20
+    ],
     "GetEntryInterfaceTitle": "Please select a random Sigil.",
     "UpgradeEntryInterfaceTitle": "Please select an entry to upgrade",
     "HoldingEntryInterfaceTitle": "Slumberdream Sigils Owned",
     "HoldInterfaceButtonIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_176",
-    "RefreshPrice": [],
+    "RefreshPrice": [
+      0,
+      0
+    ],
     "RefreshNumber": 0,
-    "LockedPrice": [],
+    "LockedPrice": [
+      0,
+      0
+    ],
     "LockedNumber": 0,
     "BDName": [
       [
@@ -200,14 +215,24 @@
   "9204": {
     "SceneId": 9204,
     "EntryTypeName": "Slumberdream Sigil",
-    "EntryDatabaseId": 1,
+    "EntryDatabaseIds": [
+      1,
+      20,
+      21
+    ],
     "GetEntryInterfaceTitle": "Please select a random Sigil.",
     "UpgradeEntryInterfaceTitle": "Please select an entry to upgrade",
     "HoldingEntryInterfaceTitle": "Slumberdream Sigils Owned",
     "HoldInterfaceButtonIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_176",
-    "RefreshPrice": [],
+    "RefreshPrice": [
+      0,
+      0
+    ],
     "RefreshNumber": 0,
-    "LockedPrice": [],
+    "LockedPrice": [
+      0,
+      0
+    ],
     "LockedNumber": 0,
     "BDName": [
       [
@@ -326,6 +351,407 @@
     "PersonalPoints": [],
     "PublicPoints": [
       920201
+    ]
+  },
+  "9205": {
+    "SceneId": 9205,
+    "EntryTypeName": "",
+    "EntryDatabaseIds": [
+      1,
+      2
+    ],
+    "GetEntryInterfaceTitle": "",
+    "UpgradeEntryInterfaceTitle": "",
+    "HoldingEntryInterfaceTitle": "",
+    "HoldInterfaceButtonIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_176",
+    "RefreshPrice": [
+      0,
+      0
+    ],
+    "RefreshNumber": 0,
+    "LockedPrice": [
+      0,
+      0
+    ],
+    "LockedNumber": 0,
+    "BDName": [
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ]
+    ],
+    "PersonalPoints": [],
+    "PublicPoints": [
+      920501
+    ]
+  },
+  "9206": {
+    "SceneId": 9206,
+    "EntryTypeName": "",
+    "EntryDatabaseIds": [
+      1,
+      2,
+      3,
+      20
+    ],
+    "GetEntryInterfaceTitle": "",
+    "UpgradeEntryInterfaceTitle": "",
+    "HoldingEntryInterfaceTitle": "",
+    "HoldInterfaceButtonIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_176",
+    "RefreshPrice": [
+      0,
+      0
+    ],
+    "RefreshNumber": 0,
+    "LockedPrice": [
+      0,
+      0
+    ],
+    "LockedNumber": 0,
+    "BDName": [
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ]
+    ],
+    "PersonalPoints": [],
+    "PublicPoints": [
+      920501
+    ]
+  },
+  "9207": {
+    "SceneId": 9207,
+    "EntryTypeName": "",
+    "EntryDatabaseIds": [
+      1,
+      2,
+      3,
+      4,
+      21
+    ],
+    "GetEntryInterfaceTitle": "",
+    "UpgradeEntryInterfaceTitle": "",
+    "HoldingEntryInterfaceTitle": "",
+    "HoldInterfaceButtonIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_176",
+    "RefreshPrice": [
+      0,
+      0
+    ],
+    "RefreshNumber": 0,
+    "LockedPrice": [
+      0,
+      0
+    ],
+    "LockedNumber": 0,
+    "BDName": [
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ]
+    ],
+    "PersonalPoints": [],
+    "PublicPoints": [
+      920501
     ]
   }
 }

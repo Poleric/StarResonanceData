@@ -3287,6 +3287,31 @@
     "IsShowUI": true,
     "PauseLogic": []
   },
+  "122": {
+    "Id": 122,
+    "Name": "Illusory Performer",
+    "Description": "Influenced by Illusion, all enemies in the Dungeon gain significant stat boosts.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        702021,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
   "201": {
     "Id": 201,
     "Name": "Dreamflood Manifestation",
@@ -3436,6 +3461,177 @@
     "GsChange": 0,
     "IsShowUI": true,
     "PauseLogic": []
+  },
+  "301": {
+    "Id": 301,
+    "Name": "Seed of Illusion",
+    "Description": "Certain enemies in the dungeon spawn Seed of Illusion, slightly enhancing their attributes.<br><style=\"tipsYellow\">Defeating enemies with Seed of Illusion grants additional Echo Residue!<style=\"tipsYellow\">",
+    "Remark": "S3核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "302": {
+    "Id": 302,
+    "Name": "Echo Movement",
+    "Description": "After the dungeon opens, Echo Residue can be gained by defeating monsters and triggering special events. Once full, the Movement is activated, granting buffs to all players.",
+    "Remark": "S3核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_shuangrenjian",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "303": {
+    "Id": 303,
+    "Name": "Revelry Sound System",
+    "Description": "There are sound devices at fixed locations in the area. Interacting with them consumes Echo Residue to manually activate the Movement. Buff effects have three tiers based on energy consumed. Nearby monsters with Seed of Illusion are further enhanced and grant additional points when defeated. The Movement no longer activates automatically, except during boss battles.",
+    "Remark": "S3核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_debuff_bomb",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "311": {
+    "Id": 311,
+    "Name": "Fantastical Notes",
+    "Description": "Every now and then, a Note Field will appear around a random player, who can pull it along to move. When Elite or higher monsters are defeated within the Note Field, they drop Note Particles. Picking them up grants additional Echo Residue.",
+    "Remark": "S3核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_yuansuhudun_lei",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        1,
+        873601,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        90000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1
+    ]
+  },
+  "312": {
+    "Id": 312,
+    "Name": "Spotlight Moment",
+    "Description": "Every once in a while, a Shining Goblin will appear in the area. Defeating it grants Echo Residue. When the disco ball above its head flashes, make sure to turn your back in time!",
+    "Remark": "S3核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_yuansuhudun_lei",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        1,
+        873602,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        180000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1
+    ]
+  },
+  "313": {
+    "Id": 313,
+    "Name": "Dedication Dance",
+    "Description": "Every once in a while, a Dancing Ee-chan will appear near players, causing continuous HP loss while providing Echo Residue. Healing it will grant more bonuses!",
+    "Remark": "S3核心词缀",
+    "Icon": "ui/atlas/affix/com_affix_yuansuhudun_lei",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        1,
+        873603,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        180000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1
+    ]
   },
   "995": {
     "Id": 995,
@@ -5187,6 +5383,936 @@
         2.0,
         0.0
       ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2111": {
+    "Id": 2111,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具1肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997265,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2112": {
+    "Id": 2112,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具2肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        997815,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2113": {
+    "Id": 2113,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具3肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997812,
+        0
+      ],
+      [
+        1,
+        1,
+        997811,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2114": {
+    "Id": 2114,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具4肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997821,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2115": {
+    "Id": 2115,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具5肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997267,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2116": {
+    "Id": 2116,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具6肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997814,
+        0
+      ],
+      [
+        1,
+        1,
+        997813,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2117": {
+    "Id": 2117,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具7肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        997305,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2118": {
+    "Id": 2118,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具8肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997823,
+        0
+      ],
+      [
+        1,
+        4,
+        997817,
+        0
+      ],
+      [
+        1,
+        1,
+        997816,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ],
+      [
+        5.0,
+        0.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2119": {
+    "Id": 2119,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具9肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997822,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2120": {
+    "Id": 2120,
+    "Name": "",
+    "Description": "",
+    "Remark": "娜宝面具10肉鸽大秘境s3",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        997818,
+        0
+      ],
+      [
+        1,
+        1,
+        997819,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        5.0,
+        0.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2201": {
+    "Id": 2201,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Gauntlets, Earrings</style>.",
+    "Remark": "极限·诅咒的煌墓",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2202": {
+    "Id": 2202,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Gauntlets, Earrings</style>.",
+    "Remark": "极限·诅咒的煌墓",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2203": {
+    "Id": 2203,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.240 Legendary Gauntlets, Earrings</style>.",
+    "Remark": "极限·诅咒的煌墓",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2204": {
+    "Id": 2204,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.260 Legendary Gauntlets, Earrings</style>.",
+    "Remark": "极限·诅咒的煌墓",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2205": {
+    "Id": 2205,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Helmet, Necklace</style>.",
+    "Remark": "极限·机化处理所",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2206": {
+    "Id": 2206,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Helmet, Necklace</style>.",
+    "Remark": "极限·机化处理所",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2207": {
+    "Id": 2207,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.240 Legendary Helmet, Necklace</style>.",
+    "Remark": "极限·机化处理所",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2208": {
+    "Id": 2208,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.260 Legendary Helmet, Necklace</style>.",
+    "Remark": "极限·机化处理所",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2209": {
+    "Id": 2209,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Armor, Ring</style>.",
+    "Remark": "极限·蚀·蒂娜的精神之界",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2210": {
+    "Id": 2210,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Armor, Ring</style>.",
+    "Remark": "极限·蚀·蒂娜的精神之界",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2211": {
+    "Id": 2211,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.240 Legendary Armor, Ring</style>.",
+    "Remark": "极限·蚀·蒂娜的精神之界",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2212": {
+    "Id": 2212,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.260 Legendary Armor, Ring</style>.",
+    "Remark": "极限·蚀·蒂娜的精神之界",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2213": {
+    "Id": 2213,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Bracelet (L), Bracelet (R)</style>.",
+    "Remark": "极限·隐雾猎场",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2214": {
+    "Id": 2214,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Bracelet (L), Bracelet (R)</style>.",
+    "Remark": "极限·隐雾猎场",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2215": {
+    "Id": 2215,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.240 Legendary Bracelet (L), Bracelet (R)</style>.",
+    "Remark": "极限·隐雾猎场",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2216": {
+    "Id": 2216,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.260 Legendary Bracelet (L), Bracelet (R)</style>.",
+    "Remark": "极限·隐雾猎场",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2217": {
+    "Id": 2217,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Boots, Charm</style>.",
+    "Remark": "极限·蚀·巨塔遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2218": {
+    "Id": 2218,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Boots, Charm</style>.",
+    "Remark": "极限·蚀·巨塔遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2219": {
+    "Id": 2219,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.240 Legendary Boots, Charm</style>.",
+    "Remark": "极限·蚀·巨塔遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2220": {
+    "Id": 2220,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.260 Legendary Boots, Charm</style>.",
+    "Remark": "极限·蚀·巨塔遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2221": {
+    "Id": 2221,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Weapon</style>.",
+    "Remark": "极限·环海石礁",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2222": {
+    "Id": 2222,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.220 Legendary Weapon</style>.",
+    "Remark": "极限·环海石礁",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2223": {
+    "Id": 2223,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.240 Legendary Weapon</style>.",
+    "Remark": "极限·环海石礁",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2224": {
+    "Id": 2224,
+    "Name": "Boarlet's Noise Heist",
+    "Description": "The Squeaky Boarlet has broken through the planar barrier, hammering out chaotic beats with off-key notes! The party that attacks and claims its loot will receive additional rewards upon completion: <style=\"ItemQuality_4\">Lv.260 Legendary Weapon</style>.",
+    "Remark": "极限·环海石礁",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      []
     ],
     "GsChange": 0,
     "IsShowUI": true,

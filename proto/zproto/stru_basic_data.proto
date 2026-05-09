@@ -26,4 +26,8 @@ message BasicData {
 	bool isNewbie = 18 [json_name = "isNewbie"];
 	int32 seasonLevel = 19 [json_name = "seasonLevel"];
 	bool isBackflow = 20 [json_name = "isBackflow"];
+	int32 mentorType = 21 [json_name = "mentorType"];
+	bool isValidNewbie = 22 [json_name = "isValidNewbie"];
+	bool isValidBackflow = 23 [json_name = "isValidBackflow"];
+	int32 validMentorType = 24 [json_name = "validMentorType"];
 }

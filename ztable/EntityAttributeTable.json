@@ -182,6 +182,56 @@
     "IsLoadRank": false,
     "FightValueCoe": 10000
   },
+  "23": {
+    "Id": 23,
+    "Comment": "剧情通用-小怪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "24": {
+    "Id": 24,
+    "Comment": "剧情通用-精英",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "25": {
+    "Id": 25,
+    "Comment": "剧情通用-精英（无bk）",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "26": {
+    "Id": 26,
+    "Comment": "剧情通用-首领",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "27": {
+    "Id": 27,
+    "Comment": "剧情通用-护送npc",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
   "1": {
     "Id": 1,
     "Comment": "通用无敌属性带bk",
@@ -19504,9 +19554,29 @@
     "IsLoadRank": false,
     "FightValueCoe": 10000
   },
+  "8310": {
+    "Id": 8310,
+    "Comment": "博伊斯",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
   "920257": {
     "Id": 920257,
     "Comment": "沉眠学者2",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "8315": {
+    "Id": 8315,
+    "Comment": "？？？",
     "Level": [],
     "Season": [],
     "SeasonLv": [],
@@ -19524,6 +19594,16 @@
     "IsLoadRank": false,
     "FightValueCoe": 10000
   },
+  "30129": {
+    "Id": 30129,
+    "Comment": "黑石军团士兵",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
   "920259": {
     "Id": 920259,
     "Comment": "沉眠学者4",
@@ -19534,9 +19614,2419 @@
     "IsLoadRank": false,
     "FightValueCoe": 10000
   },
+  "30130": {
+    "Id": 30130,
+    "Comment": "格里格",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
   "920260": {
     "Id": 920260,
     "Comment": "沉眠学者5",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30131": {
+    "Id": 30131,
+    "Comment": "迪特尔",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30132": {
+    "Id": 30132,
+    "Comment": "阿尔芒",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30133": {
+    "Id": 30133,
+    "Comment": "艾里克",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30134": {
+    "Id": 30134,
+    "Comment": "贡纳",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30135": {
+    "Id": 30135,
+    "Comment": "冰暗巨蜥",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30136": {
+    "Id": 30136,
+    "Comment": "幻象娜宝",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30124": {
+    "Id": 30124,
+    "Comment": "织梦师奥尔森",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30125": {
+    "Id": 30125,
+    "Comment": "神官霍拉斯",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30128": {
+    "Id": 30128,
+    "Comment": "莱纳",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "30137": {
+    "Id": 30137,
+    "Comment": "裁定执行者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11200": {
+    "Id": 11200,
+    "Comment": "火焰蟹蛛",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      1,
+      1,
+      0
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11201": {
+    "Id": 11201,
+    "Comment": "荒原蟹蛛",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      5,
+      5,
+      100
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11202": {
+    "Id": 11202,
+    "Comment": "杀手蟹蛛",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      8,
+      8,
+      350
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11203": {
+    "Id": 11203,
+    "Comment": "掠食蟹蛛",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      10,
+      10,
+      590
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11204": {
+    "Id": 11204,
+    "Comment": "砂岩肉山",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      12,
+      12,
+      590
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11205": {
+    "Id": 11205,
+    "Comment": "灰烬肉山",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      15,
+      15,
+      620
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11206": {
+    "Id": 11206,
+    "Comment": "多格尔曼",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      17,
+      17,
+      660
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11207": {
+    "Id": 11207,
+    "Comment": "狂悖之王",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      18,
+      18,
+      870
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11208": {
+    "Id": 11208,
+    "Comment": "野山猪",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      18,
+      18,
+      870
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11209": {
+    "Id": 11209,
+    "Comment": "猎路山猪",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      22,
+      22,
+      920
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11210": {
+    "Id": 11210,
+    "Comment": "深绿之牙",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      27,
+      27,
+      1000
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11211": {
+    "Id": 11211,
+    "Comment": "山脊之牙",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      33,
+      33,
+      1300
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11212": {
+    "Id": 11212,
+    "Comment": "切齿毛球",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      39,
+      39,
+      1400
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11213": {
+    "Id": 11213,
+    "Comment": "尖棘毛球",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      45,
+      45,
+      1500
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11214": {
+    "Id": 11214,
+    "Comment": "食人毛球",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      48,
+      48,
+      1700
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11215": {
+    "Id": 11215,
+    "Comment": "嗜血毛球",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      50,
+      50,
+      1800
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11216": {
+    "Id": 11216,
+    "Comment": "巡视浮瞳",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      56,
+      56,
+      1900
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11217": {
+    "Id": 11217,
+    "Comment": "机心浮瞳",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      58,
+      58,
+      2000
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11218": {
+    "Id": 11218,
+    "Comment": "圣堂之眼",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      63,
+      63,
+      2150
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "11219": {
+    "Id": 11219,
+    "Comment": "空洞监察者",
+    "Level": [
+      60,
+      60
+    ],
+    "Season": [
+      3
+    ],
+    "SeasonLv": [
+      65,
+      65,
+      2300
+    ],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "660401": {
+    "Id": 660401,
+    "Comment": "幻祸哥布林",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "660402": {
+    "Id": 660402,
+    "Comment": "幻祸疯狂哥布林",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "660403": {
+    "Id": 660403,
+    "Comment": "幻祸精英哥布林",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "80015": {
+    "Id": 80015,
+    "Comment": "首领·掠食蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "80016": {
+    "Id": 80016,
+    "Comment": "首领·狂悖之王",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "80017": {
+    "Id": 80017,
+    "Comment": "首领·山脊之牙",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "80018": {
+    "Id": 80018,
+    "Comment": "首领·嗜血毛球",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "80019": {
+    "Id": 80019,
+    "Comment": "首领·空洞监察者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72001": {
+    "Id": 72001,
+    "Comment": "首领·掠食蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72002": {
+    "Id": 72002,
+    "Comment": "首领·狂悖之王",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72003": {
+    "Id": 72003,
+    "Comment": "首领·山脊之牙",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72004": {
+    "Id": 72004,
+    "Comment": "首领·嗜血毛球",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72005": {
+    "Id": 72005,
+    "Comment": "首领·空洞监察者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72006": {
+    "Id": 72006,
+    "Comment": "首领·凶猛金牙",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72007": {
+    "Id": 72007,
+    "Comment": "首领·幻妖蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72008": {
+    "Id": 72008,
+    "Comment": "首领·火焰食人魔",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72009": {
+    "Id": 72009,
+    "Comment": "首领·天才卷心菜大王",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72010": {
+    "Id": 72010,
+    "Comment": "首领·炎角",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72011": {
+    "Id": 72011,
+    "Comment": "首领·巴西利斯克",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72012": {
+    "Id": 72012,
+    "Comment": "首领·姆克头目",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72013": {
+    "Id": 72013,
+    "Comment": "首领·姆克王",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72014": {
+    "Id": 72014,
+    "Comment": "首领·哥布林王",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72015": {
+    "Id": 72015,
+    "Comment": "精英·杀手蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72016": {
+    "Id": 72016,
+    "Comment": "精英·多格尔曼",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72017": {
+    "Id": 72017,
+    "Comment": "精英·深绿之牙",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72018": {
+    "Id": 72018,
+    "Comment": "精英·食人毛球",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72019": {
+    "Id": 72019,
+    "Comment": "精英·圣堂之眼",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72020": {
+    "Id": 72020,
+    "Comment": "精英·蓝脊巨蜥",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72021": {
+    "Id": 72021,
+    "Comment": "精英·黑石军团执令官",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72022": {
+    "Id": 72022,
+    "Comment": "精英·黑石军团先锋官",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72023": {
+    "Id": 72023,
+    "Comment": "精英·哥布林欺诈师",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72024": {
+    "Id": 72024,
+    "Comment": "精英·哥布林巫医",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72025": {
+    "Id": 72025,
+    "Comment": "精英·黑焰地狐",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72026": {
+    "Id": 72026,
+    "Comment": "精英·忧郁卷心菜",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72027": {
+    "Id": 72027,
+    "Comment": "精英·冷酷卷心菜",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72028": {
+    "Id": 72028,
+    "Comment": "精英·翡翠角羊",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72029": {
+    "Id": 72029,
+    "Comment": "火焰蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72030": {
+    "Id": 72030,
+    "Comment": "荒原蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72031": {
+    "Id": 72031,
+    "Comment": "砂岩肉山",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72032": {
+    "Id": 72032,
+    "Comment": "灰烬肉山",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72033": {
+    "Id": 72033,
+    "Comment": "野山猪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72034": {
+    "Id": 72034,
+    "Comment": "猎路山猪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72035": {
+    "Id": 72035,
+    "Comment": "切齿毛球",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72036": {
+    "Id": 72036,
+    "Comment": "尖棘毛球",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72037": {
+    "Id": 72037,
+    "Comment": "巡视浮瞳",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72038": {
+    "Id": 72038,
+    "Comment": "机心浮瞳",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72039": {
+    "Id": 72039,
+    "Comment": "冰暗巨蜥",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72040": {
+    "Id": 72040,
+    "Comment": "岩火巨蜥",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72041": {
+    "Id": 72041,
+    "Comment": "森风巨蜥",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72042": {
+    "Id": 72042,
+    "Comment": "电光巨蜥",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72043": {
+    "Id": 72043,
+    "Comment": "黑石军团射手",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72044": {
+    "Id": 72044,
+    "Comment": "黑石军团卫士",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72045": {
+    "Id": 72045,
+    "Comment": "黑石军团战士",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72046": {
+    "Id": 72046,
+    "Comment": "黑石军团突击手",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72047": {
+    "Id": 72047,
+    "Comment": "哥布林战士",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72048": {
+    "Id": 72048,
+    "Comment": "哥布林斧手",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72049": {
+    "Id": 72049,
+    "Comment": "哥布林祭祀",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72050": {
+    "Id": 72050,
+    "Comment": "哥布林护卫",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72051": {
+    "Id": 72051,
+    "Comment": "卷心菜杀手",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72052": {
+    "Id": 72052,
+    "Comment": "卷心菜猎人",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72053": {
+    "Id": 72053,
+    "Comment": "卷心菜硬汉",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72054": {
+    "Id": 72054,
+    "Comment": "卷心菜爆裂者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72055": {
+    "Id": 72055,
+    "Comment": "地狐",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72056": {
+    "Id": 72056,
+    "Comment": "荒地狐",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72057": {
+    "Id": 72057,
+    "Comment": "幽冥角羊",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "72058": {
+    "Id": 72058,
+    "Comment": "流光角羊",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33701": {
+    "Id": 33701,
+    "Comment": "蒂娜·虚蚀心像",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33702": {
+    "Id": 33702,
+    "Comment": "蒂娜·虚蚀心像(分身)",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33901": {
+    "Id": 33901,
+    "Comment": "神罚代理者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33916": {
+    "Id": 33916,
+    "Comment": "[首领]煌墓机像09型",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33910": {
+    "Id": 33910,
+    "Comment": "三足重型眼舱",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4633": {
+    "Id": 4633,
+    "Comment": "海礁飞鱼",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33911": {
+    "Id": 33911,
+    "Comment": "三足眼舱",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33915": {
+    "Id": 33915,
+    "Comment": "光核之瞳",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33500": {
+    "Id": 33500,
+    "Comment": "塔纳特洛斯 · 终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33501": {
+    "Id": 33501,
+    "Comment": "蒸汽口",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33502": {
+    "Id": 33502,
+    "Comment": "火龙卷",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33503": {
+    "Id": 33503,
+    "Comment": "远离点",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33508": {
+    "Id": 33508,
+    "Comment": "姆克·半机体猎犬",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33509": {
+    "Id": 33509,
+    "Comment": "姆克·机体执行者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33510": {
+    "Id": 33510,
+    "Comment": "姆克·重装压制者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33511": {
+    "Id": 33511,
+    "Comment": "姆克·炎斧收割者·零式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33512": {
+    "Id": 33512,
+    "Comment": "姆克·重锤破城者·零式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33519": {
+    "Id": 33519,
+    "Comment": "转阶段火龙卷",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33521": {
+    "Id": 33521,
+    "Comment": "姆克·半机体猎犬",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33522": {
+    "Id": 33522,
+    "Comment": "姆克·机体执行者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33523": {
+    "Id": 33523,
+    "Comment": "姆克·重装压制者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33524": {
+    "Id": 33524,
+    "Comment": "姆克·炎斧收割者·零式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33525": {
+    "Id": 33525,
+    "Comment": "姆克·重锤破城者·零式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33526": {
+    "Id": 33526,
+    "Comment": "姆克·虹视狙击者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33527": {
+    "Id": 33527,
+    "Comment": "黑石军团枪手",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33528": {
+    "Id": 33528,
+    "Comment": "黑石军团盾兵",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33529": {
+    "Id": 33529,
+    "Comment": "黑石军团战士",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33530": {
+    "Id": 33530,
+    "Comment": "黑石军团突击兵",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33531": {
+    "Id": 33531,
+    "Comment": "黑石军团执令官",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33532": {
+    "Id": 33532,
+    "Comment": "黑石军团先锋官",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4601": {
+    "Id": 4601,
+    "Comment": "深海娜宝",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4608": {
+    "Id": 4608,
+    "Comment": "狂欢幻象·热情",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "1152": {
+    "Id": 1152,
+    "Comment": "卡特格里夫",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33912": {
+    "Id": 33912,
+    "Comment": "煌墓守护者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "1156": {
+    "Id": 1156,
+    "Comment": "战斗机像03型",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "1155": {
+    "Id": 1155,
+    "Comment": "次元遗迹",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4609": {
+    "Id": 4609,
+    "Comment": "狂欢幻象·动感",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "1153": {
+    "Id": 1153,
+    "Comment": "幻幻花",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33801": {
+    "Id": 33801,
+    "Comment": "破雾之牙",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4631": {
+    "Id": 4631,
+    "Comment": "蜥蜴人唤潮者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33803": {
+    "Id": 33803,
+    "Comment": "雷光野猪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4632": {
+    "Id": 4632,
+    "Comment": "蜥蜴人袭击者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33804": {
+    "Id": 33804,
+    "Comment": "变异蜂",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33805": {
+    "Id": 33805,
+    "Comment": "岩石蜥蜴",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33806": {
+    "Id": 33806,
+    "Comment": "疾驱大鹫",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4634": {
+    "Id": 4634,
+    "Comment": "深海凝视者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33807": {
+    "Id": 33807,
+    "Comment": "地狐",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4635": {
+    "Id": 4635,
+    "Comment": "蜥蜴人法师",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33808": {
+    "Id": 33808,
+    "Comment": "山猪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4636": {
+    "Id": 4636,
+    "Comment": "蜥蜴人士兵",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33809": {
+    "Id": 33809,
+    "Comment": "爆破蜂",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4637": {
+    "Id": 4637,
+    "Comment": "海礁捕食者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33810": {
+    "Id": 33810,
+    "Comment": "岩火巨蜥",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4638": {
+    "Id": 4638,
+    "Comment": "小蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33811": {
+    "Id": 33811,
+    "Comment": "平原雄鹰",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33812": {
+    "Id": 33812,
+    "Comment": "地狐",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33703": {
+    "Id": 33703,
+    "Comment": "班哈尔特步枪兵",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33704": {
+    "Id": 33704,
+    "Comment": "班哈尔特坦克",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33705": {
+    "Id": 33705,
+    "Comment": "班哈尔特剑士",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33706": {
+    "Id": 33706,
+    "Comment": "卡尼曼村民亡魂",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "700101": {
+    "Id": 700101,
+    "Comment": "呲呲小猪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33539": {
+    "Id": 33539,
+    "Comment": "道中扩散蒸汽",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33540": {
+    "Id": 33540,
+    "Comment": "道中矩形蒸汽陷阱",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33541": {
+    "Id": 33541,
+    "Comment": "开门水晶交互物",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33542": {
+    "Id": 33542,
+    "Comment": "工厂废墟",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33537": {
+    "Id": 33537,
+    "Comment": "炮台",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33538": {
+    "Id": 33538,
+    "Comment": "爆炸",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "33546": {
+    "Id": 33546,
+    "Comment": "普通难度以下炸团高伤害",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103100": {
+    "Id": 103100,
+    "Comment": "悖与灾的机骸·始",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103106": {
+    "Id": 103106,
+    "Comment": "对龙机像幻象",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103103": {
+    "Id": 103103,
+    "Comment": "机械幻象I型",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103104": {
+    "Id": 103104,
+    "Comment": "机械幻象V型",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "10310051": {
+    "Id": 10310051,
+    "Comment": "",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103200": {
+    "Id": 103200,
+    "Comment": "悖与灾的机骸·继",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103300": {
+    "Id": 103300,
+    "Comment": "悖与灾的机骸·终",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4694": {
+    "Id": 4694,
+    "Comment": "闪耀哥布林",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4695": {
+    "Id": 4695,
+    "Comment": "小伊",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "4639": {
+    "Id": 4639,
+    "Comment": "深海凝视矩阵",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103205": {
+    "Id": 103205,
+    "Comment": "机械守卫",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920501": {
+    "Id": 920501,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920502": {
+    "Id": 920502,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920503": {
+    "Id": 920503,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920504": {
+    "Id": 920504,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920505": {
+    "Id": 920505,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920561": {
+    "Id": 920561,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920562": {
+    "Id": 920562,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920563": {
+    "Id": 920563,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920564": {
+    "Id": 920564,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920565": {
+    "Id": 920565,
+    "Comment": "弥妄裁定者·终式",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920506": {
+    "Id": 920506,
+    "Comment": "首领·狂悖之王",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920507": {
+    "Id": 920507,
+    "Comment": "首领·嗜血毛球",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920508": {
+    "Id": 920508,
+    "Comment": "首领·空洞监察者",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920509": {
+    "Id": 920509,
+    "Comment": "首领·掠食蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920510": {
+    "Id": 920510,
+    "Comment": "首领·山脊之牙",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920511": {
+    "Id": 920511,
+    "Comment": "多戈尔曼",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920512": {
+    "Id": 920512,
+    "Comment": "食人毛球",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920513": {
+    "Id": 920513,
+    "Comment": "圣堂之眼",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920514": {
+    "Id": 920514,
+    "Comment": "杀手蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920515": {
+    "Id": 920515,
+    "Comment": "深绿之牙",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920520": {
+    "Id": 920520,
+    "Comment": "砂岩肉山",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920521": {
+    "Id": 920521,
+    "Comment": "灰烬肉山",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920522": {
+    "Id": 920522,
+    "Comment": "切齿毛球",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920523": {
+    "Id": 920523,
+    "Comment": "尖棘毛球",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920524": {
+    "Id": 920524,
+    "Comment": "巡视浮瞳",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920525": {
+    "Id": 920525,
+    "Comment": "机心浮瞳",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920526": {
+    "Id": 920526,
+    "Comment": "火焰蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920527": {
+    "Id": 920527,
+    "Comment": "荒原蟹蛛",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920528": {
+    "Id": 920528,
+    "Comment": "野山猪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920529": {
+    "Id": 920529,
+    "Comment": "猎路山猪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920530": {
+    "Id": 920530,
+    "Comment": "研究员吉姆",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920531": {
+    "Id": 920531,
+    "Comment": "研究员吉迪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920532": {
+    "Id": 920532,
+    "Comment": "研究员吉米",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920533": {
+    "Id": 920533,
+    "Comment": "弥妄·游魂",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920534": {
+    "Id": 920534,
+    "Comment": "研究员吉姆",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920535": {
+    "Id": 920535,
+    "Comment": "研究员吉迪",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920536": {
+    "Id": 920536,
+    "Comment": "弥妄·研究员",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920550": {
+    "Id": 920550,
+    "Comment": "弥妄·巨像",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920552": {
+    "Id": 920552,
+    "Comment": "亨利",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920553": {
+    "Id": 920553,
+    "Comment": "亨利",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "920554": {
+    "Id": 920554,
+    "Comment": "幻幻花",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103107": {
+    "Id": 103107,
+    "Comment": "悖与灾的机骸·始",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103108": {
+    "Id": 103108,
+    "Comment": "悖与灾的机骸·始",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103207": {
+    "Id": 103207,
+    "Comment": "悖与灾的机骸·继",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103208": {
+    "Id": 103208,
+    "Comment": "悖与灾的机骸·继",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103308": {
+    "Id": 103308,
+    "Comment": "悖与灾的机骸·终",
+    "Level": [],
+    "Season": [],
+    "SeasonLv": [],
+    "SeasonRank": [],
+    "IsLoadRank": false,
+    "FightValueCoe": 10000
+  },
+  "103309": {
+    "Id": 103309,
+    "Comment": "悖与灾的机骸·终",
     "Level": [],
     "Season": [],
     "SeasonLv": [],

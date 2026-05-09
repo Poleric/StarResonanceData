@@ -224,6 +224,7 @@ enum EAttrType {
 	AttrBulletSpeedChangePCT = 432;
 	AttrTargetDirX = 435;
 	AttrTargetDirZ = 436;
+	AttrBulletCurveDir = 437;
 	AttrMaxExtinction = 440;
 	AttrExtinction = 441;
 	AttrMaxStunned = 442;
@@ -366,12 +367,14 @@ enum EAttrType {
 	AttrEnsembleBpm = 1204;
 	AttrEnsembleBeat = 1205;
 	AttrEnsembleStartTimeStamp = 1206;
+	AttrInstrumentPlayMode = 1207;
 	AttrGameTableKey = 1300;
 	AttrCurGamePlayId = 1301;
 	AttrGameTableState = 1302;
 	AttrGameTableStateEndTime = 1303;
 	AttrSeats = 1304;
 	AttrVoteEndInfo = 1305;
+	AttrMentorShowType = 1400;
 	AttrLevel = 10000;
 	AttrGS = 10010;
 	AttrLastMaxGS = 10020;
@@ -1212,7 +1215,8 @@ enum EAttrType {
 	AttrDarkDamageReductionExAdd = 13393;
 	AttrDarkDamageReductionPer = 13394;
 	AttrDarkDamageReductionExPer = 13395;
-	AttrMaxHpLimit = 13400;
+	AttrPlayMaxHp = 13400;
+	AttrPlayDefense = 13410;
 	AttrOriginEnergy = 20010;
 	AttrMaxOriginEnergy = 20020;
 	AttrMaxOriginEnergyTotal = 20021;

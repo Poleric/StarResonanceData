@@ -263,6 +263,14 @@
     "CanExperiment": false,
     "SortId": 1002
   },
+  "1083007": {
+    "Id": 1083007,
+    "TypeA": 2,
+    "TypeB": 401,
+    "UseCondition": [],
+    "CanExperiment": false,
+    "SortId": 1006
+  },
   "1083011": {
     "Id": 1083011,
     "TypeA": 2,
@@ -1078,5 +1086,53 @@
     "UseCondition": [],
     "CanExperiment": false,
     "SortId": 191
+  },
+  "1081132": {
+    "Id": 1081132,
+    "TypeA": 1,
+    "TypeB": 401,
+    "UseCondition": [],
+    "CanExperiment": false,
+    "SortId": 192
+  },
+  "1081134": {
+    "Id": 1081134,
+    "TypeA": 1,
+    "TypeB": 401,
+    "UseCondition": [],
+    "CanExperiment": false,
+    "SortId": 193
+  },
+  "1081136": {
+    "Id": 1081136,
+    "TypeA": 1,
+    "TypeB": 401,
+    "UseCondition": [],
+    "CanExperiment": false,
+    "SortId": 194
+  },
+  "1081138": {
+    "Id": 1081138,
+    "TypeA": 1,
+    "TypeB": 401,
+    "UseCondition": [],
+    "CanExperiment": false,
+    "SortId": 195
+  },
+  "1083058": {
+    "Id": 1083058,
+    "TypeA": 1,
+    "TypeB": 401,
+    "UseCondition": [],
+    "CanExperiment": false,
+    "SortId": 196
+  },
+  "1092058": {
+    "Id": 1092058,
+    "TypeA": 1,
+    "TypeB": 401,
+    "UseCondition": [],
+    "CanExperiment": false,
+    "SortId": 197
   }
 }

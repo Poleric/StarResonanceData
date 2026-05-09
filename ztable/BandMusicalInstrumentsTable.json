@@ -1,127 +1,213 @@
 {
   "10001": {
     "ID": 10001,
-    "MusicalInstrumentsName": "默认钢琴",
+    "MusicalInstrumentsName": "Piano",
+    "MusicianId": 2,
     "MusicalInstrumentsRange": [],
-    "WwiseEvent": "Inst_Piano",
     "SustainPedal": true,
     "PerformanceMethodKind": [
-      0.0
-    ],
-    "MusicalTimbre": [
       1.0
     ],
-    "DefaultPerformanceMethod": 0,
+    "PerformanceMethodKindTouches": [
+      1037.0
+    ],
+    "MusicalTimbre": [
+      1000000.0
+    ],
+    "MusicalTimbreTouches": [
+      1042.0
+    ],
+    "DefaultPerformanceMethod": 1,
+    "DefaultMusicalTimbre": 1000000,
+    "DefaultRange": [],
     "ModelId": 10000000,
     "ModelBindType": 2,
     "ModelSummonOffset": {
       "x": 0.0,
-      "y": 1.0,
-      "z": 1.0
+      "y": 0.72,
+      "z": 0.35
+    },
+    "ModelSummonRotate": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
     },
     "IsGround": false,
-    "InstrumentIdleBuff": 8100001,
-    "PlayerIdleBuff": 8100000,
-    "InstrumentPlayBuff": 8000001,
-    "PlayerPlayBuff": 8000000
+    "InstrumentIdleBuff": 8000002,
+    "PlayerIdleBuff": 8010000,
+    "InstrumentPlayBuff": 8000003,
+    "PlayerPlayBuff": 8010001,
+    "CameraTemplate": [
+      59,
+      58,
+      60
+    ],
+    "Icon": "ui/textures/band_hobby/item_icons_music_piano01_01"
   },
   "10002": {
     "ID": 10002,
-    "MusicalInstrumentsName": "电吉他（清音）",
+    "MusicalInstrumentsName": "Electric Guitar",
+    "MusicianId": 1,
     "MusicalInstrumentsRange": [
       40.0,
       86.0
     ],
-    "WwiseEvent": "Inst_EgtClean",
     "SustainPedal": true,
     "PerformanceMethodKind": [
-      0.0,
-      1.0,
-      2.0
-    ],
-    "MusicalTimbre": [
       1.0,
       2.0,
       3.0
     ],
-    "DefaultPerformanceMethod": 0,
+    "PerformanceMethodKindTouches": [
+      1037.0,
+      1038.0,
+      1039.0
+    ],
+    "MusicalTimbre": [
+      1000001.0,
+      1000002.0,
+      1000003.0
+    ],
+    "MusicalTimbreTouches": [
+      1042.0,
+      1043.0,
+      1044.0
+    ],
+    "DefaultPerformanceMethod": 1,
+    "DefaultMusicalTimbre": 1000001,
+    "DefaultRange": [],
     "ModelId": 10000002,
     "ModelBindType": 1,
     "ModelSummonOffset": {
       "x": 0.0,
+      "y": -0.01,
+      "z": -0.06
+    },
+    "ModelSummonRotate": {
+      "x": -85.0,
       "y": 0.0,
-      "z": 0.0
+      "z": 180.0
     },
     "IsGround": false,
-    "InstrumentIdleBuff": 8100005,
-    "PlayerIdleBuff": 8100004,
-    "InstrumentPlayBuff": 8000005,
-    "PlayerPlayBuff": 8000004
+    "InstrumentIdleBuff": 8000002,
+    "PlayerIdleBuff": 8000000,
+    "InstrumentPlayBuff": 8000003,
+    "PlayerPlayBuff": 8000001,
+    "CameraTemplate": [
+      59,
+      58,
+      60
+    ],
+    "Icon": "ui/textures/band_hobby/item_icons_music_guitar01_01"
   },
   "10003": {
     "ID": 10003,
-    "MusicalInstrumentsName": "架子鼓",
+    "MusicalInstrumentsName": "Drum Kit",
+    "MusicianId": 4,
     "MusicalInstrumentsRange": [
-      40.0,
-      86.0
+      60.0,
+      83.0
     ],
-    "WwiseEvent": "Inst_OrigDrum",
-    "SustainPedal": true,
+    "SustainPedal": false,
     "PerformanceMethodKind": [
-      0.0,
-      1.0,
-      2.0
+      1.0
+    ],
+    "PerformanceMethodKindTouches": [
+      1037.0
     ],
     "MusicalTimbre": [
-      1.0,
-      2.0,
-      3.0
+      1000006.0
     ],
-    "DefaultPerformanceMethod": 0,
+    "MusicalTimbreTouches": [
+      1042.0
+    ],
+    "DefaultPerformanceMethod": 1,
+    "DefaultMusicalTimbre": 1000006,
+    "DefaultRange": [
+      3,
+      2
+    ],
     "ModelId": 10000001,
     "ModelBindType": 2,
     "ModelSummonOffset": {
       "x": 0.0,
-      "y": 1.0,
-      "z": 1.0
+      "y": 0.0,
+      "z": -0.2
+    },
+    "ModelSummonRotate": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
     },
     "IsGround": false,
-    "InstrumentIdleBuff": 8100003,
-    "PlayerIdleBuff": 8100002,
+    "InstrumentIdleBuff": 8000002,
+    "PlayerIdleBuff": 8030000,
     "InstrumentPlayBuff": 8000003,
-    "PlayerPlayBuff": 8000002
+    "PlayerPlayBuff": 8030001,
+    "CameraTemplate": [
+      62,
+      61,
+      60
+    ],
+    "Icon": "ui/textures/band_hobby/item_icons_music_drum01_01"
   },
   "10004": {
     "ID": 10004,
-    "MusicalInstrumentsName": "贝斯",
+    "MusicalInstrumentsName": "Electric Bass",
+    "MusicianId": 3,
     "MusicalInstrumentsRange": [
-      40.0,
-      77.0
+      28.0,
+      65.0
     ],
-    "WwiseEvent": "Inst_EBassClean",
     "SustainPedal": true,
     "PerformanceMethodKind": [
-      0.0,
-      1.0,
-      2.0
-    ],
-    "MusicalTimbre": [
       1.0,
       2.0,
-      3.0
+      3.0,
+      6.0
     ],
-    "DefaultPerformanceMethod": 0,
+    "PerformanceMethodKindTouches": [
+      1037.0,
+      1038.0,
+      1039.0,
+      1040.0
+    ],
+    "MusicalTimbre": [
+      1000004.0,
+      1000005.0
+    ],
+    "MusicalTimbreTouches": [
+      1042.0,
+      1043.0
+    ],
+    "DefaultPerformanceMethod": 1,
+    "DefaultMusicalTimbre": 1000004,
+    "DefaultRange": [
+      2,
+      1
+    ],
     "ModelId": 10000003,
     "ModelBindType": 1,
     "ModelSummonOffset": {
       "x": 0.0,
+      "y": -0.02,
+      "z": -0.1
+    },
+    "ModelSummonRotate": {
+      "x": -80.0,
       "y": 0.0,
-      "z": 0.0
+      "z": 180.0
     },
     "IsGround": false,
-    "InstrumentIdleBuff": 8100007,
-    "PlayerIdleBuff": 8100006,
-    "InstrumentPlayBuff": 8000007,
-    "PlayerPlayBuff": 8000006
+    "InstrumentIdleBuff": 8000002,
+    "PlayerIdleBuff": 8000000,
+    "InstrumentPlayBuff": 8000003,
+    "PlayerPlayBuff": 8000001,
+    "CameraTemplate": [
+      59,
+      58,
+      60
+    ],
+    "Icon": "ui/textures/band_hobby/item_icons_music_bass01_01"
   }
 }

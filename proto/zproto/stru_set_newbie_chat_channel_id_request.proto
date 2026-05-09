@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message SetNewbieChatChannelIdRequest {
+	uint32 channelId = 1 [json_name = "channelId"];
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message MusicianTargetData {
+	int32 targetId = 1 [json_name = "targetId"];
+	int32 curValue = 2 [json_name = "curValue"];
+	int32 targetValue = 3 [json_name = "targetValue"];
+}

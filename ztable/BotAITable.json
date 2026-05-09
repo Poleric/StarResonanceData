@@ -703,9 +703,73 @@
     ],
     "AttributeId": 30
   },
+  "67": {
+    "Id": 67,
+    "Name": "",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [],
+    "AttributeId": 30
+  },
+  "68": {
+    "Id": 68,
+    "Name": "",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000001,
+    "Weapon": [
+      2
+    ],
+    "AttributeId": 30
+  },
+  "69": {
+    "Id": 69,
+    "Name": "",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000002,
+    "Weapon": [
+      4
+    ],
+    "AttributeId": 30
+  },
+  "70": {
+    "Id": 70,
+    "Name": "",
+    "Duty": 2,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      5
+    ],
+    "AttributeId": 30
+  },
+  "71": {
+    "Id": 71,
+    "Name": "",
+    "Duty": 3,
+    "SkillLevel": 1,
+    "ModelID": 3000003,
+    "Weapon": [
+      9
+    ],
+    "AttributeId": 30
+  },
+  "72": {
+    "Id": 72,
+    "Name": "",
+    "Duty": 1,
+    "SkillLevel": 1,
+    "ModelID": 3000000,
+    "Weapon": [
+      11
+    ],
+    "AttributeId": 30
+  },
   "100": {
     "Id": 100,
-    "Name": "Performance Test Robot - Airona",
+    "Name": "Verdant Oracle",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 3000004,
@@ -716,7 +780,7 @@
   },
   "101": {
     "Id": 101,
-    "Name": "Performance Test Robot - Heavy Guardian",
+    "Name": "Heavy Guardian",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 3000004,
@@ -727,7 +791,7 @@
   },
   "102": {
     "Id": 102,
-    "Name": "Performance Test Robot - Great Sword",
+    "Name": "Stormblade",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 3000004,
@@ -736,7 +800,7 @@
   },
   "103": {
     "Id": 103,
-    "Name": "Performance Test Robot - Staff",
+    "Name": "Frost Mage",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 3000004,
@@ -747,7 +811,7 @@
   },
   "104": {
     "Id": 104,
-    "Name": "Performance Test Robot - Tina",
+    "Name": "Wind Knight",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 3000004,
@@ -758,7 +822,7 @@
   },
   "200": {
     "Id": 200,
-    "Name": "Humanities - Main City Path 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -769,7 +833,7 @@
   },
   "201": {
     "Id": 201,
-    "Name": "Humanities - Main City Path 2",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -780,7 +844,7 @@
   },
   "202": {
     "Id": 202,
-    "Name": "Humanities - Main City Path 3",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -791,7 +855,7 @@
   },
   "203": {
     "Id": 203,
-    "Name": "Humanities - Main City Path 4",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -802,7 +866,7 @@
   },
   "204": {
     "Id": 204,
-    "Name": "Humanities - Main City Path 5",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -813,7 +877,7 @@
   },
   "205": {
     "Id": 205,
-    "Name": "Humanities - Main City Path 6",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -824,7 +888,7 @@
   },
   "206": {
     "Id": 206,
-    "Name": "Humanities - Main City Path 7",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -835,7 +899,7 @@
   },
   "207": {
     "Id": 207,
-    "Name": "Humanities - Main City Path 8",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -846,7 +910,7 @@
   },
   "208": {
     "Id": 208,
-    "Name": "Humanities - Main City Path 9",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -857,7 +921,7 @@
   },
   "209": {
     "Id": 209,
-    "Name": "Humanities - Main City Path 10",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -868,7 +932,7 @@
   },
   "210": {
     "Id": 210,
-    "Name": "Humanities - Group Dance 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -879,7 +943,7 @@
   },
   "211": {
     "Id": 211,
-    "Name": "Humanities - Broadcasting Actions",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -890,7 +954,7 @@
   },
   "212": {
     "Id": 212,
-    "Name": "Humanities - Broadcasting Actions",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -901,7 +965,7 @@
   },
   "220": {
     "Id": 220,
-    "Name": "Humanities - Teleportal AFK + Back and Forth Teleporting",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -912,7 +976,7 @@
   },
   "221": {
     "Id": 221,
-    "Name": "Humanities - Teleportal Running Outside the Main City",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -923,7 +987,7 @@
   },
   "222": {
     "Id": 222,
-    "Name": "Humanities - AFK - Main Road 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -934,7 +998,7 @@
   },
   "223": {
     "Id": 223,
-    "Name": "Humanities - AFK - Main Road 2",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -945,7 +1009,7 @@
   },
   "224": {
     "Id": 224,
-    "Name": "Humanities - AFK - Main Road 3",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -956,7 +1020,7 @@
   },
   "225": {
     "Id": 225,
-    "Name": "Humanities - AFK - Main Road 4",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -967,7 +1031,7 @@
   },
   "226": {
     "Id": 226,
-    "Name": "Humanities - AFK - Pioneer Bureau",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -978,7 +1042,7 @@
   },
   "227": {
     "Id": 227,
-    "Name": "Humanities - Running Around - Fireworks Festival",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -987,7 +1051,7 @@
   },
   "228": {
     "Id": 228,
-    "Name": "Humanities - Running Around - Pioneer Bureau Entrance",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -996,7 +1060,7 @@
   },
   "229": {
     "Id": 229,
-    "Name": "Humanities - Riding around on horseback in front of the Pioneer Bureau",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1005,7 +1069,7 @@
   },
   "230": {
     "Id": 230,
-    "Name": "Humanity - Wild Horse Rampage",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1014,7 +1078,7 @@
   },
   "250": {
     "Id": 250,
-    "Name": "Wild Map Atmosphere - Greatsword Monster Fighting 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1023,7 +1087,7 @@
   },
   "251": {
     "Id": 251,
-    "Name": "Wild Map Atmosphere - Greatsword Monster Fighting 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1032,7 +1096,7 @@
   },
   "252": {
     "Id": 252,
-    "Name": "Wild Map Atmosphere - Greatsword Monster Fighting 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1041,7 +1105,7 @@
   },
   "253": {
     "Id": 253,
-    "Name": "Wild Map Atmosphere - Greatsword Monster Fighting 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1050,7 +1114,7 @@
   },
   "254": {
     "Id": 254,
-    "Name": "Wild Map Atmosphere - Running Outwards 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1061,7 +1125,7 @@
   },
   "255": {
     "Id": 255,
-    "Name": "Wild Map Atmosphere - Running Out 2",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1072,7 +1136,7 @@
   },
   "256": {
     "Id": 256,
-    "Name": "Wild Map Atmosphere - AFK - Wild Map Entrance Teleportal",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1083,7 +1147,7 @@
   },
   "257": {
     "Id": 257,
-    "Name": "Wild Map Atmosphere - AFK - Wild Map Main Road 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1094,7 +1158,7 @@
   },
   "258": {
     "Id": 258,
-    "Name": "Wild Map Atmosphere - AFK - Wild Map Main Road 2",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1105,7 +1169,7 @@
   },
   "259": {
     "Id": 259,
-    "Name": "Wild Map Atmosphere - Greatsword Monster Fighting 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1114,7 +1178,7 @@
   },
   "260": {
     "Id": 260,
-    "Name": "Wild Map Atmosphere - Greatsword Monster Fighting 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1123,7 +1187,7 @@
   },
   "261": {
     "Id": 261,
-    "Name": "Wild Map Atmosphere - Greatsword Monster Fighting 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1132,7 +1196,7 @@
   },
   "262": {
     "Id": 262,
-    "Name": "Wild Map Atmosphere - Greatsword Monster Fighting 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1141,7 +1205,7 @@
   },
   "263": {
     "Id": 263,
-    "Name": "Wild Map Atmosphere - Greatsword Monster Fighting 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1150,7 +1214,7 @@
   },
   "264": {
     "Id": 264,
-    "Name": "Wild Map Atmosphere - Tina Fighting Monsters 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1161,7 +1225,7 @@
   },
   "265": {
     "Id": 265,
-    "Name": "Wild Map Atmosphere - Staff Fighting Monsters 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1172,7 +1236,7 @@
   },
   "266": {
     "Id": 266,
-    "Name": "Wild Map Atmosphere - Edge Fighting Monsters 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1183,7 +1247,7 @@
   },
   "267": {
     "Id": 267,
-    "Name": "Wild Map Atmosphere - Airona Fighting Monsters 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1194,7 +1258,7 @@
   },
   "268": {
     "Id": 268,
-    "Name": "Wild Map Atmosphere - Bow and Arrow Fighting Monsters 1",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1205,7 +1269,7 @@
   },
   "270": {
     "Id": 270,
-    "Name": "Stress Test Thunder Demon BOSS Katana Fighting Monsters",
+    "Name": "Stormblade",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1214,7 +1278,7 @@
   },
   "271": {
     "Id": 271,
-    "Name": "Stress Test Thunder Demon BOSS Lance Fighting Monsters",
+    "Name": "Wind Knight",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1225,7 +1289,7 @@
   },
   "272": {
     "Id": 272,
-    "Name": "Stress Test Thunder Demon BOSS Staff Fighting Monsters",
+    "Name": "Frost Mage",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1236,7 +1300,7 @@
   },
   "273": {
     "Id": 273,
-    "Name": "Stress Test Thunder Demon BOSS Edge Fighting Monsters",
+    "Name": "Heavy Guardian",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1247,7 +1311,7 @@
   },
   "274": {
     "Id": 274,
-    "Name": "Stress Test Thunder Demon BOSS Dual Rings Fighting Monsters",
+    "Name": "Verdant Oracle",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1258,7 +1322,7 @@
   },
   "275": {
     "Id": 275,
-    "Name": "Stress Test Thunder Demon BOSS Bow and Arrow Fighting Monsters",
+    "Name": "Marksman",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1395,9 +1459,73 @@
     ],
     "AttributeId": 30
   },
+  "2001": {
+    "Id": 2001,
+    "Name": "Stormblade",
+    "Duty": 0,
+    "SkillLevel": 1,
+    "ModelID": 3000005,
+    "Weapon": [],
+    "AttributeId": 30
+  },
+  "2002": {
+    "Id": 2002,
+    "Name": "Frost Mage",
+    "Duty": 0,
+    "SkillLevel": 1,
+    "ModelID": 3000005,
+    "Weapon": [
+      2
+    ],
+    "AttributeId": 30
+  },
+  "2003": {
+    "Id": 2003,
+    "Name": "Wind Knight",
+    "Duty": 0,
+    "SkillLevel": 1,
+    "ModelID": 3000005,
+    "Weapon": [
+      4
+    ],
+    "AttributeId": 30
+  },
+  "2004": {
+    "Id": 2004,
+    "Name": "Verdant Oracle",
+    "Duty": 0,
+    "SkillLevel": 1,
+    "ModelID": 3000005,
+    "Weapon": [
+      5
+    ],
+    "AttributeId": 30
+  },
+  "2005": {
+    "Id": 2005,
+    "Name": "Heavy Guardian",
+    "Duty": 0,
+    "SkillLevel": 1,
+    "ModelID": 3000005,
+    "Weapon": [
+      9
+    ],
+    "AttributeId": 30
+  },
+  "2006": {
+    "Id": 2006,
+    "Name": "Marksman",
+    "Duty": 0,
+    "SkillLevel": 1,
+    "ModelID": 3000005,
+    "Weapon": [
+      11
+    ],
+    "AttributeId": 30
+  },
   "77000": {
     "Id": 77000,
-    "Name": "Server Test Robot",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1406,7 +1534,7 @@
   },
   "500201": {
     "Id": 500201,
-    "Name": "Newbie Instance Pressure Test",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1417,7 +1545,7 @@
   },
   "500202": {
     "Id": 500202,
-    "Name": "Newbie Instance Pressure Test",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1428,7 +1556,7 @@
   },
   "500203": {
     "Id": 500203,
-    "Name": "Newbie Instance Pressure Test",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1439,7 +1567,7 @@
   },
   "500204": {
     "Id": 500204,
-    "Name": "Newbie Instance Pressure Test",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1450,7 +1578,7 @@
   },
   "500205": {
     "Id": 500205,
-    "Name": "Newbie Instance Pressure Test",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1461,7 +1589,7 @@
   },
   "500206": {
     "Id": 500206,
-    "Name": "Newbie Instance Pressure Test",
+    "Name": "",
     "Duty": 0,
     "SkillLevel": 1,
     "ModelID": 0,
@@ -1501,7 +1629,7 @@
   },
   "9999999": {
     "Id": 9999999,
-    "Name": "Test Robot - Katana",
+    "Name": "Stormblade",
     "Duty": 1,
     "SkillLevel": 1,
     "ModelID": 3000000,

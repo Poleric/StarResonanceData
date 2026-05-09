@@ -699,6 +699,156 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
+  "90": {
+    "Id": 90,
+    "Name": "S1团本回溯冰龙奖励次数",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "91": {
+    "Id": 91,
+    "Name": "S1团本回溯暗龙奖励次数",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "92": {
+    "Id": 92,
+    "Name": "S1团本回溯光龙奖励次数",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "93": {
+    "Id": 93,
+    "Name": "S2团本回溯双羊奖励次数",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "94": {
+    "Id": 94,
+    "Name": "S2团本回溯石头人奖励次数",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "95": {
+    "Id": 95,
+    "Name": "S2团本回溯机器人奖励次数",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "96": {
+    "Id": 96,
+    "Name": "s3简单1号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "97": {
+    "Id": 97,
+    "Name": "s3简单2号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "98": {
+    "Id": 98,
+    "Name": "s3简单3号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "99": {
+    "Id": 99,
+    "Name": "s3困难1号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "100": {
+    "Id": 100,
+    "Name": "s3困难2号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "101": {
+    "Id": 101,
+    "Name": "s3困难3号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "102": {
+    "Id": 102,
+    "Name": "s3噩梦1号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "103": {
+    "Id": 103,
+    "Name": "s3噩梦2号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "104": {
+    "Id": 104,
+    "Name": "s3噩梦3号",
+    "TimeTableId": 271,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
   "201": {
     "Id": 201,
     "Name": "环城载具赛",
@@ -829,6 +979,26 @@
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0
   },
+  "215": {
+    "Id": 215,
+    "Name": "今夜，随星而歌",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "216": {
+    "Id": 216,
+    "Name": "今夜，随星而歌-加场",
+    "TimeTableId": 100,
+    "RefreshNum": 0,
+    "Limit": 1,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
   "401": {
     "Id": 401,
     "Name": "星光花火夜",
@@ -905,6 +1075,36 @@
     "TimeTableId": 100012,
     "RefreshNum": 0,
     "Limit": 3,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "503": {
+    "Id": 503,
+    "Name": "第三期（S3开服）限时技能重置返还进阶之书任选箱的次数（timeID变了，次数会被刷新）",
+    "TimeTableId": 100014,
+    "RefreshNum": 0,
+    "Limit": 5,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "601": {
+    "Id": 601,
+    "Name": "S3货运上限",
+    "TimeTableId": 10301,
+    "RefreshNum": 0,
+    "Limit": 10000000,
+    "MonthCardLimit": 0,
+    "AccumulateLimit": 0,
+    "AccumulateRefreshNum": 0
+  },
+  "602": {
+    "Id": 602,
+    "Name": "S4货运上限",
+    "TimeTableId": 10401,
+    "RefreshNum": 0,
+    "Limit": 10000000,
     "MonthCardLimit": 0,
     "AccumulateLimit": 0,
     "AccumulateRefreshNum": 0

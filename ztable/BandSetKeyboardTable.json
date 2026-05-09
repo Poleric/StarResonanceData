@@ -253,63 +253,63 @@
   },
   "1037": {
     "ButtonID": 1037,
-    "Note": "奏法-不处理",
+    "Note": "奏法1",
     "KeyNote": "F4",
     "KeyBoard": 160,
     "CanChange": []
   },
   "1038": {
     "ButtonID": 1038,
-    "Note": "奏法-自然泛音",
+    "Note": "奏法2",
     "KeyNote": "F5",
     "KeyBoard": 161,
     "CanChange": []
   },
   "1039": {
     "ButtonID": 1039,
-    "Note": "奏法-长音",
+    "Note": "奏法3",
     "KeyNote": "F6",
     "KeyBoard": 162,
     "CanChange": []
   },
   "1040": {
     "ButtonID": 1040,
-    "Note": "奏法-闷音",
+    "Note": "奏法4",
     "KeyNote": "F7",
     "KeyBoard": 163,
     "CanChange": []
   },
   "1041": {
     "ButtonID": 1041,
-    "Note": "奏法-装饰滑音",
+    "Note": "奏法5",
     "KeyNote": "F8",
     "KeyBoard": 164,
     "CanChange": []
   },
   "1042": {
     "ButtonID": 1042,
-    "Note": "音色-原音",
+    "Note": "音色1",
     "KeyNote": "F9",
     "KeyBoard": 165,
     "CanChange": []
   },
   "1043": {
     "ButtonID": 1043,
-    "Note": "音色-清音",
+    "Note": "音色2",
     "KeyNote": "F10",
     "KeyBoard": 166,
     "CanChange": []
   },
   "1044": {
     "ButtonID": 1044,
-    "Note": "音色-过载",
+    "Note": "音色3",
     "KeyNote": "F11",
     "KeyBoard": 167,
     "CanChange": []
   },
   "1045": {
     "ButtonID": 1045,
-    "Note": "音色-失真",
+    "Note": "音色4",
     "KeyNote": "F12",
     "KeyBoard": 168,
     "CanChange": []
@@ -424,6 +424,48 @@
     "Note": "低半音",
     "KeyNote": "右Crtl",
     "KeyBoard": 184,
+    "CanChange": []
+  },
+  "1062": {
+    "ButtonID": 1062,
+    "Note": "聊天",
+    "KeyNote": "/",
+    "KeyBoard": 29,
+    "CanChange": []
+  },
+  "1063": {
+    "ButtonID": 1063,
+    "Note": "打开聊天",
+    "KeyNote": "Enter",
+    "KeyBoard": 69,
+    "CanChange": []
+  },
+  "1064": {
+    "ButtonID": 1064,
+    "Note": "聊天频道切换(上)",
+    "KeyNote": "↑",
+    "KeyBoard": 111,
+    "CanChange": []
+  },
+  "1065": {
+    "ButtonID": 1065,
+    "Note": "聊天频道切换(下)",
+    "KeyNote": "↓",
+    "KeyBoard": 112,
+    "CanChange": []
+  },
+  "1066": {
+    "ButtonID": 1066,
+    "Note": "输入频道切换（左）",
+    "KeyNote": "←",
+    "KeyBoard": 113,
+    "CanChange": []
+  },
+  "1067": {
+    "ButtonID": 1067,
+    "Note": "输入频道切换（右）",
+    "KeyNote": "→",
+    "KeyBoard": 114,
     "CanChange": []
   }
 }

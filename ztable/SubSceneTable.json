@@ -177,5 +177,27 @@
         48005
       ]
     ]
+  },
+  "20": {
+    "Id": 20,
+    "Type": 2,
+    "SceneFile": "scenes/blueland001_festival_ip003",
+    "TriggerCondition": [
+      [
+        9,
+        70003
+      ]
+    ]
+  },
+  "21": {
+    "Id": 21,
+    "Type": 2,
+    "SceneFile": "scenes/blueland001_festival_001",
+    "TriggerCondition": [
+      [
+        9,
+        900005
+      ]
+    ]
   }
 }

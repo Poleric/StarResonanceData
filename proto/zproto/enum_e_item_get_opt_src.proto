@@ -153,10 +153,22 @@ enum EItemGetOptSrc {
 	EItemGetOptSrcNewbieBackflowLevelAward = 12016;
 	EItemGetOptSrcNewbieCancelMail = 12017;
 	EItemGetOptSrcBackflowCancelMail = 12018;
+	EItemGetOptSrcSeasonActTargetResetMail = 12019;
 	EItemGetOptSrcBuildLifeProfessionSuccess = 12100;
 	EItemGetOptSrcBuildLifeProfessionCancel = 12101;
 	EItemGetOptSrcLifeProfessionBuild = 12102;
 	EItemGetOptSrcBuildLifeProfessionQuitCohabitant = 12103;
 	EItemGetOptSrcLifeProfessionEntrust = 12104;
+	EItemGetOptSrcMentorCyclicalMail = 12105;
+	EItemGetOptSrcMentorRegularAssess = 12106;
+	EItemGetOptSrcMentorTargetAward = 12107;
+	EItemGetOptSrcMentorCyclicalProgressAward = 12108;
 	EItemGetOptSrcWorldAct = 12110;
+	EItemGetOptSrcStoryNodeReward = 12201;
+	EItemGetOptSrcStoryFirstReward = 12202;
+	EItemGetOptSrcStoryPercentageReward = 12203;
+	EItemGetOptSrcMusicianLevelReward = 12210;
+	EItemGetOptSrcMusicianTargetReward = 12211;
+	EItemGetOptSrcMusicRatingReward = 12212;
+	EItemGetOptSrcClaimOverflowCoin = 12221;
 }

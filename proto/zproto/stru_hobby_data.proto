@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_all_musician_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message HobbyData {
+	AllMusicianData allMusicianData = 1 [json_name = "allMusicianData"];
+}

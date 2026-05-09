@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message MusicData {
+	int32 musicId = 1 [json_name = "musicId"];
+	int32 maxScore = 2 [json_name = "maxScore"];
+	int32 rating = 3 [json_name = "rating"];
+}

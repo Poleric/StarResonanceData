@@ -240,6 +240,16 @@
     "Consume": "",
     "CapacityExtra": 0
   },
+  "15": {
+    "Id": 15,
+    "Name": "Sheet Music",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "",
+    "CapacityExtra": 0
+  },
   "110": {
     "Id": 110,
     "Name": "Reading Material",

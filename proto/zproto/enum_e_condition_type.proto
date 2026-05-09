@@ -19,6 +19,8 @@ enum EConditionType {
 	Condition_InputDirection = 113;
 	Condition_ClientBulletHasTarget = 114;
 	Condition_IsPassive = 115;
+	Condition_AttrRate = 116;
+	Condition_FightResRate = 117;
 	Condition_IsBtnPress = 10001;
 	Condition_IsBtnUp = 10002;
 	Condition_ClickCount = 10003;

@@ -1,0 +1,460 @@
+{
+  "1": {
+    "Id": 1,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 1,
+    "Name": "Pick Novice I",
+    "Exp": 750,
+    "ExamTargetGroupId": 0,
+    "AwardId": []
+  },
+  "2": {
+    "Id": 2,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 2,
+    "Name": "Pick Novice II",
+    "Exp": 800,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20700980
+    ]
+  },
+  "3": {
+    "Id": 3,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 3,
+    "Name": "Pick Novice III",
+    "Exp": 850,
+    "ExamTargetGroupId": 1,
+    "AwardId": [
+      20700990
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 4,
+    "Name": "Street Guitarist I",
+    "Exp": 900,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701000
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 5,
+    "Name": "Street Guitarist II",
+    "Exp": 950,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701010
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 6,
+    "Name": "Street Guitarist III",
+    "Exp": 1000,
+    "ExamTargetGroupId": 2,
+    "AwardId": [
+      20701020
+    ]
+  },
+  "7": {
+    "Id": 7,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 7,
+    "Name": "Fingerpick Performer I",
+    "Exp": 1100,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701030
+    ]
+  },
+  "8": {
+    "Id": 8,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 8,
+    "Name": "Fingerpick Performer II",
+    "Exp": 1200,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701040
+    ]
+  },
+  "9": {
+    "Id": 9,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 9,
+    "Name": "Fingerpick Performer III",
+    "Exp": 1300,
+    "ExamTargetGroupId": 3,
+    "AwardId": [
+      20701050
+    ]
+  },
+  "10": {
+    "Id": 10,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 10,
+    "Name": "String Virtuoso I",
+    "Exp": 3300,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701060
+    ]
+  },
+  "11": {
+    "Id": 11,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 11,
+    "Name": "String Virtuoso II",
+    "Exp": 3500,
+    "ExamTargetGroupId": 4,
+    "AwardId": [
+      20701070
+    ]
+  },
+  "12": {
+    "Id": 12,
+    "HobbyType": 1,
+    "HobbyId": 1,
+    "HobbyLevel": 12,
+    "Name": "String Virtuoso III",
+    "Exp": 0,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701080
+    ]
+  },
+  "13": {
+    "Id": 13,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 1,
+    "Name": "Scale Novice I",
+    "Exp": 750,
+    "ExamTargetGroupId": 0,
+    "AwardId": []
+  },
+  "14": {
+    "Id": 14,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 2,
+    "Name": "Scale Novice II",
+    "Exp": 800,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701090
+    ]
+  },
+  "15": {
+    "Id": 15,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 3,
+    "Name": "Scale Novice III",
+    "Exp": 850,
+    "ExamTargetGroupId": 5,
+    "AwardId": [
+      20701100
+    ]
+  },
+  "16": {
+    "Id": 16,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 4,
+    "Name": "Street Keyboardist I",
+    "Exp": 900,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701110
+    ]
+  },
+  "17": {
+    "Id": 17,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 5,
+    "Name": "Street Keyboardist II",
+    "Exp": 950,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701120
+    ]
+  },
+  "18": {
+    "Id": 18,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 6,
+    "Name": "Street Keyboardist III",
+    "Exp": 1000,
+    "ExamTargetGroupId": 6,
+    "AwardId": [
+      20701130
+    ]
+  },
+  "19": {
+    "Id": 19,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 7,
+    "Name": "Melodious Performer I",
+    "Exp": 1100,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701140
+    ]
+  },
+  "20": {
+    "Id": 20,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 8,
+    "Name": "Melodious Performer II",
+    "Exp": 1200,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701150
+    ]
+  },
+  "21": {
+    "Id": 21,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 9,
+    "Name": "Melodious Performer III",
+    "Exp": 1300,
+    "ExamTargetGroupId": 7,
+    "AwardId": [
+      20701160
+    ]
+  },
+  "22": {
+    "Id": 22,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 10,
+    "Name": "Monochrome Poet I",
+    "Exp": 3300,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701170
+    ]
+  },
+  "23": {
+    "Id": 23,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 11,
+    "Name": "Monochrome Poet II",
+    "Exp": 3500,
+    "ExamTargetGroupId": 8,
+    "AwardId": [
+      20701180
+    ]
+  },
+  "24": {
+    "Id": 24,
+    "HobbyType": 1,
+    "HobbyId": 2,
+    "HobbyLevel": 12,
+    "Name": "Monochrome Poet III",
+    "Exp": 0,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701190
+    ]
+  },
+  "25": {
+    "Id": 25,
+    "HobbyType": 1,
+    "HobbyId": 3,
+    "HobbyLevel": 1,
+    "Name": "Groove Novice I",
+    "Exp": 750,
+    "ExamTargetGroupId": 0,
+    "AwardId": []
+  },
+  "26": {
+    "Id": 26,
+    "HobbyType": 1,
+    "HobbyId": 3,
+    "HobbyLevel": 2,
+    "Name": "Groove Novice II",
+    "Exp": 800,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701200
+    ]
+  },
+  "27": {
+    "Id": 27,
+    "HobbyType": 1,
+    "HobbyId": 3,
+    "HobbyLevel": 3,
+    "Name": "Groove Novice III",
+    "Exp": 850,
+    "ExamTargetGroupId": 9,
+    "AwardId": [
+      20701210
+    ]
+  },
+  "28": {
+    "Id": 28,
+    "HobbyType": 1,
+    "HobbyId": 3,
+    "HobbyLevel": 4,
+    "Name": "Street Bassist I",
+    "Exp": 900,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701220
+    ]
+  },
+  "29": {
+    "Id": 29,
+    "HobbyType": 1,
+    "HobbyId": 3,
+    "HobbyLevel": 5,
+    "Name": "Street Bassist II",
+    "Exp": 950,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701230
+    ]
+  },
+  "30": {
+    "Id": 30,
+    "HobbyType": 1,
+    "HobbyId": 3,
+    "HobbyLevel": 6,
+    "Name": "Street Bassist III",
+    "Exp": 1000,
+    "ExamTargetGroupId": 10,
+    "AwardId": [
+      20701240
+    ]
+  },
+  "31": {
+    "Id": 31,
+    "HobbyType": 1,
+    "HobbyId": 3,
+    "HobbyLevel": 7,
+    "Name": "Root Note Warrior I",
+    "Exp": 1100,
+    "ExamTargetGroupId": 0,
+    "AwardId": []
+  },
+  "32": {
+    "Id": 32,
+    "HobbyType": 1,
+    "HobbyId": 3,
+    "HobbyLevel": 8,
+    "Name": "Root Note Warrior II",
+    "Exp": 1200,
+    "ExamTargetGroupId": 11,
+    "AwardId": [
+      20701260
+    ]
+  },
+  "33": {
+    "Id": 33,
+    "HobbyType": 1,
+    "HobbyId": 3,
+    "HobbyLevel": 9,
+    "Name": "Root Note Warrior III",
+    "Exp": 0,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701270
+    ]
+  },
+  "34": {
+    "Id": 34,
+    "HobbyType": 1,
+    "HobbyId": 4,
+    "HobbyLevel": 1,
+    "Name": "Rhythm Novice I",
+    "Exp": 750,
+    "ExamTargetGroupId": 0,
+    "AwardId": []
+  },
+  "35": {
+    "Id": 35,
+    "HobbyType": 1,
+    "HobbyId": 4,
+    "HobbyLevel": 2,
+    "Name": "Rhythm Novice II",
+    "Exp": 800,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701280
+    ]
+  },
+  "36": {
+    "Id": 36,
+    "HobbyType": 1,
+    "HobbyId": 4,
+    "HobbyLevel": 3,
+    "Name": "Rhythm Novice III",
+    "Exp": 850,
+    "ExamTargetGroupId": 12,
+    "AwardId": [
+      20701290
+    ]
+  },
+  "37": {
+    "Id": 37,
+    "HobbyType": 1,
+    "HobbyId": 4,
+    "HobbyLevel": 4,
+    "Name": "Street Drummer I",
+    "Exp": 900,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701300
+    ]
+  },
+  "38": {
+    "Id": 38,
+    "HobbyType": 1,
+    "HobbyId": 4,
+    "HobbyLevel": 5,
+    "Name": "Street Drummer II",
+    "Exp": 950,
+    "ExamTargetGroupId": 13,
+    "AwardId": [
+      20701310
+    ]
+  },
+  "39": {
+    "Id": 39,
+    "HobbyType": 1,
+    "HobbyId": 4,
+    "HobbyLevel": 6,
+    "Name": "Street Drummer III",
+    "Exp": 0,
+    "ExamTargetGroupId": 0,
+    "AwardId": [
+      20701320
+    ]
+  }
+}

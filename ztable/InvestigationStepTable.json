@@ -503,6 +503,36 @@
     ],
     "QuickReasoning": true
   },
+  "100031": {
+    "Id": 100031,
+    "Clue": [
+      1000311,
+      1000312,
+      1000313
+    ],
+    "InferenceStep": [
+      1000311,
+      1000312,
+      1000313
+    ],
+    "Conclusion": "Miners have families to arrange for and must consider their own situations. <br>So it's uncertain if they are all willing to return to Asterleeds.",
+    "ConclusionTips": "Recall the miners' information.",
+    "ConclusionBubble": "First, think about how to persuade the miners.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "No, I can't reach a conclusion yet."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Classic deduction."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
   "100041": {
     "Id": 100041,
     "Clue": [
@@ -533,24 +563,24 @@
     ],
     "QuickReasoning": true
   },
-  "100031": {
-    "Id": 100031,
+  "100051": {
+    "Id": 100051,
     "Clue": [
-      1000311,
-      1000312,
-      1000313
+      1000511,
+      1000512,
+      1000513
     ],
     "InferenceStep": [
-      1000311,
-      1000312,
-      1000313
+      1000511,
+      1000512,
+      1000513
     ],
-    "Conclusion": "Miners have families to arrange for and must consider their own situations. <br>So it's uncertain if they are all willing to return to Asterleeds.",
-    "ConclusionTips": "Recall the miners' information.",
-    "ConclusionBubble": "First, think about how to persuade the miners.",
+    "Conclusion": "The bottle is a modern, commercially available item.<br>The note is a fake clue fabricated by someone.",
+    "ConclusionTips": "Reflect on past experiences...",
+    "ConclusionBubble": "Looks like this trip was for nothing...",
     "ConclusionAction": 9033,
     "IockedBubble": [
-      "No, I can't reach a conclusion yet."
+      "Still need to think about it."
     ],
     "IockedBubbleAction": [
       9019

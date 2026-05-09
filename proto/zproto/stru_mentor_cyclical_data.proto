@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message MentorCyclicalData {
+	int32 cyclicalScore = 1 [json_name = "cyclicalScore"];
+	int64 cyclicalRefreshTime = 2 [json_name = "cyclicalRefreshTime"];
+	map<int32, bool> cyclicalTargetIds = 3 [json_name = "cyclicalTargetIds"];
+	repeated int32 cyclicalProgressAwardState = 4 [json_name = "cyclicalProgressAwardState"];
+}

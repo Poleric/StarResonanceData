@@ -184,6 +184,11 @@
     "SceneLoadType": 0,
     "SceneFile": "scenes/dng_main_5002_engramsea"
   },
+  "41": {
+    "Id": 41,
+    "SceneLoadType": 1,
+    "SceneFile": "scenes/fld003"
+  },
   "50": {
     "Id": 50,
     "SceneLoadType": 0,
@@ -269,6 +274,16 @@
     "SceneLoadType": 2,
     "SceneFile": "scenes/cty001_festival_blueland"
   },
+  "104": {
+    "Id": 104,
+    "SceneLoadType": 2,
+    "SceneFile": "scenes/blueland001_festival_ip003"
+  },
+  "1150": {
+    "Id": 1150,
+    "SceneLoadType": 0,
+    "SceneFile": "scenes/dng_hero_1121_tower_s3"
+  },
   "1401": {
     "Id": 1401,
     "SceneLoadType": 0,
@@ -318,6 +333,11 @@
     "Id": 1502,
     "SceneLoadType": 2,
     "SceneFile": "scenes/union_activity_sublevel_002"
+  },
+  "1611": {
+    "Id": 1611,
+    "SceneLoadType": 0,
+    "SceneFile": "scenes/dng_main_1001_tina_s3"
   },
   "5019": {
     "Id": 5019,
@@ -404,10 +424,25 @@
     "SceneLoadType": 0,
     "SceneFile": "scenes/dng_branch_6051_ponponhallway"
   },
+  "6511": {
+    "Id": 6511,
+    "SceneLoadType": 0,
+    "SceneFile": "scenes/dng_branch_6501_godvault"
+  },
   "6521": {
     "Id": 6521,
     "SceneLoadType": 0,
     "SceneFile": "scenes/dng_branch_6521_factory"
+  },
+  "6541": {
+    "Id": 6541,
+    "SceneLoadType": 0,
+    "SceneFile": "scenes/dng_branch_6541_beast"
+  },
+  "6561": {
+    "Id": 6561,
+    "SceneLoadType": 0,
+    "SceneFile": "scenes/dng_branch_6561_coral"
   },
   "7070": {
     "Id": 7070,
@@ -488,6 +523,11 @@
     "Id": 13011,
     "SceneLoadType": 0,
     "SceneFile": "scenes/dng_raid_002"
+  },
+  "13021": {
+    "Id": 13021,
+    "SceneLoadType": 0,
+    "SceneFile": "scenes/dng_raid_003"
   },
   "30001": {
     "Id": 30001,

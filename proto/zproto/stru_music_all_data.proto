@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "stru_music_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message MusicAllData {
+	map<int32, MusicData> musicDataMap = 1 [json_name = "musicDataMap"];
+}

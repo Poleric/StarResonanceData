@@ -12,7 +12,8 @@
     "Icon": "item_icons_nabao_04",
     "Description": "Boss ATK <style=\"accent-gn\">+30%</style>, HP <style=\"accent-gn\">+20%</style>; <br>[Slumberdream Sigils] dropped by Bosses are guaranteed to be Epic quality.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101001
+    "Unlock": 1101001,
+    "BelongSeasonld": 2
   },
   "11002": {
     "Id": 11002,
@@ -27,7 +28,8 @@
     "Icon": "item_icons_nabao_03",
     "Description": "When a player's HP is not full, damage they take<style=\"accent-gn\">+30%</style>; <br>When a player's HP is full, damage they take<style=\"accent-gn\">-30%</style>",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101002
+    "Unlock": 1101002,
+    "BelongSeasonld": 2
   },
   "11003": {
     "Id": 11003,
@@ -42,7 +44,8 @@
     "Icon": "item_icons_nabao_10",
     "Description": "Player ATK <style=\"accent-gn\">-20%</style>, Defense <style=\"accent-gn\">-20%</style>; <br>Monster ATK<style=\"accent-gn\">-30%</style>",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101003
+    "Unlock": 1101003,
+    "BelongSeasonld": 2
   },
   "11004": {
     "Id": 11004,
@@ -57,7 +60,8 @@
     "Icon": "item_icons_nabao_06",
     "Description": "Elite HP and Boss HP <style=\"accent-gn\">+100%</style>, ATK <style=\"accent-gn\">+50%</style>; <br>Drop rate of [Slumberdream Remnants] from Elites and Bosses <style=\"accent-gn\">+60%</style>.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101004
+    "Unlock": 1101004,
+    "BelongSeasonld": 2
   },
   "11005": {
     "Id": 11005,
@@ -72,7 +76,8 @@
     "Icon": "item_icons_nabao_01",
     "Description": "Monsters are affected by Void Corruption (HP <style=\"accent-gn\">+20%</style>, ATK <style=\"accent-gn\">+20%</style>; <br>Drop rate of [Slumberdream Sigils] from monsters is doubled.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101005
+    "Unlock": 1101005,
+    "BelongSeasonld": 2
   },
   "11006": {
     "Id": 11006,
@@ -87,7 +92,8 @@
     "Icon": "item_icons_nabao_09",
     "Description": "Player HP cannot exceed <style=\"accent-gn\">50%</style> of Max HP; <br>Monster Max HP <style=\"accent-gn\">-30%</style>",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101006
+    "Unlock": 1101006,
+    "BelongSeasonld": 2
   },
   "11007": {
     "Id": 11007,
@@ -102,7 +108,8 @@
     "Icon": "item_icons_nabao_02",
     "Description": "While out of combat, [Slumberdream Value] gain rate <style=\"accent-gn\">+100%</style>; <br>While in combat, [Slumberdream Value] gain rate <style=\"accent-gn\">−20%</style>",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101007
+    "Unlock": 1101007,
+    "BelongSeasonld": 2
   },
   "11008": {
     "Id": 11008,
@@ -117,7 +124,8 @@
     "Icon": "item_icons_nabao_05",
     "Description": "For each unit, damage taken is stored and then settled every <style=\"accent-gn\">5 seconds</style>; <br>Damage taken by monsters <style=\"accent-gn\">+15%</style>",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101008
+    "Unlock": 1101008,
+    "BelongSeasonld": 2
   },
   "11009": {
     "Id": 11009,
@@ -132,7 +140,8 @@
     "Icon": "item_icons_nabao_08",
     "Description": "Monster ATK and HP <style=\"accent-gn\">+10%</style>; Elites and stronger monsters gain an additional <style=\"accent-gn\">10%</style>; <br>[Slumberdream Remnants] gained from combat <style=\"accent-gn\">+40%</style>",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101009
+    "Unlock": 1101009,
+    "BelongSeasonld": 2
   },
   "11010": {
     "Id": 11010,
@@ -147,7 +156,8 @@
     "Icon": "item_icons_nabao_07",
     "Description": "Monsters gain [Protection]: DMG Reduction <style=\"accent-gn\">+50%</style>. Each time damage is taken, this effect <style=\"accent-gn\">-0.5%</style>; <br>Damage taken by players <style=\"accent-gn\">−30%</style>",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101010
+    "Unlock": 1101010,
+    "BelongSeasonld": 2
   },
   "12001": {
     "Id": 12001,
@@ -162,7 +172,8 @@
     "Icon": "item_icons_hufu_02",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101101
+    "Unlock": 1101101,
+    "BelongSeasonld": 2
   },
   "12002": {
     "Id": 12002,
@@ -177,7 +188,8 @@
     "Icon": "item_icons_hufu_01",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101102
+    "Unlock": 1101102,
+    "BelongSeasonld": 2
   },
   "12003": {
     "Id": 12003,
@@ -192,7 +204,8 @@
     "Icon": "item_icons_hufu_06",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101103
+    "Unlock": 1101103,
+    "BelongSeasonld": 2
   },
   "12004": {
     "Id": 12004,
@@ -207,7 +220,8 @@
     "Icon": "item_icons_hufu_07",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101104
+    "Unlock": 1101104,
+    "BelongSeasonld": 2
   },
   "12005": {
     "Id": 12005,
@@ -222,7 +236,8 @@
     "Icon": "item_icons_hufu_03",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101105
+    "Unlock": 1101105,
+    "BelongSeasonld": 2
   },
   "12006": {
     "Id": 12006,
@@ -237,7 +252,8 @@
     "Icon": "item_icons_hufu_04",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101106
+    "Unlock": 1101106,
+    "BelongSeasonld": 2
   },
   "12007": {
     "Id": 12007,
@@ -252,7 +268,8 @@
     "Icon": "item_icons_hufu_08",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101107
+    "Unlock": 1101107,
+    "BelongSeasonld": 2
   },
   "12008": {
     "Id": 12008,
@@ -267,7 +284,8 @@
     "Icon": "item_icons_hufu_05",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101108
+    "Unlock": 1101108,
+    "BelongSeasonld": 2
   },
   "12009": {
     "Id": 12009,
@@ -282,7 +300,8 @@
     "Icon": "item_icons_hufu_09",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101109
+    "Unlock": 1101109,
+    "BelongSeasonld": 2
   },
   "12010": {
     "Id": 12010,
@@ -297,6 +316,327 @@
     "Icon": "item_icons_hufu_10",
     "Description": "Stat Boost: Increases ATK, DEF, and HP after being used in the Slumberdream Valley.<br>Mental Resistance: Significantly slows Slumberdream Value accumulation in the Slumberdream Valley.",
     "Content": "Complete Slumberdream weekly quests to unlock",
-    "Unlock": 1101110
+    "Unlock": 1101110,
+    "BelongSeasonld": 2
+  },
+  "13001": {
+    "Id": 13001,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_04",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101011,
+    "BelongSeasonld": 3
+  },
+  "13002": {
+    "Id": 13002,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_03",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101012,
+    "BelongSeasonld": 3
+  },
+  "13003": {
+    "Id": 13003,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_10",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101013,
+    "BelongSeasonld": 3
+  },
+  "13004": {
+    "Id": 13004,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_06",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101014,
+    "BelongSeasonld": 3
+  },
+  "13005": {
+    "Id": 13005,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_01",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101015,
+    "BelongSeasonld": 3
+  },
+  "13006": {
+    "Id": 13006,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_09",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101016,
+    "BelongSeasonld": 3
+  },
+  "13007": {
+    "Id": 13007,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_02",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101017,
+    "BelongSeasonld": 3
+  },
+  "13008": {
+    "Id": 13008,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_05",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101018,
+    "BelongSeasonld": 3
+  },
+  "13009": {
+    "Id": 13009,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_08",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101019,
+    "BelongSeasonld": 3
+  },
+  "13010": {
+    "Id": 13010,
+    "Condition": [
+      [
+        14,
+        302001
+      ]
+    ],
+    "Name": "",
+    "Type": 1,
+    "Icon": "item_icons_nabao_07",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101020,
+    "BelongSeasonld": 3
+  },
+  "14001": {
+    "Id": 14001,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_02",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101111,
+    "BelongSeasonld": 3
+  },
+  "14002": {
+    "Id": 14002,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_01",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101112,
+    "BelongSeasonld": 3
+  },
+  "14003": {
+    "Id": 14003,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_06",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101113,
+    "BelongSeasonld": 3
+  },
+  "14004": {
+    "Id": 14004,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_07",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101114,
+    "BelongSeasonld": 3
+  },
+  "14005": {
+    "Id": 14005,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_03",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101115,
+    "BelongSeasonld": 3
+  },
+  "14006": {
+    "Id": 14006,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_04",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101116,
+    "BelongSeasonld": 3
+  },
+  "14007": {
+    "Id": 14007,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_08",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101117,
+    "BelongSeasonld": 3
+  },
+  "14008": {
+    "Id": 14008,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_05",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101118,
+    "BelongSeasonld": 3
+  },
+  "14009": {
+    "Id": 14009,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_09",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101119,
+    "BelongSeasonld": 3
+  },
+  "14010": {
+    "Id": 14010,
+    "Condition": [
+      [
+        14,
+        302002
+      ]
+    ],
+    "Name": "",
+    "Type": 2,
+    "Icon": "item_icons_hufu_10",
+    "Description": "",
+    "Content": "",
+    "Unlock": 1101120,
+    "BelongSeasonld": 3
   }
 }

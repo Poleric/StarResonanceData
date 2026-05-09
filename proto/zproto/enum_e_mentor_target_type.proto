@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EMentorTargetType {
+	EMentorTargetTypeNull = 0;
+	EMentorTargetTypeInternship = 1;
+	EMentorTargetTypeSeason = 2;
+	EMentorTargetTypeCyclical = 3;
+	EMentorTargetTypeChallenge = 4;
+}

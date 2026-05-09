@@ -286,5 +286,149 @@
         500
       ]
     ]
+  },
+  "6512": {
+    "DungeonId": 6512,
+    "SeasonId": 3,
+    "AffixPool": 0,
+    "SwitchAffix": [],
+    "EnterTime": 0,
+    "DestinyDungeonId": [],
+    "Shade": "ui/textures/herodungeon/t_env_cty01_transmit_cursedtomb_001a",
+    "Background": "ui/textures/dungeon_textures/dungeon_cursedtomb_3",
+    "ModelId": 1,
+    "EffectId": 1,
+    "BaseRatio": 100,
+    "LimitTime": 0,
+    "ScoreRank": [
+      [
+        2,
+        200
+      ],
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  "6522": {
+    "DungeonId": 6522,
+    "SeasonId": 3,
+    "AffixPool": 0,
+    "SwitchAffix": [],
+    "EnterTime": 3,
+    "DestinyDungeonId": [],
+    "Shade": "ui/textures/herodungeon/t_env_cty01_transmit_factory_001a",
+    "Background": "ui/textures/dungeon_textures/dungeon_factory_3",
+    "ModelId": 1,
+    "EffectId": 1,
+    "BaseRatio": 100,
+    "LimitTime": 0,
+    "ScoreRank": [
+      [
+        2,
+        200
+      ],
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  "6542": {
+    "DungeonId": 6542,
+    "SeasonId": 3,
+    "AffixPool": 0,
+    "SwitchAffix": [],
+    "EnterTime": 9,
+    "DestinyDungeonId": [],
+    "Shade": "ui/textures/herodungeon/t_env_cty01_transmit_misthunt_001a",
+    "Background": "ui/textures/dungeon_textures/dungeon_misthunt_3",
+    "ModelId": 1,
+    "EffectId": 1,
+    "BaseRatio": 100,
+    "LimitTime": 0,
+    "ScoreRank": [
+      [
+        2,
+        200
+      ],
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  "6562": {
+    "DungeonId": 6562,
+    "SeasonId": 3,
+    "AffixPool": 0,
+    "SwitchAffix": [],
+    "EnterTime": 15,
+    "DestinyDungeonId": [],
+    "Shade": "ui/textures/herodungeon/t_env_cty01_transmit_searocks_001a",
+    "Background": "ui/textures/dungeon_textures/dungeon_searocks_3",
+    "ModelId": 1,
+    "EffectId": 1,
+    "BaseRatio": 100,
+    "LimitTime": 0,
+    "ScoreRank": [
+      [
+        2,
+        200
+      ],
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  "1621": {
+    "DungeonId": 1621,
+    "SeasonId": 3,
+    "AffixPool": 0,
+    "SwitchAffix": [],
+    "EnterTime": 6,
+    "DestinyDungeonId": [],
+    "Shade": "ui/textures/herodungeon/t_env_cty01_transmit_s3dina_001a",
+    "Background": "ui/textures/dungeon_textures/dungeon_s3dina_3",
+    "ModelId": 1,
+    "EffectId": 1,
+    "BaseRatio": 100,
+    "LimitTime": 0,
+    "ScoreRank": [
+      [
+        2,
+        300
+      ],
+      [
+        3,
+        500
+      ]
+    ]
+  },
+  "1153": {
+    "DungeonId": 1153,
+    "SeasonId": 3,
+    "AffixPool": 0,
+    "SwitchAffix": [],
+    "EnterTime": 12,
+    "DestinyDungeonId": [],
+    "Shade": "ui/textures/herodungeon/t_env_cty01_transmit_s3tower_001a",
+    "Background": "ui/textures/dungeon_textures/dungeon_s3tower_3",
+    "ModelId": 1,
+    "EffectId": 1,
+    "BaseRatio": 100,
+    "LimitTime": 0,
+    "ScoreRank": [
+      [
+        2,
+        300
+      ],
+      [
+        3,
+        500
+      ]
+    ]
   }
 }

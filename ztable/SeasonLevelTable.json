@@ -2518,5 +2518,2755 @@
     "SeasonFightValue": 4,
     "SeasonNacsStandard": [],
     "SeasonId": 2
+  },
+  "1001": {
+    "Id": 1001,
+    "SeasonLevel": 1,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1002": {
+    "Id": 1002,
+    "SeasonLevel": 2,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1003": {
+    "Id": 1003,
+    "SeasonLevel": 3,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1004": {
+    "Id": 1004,
+    "SeasonLevel": 4,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1005": {
+    "Id": 1005,
+    "SeasonLevel": 5,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1006": {
+    "Id": 1006,
+    "SeasonLevel": 6,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1007": {
+    "Id": 1007,
+    "SeasonLevel": 7,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1008": {
+    "Id": 1008,
+    "SeasonLevel": 8,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1009": {
+    "Id": 1009,
+    "SeasonLevel": 9,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1010": {
+    "Id": 1010,
+    "SeasonLevel": 10,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1011": {
+    "Id": 1011,
+    "SeasonLevel": 11,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1012": {
+    "Id": 1012,
+    "SeasonLevel": 12,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1013": {
+    "Id": 1013,
+    "SeasonLevel": 13,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1014": {
+    "Id": 1014,
+    "SeasonLevel": 14,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1015": {
+    "Id": 1015,
+    "SeasonLevel": 15,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1016": {
+    "Id": 1016,
+    "SeasonLevel": 16,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1017": {
+    "Id": 1017,
+    "SeasonLevel": 17,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1018": {
+    "Id": 1018,
+    "SeasonLevel": 18,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1019": {
+    "Id": 1019,
+    "SeasonLevel": 19,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1020": {
+    "Id": 1020,
+    "SeasonLevel": 20,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1021": {
+    "Id": 1021,
+    "SeasonLevel": 21,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1022": {
+    "Id": 1022,
+    "SeasonLevel": 22,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1023": {
+    "Id": 1023,
+    "SeasonLevel": 23,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1024": {
+    "Id": 1024,
+    "SeasonLevel": 24,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1025": {
+    "Id": 1025,
+    "SeasonLevel": 25,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1026": {
+    "Id": 1026,
+    "SeasonLevel": 26,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1027": {
+    "Id": 1027,
+    "SeasonLevel": 27,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1028": {
+    "Id": 1028,
+    "SeasonLevel": 28,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1029": {
+    "Id": 1029,
+    "SeasonLevel": 29,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1030": {
+    "Id": 1030,
+    "SeasonLevel": 30,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1031": {
+    "Id": 1031,
+    "SeasonLevel": 31,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1032": {
+    "Id": 1032,
+    "SeasonLevel": 32,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1033": {
+    "Id": 1033,
+    "SeasonLevel": 33,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1034": {
+    "Id": 1034,
+    "SeasonLevel": 34,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1035": {
+    "Id": 1035,
+    "SeasonLevel": 35,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1036": {
+    "Id": 1036,
+    "SeasonLevel": 36,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1037": {
+    "Id": 1037,
+    "SeasonLevel": 37,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1038": {
+    "Id": 1038,
+    "SeasonLevel": 38,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1039": {
+    "Id": 1039,
+    "SeasonLevel": 39,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1040": {
+    "Id": 1040,
+    "SeasonLevel": 40,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1041": {
+    "Id": 1041,
+    "SeasonLevel": 41,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1042": {
+    "Id": 1042,
+    "SeasonLevel": 42,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1043": {
+    "Id": 1043,
+    "SeasonLevel": 43,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1044": {
+    "Id": 1044,
+    "SeasonLevel": 44,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1045": {
+    "Id": 1045,
+    "SeasonLevel": 45,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1046": {
+    "Id": 1046,
+    "SeasonLevel": 46,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1047": {
+    "Id": 1047,
+    "SeasonLevel": 47,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1048": {
+    "Id": 1048,
+    "SeasonLevel": 48,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1049": {
+    "Id": 1049,
+    "SeasonLevel": 49,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1050": {
+    "Id": 1050,
+    "SeasonLevel": 50,
+    "Condition": [],
+    "SeasonExpNum": 1200000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1051": {
+    "Id": 1051,
+    "SeasonLevel": 51,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 1350000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1052": {
+    "Id": 1052,
+    "SeasonLevel": 52,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 1500000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1053": {
+    "Id": 1053,
+    "SeasonLevel": 53,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 1650000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1054": {
+    "Id": 1054,
+    "SeasonLevel": 54,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 1800000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1055": {
+    "Id": 1055,
+    "SeasonLevel": 55,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 1950000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1056": {
+    "Id": 1056,
+    "SeasonLevel": 56,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 2100000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1057": {
+    "Id": 1057,
+    "SeasonLevel": 57,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 2250000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1058": {
+    "Id": 1058,
+    "SeasonLevel": 58,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 2400000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1059": {
+    "Id": 1059,
+    "SeasonLevel": 59,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 2550000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1060": {
+    "Id": 1060,
+    "SeasonLevel": 60,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 2700000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1061": {
+    "Id": 1061,
+    "SeasonLevel": 61,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 2850000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1062": {
+    "Id": 1062,
+    "SeasonLevel": 62,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 3000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1063": {
+    "Id": 1063,
+    "SeasonLevel": 63,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 3150000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1064": {
+    "Id": 1064,
+    "SeasonLevel": 64,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 3300000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1065": {
+    "Id": 1065,
+    "SeasonLevel": 65,
+    "Condition": [
+      [
+        9,
+        10322
+      ]
+    ],
+    "SeasonExpNum": 3400000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1066": {
+    "Id": 1066,
+    "SeasonLevel": 66,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 3500000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1067": {
+    "Id": 1067,
+    "SeasonLevel": 67,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 3600000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1068": {
+    "Id": 1068,
+    "SeasonLevel": 68,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 3700000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1069": {
+    "Id": 1069,
+    "SeasonLevel": 69,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 3800000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1070": {
+    "Id": 1070,
+    "SeasonLevel": 70,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 3900000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1071": {
+    "Id": 1071,
+    "SeasonLevel": 71,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1072": {
+    "Id": 1072,
+    "SeasonLevel": 72,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1073": {
+    "Id": 1073,
+    "SeasonLevel": 73,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1074": {
+    "Id": 1074,
+    "SeasonLevel": 74,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1075": {
+    "Id": 1075,
+    "SeasonLevel": 75,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1076": {
+    "Id": 1076,
+    "SeasonLevel": 76,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1077": {
+    "Id": 1077,
+    "SeasonLevel": 77,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1078": {
+    "Id": 1078,
+    "SeasonLevel": 78,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1079": {
+    "Id": 1079,
+    "SeasonLevel": 79,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1080": {
+    "Id": 1080,
+    "SeasonLevel": 80,
+    "Condition": [
+      [
+        9,
+        10323
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1081": {
+    "Id": 1081,
+    "SeasonLevel": 81,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1082": {
+    "Id": 1082,
+    "SeasonLevel": 82,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1083": {
+    "Id": 1083,
+    "SeasonLevel": 83,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1084": {
+    "Id": 1084,
+    "SeasonLevel": 84,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1085": {
+    "Id": 1085,
+    "SeasonLevel": 85,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1086": {
+    "Id": 1086,
+    "SeasonLevel": 86,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1087": {
+    "Id": 1087,
+    "SeasonLevel": 87,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1088": {
+    "Id": 1088,
+    "SeasonLevel": 88,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1089": {
+    "Id": 1089,
+    "SeasonLevel": 89,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1090": {
+    "Id": 1090,
+    "SeasonLevel": 90,
+    "Condition": [
+      [
+        9,
+        10324
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1091": {
+    "Id": 1091,
+    "SeasonLevel": 91,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1092": {
+    "Id": 1092,
+    "SeasonLevel": 92,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1093": {
+    "Id": 1093,
+    "SeasonLevel": 93,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1094": {
+    "Id": 1094,
+    "SeasonLevel": 94,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1095": {
+    "Id": 1095,
+    "SeasonLevel": 95,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1096": {
+    "Id": 1096,
+    "SeasonLevel": 96,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1097": {
+    "Id": 1097,
+    "SeasonLevel": 97,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1098": {
+    "Id": 1098,
+    "SeasonLevel": 98,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1099": {
+    "Id": 1099,
+    "SeasonLevel": 99,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
+  },
+  "1100": {
+    "Id": 1100,
+    "SeasonLevel": 100,
+    "Condition": [
+      [
+        9,
+        10325
+      ]
+    ],
+    "SeasonExpNum": 4000000,
+    "SeasonLevelUpAttr": [
+      [
+        11442,
+        10
+      ],
+      [
+        11042,
+        30
+      ]
+    ],
+    "SeasonLevelAwardId": 0,
+    "SeasonExpAccess": [
+      600100,
+      800500,
+      100804
+    ],
+    "SeasonFightValue": 6,
+    "SeasonNacsStandard": [],
+    "SeasonId": 3
   }
 }

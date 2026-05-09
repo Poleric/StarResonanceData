@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message AttrUnlockValueListStruct {
+	repeated int32 value = 1 [json_name = "value"];
+}

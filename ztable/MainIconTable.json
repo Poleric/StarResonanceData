@@ -1088,5 +1088,45 @@
     "Icon": "ui/atlas/esc_icon/esc_icon_fish",
     "PCIcon": "ui/atlas/esc_icon/esc_icon_fish",
     "Path": "sys_main_funcs_in"
+  },
+  "101201": {
+    "Id": 101201,
+    "Title": "Musician",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 4,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 24,
+    "PCSortId": 24,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_hobbyband",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_hobbyband",
+    "Path": "sys_main_funcs_in"
+  },
+  "500240": {
+    "Id": 500240,
+    "Title": "Mentor",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 4,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 20,
+    "PCSortId": 20,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_mentor",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_mentor",
+    "Path": "ui/atlas/esc_icon/esc_icon_mentor"
   }
 }

@@ -944,7 +944,7 @@
     "AttrNumType": 0,
     "OfficialName": "Mastery",
     "TipTemplate": "Mastery {*attr.value*}",
-    "AttrDes": "Increases the damage of Stormblade's Iaido Slash and Phantom Scythe. <br>Increases Wind Knight's Wind DMG. <br>Increases Heavy Guardian's Block Rate and Shield Strength. <br>Increases Shield Knight's Armor and healing received. <br>Increases Frost Mage's Ice DMG. <br>Increases Verdant Oracle's healing strength. <br>Increases Marksman's Companion damage.<br>",
+    "AttrDes": "Grants different attribute bonuses based on class specialization.<br>",
     "BuffShowAttrHUD": 1,
     "AttrIcon": [
       "ui/atlas/hud/buff/buff_blue_atk",
@@ -1656,9 +1656,9 @@
     "AttrPer": 11444,
     "AttrExPer": 11445,
     "AttrNumType": 0,
-    "OfficialName": "Illusion Strength",
-    "TipTemplate": "Illusion Strength {*attr.value*}",
-    "AttrDes": "Against Dreambloom Season monsters: <br>When your Illusion Strength exceeds the enemy's, every 100 points of advantage increases the DMG you deal by 5% (up to 20%) and healing done by 2% (up to 8%, active only in Dungeons and near Field Elites/Bosses).<br>When your Illusion Strength is lower than the enemy's, the DMG and healing you deal are greatly reduced, and the DMG you take is greatly increased.<br><br>Against wild monsters from previous seasons: <br>Increases your DMG dealt by 100%<br><br>You can judge threat level by the color of the icon above monsters. Monster strength can also be viewed in the Monster Manual and Dungeon Info.<br>",
+    "OfficialName": "Illusion-Breaking Strength",
+    "TipTemplate": "Illusion-Breaking Strength {*attr.value*}",
+    "AttrDes": "Against Ember season monsters:<br>When own Illusion-Breaking Strength exceeds the enemy's, for every 150 points of advantage, DMG dealt is increased by 5% (up to 20%) and healing done is increased by 2% (up to 8%, active only in Dungeons and near Field Elites and Bosses).<br>When own Illusion-Breaking Strength is lower than the enemy's, DMG dealt and healing are greatly reduced, and DMG taken is greatly increased.<br><br>Against wild monsters from previous seasons:<br>DMG dealt is increased by 100%.<br><br>The threat level can be judged by the color of the icon above monsters. Monster strength can also be viewed in the Monster Manual and Dungeon Info.<br>",
     "BuffShowAttrHUD": 0,
     "AttrIcon": [],
     "Icon": "ui/atlas/weaponhero/new/common_icon01",
@@ -3013,7 +3013,7 @@
     "AttrNumType": 1,
     "OfficialName": "Mastery",
     "TipTemplate": "Mastery {*attr.value*}",
-    "AttrDes": "Increases the damage of Stormblade's Iaido Slash and Phantom Scythe. <br>Increases Wind Knight's Wind DMG. <br>Increases Heavy Guardian's Block Rate and Shield Strength. <br>Increases Shield Knight's Armor and healing received. <br>Increases Frost Mage's Ice DMG. <br>Increases Verdant Oracle's healing strength. <br>Increases Marksman's Companion damage.<br>",
+    "AttrDes": "Grants different attribute bonuses based on class specialization.<br>",
     "BuffShowAttrHUD": 1,
     "AttrIcon": [
       "ui/atlas/hud/buff/buff_blue_atk",
@@ -3334,7 +3334,7 @@
   "12530": {
     "Id": 12530,
     "EnumName": "AttrLuckDamInc",
-    "Name": "幸运一击伤害万分比",
+    "Name": "幸运一击伤害倍率",
     "Type": "int32",
     "IsClass": true,
     "IsSyncMe": true,
@@ -3417,7 +3417,7 @@
   "12550": {
     "Id": 12550,
     "EnumName": "AttrDamInc",
-    "Name": "物理伤害加成万分比",
+    "Name": "物理增效万分比",
     "Type": "int32",
     "IsClass": true,
     "IsSyncMe": true,
@@ -3457,7 +3457,7 @@
   "12560": {
     "Id": 12560,
     "EnumName": "AttrDamRes",
-    "Name": "物理伤害减免万分比",
+    "Name": "物理削减万分比",
     "Type": "int32",
     "IsClass": true,
     "IsSyncMe": true,
@@ -3500,7 +3500,7 @@
   "12570": {
     "Id": 12570,
     "EnumName": "AttrMdamInc",
-    "Name": "魔法伤害加成万分比",
+    "Name": "魔法增效万分比",
     "Type": "int32",
     "IsClass": true,
     "IsSyncMe": true,
@@ -3535,7 +3535,7 @@
   "12580": {
     "Id": 12580,
     "EnumName": "AttrMdamRes",
-    "Name": "魔法伤害减免万分比",
+    "Name": "魔法削减万分比",
     "Type": "int32",
     "IsClass": true,
     "IsSyncMe": true,
@@ -3922,7 +3922,7 @@
   "12670": {
     "Id": 12670,
     "EnumName": "AttrOtherDamInc",
-    "Name": "其他增伤万分比",
+    "Name": "通用增伤万分比",
     "Type": "int32",
     "IsClass": true,
     "IsSyncMe": true,
@@ -3965,7 +3965,7 @@
   "12680": {
     "Id": 12680,
     "EnumName": "AttrOtherDamRes",
-    "Name": "其他减免万分比",
+    "Name": "通用减免万分比",
     "Type": "int32",
     "IsClass": true,
     "IsSyncMe": true,
@@ -4134,7 +4134,7 @@
   "12720": {
     "Id": 12720,
     "EnumName": "AttrLuckHealInc",
-    "Name": "幸运一击治疗万分比",
+    "Name": "幸运一击治疗倍率",
     "Type": "int32",
     "IsClass": true,
     "IsSyncMe": true,
@@ -4177,7 +4177,7 @@
   "12730": {
     "Id": 12730,
     "EnumName": "AttrPetDamInc",
-    "Name": "宠物伤害",
+    "Name": "宠物伤害加成万分比",
     "Type": "int32",
     "IsClass": true,
     "IsSyncMe": true,

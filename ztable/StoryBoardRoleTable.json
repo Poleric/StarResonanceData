@@ -1,0 +1,90 @@
+{
+  "1001": {
+    "Id": 1001,
+    "RoleName": "Fafala",
+    "Remark": "",
+    "RolePic": "ui/textures/npctask/farfara/storyboard_farfara",
+    "UnlockCondition": [
+      [
+        2,
+        10602,
+        2
+      ],
+      [
+        9,
+        30103
+      ]
+    ],
+    "IsShow": true,
+    "StoryboardPool": [
+      100101
+    ],
+    "LockedText": "Complete <style=\"emph-gn\">In the Moments After Those Dreams</style> to unlock"
+  },
+  "1002": {
+    "Id": 1002,
+    "RoleName": "Darya",
+    "Remark": "",
+    "RolePic": "ui/textures/npctask/daya/storyboard_daya",
+    "UnlockCondition": [
+      [
+        2,
+        10607,
+        2
+      ],
+      [
+        9,
+        30101
+      ]
+    ],
+    "IsShow": true,
+    "StoryboardPool": [
+      100201
+    ],
+    "LockedText": "Complete <style=\"emph-gn\">The Night Steps Into the Long Street</style> to unlock"
+  },
+  "1000": {
+    "Id": 1000,
+    "RoleName": "Boyce",
+    "Remark": "",
+    "RolePic": "ui/textures/npctask/boyce/storyboard_boyce",
+    "UnlockCondition": [
+      [
+        2,
+        10602,
+        2
+      ],
+      [
+        9,
+        30105
+      ]
+    ],
+    "IsShow": true,
+    "StoryboardPool": [
+      100001
+    ],
+    "LockedText": "Complete <style=\"emph-gn\">In the Moments After Those Dreams</style> to unlock"
+  },
+  "1003": {
+    "Id": 1003,
+    "RoleName": "Airona",
+    "Remark": "",
+    "RolePic": "ui/textures/taskinfo_ep/taskinfo_ep03_03",
+    "UnlockCondition": [
+      [
+        2,
+        10001,
+        2
+      ],
+      [
+        9,
+        10401
+      ]
+    ],
+    "IsShow": false,
+    "StoryboardPool": [
+      100301
+    ],
+    "LockedText": "Complete <style=\"emph-gn\">The Original Point</style> to unlock"
+  }
+}

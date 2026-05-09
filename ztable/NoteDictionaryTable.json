@@ -2357,5 +2357,725 @@
       10904
     ],
     "IsHide": false
+  },
+  "1149": {
+    "Id": 1149,
+    "DictionaryType": 3,
+    "Episode": 1149,
+    "Name": "Treasure Hunters",
+    "DictionaryDes": "Treasure hunters possess an extraordinary obsession with undiscovered hoards. There are true scholars out to study ruins among them, but also many opportunistic profiteers. As a result, treasure hunters have a mixed reputation that skews mostly negative. Upstanding ruin surveyors and artisans have always looked down on them, declining to have any dealings with them, while cautious and timid village folk fear they might harm others for wealth. Yet in adventure novels, they always take the role of legendary protagonists, fodder for enthusiastic discussion by countless readers.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30808
+    ],
+    "IsHide": false
+  },
+  "1150": {
+    "Id": 1150,
+    "DictionaryType": 1,
+    "Episode": 1150,
+    "Name": "Coveted Treasure - Part One",
+    "DictionaryDes": "Few visit the Sunset Wilds, making it almost exclusively a habitat for wild beasts. However, recently a rumor spreading throughout the Duchy of Byrnhald has drawn people to gather here. The word is, somewhere on the edges of the Bahamar Highlands lies a treasure so vast, it could last a person ten lifetimes!<br><br>\"Did you hear? That famous treasure hunter, the one who never fails, is heading to the highlands...\"<br>\"Are you serious? People actually believe this baseless rumor?\"<br>\"You don't get it—there's never even been a rumor of a treasure this big! It might even hide the secrets of the Divines!\"<br>\"Well...\"<br>\"Besides, even if we can't find the big one, there are bound to be smaller ones around. Don't you want a piece of the action?\"<br>\"Okay, wait for me! There's no way I'm not going after all that—I have to see if the rumors are true, no matter what!\"",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30808
+    ],
+    "IsHide": false
+  },
+  "1151": {
+    "Id": 1151,
+    "DictionaryType": 1,
+    "Episode": 1151,
+    "Name": "Coveted Treasure - Part Two",
+    "DictionaryDes": "Rumors of the treasure continued to spread, and treasure hunters flocked in. Traveling merchants, smelling a good business opportunity, pitched their tents and set up stalls on the outskirts of the treasure hunters' camp.<br>Some merchants took advantage of the chance to resell treasure leads, making a fortune for themselves in the process.<br>However, no one knows where those clues came from...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30809
+    ],
+    "IsHide": false
+  },
+  "1152": {
+    "Id": 1152,
+    "DictionaryType": 1,
+    "Episode": 1152,
+    "Name": "Coveted Treasure - Part Three",
+    "DictionaryDes": "After the rumors spread, more and more people went to the Sunset Wilds to investigate, but no one found the supposed massive treasure. Some lucky few may have found a few valuable items, but the unique treasure trove that initially attracted everyone remained undiscovered.<br>Over time, the rumor morphed into \"the treasure never existed at all,\" making even the treasure hunters doubt the veracity of the original claims. Still, no one wanted to return empty-handed, and the merchants didn't want the crowds to disperse before their goods were sold. The two factions argued endlessly over the treasure's existence... Even the residents of the highlands caught wind of the arguments, and gossiped about them during their free time.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30812
+    ],
+    "IsHide": false
+  },
+  "1153": {
+    "Id": 1153,
+    "DictionaryType": 1,
+    "Episode": 1153,
+    "Name": "Treasure Hunter Camp",
+    "DictionaryDes": "Most treasure hunters are profit-driven individuals. Even when they team up to hunt for treasure, they're highly selective, mostly only forming parties with their relatives and friends.<br>However, as news of the treasure spread across the entire continent, the once desolate wilderness was suddenly flooded with countless hopefuls. At first, people fought fiercely over resting spots, then squabbled over excluding outsiders, ultimately delaying the actual treasure hunt for a long time. To remedy this, several veteran treasure hunters proposed building a temporary camp, open to all treasure seekers for rest and resupply. They established only one unbreakable rule: anyone who steps into the camp must lay down their grudges and not disturb the rest of the others.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30808
+    ],
+    "IsHide": false
+  },
+  "1154": {
+    "Id": 1154,
+    "DictionaryType": 3,
+    "Episode": 1154,
+    "Name": "Traveling Merchants",
+    "DictionaryDes": "Merchants who travel the main roads and make a living by reselling local specialties. They wander aimlessly, never staying in one place for long. This is why people call them traveling merchants.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30808
+    ],
+    "IsHide": false
+  },
+  "1155": {
+    "Id": 1155,
+    "DictionaryType": 1,
+    "Episode": 1155,
+    "Name": "Fake Clues",
+    "DictionaryDes": "Treasures are rare and hard to come by, and whenever one is found, it means there's one less to discover. Due to the sheer number of treasure hunters, competition is fierce among them. Some devious treasure hunters will deliberately create false clues to confuse the others, distracting them with nonexistent fake hoards.<br><br>\"You hear? There was another one that got tricked recently!\"<br>\"Who's the unlucky one this time?\"<br>\"That arrogant, stuck-up guy from Byrnhald... I heard he ran off hunting, so sure of himself, only to get his backside handed to him by a boar! He came back covered in injuries and vowing to track down the culprit who tricked him!\"<br>\"Must have been embarrassing for him. That's what he gets for always looking down on people... I'd say he deserved it!\"<br>\"You better keep your voice down! People get pretty riled up about things like this... I mean, sure, the guy isn't well-liked, but... let's just keep this between us!\"",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30814
+    ],
+    "IsHide": false
+  },
+  "1156": {
+    "Id": 1156,
+    "DictionaryType": 1,
+    "Episode": 1156,
+    "Name": "Environmental Impact on the Wilds",
+    "DictionaryDes": "These wilds were once a haven where beasts thrived, but the arrival of treasure hunters and traveling merchants has left them with less room to roam.<br>Worse still, the treasure hunters' frequent logging, digging, and clearing of vegetation have severely damaged the ecosystem. Driven to desperation, the beasts have started to attack lone humans, causing endless suffering for the traveling merchants who only came to sell their goods. Because of this, tensions between the merchants and the treasure hunters continue to escalate.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30811
+    ],
+    "IsHide": false
+  },
+  "1157": {
+    "Id": 1157,
+    "DictionaryType": 2,
+    "Episode": 1157,
+    "Name": "Darya's Kindness",
+    "DictionaryDes": "Most of the treasure hunters who gathered because of the treasure rumors have been deceived by fake clues at least once. Still, even though everyone knows they're a \"classic scam,\" it still hasn't stopped impulsive, unlucky fools from falling for them.<br>People say that a kindhearted person has been leaving friendly warnings on the forged clues, and that they're also a treasure hunter...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30814
+    ],
+    "IsHide": false
+  },
+  "1158": {
+    "Id": 1158,
+    "DictionaryType": 2,
+    "Episode": 1158,
+    "Name": "Darya's Past",
+    "DictionaryDes": "Darya's dreams resurfaced memories she'd hidden deep within herself. She shared them with me, memories about wonderful experiences in her past... and her continued fixation on her parents.<br>We made a promise to find her most important treasure together—the whereabouts of her parents. They are the ones she shares the deepest bond with.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      40501
+    ],
+    "IsHide": false
+  },
+  "1159": {
+    "Id": 1159,
+    "DictionaryType": 1,
+    "Episode": 1159,
+    "Name": "Mass Illusory Plague Incident",
+    "DictionaryDes": "The Illusory Plague is gradually eroding people's consciousness, and infected individuals have begun to share the same hallucinations. The Creed has taken this matter very seriously and is actively trying to resolve this new symptom. However, this bizarre disease is far beyond our understanding, and such symptoms are still currently under observation. Some speculate whether the source of all this might be related to the increasingly lush Illusory Blooms growing on the highlands...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      40501
+    ],
+    "IsHide": false
+  },
+  "1160": {
+    "Id": 1160,
+    "DictionaryType": 3,
+    "Episode": 1160,
+    "Name": "Berry Fruit",
+    "DictionaryDes": "A fruit imagined by patients due to the mass Illusory Plague. It is said to have special patterns and emit light, but it does not actually exist.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      40501
+    ],
+    "IsHide": false
+  },
+  "1161": {
+    "Id": 1161,
+    "DictionaryType": 3,
+    "Episode": 1161,
+    "Name": "A message bottle",
+    "DictionaryDes": "Whether because of adventure novels or campfire stories, people always seem to think that treasure clues are hidden in drifting bottles. In reality, the notes are often just false information or random scribbles.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30814
+    ],
+    "IsHide": false
+  },
+  "1162": {
+    "Id": 1162,
+    "DictionaryType": 1,
+    "Episode": 1162,
+    "Name": "Competition Among Treasure Hunters",
+    "DictionaryDes": "There is fierce competition between treasure-hunting squads from different regions, countries, and even rival families. They sabotage each other to ensure their rivals are always one step behind. Because of this, conflicts between many squads continue to escalate, sometimes even reaching a point of no return...<br>Occasionally, even the traveling merchants selling goods get caught in the crossfire...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30810
+    ],
+    "IsHide": false
+  },
+  "1163": {
+    "Id": 1163,
+    "DictionaryType": 3,
+    "Episode": 1163,
+    "Name": "Methods of Treasure Hunting",
+    "DictionaryDes": "Many treasure owners will leave clues about their hoards. Those who solve their riddles can head to the true hiding places to claim vast fortunes.<br>These clues are often found in the most unexpected places—such as the belly of fish, or the corners of ancient murals.<br>Sometimes, the treasure hunting stories found in certain adventure novels turn out to be the exact methods for reaching hidden stashes...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30808
+    ],
+    "IsHide": false
+  },
+  "1164": {
+    "Id": 1164,
+    "DictionaryType": 2,
+    "Episode": 1164,
+    "Name": "The Lying Ruler",
+    "DictionaryDes": "A group of hurried artisans appeared in the ruins of the Sunken Corridor in the Bahamar Highlands. Oddly enough, they weren't researching a high-level Legacy or brand-new technology, but rather taking basic measurements.<br>Initially, the surveying artisans only wanted to measure the width of the remaining Bapharian Divine ruins' walls, but they discovered that their rulers showed random deviations with every reading. At first, they attributed them to their eyes playing tricks on them or their hands shaking, but as the records piled up, they were surprised to find that not only lengths, but angles, and even the most precise instrumental measurements all showed errors as well.<br>Behind these silent discrepancies, the artisans sensed the influence of a massive, unknown factor: when they used numbers to measure the world, the world was observing them in the exact same way... like an unblinking eye staring silently from the abyss.<br>Realizing something was wrong, the artisans gathered an elite team, stationing themselves in the Sunken Corridor, and swearing not to return to the Artisan Guild until they had solved the mystery.<br>But would things really go as they wished?",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30645
+    ],
+    "IsHide": false
+  },
+  "1165": {
+    "Id": 1165,
+    "DictionaryType": 2,
+    "Episode": 1165,
+    "Name": "The Clockwork Chicken Experiment",
+    "DictionaryDes": "The artisans shifted their perspective: they no longer obsessed over how to take accurate measurements, but instead turned to using existing technology to map the errors themselves.<br>For the artisans, this was tantamount to swallowing their pride and admitting that they were still nothing but students in the face of nature.<br>An artisan apprentice proposed the hypothesis of the <style=\"emph-gn\">Uncertainty Storm</style>: the uncertainty phenomena seemed to always accompany the passage of time and fluctuated in intensity. To prove this, the apprentice, Julien, designed an experiment. He had a clockwork chicken run at a constant speed within a fixed area to observe if its speed would be affected by the storm.<br>However, an astonishing thing occurred. Everyone watched as the clockwork chicken split into two—one remained at the starting line of the track, while the other was already at the finish line. Then, as if erased, both disappeared and instantly merged back into one in the middle of the track.<br>Even more bizarre was that when the clockwork chicken finally reached the finish line, its posture was almost exactly the same as the moment it split, as if that very second had been replayed.<br>The artisans proposed a possibility: perhaps the Uncertainty Storm had distorted the spacetime of the area... However, this gave rise to an even larger question—where exactly did this power capable of distorting spacetime come from?",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30646
+    ],
+    "IsHide": false
+  },
+  "1166": {
+    "Id": 1166,
+    "DictionaryType": 2,
+    "Episode": 1166,
+    "Name": "Creed Intervention",
+    "DictionaryDes": "Although the clockwork chicken experiment failed to solve the mystery of the Uncertainty Storm, the artisans' shocking reports at least served to push the investigation forward. Once the report was published, it caused a sensation, spreading like wildfire across the highlands. People endlessly discussed the bizarre event, guessing at the real reasons behind it.<br>However, the news quickly caught the attention of the Creed. The Creed, sensing something strange afoot, immediately intervened in the investigation, citing suspicions that the artisans had used illicit Legacies.<br>All the artisans should have needed to do to prove their innocence was replicate the experiment... but the Uncertainty Storm seemed to play a cruel joke on them. No matter how hard they tried, the clockwork chicken never split into two again.<br>Amidst the awkwardness of the artisans not being able to reproduce their experiment, the Creed proposed a search of their camp under the guise of assisting their investigation. Unfortunately for the artisans, while the Creed didn't find any so-called illicit Legacies, they did uncover contraband <style=\"emph-gn\">Crimson Marrow</style>. The artisans just smiled uncomfortably at this, stating that they just used it as an energy source. As the team leader put it, no one's warehouse is entirely clean. It gets ugly if you dig to the very bottom.<br>The Creed wasn't going to let them off so easily. Judging from their behavior, the Creed's true intentions were not nearly as simple as just searching for contraband.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30647
+    ],
+    "IsHide": false
+  },
+  "1167": {
+    "Id": 1167,
+    "DictionaryType": 2,
+    "Episode": 1167,
+    "Name": "The Truth Beyond the White Paint",
+    "DictionaryDes": "The relationship between the artisans and the Creed hardened over the contraband incident. The Creed tried to squeeze more information out of the artisans, while the artisans couldn't grasp what exactly the Creed wanted.<br>The stalemate didn't last long, however, as the artisans found something close to an answer in Articles 23 to 25 of the Creed's reports. What the Creed truly cared about was actually the <style=\"emph-gn\">Vision-Sharing Society</style>, a mysterious organization claiming to cooperate with the artisans to create Legacy-modified goggles capable of sharing vision and making holographic remote calls.<br>But to the Creed, this was complete nonsense. Technology like telepathy had always only existed in Divine legends.<br>While the artisans repeatedly stated that it was nothing more than a commercial gimmick and that the entire affair had nothing to do with them, it was clear from the Creed's actions that they never truly trusted the artisans. This also explained why the Creed showed up so quickly after seeing the artisans' reports on the clockwork chicken experiment.<br>In the end, for the sake of self-preservation, the artisans chose to disclose some technical details off-the-record with the Creed. The misunderstanding was resolved for the moment, and the contraband issue seemed to come to a close.<br>However, this truce also brought a swift end to research on the Uncertainty Storm...<br>Like a thick coat of white paint, the tacit silence between the priests and the artisans temporarily covered over most of the indefinite unease between them, but it also painted over the silhouette of the truth.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30648
+    ],
+    "IsHide": false
+  },
+  "1168": {
+    "Id": 1168,
+    "DictionaryType": 2,
+    "Episode": 1168,
+    "Name": "The Creed and the Artisans' High-Stakes Game",
+    "DictionaryDes": "In exchange for the data on the <style=\"emph-gn\">Vision-Sharing Society</style> that the Creed was interested in, the artisans put forward three demands: First, immediately release their confiscated equipment. Second, seal all investigation reports regarding the matter at hand. Third, overlook the contraband incident.<br>The priests agreed to the first two points almost without hesitation. However, on the third point, they made no direct promise, only coldly reminding the artisans to \"use less of that stuff,\" their given reason being that \"that stuff has been changing lately...\"<br>This last statement piqued the artisan team leader's interest. Just as he was about to ask further, the Creed chose to up the ante, demanding that the artisans hand over even more compelling intelligence.<br>Apparently, the artisans were equally invested in what the Creed meant by <style=\"emph-gn\">\"that stuff has been changing lately\"</style>, as their leader almost immediately played his trump card:<br>\"That stuff isn't some sort of signaling device like you think. It—\"<br>The conversation ended abruptly there, as the leader of the artisans and the Creed entered a different room alone for a secret discussion... Only the two of them know what happened after that.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30648
+    ],
+    "IsHide": false
+  },
+  "1169": {
+    "Id": 1169,
+    "DictionaryType": 2,
+    "Episode": 1169,
+    "Name": "The Sixth Factor",
+    "DictionaryDes": "Just as the artisans were fervently researching the uncertainty phenomena, their bitter rivals—the alchemists, also arrived, and began attempting to solve the mystery of the Uncertainty Storm using their alchemical arts.<br>Unlike the artisans, alchemists never shy away from the unknown when pondering problems. They always leave an empty slot in their formulas specifically for that inexplicable yet necessary unknown factor involved in a given reaction. The alchemists refer to this type of unknown variable as a <style=\"emph-gn\">catalyst</style>.<br>The same catalyst, when mixed with different materials, produces countless subtle variations: sometimes it has a catalyzing effect, sometimes it actually promotes restoration, and sometimes it even fundamentally changes a product's crystallized form. Alchemists never seek to explain the reasons behind this; they believe that the unknown element, the reaction, and the materials used are all part of a greater, holistic process, and this process itself is one of their golden rules: <style=\"emph-gn\">the formula</style>.<br>Based on the formula they'd discovered in the ruins, the Alchemist Camp team leader quickly came to a conclusion: the failed potion preparations they'd experienced were not due to technique or materials, but rather caused by a completely new factor inserting itself into the reaction. It responded to the catalyst's empty place in a relatively stable manner for the first time. Thus, they temporarily named this echo <style=\"emph-gn\">\"Phantom.\"</style>",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30649
+    ],
+    "IsHide": false
+  },
+  "1170": {
+    "Id": 1170,
+    "DictionaryType": 2,
+    "Episode": 1170,
+    "Name": "The Unknown Reply",
+    "DictionaryDes": "With each phase of new results, the alchemists continued to deduce along their brand-new line of thought, wanting to restore this entirely new factor using mutated materials. However, after everything was prepared, they were surprised to find that they actually replicated two completely different crystalline bodies.<br>One was a Xeno Engram crystal that the alchemists called the \"Sixth Factor.\" It was one we're already familiar with, the hallucinogenic crystal bred under the influence of Hruga's Xeno Engrams: Crimson Marrow.<br>The other crystal, formed after a long period of precipitation resembling dripping asphalt, was an eerie dark crystal. Even more incomprehensible was the series of unreadable patterns that appeared on its surface. These patterns intertwined and crisscrossed, then naturally fell into place, ultimately twisting into a triangular vortex, as obscure as a pupil in the abyss.<br>Even the alchemist's leader, who was familiar with the unknown, was left speechless by this crystal.<br>The pattern was precise and complex, completely unlike anything generated by nature. It looked more like the result of some human factor, though no one dared to say it out loud.<br>After a long while, the alchemist Flavia timidly voiced her feelings—<br>\"Teacher... I feel... it doesn't look like an impurity. It looks more like some kind of message... It's like the crystal writing back to us.\"",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30650
+    ],
+    "IsHide": false
+  },
+  "1171": {
+    "Id": 1171,
+    "DictionaryType": 2,
+    "Episode": 1171,
+    "Name": "The Truth Is There",
+    "DictionaryDes": "After the turmoil in the Artisan Camp gradually subsided, the Creed priest's trust in me seemed to grow. He approached with an off-the-books commission: he needed me to borrow a pair of Legacy-modified goggles currently being debugged by a member of the Vision-Sharing Society.<br>This Vision-Sharing Society member, Ingrid, claimed to be part of the Society's Reserve Team, not the Prism Team I usually dealt with. She repeatedly emphasized that no remote communication with anyone else would occur as I wore the goggles; I only needed to put them on, walk to an area as prompted, and gather different perspectives.<br><br>However, after I handed the goggles over to the priest for inspection, everything changed.<br>Juster first denied that these goggles possessed any remote call capabilities at all, and that the prompts I'd heard had actually been some form of remote suggestion. Then, he tested the goggles with a special sort of crystal. When the crystal lit up as it reached a narrow point in the goggles, he proclaimed that a Crimson Marrow medium had been discovered.<br>The priest, Juster, was clearly not yet satisfied.<br>Afterward, he used the crystal to interfere with how the goggles operated, triggering a series of bizarre phenomena that completely changed my opinion of why the Vision-Sharing Society had appeared... but the priest never gave me a straight answer on any of it.<br>Perhaps the answer lies right there, beyond the white paint.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30651
+    ],
+    "IsHide": false
+  },
+  "1172": {
+    "Id": 1172,
+    "DictionaryType": 3,
+    "Episode": 1172,
+    "Name": "The Bizarre Goggles",
+    "DictionaryDes": "As I used the goggles normally, the priest used his crystal to interfere with how they functioned.<br>First, I heard many eerie sounds, as if events and people from the past were flashing before my eyes. Soon after, all the scenes quickly twisted into an indistinguishable noise.<br>That noise caused the world to tilt once more. I was overtaken by a severe headache as that deeply unsettling sound transformed into an indescribable, unnamable vibration, as if the entire world had become nothing but a monotonous tapping, striking my consciousness beat by beat.<br>I couldn't bear the weight of it. If it continued, my consciousness would surely disintegrate, yet I'd lost control of my own body.<br>Seon, a Creed Guard, snatched the goggles off me just in the nick of time.<br>The world returned to normal, but the lingering ringing in my ears proved that everything that had just happened was real.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30651
+    ],
+    "IsHide": false
+  },
+  "1173": {
+    "Id": 1173,
+    "DictionaryType": 4,
+    "Episode": 1173,
+    "Name": "A Signature in the Periphery - Part One",
+    "DictionaryDes": "Thinking back on my experiences in the Artisan Camp always fills me with a bizarre feeling.<br>It's as if there was always something following me like a shadow, only appearing in the edges of my vision, and when I focused my eyes on it, it immediately dissipated into nothingness.<br>—During the artisans' experiments, it appeared on the wall being tested.<br>—During the clockwork chicken experiment, it even appeared inside the clockwork structure.<br>—When Priest Juster and the artisan leader, Valerian, were having their secret chat, it appeared on the leaves whipped up by the strong wind.<br><br>What on earth is it... In my memory, this thing also seems to have developed deviations, as if even it itself had started to succumb to the uncertainty.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30648
+    ],
+    "IsHide": false
+  },
+  "1174": {
+    "Id": 1174,
+    "DictionaryType": 4,
+    "Episode": 1174,
+    "Name": "A Signature in the Periphery - Part Two",
+    "DictionaryDes": "Looking back at certain moments in the Alchemist Camp, you would probably feel an indescribable sense of dissonance.<br>As if something were constantly clinging to the edge of the world, only willing to show its face in your peripheral vision.<br>The more you tried to see it clearly, the more it would seem to be erased by something, only to stubbornly continue reappearing.<br>—When the alchemist Flavia went out to gather materials, it appeared in the sky, in a pattern momentarily formed by a flock of birds.<br>—In the crystals refined by the alchemists, it rested on that unknown dark crystal, its patterns too clear to have formed naturally.<br><br>What on earth was it... It seems to have influenced my memories, as if even the memories themselves have begun to succumb to the uncertainty.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30650
+    ],
+    "IsHide": false
+  },
+  "1175": {
+    "Id": 1175,
+    "DictionaryType": 4,
+    "Episode": 1175,
+    "Name": "An Echo in the Periphery",
+    "DictionaryDes": "For now, the turmoil in the Artisan Camp is over. After the Creed and the artisan leader exchanged information, the investigation into the Uncertainty Storm was subsequently halted.<br>The artisan apprentice Julien, who proposed the clockwork chicken experiment, poured too much of his heart and soul into it to accept such a sudden, massive letdown.<br>He handed me a research report and whispered that their leader had attributed the uncertainty phenomena to \"hallucinations caused by Crimson Marrow mutation,\" but he didn't buy it at all—the explanation doesn't fit every phenomenon. Hallucinations are usually continuous, while the Uncertainty Storm ebbed and flowed with time like the tide, sometimes strong, sometimes weak, and always lacking any continuity.<br><br>But what unsettled him the most was a mark that appeared throughout.<br>At first, he couldn't even remember what it was, until he saw it again inside the clockwork chicken and suddenly reacted, sketching out the fleeting pattern right then and there.<br>It was a mysterious spiraling pattern—twisted into a triangular vortex.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30660
+    ],
+    "IsHide": false
+  },
+  "1176": {
+    "Id": 1176,
+    "DictionaryType": 3,
+    "Episode": 1176,
+    "Name": "The Prism Team and the Reserve Team",
+    "DictionaryDes": "The Vision-Sharing Society is a mysterious organization that seemingly spread across the entire Bahamar Highlands overnight. Not only do they appear in dangerous areas, but their members can even be seen in places that require special identification to enter.<br>The members most frequently encountered at present claim to be from the Prism Team, mostly using various types of mirrors as their codenames. They distribute a type of Legacy-modified goggles to the public for free, claiming their mission is to provide a true \"journey of the soul\" for those who cannot visit the Bahamar Highlands in person.<br>Outside of the Prism Team, there is also a Reserve Team responsible for debugging new products. Rumor has it that they don't just appear in dangerous ruins, but are also expanding outward—there have been eyewitness accounts of them appearing in the valley regions...<br>Putting it all together, it's likely the Reserve Team isn't just responsible for debugging equipment, but also for paving the way forward for the Prism Team.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30651
+    ],
+    "IsHide": false
+  },
+  "1177": {
+    "Id": 1177,
+    "DictionaryType": 3,
+    "Episode": 1177,
+    "Name": "Legacy-Modified Goggles",
+    "DictionaryDes": "A modified device distributed to the public by the Vision-Sharing Society. They publicly claim that simply by wearing it, one can communicate telepathically with others far away who are also wearing the goggles, and even see holographic projections of them.<br>If anyone questions the safety of the goggles and principles at work behind them, they immediately refer to the Artisan Guild's endorsement of the product, claiming the technology behind them is verifiable and that their safety is completely guaranteed.<br>But according to the Creed's testing, it's likely that these goggles employ more than just a Xeno Engram medium.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30647
+    ],
+    "IsHide": false
+  },
+  "1178": {
+    "Id": 1178,
+    "DictionaryType": 4,
+    "Episode": 1178,
+    "Name": "The Unstable Medium",
+    "DictionaryDes": "According to the artisans, trace amounts of Crimson Marrow are not enough to induce hallucinations in adults, so they cut it into extremely thin flakes to use as a medium for powering Legacies. By the artisans' estimates, a piece of Crimson Marrow the size of a fingernail is enough to keep a large-scale Bapharian Legacy like the \"Orb Synthesizer\" running for about a year.<br>Recently, however, this delicate balance has been disrupted, and the previously stable marrow flakes have begun to exhibit hallucinogenic side effects.<br>Coincidentally, a similar situation arose on the alchemists' side: hallucinogenic effects actually began to manifest in sedatives they'd synthesized using their normal methods.<br>Putting that together with the Creed's meaningful reminder that \"that stuff has been changing lately,\" perhaps the answer is already blatantly obvious.<br>What is changing may not be our usage of it, but the substance itself.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30648
+    ],
+    "IsHide": false
+  },
+  "1179": {
+    "Id": 1179,
+    "DictionaryType": 2,
+    "Episode": 1179,
+    "Name": "Missing Persons Memo",
+    "DictionaryDes": "A merchant leader named Sabine has issued a request. She wants an Adventurer to help investigate a subordinate who has been missing for a long time.<br>On the surface, it seems to be just an ordinary accident. The clues at the scene display very few signs of struggle, and it looks more like the deceased fell to their death by accident. However, one detail is unsettling: the deceased's expression was very peaceful. The corners of their mouth were even stretched, in an inexplicable smile.<br><br>Upon learning this information, Sabine did not show much surprise; rather, she displayed emotional restraint, as if confirming a suspicion. According to her, this incident could be related to a recent collaboration within the Merchant Guild. Among the three leaders of the guild, she was the only one who had voted against it. Although the collaboration proceeded, she had sowed a seed of suspicion.<br><br>Thus, Sabine sent her subordinate to investigate the true intentions of the other leaders... That subordinate had never returned.<br><br>Under these circumstances, the theory of an accidental fall is less convincing. The circles in the Gloomy Depths have always been airtight, but if tension arises from within, overly tight structures can collapse in an instant.<br>Because of this, Sabine chose to investigate this matter secretly. She says she will also recommend you to other merchants as being trustworthy.<br><br>Is it because she thinks you performed exceptionally well in this matter, or does she need an external ally to probe the fissures within the guild?<br>Perhaps it's a bit of both.<br>Regardless, this incident provided you an opportunity to infiltrate the Gloomy Depths. It is said that as long as you keep your mouth shut, this place will make you a fortune.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30834
+    ],
+    "IsHide": false
+  },
+  "1180": {
+    "Id": 1180,
+    "DictionaryType": 1,
+    "Episode": 1180,
+    "Name": "Gloomy Depths - Ecology",
+    "DictionaryDes": "Deeper within the ruins of the Sunken Corridor, the sky is blotted out, sunlight is rarely seen, and the damp scent of moss lingers all day long. The Bapharian Ruins, which coexist with the rocks, have long been swallowed by nature. This gloomy underground space thus earns its name—the Gloomy Depths.<br><br>When it was first discovered, it kept artisans, scholars, and priests busy for quite some time. All kinds of people came and went, trying to discover something in the Bapharian Ruins that had merged with the rocks. But apart from attracting merchants who provided these travelers with necessities, it seemed to yield little else.<br><br>In the many years that followed, the Gloomy Depths existed as a shadow. Yet this natural cover became the ideal place for some to hide from the sun. The trades that must not be seen in the highlands are completed here.<br><br>Over time, a unique order formed here. One built on silence.<br>The people active in this place all seem to be quietly scheming something: tight-lipped merchants, hurried backpackers, mysterious travelers, and Adventurers who wandered here... They have formed established circles. Outsiders or unfamiliar faces are not necessarily met with hostility, but their interactions are limited to superficial politeness.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30834
+    ],
+    "IsHide": false
+  },
+  "1181": {
+    "Id": 1181,
+    "DictionaryType": 2,
+    "Episode": 1181,
+    "Name": "Contraband List",
+    "DictionaryDes": "Considering the requests sent by other merchants, the internal tensions in the Gloomy Depths merchant organizations likely run deep.<br>Gaston, another leader among the merchants, recently discovered irregularities in the accounts. He suspects his subordinate, Konrad, has embezzled a batch of goods. However, lacking solid evidence, he cannot confront him directly. So he asked you to disguise yourself as a buyer and approach Konrad to purchase goods, to test whether Konrad is withholding goods and selling them privately.<br><br>The meeting went smoothly, and you quickly located Konrad. The plan was simple: wait for him to take out the goods and catch him red-handed.<br><br>But things didn't go as expected. Konrad appeared to be in a trance, and the ones actually managing the business were his subordinates. When the so-called goods were brought out, the truth of their trade became clear.<br>They had been secretly dealing in the Class II contraband \"Crimson Marrow\". Intel suggests its hallucinogenic effects have exponentially increased recently, for unknown reasons... which may explain Konrad's impaired state.<br>After some resistance, you manage to bring Konrad before Gaston. However, the confused Konrad accused Gaston, saying he chose to collaborate despite knowing the other party's true nature. Konrad also stated that this was a path to the abyss.<br><br>This matter is very likely related to the collaboration Sabine mentioned, and it is clearly still escalating.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30835
+    ],
+    "IsHide": false
+  },
+  "1182": {
+    "Id": 1182,
+    "DictionaryType": 2,
+    "Episode": 1182,
+    "Name": "About Konrad...",
+    "DictionaryDes": "The secret goods the merchants were selling turned out to be contraband Crimson Marrow.<br>It seems that most goods traded by the merchants of the Gloomy Depths are illicit items that cannot be traded openly. Perhaps it is thanks to their exceptional ability to operate on the edge of legality that their business has continued here for many years without being exposed by the Creed. However, members of the Merchant Guild seem to think that their collaboration with the Cabbage Mission is upsetting this delicate balance. Since the Cabbage Mission is a pseudo-academic organization searching the ruins for the Bapharian Legacy, it stands to reason that they may have obtained something very special and are attempting to move it via the guild's channels.<br><br>Perhaps Konrad was unhappy with this collaboration and was looking for a way out, or maybe he realized that the composition of the goods had changed and rushed to offload them. In either case, he betrayed the guild—and Gaston.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30835
+    ],
+    "IsHide": false
+  },
+  "1183": {
+    "Id": 1183,
+    "DictionaryType": 2,
+    "Episode": 1183,
+    "Name": "Wax Seal Anomaly",
+    "DictionaryDes": "Edred, one of the three merchant leaders, recently issued a request stating that a batch of goods required a special procedure. He asked you to check if the wax seals on the goods were intact before delivery.<br>He also dispatched a Merchant Guild member, Celine, to accompany you. Supposedly it was to show the way, but it felt more like blatant surveillance.<br>The first wax seal was intact, but the second one had been broken. When the box was opened, you discovered that the goods inside were actually Golems—a mechanical Legacy long classified as Class I contraband. Such devices are considered extremely dangerous because they can automatically activate under unknown conditions.<br>Lo and behold, during the transport process, the Golem was stimulated by external forces and began an emergency activation. It was on the verge of going berserk and hurting people.<br><br>In the nick of time, Celine intervened and used a special method to suppress the Golem. The legacy seemed to be manufactured by the Creed... Although she wouldn't answer when asked about her relationship with the Creed, you deduced that she was likely hired as a Creed operative and planted among the merchants.<br><br>She revealed that the merchant organizations in Gloomy Depths sell daily necessities on the surface, but secretly trade in all kinds of contraband—Golems, Crimson Marrow, and even various illicit Legacies... The Creed had long been aware of this underground trade network but consistently lacked sufficient evidence. She had blown her cover because if the Golem went berserk, the entire operation could be exposed.<br>Before leaving, Celine also warned you that Edred never truly trusted you. Sending you out to take on this task was probably just to stop Sabine's probing. If anything went wrong with the goods, he was likely already prepared to shift the blame onto you.<br><br>She left one final, meaningful remark: Edred's deal with the Cabbage Mission is far more complex than it appears on the surface.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30836
+    ],
+    "IsHide": false
+  },
+  "1184": {
+    "Id": 1184,
+    "DictionaryType": 1,
+    "Episode": 1184,
+    "Name": "Gloomy Depths - Merchants",
+    "DictionaryDes": "A group of merchants of unknown origin is active in the Gloomy Depths. They claim to provide supplies and necessities for the explorers, travelers, and scholars here, serving as a vital link in maintaining underground activities. But the truth is, after the initial craze of the discovery had passed, these ruins returned to silence. The travelers all but left, but this group of merchants stayed here anyway.<br><br>They appear to have accumulated considerable wealth, gradually evolving from scattered merchants into merchant organization. Over time, the organization continued to expand, establishing a stable trade network. However, the origins of their goods remain complex and concealed. All kinds of shady deals were churning undercurrents in the Gloomy Depths. They present themselves as sole traders and still claim to be providing daily necessities for travelers. In fact, the merchants have long formed a tightly structured guild.<br><br>The Merchant Guild is led by three figures: Gaston, Sabine, and Edred. Originally the leaders of three separate factions, they merged into a single guild, but still retain separate decision-making powers. It is this system of mutual checks and balances, as well as skilled collaboration, that has allowed the guild to operate long-term in the Gloomy Depths.<br><br>They usually only do business with regulars. Otherwise, they just play along under the guise of being travelers and will not reveal the existence of their guild.<br>It is said that these merchants have no fixed stronghold or warehouse. Instead, they choose to hide the goods they sell out in the wilds of the Gloomy Depths. Only people from the guild know the locations of these hidden caches. To protect against covetous outsiders, many are equipped with crude and dangerous defense mechanisms. Attempt to open them without permission and you will very likely pay a lethal price.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30836
+    ],
+    "IsHide": false
+  },
+  "1185": {
+    "Id": 1185,
+    "DictionaryType": 2,
+    "Episode": 1185,
+    "Name": "Internal Investigation",
+    "DictionaryDes": "While you were completing various requests for the guild, Sabine was also secretly investigating its internal movements.<br>According to the clues she gathered, Edred was behind the murder of that scout. Through various means, he had forced Gaston to agree to collaborate with the Cabbage Mission. Once collaboration began, Edred never made the accounts public, leading Sabine to suspect that he was selling illicit Legacies. This led the guild to gradually be targeted by the Creed.<br><br>If the situation was allowed to develop, the guild Sabine had painstakingly built would likely be uprooted by the Creed. Therefore, she decided to find someone reputable and capable to witness Edred's betrayal. Such evidence would ensure that Edred could be purged from the guild, and at the same time, once the Creed intervened, all the blame could be shifted onto Edred.<br><br>However, the truth is that the forces behind Edred were much larger than Sabine imagined.<br>The person he met with was a mysterious person codenamed Reference Mirror. The content of their conversation sent chills down the spine; Edred seemed to have lost an extremely important item, which greatly angered Reference Mirror. Both parties finally agreed to a redelivery within a week.<br><br>Just as the two were about to leave, Sabine stepped forward, exposed Edred's betrayal, and rebuked him to his face for selling out the guild. Edred was entirely unfazed. Before anyone could react, he launched a sudden attack. He wanted to silence you, the witness.<br>In the nick of time, Sabine blocked the lethal blow. Although she survived, she fell into an illusion and lost part of her memory...<br><br>When you woke up again, you had been rescued by a passerby, and the scene was abandoned. Edred's whereabouts were unknown, and although Sabine survived, she seemed to be suffering from after effects. What is the true identity of Reference Mirror, and what kind of transaction were they conducting...? Everything remains shrouded in fog.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30837
+    ],
+    "IsHide": false
+  },
+  "1186": {
+    "Id": 1186,
+    "DictionaryType": 1,
+    "Episode": 1186,
+    "Name": "Gloomy Depths - Link Contamination",
+    "DictionaryDes": "Judging by previous requests, Edred's involvement in selling illegal legacies is almost confirmed.<br>His subsequent meeting with Reference Mirror made it clear that the actions of the Cabbage Mission have caused significant trouble for Reference Mirror, even resulting in the Creed closely monitoring the guild. Reference Mirror referred to this situation as link contamination, which may imply they've been using this channel to sell illicit Legacies for a long time.<br><br>But what sort of Bapharian Legacy could be worthy of such commotion? What kind of magic do those lost goods possess that they have unbalanced the long-term peace, and even forced the Creed to intervene in the Gloomy Depths?<br><br>Furthermore, both parties' identities are quite intriguing.<br>During their meeting, Reference Mirror addressed Edred as \"Mr. Edred of the Desert\". Along with his ever-mysterious motives, this title suggests he is involved with more than one faction. Even Sabine mentioned that Edred has provoked entities whose names are never spoken.<br><br>These fragments of information gradually outlined a network that had long existed, but never been truly detected. Sabine's efforts might just have left a permanent mark somewhere in this invisible mass.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30837
+    ],
+    "IsHide": false
+  },
+  "1187": {
+    "Id": 1187,
+    "DictionaryType": 4,
+    "Episode": 1187,
+    "Name": "Celine's Pendant",
+    "DictionaryDes": "A metal pendant suspended on a heavily worn, thin chain.<br>The dark chain appears to be made of numerous tiny rings and looks as though it was frequently worn close to the skin. The pendant itself is a roughly crafted compass. The compass needle doesn't move but has been deliberately sharpened to a fine point.<br><br>Upon hearing about your and Sabine's impending confrontation with Edred, Celine was very worried, so she handed you this pendant.<br><br>The details of the clash with Edred are blurry, but you have a faint memory of pulling out this pendant while falling into an illusion. The compass had felt terribly hot, and it emitted a faint glow in the abyss of the illusion. It was this light that allowed you to maintain a shred of sanity in the abyssal trance.<br><br>Later on, Cedrick and Renan mounted a rescue from the camp. However, once the commission was complete, the pendant mysteriously vanished.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30837
+    ],
+    "IsHide": false
+  },
+  "1188": {
+    "Id": 1188,
+    "DictionaryType": 2,
+    "Episode": 1188,
+    "Name": "Tower of Sand",
+    "DictionaryDes": "After surviving Edred's ambush, Sabine took the lethal blow meant for you. Although her life is no longer in danger, she was left with severe lingering effects.<br>Her memory is periodically wiped; everything after entering the Gloomy Depths is erased. Even more cruelly, she forgets the very fact that she suffers from amnesia. Sabine can only record subsequent events in a book, remembering and forgetting over and over again.<br>It is like building a fragile sand tower, alone in a strong gale.<br><br>Nonetheless, she continues to fulfill her duties as a guild leader. Everyone knows she is no longer capable, but no one has the heart to stop her.<br>Gaston sent a commission regarding this, hoping a return to the scene of the incident might help her amnesia.<br><br>Afterwards, three remnants were found at the scene:<br>—A stone that had melted and solidified, indicating extreme heat.<br>—A pinch of an unknown white powder, clearly artificial.<br>—A cufflink belonging to one of Sabine's deceased subordinates, which proved she had indeed been there.<br><br>These clues awakened a sliver of Sabine's memory, but it seemed to be blocked still; the harder she tried to recall, the faster she forgot. Severe headaches signaled the imminent return of her amnesia.<br>However, one thing remains constant: her dedication to the guild. Sabine did all this to protect the guild she painstakingly built.<br>In the end, she voluntarily handed over the seal of authority, asking for it to be passed on to Gaston to keep the guild running.<br>After making this decision, her memories vanished once again...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30029
+    ],
+    "IsHide": false
+  },
+  "1189": {
+    "Id": 1189,
+    "DictionaryType": 4,
+    "Episode": 1189,
+    "Name": "Sabine's Memory Page",
+    "DictionaryDes": "A page from Sabine's memory book, written when she recalled the clash. It was originally meant for Gaston, but as he believed these memories would only bring her more pain, Gaston left it in your care.<br>The page reads:<br>————————————————————————————————————————————<br>... That guy Edred actually got involved with the infamous Cabbage Mission.<br>He even planned to use the guild's channels to help them sell their goods.<br><br>Gradually, I realized what he wanted was likely more than just Luno.<br>But Edred never showed us the books... No one in the guild knew what exactly they were trading. <br>Later, his cooperation with the Cabbage Mission even drew attention from the Creed.<br>If ignored, my guild—the guild I worked so hard to build—would be ruined.<br> <br>So I decided to enlist capable external support from an Adventurer active in this area.<br>I wanted the Adventurer to witness the moment I exposed Edred and forced him to hand over the guild's seal of authority.<br>But little did I know his trading partner was... the Vision-Sharing Society!<br> <br>... Thereafter, my memory is fuzzy. I only remember Edred seeming like a completely different person.<br>Then... time seemed to stop. An abyssal darkness almost swallowed me,<br>and it was only by clutching this cufflink that I managed to hold onto a shred of consciousness... This was my duty.<br><br>... When those two appeared, time began to flow again...<br>They saved me! I saw one of them force Edred back with masterful swordsmanship.<br>The other wounded Reference Mirror with a hand crossbow, and then... my head split with pain, and I lost consciousness again.<br> <br>When I woke occasionally, the world had quietened down.<br>They must have given me basic treatment, as my wounds hurt less.<br>The one with the hand crossbow was scattering a white powder, while the other said in a serious tone:<br>\"Clear away any traces that don't belong to the scene, and clean up the powder too.\"<br> <br>That's all I can remember, but there must be a larger conspiracy behind Edred.<br>My head... hurts so much... It feels like something is stopping me from remembering...<br>Stopping the truth from returning...<br>————————————————————————————————————————————<br>The notes abruptly end. The final stroke was written with such force that it tore the paper.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30029
+    ],
+    "IsHide": false
+  },
+  "1190": {
+    "Id": 1190,
+    "DictionaryType": 2,
+    "Episode": 1190,
+    "Name": "The Man in Green",
+    "DictionaryDes": "Thanks to the power of Sabine's referrals, not only did guild commissions pour in, but organizations lingering on the Merchant Guild's fringes also came knocking.<br><br>Members of the Cabbage Mission, for example, were sneaking around the Gloomy Depths.<br><br>While simultaneously denying their notorious reputation in the outside world, these green-clad weirdos began building some sort of detector with crude tools. They claimed they wanted to find Bapharian Ruins buried deep underground and repeatedly insisted that their intentions were legitimate, in the name of \"archaeology\" and \"academic research\".<br><br>However, the construction of their device was incredibly simplistic—<br>Tossing aside the delicate mechanisms of an Oculoid, they extracted the large metal tube from within, grandly naming it a \"Resonance Cavity Tube\". Next, they tied a red crystal-like rubbing with a metal wire and hung it inside the tube.<br>With that, the detector for locating Bapharian Ruins was complete.<br><br>According to the green-clad weirdos, its working principle was as follows:<br>Place the detector in an open area. If Bapharian Ruins are buried there, the hanging rubbing is attracted by the underground energy, and sways inside the tube, striking the walls to produce a muffled sound. This indicates something below; the more frequent and rapid the sounds, the larger the ruins.<br><br>As for whether this principle is credible... that's another matter altogether. However, that rubbing hanging on the metal wire was all too familiar.<br>It is nothing other than Crimson Marrow, full of Xeno Engrams.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30030
+    ],
+    "IsHide": false
+  },
+  "1191": {
+    "Id": 1191,
+    "DictionaryType": 2,
+    "Episode": 1191,
+    "Name": "The Evil in Green",
+    "DictionaryDes": "The crude detector seemed to win the favor of the green-clad weirdos. Soon, they issued a second commission, requesting an escort for a new location to continue searching for ruins.<br>However, a problem quickly arose. The issue wasn't whether the detector could find ruins, but that the device itself exhibited an inexplicable anomaly. Four people would hear a sound at the same time, but describe four completely different results. Some heard one knock, some two, some four...<br><br>When cracks appear in reality, people always try to patch them with what they know. The green-clad weirdos were no exception. Their explanation was that some evil spirit had targeted them in this place.<br>However, even after changing locations, the phenomenon persisted. The four of them still simultaneously heard four different patterns of knocks. The atmosphere grew somewhat eerie...<br><br>In the end, the detector itself bailed them out: a wisp of fine ash-like mist escaped from its seal as it sat on the ground. This unrolled in the air, weaving into strange shapes, and finally settled neatly into a vortex-like triangle. The next moment, it was blown away by a gust of wind...<br>Terrified, the green-clad weirdos fled, and the matter was left unsettled.<br><br>Caught between laughter and fear, no one bothered to ask what caused such discrepancy.<br>Was the detection method unreliable? Was there truly an evil spirit? Or had that familiar vortex-like triangle appeared once again?<br>For now, the answer remains unknown. After all, not everything can be explained. Or perhaps there's more than one answer...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30031
+    ],
+    "IsHide": false
+  },
+  "1192": {
+    "Id": 1192,
+    "DictionaryType": 1,
+    "Episode": 1192,
+    "Name": "Gloomy Depths - Creed",
+    "DictionaryDes": "Various signs indicate that the Creed has long been involved in affairs within the Gloomy Depths.<br>Cedric, a priest posing as an ordinary traveler, doesn't seem as rigid as other Creed Priests in these matters. In him, a rare flexibility can be seen.<br>Perhaps it is this very flexibility that allows the ecosystem of the Gloomy Depths to endure, while also perserving the Creed's authority.<br><br>But based on the available clues, the Creed isn't merely regulating the underground trades here. The Crimson Marrow incident offers a glimpse of what is really going on: although changes in the quality of Crimson Marrow have become common lately, Cedric only fulfilled his duty to warn and didn't press further. But once the matter involved the Cabbage Mission and Legacy excavation, the Creed immediately became alert and cautious.<br><br>This was confirmed by Priest Cedric himself. He stated that the Cabbage Mission was digging everywhere under the guise of archaeology, while actually excavating Bapharian Legacies. Though their methods seemed clumsy, they hit their mark every time. He suspected that another faction might be secretly guiding the mission from the shadows.<br>This makes it easy to understand why the merchants, usually left alone, were targeted by the Creed after partnering with the Cabbage Mission.<br><br>Looking back at everything that has happened recently in the Gloomy Depths, an unsettling hypothesis emerges—the Cabbage Mission might have actually found something.<br>The influence of that something made the Creed nervous enough to search the entire highlands, determined to find it even if it meant looking somewhat ungraceful.<br>The seemingly chaotic transactions between the merchants and the mission may be nothing more than a smokescreen.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30841
+    ],
+    "IsHide": false
+  },
+  "1193": {
+    "Id": 1193,
+    "DictionaryType": 2,
+    "Episode": 1193,
+    "Name": "A Delicate Balance",
+    "DictionaryDes": "With Sabine's amnesia, everything seemed to settle down.<br>The three previously divided factions within the merchant organization were temporarily unified under Gaston's management. The traitor Edred was purged, and trade between the merchants and the Cabbage Mission completely collapsed.<br>All of this was the result of Sabine's memory loss, and her desire to mend the crumbling trust between the merchant organization and the Creed.<br>The merchants' dealings had always been in a gray area. Previously, Sabine had navigated around the Creed, maintaining a delicate balance without crossing the line. However, with Sabine's amnesia, this balance was no longer a certainty.<br><br>So, Gaston decided to test the Creed and gauge their stance. He had you deliver a suspicious bag of dust to Cedrick. If the priests accepted it, it meant peace remained; if they refused, business would likely have to end there.<br><br>Fortunately, they accepted the bag of dust calmly. The merchants' business was temporarily preserved, and the ecosystem of the Gloomy Depths was allowed to continue.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30841
+    ],
+    "IsHide": false
   }
 }

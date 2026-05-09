@@ -1457,6 +1457,88 @@
     "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
+  "1000311": {
+    "Id": 1000311,
+    "Sort": 1,
+    "UnlockCondition": [
+      [
+        2,
+        20026,
+        20026010
+      ]
+    ],
+    "Clue": "The young miner's letter was filled with <tagId=1>*nostalgia for Asterleeds*.",
+    "Answer": [
+      "",
+      "Wants to return to Asterleeds."
+    ],
+    "Tips": "Obtain clues from the searched information",
+    "TapBubble": [
+      "",
+      "This type of miner probably wants to go back..."
+    ],
+    "TapBubbleAction": [
+      9026
+    ],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000312": {
+    "Id": 1000312,
+    "Sort": 2,
+    "UnlockCondition": [
+      [
+        2,
+        20026,
+        20026010
+      ]
+    ],
+    "Clue": "Some miners said that <tagId=2>*the elderly can't walk anymore*, and <tagId=3>*many have started families in the mining area*.",
+    "Answer": [
+      "",
+      "The elderly cannot travel long distances.",
+      "",
+      "Need to consider whether family members should stay or leave."
+    ],
+    "Tips": "Obtain clues from the searched information",
+    "TapBubble": [
+      "",
+      "These miners still have families to consider...",
+      "",
+      "These miners still have families to consider..."
+    ],
+    "TapBubbleAction": [
+      9026
+    ],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000313": {
+    "Id": 1000313,
+    "Sort": 3,
+    "UnlockCondition": [
+      [
+        2,
+        20026,
+        20026010
+      ]
+    ],
+    "Clue": "Miners who have started families with the Byrnhalds <tagId=4>*don't know where they should go with their wives...*",
+    "Answer": [
+      "",
+      "Undecided, unable to choose."
+    ],
+    "Tips": "Obtain clues from the searched information",
+    "TapBubble": [
+      "",
+      "These miners are really in a dilemma..."
+    ],
+    "TapBubbleAction": [
+      9026
+    ],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
   "1000411": {
     "Id": 1000411,
     "Sort": 1,
@@ -1483,32 +1565,6 @@
     ],
     "TapBubbleAction": [
       9019
-    ],
-    "UnlockedBubble": "New clue obtained!",
-    "UnlockedBubbleAction": 9019
-  },
-  "1000311": {
-    "Id": 1000311,
-    "Sort": 1,
-    "UnlockCondition": [
-      [
-        2,
-        20026,
-        20026010
-      ]
-    ],
-    "Clue": "The young miner's letter was filled with <tagId=1>*nostalgia for Asterleeds*.",
-    "Answer": [
-      "",
-      "Wants to return to Asterleeds."
-    ],
-    "Tips": "Obtain clues from the searched information",
-    "TapBubble": [
-      "",
-      "This type of miner probably wants to go back..."
-    ],
-    "TapBubbleAction": [
-      9026
     ],
     "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
@@ -1545,36 +1601,6 @@
     "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
-  "1000312": {
-    "Id": 1000312,
-    "Sort": 2,
-    "UnlockCondition": [
-      [
-        2,
-        20026,
-        20026010
-      ]
-    ],
-    "Clue": "Some miners said that <tagId=2>*the elderly can't walk anymore*, and <tagId=3>*many have started families in the mining area*.",
-    "Answer": [
-      "",
-      "The elderly cannot travel long distances.",
-      "",
-      "Need to consider whether family members should stay or leave."
-    ],
-    "Tips": "Obtain clues from the searched information",
-    "TapBubble": [
-      "",
-      "These miners still have families to consider...",
-      "",
-      "These miners still have families to consider..."
-    ],
-    "TapBubbleAction": [
-      9026
-    ],
-    "UnlockedBubble": "New clue obtained!",
-    "UnlockedBubbleAction": 9019
-  },
   "1000413": {
     "Id": 1000413,
     "Sort": 3,
@@ -1607,25 +1633,77 @@
     "UnlockedBubble": "New clue obtained!",
     "UnlockedBubbleAction": 9019
   },
-  "1000313": {
-    "Id": 1000313,
+  "1000511": {
+    "Id": 1000511,
+    "Sort": 1,
+    "UnlockCondition": [
+      [
+        2,
+        30814,
+        30814013
+      ]
+    ],
+    "Clue": "There are <tagId=1>*no lizards* in Sunset Wilds.",
+    "Answer": [
+      "",
+      "Incorrect Beast Type"
+    ],
+    "Tips": "Reflect on past experiences...",
+    "TapBubble": [
+      "",
+      "If there are no lizards, then the drawing must be wrong..."
+    ],
+    "TapBubbleAction": [
+      9019
+    ],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000512": {
+    "Id": 1000512,
+    "Sort": 2,
+    "UnlockCondition": [
+      [
+        2,
+        30814,
+        30814013
+      ]
+    ],
+    "Clue": "The bottle's <tagId=2>*materials and craftsmanship are very new*.",
+    "Answer": [
+      "",
+      "Looks like a modern product."
+    ],
+    "Tips": "Reflect on past experiences...",
+    "TapBubble": [
+      "",
+      "This doesn't look old..."
+    ],
+    "TapBubbleAction": [
+      9019
+    ],
+    "UnlockedBubble": "New clue obtained!",
+    "UnlockedBubbleAction": 9019
+  },
+  "1000513": {
+    "Id": 1000513,
     "Sort": 3,
     "UnlockCondition": [
       [
         2,
-        20026,
-        20026010
+        30814,
+        30814013
       ]
     ],
-    "Clue": "Miners who have <tagId=4>*started families with Byrnhalds* don't know where they should go with their wives...",
+    "Clue": "Where the bottle was found, <tagId=3>*there were traces left by others, and other notes were deliberately buried*...",
     "Answer": [
       "",
-      "Undecided, unable to choose."
+      "Someone is fabricating treasure clues."
     ],
-    "Tips": "Obtain clues from the searched information",
+    "Tips": "Reflect on past experiences...",
     "TapBubble": [
       "",
-      "These miners are really in a dilemma..."
+      "It feels like they were left behind on purpose..."
     ],
     "TapBubbleAction": [
       9026

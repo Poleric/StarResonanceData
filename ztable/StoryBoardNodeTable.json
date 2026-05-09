@@ -1,0 +1,3084 @@
+{
+  "100001001": {
+    "Id": 100001001,
+    "StoryboardId": 100001,
+    "NodeName": "The Lost Doll",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 3,
+    "IsReloadNode": true,
+    "ReloadStep": 40500090,
+    "StayStep": [],
+    "NodeInformation": "Boyce was investigating the whereabouts of the Dreamweaver in the village, but was unexpectedly recalled by the Creed.",
+    "NodePic": "ui/textures/npctask/boyce/storyboard_boyce_01",
+    "LightUpStep": [
+      40500090
+    ],
+    "Rate": 0,
+    "PreNodeId": [],
+    "NextNodeId": [
+      100001003,
+      100001002
+    ],
+    "NodePosition": [
+      -4,
+      0
+    ],
+    "Tips": [
+      [
+        1002
+      ],
+      [
+        1002
+      ],
+      [
+        1001
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100001002": {
+    "Id": 100001002,
+    "StoryboardId": 100001,
+    "NodeName": "An Unpardonable Mistake",
+    "HintText": "",
+    "Remark": "前往拉尔帕尔村，调查卢卡",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 40500012,
+    "StayStep": [
+      40500012
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40500012
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100001001
+    ],
+    "NextNodeId": [
+      100001003
+    ],
+    "NodePosition": [
+      6,
+      -4
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100001003": {
+    "Id": 100001003,
+    "StoryboardId": 100001,
+    "NodeName": "Belated Echo",
+    "HintText": "",
+    "Remark": "返回村子里寻找丽萨",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 40500013,
+    "StayStep": [
+      40500013,
+      40500014,
+      40500016
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40500013
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100001001,
+      100001002
+    ],
+    "NextNodeId": [
+      100001004
+    ],
+    "NodePosition": [
+      15,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100001004": {
+    "Id": 100001004,
+    "StoryboardId": 100001,
+    "NodeName": "Panicked Awakening",
+    "HintText": "",
+    "Remark": "抓住织梦师",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 40500015,
+    "StayStep": [
+      40500015,
+      40500017,
+      40500018,
+      40500019,
+      40500020,
+      40500021,
+      40500023,
+      40500024,
+      40500026
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40500015
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100001003
+    ],
+    "NextNodeId": [
+      100001005
+    ],
+    "NodePosition": [
+      24,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003880
+  },
+  "100001005": {
+    "Id": 100001005,
+    "StoryboardId": 100001,
+    "NodeName": "Shaken Foundations",
+    "HintText": "",
+    "Remark": "返回抓捕织梦师的现场调查",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 40500025,
+    "StayStep": [
+      40500025,
+      40500027,
+      40500028,
+      40500029,
+      40500030,
+      40500031
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40500025
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100001004
+    ],
+    "NextNodeId": [
+      100001006
+    ],
+    "NodePosition": [
+      33,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003890
+  },
+  "100001006": {
+    "Id": 100001006,
+    "StoryboardId": 100001,
+    "NodeName": "A Clumsy Mask",
+    "HintText": "",
+    "Remark": "前往山芥垆调查",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 40500032,
+    "StayStep": [
+      40500032,
+      40500033,
+      40500035,
+      40500034,
+      40500037,
+      40500036,
+      40500038,
+      40500039,
+      40500040
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40500032
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100001005
+    ],
+    "NextNodeId": [
+      100001007
+    ],
+    "NodePosition": [
+      42,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003900
+  },
+  "100001007": {
+    "Id": 100001007,
+    "StoryboardId": 100001,
+    "NodeName": "Dusty Intellect",
+    "HintText": "",
+    "Remark": "前往运输站打探情报",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 40500041,
+    "StayStep": [
+      40500041,
+      40500042,
+      40500043,
+      40500047,
+      40500044,
+      40500045,
+      40500046
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40500041
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100001006
+    ],
+    "NextNodeId": [
+      100001008
+    ],
+    "NodePosition": [
+      51,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003910
+  },
+  "100001008": {
+    "Id": 100001008,
+    "StoryboardId": 100001,
+    "NodeName": "The Other Side of the Dreamweaver",
+    "HintText": "",
+    "Remark": "前往地下矿区调查",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 40500048,
+    "StayStep": [
+      40500048,
+      40500049,
+      40500050,
+      40500051,
+      40500052,
+      40500053,
+      40500055,
+      40500054,
+      40500086,
+      40500056,
+      40500057
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40500048
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100001007
+    ],
+    "NextNodeId": [
+      100001014
+    ],
+    "NodePosition": [
+      60,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003920
+  },
+  "100001014": {
+    "Id": 100001014,
+    "StoryboardId": 100001,
+    "NodeName": "A Dreamt Spearpoint",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 2,
+    "IsReloadNode": true,
+    "ReloadStep": 40500091,
+    "StayStep": [
+      40500091,
+      40500058,
+      40500059
+    ],
+    "NodeInformation": "Seeking the truth, Boyce resolutely drank the Synchrodream Potion, deemed forbidden by the Creed. At the end of the golden wheat field, the lost adult met that boy with bright eyes, holding his lance high.",
+    "NodePic": "ui/textures/npctask/boyce/storyboard_boyce_02",
+    "LightUpStep": [
+      40500091
+    ],
+    "Rate": 15,
+    "PreNodeId": [
+      100001008
+    ],
+    "NextNodeId": [
+      100001019
+    ],
+    "NodePosition": [
+      70,
+      0
+    ],
+    "Tips": [
+      [
+        1002
+      ],
+      [
+        1002
+      ],
+      [
+        1001
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003930
+  },
+  "100001019": {
+    "Id": 100001019,
+    "StoryboardId": 100001,
+    "NodeName": "Fallen Crossroads",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 2,
+    "IsReloadNode": true,
+    "ReloadStep": 40500094,
+    "StayStep": [
+      40500060,
+      40500061,
+      40500062,
+      40500094,
+      40500069,
+      40500070,
+      40500067,
+      40500068,
+      40500071,
+      40500072,
+      40500073,
+      40500074,
+      40500088,
+      40500089
+    ],
+    "NodeInformation": "By the Fallen River, the truth has become as clear as an aurora in the night sky. Faced with the thunder of authority and the lives of the innocent, the loyal Creed Guard stands at the crossroads of destiny.",
+    "NodePic": "ui/textures/npctask/boyce/storyboard_boyce_03",
+    "LightUpStep": [
+      40500094
+    ],
+    "Rate": 0,
+    "PreNodeId": [
+      100001014
+    ],
+    "NextNodeId": [
+      100001023,
+      100001024
+    ],
+    "NodePosition": [
+      80,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100001023": {
+    "Id": 100001023,
+    "StoryboardId": 100001,
+    "NodeName": "Bound by Others' Rules",
+    "HintText": "",
+    "Remark": "be：迷失于另一枷锁",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40500092,
+      40500087
+    ],
+    "NodeInformation": "Facing the questioning of the High Priest, he lowered his eyes. His gaze flickered as he ignored his inner voice once again. After a brief hesitation, he put on that cold mask again.",
+    "NodePic": "ui/textures/npctask/boyce/storyboard_boyce_04",
+    "LightUpStep": [
+      40500087
+    ],
+    "Rate": 20,
+    "PreNodeId": [
+      100001019
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      90,
+      -6
+    ],
+    "Tips": [
+      [
+        1002
+      ],
+      [
+        1002
+      ],
+      [
+        1001
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003940
+  },
+  "100001024": {
+    "Id": 100001024,
+    "StoryboardId": 100001,
+    "NodeName": "Chanting Against the Wind",
+    "HintText": "",
+    "Remark": "te：聆听风中的呢喃",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40500093,
+      40500076,
+      40500075,
+      40500080,
+      40500078,
+      40500081,
+      40500082,
+      40500083,
+      40500084,
+      40500085
+    ],
+    "NodeInformation": "The fog of truth has not completely dissipated, but Boyce is already prepared, gathering strength to shatter his shackles. In the bitter cold wind, he finally learned to listen to his inner voice.",
+    "NodePic": "ui/textures/npctask/boyce/storyboard_boyce_05",
+    "LightUpStep": [
+      40500076
+    ],
+    "Rate": 20,
+    "PreNodeId": [
+      100001019
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      90,
+      0
+    ],
+    "Tips": [
+      [
+        1002
+      ],
+      [
+        1002
+      ],
+      [
+        1001
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003950
+  },
+  "100101001": {
+    "Id": 100101001,
+    "StoryboardId": 100101,
+    "NodeName": "Go Visit Fafala",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 3,
+    "IsReloadNode": true,
+    "ReloadStep": 40502001,
+    "StayStep": [
+      40502001
+    ],
+    "NodeInformation": "Two familiar little girls are crouching at Fafala's doorstep.",
+    "NodePic": "ui/textures/npctask/farfara/storyboard_farfara_08",
+    "LightUpStep": [
+      40502001
+    ],
+    "Rate": 0,
+    "PreNodeId": [],
+    "NextNodeId": [
+      100101019
+    ],
+    "NodePosition": [
+      4,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100101003": {
+    "Id": 100101003,
+    "StoryboardId": 100101,
+    "NodeName": "Check on Fafala",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502005
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40502005
+    ],
+    "Rate": 3,
+    "PreNodeId": [
+      100101019
+    ],
+    "NextNodeId": [
+      100101005
+    ],
+    "NodePosition": [
+      23,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100101005": {
+    "Id": 100101005,
+    "StoryboardId": 100101,
+    "NodeName": "Talk to Alphonse",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502006
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40502006
+    ],
+    "Rate": 3,
+    "PreNodeId": [
+      100101003
+    ],
+    "NextNodeId": [
+      100101004
+    ],
+    "NodePosition": [
+      32,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100101004": {
+    "Id": 100101004,
+    "StoryboardId": 100101,
+    "NodeName": "Brew Special Soothing Honeydew for Fafala",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502007,
+      40502009,
+      40502008
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40502007
+    ],
+    "Rate": 3,
+    "PreNodeId": [
+      100101005
+    ],
+    "NextNodeId": [
+      100101006
+    ],
+    "NodePosition": [
+      41,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100101006": {
+    "Id": 100101006,
+    "StoryboardId": 100101,
+    "NodeName": "Try Giving Fafala the Medicine",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502010,
+      40502011,
+      40502012,
+      40502013
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40502010
+    ],
+    "Rate": 3,
+    "PreNodeId": [
+      100101004
+    ],
+    "NextNodeId": [
+      100101007,
+      100101010
+    ],
+    "NodePosition": [
+      50,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100101007": {
+    "Id": 100101007,
+    "StoryboardId": 100101,
+    "NodeName": "Try to Jog Fafala's Memory",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 2,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502016,
+      40502015,
+      40502018,
+      40502016
+    ],
+    "NodeInformation": "Try to jog Fafala's memory using the clues found in her home.",
+    "NodePic": "ui/textures/npctask/farfara/storyboard_farfara_09",
+    "LightUpStep": [
+      40502016
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100101006
+    ],
+    "NextNodeId": [
+      100101008,
+      100101009
+    ],
+    "NodePosition": [
+      60,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100101008": {
+    "Id": 100101008,
+    "StoryboardId": 100101,
+    "NodeName": "Go To The Riverside",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502020
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40502020
+    ],
+    "Rate": 3,
+    "PreNodeId": [
+      100101007
+    ],
+    "NextNodeId": [
+      100101011
+    ],
+    "NodePosition": [
+      70,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100101009": {
+    "Id": 100101009,
+    "StoryboardId": 100101,
+    "NodeName": "Forgotten Memories",
+    "HintText": "",
+    "Remark": "结局2",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502019
+    ],
+    "NodeInformation": "Her world seems to be swallowed by fog once again.",
+    "NodePic": "ui/textures/npctask/farfara/storyboard_farfara_04",
+    "LightUpStep": [
+      40502019
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100101007
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      70,
+      -5
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003820
+  },
+  "100101010": {
+    "Id": 100101010,
+    "StoryboardId": 100101,
+    "NodeName": "Bitter Dreams",
+    "HintText": "",
+    "Remark": "结局1",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502014
+    ],
+    "NodeInformation": "Since then, Fafala has refused to even look at me.",
+    "NodePic": "ui/textures/npctask/farfara/storyboard_farfara_02",
+    "LightUpStep": [
+      40502014
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100101006
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      60,
+      9
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003810
+  },
+  "100101011": {
+    "Id": 100101011,
+    "StoryboardId": 100101,
+    "NodeName": "Illusory Plague Hidden by the River",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 2,
+    "IsReloadNode": true,
+    "ReloadStep": 40502024,
+    "StayStep": [
+      40502021,
+      40502022,
+      40502023,
+      40502024,
+      40502025
+    ],
+    "NodeInformation": "The Illusory Plague manifested at a dead end, sealing the girl's heart.",
+    "NodePic": "ui/textures/npctask/farfara/storyboard_farfara_05",
+    "LightUpStep": [
+      40502021
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100101008
+    ],
+    "NextNodeId": [
+      100101012,
+      126589770
+    ],
+    "NodePosition": [
+      80,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "126589770": {
+    "Id": 126589770,
+    "StoryboardId": 100101,
+    "NodeName": "Shining Just Right",
+    "HintText": "",
+    "Remark": "结局3",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502026
+    ],
+    "NodeInformation": "From here on, our journey is far more vast than we imagined.",
+    "NodePic": "ui/textures/npctask/farfara/storyboard_farfara_06",
+    "LightUpStep": [
+      40502026
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100101011
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      90,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003830
+  },
+  "100101012": {
+    "Id": 100101012,
+    "StoryboardId": 100101,
+    "NodeName": "Go to the Large Tree in the Village",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502028,
+      40502029,
+      40502027
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40502028
+    ],
+    "Rate": 3,
+    "PreNodeId": [
+      100101011
+    ],
+    "NextNodeId": [
+      100101013
+    ],
+    "NodePosition": [
+      90,
+      9
+    ],
+    "Tips": [
+      [
+        2001
+      ],
+      [
+        2001
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": true,
+    "UnlockCondition": [],
+    "IsHidden": true,
+    "AwardId": 0
+  },
+  "100101013": {
+    "Id": 100101013,
+    "StoryboardId": 100101,
+    "NodeName": "A Promise Under the Tree",
+    "HintText": "",
+    "Remark": "结局4",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502030
+    ],
+    "NodeInformation": "I hope I will grow tall like a tree, with you always by my side.",
+    "NodePic": "ui/textures/npctask/farfara/storyboard_farfara_07",
+    "LightUpStep": [
+      40502030
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100101012
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      99,
+      9
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31003840
+  },
+  "100101019": {
+    "Id": 100101019,
+    "StoryboardId": 100101,
+    "NodeName": "Enter Fafala's Home",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40502002,
+      40502003,
+      40502017
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40502002
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100101001
+    ],
+    "NextNodeId": [
+      100101003
+    ],
+    "NodePosition": [
+      14,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201001": {
+    "Id": 100201001,
+    "StoryboardId": 100201,
+    "NodeName": "Make the Necessary Choice!",
+    "HintText": "",
+    "Remark": "选择节点",
+    "NodeType": 2,
+    "IsReloadNode": true,
+    "ReloadStep": 40501050,
+    "StayStep": [
+      40501050
+    ],
+    "NodeInformation": "The selection of the subject directly determines the direction of the research. What do you plan to do...?",
+    "NodePic": "ui/textures/npctask/daya/storyboard_daya_06",
+    "LightUpStep": [
+      40501050
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100201002
+    ],
+    "NextNodeId": [
+      100201008,
+      100201009
+    ],
+    "NodePosition": [
+      10,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004020
+  },
+  "100201002": {
+    "Id": 100201002,
+    "StoryboardId": 100201,
+    "NodeName": "Go Receive the Letter from a Friend",
+    "HintText": "",
+    "Remark": "收到了达雅的来信",
+    "NodeType": 3,
+    "IsReloadNode": true,
+    "ReloadStep": 40501001,
+    "StayStep": [
+      40501001,
+      40501002,
+      40501004
+    ],
+    "NodeInformation": "There is a traveling merchant at the entrance of the Pioneer Bureau. He brought a letter that was sent to you...",
+    "NodePic": "ui/textures/npctask/daya/storyboard_daya_01",
+    "LightUpStep": [
+      40501001
+    ],
+    "Rate": 0,
+    "PreNodeId": [],
+    "NextNodeId": [
+      100201001
+    ],
+    "NodePosition": [
+      0,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201003": {
+    "Id": 100201003,
+    "StoryboardId": 100201,
+    "NodeName": "The Past",
+    "HintText": "",
+    "Remark": "结局1",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501028,
+      40501066
+    ],
+    "NodeInformation": "Everyone's past is like a storybook waiting to be read...",
+    "NodePic": "ui/textures/npctask/daya/storyboard_daya_02",
+    "LightUpStep": [
+      40501028
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100201023
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      66,
+      -7
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004060
+  },
+  "100201004": {
+    "Id": 100201004,
+    "StoryboardId": 100201,
+    "NodeName": "Healing Together",
+    "HintText": "",
+    "Remark": "结局2",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501071,
+      40501031
+    ],
+    "NodeInformation": "Taking care of a sick friend is only natural.",
+    "NodePic": "ui/textures/npctask/daya/storyboard_daya_05",
+    "LightUpStep": [
+      40501031
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100201013
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      86,
+      -7
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004090
+  },
+  "100201005": {
+    "Id": 100201005,
+    "StoryboardId": 100201,
+    "NodeName": "Heart for Heart",
+    "HintText": "",
+    "Remark": "结局3",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501030,
+      40501069
+    ],
+    "NodeInformation": "Sincerity is the most precious treasure.",
+    "NodePic": "ui/textures/npctask/daya/storyboard_daya_03",
+    "LightUpStep": [
+      40501030
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100201013
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      87,
+      8
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004070
+  },
+  "100201006": {
+    "Id": 100201006,
+    "StoryboardId": 100201,
+    "NodeName": "Many Hands Make Light Work",
+    "HintText": "",
+    "Remark": "结局4",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501052,
+      40501049,
+      40501070
+    ],
+    "NodeInformation": "A warm fire brings to life the firewood gathered by everyone.",
+    "NodePic": "ui/textures/npctask/daya/storyboard_daya_04",
+    "LightUpStep": [
+      40501052
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100201021
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      66,
+      9
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004080
+  },
+  "100201007": {
+    "Id": 100201007,
+    "StoryboardId": 100201,
+    "NodeName": "Feed the Greedy Little Kitten?",
+    "HintText": "",
+    "Remark": "选择结局一/二&三",
+    "NodeType": 2,
+    "IsReloadNode": true,
+    "ReloadStep": 40501024,
+    "StayStep": [
+      40501024,
+      40501022,
+      40501023
+    ],
+    "NodeInformation": "Darya looks a bit down. Do you want to give her the fruit picked from the Moonshadow Wilds?",
+    "NodePic": "ui/textures/npctask/daya/storyboard_daya_07",
+    "LightUpStep": [
+      40501024
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100201014
+    ],
+    "NextNodeId": [
+      100201022,
+      100201018
+    ],
+    "NodePosition": [
+      37,
+      -4
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004030
+  },
+  "100201008": {
+    "Id": 100201008,
+    "StoryboardId": 100201,
+    "NodeName": "A Frustrating Deduction",
+    "HintText": "",
+    "Remark": "调查完月影之野",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501015,
+      40501006,
+      40501008,
+      40501009,
+      40501010,
+      40501011,
+      40501012,
+      40501013,
+      40501014
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501015
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201001
+    ],
+    "NextNodeId": [
+      100201014
+    ],
+    "NodePosition": [
+      19,
+      -4
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201009": {
+    "Id": 100201009,
+    "StoryboardId": 100201,
+    "NodeName": "Strange Show Ticket Clue",
+    "HintText": "",
+    "Remark": "调查完迷星之径",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501058,
+      40501007,
+      40501032,
+      40501033,
+      40501034,
+      40501035,
+      40501036,
+      40501037,
+      40501057
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501058
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201001
+    ],
+    "NextNodeId": [
+      100201015
+    ],
+    "NodePosition": [
+      19,
+      5
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201011": {
+    "Id": 100201011,
+    "StoryboardId": 100201,
+    "NodeName": "Bravery or Caution",
+    "HintText": "",
+    "Remark": "结局二&三/四",
+    "NodeType": 2,
+    "IsReloadNode": true,
+    "ReloadStep": 40501041,
+    "StayStep": [
+      40501041
+    ],
+    "NodeInformation": "They say taking a risk can turn your Luno into a gold mine, but since it concerns the Pillar of Divinity, you better choose carefully.",
+    "NodePic": "ui/textures/npctask/daya/storyboard_daya_08",
+    "LightUpStep": [
+      40501041
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100201015
+    ],
+    "NextNodeId": [
+      100201017,
+      100201012
+    ],
+    "NodePosition": [
+      37,
+      5
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004040
+  },
+  "100201012": {
+    "Id": 100201012,
+    "StoryboardId": 100201,
+    "NodeName": "Deducing the Truth",
+    "HintText": "",
+    "Remark": "完成调查",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501053,
+      40501044,
+      40501045
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501044
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201011
+    ],
+    "NextNodeId": [
+      100201018
+    ],
+    "NodePosition": [
+      47,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201013": {
+    "Id": 100201013,
+    "StoryboardId": 100201,
+    "NodeName": "Is There Enough Luno?",
+    "HintText": "",
+    "Remark": "看望达雅前先做点准备吧",
+    "NodeType": 2,
+    "IsReloadNode": true,
+    "ReloadStep": 40501051,
+    "StayStep": [
+      40501051
+    ],
+    "NodeInformation": "Check your wallet first!",
+    "NodePic": "ui/textures/npctask/daya/storyboard_daya_09",
+    "LightUpStep": [
+      40501051
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100201025
+    ],
+    "NextNodeId": [
+      100201005,
+      100201004
+    ],
+    "NodePosition": [
+      75,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004050
+  },
+  "100201014": {
+    "Id": 100201014,
+    "StoryboardId": 100201,
+    "NodeName": "A Surprising Discovery",
+    "HintText": "",
+    "Remark": "调查完酒馆",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501021,
+      40501016,
+      40501017,
+      40501018,
+      40501019,
+      40501054,
+      40501055,
+      40501020,
+      40501021
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501021
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201008
+    ],
+    "NextNodeId": [
+      100201007
+    ],
+    "NodePosition": [
+      28,
+      -4
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201015": {
+    "Id": 100201015,
+    "StoryboardId": 100201,
+    "NodeName": "A Worrying Discovery",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501040,
+      40501039,
+      40501038
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501040
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201009
+    ],
+    "NextNodeId": [
+      100201011
+    ],
+    "NodePosition": [
+      28,
+      5
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201017": {
+    "Id": 100201017,
+    "StoryboardId": 100201,
+    "NodeName": "Risk It All, Double Your Luno!",
+    "HintText": "",
+    "Remark": "去神悬御柱附近一探究竟",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501043,
+      40501063
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501043
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201011
+    ],
+    "NextNodeId": [
+      100201021
+    ],
+    "NodePosition": [
+      47,
+      9
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201018": {
+    "Id": 100201018,
+    "StoryboardId": 100201,
+    "NodeName": "The Reluctant Truth",
+    "HintText": "",
+    "Remark": "找到安妮卡说明真相",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501025,
+      40501060
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501025
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201007,
+      100201012
+    ],
+    "NextNodeId": [
+      100201025
+    ],
+    "NodePosition": [
+      56,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201021": {
+    "Id": 100201021,
+    "StoryboardId": 100201,
+    "NodeName": "Run Away Fast!",
+    "HintText": "",
+    "Remark": "甩掉追兵",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501072,
+      40501061,
+      40501062,
+      40501075,
+      40501047,
+      40501074,
+      40501077,
+      40501072,
+      40501073
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501072
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201017
+    ],
+    "NextNodeId": [
+      100201006
+    ],
+    "NodePosition": [
+      56,
+      9
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201022": {
+    "Id": 100201022,
+    "StoryboardId": 100201,
+    "NodeName": "Forced Termination of the Commission",
+    "HintText": "",
+    "Remark": "找到安妮卡说明真相",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501056,
+      40501059
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501056
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201007
+    ],
+    "NextNodeId": [
+      100201023
+    ],
+    "NodePosition": [
+      47,
+      -7
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201023": {
+    "Id": 100201023,
+    "StoryboardId": 100201,
+    "NodeName": "A Concerned Greeting",
+    "HintText": "",
+    "Remark": "去看望达雅",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501026
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501026
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201022
+    ],
+    "NextNodeId": [
+      100201003
+    ],
+    "NodePosition": [
+      56,
+      -7
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100201025": {
+    "Id": 100201025,
+    "StoryboardId": 100201,
+    "NodeName": "Visit Darya",
+    "HintText": "",
+    "Remark": "去问问达雅的近况吧",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40501027
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40501027
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100201018
+    ],
+    "NextNodeId": [
+      100201013
+    ],
+    "NodePosition": [
+      65,
+      0
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301004": {
+    "Id": 100301004,
+    "StoryboardId": 100301,
+    "NodeName": "New Request From Lallipar, Go Take a Look",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 3,
+    "IsReloadNode": true,
+    "ReloadStep": 40503039,
+    "StayStep": [
+      40503001,
+      40503002
+    ],
+    "NodeInformation": "New Request From Lallipar, Go Take a Look",
+    "NodePic": "",
+    "LightUpStep": [
+      40503001
+    ],
+    "Rate": 5,
+    "PreNodeId": [],
+    "NextNodeId": [
+      100301007
+    ],
+    "NodePosition": [
+      -2,
+      -2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301007": {
+    "Id": 100301007,
+    "StoryboardId": 100301,
+    "NodeName": "Inspect the Sea Lily Under the Tree",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 2,
+    "IsReloadNode": false,
+    "ReloadStep": 40503003,
+    "StayStep": [
+      40503003
+    ],
+    "NodeInformation": "Inspect the Sea Lily Under the Tree",
+    "NodePic": "",
+    "LightUpStep": [
+      40503003
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100301004
+    ],
+    "NextNodeId": [
+      100301010,
+      100301013,
+      100301015
+    ],
+    "NodePosition": [
+      4,
+      -2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301010": {
+    "Id": 100301010,
+    "StoryboardId": 100301,
+    "NodeName": "New Node",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 0,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [],
+    "Rate": 0,
+    "PreNodeId": [
+      100301007
+    ],
+    "NextNodeId": [
+      100301012
+    ],
+    "NodePosition": [
+      4,
+      -7
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301011": {
+    "Id": 100301011,
+    "StoryboardId": 100301,
+    "NodeName": "A Scene from Another Day",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 4,
+    "IsReloadNode": true,
+    "ReloadStep": 40503041,
+    "StayStep": [
+      40503011,
+      40503038
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503011
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100301012
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      14,
+      -7
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004100
+  },
+  "100301012": {
+    "Id": 100301012,
+    "StoryboardId": 100301,
+    "NodeName": "Look for Clues in the Village",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 2,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40503008,
+      40503009,
+      40503010,
+      40503034
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503034
+    ],
+    "Rate": 25,
+    "PreNodeId": [
+      100301010
+    ],
+    "NextNodeId": [
+      100301011
+    ],
+    "NodePosition": [
+      9,
+      -7
+    ],
+    "Tips": [
+      [
+        1002
+      ],
+      [
+        1002
+      ],
+      [
+        1001
+      ]
+    ],
+    "IsLocked": true,
+    "UnlockCondition": [
+      [
+        28,
+        40503,
+        40503034,
+        2
+      ]
+    ],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301013": {
+    "Id": 100301013,
+    "StoryboardId": 100301,
+    "NodeName": "Investigate the Sea Lily's Origin",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40503035,
+      40503032,
+      40503018
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503035
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100301007
+    ],
+    "NextNodeId": [
+      100301014
+    ],
+    "NodePosition": [
+      9,
+      -2
+    ],
+    "Tips": [
+      [
+        1002
+      ],
+      [
+        1002
+      ],
+      [
+        1001
+      ]
+    ],
+    "IsLocked": true,
+    "UnlockCondition": [
+      [
+        28,
+        40503,
+        40503035,
+        2
+      ]
+    ],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301014": {
+    "Id": 100301014,
+    "StoryboardId": 100301,
+    "NodeName": "Go to the Archives with Airona",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40503019,
+      40503020,
+      40503021
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503019
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100301013
+    ],
+    "NextNodeId": [
+      100301017
+    ],
+    "NodePosition": [
+      14,
+      -2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301015": {
+    "Id": 100301015,
+    "StoryboardId": 100301,
+    "NodeName": "New Node",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 0,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [],
+    "Rate": 0,
+    "PreNodeId": [
+      100301007
+    ],
+    "NextNodeId": [
+      100301016
+    ],
+    "NodePosition": [
+      4,
+      5
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301016": {
+    "Id": 100301016,
+    "StoryboardId": 100301,
+    "NodeName": "Ask Belleet Under the Tree",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40503036,
+      40503004,
+      40503007
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503036
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100301015
+    ],
+    "NextNodeId": [
+      100301023
+    ],
+    "NodePosition": [
+      9,
+      5
+    ],
+    "Tips": [
+      [
+        1002
+      ],
+      [
+        1002
+      ],
+      [
+        1001
+      ]
+    ],
+    "IsLocked": true,
+    "UnlockCondition": [
+      [
+        28,
+        40503,
+        40503036,
+        2
+      ]
+    ],
+    "IsHidden": true,
+    "AwardId": 0
+  },
+  "100301017": {
+    "Id": 100301017,
+    "StoryboardId": 100301,
+    "NodeName": "Search For Clues In The Archives",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 2,
+    "IsReloadNode": true,
+    "ReloadStep": 40503042,
+    "StayStep": [
+      40503022,
+      40503023,
+      40503025
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503022
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100301014
+    ],
+    "NextNodeId": [
+      100301018,
+      100301019
+    ],
+    "NodePosition": [
+      19,
+      -2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301018": {
+    "Id": 100301018,
+    "StoryboardId": 100301,
+    "NodeName": "New Node",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 0,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [],
+    "Rate": 0,
+    "PreNodeId": [
+      100301017
+    ],
+    "NextNodeId": [
+      100301020
+    ],
+    "NodePosition": [
+      19,
+      -5
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301019": {
+    "Id": 100301019,
+    "StoryboardId": 100301,
+    "NodeName": "Report the Investigation Results to Magne",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40503026
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503026
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100301020,
+      100301017
+    ],
+    "NextNodeId": [
+      100301021
+    ],
+    "NodePosition": [
+      24,
+      -2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301020": {
+    "Id": 100301020,
+    "StoryboardId": 100301,
+    "NodeName": "Investigate Again",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40503029,
+      40503031
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503029
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100301018
+    ],
+    "NextNodeId": [
+      100301019
+    ],
+    "NodePosition": [
+      24,
+      -5
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301021": {
+    "Id": 100301021,
+    "StoryboardId": 100301,
+    "NodeName": "To You, in This Moment",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 4,
+    "IsReloadNode": true,
+    "ReloadStep": 40503043,
+    "StayStep": [
+      40503027
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503027
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      100301019
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      29,
+      -2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004110
+  },
+  "100301023": {
+    "Id": 100301023,
+    "StoryboardId": 100301,
+    "NodeName": "Search for Relics That Record the Past",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      40503013
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503013
+    ],
+    "Rate": 10,
+    "PreNodeId": [
+      100301016
+    ],
+    "NextNodeId": [
+      100301024
+    ],
+    "NodePosition": [
+      14,
+      5
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "100301024": {
+    "Id": 100301024,
+    "StoryboardId": 100301,
+    "NodeName": "Hazy Moon",
+    "HintText": "",
+    "Remark": "",
+    "NodeType": 4,
+    "IsReloadNode": true,
+    "ReloadStep": 40503044,
+    "StayStep": [
+      40503014,
+      40503016
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      40503014
+    ],
+    "Rate": 15,
+    "PreNodeId": [
+      100301023
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      19,
+      5
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 31004120
+  },
+  "1001001": {
+    "Id": 1001001,
+    "StoryboardId": 1001,
+    "NodeName": "Chat With the Detective",
+    "HintText": "Test",
+    "Remark": "222",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      30704002
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      30704002
+    ],
+    "Rate": 3,
+    "PreNodeId": [
+      1001002
+    ],
+    "NextNodeId": [
+      1001003
+    ],
+    "NodePosition": [
+      6,
+      1
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "1001002": {
+    "Id": 1001002,
+    "StoryboardId": 1001,
+    "NodeName": "Test",
+    "HintText": "Test",
+    "Remark": "111",
+    "NodeType": 3,
+    "IsReloadNode": true,
+    "ReloadStep": 30704001,
+    "StayStep": [
+      30704001
+    ],
+    "NodeInformation": "",
+    "NodePic": "Assets/UI/textures/taskinfo_ep/taskinfo_ep02_06.png",
+    "LightUpStep": [
+      30704001
+    ],
+    "Rate": 5,
+    "PreNodeId": [],
+    "NextNodeId": [
+      1001001
+    ],
+    "NodePosition": [
+      0,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 0
+  },
+  "1001003": {
+    "Id": 1001003,
+    "StoryboardId": 1001,
+    "NodeName": "Meet Up With the Detective",
+    "HintText": "",
+    "Remark": "333",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      30704003
+    ],
+    "NodeInformation": "",
+    "NodePic": "",
+    "LightUpStep": [
+      30704003
+    ],
+    "Rate": 3,
+    "PreNodeId": [
+      1001001
+    ],
+    "NextNodeId": [
+      1001004
+    ],
+    "NodePosition": [
+      11,
+      1
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": true,
+    "UnlockCondition": [
+      [
+        2,
+        10202,
+        2
+      ]
+    ],
+    "IsHidden": false,
+    "AwardId": 20210251
+  },
+  "1001004": {
+    "Id": 1001004,
+    "StoryboardId": 1001,
+    "NodeName": "Eliminate the monsters nearby",
+    "HintText": "",
+    "Remark": "444",
+    "NodeType": 1,
+    "IsReloadNode": false,
+    "ReloadStep": 30704003,
+    "StayStep": [
+      30704004,
+      30704005
+    ],
+    "NodeInformation": "",
+    "NodePic": "ui/textures/taskinfo_ep/taskinfo_ep02_05",
+    "LightUpStep": [
+      30704004
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      1001003
+    ],
+    "NextNodeId": [
+      1001006
+    ],
+    "NodePosition": [
+      16,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": true,
+    "AwardId": 0
+  },
+  "1001006": {
+    "Id": 1001006,
+    "StoryboardId": 1001,
+    "NodeName": "Ending 1",
+    "HintText": "",
+    "Remark": "123123123123",
+    "NodeType": 4,
+    "IsReloadNode": false,
+    "ReloadStep": 0,
+    "StayStep": [
+      30704006
+    ],
+    "NodeInformation": "",
+    "NodePic": "Assets/UI/textures/taskinfo_ep/taskinfo_ep02_07.png",
+    "LightUpStep": [
+      30704006
+    ],
+    "Rate": 5,
+    "PreNodeId": [
+      1001004
+    ],
+    "NextNodeId": [],
+    "NodePosition": [
+      21,
+      2
+    ],
+    "Tips": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "IsLocked": false,
+    "UnlockCondition": [],
+    "IsHidden": false,
+    "AwardId": 20210253
+  }
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+enum EInstrumentSyncType {
+	EInstrumentSyncTypeNote = 0;
+	EInstrumentSyncTypeTechnique = 1;
+	EInstrumentSyncTypeTone = 2;
+	EInstrumentSyncTypeSustainPedal = 3;
+}

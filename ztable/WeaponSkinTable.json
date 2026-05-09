@@ -109,8 +109,8 @@
   },
   "7310006": {
     "Id": 7310006,
-    "Name": "Poseidon's Blade",
-    "Intro": "Poseidon's Blade",
+    "Name": "Shadow of the Far Sea",
+    "Intro": "Shadow of the Far Sea",
     "Model": [
       "ch_wp_olvera-06_01"
     ],
@@ -271,6 +271,28 @@
     "EffectScale": [],
     "EquipToPlay": 0
   },
+  "7310012": {
+    "Id": 7310012,
+    "Name": "Radiant Ceremonial Blade",
+    "Intro": "Radiant Ceremonial Blade",
+    "Model": [
+      "ch_wp_olvera-12_01"
+    ],
+    "WeaponModelId": [
+      1310120
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 1,
+    "Original": 0,
+    "SortID": 12,
+    "Score": 30,
+    "LongIcon": "ch_wp_olvera_02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
   "7320001": {
     "Id": 7320001,
     "Name": "Oboro Staff",
@@ -383,8 +405,8 @@
   },
   "7320006": {
     "Id": 7320006,
-    "Name": "Poseidon's Staff",
-    "Intro": "Poseidon's Staff",
+    "Name": "Revelation of the Far Sea",
+    "Intro": "Revelation of the Far Sea",
     "Model": [
       "ch_wp_boyce-06_01"
     ],
@@ -545,25 +567,371 @@
     "EffectScale": [],
     "EquipToPlay": 0
   },
+  "7320012": {
+    "Id": 7320012,
+    "Name": "Radiant Ceremonial Staff",
+    "Intro": "Radiant Ceremonial Staff",
+    "Model": [
+      "ch_wp_boyce-12_01"
+    ],
+    "WeaponModelId": [
+      1320120
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 2,
+    "Original": 0,
+    "SortID": 12,
+    "Score": 30,
+    "LongIcon": "ch_wp_boyce_02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
   "7330001": {
     "Id": 7330001,
-    "Name": "Battleaxe",
-    "Intro": "Battleaxe",
+    "Name": "Oboro Axe",
+    "Intro": "Oboro Axe",
     "Model": [
       "ch_wp_tata-01_01",
+      "ch_wp_tata-01_01"
+    ],
+    "WeaponModelId": [
+      1330010,
+      1330010
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 1,
+    "Score": 30,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330002": {
+    "Id": 7330002,
+    "Name": "Mirrorlight Axe",
+    "Intro": "Mirrorlight Axe",
+    "Model": [
+      "ch_wp_tata-02_01",
       "ch_wp_tata-02_01"
     ],
     "WeaponModelId": [
-      1100002,
-      1100003
+      1330020,
+      1330020
     ],
     "EffectSwitch": [],
     "DefaultEffect": [],
     "ProfessionId": 3,
     "Original": 1,
-    "SortID": 1,
-    "Score": 0,
-    "LongIcon": "ch_wp_tata_01_01_t",
+    "SortID": 2,
+    "Score": 30,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330003": {
+    "Id": 7330003,
+    "Name": "Twilight Wish Axe",
+    "Intro": "Twilight Wish Axe",
+    "Model": [
+      "ch_wp_tata-03_01",
+      "ch_wp_tata-03_01"
+    ],
+    "WeaponModelId": [
+      1330030,
+      1330030
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 8,
+    "Score": 30,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330004": {
+    "Id": 7330004,
+    "Name": "Sakura Axe",
+    "Intro": "Sakura Axe",
+    "Model": [
+      "ch_wp_tata-04_01",
+      "ch_wp_tata-04_01"
+    ],
+    "WeaponModelId": [
+      1330040,
+      1330040
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 9,
+    "Score": 160,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330005": {
+    "Id": 7330005,
+    "Name": "Bane Lord Axe",
+    "Intro": "Bane Lord Axe",
+    "Model": [
+      "ch_wp_tata-05_01",
+      "ch_wp_tata-05_01"
+    ],
+    "WeaponModelId": [
+      1330050,
+      1330050
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 10,
+    "Score": 30,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330006": {
+    "Id": 7330006,
+    "Name": "Fury of the Far Sea",
+    "Intro": "Fury of the Far Sea",
+    "Model": [
+      "ch_wp_tata-06_01",
+      "ch_wp_tata-06_01"
+    ],
+    "WeaponModelId": [
+      1330060,
+      1330060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_tata_vfx_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_tata_vfx_01",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 3,
+    "Original": 1,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_tata_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330007": {
+    "Id": 7330007,
+    "Name": "Emberglow Axe",
+    "Intro": "Emberglow Axe",
+    "Model": [
+      "ch_wp_tata-07_01",
+      "ch_wp_tata-07_01"
+    ],
+    "WeaponModelId": [
+      1330070,
+      1330070
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 7,
+    "Score": 30,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330008": {
+    "Id": 7330008,
+    "Name": "Gilded Axe",
+    "Intro": "Gilded Axe",
+    "Model": [
+      "ch_wp_tata-08_01",
+      "ch_wp_tata-08_01"
+    ],
+    "WeaponModelId": [
+      1330080,
+      1330080
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 5,
+    "Score": 30,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330009": {
+    "Id": 7330009,
+    "Name": "Offering of the Void Axe",
+    "Intro": "Offering of the Void Axe",
+    "Model": [
+      "ch_wp_tata-09_01",
+      "ch_wp_tata-09_01"
+    ],
+    "WeaponModelId": [
+      1330090,
+      1330090
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_09_01_skin02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_wp_tata_09_01_skin02",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 6,
+    "Score": 160,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330010": {
+    "Id": 7330010,
+    "Name": "Axe of Nocturnal Trickery",
+    "Intro": "Axe of Nocturnal Trickery",
+    "Model": [
+      "ch_wp_tata-10_01",
+      "ch_wp_tata-10_01"
+    ],
+    "WeaponModelId": [
+      1330100,
+      1330100
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 4,
+    "Score": 30,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330011": {
+    "Id": 7330011,
+    "Name": "Astral Snowfall Axe",
+    "Intro": "Astral Snowfall Axe",
+    "Model": [
+      "ch_wp_tata-11_01",
+      "ch_wp_tata-11_01"
+    ],
+    "WeaponModelId": [
+      1330110,
+      1330110
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 3,
+    "Score": 30,
+    "LongIcon": "ch_wp_tata02_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7330012": {
+    "Id": 7330012,
+    "Name": "Radiant Ceremonial Axe",
+    "Intro": "Radiant Ceremonial Axe",
+    "Model": [
+      "ch_wp_tata-12_01",
+      "ch_wp_tata-12_01"
+    ],
+    "WeaponModelId": [
+      1330120,
+      1330120
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 12,
+    "Score": 30,
+    "LongIcon": "ch_wp_tata02_01_t",
     "OpenCondition": [],
     "IsOpen": true,
     "EffectScale": [],
@@ -681,8 +1049,8 @@
   },
   "7340006": {
     "Id": 7340006,
-    "Name": "Poseidon's Spear",
-    "Intro": "Poseidon's Spear",
+    "Name": "Wish of the Far Sea",
+    "Intro": "Wish of the Far Sea",
     "Model": [
       "ch_wp_tina-06_01"
     ],
@@ -843,6 +1211,28 @@
     "EffectScale": [],
     "EquipToPlay": 0
   },
+  "7340012": {
+    "Id": 7340012,
+    "Name": "Radiant Ceremonial Spear",
+    "Intro": "Radiant Ceremonial Spear",
+    "Model": [
+      "ch_wp_tina-12_01"
+    ],
+    "WeaponModelId": [
+      1340120
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 4,
+    "Original": 0,
+    "SortID": 12,
+    "Score": 30,
+    "LongIcon": "ch_wp_tina_02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
   "7350001": {
     "Id": 7350001,
     "Name": "Oboro Ring",
@@ -965,8 +1355,8 @@
   },
   "7350006": {
     "Id": 7350006,
-    "Name": "Poseidon's Ring",
-    "Intro": "Poseidon's Ring",
+    "Name": "Grace of the Far Sea",
+    "Intro": "Grace of the Far Sea",
     "Model": [
       "ch_wp_iruna-06_01",
       "ch_wp_iruna-06_01"
@@ -1167,6 +1557,30 @@
     "EffectScale": [],
     "EquipToPlay": 0
   },
+  "7350012": {
+    "Id": 7350012,
+    "Name": "Radiant Ceremonial Ring",
+    "Intro": "Radiant Ceremonial Ring",
+    "Model": [
+      "ch_wp_iruna-12_01",
+      "ch_wp_iruna-12_01"
+    ],
+    "WeaponModelId": [
+      1350120,
+      1350120
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 5,
+    "Original": 0,
+    "SortID": 12,
+    "Score": 30,
+    "LongIcon": "ch_wp_iruna_02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
   "7360001": {
     "Id": 7360001,
     "Name": "Hand Cannon",
@@ -1314,8 +1728,8 @@
   },
   "7370006": {
     "Id": 7370006,
-    "Name": "Poseidon's Edge",
-    "Intro": "Poseidon's Edge",
+    "Name": "Waiting of the Far Sea",
+    "Intro": "Waiting of the Far Sea",
     "Model": [
       "ch_wp_comeau-06_01"
     ],
@@ -1469,6 +1883,28 @@
     "ProfessionId": 9,
     "Original": 0,
     "SortID": 3,
+    "Score": 30,
+    "LongIcon": "ch_wp_comeau_02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7370012": {
+    "Id": 7370012,
+    "Name": "Radiant Ceremonial Blade",
+    "Intro": "Radiant Ceremonial Blade",
+    "Model": [
+      "ch_wp_comeau-12_01"
+    ],
+    "WeaponModelId": [
+      1370120
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 9,
+    "Original": 0,
+    "SortID": 12,
     "Score": 30,
     "LongIcon": "ch_wp_comeau_02_01_t",
     "OpenCondition": [],
@@ -1702,8 +2138,8 @@
   },
   "7390006": {
     "Id": 7390006,
-    "Name": "Poseidon's Bow",
-    "Intro": "Poseidon's Bow",
+    "Name": "Gaze of the Far Sea",
+    "Intro": "Gaze of the Far Sea",
     "Model": [
       "empty_weapon",
       "ch_wp_rodri-06_01"
@@ -1994,6 +2430,49 @@
     ],
     "EquipToPlay": 0
   },
+  "7390012": {
+    "Id": 7390012,
+    "Name": "Radiant Ceremonial Bow",
+    "Intro": "Radiant Ceremonial Bow",
+    "Model": [
+      "empty_weapon",
+      "ch_wp_rodri-12_01"
+    ],
+    "WeaponModelId": [
+      0,
+      1390120
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/rodri/p_fx_skill_rodri-01_bowstring",
+        "0.071",
+        "0.015",
+        "0.018",
+        "90",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 11,
+    "Original": 0,
+    "SortID": 12,
+    "Score": 30,
+    "LongIcon": "ch_wp_rodri_02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [
+      [
+        "ep_weapon_effect02_point",
+        "1",
+        "1.1",
+        "1"
+      ]
+    ],
+    "EquipToPlay": 0
+  },
   "7400001": {
     "Id": 7400001,
     "Name": "Oboro Aegis",
@@ -2058,7 +2537,7 @@
     "DefaultEffect": [],
     "ProfessionId": 12,
     "Original": 0,
-    "SortID": 5,
+    "SortID": 8,
     "Score": 30,
     "LongIcon": "ch_wp_farfara_02_01_t",
     "OpenCondition": [],
@@ -2082,7 +2561,7 @@
     "DefaultEffect": [],
     "ProfessionId": 12,
     "Original": 0,
-    "SortID": 6,
+    "SortID": 9,
     "Score": 160,
     "LongIcon": "ch_wp_farfara_02_01_t",
     "OpenCondition": [],
@@ -2106,7 +2585,7 @@
     "DefaultEffect": [],
     "ProfessionId": 12,
     "Original": 0,
-    "SortID": 7,
+    "SortID": 10,
     "Score": 30,
     "LongIcon": "ch_wp_farfara_02_01_t",
     "OpenCondition": [],
@@ -2116,8 +2595,8 @@
   },
   "7400006": {
     "Id": 7400006,
-    "Name": "Poseidon's Shield",
-    "Intro": "Poseidon's Shield",
+    "Name": "Vow of the Far Sea",
+    "Intro": "Vow of the Far Sea",
     "Model": [
       "ch_wp_farfara01-06_01",
       "ch_wp_farfara02-06_01"
@@ -2160,7 +2639,7 @@
     ],
     "ProfessionId": 12,
     "Original": 1,
-    "SortID": 9,
+    "SortID": 11,
     "Score": 320,
     "LongIcon": "ch_wp_farfara_06_01_t",
     "OpenCondition": [],
@@ -2184,7 +2663,7 @@
     "DefaultEffect": [],
     "ProfessionId": 12,
     "Original": 0,
-    "SortID": 5,
+    "SortID": 7,
     "Score": 30,
     "LongIcon": "ch_wp_farfara_02_01_t",
     "OpenCondition": [],
@@ -2318,6 +2797,30 @@
     "EffectScale": [],
     "EquipToPlay": 0
   },
+  "7400012": {
+    "Id": 7400012,
+    "Name": "Radiant Ceremonial Sword and Shield",
+    "Intro": "Radiant Ceremonial Sword and Shield",
+    "Model": [
+      "ch_wp_farfara01-12_01",
+      "ch_wp_farfara02-12_01"
+    ],
+    "WeaponModelId": [
+      1400120,
+      1400121
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 12,
+    "Original": 0,
+    "SortID": 12,
+    "Score": 30,
+    "LongIcon": "ch_wp_farfara_02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
   "7410001": {
     "Id": 7410001,
     "Name": "Oboro Guitar",
@@ -2440,8 +2943,8 @@
   },
   "7410006": {
     "Id": 7410006,
-    "Name": "Poseidon's Guitar",
-    "Intro": "Poseidon's Guitar",
+    "Name": "Hymn of the Far Sea",
+    "Intro": "Hymn of the Far Sea",
     "Model": [
       "empty_weapon",
       "ch_wp_guitar-06_01"
@@ -2617,6 +3120,866 @@
     "LongIcon": "ch_wp_guitar_02_01_t",
     "OpenCondition": [],
     "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7410012": {
+    "Id": 7410012,
+    "Name": "Radiant Ceremonial Guitar",
+    "Intro": "Radiant Ceremonial Guitar",
+    "Model": [
+      "empty_weapon",
+      "ch_wp_guitar-12_01"
+    ],
+    "WeaponModelId": [
+      0,
+      1410120
+    ],
+    "EffectSwitch": [],
+    "DefaultEffect": [],
+    "ProfessionId": 13,
+    "Original": 0,
+    "SortID": 12,
+    "Score": 30,
+    "LongIcon": "ch_wp_guitar_02_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7311061": {
+    "Id": 7311061,
+    "Name": "Shadow of the Far Sea I",
+    "Intro": "Shadow of the Far Sea I",
+    "Model": [
+      "ch_wp_olvera-06_01"
+    ],
+    "WeaponModelId": [
+      1310060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_olvera_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 1,
+    "Original": 1,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_olvera_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7311062": {
+    "Id": 7311062,
+    "Name": "Shadow of the Far Sea II",
+    "Intro": "Shadow of the Far Sea II",
+    "Model": [
+      "ch_wp_olvera-06_01"
+    ],
+    "WeaponModelId": [
+      1310060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_olvera_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 1,
+    "Original": 0,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_olvera_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7321061": {
+    "Id": 7321061,
+    "Name": "Revelation of the Far Sea I",
+    "Intro": "Revelation of the Far Sea I",
+    "Model": [
+      "ch_wp_boyce-06_01"
+    ],
+    "WeaponModelId": [
+      1320060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_boyce_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 2,
+    "Original": 1,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_boyce_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7321062": {
+    "Id": 7321062,
+    "Name": "Revelation of the Far Sea II",
+    "Intro": "Revelation of the Far Sea II",
+    "Model": [
+      "ch_wp_boyce-06_01"
+    ],
+    "WeaponModelId": [
+      1320060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_boyce_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 2,
+    "Original": 0,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_boyce_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7331061": {
+    "Id": 7331061,
+    "Name": "Fury of the Far Sea I",
+    "Intro": "Fury of the Far Sea I",
+    "Model": [
+      "ch_wp_tata-06_01",
+      "ch_wp_tata-06_01"
+    ],
+    "WeaponModelId": [
+      1330060,
+      1330060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_tata_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_tata_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 3,
+    "Original": 1,
+    "SortID": 1,
+    "Score": 0,
+    "LongIcon": "ch_wp_tata_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7331062": {
+    "Id": 7331062,
+    "Name": "Fury of the Far Sea II",
+    "Intro": "Fury of the Far Sea II",
+    "Model": [
+      "ch_wp_tata-06_01",
+      "ch_wp_tata-06_01"
+    ],
+    "WeaponModelId": [
+      1330060,
+      1330060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_tata_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_tata_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 3,
+    "Original": 0,
+    "SortID": 1,
+    "Score": 0,
+    "LongIcon": "ch_wp_tata_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7341061": {
+    "Id": 7341061,
+    "Name": "Wish of the Far Sea I",
+    "Intro": "Wish of the Far Sea I",
+    "Model": [
+      "ch_wp_tina-06_01"
+    ],
+    "WeaponModelId": [
+      1340060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_tina_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 4,
+    "Original": 1,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_tina_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7341062": {
+    "Id": 7341062,
+    "Name": "Wish of the Far Sea II",
+    "Intro": "Wish of the Far Sea II",
+    "Model": [
+      "ch_wp_tina-06_01"
+    ],
+    "WeaponModelId": [
+      1340060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_tina_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 4,
+    "Original": 0,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_tina_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7351061": {
+    "Id": 7351061,
+    "Name": "Grace of the Far Sea I",
+    "Intro": "Grace of the Far Sea I",
+    "Model": [
+      "ch_wp_iruna-06_01",
+      "ch_wp_iruna-06_01"
+    ],
+    "WeaponModelId": [
+      1350060,
+      1350060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_iruna_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_iruna_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 5,
+    "Original": 1,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_iruna_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7351062": {
+    "Id": 7351062,
+    "Name": "Grace of the Far Sea II",
+    "Intro": "Grace of the Far Sea II",
+    "Model": [
+      "ch_wp_iruna-06_01",
+      "ch_wp_iruna-06_01"
+    ],
+    "WeaponModelId": [
+      1350060,
+      1350060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_iruna_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_iruna_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 5,
+    "Original": 0,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_iruna_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7371061": {
+    "Id": 7371061,
+    "Name": "Waiting of the Far Sea I",
+    "Intro": "Waiting of the Far Sea I",
+    "Model": [
+      "ch_wp_comeau-06_01"
+    ],
+    "WeaponModelId": [
+      1370060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_comeau_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 9,
+    "Original": 1,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_comeau_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7371062": {
+    "Id": 7371062,
+    "Name": "Waiting of the Far Sea II",
+    "Intro": "Waiting of the Far Sea II",
+    "Model": [
+      "ch_wp_comeau-06_01"
+    ],
+    "WeaponModelId": [
+      1370060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_comeau_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 9,
+    "Original": 0,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_comeau_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7391061": {
+    "Id": 7391061,
+    "Name": "Gaze of the Far Sea I",
+    "Intro": "Gaze of the Far Sea I",
+    "Model": [
+      "empty_weapon",
+      "ch_wp_rodri-06_01"
+    ],
+    "WeaponModelId": [
+      0,
+      1390060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/rodri/p_fx_skill_rodri-01_bowstring",
+        "0.073",
+        "0.02",
+        "0.01",
+        "90",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_rodri_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 11,
+    "Original": 1,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_rodri_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [
+      [
+        "ep_weapon_effect02_point",
+        "1",
+        "1.1",
+        "1"
+      ]
+    ],
+    "EquipToPlay": 0
+  },
+  "7391062": {
+    "Id": 7391062,
+    "Name": "Gaze of the Far Sea II",
+    "Intro": "Gaze of the Far Sea II",
+    "Model": [
+      "empty_weapon",
+      "ch_wp_rodri-06_01"
+    ],
+    "WeaponModelId": [
+      0,
+      1390060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect02_point",
+        "effect/skill/rodri/p_fx_skill_rodri-01_bowstring",
+        "0.073",
+        "0.02",
+        "0.01",
+        "90",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_rodri_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 11,
+    "Original": 0,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_rodri_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [
+      [
+        "ep_weapon_effect02_point",
+        "1",
+        "1.1",
+        "1"
+      ]
+    ],
+    "EquipToPlay": 0
+  },
+  "7401061": {
+    "Id": 7401061,
+    "Name": "Vow of the Far Sea I",
+    "Intro": "Vow of the Far Sea I",
+    "Model": [
+      "ch_wp_farfara01-06_01",
+      "ch_wp_farfara02-06_01"
+    ],
+    "WeaponModelId": [
+      1400060,
+      1400061
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_farfara_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_farfara_vfx_02_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 12,
+    "Original": 1,
+    "SortID": 9,
+    "Score": 320,
+    "LongIcon": "ch_wp_farfara_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7401062": {
+    "Id": 7401062,
+    "Name": "Vow of the Far Sea II",
+    "Intro": "Vow of the Far Sea II",
+    "Model": [
+      "ch_wp_farfara01-06_01",
+      "ch_wp_farfara02-06_01"
+    ],
+    "WeaponModelId": [
+      1400060,
+      1400061
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "0",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_farfara_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_farfara_vfx_02_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 12,
+    "Original": 0,
+    "SortID": 9,
+    "Score": 320,
+    "LongIcon": "ch_wp_farfara_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7411061": {
+    "Id": 7411061,
+    "Name": "Hymn of the Far Sea I",
+    "Intro": "Hymn of the Far Sea I",
+    "Model": [
+      "empty_weapon",
+      "ch_wp_guitar-06_01"
+    ],
+    "WeaponModelId": [
+      0,
+      1410060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_guitar_vfx_01_lv2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 13,
+    "Original": 1,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_guitar_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": true,
+    "EffectScale": [],
+    "EquipToPlay": 0
+  },
+  "7411062": {
+    "Id": 7411062,
+    "Name": "Hymn of the Far Sea II",
+    "Intro": "Hymn of the Far Sea II",
+    "Model": [
+      "empty_weapon",
+      "ch_wp_guitar-06_01"
+    ],
+    "WeaponModelId": [
+      0,
+      1410060
+    ],
+    "EffectSwitch": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "DefaultEffect": [
+      [
+        "1",
+        "ep_weapon_effect01_point",
+        "effect/skill/skin_sea/p_fx_weapon_guitar_vfx_01_lv3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "ProfessionId": 13,
+    "Original": 0,
+    "SortID": 11,
+    "Score": 320,
+    "LongIcon": "ch_wp_guitar_06_01_t",
+    "OpenCondition": [],
+    "IsOpen": false,
     "EffectScale": [],
     "EquipToPlay": 0
   }

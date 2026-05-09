@@ -7,6 +7,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80101,
     "Note": "非绑池",
     "Sort": 1001,
@@ -116,6 +117,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80101,
     "Note": "绑定池",
     "Sort": 1002,
@@ -228,6 +230,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80102,
     "Note": "非绑池",
     "Sort": 1003,
@@ -340,6 +343,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80102,
     "Note": "绑定池",
     "Sort": 1004,
@@ -452,6 +456,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80103,
     "Note": "非绑池",
     "Sort": 1005,
@@ -564,6 +569,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80103,
     "Note": "绑定池",
     "Sort": 1006,
@@ -676,6 +682,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80104,
     "Note": "非绑池",
     "Sort": 1007,
@@ -788,6 +795,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80104,
     "Note": "绑定池",
     "Sort": 1008,
@@ -900,6 +908,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80105,
     "Note": "非绑池",
     "Sort": 1009,
@@ -1012,6 +1021,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80105,
     "Note": "绑定池",
     "Sort": 1010,
@@ -1124,6 +1134,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80106,
     "Note": "非绑池",
     "Sort": 1011,
@@ -1236,6 +1247,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80106,
     "Note": "绑定池",
     "Sort": 1012,
@@ -1348,6 +1360,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80107,
     "Note": "非绑池",
     "Sort": 1013,
@@ -1460,6 +1473,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80107,
     "Note": "绑定池",
     "Sort": 1014,
@@ -1564,6 +1578,684 @@
       10005
     ]
   },
+  "1015": {
+    "Id": 1015,
+    "Name": "Thumping Vigil",
+    "GashaType": 1,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80108,
+    "Note": "非绑池",
+    "Sort": 1015,
+    "Bind": [
+      19,
+      0
+    ],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_14",
+        "ui/textures/gasha/gasha_banner_fashion_8"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_14",
+        "ui/textures/gasha/gasha_banner_fashion_8"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_8"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_09",
+    "BannerTips": "Limited Outfit",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_fishing_8_on",
+      "ui/atlas/gasha/gasha_tab_fishing_8_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003370,
+      50003360,
+      50003350,
+      50003340
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 1,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining a <color=#FF8000>[Rare Wish]</color> is <color=#ffe2af>0.1500%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.5387%</color>. You are guaranteed to obtain a <color=#ffe2af>[Rare Wish]</color> within at most <color=#FF8000>80</color> Wishes. When you obtain a <color=#FF8000>[Rare Wish]</color>, you will receive: <color=#FF8000>Thumping Vigil Outfit Box</color><br><br>The base probability of obtaining an <color=#eed335>[Advanced Wish]</color> is <color=#ffe2af>1.8500%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.6750%</color>. You are guaranteed to obtain an <color=#ffe2af>[Advanced Wish]</color> or higher quality item within at most <color=#eed335>30</color> Wishes. When you obtain an <color=#eed335>[Advanced Wish]</color> or higher quality item through guarantee, there is a <color=#ffe2af>99.8500%</color> probability it is an <color=#eed335>[Advanced Wish]</color>, and a <color=#ffe2af>0.1500%</color> probability it is a <color=#FF8000>[Rare Wish]</color>. When you obtain an <color=#eed335>[Advanced Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.0000%</color><br>    <color=#eed335>Olvera Doll - Headwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Jerrad Doll - Headwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Neon Clef - Backwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Cheer Beat - Backwear</color> <color=#ffe2af>10.0000%</color><br>* Items from <color=#FF8000>[Rare Wish]</color> and <color=#eed335>[Advanced Wish]</color> obtained with unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>* This is the Fashion Wish event. In this event, the accumulated Wish count for unclaimed <color=#FF8000>[Rare Wish]</color> and <color=#eed335>[Advanced Wish]</color> (or higher quality items) will not reset when the Fashion Wish event is updated. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[Intermediate Wish]</color> is <color=#ffe2af>12.0000%</color>. When you obtain an <color=#ab85f6>[Intermediate Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Sunny Day - Top</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Sunny Day - Bottom</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Corgi Plush - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Boarlet Cap</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Owl Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Youthful Hairpin</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Rose Bloom - Mouthwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Wig Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Ee-chan's Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Exclamation Mark - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Arrow Mark - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Novelty Glasses</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Sweet Dreams Eyemask</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Snow Woven Veil</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Pixelated Glasses</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Beard</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Snow Beard</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Season 1 Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Dreambloom Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Echoes of Ember Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Mixing Agent X3</color> <color=#ffe2af>11.5274%</color><br>    <color=#ab85f6>Meowlux Vault Box</color> <color=#ffe2af>11.5274%</color><br>* When you obtain a duplicate Appearance item, it will automatically be converted into a certain number of <color=#9cb9ef>Meowlux Vault Cards</color>.<br><br>The base probability of obtaining a <color=#9cb9ef>[Common Wish]</color> is <color=#ffe2af>86.0000%</color>. When you obtain a <color=#9cb9ef>[Common Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#9cb9ef>Toy - Bubble Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Water Spell X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Sparkler X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Phantom Toy X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Shadow Particles X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Hover Bubble X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Adorable Sculpture X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Imposing Sculpture X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Yellow Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Cyan Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Green Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Purple Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Yellow Sparkler X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Cute Reading Pose X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Clarifying Honeydew Lv.2</color> <color=#ffe2af>7.9365%</color><br>    <color=#9cb9ef>Season 1 Intermediate Materials - Select</color> <color=#ffe2af>3.9683%</color><br>    <color=#9cb9ef>Dreambloom Basic Materials - Select</color> <color=#ffe2af>3.9683%</color><br>    <color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.8095%</color><br>    <color=#9cb9ef>Season 1 Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>    <color=#9cb9ef>Dreambloom Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>    <color=#9cb9ef>Echoes of Ember Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>",
+    "BannerVideo": [
+      "shop/cs_fashion_suit15",
+      "shop/cs_fashion_suit15"
+    ],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "1016": {
+    "Id": 1016,
+    "Name": "Thumping Vigil",
+    "GashaType": 1,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80108,
+    "Note": "绑定池",
+    "Sort": 1016,
+    "Bind": [
+      19,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_14",
+        "ui/textures/gasha/gasha_banner_fashion_8"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_14",
+        "ui/textures/gasha/gasha_banner_fashion_8"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_8"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_09",
+    "BannerTips": "Limited Outfit",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_fishing_8_on",
+      "ui/atlas/gasha/gasha_tab_fishing_8_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003370,
+      50003360,
+      50003390,
+      50003380
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 2,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining a <color=#FF8000>[Rare Wish]</color> is <color=#ffe2af>0.1500%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.5387%</color>. You are guaranteed to obtain a <color=#ffe2af>[Rare Wish]</color> within at most <color=#FF8000>80</color> Wishes. When you obtain a <color=#FF8000>[Rare Wish]</color>, you will receive: <color=#FF8000>Thumping Vigil Outfit Box</color><br><br>The base probability of obtaining an <color=#eed335>[Advanced Wish]</color> is <color=#ffe2af>1.8500%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.6750%</color>. You are guaranteed to obtain an <color=#ffe2af>[Advanced Wish]</color> or higher quality item within at most <color=#eed335>30</color> Wishes. When you obtain an <color=#eed335>[Advanced Wish]</color> or higher quality item through guarantee, there is a <color=#ffe2af>99.8500%</color> probability it is an <color=#eed335>[Advanced Wish]</color>, and a <color=#ffe2af>0.1500%</color> probability it is a <color=#FF8000>[Rare Wish]</color>. When you obtain an <color=#eed335>[Advanced Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.0000%</color><br>    <color=#eed335>Olvera Doll - Headwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Jerrad Doll - Headwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Neon Clef - Backwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Cheer Beat - Backwear</color> <color=#ffe2af>10.0000%</color><br>* Items from <color=#FF8000>[Rare Wish]</color> and <color=#eed335>[Advanced Wish]</color> obtained with unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>* This is the Fashion Wish (Bound) event. In this event, the accumulated Wish count for unclaimed <color=#FF8000>[Rare Wish]</color> and <color=#eed335>[Advanced Wish]</color> (or higher quality items) will continue to carry over within the Fashion Wish (Bound) event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[Intermediate Wish]</color> is <color=#ffe2af>12.0000%</color>. When you obtain an <color=#ab85f6>[Intermediate Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Sunny Day - Top</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Sunny Day - Bottom</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Corgi Plush - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Boarlet Cap</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Owl Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Youthful Hairpin</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Rose Bloom - Mouthwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Wig Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Ee-chan's Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Exclamation Mark - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Arrow Mark - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Novelty Glasses</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Sweet Dreams Eyemask</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Snow Woven Veil</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Pixelated Glasses</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Beard</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Snow Beard</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Season 1 Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Dreambloom Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Echoes of Ember Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Mixing Agent X3</color> <color=#ffe2af>11.5274%</color><br>    <color=#ab85f6>Meowlux Vault Box</color> <color=#ffe2af>11.5274%</color><br>* When you obtain a duplicate Appearance item, it will automatically be converted into a certain number of <color=#9cb9ef>Meowlux Vault Cards</color>.<br><br>The base probability of obtaining a <color=#9cb9ef>[Common Wish]</color> is <color=#ffe2af>86.0000%</color>. When you obtain a <color=#9cb9ef>[Common Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#9cb9ef>Toy - Bubble Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Water Spell X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Sparkler X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Phantom Toy X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Shadow Particles X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Hover Bubble X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Adorable Sculpture X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Imposing Sculpture X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Yellow Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Cyan Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Green Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Purple Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Yellow Sparkler X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Cute Reading Pose X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Clarifying Honeydew Lv.2</color> <color=#ffe2af>7.9365%</color><br>    <color=#9cb9ef>Season 1 Intermediate Materials - Select</color> <color=#ffe2af>3.9683%</color><br>    <color=#9cb9ef>Dreambloom Basic Materials - Select</color> <color=#ffe2af>3.9683%</color><br>    <color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.8095%</color><br>    <color=#9cb9ef>Season 1 Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>    <color=#9cb9ef>Dreambloom Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>    <color=#9cb9ef>Echoes of Ember Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>",
+    "BannerVideo": [
+      "shop/cs_fashion_suit15",
+      "shop/cs_fashion_suit15"
+    ],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
+  "1017": {
+    "Id": 1017,
+    "Name": "",
+    "GashaType": 1,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80109,
+    "Note": "非绑池",
+    "Sort": 1017,
+    "Bind": [
+      21,
+      0
+    ],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_fashion_10"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_fashion_10"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_10"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_10",
+    "BannerTips": "",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_fishing_10_on",
+      "ui/atlas/gasha/gasha_tab_fishing_10_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003530,
+      50003520,
+      50003510,
+      50003500
+    ],
+    "QualityTitle": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 1,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "",
+    "BannerVideo": [
+      "shop/cs_fashion_suit13",
+      "shop/cs_fashion_suit13"
+    ],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "1018": {
+    "Id": 1018,
+    "Name": "",
+    "GashaType": 1,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80109,
+    "Note": "绑定池",
+    "Sort": 1018,
+    "Bind": [
+      21,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_fashion_10"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_fashion_10"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_10"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_10",
+    "BannerTips": "",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_fishing_10_on",
+      "ui/atlas/gasha/gasha_tab_fishing_10_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003530,
+      50003520,
+      50003550,
+      50003540
+    ],
+    "QualityTitle": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 2,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "",
+    "BannerVideo": [
+      "shop/cs_fashion_suit13",
+      "shop/cs_fashion_suit13"
+    ],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
+  "1019": {
+    "Id": 1019,
+    "Name": "",
+    "GashaType": 1,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80110,
+    "Note": "非绑池",
+    "Sort": 1019,
+    "Bind": [
+      23,
+      0
+    ],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_fashion_10"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_fashion_10"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_10"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_10",
+    "BannerTips": "",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_fishing_10_on",
+      "ui/atlas/gasha/gasha_tab_fishing_10_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003530,
+      50003520,
+      50003510,
+      50003500
+    ],
+    "QualityTitle": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 1,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "",
+    "BannerVideo": [
+      "shop/cs_fashion_suit16",
+      "shop/cs_fashion_suit16"
+    ],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "1020": {
+    "Id": 1020,
+    "Name": "",
+    "GashaType": 1,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80110,
+    "Note": "绑定池",
+    "Sort": 1020,
+    "Bind": [
+      23,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_fashion_10"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_fashion_10"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_10"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_10",
+    "BannerTips": "",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_fishing_10_on",
+      "ui/atlas/gasha/gasha_tab_fishing_10_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003530,
+      50003520,
+      50003550,
+      50003540
+    ],
+    "QualityTitle": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 2,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "",
+    "BannerVideo": [
+      "shop/cs_fashion_suit16",
+      "shop/cs_fashion_suit16"
+    ],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
   "2001": {
     "Id": 2001,
     "Name": "Shimmering Beautifish",
@@ -1572,6 +2264,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80101,
     "Note": "非绑池",
     "Sort": 2003,
@@ -1684,6 +2377,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80101,
     "Note": "绑定池",
     "Sort": 2004,
@@ -1796,6 +2490,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80102,
     "Note": "非绑池",
     "Sort": 2003,
@@ -1908,6 +2603,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80102,
     "Note": "绑定池",
     "Sort": 2004,
@@ -2020,6 +2716,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80103,
     "Note": "非绑池",
     "Sort": 2005,
@@ -2132,6 +2829,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80103,
     "Note": "绑定池",
     "Sort": 2006,
@@ -2244,6 +2942,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80104,
     "Note": "非绑池",
     "Sort": 2007,
@@ -2356,6 +3055,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80104,
     "Note": "绑定池",
     "Sort": 2008,
@@ -2468,6 +3168,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80105,
     "Note": "非绑池",
     "Sort": 2009,
@@ -2580,6 +3281,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80105,
     "Note": "绑定池",
     "Sort": 2010,
@@ -2692,6 +3394,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80106,
     "Note": "非绑池",
     "Sort": 2011,
@@ -2804,6 +3507,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80106,
     "Note": "绑定池",
     "Sort": 2012,
@@ -2916,6 +3620,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80107,
     "Note": "非绑池",
     "Sort": 2013,
@@ -3028,6 +3733,7 @@
     "OpenType": 0,
     "FunctionId": 800820,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 80107,
     "Note": "绑定池",
     "Sort": 2014,
@@ -3132,6 +3838,684 @@
       10005
     ]
   },
+  "2015": {
+    "Id": 2015,
+    "Name": "Sonic Escape",
+    "GashaType": 2,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80108,
+    "Note": "非绑池",
+    "Sort": 2015,
+    "Bind": [
+      20,
+      0
+    ],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_14",
+        "ui/textures/gasha/gasha_banner_vehicle_8"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_14",
+        "ui/textures/gasha/gasha_banner_vehicle_8"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_8"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_09",
+    "BannerTips": "Limited Mount",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_vehicle_8_on",
+      "ui/atlas/gasha/gasha_tab_vehicle_8_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003430,
+      50003420,
+      50003410,
+      50003400
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 3,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining a <color=#FF8000>[Rare Wish]</color> is <color=#ffe2af>0.1500%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.5387%</color>. You are guaranteed to obtain a <color=#ffe2af>[Rare Wish]</color> within at most <color=#FF8000>80</color> Wishes. When you obtain a <color=#FF8000>[Rare Wish]</color>, you will receive: <color=#FF8000>Sonic Escape</color><br><br>The base probability of obtaining an <color=#eed335>[Advanced Wish]</color> is <color=#ffe2af>1.8500%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.6750%</color>. You are guaranteed to obtain an <color=#ffe2af>[Advanced Wish]</color> or higher quality item within at most <color=#eed335>30</color> Wishes. When you obtain an <color=#eed335>[Advanced Wish]</color> or higher quality item through guarantee, there is a <color=#ffe2af>99.8500%</color> probability it is an <color=#eed335>[Advanced Wish]</color>, and a <color=#ffe2af>0.1500%</color> probability it is a <color=#FF8000>[Rare Wish]</color>. When you obtain an <color=#eed335>[Advanced Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.0000%</color><br>    <color=#eed335>Olvera Doll - Headwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Jerrad Doll - Headwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Neon Clef - Backwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Cheer Beat - Backwear</color> <color=#ffe2af>10.0000%</color><br>* Items from <color=#FF8000>[Rare Wish]</color> and <color=#eed335>[Advanced Wish]</color> obtained with unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>* This is the Mount Wish event. In this event, the accumulated Wish count for unclaimed <color=#FF8000>[Rare Wish]</color> and <color=#eed335>[Advanced Wish]</color> (or higher quality items) will continue to carry over within the Mount Wish event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[Intermediate Wish]</color> is <color=#ffe2af>12.0000%</color>. When you obtain an <color=#ab85f6>[Intermediate Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Sunny Day - Top</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Sunny Day - Bottom</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Corgi Plush - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Boarlet Cap</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Owl Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Youthful Hairpin</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Rose Bloom - Mouthwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Wig Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Ee-chan's Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Exclamation Mark - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Arrow Mark - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Novelty Glasses</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Sweet Dreams Eyemask</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Snow Woven Veil</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Pixelated Glasses</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Beard</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Snow Beard</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Season 1 Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Dreambloom Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Echoes of Ember Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Mixing Agent X3</color> <color=#ffe2af>11.5274%</color><br>    <color=#ab85f6>Meowlux Vault Box</color> <color=#ffe2af>11.5274%</color><br>* When you obtain a duplicate Appearance item, it will automatically be converted into a certain number of <color=#9cb9ef>Meowlux Vault Cards</color>.<br><br>The base probability of obtaining a <color=#9cb9ef>[Common Wish]</color> is <color=#ffe2af>86.0000%</color>. When you obtain a <color=#9cb9ef>[Common Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#9cb9ef>Toy - Bubble Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Water Spell X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Sparkler X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Phantom Toy X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Shadow Particles X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Hover Bubble X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Adorable Sculpture X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Imposing Sculpture X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Yellow Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Cyan Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Green Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Purple Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Yellow Sparkler X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Cute Reading Pose X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Clarifying Honeydew Lv.2</color> <color=#ffe2af>7.9365%</color><br>    <color=#9cb9ef>Season 1 Intermediate Materials - Select</color> <color=#ffe2af>3.9683%</color><br>    <color=#9cb9ef>Dreambloom Basic Materials - Select</color> <color=#ffe2af>3.9683%</color><br>    <color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.8095%</color><br>    <color=#9cb9ef>Season 1 Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>    <color=#9cb9ef>Dreambloom Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>    <color=#9cb9ef>Echoes of Ember Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>",
+    "BannerVideo": [
+      "vehicle/cs_vehicle_box",
+      "vehicle/cs_vehicle_box"
+    ],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "2016": {
+    "Id": 2016,
+    "Name": "Sonic Escape",
+    "GashaType": 2,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80108,
+    "Note": "绑定池",
+    "Sort": 2016,
+    "Bind": [
+      20,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_14",
+        "ui/textures/gasha/gasha_banner_vehicle_8"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_14",
+        "ui/textures/gasha/gasha_banner_vehicle_8"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_8"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_09",
+    "BannerTips": "Limited Mount",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_vehicle_8_on",
+      "ui/atlas/gasha/gasha_tab_vehicle_8_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003430,
+      50003420,
+      50003450,
+      50003440
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 4,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining a <color=#FF8000>[Rare Wish]</color> is <color=#ffe2af>0.1500%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.5387%</color>. You are guaranteed to obtain a <color=#ffe2af>[Rare Wish]</color> within at most <color=#FF8000>80</color> Wishes. When you obtain a <color=#FF8000>[Rare Wish]</color>, you will receive: <color=#FF8000>Sonic Escape</color><br><br>The base probability of obtaining an <color=#eed335>[Advanced Wish]</color> is <color=#ffe2af>1.8500%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.6750%</color>. You are guaranteed to obtain an <color=#ffe2af>[Advanced Wish]</color> or higher quality item within at most <color=#eed335>30</color> Wishes. When you obtain an <color=#eed335>[Advanced Wish]</color> or higher quality item through guarantee, there is a <color=#ffe2af>99.8500%</color> probability it is an <color=#eed335>[Advanced Wish]</color>, and a <color=#ffe2af>0.1500%</color> probability it is a <color=#FF8000>[Rare Wish]</color>. When you obtain an <color=#eed335>[Advanced Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.0000%</color><br>    <color=#eed335>Olvera Doll - Headwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Jerrad Doll - Headwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Neon Clef - Backwear</color> <color=#ffe2af>10.0000%</color><br>    <color=#eed335>Cheer Beat - Backwear</color> <color=#ffe2af>10.0000%</color><br>* Items from <color=#FF8000>[Rare Wish]</color> and <color=#eed335>[Advanced Wish]</color> obtained with unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>* This is the Mount Wish (Bound) event. In this event, the accumulated Wish count for unclaimed <color=#FF8000>[Rare Wish]</color> and <color=#eed335>[Advanced Wish]</color> (or higher quality items) will continue to carry over within the Mount Wish (Bound) event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[Intermediate Wish]</color> is <color=#ffe2af>12.0000%</color>. When you obtain an <color=#ab85f6>[Intermediate Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Sunny Day - Top</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Sunny Day - Bottom</color> <color=#ffe2af>1.7291%</color><br>    <color=#ab85f6>Corgi Plush - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Boarlet Cap</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Owl Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Youthful Hairpin</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Rose Bloom - Mouthwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Wig Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Ee-chan's Hat</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Exclamation Mark - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Arrow Mark - Headwear</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Novelty Glasses</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Sweet Dreams Eyemask</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Snow Woven Veil</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Pixelated Glasses</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Beard</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Snow Beard</color> <color=#ffe2af>3.7464%</color><br>    <color=#ab85f6>Season 1 Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Dreambloom Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Echoes of Ember Advanced Materials - Select</color> <color=#ffe2af>3.3622%</color><br>    <color=#ab85f6>Mixing Agent X3</color> <color=#ffe2af>11.5274%</color><br>    <color=#ab85f6>Meowlux Vault Box</color> <color=#ffe2af>11.5274%</color><br>* When you obtain a duplicate Appearance item, it will automatically be converted into a certain number of <color=#9cb9ef>Meowlux Vault Cards</color>.<br><br>The base probability of obtaining a <color=#9cb9ef>[Common Wish]</color> is <color=#ffe2af>86.0000%</color>. When you obtain a <color=#9cb9ef>[Common Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#9cb9ef>Toy - Bubble Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Water Spell X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Sparkler X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Phantom Toy X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Shadow Particles X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Hover Bubble X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Adorable Sculpture X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Imposing Sculpture X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Yellow Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Cyan Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Green Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Purple Light Stick X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Yellow Sparkler X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Toy - Cute Reading Pose X3</color> <color=#ffe2af>3.1746%</color><br>    <color=#9cb9ef>Clarifying Honeydew Lv.2</color> <color=#ffe2af>7.9365%</color><br>    <color=#9cb9ef>Season 1 Intermediate Materials - Select</color> <color=#ffe2af>3.9683%</color><br>    <color=#9cb9ef>Dreambloom Basic Materials - Select</color> <color=#ffe2af>3.9683%</color><br>    <color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.8095%</color><br>    <color=#9cb9ef>Season 1 Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>    <color=#9cb9ef>Dreambloom Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>    <color=#9cb9ef>Echoes of Ember Basic Materials - Select</color> <color=#ffe2af>5.2910%</color><br>",
+    "BannerVideo": [
+      "vehicle/cs_vehicle_box",
+      "vehicle/cs_vehicle_box"
+    ],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
+  "2017": {
+    "Id": 2017,
+    "Name": "",
+    "GashaType": 2,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80109,
+    "Note": "非绑池",
+    "Sort": 2017,
+    "Bind": [
+      22,
+      0
+    ],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_vehicle_10"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_vehicle_10"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_10"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_10",
+    "BannerTips": "",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_vehicle_10_on",
+      "ui/atlas/gasha/gasha_tab_vehicle_10_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003590,
+      50003580,
+      50003570,
+      50003560
+    ],
+    "QualityTitle": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 3,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "",
+    "BannerVideo": [
+      "vehicle/cs_vehicle_nabo",
+      "vehicle/cs_vehicle_nabo"
+    ],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "2018": {
+    "Id": 2018,
+    "Name": "",
+    "GashaType": 2,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80109,
+    "Note": "绑定池",
+    "Sort": 2018,
+    "Bind": [
+      22,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_vehicle_10"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_vehicle_10"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_10"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_10",
+    "BannerTips": "",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_vehicle_10_on",
+      "ui/atlas/gasha/gasha_tab_vehicle_10_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003590,
+      50003580,
+      50003610,
+      50003600
+    ],
+    "QualityTitle": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 4,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "",
+    "BannerVideo": [
+      "vehicle/cs_vehicle_nabo",
+      "vehicle/cs_vehicle_nabo"
+    ],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
+  "2019": {
+    "Id": 2019,
+    "Name": "",
+    "GashaType": 2,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80110,
+    "Note": "非绑池",
+    "Sort": 2019,
+    "Bind": [
+      24,
+      0
+    ],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_vehicle_10"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_vehicle_10"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_10"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_10",
+    "BannerTips": "",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_vehicle_10_on",
+      "ui/atlas/gasha/gasha_tab_vehicle_10_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003590,
+      50003580,
+      50003570,
+      50003560
+    ],
+    "QualityTitle": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 3,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "",
+    "BannerVideo": [
+      "vehicle/cs_vehicle_chair",
+      "vehicle/cs_vehicle_chair"
+    ],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "2020": {
+    "Id": 2020,
+    "Name": "",
+    "GashaType": 2,
+    "HelpSys": 30029,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 80110,
+    "Note": "绑定池",
+    "Sort": 2020,
+    "Bind": [
+      24,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_vehicle_10"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_15",
+        "ui/textures/gasha/gasha_banner_vehicle_10"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_10"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_10",
+    "BannerTips": "",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_vehicle_10_on",
+      "ui/atlas/gasha/gasha_tab_vehicle_10_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003590,
+      50003580,
+      50003610,
+      50003600
+    ],
+    "QualityTitle": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 4,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "",
+    "BannerVideo": [
+      "vehicle/cs_vehicle_chair",
+      "vehicle/cs_vehicle_chair"
+    ],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
   "3003": {
     "Id": 3003,
     "Name": "Seabreeze Memories",
@@ -3140,9 +4524,10 @@
     "OpenType": 1,
     "FunctionId": 800821,
     "Work": 1,
-    "TimerId": 10201,
+    "Permanent": 0,
+    "TimerId": 10301,
     "Note": "意志池",
-    "Sort": 2,
+    "Sort": 3,
     "Bind": [
       5,
       1
@@ -3259,6 +4644,7 @@
     "OpenType": 1,
     "FunctionId": 800821,
     "Work": 0,
+    "Permanent": 0,
     "TimerId": 19101,
     "Note": "意志池",
     "Sort": 3003,
@@ -3378,9 +4764,10 @@
     "OpenType": 1,
     "FunctionId": 800821,
     "Work": 1,
-    "TimerId": 10201,
+    "Permanent": 0,
+    "TimerId": 10301,
     "Note": "意志池",
-    "Sort": 1,
+    "Sort": 2,
     "Bind": [
       11,
       1
@@ -3489,6 +4876,126 @@
       10005
     ]
   },
+  "3004": {
+    "Id": 3004,
+    "Name": "Ember Memories",
+    "GashaType": 3,
+    "HelpSys": 30035,
+    "OpenType": 1,
+    "FunctionId": 800821,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 10301,
+    "Note": "意志池",
+    "Sort": 1,
+    "Bind": [
+      99,
+      1
+    ],
+    "Cost": [
+      1070031,
+      1
+    ],
+    "CostSecond": [
+      1070031,
+      10
+    ],
+    "MallItemId": 811078,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_01",
+        "ui/textures/gasha/gasha_banner_battle_s3"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_01",
+        "ui/textures/gasha/gasha_banner_battle_s3"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_battle_banner_tpl"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_battle_s3",
+    "BannerTips": "Ember Memories",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_battle_s3_on",
+      "ui/atlas/gasha/gasha_tab_battle_s3_off"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50003490,
+      50003480,
+      50003470,
+      50003460
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.65%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.20% (Total with Guarantee: 4.75%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.35%)"
+    ],
+    "IfWish": 1,
+    "WishItem": [
+      3010120,
+      3010121,
+      3010122,
+      3010123
+    ],
+    "WishItemPic": [
+      "ui/textures/gasha/gasha_battle_card_s3_1",
+      "ui/textures/gasha/gasha_battle_card_s3_2",
+      "ui/textures/gasha/gasha_battle_card_s3_3",
+      "ui/textures/gasha/gasha_battle_card_s3_4"
+    ],
+    "WishPercent": 10000,
+    "WishNum": 1,
+    "WishLimit": 1,
+    "WishLimitTime": 80301,
+    "ResonancePrefab": "ui/prefabs/gasha/gasha_illusion_fore_sub_4",
+    "ShareGuarantee": 7,
+    "ShopFunc": 0,
+    "ShopIcon": "",
+    "PoolDesc": "In this Will Wish:<br>The base probability to obtain an <color=#FF8000>[SSR Wish]</color> is <color=#ffe2af>0.1500%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.3541%</color>. You are guaranteed to obtain an <color=#ffe2af>[SSR Wish]</color> within <color=#FF8000>80</color> draws. When obtaining an <color=#FF8000>[SSR Wish]</color>, you will randomly receive one of the following items with equal probability: <br>    <color=#FF8000>Will - Denvel</color><br>    <color=#FF8000>Will - Igoreus</color><br>    <color=#FF8000>Will - Plague Nappo</color><br>    <color=#FF8000>Will - Kartgriff</color><br>※When obtaining an <color=#FF8000>[SSR Wish]</color>, if you have already <color=#FF8000>resonated</color> with any Will in the prize pool, you will receive that corresponding Will with a <color=#ffe2af>100%</color><br> chance. ※The current event is \"Will Wish - Memories of Ember\". In this event, the pity count for <color=#FF8000>[SSR Wish]</color>, as well as for <color=#eed335>[SR Wish]</color> and higher-grade Wishes, will continue to carry over within the \"Will Wish - Memories of Ember\" event. These counts are calculated independently from other Wish types and do not affect one another.<br><br>The base probability of obtaining an <color=#eed335>[SR Wish]</color> is <color=#ffe2af>1.2000%</color>, with a total probability (including guarantee) of <color=#ffe2af>4.7501%</color>. You are guaranteed to obtain an <color=#ffe2af>[SR Wish]</color> or higher-quality item for a maximum of <color=#eed335>20</color> draws. When you obtain an <color=#eed335>[SR Wish]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.8500%</color> chance it will be an <color=#eed335>[SR Wish]</color> and a <color=#ffe2af>0.1500%</color> chance it will be an <color=#FF8000>[SSR Wish]</color>. When obtaining an <color=#eed335>[SR Wish]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br>    <color=#eed335>Will - Predator Spider</color> <color=#ffe2af>7.1429%</color><br>    <color=#eed335>Will - Rebel King</color> <color=#ffe2af>7.1429%</color><br>    <color=#eed335>Will - Void Watcher</color> <color=#ffe2af>7.1429%</color><br>    <color=#eed335>Will - Ridge Fang</color> <color=#ffe2af>7.1429%</color><br>    <color=#eed335>Will - Bloodthirsty Furball</color> <color=#ffe2af>7.1429%</color><br>    <color=#eed335>Will - Basilisk</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Blackstone Captain</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Goblin Chief</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Cabbage Kingpin</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Crimson Foxen</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Flamehorn</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Golden Juggernaut</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Frost Ogre</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Inferno Ogre</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Phantom Arachnocrab</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Brigand Leader</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Venobzzar Incubator</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Muku Chief</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Iron Fang</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Storm Goblin King</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Tempest Ogre</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Celestial Flier</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Lizardman King</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Goblin King</color> <color=#ffe2af>3.2143%</color><br>    <color=#eed335>Will - Muku King</color> <color=#ffe2af>3.2143%</color><br><br>The base probability of obtaining an <color=#ab85f6>[R Wish]</color> is <color=#ffe2af>12.0000%</color>. When you obtain an <color=#ab85f6>[R Wish]</color>, you will randomly receive one of the following items based on their probabilities: <br>    <color=#ab85f6>Will - Killer Arachnocrab</color> <color=#ffe2af>5.2632%</color><br>    <color=#ab85f6>Will - Verdant Fang</color> <color=#ffe2af>5.2632%</color><br>    <color=#ab85f6>Will - Man-Eating Furball</color> <color=#ffe2af>5.2632%</color><br>    <color=#ab85f6>Will - Dogorman</color> <color=#ffe2af>5.2632%</color><br>    <color=#ab85f6>Will - Sanctuary Eye</color> <color=#ffe2af>5.2632%</color><br>    <color=#ab85f6>Will - Bluespine Lizard</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Blackstone Commander</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Blackstone Vanguard</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Goblin Trickster</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Goblin Shaman</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Gloomy Cabbage</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Ruthless Cabbage</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Blackfire Foxen</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Emerald Caprahorn</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Boarrier Tyrant</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Goblin Guard</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Goblin Warrior</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Goblin Mage</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Mighty Colossus</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Void Arachnocrab</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Brigand Scout Leader</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Brigand Guard Captain</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Void Bzzar</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Muku Warrior</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Muku Vanguard</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Great Warhog</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Storm Goblin Warrior</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Shadow Captain</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Shadow Commander</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Lizardman Hunter</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Lizardman Mage</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Jungle Goblin Warrior</color> <color=#ffe2af>2.6316%</color><br>    <color=#ab85f6>Will - Muku Scout</color> <color=#ffe2af>2.6316%</color><br><br>The base probability of obtaining a <color=#9cb9ef>[Common Wish]</color> is <color=#ffe2af>86.6500%</color>. When you obtain a <color=#9cb9ef>[Common Wish]</color>, you will randomly receive one of the following items according to the corresponding probabilities:<br>    <color=#9cb9ef>Stunt Will - Fragment ×10</color> <color=#ffe2af>9.0909%</color><br>    <color=#9cb9ef>Stunt Will - Fragment ×5</color> <color=#ffe2af>18.1818%</color><br>    <color=#9cb9ef>Stunt Will - Fragment ×2</color> <color=#ffe2af>27.2727%</color><br>    <color=#9cb9ef>Stunt Will - Fragment ×1</color> <color=#ffe2af>45.4546%</color><br>",
+    "BannerVideo": [],
+    "Currency": [
+      1070031,
+      10005
+    ]
+  },
   "4001": {
     "Id": 4001,
     "Name": "Renewal Light",
@@ -3497,6 +5004,7 @@
     "OpenType": 2,
     "FunctionId": 800822,
     "Work": 1,
+    "Permanent": 0,
     "TimerId": 40047,
     "Note": "绑定池",
     "Sort": 999,
@@ -3595,6 +5103,116 @@
     "BannerVideo": [],
     "Currency": [
       1070119,
+      10003
+    ]
+  },
+  "4002": {
+    "Id": 4002,
+    "Name": "Starlit Bloom",
+    "GashaType": 1,
+    "HelpSys": 300292,
+    "OpenType": 3,
+    "FunctionId": 800824,
+    "Work": 1,
+    "Permanent": 0,
+    "TimerId": 900004,
+    "Note": "绑定池",
+    "Sort": 998,
+    "Bind": [
+      998,
+      1
+    ],
+    "Cost": [
+      1070122,
+      1
+    ],
+    "CostSecond": [
+      1070122,
+      10
+    ],
+    "MallItemId": 3040048,
+    "Limit": 2000,
+    "LimitRefreshTimer": 100,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_ip_01",
+        "ui/textures/gasha/gasha_banner_ip_1"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_ip_01",
+        "ui/textures/gasha/gasha_banner_ip_1"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_ip_tpl_1"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_ip_01",
+    "BannerTips": "Event Outfit",
+    "Sticker": [
+      "ui/atlas/gasha/gasha_tab_fishing_ip_on_1",
+      "ui/atlas/gasha/gasha_tab_fishing_ip_off_1"
+    ],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      70122250,
+      70122240,
+      70122230,
+      70122220
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [
+      "item_icons_gasha_01",
+      "item_icons_gasha_02",
+      "item_icons_gasha_04",
+      "item_icons_gasha_05"
+    ],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "  ",
+      "  ",
+      "Base Probability: 0.15% (Total with Guarantee: 1.2185%)."
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishItemPic": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 998,
+    "ShopFunc": 819306,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "  ",
+    "BannerVideo": [],
+    "Currency": [
+      1070122,
       10003
     ]
   }

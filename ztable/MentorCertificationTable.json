@@ -1,0 +1,226 @@
+{
+  "1001": {
+    "Id": 1001,
+    "PublicTarget": 100030110,
+    "Num": 1,
+    "Describe": "Clear all 30 Trial stages in all three roles with full stars",
+    "SeasonId": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [],
+    "TextAdd": "指导者考核条件",
+    "Sort": 1001,
+    "TypeIcon": 0
+  },
+  "1002": {
+    "Id": 1002,
+    "PublicTarget": 101030309,
+    "Num": 3650,
+    "Describe": "Achieve a total score of over {*val*} in Master",
+    "SeasonId": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ],
+    "TextAdd": "指导者考核条件",
+    "Sort": 1002,
+    "TypeIcon": 0
+  },
+  "1003": {
+    "Id": 1003,
+    "PublicTarget": 500101,
+    "Num": 6,
+    "Describe": "Defeat a 20-player Raid boss {*val*} time(s) this season",
+    "SeasonId": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      95,
+      5,
+      341
+    ],
+    "TextAdd": "指导者考核条件",
+    "Sort": 1003,
+    "TypeIcon": 0
+  },
+  "1004": {
+    "Id": 1004,
+    "PublicTarget": 100010705,
+    "Num": 1,
+    "Describe": "Upgrade any 3 Power Core effects to Lv.5",
+    "SeasonId": 0,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      104210
+    ],
+    "TextAdd": "指导者考核条件",
+    "Sort": 1004,
+    "TypeIcon": 0
+  },
+  "1005": {
+    "Id": 1005,
+    "PublicTarget": 100010501,
+    "Num": 300,
+    "Describe": "Upgrade class skills 300 times",
+    "SeasonId": 0,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200500
+    ],
+    "TextAdd": "指导者考核条件",
+    "Sort": 1005,
+    "TypeIcon": 0
+  },
+  "1006": {
+    "Id": 1006,
+    "PublicTarget": 100010605,
+    "Num": 1,
+    "Describe": "Refine all equipment to Lv.15",
+    "SeasonId": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      504026
+    ],
+    "TextAdd": "指导者考核条件",
+    "Sort": 1006,
+    "TypeIcon": 0
+  },
+  "1007": {
+    "Id": 1007,
+    "PublicTarget": 500115,
+    "Num": 1,
+    "Describe": "Upgrade 2 Battle Imagines to Tier 5",
+    "SeasonId": 0,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200501
+    ],
+    "TextAdd": "指导者考核条件",
+    "Sort": 1007,
+    "TypeIcon": 0
+  },
+  "2031": {
+    "Id": 2031,
+    "PublicTarget": 500108,
+    "Num": 55000,
+    "Describe": "Ability Score: {*val*}",
+    "SeasonId": 3,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      200700
+    ],
+    "TextAdd": "指导者赛季认证条件S3",
+    "Sort": 2031,
+    "TypeIcon": 0
+  },
+  "2032": {
+    "Id": 2032,
+    "PublicTarget": 103020801,
+    "Num": 2000,
+    "Describe": "Achieve a total score of over {*val*} in Master this season",
+    "SeasonId": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      4,
+      505965
+    ],
+    "TextAdd": "指导者赛季认证条件S3",
+    "Sort": 2032,
+    "TypeIcon": 0
+  },
+  "2033": {
+    "Id": 2033,
+    "PublicTarget": 103020104,
+    "Num": 1,
+    "Describe": "Clear Stimen Vaults Floor 40 this season",
+    "SeasonId": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      503376
+    ],
+    "TextAdd": "指导者赛季认证条件S3",
+    "Sort": 2033,
+    "TypeIcon": 0
+  },
+  "2034": {
+    "Id": 2034,
+    "PublicTarget": 500111,
+    "Num": 10,
+    "Describe": "Obtain {*val*} Echoes of Ember - Superior Achievement Trophy(ies)",
+    "SeasonId": 3,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800503
+    ],
+    "TextAdd": "指导者赛季认证条件S3",
+    "Sort": 2034,
+    "TypeIcon": 0
+  },
+  "2035": {
+    "Id": 2035,
+    "PublicTarget": 103040404,
+    "Num": 3,
+    "Describe": "Defeat {*val*} Elite monster(s) this season",
+    "SeasonId": 3,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      100805
+    ],
+    "TextAdd": "指导者赛季认证条件S3",
+    "Sort": 2035,
+    "TypeIcon": 0
+  },
+  "2036": {
+    "Id": 2036,
+    "PublicTarget": 500105,
+    "Num": 3,
+    "Describe": "Objective not yet available",
+    "SeasonId": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      95,
+      5,
+      341
+    ],
+    "TextAdd": "Raid考核",
+    "Sort": 2036,
+    "TypeIcon": 0
+  },
+  "2037": {
+    "Id": 2037,
+    "PublicTarget": 500106,
+    "Num": 3,
+    "Describe": "Objective not yet available",
+    "SeasonId": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      95,
+      5,
+      341
+    ],
+    "TextAdd": "Raid考核",
+    "Sort": 2037,
+    "TypeIcon": 0
+  },
+  "2038": {
+    "Id": 2038,
+    "PublicTarget": 500107,
+    "Num": 3,
+    "Describe": "Objective not yet available",
+    "SeasonId": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      95,
+      5,
+      341
+    ],
+    "TextAdd": "Raid考核",
+    "Sort": 2038,
+    "TypeIcon": 0
+  }
+}

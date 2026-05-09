@@ -96,7 +96,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_12",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_12",
     "Episode": 9070011,
-    "IsHide": true
+    "IsHide": false
   },
   "9070012": {
     "Id": 9070012,
@@ -105,7 +105,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_13",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_13",
     "Episode": 9070012,
-    "IsHide": true
+    "IsHide": false
   },
   "9070013": {
     "Id": 9070013,
@@ -114,7 +114,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_14",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_14",
     "Episode": 9070013,
-    "IsHide": true
+    "IsHide": false
   },
   "9070014": {
     "Id": 9070014,
@@ -123,7 +123,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_15",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_15",
     "Episode": 9070014,
-    "IsHide": true
+    "IsHide": false
   },
   "9070015": {
     "Id": 9070015,
@@ -132,7 +132,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_16",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_16",
     "Episode": 9070015,
-    "IsHide": true
+    "IsHide": false
   },
   "9070016": {
     "Id": 9070016,
@@ -141,7 +141,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_17",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_17",
     "Episode": 9070016,
-    "IsHide": true
+    "IsHide": false
   },
   "9070017": {
     "Id": 9070017,
@@ -150,7 +150,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_18",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_18",
     "Episode": 9070017,
-    "IsHide": true
+    "IsHide": false
   },
   "9070018": {
     "Id": 9070018,
@@ -159,7 +159,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_19",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_19",
     "Episode": 9070018,
-    "IsHide": true
+    "IsHide": false
   },
   "9070019": {
     "Id": 9070019,
@@ -168,7 +168,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_20",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_20",
     "Episode": 9070019,
-    "IsHide": true
+    "IsHide": false
   },
   "9070020": {
     "Id": 9070020,
@@ -177,7 +177,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_21",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_21",
     "Episode": 9070020,
-    "IsHide": true
+    "IsHide": false
   },
   "9070021": {
     "Id": 9070021,
@@ -186,7 +186,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_22",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_22",
     "Episode": 9070021,
-    "IsHide": true
+    "IsHide": false
   },
   "9070022": {
     "Id": 9070022,
@@ -195,7 +195,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_23",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_23",
     "Episode": 9070022,
-    "IsHide": true
+    "IsHide": false
   },
   "9070023": {
     "Id": 9070023,
@@ -204,7 +204,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_24",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_24",
     "Episode": 9070023,
-    "IsHide": true
+    "IsHide": false
   },
   "9070024": {
     "Id": 9070024,
@@ -213,7 +213,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_25",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_25",
     "Episode": 9070024,
-    "IsHide": true
+    "IsHide": false
   },
   "9070025": {
     "Id": 9070025,
@@ -222,7 +222,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_26",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_26",
     "Episode": 9070025,
-    "IsHide": true
+    "IsHide": false
   },
   "9070026": {
     "Id": 9070026,
@@ -231,7 +231,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_27",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_27",
     "Episode": 9070026,
-    "IsHide": true
+    "IsHide": false
   },
   "9070027": {
     "Id": 9070027,
@@ -240,7 +240,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_28",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_28",
     "Episode": 9070027,
-    "IsHide": true
+    "IsHide": false
   },
   "9070028": {
     "Id": 9070028,
@@ -249,7 +249,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_29",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_29",
     "Episode": 9070028,
-    "IsHide": true
+    "IsHide": false
   },
   "9070029": {
     "Id": 9070029,
@@ -258,7 +258,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_30",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_30",
     "Episode": 9070029,
-    "IsHide": true
+    "IsHide": false
   },
   "9070030": {
     "Id": 9070030,
@@ -267,7 +267,7 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_31",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_31",
     "Episode": 9070030,
-    "IsHide": true
+    "IsHide": false
   },
   "9070031": {
     "Id": 9070031,
@@ -276,6 +276,6 @@
     "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_32",
     "Resources": "ui/textures/handbook_month_card/monthly_reward_card_32",
     "Episode": 9070031,
-    "IsHide": true
+    "IsHide": false
   }
 }

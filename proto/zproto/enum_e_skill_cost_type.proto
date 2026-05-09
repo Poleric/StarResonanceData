@@ -8,4 +8,5 @@ enum ESkillCostType {
 	SkillCostBuff = 2;
 	SkillCostProp = 3;
 	SkillCostResPercent = 4;
+	SkillCostAttrPercent = 5;
 }

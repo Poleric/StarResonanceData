@@ -16,6 +16,8 @@ enum EAccessType {
 	AccessInZone = 19;
 	AccessNotInZone = 20;
 	AccessFinishQuestStep = 21;
+	AccessQuestFinish = 40;
+	AccessNotInTimer = 42;
 	AccessTimeLimit = 80;
 	AccessMastery = 82;
 	AccessSex = 1000;

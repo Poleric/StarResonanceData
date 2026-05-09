@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+message StoryQuestInfo {
+	int32 questId = 1 [json_name = "questId"];
+	int32 questStepId = 2 [json_name = "questStepId"];
+	int32 storyId = 3 [json_name = "storyId"];
+	int32 storyNodeId = 4 [json_name = "storyNodeId"];
+}

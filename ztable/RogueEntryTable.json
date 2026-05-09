@@ -4067,7 +4067,7 @@
     "EntryId": 215,
     "EntryName": "Stormblade - Phantom Edgewind",
     "BuffId": 3050160,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -4113,7 +4113,7 @@
     "EntryId": 216,
     "EntryName": "Stormblade - Surging Thunderseal",
     "BuffId": 3050170,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -4159,7 +4159,7 @@
     "EntryId": 217,
     "EntryName": "Stormblade - Iai Flash",
     "BuffId": 3050180,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -4205,7 +4205,7 @@
     "EntryId": 218,
     "EntryName": "Stormblade - Ultimate Violent Slash",
     "BuffId": 3050190,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -4251,7 +4251,7 @@
     "EntryId": 219,
     "EntryName": "Stormblade - Dragonfall Echo",
     "BuffId": 3050200,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -4297,7 +4297,7 @@
     "EntryId": 220,
     "EntryName": "Stormblade - Thunderclap Reset",
     "BuffId": 3050210,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -4343,7 +4343,7 @@
     "EntryId": 221,
     "EntryName": "Stormblade - Lingering Thunder Cut",
     "BuffId": 3050220,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -4389,7 +4389,7 @@
     "EntryId": 222,
     "EntryName": "Stormblade - Overwhelming Current",
     "BuffId": 3050230,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -4435,7 +4435,7 @@
     "EntryId": 223,
     "EntryName": "Stormblade - Moonstrike Scythe Dance",
     "BuffId": 3050240,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -4481,7 +4481,7 @@
     "EntryId": 224,
     "EntryName": "Stormblade - Stacking Divine Retribution",
     "BuffId": 3050250,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -4527,7 +4527,7 @@
     "EntryId": 225,
     "EntryName": "Stormblade - Moonstrike Sync",
     "BuffId": 3050260,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -4573,7 +4573,7 @@
     "EntryId": 226,
     "EntryName": "Stormblade - Expanded Moonstrike",
     "BuffId": 3050270,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -4619,7 +4619,7 @@
     "EntryId": 227,
     "EntryName": "Stormblade - Quintuple Thunderstorm",
     "BuffId": 3050280,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -4665,7 +4665,7 @@
     "EntryId": 228,
     "EntryName": "Stormblade - Instinctive Divine Retribution",
     "BuffId": 3050290,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -4711,7 +4711,7 @@
     "EntryId": 229,
     "EntryName": "Stormblade - Lucky Thunderstrike",
     "BuffId": 3050300,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -4757,7 +4757,7 @@
     "EntryId": 230,
     "EntryName": "Stormblade - Luck Multiplier",
     "BuffId": 3050310,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -4803,7 +4803,7 @@
     "EntryId": 231,
     "EntryName": "Frost Mage - Iceflow Pulse",
     "BuffId": 3052280,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -4849,7 +4849,7 @@
     "EntryId": 232,
     "EntryName": "Frost Mage - Pulse Reduction",
     "BuffId": 3052290,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -4895,7 +4895,7 @@
     "EntryId": 233,
     "EntryName": "Frost Mage - Permafrost Might",
     "BuffId": 3052300,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -4941,7 +4941,7 @@
     "EntryId": 234,
     "EntryName": "Frost Mage - Stacking Frostbolts",
     "BuffId": 3052310,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -4987,7 +4987,7 @@
     "EntryId": 235,
     "EntryName": "Frost Mage - Frigid Infusion",
     "BuffId": 3052240,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -5033,7 +5033,7 @@
     "EntryId": 236,
     "EntryName": "Frost Mage - Deca-Vortex",
     "BuffId": 3052250,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -5079,7 +5079,7 @@
     "EntryId": 237,
     "EntryName": "Frost Mage - Cascading Gyre",
     "BuffId": 3052260,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -5125,7 +5125,7 @@
     "EntryId": 238,
     "EntryName": "Frost Mage - Shatter Vortex",
     "BuffId": 3052270,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -5171,7 +5171,7 @@
     "EntryId": 239,
     "EntryName": "Frost Mage - Orbital Lance",
     "BuffId": 3052200,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -5217,7 +5217,7 @@
     "EntryId": 240,
     "EntryName": "Frost Mage - Lance Count",
     "BuffId": 3052210,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -5263,7 +5263,7 @@
     "EntryId": 241,
     "EntryName": "Frost Mage - Dual Frost Crystal Lance",
     "BuffId": 3052220,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -5309,7 +5309,7 @@
     "EntryId": 242,
     "EntryName": "Frost Mage - Lance Reduction",
     "BuffId": 3052230,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -5355,7 +5355,7 @@
     "EntryId": 243,
     "EntryName": "Frost Mage - Orbital Tempest",
     "BuffId": 3052160,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -5401,7 +5401,7 @@
     "EntryId": 244,
     "EntryName": "Frost Mage - Triple Storm",
     "BuffId": 3052170,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -5447,7 +5447,7 @@
     "EntryId": 245,
     "EntryName": "Frost Mage - Final Meteor",
     "BuffId": 3052180,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -5493,7 +5493,7 @@
     "EntryId": 246,
     "EntryName": "Frost Mage - Eternal Winter",
     "BuffId": 3052190,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -5539,7 +5539,7 @@
     "EntryId": 247,
     "EntryName": "Marksman - Call of the Wild",
     "BuffId": 3053160,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -5585,7 +5585,7 @@
     "EntryId": 248,
     "EntryName": "Marksman - Legendary Companion",
     "BuffId": 3053170,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -5631,7 +5631,7 @@
     "EntryId": 249,
     "EntryName": "Marksman - Wolf's Focus",
     "BuffId": 3053180,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -5677,7 +5677,7 @@
     "EntryId": 250,
     "EntryName": "Marksman - Primal Power",
     "BuffId": 3053190,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -5723,7 +5723,7 @@
     "EntryId": 251,
     "EntryName": "Marksman - Multiplying Arrow Rain",
     "BuffId": 3053200,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -5769,7 +5769,7 @@
     "EntryId": 252,
     "EntryName": "Marksman - Tidal Fury",
     "BuffId": 3053210,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -5815,7 +5815,7 @@
     "EntryId": 253,
     "EntryName": "Marksman - Demon Wolf Beast",
     "BuffId": 3053220,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -5861,7 +5861,7 @@
     "EntryId": 254,
     "EntryName": "Marksman - Storm Tamer",
     "BuffId": 3053230,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -5907,7 +5907,7 @@
     "EntryId": 255,
     "EntryName": "Marksman - Falcon's Gift",
     "BuffId": 3053240,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -5953,7 +5953,7 @@
     "EntryId": 256,
     "EntryName": "Marksman - Boundless Volley",
     "BuffId": 3053250,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -5999,7 +5999,7 @@
     "EntryId": 257,
     "EntryName": "Marksman - Eagle-Eyed Focus",
     "BuffId": 3053260,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -6045,7 +6045,7 @@
     "EntryId": 258,
     "EntryName": "Marksman - Twin Talon Strike",
     "BuffId": 3053270,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -6091,7 +6091,7 @@
     "EntryId": 259,
     "EntryName": "Marksman - Charged Triple Shot",
     "BuffId": 3053280,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -6137,7 +6137,7 @@
     "EntryId": 260,
     "EntryName": "Marksman - Charged Execution",
     "BuffId": 3053290,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -6183,7 +6183,7 @@
     "EntryId": 261,
     "EntryName": "Marksman - Crit CD Reduction",
     "BuffId": 3053300,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -6229,7 +6229,7 @@
     "EntryId": 262,
     "EntryName": "Marksman - Devastating Bombardment",
     "BuffId": 3053310,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -6275,7 +6275,7 @@
     "EntryId": 263,
     "EntryName": "Verdant Oracle - Pulsing Thorns",
     "BuffId": 3056220,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -6321,7 +6321,7 @@
     "EntryId": 264,
     "EntryName": "Verdant Oracle - Wild Growth",
     "BuffId": 3056230,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -6367,7 +6367,7 @@
     "EntryId": 265,
     "EntryName": "Verdant Oracle - Critical Pulse",
     "BuffId": 3056240,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -6413,7 +6413,7 @@
     "EntryId": 266,
     "EntryName": "Verdant Oracle - Instinctive Assault",
     "BuffId": 3056250,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -6459,7 +6459,7 @@
     "EntryId": 267,
     "EntryName": "Verdant Oracle - Scattering Infusion",
     "BuffId": 3056260,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -6505,7 +6505,7 @@
     "EntryId": 268,
     "EntryName": "Verdant Oracle - Stag Assault Buff",
     "BuffId": 3056270,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -6551,7 +6551,7 @@
     "EntryId": 269,
     "EntryName": "Verdant Oracle - Tenfold Charge",
     "BuffId": 3056280,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -6597,7 +6597,7 @@
     "EntryId": 270,
     "EntryName": "Verdant Oracle - Luck Stacks",
     "BuffId": 3056290,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -6643,7 +6643,7 @@
     "EntryId": 271,
     "EntryName": "Verdant Oracle - Nourish Burst",
     "BuffId": 3056300,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -6689,7 +6689,7 @@
     "EntryId": 272,
     "EntryName": "Verdant Oracle - Wishing Bud",
     "BuffId": 3056310,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -6735,7 +6735,7 @@
     "EntryId": 273,
     "EntryName": "Verdant Oracle - Full Bloom CD Reduction",
     "BuffId": 3056320,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -6781,7 +6781,7 @@
     "EntryId": 274,
     "EntryName": "Verdant Oracle - Nourish Multiplier",
     "BuffId": 3056330,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -6827,7 +6827,7 @@
     "EntryId": 275,
     "EntryName": "Verdant Oracle - High-Cost Special",
     "BuffId": 3056340,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -6873,7 +6873,7 @@
     "EntryId": 276,
     "EntryName": "Verdant Oracle - Perpetual Vitality",
     "BuffId": 3056350,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -6919,7 +6919,7 @@
     "EntryId": 277,
     "EntryName": "Verdant Oracle - Unending Magic",
     "BuffId": 3056360,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -6965,7 +6965,7 @@
     "EntryId": 278,
     "EntryName": "Verdant Oracle - Siphon CD Reduction",
     "BuffId": 3056370,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -7011,7 +7011,7 @@
     "EntryId": 279,
     "EntryName": "Wind Knight - Wind Gate Damage Buff",
     "BuffId": 3051160,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -7057,7 +7057,7 @@
     "EntryId": 280,
     "EntryName": "Wind Knight - Drake Cannon Wind Gate",
     "BuffId": 3051170,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -7103,7 +7103,7 @@
     "EntryId": 281,
     "EntryName": "Wind Knight - Double Wind Gate",
     "BuffId": 3051180,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -7149,7 +7149,7 @@
     "EntryId": 282,
     "EntryName": "Wind Knight - Extreme Galeform",
     "BuffId": 3051190,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -7195,7 +7195,7 @@
     "EntryId": 283,
     "EntryName": "Wind Knight - Spiral Breach Pursuit",
     "BuffId": 3051200,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -7241,7 +7241,7 @@
     "EntryId": 284,
     "EntryName": "Wind Knight - Courage Crit Damage",
     "BuffId": 3051210,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -7287,7 +7287,7 @@
     "EntryId": 285,
     "EntryName": "Wind Knight - Spiral CD Reduction",
     "BuffId": 3051220,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -7333,7 +7333,7 @@
     "EntryId": 286,
     "EntryName": "Wind Knight - Wind Essence Siphon",
     "BuffId": 3051230,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -7379,7 +7379,7 @@
     "EntryId": 287,
     "EntryName": "Wind Knight - Sever Wind Summoning",
     "BuffId": 3051240,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -7425,7 +7425,7 @@
     "EntryId": 288,
     "EntryName": "Wind Knight - Sevenfold Tornado",
     "BuffId": 3051250,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -7471,7 +7471,7 @@
     "EntryId": 289,
     "EntryName": "Wind Knight - Extreme Instant Edge",
     "BuffId": 3051260,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -7517,7 +7517,7 @@
     "EntryId": 290,
     "EntryName": "Wind Knight - Wind Fury Celerity",
     "BuffId": 3051270,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -7563,7 +7563,7 @@
     "EntryId": 291,
     "EntryName": "Wind Knight - Skyfall Recharge",
     "BuffId": 3051280,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -7609,7 +7609,7 @@
     "EntryId": 292,
     "EntryName": "Wind Knight - Self-Generating Sharpness",
     "BuffId": 3051290,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -7655,7 +7655,7 @@
     "EntryId": 293,
     "EntryName": "Wind Knight - Instant Edge Sharp Damage",
     "BuffId": 3051300,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -7701,7 +7701,7 @@
     "EntryId": 294,
     "EntryName": "Wind Knight - Wind Fury Triple Stack",
     "BuffId": 3051310,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -7747,7 +7747,7 @@
     "EntryId": 295,
     "EntryName": "Shield Knight - Tenfold Spinning Shield",
     "BuffId": 3054200,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -7793,7 +7793,7 @@
     "EntryId": 296,
     "EntryName": "Shield Knight - Burning Judgment",
     "BuffId": 3054210,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -7839,7 +7839,7 @@
     "EntryId": 297,
     "EntryName": "Shield Knight - Ultimate Judgment",
     "BuffId": 3054220,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -7885,7 +7885,7 @@
     "EntryId": 298,
     "EntryName": "Shield Knight - Shield Attack Stack",
     "BuffId": 3054230,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -7931,7 +7931,7 @@
     "EntryId": 299,
     "EntryName": "Shield Knight - Reckoning Crit",
     "BuffId": 3054240,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -7977,7 +7977,7 @@
     "EntryId": 300,
     "EntryName": "Shield Knight - Guard Reckoning",
     "BuffId": 3054250,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -8023,7 +8023,7 @@
     "EntryId": 301,
     "EntryName": "Shield Knight - Holy Reckoning",
     "BuffId": 3054260,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -8069,7 +8069,7 @@
     "EntryId": 302,
     "EntryName": "Shield Knight - Holy Strike",
     "BuffId": 3054270,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -8115,7 +8115,7 @@
     "EntryId": 303,
     "EntryName": "Shield Knight - Swift Resolve",
     "BuffId": 3054280,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -8161,7 +8161,7 @@
     "EntryId": 304,
     "EntryName": "Shield Knight - Blood Sacred Blade",
     "BuffId": 3054290,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -8207,7 +8207,7 @@
     "EntryId": 305,
     "EntryName": "Shield Knight - Sacred Blade Seal",
     "BuffId": 3054300,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -8253,7 +8253,7 @@
     "EntryId": 306,
     "EntryName": "Shield Knight - Lightforged Multiplier",
     "BuffId": 3054310,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -8299,7 +8299,7 @@
     "EntryId": 307,
     "EntryName": "Shield Knight - Blood Blade Pursuit",
     "BuffId": 3054320,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -8345,7 +8345,7 @@
     "EntryId": 308,
     "EntryName": "Shield Knight - Swift Crusade",
     "BuffId": 3054340,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -8391,7 +8391,7 @@
     "EntryId": 309,
     "EntryName": "Shield Knight - Holy Sigil Judgment",
     "BuffId": 3054350,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -8437,7 +8437,7 @@
     "EntryId": 310,
     "EntryName": "Heavy Guardian - Sandstone Reversal",
     "BuffId": 3055200,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -8483,7 +8483,7 @@
     "EntryId": 311,
     "EntryName": "Heavy Guardian - Mountain Shatter",
     "BuffId": 3055210,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -8529,7 +8529,7 @@
     "EntryId": 312,
     "EntryName": "Heavy Guardian - Rock Solid Buff",
     "BuffId": 3055220,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -8575,7 +8575,7 @@
     "EntryId": 313,
     "EntryName": "Heavy Guardian - Boulder Overload",
     "BuffId": 3055230,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -8621,7 +8621,7 @@
     "EntryId": 314,
     "EntryName": "Heavy Guardian - Starshatter Shield",
     "BuffId": 3055240,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -8667,7 +8667,7 @@
     "EntryId": 315,
     "EntryName": "Heavy Guardian - Weak Spot Shield Break",
     "BuffId": 3055250,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -8713,7 +8713,7 @@
     "EntryId": 316,
     "EntryName": "Heavy Guardian - Weak Spot CD Reduction",
     "BuffId": 3055260,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -8759,7 +8759,7 @@
     "EntryId": 317,
     "EntryName": "Heavy Guardian - Shield Growth",
     "BuffId": 3055270,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -8805,7 +8805,7 @@
     "EntryId": 318,
     "EntryName": "Heavy Guardian - Ultimate Rageblow",
     "BuffId": 3055280,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -8851,7 +8851,7 @@
     "EntryId": 319,
     "EntryName": "Heavy Guardian - Twentyfold Rockfall",
     "BuffId": 3055290,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -8897,7 +8897,7 @@
     "EntryId": 320,
     "EntryName": "Heavy Guardian - Granite Block",
     "BuffId": 3055300,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -8943,7 +8943,7 @@
     "EntryId": 321,
     "EntryName": "Heavy Guardian - Granite Ascension",
     "BuffId": 3055310,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -8989,7 +8989,7 @@
     "EntryId": 322,
     "EntryName": "Heavy Guardian - Rageblow Defense",
     "BuffId": 3055320,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -9035,7 +9035,7 @@
     "EntryId": 323,
     "EntryName": "Heavy Guardian - Burning Counter",
     "BuffId": 3055330,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -9081,7 +9081,7 @@
     "EntryId": 324,
     "EntryName": "Heavy Guardian - Enhanced Counter",
     "BuffId": 3055340,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -9127,7 +9127,7 @@
     "EntryId": 325,
     "EntryName": "Heavy Guardian - Enhanced Rock Block",
     "BuffId": 3055350,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -9173,7 +9173,7 @@
     "EntryId": 326,
     "EntryName": "Beat Performer - Spotlight Finale",
     "BuffId": 3057160,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -9219,7 +9219,7 @@
     "EntryId": 327,
     "EntryName": "Beat Performer - Luck CD Reduction",
     "BuffId": 3057170,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -9265,7 +9265,7 @@
     "EntryId": 328,
     "EntryName": "Beat Performer - Endless Rhapsody",
     "BuffId": 3057180,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -9311,7 +9311,7 @@
     "EntryId": 329,
     "EntryName": "Beat Performer - Rhapsody Presto",
     "BuffId": 3057190,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -9357,7 +9357,7 @@
     "EntryId": 330,
     "EntryName": "Beat Performer - Heroic Rhapsody",
     "BuffId": 3057200,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -9403,7 +9403,7 @@
     "EntryId": 331,
     "EntryName": "Beat Performer - Luck Encore",
     "BuffId": 3057210,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -9449,7 +9449,7 @@
     "EntryId": 332,
     "EntryName": "Beat Performer - Ultimate Rebound",
     "BuffId": 3057220,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -9495,7 +9495,7 @@
     "EntryId": 333,
     "EntryName": "Beat Performer - Lucky Ultimate",
     "BuffId": 3057230,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -9541,7 +9541,7 @@
     "EntryId": 334,
     "EntryName": "Beat Performer - Passionate Exaltation",
     "BuffId": 3057240,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -9587,7 +9587,7 @@
     "EntryId": 335,
     "EntryName": "Beat Performer - Exaltation Burst",
     "BuffId": 3057250,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -9633,7 +9633,7 @@
     "EntryId": 336,
     "EntryName": "Beat Performer - Resounding Encore",
     "BuffId": 3057260,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -9679,7 +9679,7 @@
     "EntryId": 337,
     "EntryName": "Beat Performer - Flaming Strings",
     "BuffId": 3057270,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -9725,7 +9725,7 @@
     "EntryId": 338,
     "EntryName": "Beat Performer - Enhanced Special Heal",
     "BuffId": 3057280,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 1,
@@ -9771,7 +9771,7 @@
     "EntryId": 339,
     "EntryName": "Beat Performer - Tour Burst",
     "BuffId": 3057290,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 20,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 2,
@@ -9817,7 +9817,7 @@
     "EntryId": 340,
     "EntryName": "Beat Performer - Fivefold Freecast",
     "BuffId": 3057300,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 3,
@@ -9863,7 +9863,7 @@
     "EntryId": 341,
     "EntryName": "Beat Performer - Movement of Wisdom",
     "BuffId": 3057310,
-    "EntryDatabaseId": 1,
+    "EntryDatabaseId": 21,
     "EntryType": 1,
     "RefreshRepeatedly": [],
     "EntryQuality": 4,
@@ -9899,6 +9899,3414 @@
         57,
         1,
         997365
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "342": {
+    "EntryId": 342,
+    "EntryName": "",
+    "BuffId": 997550,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry129",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry129",
+    "EntryDescription": [
+      [
+        1,
+        124301
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "343": {
+    "EntryId": 343,
+    "EntryName": "",
+    "BuffId": 997551,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry130",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry130",
+    "EntryDescription": [
+      [
+        1,
+        124401
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "344": {
+    "EntryId": 344,
+    "EntryName": "",
+    "BuffId": 997552,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry131",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry131",
+    "EntryDescription": [
+      [
+        1,
+        124501
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "345": {
+    "EntryId": 345,
+    "EntryName": "",
+    "BuffId": 997553,
+    "EntryDatabaseId": 3,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry132",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry132",
+    "EntryDescription": [
+      [
+        1,
+        124601
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "346": {
+    "EntryId": 346,
+    "EntryName": "",
+    "BuffId": 997554,
+    "EntryDatabaseId": 4,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry133",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry133",
+    "EntryDescription": [
+      [
+        1,
+        124701
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "347": {
+    "EntryId": 347,
+    "EntryName": "",
+    "BuffId": 997555,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry134",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry134",
+    "EntryDescription": [
+      [
+        1,
+        124801
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "348": {
+    "EntryId": 348,
+    "EntryName": "",
+    "BuffId": 997556,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry135",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry135",
+    "EntryDescription": [
+      [
+        1,
+        124901
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12,
+      8
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "349": {
+    "EntryId": 349,
+    "EntryName": "",
+    "BuffId": 997557,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry136",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry136",
+    "EntryDescription": [
+      [
+        1,
+        125001
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12,
+      8
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "350": {
+    "EntryId": 350,
+    "EntryName": "",
+    "BuffId": 997558,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry137",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry137",
+    "EntryDescription": [
+      [
+        1,
+        125101
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12,
+      5
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "351": {
+    "EntryId": 351,
+    "EntryName": "",
+    "BuffId": 997559,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry138",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry138",
+    "EntryDescription": [
+      [
+        1,
+        125201
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12,
+      4
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "352": {
+    "EntryId": 352,
+    "EntryName": "",
+    "BuffId": 997560,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry139",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry139",
+    "EntryDescription": [
+      [
+        1,
+        125301
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12,
+      4
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "353": {
+    "EntryId": 353,
+    "EntryName": "",
+    "BuffId": 997561,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry140",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry140",
+    "EntryDescription": [
+      [
+        1,
+        125401
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12,
+      4
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "354": {
+    "EntryId": 354,
+    "EntryName": "",
+    "BuffId": 997562,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry141",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry141",
+    "EntryDescription": [
+      [
+        1,
+        125501
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12,
+      1
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "355": {
+    "EntryId": 355,
+    "EntryName": "",
+    "BuffId": 997563,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry142",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry142",
+    "EntryDescription": [
+      [
+        1,
+        125601
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12,
+      1
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "356": {
+    "EntryId": 356,
+    "EntryName": "",
+    "BuffId": 997564,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry143",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry143",
+    "EntryDescription": [
+      [
+        1,
+        125701
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "357": {
+    "EntryId": 357,
+    "EntryName": "",
+    "BuffId": 997565,
+    "EntryDatabaseId": 3,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry144",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry144",
+    "EntryDescription": [
+      [
+        1,
+        125801
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "358": {
+    "EntryId": 358,
+    "EntryName": "",
+    "BuffId": 997566,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry145",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry145",
+    "EntryDescription": [
+      [
+        1,
+        125901
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "359": {
+    "EntryId": 359,
+    "EntryName": "",
+    "BuffId": 997567,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry146",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry146",
+    "EntryDescription": [
+      [
+        1,
+        126001
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12,
+      7
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "360": {
+    "EntryId": 360,
+    "EntryName": "",
+    "BuffId": 997568,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry147",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry147",
+    "EntryDescription": [
+      [
+        1,
+        126101
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "361": {
+    "EntryId": 361,
+    "EntryName": "",
+    "BuffId": 997569,
+    "EntryDatabaseId": 4,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry148",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry148",
+    "EntryDescription": [
+      [
+        1,
+        126201
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      12
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        997550
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "362": {
+    "EntryId": 362,
+    "EntryName": "",
+    "BuffId": 997580,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry149",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry149",
+    "EntryDescription": [
+      [
+        1,
+        126301
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "363": {
+    "EntryId": 363,
+    "EntryName": "",
+    "BuffId": 997581,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry150",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry150",
+    "EntryDescription": [
+      [
+        1,
+        126401
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      9
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "364": {
+    "EntryId": 364,
+    "EntryName": "",
+    "BuffId": 997582,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry151",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry151",
+    "EntryDescription": [
+      [
+        1,
+        126501
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "365": {
+    "EntryId": 365,
+    "EntryName": "",
+    "BuffId": 997583,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry152",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry152",
+    "EntryDescription": [
+      [
+        1,
+        126601
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      7
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "366": {
+    "EntryId": 366,
+    "EntryName": "",
+    "BuffId": 997584,
+    "EntryDatabaseId": 3,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry153",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry153",
+    "EntryDescription": [
+      [
+        1,
+        126701
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      7
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "367": {
+    "EntryId": 367,
+    "EntryName": "",
+    "BuffId": 997585,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry154",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry154",
+    "EntryDescription": [
+      [
+        1,
+        126801
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "368": {
+    "EntryId": 368,
+    "EntryName": "",
+    "BuffId": 997586,
+    "EntryDatabaseId": 4,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry155",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry155",
+    "EntryDescription": [
+      [
+        1,
+        126901
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      11
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "369": {
+    "EntryId": 369,
+    "EntryName": "",
+    "BuffId": 997587,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry156",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry156",
+    "EntryDescription": [
+      [
+        1,
+        127001
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      7
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "370": {
+    "EntryId": 370,
+    "EntryName": "",
+    "BuffId": 997588,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry157",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry157",
+    "EntryDescription": [
+      [
+        1,
+        127101
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      1,
+      5
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "371": {
+    "EntryId": 371,
+    "EntryName": "",
+    "BuffId": 997589,
+    "EntryDatabaseId": 3,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry158",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry158",
+    "EntryDescription": [
+      [
+        1,
+        127201
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "372": {
+    "EntryId": 372,
+    "EntryName": "",
+    "BuffId": 997590,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry159",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry159",
+    "EntryDescription": [
+      [
+        1,
+        127301
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      1
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "373": {
+    "EntryId": 373,
+    "EntryName": "",
+    "BuffId": 997591,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry160",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry160",
+    "EntryDescription": [
+      [
+        1,
+        127401
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      2
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "374": {
+    "EntryId": 374,
+    "EntryName": "",
+    "BuffId": 997592,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry161",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry161",
+    "EntryDescription": [
+      [
+        1,
+        127501
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "375": {
+    "EntryId": 375,
+    "EntryName": "",
+    "BuffId": 997593,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry162",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry162",
+    "EntryDescription": [
+      [
+        1,
+        127601
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "376": {
+    "EntryId": 376,
+    "EntryName": "",
+    "BuffId": 997594,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry163",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry163",
+    "EntryDescription": [
+      [
+        1,
+        127701
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      5
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "377": {
+    "EntryId": 377,
+    "EntryName": "",
+    "BuffId": 997595,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry164",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry164",
+    "EntryDescription": [
+      [
+        1,
+        127801
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "378": {
+    "EntryId": 378,
+    "EntryName": "",
+    "BuffId": 997596,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry165",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry165",
+    "EntryDescription": [
+      [
+        1,
+        127901
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "379": {
+    "EntryId": 379,
+    "EntryName": "",
+    "BuffId": 997597,
+    "EntryDatabaseId": 4,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry166",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry166",
+    "EntryDescription": [
+      [
+        1,
+        128001
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "380": {
+    "EntryId": 380,
+    "EntryName": "",
+    "BuffId": 997598,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry167",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry167",
+    "EntryDescription": [
+      [
+        1,
+        128101
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13,
+      7
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "381": {
+    "EntryId": 381,
+    "EntryName": "",
+    "BuffId": 997599,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry168",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry168",
+    "EntryDescription": [
+      [
+        1,
+        128201
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      13
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "382": {
+    "EntryId": 382,
+    "EntryName": "",
+    "BuffId": 997610,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry169",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry169",
+    "EntryDescription": [
+      [
+        1,
+        128301
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "383": {
+    "EntryId": 383,
+    "EntryName": "",
+    "BuffId": 997611,
+    "EntryDatabaseId": 3,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry170",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry170",
+    "EntryDescription": [
+      [
+        1,
+        128401
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "384": {
+    "EntryId": 384,
+    "EntryName": "",
+    "BuffId": 997612,
+    "EntryDatabaseId": 4,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry171",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry171",
+    "EntryDescription": [
+      [
+        1,
+        128501
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "385": {
+    "EntryId": 385,
+    "EntryName": "",
+    "BuffId": 997613,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry172",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry172",
+    "EntryDescription": [
+      [
+        1,
+        128601
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "386": {
+    "EntryId": 386,
+    "EntryName": "",
+    "BuffId": 997614,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 5,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry173",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry173",
+    "EntryDescription": [
+      [
+        1,
+        128701
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4,
+      1
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "387": {
+    "EntryId": 387,
+    "EntryName": "",
+    "BuffId": 997615,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry174",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry174",
+    "EntryDescription": [
+      [
+        1,
+        128801
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "388": {
+    "EntryId": 388,
+    "EntryName": "",
+    "BuffId": 997616,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry175",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry175",
+    "EntryDescription": [
+      [
+        1,
+        128901
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4,
+      13
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "389": {
+    "EntryId": 389,
+    "EntryName": "",
+    "BuffId": 997617,
+    "EntryDatabaseId": 3,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry176",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry176",
+    "EntryDescription": [
+      [
+        1,
+        129001
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4,
+      1,
+      5
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "390": {
+    "EntryId": 390,
+    "EntryName": "",
+    "BuffId": 997618,
+    "EntryDatabaseId": 4,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry177",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry177",
+    "EntryDescription": [
+      [
+        1,
+        129101
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4,
+      7
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "391": {
+    "EntryId": 391,
+    "EntryName": "",
+    "BuffId": 997619,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry178",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry178",
+    "EntryDescription": [
+      [
+        1,
+        129201
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "392": {
+    "EntryId": 392,
+    "EntryName": "",
+    "BuffId": 997620,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry179",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry179",
+    "EntryDescription": [
+      [
+        1,
+        129301
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "393": {
+    "EntryId": 393,
+    "EntryName": "",
+    "BuffId": 997621,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry180",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry180",
+    "EntryDescription": [
+      [
+        1,
+        129401
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "394": {
+    "EntryId": 394,
+    "EntryName": "",
+    "BuffId": 997622,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry181",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry181",
+    "EntryDescription": [
+      [
+        1,
+        129501
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "395": {
+    "EntryId": 395,
+    "EntryName": "",
+    "BuffId": 997623,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry182",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry182",
+    "EntryDescription": [
+      [
+        1,
+        129601
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "396": {
+    "EntryId": 396,
+    "EntryName": "",
+    "BuffId": 997624,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry183",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry183",
+    "EntryDescription": [
+      [
+        1,
+        129701
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4,
+      5
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "397": {
+    "EntryId": 397,
+    "EntryName": "",
+    "BuffId": 997625,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry184",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry184",
+    "EntryDescription": [
+      [
+        1,
+        129801
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "398": {
+    "EntryId": 398,
+    "EntryName": "",
+    "BuffId": 997626,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry185",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry185",
+    "EntryDescription": [
+      [
+        1,
+        129901
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "399": {
+    "EntryId": 399,
+    "EntryName": "",
+    "BuffId": 997627,
+    "EntryDatabaseId": 3,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry186",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry186",
+    "EntryDescription": [
+      [
+        1,
+        130001
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      11
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "400": {
+    "EntryId": 400,
+    "EntryName": "",
+    "BuffId": 997628,
+    "EntryDatabaseId": 4,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry187",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry187",
+    "EntryDescription": [
+      [
+        1,
+        130101
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      6
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "401": {
+    "EntryId": 401,
+    "EntryName": "",
+    "BuffId": 997629,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry188",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry188",
+    "EntryDescription": [
+      [
+        1,
+        130201
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "402": {
+    "EntryId": 402,
+    "EntryName": "",
+    "BuffId": 997630,
+    "EntryDatabaseId": 3,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry189",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry189",
+    "EntryDescription": [
+      [
+        1,
+        130301
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      11
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "403": {
+    "EntryId": 403,
+    "EntryName": "",
+    "BuffId": 997631,
+    "EntryDatabaseId": 4,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry190",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry190",
+    "EntryDescription": [
+      [
+        1,
+        130401
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "404": {
+    "EntryId": 404,
+    "EntryName": "",
+    "BuffId": 997632,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry191",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry191",
+    "EntryDescription": [
+      [
+        1,
+        130501
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "405": {
+    "EntryId": 405,
+    "EntryName": "",
+    "BuffId": 997633,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry192",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry192",
+    "EntryDescription": [
+      [
+        1,
+        130601
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      7
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "406": {
+    "EntryId": 406,
+    "EntryName": "",
+    "BuffId": 997634,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry193",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry193",
+    "EntryDescription": [
+      [
+        1,
+        130701
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "407": {
+    "EntryId": 407,
+    "EntryName": "",
+    "BuffId": 997635,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry194",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry194",
+    "EntryDescription": [
+      [
+        1,
+        130801
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      7
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "408": {
+    "EntryId": 408,
+    "EntryName": "",
+    "BuffId": 997636,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry195",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry195",
+    "EntryDescription": [
+      [
+        1,
+        130901
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "409": {
+    "EntryId": 409,
+    "EntryName": "",
+    "BuffId": 997637,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry196",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry196",
+    "EntryDescription": [
+      [
+        1,
+        131001
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      1
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "410": {
+    "EntryId": 410,
+    "EntryName": "",
+    "BuffId": 997638,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry197",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry197",
+    "EntryDescription": [
+      [
+        1,
+        131101
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      4
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "411": {
+    "EntryId": 411,
+    "EntryName": "",
+    "BuffId": 997639,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry198",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry198",
+    "EntryDescription": [
+      [
+        1,
+        131201
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      5
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "412": {
+    "EntryId": 412,
+    "EntryName": "",
+    "BuffId": 997640,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry199",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry199",
+    "EntryDescription": [
+      [
+        1,
+        131301
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "413": {
+    "EntryId": 413,
+    "EntryName": "",
+    "BuffId": 997641,
+    "EntryDatabaseId": 2,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry200",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry200",
+    "EntryDescription": [
+      [
+        1,
+        131401
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      2,
+      5
+    ],
+    "RefreshConditions": [],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "414": {
+    "EntryId": 414,
+    "EntryName": "",
+    "BuffId": 3060160,
+    "EntryDatabaseId": 21,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry111",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry111",
+    "EntryDescription": [
+      [
+        1,
+        131501
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      36
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060120
+      ],
+      [
+        57,
+        1,
+        997365
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "415": {
+    "EntryId": 415,
+    "EntryName": "",
+    "BuffId": 3060170,
+    "EntryDatabaseId": 20,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry112",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry112",
+    "EntryDescription": [
+      [
+        1,
+        131601
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      36
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060120
+      ],
+      [
+        57,
+        1,
+        997364
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "416": {
+    "EntryId": 416,
+    "EntryName": "",
+    "BuffId": 3060180,
+    "EntryDatabaseId": 20,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry113",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry113",
+    "EntryDescription": [
+      [
+        1,
+        131701
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      36
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060120
+      ],
+      [
+        57,
+        1,
+        997364
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "417": {
+    "EntryId": 417,
+    "EntryName": "",
+    "BuffId": 3060190,
+    "EntryDatabaseId": 21,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry114",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry114",
+    "EntryDescription": [
+      [
+        1,
+        131801
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      36
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060120
+      ],
+      [
+        57,
+        1,
+        997365
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "418": {
+    "EntryId": 418,
+    "EntryName": "",
+    "BuffId": 3060200,
+    "EntryDatabaseId": 21,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry115",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry115",
+    "EntryDescription": [
+      [
+        1,
+        131901
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      36
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060130
+      ],
+      [
+        57,
+        1,
+        997365
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "419": {
+    "EntryId": 419,
+    "EntryName": "",
+    "BuffId": 3060210,
+    "EntryDatabaseId": 20,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry116",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry116",
+    "EntryDescription": [
+      [
+        1,
+        132001
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      36
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060130
+      ],
+      [
+        57,
+        1,
+        997364
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "420": {
+    "EntryId": 420,
+    "EntryName": "",
+    "BuffId": 3060220,
+    "EntryDatabaseId": 20,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry117",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry117",
+    "EntryDescription": [
+      [
+        1,
+        132101
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      36
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060130
+      ],
+      [
+        57,
+        1,
+        997364
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "421": {
+    "EntryId": 421,
+    "EntryName": "",
+    "BuffId": 3060230,
+    "EntryDatabaseId": 21,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry118",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry118",
+    "EntryDescription": [
+      [
+        1,
+        132201
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      36
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060130
+      ],
+      [
+        57,
+        1,
+        997365
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "422": {
+    "EntryId": 422,
+    "EntryName": "",
+    "BuffId": 3060240,
+    "EntryDatabaseId": 21,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry119",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry119",
+    "EntryDescription": [
+      [
+        1,
+        132301
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      37
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060140
+      ],
+      [
+        57,
+        1,
+        997365
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "423": {
+    "EntryId": 423,
+    "EntryName": "",
+    "BuffId": 3060250,
+    "EntryDatabaseId": 21,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry120",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry120",
+    "EntryDescription": [
+      [
+        1,
+        132401
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      37
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060140
+      ],
+      [
+        57,
+        1,
+        997365
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "424": {
+    "EntryId": 424,
+    "EntryName": "",
+    "BuffId": 3060260,
+    "EntryDatabaseId": 20,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry121",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry121",
+    "EntryDescription": [
+      [
+        1,
+        132501
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      37
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060140
+      ],
+      [
+        57,
+        1,
+        997364
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "425": {
+    "EntryId": 425,
+    "EntryName": "",
+    "BuffId": 3060270,
+    "EntryDatabaseId": 20,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry122",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry122",
+    "EntryDescription": [
+      [
+        1,
+        132601
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      37
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060140
+      ],
+      [
+        57,
+        1,
+        997364
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "426": {
+    "EntryId": 426,
+    "EntryName": "",
+    "BuffId": 3060280,
+    "EntryDatabaseId": 21,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 4,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry123",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry123",
+    "EntryDescription": [
+      [
+        1,
+        132701
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      37
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060150
+      ],
+      [
+        57,
+        1,
+        997365
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "427": {
+    "EntryId": 427,
+    "EntryName": "",
+    "BuffId": 3060290,
+    "EntryDatabaseId": 21,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 3,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry124",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry124",
+    "EntryDescription": [
+      [
+        1,
+        132801
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      37
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060150
+      ],
+      [
+        57,
+        1,
+        997365
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "428": {
+    "EntryId": 428,
+    "EntryName": "",
+    "BuffId": 3060300,
+    "EntryDatabaseId": 20,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 1,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry125",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry125",
+    "EntryDescription": [
+      [
+        1,
+        132901
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      37
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060150
+      ],
+      [
+        57,
+        1,
+        997364
+      ]
+    ],
+    "GuaranteedCondition": [],
+    "GuaranteedConditionWeights": [],
+    "NotShowEntranceInterface": 0
+  },
+  "429": {
+    "EntryId": 429,
+    "EntryName": "",
+    "BuffId": 3060310,
+    "EntryDatabaseId": 20,
+    "EntryType": 1,
+    "RefreshRepeatedly": [],
+    "EntryQuality": 2,
+    "EntrySmallIcon": "ui/atlas/rouge_entry_icon/rogue_icon_entry126",
+    "EntryIcon": "ui/textures/rouge_icon/rogue_icon_entry126",
+    "EntryDescription": [
+      [
+        1,
+        133001
+      ]
+    ],
+    "UpgradeReduceAmount": [
+      [
+        0,
+        0
+      ]
+    ],
+    "LevelCap": 1,
+    "PersonalPoint": 0,
+    "ApplicableProfessions": [
+      0
+    ],
+    "EntryBD": [
+      37
+    ],
+    "RefreshConditions": [
+      [
+        57,
+        1,
+        3060150
+      ],
+      [
+        57,
+        1,
+        997364
       ]
     ],
     "GuaranteedCondition": [],

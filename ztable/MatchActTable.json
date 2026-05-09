@@ -147,7 +147,7 @@
     "DailyLimitAward": [],
     "Award": 0,
     "LimitAward": [],
-    "MatchPic": "ui/textures/rouge/rogue_02_03",
+    "MatchPic": "ui/background/seasonact/activity_seasonact_502",
     "MatchAudio": ""
   },
   "501": {
@@ -164,6 +164,44 @@
       6
     ],
     "MatchPic": "ui/background/seasonact/activity_seasonact_201",
+    "MatchAudio": ""
+  },
+  "502": {
+    "Id": 502,
+    "FunctionId": 800202,
+    "Mark": "跑酷道具赛",
+    "DungeonsId": 7003,
+    "MatchId": 50002,
+    "FirstDailyAward": 13010030,
+    "DailyLimitAward": [
+      10004,
+      100
+    ],
+    "Award": 13010040,
+    "LimitAward": [
+      10004,
+      6
+    ],
+    "MatchPic": "ui/background/seasonact/activity_seasonact_202",
+    "MatchAudio": ""
+  },
+  "503": {
+    "Id": 503,
+    "FunctionId": 800203,
+    "Mark": "气球捕获大作战",
+    "DungeonsId": 9001,
+    "MatchId": 50003,
+    "FirstDailyAward": 13010030,
+    "DailyLimitAward": [
+      10004,
+      100
+    ],
+    "Award": 13010040,
+    "LimitAward": [
+      10004,
+      6
+    ],
+    "MatchPic": "ui/background/seasonact/activity_seasonact_203",
     "MatchAudio": ""
   },
   "511": {

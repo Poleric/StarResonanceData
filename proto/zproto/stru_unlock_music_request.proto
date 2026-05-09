@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package zproto;
+
+message UnlockMusicRequest {
+	int32 musicId = 1 [json_name = "musicId"];
+}

@@ -1910,5 +1910,69 @@
     "Sequence": 30,
     "Res": "ui/background/punch_card_machine_bg/personalzone_player_bg_30",
     "Hide": 0
+  },
+  "240": {
+    "Id": 240,
+    "Type": 6,
+    "Parameter": 0,
+    "Sequence": 31,
+    "Res": "ui/background/punch_card_machine_bg/personalzone_player_bg_31",
+    "Hide": 0
+  },
+  "241": {
+    "Id": 241,
+    "Type": 6,
+    "Parameter": 0,
+    "Sequence": 32,
+    "Res": "ui/background/punch_card_machine_bg/personalzone_player_bg_32",
+    "Hide": 0
+  },
+  "242": {
+    "Id": 242,
+    "Type": 6,
+    "Parameter": 0,
+    "Sequence": 33,
+    "Res": "ui/background/punch_card_machine_bg/personalzone_player_bg_33",
+    "Hide": 0
+  },
+  "243": {
+    "Id": 243,
+    "Type": 6,
+    "Parameter": 0,
+    "Sequence": 34,
+    "Res": "ui/background/punch_card_machine_bg/personalzone_player_bg_34",
+    "Hide": 0
+  },
+  "244": {
+    "Id": 244,
+    "Type": 6,
+    "Parameter": 0,
+    "Sequence": 35,
+    "Res": "ui/background/punch_card_machine_bg/personalzone_player_bg_35",
+    "Hide": 0
+  },
+  "245": {
+    "Id": 245,
+    "Type": 6,
+    "Parameter": 0,
+    "Sequence": 36,
+    "Res": "ui/background/punch_card_machine_bg/personalzone_player_bg_36",
+    "Hide": 0
+  },
+  "246": {
+    "Id": 246,
+    "Type": 6,
+    "Parameter": 0,
+    "Sequence": 37,
+    "Res": "ui/background/punch_card_machine_bg/personalzone_player_bg_ip001_01",
+    "Hide": 0
+  },
+  "247": {
+    "Id": 247,
+    "Type": 6,
+    "Parameter": 0,
+    "Sequence": 38,
+    "Res": "ui/background/punch_card_machine_bg/personalzone_player_bg_ip002_01",
+    "Hide": 0
   }
 }

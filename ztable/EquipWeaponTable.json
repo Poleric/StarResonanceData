@@ -15,7 +15,7 @@
     "Id": 2000103,
     "Name": "涤罪恶火（物理）",
     "ProfessionId": 3,
-    "WeaponSkinId": 7330001
+    "WeaponSkinId": 7330002
   },
   "2000104": {
     "Id": 2000104,
@@ -1277,6 +1277,66 @@
     "ProfessionId": 13,
     "WeaponSkinId": 7410006
   },
+  "2000625": {
+    "Id": 2000625,
+    "Name": "双斧",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330006
+  },
+  "2000626": {
+    "Id": 2000626,
+    "Name": "天罚神雷（物理）",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7311061
+  },
+  "2000627": {
+    "Id": 2000627,
+    "Name": "冰之玉响（魔法）",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7321061
+  },
+  "2000628": {
+    "Id": 2000628,
+    "Name": "正义之风（物理）",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7341061
+  },
+  "2000629": {
+    "Id": 2000629,
+    "Name": "命理之森（魔法）",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7351061
+  },
+  "2000630": {
+    "Id": 2000630,
+    "Name": "砂岩守御（物理）",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7371061
+  },
+  "2000631": {
+    "Id": 2000631,
+    "Name": "金玉长弓（物理）",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7391061
+  },
+  "2000632": {
+    "Id": 2000632,
+    "Name": "光灼银辉（物理）",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7401061
+  },
+  "2000633": {
+    "Id": 2000633,
+    "Name": "灵魂吉他（魔法）",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7411061
+  },
+  "2000634": {
+    "Id": 2000634,
+    "Name": "双斧",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7331061
+  },
   "2000357": {
     "Id": 2000357,
     "Name": "",
@@ -2330,6 +2390,1932 @@
   "2001116": {
     "Id": 2001116,
     "Name": "灵魂吉他（魔法）",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2000841": {
+    "Id": 2000841,
+    "Name": "120GS力量武器-连打1-100完美幸运=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2000842": {
+    "Id": 2000842,
+    "Name": "120GS力量武器-连打2-100完美精通=幸运",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2000843": {
+    "Id": 2000843,
+    "Name": "120GS力量武器-狂战1-100完美精通=暴击",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2000844": {
+    "Id": 2000844,
+    "Name": "120GS力量武器-狂战2-100完美暴击=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2000845": {
+    "Id": 2000845,
+    "Name": "120GS力量武器-双斧紫-80完美随机=随机",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2000941": {
+    "Id": 2000941,
+    "Name": "140GS力量武器-连打1-100完美幸运=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2000942": {
+    "Id": 2000942,
+    "Name": "140GS力量武器-连打2-100完美精通=幸运",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2000943": {
+    "Id": 2000943,
+    "Name": "140GS力量武器-狂战1-100完美精通=暴击",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2000944": {
+    "Id": 2000944,
+    "Name": "140GS力量武器-狂战2-100完美暴击=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2000945": {
+    "Id": 2000945,
+    "Name": "140GS力量武器-双斧紫-80完美随机=随机",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001041": {
+    "Id": 2001041,
+    "Name": "160GS力量武器-连打1-100完美幸运=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001042": {
+    "Id": 2001042,
+    "Name": "160GS力量武器-连打2-100完美精通=幸运",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001043": {
+    "Id": 2001043,
+    "Name": "160GS力量武器-狂战1-100完美精通=暴击",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001044": {
+    "Id": 2001044,
+    "Name": "160GS力量武器-狂战2-100完美暴击=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001045": {
+    "Id": 2001045,
+    "Name": "160GS力量武器-双斧紫-80完美随机=随机",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001201": {
+    "Id": 2001201,
+    "Name": "220GS力量武器-空枪1-100完美暴击=幸运",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001202": {
+    "Id": 2001202,
+    "Name": "220GS力量武器-空枪2-100完美幸运=暴击",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001203": {
+    "Id": 2001203,
+    "Name": "220GS力量武器-重装1-100完美急速=精通",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001204": {
+    "Id": 2001204,
+    "Name": "220GS力量武器-重装2-100完美精通=急速",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001205": {
+    "Id": 2001205,
+    "Name": "220GS力量武器-格挡1-100完美幸运=精通",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001206": {
+    "Id": 2001206,
+    "Name": "220GS力量武器-格挡2-100完美精通=幸运",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001207": {
+    "Id": 2001207,
+    "Name": "220GS力量武器-岩盾1-100完美精通=全能",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001208": {
+    "Id": 2001208,
+    "Name": "220GS力量武器-岩盾2-100完美全能=精通",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001209": {
+    "Id": 2001209,
+    "Name": "220GS力量武器-防护1-100完美暴击=精通",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001210": {
+    "Id": 2001210,
+    "Name": "220GS力量武器-防护2-100完美精通=暴击",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001211": {
+    "Id": 2001211,
+    "Name": "220GS力量武器-光盾1-100完美急速=精通",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001212": {
+    "Id": 2001212,
+    "Name": "220GS力量武器-光盾2-100完美精通=急速",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001213": {
+    "Id": 2001213,
+    "Name": "220GS敏捷武器-居合1-100完美暴击=精通",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001214": {
+    "Id": 2001214,
+    "Name": "220GS敏捷武器-居合2-100完美精通=暴击",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001215": {
+    "Id": 2001215,
+    "Name": "220GS敏捷武器-月刃1-100完美急速=幸运",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001216": {
+    "Id": 2001216,
+    "Name": "220GS敏捷武器-月刃2-100完美幸运=急速",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001217": {
+    "Id": 2001217,
+    "Name": "220GS敏捷武器-狼弓1-100完美急速=精通",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001218": {
+    "Id": 2001218,
+    "Name": "220GS敏捷武器-狼弓2-100完美精通=急速",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001219": {
+    "Id": 2001219,
+    "Name": "220GS敏捷武器-鹰弓1-100完美暴击=急速",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001220": {
+    "Id": 2001220,
+    "Name": "220GS敏捷武器-鹰弓2-100完美急速=暴击",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001221": {
+    "Id": 2001221,
+    "Name": "220GS智力武器-冰矛1-100完美暴击=幸运",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001222": {
+    "Id": 2001222,
+    "Name": "220GS智力武器-冰矛2-100完美幸运=暴击",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001223": {
+    "Id": 2001223,
+    "Name": "220GS智力武器-射线1-100完美精通=急速",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001224": {
+    "Id": 2001224,
+    "Name": "220GS智力武器-射线2-100完美急速=精通",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001225": {
+    "Id": 2001225,
+    "Name": "220GS智力武器-愈合1-100完美精通=急速",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001226": {
+    "Id": 2001226,
+    "Name": "220GS智力武器-愈合2-100完美急速=精通",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001227": {
+    "Id": 2001227,
+    "Name": "220GS智力武器-惩击1-100完美幸运=精通",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001228": {
+    "Id": 2001228,
+    "Name": "220GS智力武器-惩击2-100完美精通=幸运",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001229": {
+    "Id": 2001229,
+    "Name": "220GS智力武器-协奏1-100完美暴击=急速",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001230": {
+    "Id": 2001230,
+    "Name": "220GS智力武器-协奏2-100完美急速=暴击",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001231": {
+    "Id": 2001231,
+    "Name": "220GS智力武器-狂音1-100完美急速=精通",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001232": {
+    "Id": 2001232,
+    "Name": "220GS智力武器-狂音2-100完美精通=急速",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001233": {
+    "Id": 2001233,
+    "Name": "220GS敏捷武器-太刀紫-80完美随机=随机",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001234": {
+    "Id": 2001234,
+    "Name": "220GS智力武器-冰法紫-80完美随机=随机",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001235": {
+    "Id": 2001235,
+    "Name": "220GS力量武器-青岚紫-80完美随机=随机",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001236": {
+    "Id": 2001236,
+    "Name": "220GS敏捷武器-弓箭紫-80完美随机=随机",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001237": {
+    "Id": 2001237,
+    "Name": "220GS智力武器-巨刃紫-80完美随机=随机",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001238": {
+    "Id": 2001238,
+    "Name": "220GS力量武器-吉他紫-80完美随机=随机",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001239": {
+    "Id": 2001239,
+    "Name": "220GS智力武器-森语紫-80完美随机=随机",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001240": {
+    "Id": 2001240,
+    "Name": "220GS力量武器-神盾紫-80完美随机=随机",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001241": {
+    "Id": 2001241,
+    "Name": "220GS力量武器-连打1-100完美幸运=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001242": {
+    "Id": 2001242,
+    "Name": "220GS力量武器-连打2-100完美精通=幸运",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001243": {
+    "Id": 2001243,
+    "Name": "220GS力量武器-狂战1-100完美精通=暴击",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001244": {
+    "Id": 2001244,
+    "Name": "220GS力量武器-狂战2-100完美暴击=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001245": {
+    "Id": 2001245,
+    "Name": "220GS力量武器-双斧紫-80完美随机=随机",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001301": {
+    "Id": 2001301,
+    "Name": "240GS力量武器-空枪1-100完美暴击=幸运",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001302": {
+    "Id": 2001302,
+    "Name": "240GS力量武器-空枪2-100完美幸运=暴击",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001303": {
+    "Id": 2001303,
+    "Name": "240GS力量武器-重装1-100完美急速=精通",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001304": {
+    "Id": 2001304,
+    "Name": "240GS力量武器-重装2-100完美精通=急速",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001305": {
+    "Id": 2001305,
+    "Name": "240GS力量武器-格挡1-100完美幸运=精通",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001306": {
+    "Id": 2001306,
+    "Name": "240GS力量武器-格挡2-100完美精通=幸运",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001307": {
+    "Id": 2001307,
+    "Name": "240GS力量武器-岩盾1-100完美精通=全能",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001308": {
+    "Id": 2001308,
+    "Name": "240GS力量武器-岩盾2-100完美全能=精通",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001309": {
+    "Id": 2001309,
+    "Name": "240GS力量武器-防护1-100完美暴击=精通",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001310": {
+    "Id": 2001310,
+    "Name": "240GS力量武器-防护2-100完美精通=暴击",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001311": {
+    "Id": 2001311,
+    "Name": "240GS力量武器-光盾1-100完美急速=精通",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001312": {
+    "Id": 2001312,
+    "Name": "240GS力量武器-光盾2-100完美精通=急速",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001313": {
+    "Id": 2001313,
+    "Name": "240GS敏捷武器-居合1-100完美暴击=精通",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001314": {
+    "Id": 2001314,
+    "Name": "240GS敏捷武器-居合2-100完美精通=暴击",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001315": {
+    "Id": 2001315,
+    "Name": "240GS敏捷武器-月刃1-100完美急速=幸运",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001316": {
+    "Id": 2001316,
+    "Name": "240GS敏捷武器-月刃2-100完美幸运=急速",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001317": {
+    "Id": 2001317,
+    "Name": "240GS敏捷武器-狼弓1-100完美急速=精通",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001318": {
+    "Id": 2001318,
+    "Name": "240GS敏捷武器-狼弓2-100完美精通=急速",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001319": {
+    "Id": 2001319,
+    "Name": "240GS敏捷武器-鹰弓1-100完美暴击=急速",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001320": {
+    "Id": 2001320,
+    "Name": "240GS敏捷武器-鹰弓2-100完美急速=暴击",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001321": {
+    "Id": 2001321,
+    "Name": "240GS智力武器-冰矛1-100完美暴击=幸运",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001322": {
+    "Id": 2001322,
+    "Name": "240GS智力武器-冰矛2-100完美幸运=暴击",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001323": {
+    "Id": 2001323,
+    "Name": "240GS智力武器-射线1-100完美精通=急速",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001324": {
+    "Id": 2001324,
+    "Name": "240GS智力武器-射线2-100完美急速=精通",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001325": {
+    "Id": 2001325,
+    "Name": "240GS智力武器-愈合1-100完美精通=急速",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001326": {
+    "Id": 2001326,
+    "Name": "240GS智力武器-愈合2-100完美急速=精通",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001327": {
+    "Id": 2001327,
+    "Name": "240GS智力武器-惩击1-100完美幸运=精通",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001328": {
+    "Id": 2001328,
+    "Name": "240GS智力武器-惩击2-100完美精通=幸运",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001329": {
+    "Id": 2001329,
+    "Name": "240GS智力武器-协奏1-100完美暴击=急速",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001330": {
+    "Id": 2001330,
+    "Name": "240GS智力武器-协奏2-100完美急速=暴击",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001331": {
+    "Id": 2001331,
+    "Name": "240GS智力武器-狂音1-100完美急速=精通",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001332": {
+    "Id": 2001332,
+    "Name": "240GS智力武器-狂音2-100完美精通=急速",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001333": {
+    "Id": 2001333,
+    "Name": "240GS敏捷武器-太刀紫-80完美随机=随机",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001334": {
+    "Id": 2001334,
+    "Name": "240GS智力武器-冰法紫-80完美随机=随机",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001335": {
+    "Id": 2001335,
+    "Name": "240GS力量武器-青岚紫-80完美随机=随机",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001336": {
+    "Id": 2001336,
+    "Name": "240GS敏捷武器-弓箭紫-80完美随机=随机",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001337": {
+    "Id": 2001337,
+    "Name": "240GS智力武器-巨刃紫-80完美随机=随机",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001338": {
+    "Id": 2001338,
+    "Name": "240GS力量武器-吉他紫-80完美随机=随机",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001339": {
+    "Id": 2001339,
+    "Name": "240GS智力武器-森语紫-80完美随机=随机",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001340": {
+    "Id": 2001340,
+    "Name": "240GS力量武器-神盾紫-80完美随机=随机",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001341": {
+    "Id": 2001341,
+    "Name": "240GS力量武器-连打1-100完美幸运=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001342": {
+    "Id": 2001342,
+    "Name": "240GS力量武器-连打2-100完美精通=幸运",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001343": {
+    "Id": 2001343,
+    "Name": "240GS力量武器-狂战1-100完美精通=暴击",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001344": {
+    "Id": 2001344,
+    "Name": "240GS力量武器-狂战2-100完美暴击=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001345": {
+    "Id": 2001345,
+    "Name": "240GS力量武器-双斧紫-80完美随机=随机",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001401": {
+    "Id": 2001401,
+    "Name": "260GS力量武器-空枪1-100完美暴击=幸运",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001402": {
+    "Id": 2001402,
+    "Name": "260GS力量武器-空枪2-100完美幸运=暴击",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001403": {
+    "Id": 2001403,
+    "Name": "260GS力量武器-重装1-100完美急速=精通",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001404": {
+    "Id": 2001404,
+    "Name": "260GS力量武器-重装2-100完美精通=急速",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001405": {
+    "Id": 2001405,
+    "Name": "260GS力量武器-格挡1-100完美幸运=精通",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001406": {
+    "Id": 2001406,
+    "Name": "260GS力量武器-格挡2-100完美精通=幸运",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001407": {
+    "Id": 2001407,
+    "Name": "260GS力量武器-岩盾1-100完美精通=全能",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001408": {
+    "Id": 2001408,
+    "Name": "260GS力量武器-岩盾2-100完美全能=精通",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001409": {
+    "Id": 2001409,
+    "Name": "260GS力量武器-防护1-100完美暴击=精通",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001410": {
+    "Id": 2001410,
+    "Name": "260GS力量武器-防护2-100完美精通=暴击",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001411": {
+    "Id": 2001411,
+    "Name": "260GS力量武器-光盾1-100完美急速=精通",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001412": {
+    "Id": 2001412,
+    "Name": "260GS力量武器-光盾2-100完美精通=急速",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001413": {
+    "Id": 2001413,
+    "Name": "260GS敏捷武器-居合1-100完美暴击=精通",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001414": {
+    "Id": 2001414,
+    "Name": "260GS敏捷武器-居合2-100完美精通=暴击",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001415": {
+    "Id": 2001415,
+    "Name": "260GS敏捷武器-月刃1-100完美急速=幸运",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001416": {
+    "Id": 2001416,
+    "Name": "260GS敏捷武器-月刃2-100完美幸运=急速",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001417": {
+    "Id": 2001417,
+    "Name": "260GS敏捷武器-狼弓1-100完美急速=精通",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001418": {
+    "Id": 2001418,
+    "Name": "260GS敏捷武器-狼弓2-100完美精通=急速",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001419": {
+    "Id": 2001419,
+    "Name": "260GS敏捷武器-鹰弓1-100完美暴击=急速",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001420": {
+    "Id": 2001420,
+    "Name": "260GS敏捷武器-鹰弓2-100完美急速=暴击",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001421": {
+    "Id": 2001421,
+    "Name": "260GS智力武器-冰矛1-100完美暴击=幸运",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001422": {
+    "Id": 2001422,
+    "Name": "260GS智力武器-冰矛2-100完美幸运=暴击",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001423": {
+    "Id": 2001423,
+    "Name": "260GS智力武器-射线1-100完美精通=急速",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001424": {
+    "Id": 2001424,
+    "Name": "260GS智力武器-射线2-100完美急速=精通",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001425": {
+    "Id": 2001425,
+    "Name": "260GS智力武器-愈合1-100完美精通=急速",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001426": {
+    "Id": 2001426,
+    "Name": "260GS智力武器-愈合2-100完美急速=精通",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001427": {
+    "Id": 2001427,
+    "Name": "260GS智力武器-惩击1-100完美幸运=精通",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001428": {
+    "Id": 2001428,
+    "Name": "260GS智力武器-惩击2-100完美精通=幸运",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001429": {
+    "Id": 2001429,
+    "Name": "260GS智力武器-协奏1-100完美暴击=急速",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001430": {
+    "Id": 2001430,
+    "Name": "260GS智力武器-协奏2-100完美急速=暴击",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001431": {
+    "Id": 2001431,
+    "Name": "260GS智力武器-狂音1-100完美急速=精通",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001432": {
+    "Id": 2001432,
+    "Name": "260GS智力武器-狂音2-100完美精通=急速",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001433": {
+    "Id": 2001433,
+    "Name": "260GS敏捷武器-太刀紫-80完美随机=随机",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001434": {
+    "Id": 2001434,
+    "Name": "260GS智力武器-冰法紫-80完美随机=随机",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001435": {
+    "Id": 2001435,
+    "Name": "260GS力量武器-青岚紫-80完美随机=随机",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001436": {
+    "Id": 2001436,
+    "Name": "260GS敏捷武器-弓箭紫-80完美随机=随机",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001437": {
+    "Id": 2001437,
+    "Name": "260GS智力武器-巨刃紫-80完美随机=随机",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001438": {
+    "Id": 2001438,
+    "Name": "260GS力量武器-吉他紫-80完美随机=随机",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001439": {
+    "Id": 2001439,
+    "Name": "260GS智力武器-森语紫-80完美随机=随机",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001440": {
+    "Id": 2001440,
+    "Name": "260GS力量武器-神盾紫-80完美随机=随机",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001441": {
+    "Id": 2001441,
+    "Name": "260GS力量武器-连打1-100完美幸运=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001442": {
+    "Id": 2001442,
+    "Name": "260GS力量武器-连打2-100完美精通=幸运",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001443": {
+    "Id": 2001443,
+    "Name": "260GS力量武器-狂战1-100完美精通=暴击",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001444": {
+    "Id": 2001444,
+    "Name": "260GS力量武器-狂战2-100完美暴击=精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001445": {
+    "Id": 2001445,
+    "Name": "260GS力量武器-双斧紫-80完美随机=随机",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001246": {
+    "Id": 2001246,
+    "Name": "220GS敏捷武器-太刀-制造-暴击",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001247": {
+    "Id": 2001247,
+    "Name": "220GS敏捷武器-太刀-制造-急速",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001248": {
+    "Id": 2001248,
+    "Name": "220GS敏捷武器-太刀-制造-幸运",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001249": {
+    "Id": 2001249,
+    "Name": "220GS敏捷武器-太刀-制造-精通",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001250": {
+    "Id": 2001250,
+    "Name": "220GS敏捷武器-太刀-制造-全能",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001251": {
+    "Id": 2001251,
+    "Name": "220GS智力武器-冰法-制造-暴击",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001252": {
+    "Id": 2001252,
+    "Name": "220GS智力武器-冰法-制造-急速",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001253": {
+    "Id": 2001253,
+    "Name": "220GS智力武器-冰法-制造-幸运",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001254": {
+    "Id": 2001254,
+    "Name": "220GS智力武器-冰法-制造-精通",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001255": {
+    "Id": 2001255,
+    "Name": "220GS智力武器-冰法-制造-全能",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001256": {
+    "Id": 2001256,
+    "Name": "220GS力量武器-青岚-制造-暴击",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001257": {
+    "Id": 2001257,
+    "Name": "220GS力量武器-青岚-制造-急速",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001258": {
+    "Id": 2001258,
+    "Name": "220GS力量武器-青岚-制造-幸运",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001259": {
+    "Id": 2001259,
+    "Name": "220GS力量武器-青岚-制造-精通",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001260": {
+    "Id": 2001260,
+    "Name": "220GS力量武器-青岚-制造-全能",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001261": {
+    "Id": 2001261,
+    "Name": "220GS敏捷武器-弓箭-制造-暴击",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001262": {
+    "Id": 2001262,
+    "Name": "220GS敏捷武器-弓箭-制造-急速",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001263": {
+    "Id": 2001263,
+    "Name": "220GS敏捷武器-弓箭-制造-幸运",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001264": {
+    "Id": 2001264,
+    "Name": "220GS敏捷武器-弓箭-制造-精通",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001265": {
+    "Id": 2001265,
+    "Name": "220GS敏捷武器-弓箭-制造-全能",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001266": {
+    "Id": 2001266,
+    "Name": "220GS智力武器-巨刃-制造-暴击",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001267": {
+    "Id": 2001267,
+    "Name": "220GS智力武器-巨刃-制造-急速",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001268": {
+    "Id": 2001268,
+    "Name": "220GS智力武器-巨刃-制造-幸运",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001269": {
+    "Id": 2001269,
+    "Name": "220GS智力武器-巨刃-制造-精通",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001270": {
+    "Id": 2001270,
+    "Name": "220GS智力武器-巨刃-制造-全能",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001271": {
+    "Id": 2001271,
+    "Name": "220GS力量武器-吉他-制造-暴击",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001272": {
+    "Id": 2001272,
+    "Name": "220GS力量武器-吉他-制造-急速",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001273": {
+    "Id": 2001273,
+    "Name": "220GS力量武器-吉他-制造-幸运",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001274": {
+    "Id": 2001274,
+    "Name": "220GS力量武器-吉他-制造-精通",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001275": {
+    "Id": 2001275,
+    "Name": "220GS力量武器-吉他-制造-全能",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001276": {
+    "Id": 2001276,
+    "Name": "220GS智力武器-森语-制造-暴击",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001277": {
+    "Id": 2001277,
+    "Name": "220GS智力武器-森语-制造-急速",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001278": {
+    "Id": 2001278,
+    "Name": "220GS智力武器-森语-制造-幸运",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001279": {
+    "Id": 2001279,
+    "Name": "220GS智力武器-森语-制造-精通",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001280": {
+    "Id": 2001280,
+    "Name": "220GS智力武器-森语-制造-全能",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001281": {
+    "Id": 2001281,
+    "Name": "220GS力量武器-神盾-制造-暴击",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001282": {
+    "Id": 2001282,
+    "Name": "220GS力量武器-神盾-制造-急速",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001283": {
+    "Id": 2001283,
+    "Name": "220GS力量武器-神盾-制造-幸运",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001284": {
+    "Id": 2001284,
+    "Name": "220GS力量武器-神盾-制造-精通",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001285": {
+    "Id": 2001285,
+    "Name": "220GS力量武器-神盾-制造-全能",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001286": {
+    "Id": 2001286,
+    "Name": "220GS力量武器-双斧-制造-暴击",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001287": {
+    "Id": 2001287,
+    "Name": "220GS力量武器-双斧-制造-急速",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001288": {
+    "Id": 2001288,
+    "Name": "220GS力量武器-双斧-制造-幸运",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001289": {
+    "Id": 2001289,
+    "Name": "220GS力量武器-双斧-制造-精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001290": {
+    "Id": 2001290,
+    "Name": "220GS力量武器-双斧-制造-全能",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001346": {
+    "Id": 2001346,
+    "Name": "240GS敏捷武器-太刀-制造-暴击",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001347": {
+    "Id": 2001347,
+    "Name": "240GS敏捷武器-太刀-制造-急速",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001348": {
+    "Id": 2001348,
+    "Name": "240GS敏捷武器-太刀-制造-幸运",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001349": {
+    "Id": 2001349,
+    "Name": "240GS敏捷武器-太刀-制造-精通",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001350": {
+    "Id": 2001350,
+    "Name": "240GS敏捷武器-太刀-制造-全能",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001351": {
+    "Id": 2001351,
+    "Name": "240GS智力武器-冰法-制造-暴击",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001352": {
+    "Id": 2001352,
+    "Name": "240GS智力武器-冰法-制造-急速",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001353": {
+    "Id": 2001353,
+    "Name": "240GS智力武器-冰法-制造-幸运",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001354": {
+    "Id": 2001354,
+    "Name": "240GS智力武器-冰法-制造-精通",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001355": {
+    "Id": 2001355,
+    "Name": "240GS智力武器-冰法-制造-全能",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001356": {
+    "Id": 2001356,
+    "Name": "240GS力量武器-青岚-制造-暴击",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001357": {
+    "Id": 2001357,
+    "Name": "240GS力量武器-青岚-制造-急速",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001358": {
+    "Id": 2001358,
+    "Name": "240GS力量武器-青岚-制造-幸运",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001359": {
+    "Id": 2001359,
+    "Name": "240GS力量武器-青岚-制造-精通",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001360": {
+    "Id": 2001360,
+    "Name": "240GS力量武器-青岚-制造-全能",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001361": {
+    "Id": 2001361,
+    "Name": "240GS敏捷武器-弓箭-制造-暴击",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001362": {
+    "Id": 2001362,
+    "Name": "240GS敏捷武器-弓箭-制造-急速",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001363": {
+    "Id": 2001363,
+    "Name": "240GS敏捷武器-弓箭-制造-幸运",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001364": {
+    "Id": 2001364,
+    "Name": "240GS敏捷武器-弓箭-制造-精通",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001365": {
+    "Id": 2001365,
+    "Name": "240GS敏捷武器-弓箭-制造-全能",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001366": {
+    "Id": 2001366,
+    "Name": "240GS智力武器-巨刃-制造-暴击",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001367": {
+    "Id": 2001367,
+    "Name": "240GS智力武器-巨刃-制造-急速",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001368": {
+    "Id": 2001368,
+    "Name": "240GS智力武器-巨刃-制造-幸运",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001369": {
+    "Id": 2001369,
+    "Name": "240GS智力武器-巨刃-制造-精通",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001370": {
+    "Id": 2001370,
+    "Name": "240GS智力武器-巨刃-制造-全能",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001371": {
+    "Id": 2001371,
+    "Name": "240GS力量武器-吉他-制造-暴击",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001372": {
+    "Id": 2001372,
+    "Name": "240GS力量武器-吉他-制造-急速",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001373": {
+    "Id": 2001373,
+    "Name": "240GS力量武器-吉他-制造-幸运",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001374": {
+    "Id": 2001374,
+    "Name": "240GS力量武器-吉他-制造-精通",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001375": {
+    "Id": 2001375,
+    "Name": "240GS力量武器-吉他-制造-全能",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001376": {
+    "Id": 2001376,
+    "Name": "240GS智力武器-森语-制造-暴击",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001377": {
+    "Id": 2001377,
+    "Name": "240GS智力武器-森语-制造-急速",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001378": {
+    "Id": 2001378,
+    "Name": "240GS智力武器-森语-制造-幸运",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001379": {
+    "Id": 2001379,
+    "Name": "240GS智力武器-森语-制造-精通",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001380": {
+    "Id": 2001380,
+    "Name": "240GS智力武器-森语-制造-全能",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001381": {
+    "Id": 2001381,
+    "Name": "240GS力量武器-神盾-制造-暴击",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001382": {
+    "Id": 2001382,
+    "Name": "240GS力量武器-神盾-制造-急速",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001383": {
+    "Id": 2001383,
+    "Name": "240GS力量武器-神盾-制造-幸运",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001384": {
+    "Id": 2001384,
+    "Name": "240GS力量武器-神盾-制造-精通",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001385": {
+    "Id": 2001385,
+    "Name": "240GS力量武器-神盾-制造-全能",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001386": {
+    "Id": 2001386,
+    "Name": "240GS力量武器-双斧-制造-暴击",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001387": {
+    "Id": 2001387,
+    "Name": "240GS力量武器-双斧-制造-急速",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001388": {
+    "Id": 2001388,
+    "Name": "240GS力量武器-双斧-制造-幸运",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001389": {
+    "Id": 2001389,
+    "Name": "240GS力量武器-双斧-制造-精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001390": {
+    "Id": 2001390,
+    "Name": "240GS力量武器-双斧-制造-全能",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001446": {
+    "Id": 2001446,
+    "Name": "260GS敏捷武器-太刀-制造-暴击",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001447": {
+    "Id": 2001447,
+    "Name": "260GS敏捷武器-太刀-制造-急速",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001448": {
+    "Id": 2001448,
+    "Name": "260GS敏捷武器-太刀-制造-幸运",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001449": {
+    "Id": 2001449,
+    "Name": "260GS敏捷武器-太刀-制造-精通",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001450": {
+    "Id": 2001450,
+    "Name": "260GS敏捷武器-太刀-制造-全能",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001451": {
+    "Id": 2001451,
+    "Name": "260GS智力武器-冰法-制造-暴击",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001452": {
+    "Id": 2001452,
+    "Name": "260GS智力武器-冰法-制造-急速",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001453": {
+    "Id": 2001453,
+    "Name": "260GS智力武器-冰法-制造-幸运",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001454": {
+    "Id": 2001454,
+    "Name": "260GS智力武器-冰法-制造-精通",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001455": {
+    "Id": 2001455,
+    "Name": "260GS智力武器-冰法-制造-全能",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001456": {
+    "Id": 2001456,
+    "Name": "260GS力量武器-青岚-制造-暴击",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001457": {
+    "Id": 2001457,
+    "Name": "260GS力量武器-青岚-制造-急速",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001458": {
+    "Id": 2001458,
+    "Name": "260GS力量武器-青岚-制造-幸运",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001459": {
+    "Id": 2001459,
+    "Name": "260GS力量武器-青岚-制造-精通",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001460": {
+    "Id": 2001460,
+    "Name": "260GS力量武器-青岚-制造-全能",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001461": {
+    "Id": 2001461,
+    "Name": "260GS敏捷武器-弓箭-制造-暴击",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001462": {
+    "Id": 2001462,
+    "Name": "260GS敏捷武器-弓箭-制造-急速",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001463": {
+    "Id": 2001463,
+    "Name": "260GS敏捷武器-弓箭-制造-幸运",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001464": {
+    "Id": 2001464,
+    "Name": "260GS敏捷武器-弓箭-制造-精通",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001465": {
+    "Id": 2001465,
+    "Name": "260GS敏捷武器-弓箭-制造-全能",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001466": {
+    "Id": 2001466,
+    "Name": "260GS智力武器-巨刃-制造-暴击",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001467": {
+    "Id": 2001467,
+    "Name": "260GS智力武器-巨刃-制造-急速",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001468": {
+    "Id": 2001468,
+    "Name": "260GS智力武器-巨刃-制造-幸运",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001469": {
+    "Id": 2001469,
+    "Name": "260GS智力武器-巨刃-制造-精通",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001470": {
+    "Id": 2001470,
+    "Name": "260GS智力武器-巨刃-制造-全能",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001471": {
+    "Id": 2001471,
+    "Name": "260GS力量武器-吉他-制造-暴击",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001472": {
+    "Id": 2001472,
+    "Name": "260GS力量武器-吉他-制造-急速",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001473": {
+    "Id": 2001473,
+    "Name": "260GS力量武器-吉他-制造-幸运",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001474": {
+    "Id": 2001474,
+    "Name": "260GS力量武器-吉他-制造-精通",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001475": {
+    "Id": 2001475,
+    "Name": "260GS力量武器-吉他-制造-全能",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001476": {
+    "Id": 2001476,
+    "Name": "260GS智力武器-森语-制造-暴击",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001477": {
+    "Id": 2001477,
+    "Name": "260GS智力武器-森语-制造-急速",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001478": {
+    "Id": 2001478,
+    "Name": "260GS智力武器-森语-制造-幸运",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001479": {
+    "Id": 2001479,
+    "Name": "260GS智力武器-森语-制造-精通",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001480": {
+    "Id": 2001480,
+    "Name": "260GS智力武器-森语-制造-全能",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001481": {
+    "Id": 2001481,
+    "Name": "260GS力量武器-神盾-制造-暴击",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001482": {
+    "Id": 2001482,
+    "Name": "260GS力量武器-神盾-制造-急速",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001483": {
+    "Id": 2001483,
+    "Name": "260GS力量武器-神盾-制造-幸运",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001484": {
+    "Id": 2001484,
+    "Name": "260GS力量武器-神盾-制造-精通",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001485": {
+    "Id": 2001485,
+    "Name": "260GS力量武器-神盾-制造-全能",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001486": {
+    "Id": 2001486,
+    "Name": "260GS力量武器-双斧-制造-暴击",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001487": {
+    "Id": 2001487,
+    "Name": "260GS力量武器-双斧-制造-急速",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001488": {
+    "Id": 2001488,
+    "Name": "260GS力量武器-双斧-制造-幸运",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001489": {
+    "Id": 2001489,
+    "Name": "260GS力量武器-双斧-制造-精通",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001490": {
+    "Id": 2001490,
+    "Name": "260GS力量武器-双斧-制造-全能",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001117": {
+    "Id": 2001117,
+    "Name": "进阶冒险者太刀镰（物理）",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001118": {
+    "Id": 2001118,
+    "Name": "进阶冒险者冰魔杖（魔法）",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001119": {
+    "Id": 2001119,
+    "Name": "进阶冒险者长枪（物理）",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001120": {
+    "Id": 2001120,
+    "Name": "进阶冒险者法环（魔法）",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001121": {
+    "Id": 2001121,
+    "Name": "进阶冒险者卫刃（物理）",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001122": {
+    "Id": 2001122,
+    "Name": "进阶冒险者长弓（物理）",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001123": {
+    "Id": 2001123,
+    "Name": "进阶冒险者剑盾（物理）",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001124": {
+    "Id": 2001124,
+    "Name": "进阶冒险者电吉他（魔法）",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001125": {
+    "Id": 2001125,
+    "Name": "进阶冒险者双斧（物理）",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001126": {
+    "Id": 2001126,
+    "Name": "进阶冒险者太刀镰（物理）",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001127": {
+    "Id": 2001127,
+    "Name": "进阶冒险者冰魔杖（魔法）",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001128": {
+    "Id": 2001128,
+    "Name": "进阶冒险者长枪（物理）",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001129": {
+    "Id": 2001129,
+    "Name": "进阶冒险者法环（魔法）",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001130": {
+    "Id": 2001130,
+    "Name": "进阶冒险者卫刃（物理）",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001131": {
+    "Id": 2001131,
+    "Name": "进阶冒险者长弓（物理）",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001132": {
+    "Id": 2001132,
+    "Name": "进阶冒险者剑盾（物理）",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001133": {
+    "Id": 2001133,
+    "Name": "进阶冒险者电吉他（魔法）",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001134": {
+    "Id": 2001134,
+    "Name": "进阶冒险者双斧（物理）",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001501": {
+    "Id": 2001501,
+    "Name": "无想胧月闪",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001502": {
+    "Id": 2001502,
+    "Name": "众星幻想之杖",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001503": {
+    "Id": 2001503,
+    "Name": "梦呓怒涛斧",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001504": {
+    "Id": 2001504,
+    "Name": "蜃影千幻枪",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001505": {
+    "Id": 2001505,
+    "Name": "虚界造物环",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001506": {
+    "Id": 2001506,
+    "Name": "千钧梦魇之刃",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001507": {
+    "Id": 2001507,
+    "Name": "星幻流光弓",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001508": {
+    "Id": 2001508,
+    "Name": "不朽守望之誓",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001509": {
+    "Id": 2001509,
+    "Name": "虚空共鸣乐章",
+    "ProfessionId": 13,
+    "WeaponSkinId": 7410002
+  },
+  "2001510": {
+    "Id": 2001510,
+    "Name": "明镜止水斩",
+    "ProfessionId": 1,
+    "WeaponSkinId": 7310002
+  },
+  "2001511": {
+    "Id": 2001511,
+    "Name": "真理显现之杖",
+    "ProfessionId": 2,
+    "WeaponSkinId": 7320002
+  },
+  "2001512": {
+    "Id": 2001512,
+    "Name": "寂灭宣言",
+    "ProfessionId": 3,
+    "WeaponSkinId": 7330002
+  },
+  "2001513": {
+    "Id": 2001513,
+    "Name": "破障眺空枪",
+    "ProfessionId": 4,
+    "WeaponSkinId": 7340002
+  },
+  "2001514": {
+    "Id": 2001514,
+    "Name": "真源创生环",
+    "ProfessionId": 5,
+    "WeaponSkinId": 7350002
+  },
+  "2001515": {
+    "Id": 2001515,
+    "Name": "不摧理石巨刃",
+    "ProfessionId": 9,
+    "WeaponSkinId": 7370002
+  },
+  "2001516": {
+    "Id": 2001516,
+    "Name": "天命既定之矢",
+    "ProfessionId": 11,
+    "WeaponSkinId": 7390002
+  },
+  "2001517": {
+    "Id": 2001517,
+    "Name": "真实界碑",
+    "ProfessionId": 12,
+    "WeaponSkinId": 7400002
+  },
+  "2001518": {
+    "Id": 2001518,
+    "Name": "世界清醒之音",
     "ProfessionId": 13,
     "WeaponSkinId": 7410002
   }

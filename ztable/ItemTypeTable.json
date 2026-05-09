@@ -59,6 +59,16 @@
     "UpperLlimit": 0,
     "SpecialHint": []
   },
+  "32": {
+    "Id": 32,
+    "Name": "Musician",
+    "Package": 100,
+    "Classify": 0,
+    "SortId": 0,
+    "PreviewId": 0,
+    "UpperLlimit": 0,
+    "SpecialHint": []
+  },
   "40": {
     "Id": 40,
     "Name": "Season EXP",
@@ -990,6 +1000,36 @@
     "SortId": 0,
     "PreviewId": 0,
     "UpperLlimit": 0,
+    "SpecialHint": []
+  },
+  "1213": {
+    "Id": 1213,
+    "Name": "",
+    "Package": 1,
+    "Classify": 0,
+    "SortId": 0,
+    "PreviewId": 0,
+    "UpperLlimit": 0,
+    "SpecialHint": []
+  },
+  "1214": {
+    "Id": 1214,
+    "Name": "",
+    "Package": 1,
+    "Classify": 0,
+    "SortId": 0,
+    "PreviewId": 0,
+    "UpperLlimit": 0,
+    "SpecialHint": []
+  },
+  "1501": {
+    "Id": 1501,
+    "Name": "Sheet Music",
+    "Package": 15,
+    "Classify": 0,
+    "SortId": 0,
+    "PreviewId": 0,
+    "UpperLlimit": 1,
     "SpecialHint": []
   }
 }

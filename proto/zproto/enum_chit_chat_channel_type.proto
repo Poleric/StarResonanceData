@@ -12,5 +12,6 @@ enum ChitChatChannelType {
 	ChannelGroup = 6;
 	ChannelTopNotice = 7;
 	ChannelPlay = 8;
+	ChannelNewbie = 9;
 	ChannelSystem = 99;
 }

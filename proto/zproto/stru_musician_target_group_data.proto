@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "stru_musician_target_data.proto";
+import "stru_dirty_mask.proto";
+
+package zproto;
+
+message MusicianTargetGroupData {
+	int32 targetGroupId = 1 [json_name = "targetGroupId"];
+	repeated MusicianTargetData musicianTargetDataList = 2 [json_name = "musicianTargetDataList"];
+	int32 isReward = 3 [json_name = "isReward"];
+}

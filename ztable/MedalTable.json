@@ -1722,6 +1722,24 @@
       ]
     ]
   },
+  "9040124": {
+    "Id": 9040124,
+    "Name": "Star Pupil: Flower Fairy I",
+    "Type": 1,
+    "UnlockDes": "  ",
+    "Image": "personalzone_medal_icon_ip002_01",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 150,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        3099
+      ]
+    ]
+  },
   "9040118": {
     "Id": 9040118,
     "Name": "Sunraku",
@@ -1737,6 +1755,42 @@
       [
         110,
         70001
+      ]
+    ]
+  },
+  "9040125": {
+    "Id": 9040125,
+    "Name": "Thumping Vigil",
+    "Type": 1,
+    "UnlockDes": "Obtainable through Thumping Vigil Box in Wish.",
+    "Image": "personalzone_medal_icon_01_121",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 160,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "9040139": {
+    "Id": 9040139,
+    "Name": "Star Pupil: Flower Fairy II",
+    "Type": 1,
+    "UnlockDes": "  ",
+    "Image": "personalzone_medal_icon_ip002_02",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 151,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        3099
       ]
     ]
   },
@@ -1758,6 +1812,24 @@
       ]
     ]
   },
+  "9040126": {
+    "Id": 9040126,
+    "Name": "Thumping Vigil - Frenzy",
+    "Type": 1,
+    "UnlockDes": "Bonus item for purchasing Thumping Vigil - Frenzy Artbook from the Premium Store.",
+    "Image": "personalzone_medal_icon_01_122",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 161,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
   "9040120": {
     "Id": 9040120,
     "Name": "Psyger-0",
@@ -1773,6 +1845,24 @@
       [
         110,
         70001
+      ]
+    ]
+  },
+  "9040127": {
+    "Id": 9040127,
+    "Name": "Sonic Escape",
+    "Type": 1,
+    "UnlockDes": "Obtain through Sonic Escape in Wish.",
+    "Image": "personalzone_medal_icon_01_123",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 162,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        80108
       ]
     ]
   },
@@ -1794,6 +1884,60 @@
       ]
     ]
   },
+  "9040128": {
+    "Id": 9040128,
+    "Name": "Sonic Escape - Reverb",
+    "Type": 1,
+    "UnlockDes": "Bonus item for purchasing the Skin: Sonic Escape - Reverb from the Premium Store.",
+    "Image": "personalzone_medal_icon_01_124",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 163,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        80108
+      ]
+    ]
+  },
+  "9040144": {
+    "Id": 9040144,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_ip003_03",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 183,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "9040145": {
+    "Id": 9040145,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_ip003_05",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 184,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
   "9040122": {
     "Id": 9040122,
     "Name": "Emul the Bunny Guide",
@@ -1812,6 +1956,91 @@
       ]
     ]
   },
+  "9040146": {
+    "Id": 9040146,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_ip003_01",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 185,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "9040147": {
+    "Id": 9040147,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_ip003_04",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 186,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "9040129": {
+    "Id": 9040129,
+    "Name": "Next Generation - In the Name of Master I",
+    "Type": 1,
+    "UnlockDes": "Obtain through the limited-time event \"Master's Trial: Ember Resonance.\"",
+    "Image": "personalzone_medal_icon_01_125",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 164,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": []
+  },
+  "9040148": {
+    "Id": 9040148,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_ip003_06",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 187,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "9040149": {
+    "Id": 9040149,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_ip003_02",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 188,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
   "9040123": {
     "Id": 9040123,
     "Name": "Emul",
@@ -1827,6 +2056,213 @@
       [
         110,
         70001
+      ]
+    ]
+  },
+  "9040130": {
+    "Id": 9040130,
+    "Name": "Next Generation - In the Name of Master II",
+    "Type": 1,
+    "UnlockDes": "Obtain through the limited-time event \"Master's Trial: Ember Resonance.\"",
+    "Image": "personalzone_medal_icon_01_126",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 165,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": []
+  },
+  "9040131": {
+    "Id": 9040131,
+    "Name": "Street Guitarist",
+    "Type": 1,
+    "UnlockDes": "Obtain by reaching \"Street Guitarist I\" Guitar proficiency.",
+    "Image": "personalzone_medal_icon_01_127",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 170,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": []
+  },
+  "9040132": {
+    "Id": 9040132,
+    "Name": "String Virtuoso",
+    "Type": 1,
+    "UnlockDes": "Obtain by reaching \"String Virtuoso I\" Guitar proficiency.",
+    "Image": "personalzone_medal_icon_01_128",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 171,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": []
+  },
+  "9040133": {
+    "Id": 9040133,
+    "Name": "Street Keyboardist",
+    "Type": 1,
+    "UnlockDes": "Obtain by reaching \"Street Keyboardist I\" Keyboard proficiency.",
+    "Image": "personalzone_medal_icon_01_129",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 172,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": []
+  },
+  "9040134": {
+    "Id": 9040134,
+    "Name": "Monochrome Poet",
+    "Type": 1,
+    "UnlockDes": "Obtain by reaching \"Monochrome Poet I\" Keyboard proficiency.",
+    "Image": "personalzone_medal_icon_01_130",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 173,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": []
+  },
+  "9040135": {
+    "Id": 9040135,
+    "Name": "Street Bassist",
+    "Type": 1,
+    "UnlockDes": "Obtain by reaching \"Street Bassist I\" Bass proficiency.",
+    "Image": "personalzone_medal_icon_01_131",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 174,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": []
+  },
+  "9040136": {
+    "Id": 9040136,
+    "Name": "Root Note Warrior",
+    "Type": 1,
+    "UnlockDes": "Obtain by reaching \"Root Note Warrior I\" Bass proficiency.",
+    "Image": "personalzone_medal_icon_01_132",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 175,
+    "NotUnlock": 1,
+    "IsHide": 0,
+    "Condition": []
+  },
+  "9040137": {
+    "Id": 9040137,
+    "Name": "Street Drummer",
+    "Type": 1,
+    "UnlockDes": "Obtain by reaching \"Street Drummer I\" Drum proficiency.",
+    "Image": "personalzone_medal_icon_01_133",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 176,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": []
+  },
+  "9040138": {
+    "Id": 9040138,
+    "Name": "Top Drummer",
+    "Type": 1,
+    "UnlockDes": "Obtain by reaching \"Top Drummer I\" Drum proficiency.",
+    "Image": "personalzone_medal_icon_01_133",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 177,
+    "NotUnlock": 0,
+    "IsHide": 1,
+    "Condition": []
+  },
+  "9040140": {
+    "Id": 9040140,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_01_135",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 179,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        80109
+      ]
+    ]
+  },
+  "9040141": {
+    "Id": 9040141,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_01_136",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 180,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        80109
+      ]
+    ]
+  },
+  "9040142": {
+    "Id": 9040142,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_01_137",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 181,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        80109
+      ]
+    ]
+  },
+  "9040143": {
+    "Id": 9040143,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_01_138",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 182,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        80109
+      ]
+    ]
+  },
+  "9040150": {
+    "Id": 9040150,
+    "Name": "",
+    "Type": 1,
+    "UnlockDes": "",
+    "Image": "personalzone_medal_icon_01_139",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 189,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        40301
       ]
     ]
   }

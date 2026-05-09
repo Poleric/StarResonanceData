@@ -248,6 +248,18 @@
     "Sort": 8,
     "IsHide": false
   },
+  "83409": {
+    "Id": 83409,
+    "Name": "赤炎狂战士",
+    "MallPageId": 800834,
+    "ShopItemType": [
+      2,
+      3
+    ],
+    "PagetabIcon": "ui/atlas/profession/profession_horizontal_09",
+    "Sort": 9,
+    "IsHide": false
+  },
   "85201": {
     "Id": 85201,
     "Name": "套装",
@@ -389,6 +401,18 @@
     "Sort": 7,
     "IsHide": false
   },
+  "85308": {
+    "Id": 85308,
+    "Name": "尾饰",
+    "MallPageId": 800853,
+    "ShopItemType": [
+      1,
+      716
+    ],
+    "PagetabIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_257",
+    "Sort": 8,
+    "IsHide": false
+  },
   "85401": {
     "Id": 85401,
     "Name": "森语者",
@@ -483,6 +507,18 @@
     ],
     "PagetabIcon": "ui/atlas/profession/profession_horizontal_08",
     "Sort": 8,
+    "IsHide": false
+  },
+  "85409": {
+    "Id": 85409,
+    "Name": "赤炎狂战士",
+    "MallPageId": 800854,
+    "ShopItemType": [
+      2,
+      3
+    ],
+    "PagetabIcon": "ui/atlas/profession/profession_horizontal_09",
+    "Sort": 9,
     "IsHide": false
   },
   "86201": {
@@ -722,6 +758,18 @@
     "Sort": 8,
     "IsHide": false
   },
+  "86409": {
+    "Id": 86409,
+    "Name": "赤炎狂战士",
+    "MallPageId": 800864,
+    "ShopItemType": [
+      2,
+      3
+    ],
+    "PagetabIcon": "ui/atlas/profession/profession_horizontal_09",
+    "Sort": 9,
+    "IsHide": false
+  },
   "84201": {
     "Id": 84201,
     "Name": "套装",
@@ -945,6 +993,30 @@
     ],
     "PagetabIcon": "ui/atlas/profession/profession_horizontal_03",
     "Sort": 7,
+    "IsHide": false
+  },
+  "84408": {
+    "Id": 84408,
+    "Name": "灵魂乐手",
+    "MallPageId": 800844,
+    "ShopItemType": [
+      2,
+      13
+    ],
+    "PagetabIcon": "ui/atlas/profession/profession_horizontal_08",
+    "Sort": 8,
+    "IsHide": false
+  },
+  "84409": {
+    "Id": 84409,
+    "Name": "赤炎狂战士",
+    "MallPageId": 800844,
+    "ShopItemType": [
+      2,
+      3
+    ],
+    "PagetabIcon": "ui/atlas/profession/profession_horizontal_09",
+    "Sort": 9,
     "IsHide": false
   },
   "80210201": {
@@ -1182,6 +1254,18 @@
     ],
     "PagetabIcon": "ui/atlas/profession/profession_horizontal_08",
     "Sort": 8,
+    "IsHide": false
+  },
+  "80210409": {
+    "Id": 80210409,
+    "Name": "赤炎狂战士",
+    "MallPageId": 802104,
+    "ShopItemType": [
+      2,
+      3
+    ],
+    "PagetabIcon": "ui/atlas/profession/profession_horizontal_09",
+    "Sort": 9,
     "IsHide": false
   }
 }

@@ -6183,6 +6183,14 @@
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
+  "113010801": {
+    "Id": 113010801,
+    "SpeakerName": "",
+    "TextContent": "Fafala: ...Thank you, <style=\"emph-gn\">{*me.name*}</style>... You're always... so gentle...",
+    "PlotCharactersId": 116,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
   "113020101": {
     "Id": 113020101,
     "SpeakerName": "",
@@ -12815,6 +12823,358 @@
     "VoiceEventName": "",
     "VoiceControlEvent": ""
   },
+  "430013003": {
+    "Id": 430013003,
+    "SpeakerName": "",
+    "TextContent": "Peter: Boss, we found the guy—he's from the Combat Department. He had his armor stripped by <style=\"emph-gn\">{*me.name*}</style> a while ago.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430013004": {
+    "Id": 430013004,
+    "SpeakerName": "",
+    "TextContent": "Peter: He said he was too scared to report it.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430013005": {
+    "Id": 430013005,
+    "SpeakerName": "",
+    "TextContent": "Hawkes: Is that so? Then it's none of our concern.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430013006": {
+    "Id": 430013006,
+    "SpeakerName": "",
+    "TextContent": "Good work. From today onward, you're an officer.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430015001": {
+    "Id": 430015001,
+    "SpeakerName": "",
+    "TextContent": "You grab a still-conscious member of the Cabbage Mission and look down at him from above. The phantom of a Battle Imagine flickers faintly behind you...<br>After a long pause, as he trembles uncontrollably, you question him about the missing Adventurer party...",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430015002": {
+    "Id": 430015002,
+    "SpeakerName": "",
+    "TextContent": "Afterward, you leave the Cabbage Mission's stronghold with the now-awake Adventurer party, without encountering any resistance.<br>After a thorough examination by the Creed Priest, it is found that, aside from a few superficial wounds, the three are as healthy as Caprahorns in their prime.<br>Holgen offers thanks on behalf of the Creed and the Pioneer Bureau, and delivers the agreed-upon reward for the commission.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017001": {
+    "Id": 430017001,
+    "SpeakerName": "",
+    "TextContent": "The Consultant: It's unclear whether the crystal clusters from the highlands spread here and destroyed this place, or if some other faction got here first.",
+    "PlotCharactersId": 5,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017002": {
+    "Id": 430017002,
+    "SpeakerName": "",
+    "TextContent": "The Consultant: There's almost nothing left here.",
+    "PlotCharactersId": 5,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017003": {
+    "Id": 430017003,
+    "SpeakerName": "",
+    "TextContent": "???: <style=\"emph-gn\">{*me.name*}</style>—",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017004": {
+    "Id": 430017004,
+    "SpeakerName": "",
+    "TextContent": "Brigand Leader: Well, did you get a good look?",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017005": {
+    "Id": 430017005,
+    "SpeakerName": "",
+    "TextContent": "The Consultant: Yes. Thanks for coming all this way, Seregor.",
+    "PlotCharactersId": 5,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017006": {
+    "Id": 430017006,
+    "SpeakerName": "",
+    "TextContent": "Seregor: I told you before—their strength is beyond question.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017007": {
+    "Id": 430017007,
+    "SpeakerName": "",
+    "TextContent": "The Consultant: But I still wanted to see for myself.",
+    "PlotCharactersId": 5,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017008": {
+    "Id": 430017008,
+    "SpeakerName": "",
+    "TextContent": "Seregor: Hmph. Fine. With this, my debt to you is repaid.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017009": {
+    "Id": 430017009,
+    "SpeakerName": "",
+    "TextContent": "The Consultant: The Adventurer has already left. Wake up.",
+    "PlotCharactersId": 5,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430017010": {
+    "Id": 430017010,
+    "SpeakerName": "",
+    "TextContent": "Brigand Leader: Damn... they didn't hold back.",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430021001": {
+    "Id": 430021001,
+    "SpeakerName": "",
+    "TextContent": "Isabella: <style=\"emph-gn\">{*me.name*}</style>, do you have someone you can never forget... someone you'll never see again?",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430021002": {
+    "Id": 430021002,
+    "SpeakerName": "",
+    "TextContent": "......",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430021003": {
+    "Id": 430021003,
+    "SpeakerName": "",
+    "TextContent": "Isabella: <style=\"emph-gn\">{*me.name*}</style>...",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430021004": {
+    "Id": 430021004,
+    "SpeakerName": "",
+    "TextContent": "<style=\"emph-gn\">{*me.name*}</style>: Hmm?",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430021005": {
+    "Id": 430021005,
+    "SpeakerName": "",
+    "TextContent": "Isabella: It's a brand-new day!",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430021006": {
+    "Id": 430021006,
+    "SpeakerName": "",
+    "TextContent": "<style=\"emph-gn\">{*me.name*}</style>: Yeah... it is.",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430021007": {
+    "Id": 430021007,
+    "SpeakerName": "",
+    "TextContent": "<style=\"emph-gn\">{*me.name*}</style>: Maybe.",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430023001": {
+    "Id": 430023001,
+    "SpeakerName": "",
+    "TextContent": "<style=\"emph-gn\">{*me.name*}</style>: Speaking of which, you changed outfits.",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430023002": {
+    "Id": 430023002,
+    "SpeakerName": "",
+    "TextContent": "Isabella: What are you saying? A cutie can't keep wearing the same outfit forever!",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430023003": {
+    "Id": 430023003,
+    "SpeakerName": "",
+    "TextContent": "<style=\"emph-gn\">{*me.name*}</style>: Oh, I see.",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430025001": {
+    "Id": 430025001,
+    "SpeakerName": "",
+    "TextContent": "<style=\"emph-gn\">{*me.name*}</style>: Is this... your memory?",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430025002": {
+    "Id": 430025002,
+    "SpeakerName": "",
+    "TextContent": "Isabella: Not just mine. It's a scene shaped from our shared memories.",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430025003": {
+    "Id": 430025003,
+    "SpeakerName": "",
+    "TextContent": "Isabella: This is my nightmare... but the dragon and the soldiers come from you.",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430025004": {
+    "Id": 430025004,
+    "SpeakerName": "",
+    "TextContent": "Soon, Crimson Night will be defeated by the combined forces of humans and dragons...",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430025005": {
+    "Id": 430025005,
+    "SpeakerName": "",
+    "TextContent": "\"Isabella... promise me... you will live on...\"<br>\"Promise me...\"",
+    "PlotCharactersId": 3,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430025006": {
+    "Id": 430025006,
+    "SpeakerName": "",
+    "TextContent": "Isabella: Of course, Crimson Night. It's a promise.",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430035001": {
+    "Id": 430035001,
+    "SpeakerName": "",
+    "TextContent": "Void Watcher: Imminent Void threat detected.",
+    "PlotCharactersId": 11,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430035002": {
+    "Id": 430035002,
+    "SpeakerName": "",
+    "TextContent": "Void Watcher: Level 0 warning protocol initiated. Threat report uploading... 10%...",
+    "PlotCharactersId": 11,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430035003": {
+    "Id": 430035003,
+    "SpeakerName": "",
+    "TextContent": "Void Watcher: 30%... 57%... 84%... 99%...",
+    "PlotCharactersId": 11,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430035004": {
+    "Id": 430035004,
+    "SpeakerName": "",
+    "TextContent": "Void Watcher: Permissions revoked. Transmission link disconnected. Upload failed...",
+    "PlotCharactersId": 11,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430036001": {
+    "Id": 430036001,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430036002": {
+    "Id": 430036002,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 6,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430036003": {
+    "Id": 430036003,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430036004": {
+    "Id": 430036004,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 6,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430036005": {
+    "Id": 430036005,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 6,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430036006": {
+    "Id": 430036006,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 9,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430037001": {
+    "Id": 430037001,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 11,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "430037002": {
+    "Id": 430037002,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 11,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
   "430624011": {
     "Id": 430624011,
     "SpeakerName": "",
@@ -12947,6 +13307,78 @@
     "Id": 1010110512,
     "SpeakerName": "",
     "TextContent": "You...",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "423065301": {
+    "Id": 423065301,
+    "SpeakerName": "",
+    "TextContent": "Just as Adriana was about to dodge to the side, she tripped over a rock.<br>I was about to step in when the charging Basilisk suddenly halted.",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "30041001": {
+    "Id": 30041001,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "30041002": {
+    "Id": 30041002,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 4,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "30041003": {
+    "Id": 30041003,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 10,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113040101": {
+    "Id": 113040101,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113040102": {
+    "Id": 113040102,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113040103": {
+    "Id": 113040103,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113040104": {
+    "Id": 113040104,
+    "SpeakerName": "",
+    "TextContent": "",
+    "PlotCharactersId": 101,
+    "VoiceEventName": "",
+    "VoiceControlEvent": ""
+  },
+  "113040105": {
+    "Id": 113040105,
+    "SpeakerName": "",
+    "TextContent": "",
     "PlotCharactersId": 101,
     "VoiceEventName": "",
     "VoiceControlEvent": ""

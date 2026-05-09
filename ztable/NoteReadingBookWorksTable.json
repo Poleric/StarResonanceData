@@ -2346,28 +2346,6 @@
     "Quality": 2,
     "IsHide": false
   },
-  "1223": {
-    "Id": 1223,
-    "Episode": 1094,
-    "WorksType": 104,
-    "TargetType": [
-      1031334,
-      1031335,
-      1031336,
-      1031337,
-      1031338,
-      1031339,
-      1031340,
-      1031341,
-      1031342,
-      1031343
-    ],
-    "WorksName": "Renewal Light Riddle",
-    "ReadingBookDes": "A thick sheet of pale red paper. Under the light, you can see traces of ink seeping into the paper's fibers, a sign of the writer's exceptional care. Neatly punched holes at the top allow it to be threaded with a fine string to form a commemorative booklet.",
-    "Icon": "item_icons_item_icons_citizen_note",
-    "Quality": 2,
-    "IsHide": false
-  },
   "1179": {
     "Id": 1179,
     "Episode": 1050,
@@ -2756,6 +2734,334 @@
     ],
     "WorksName": "Lost Painting Notes",
     "ReadingBookDes": "An artist's misplaced notebook, capturing a sudden flash of inspiration.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1223": {
+    "Id": 1223,
+    "Episode": 1094,
+    "WorksType": 104,
+    "TargetType": [
+      1031334,
+      1031335,
+      1031336,
+      1031337,
+      1031338,
+      1031339,
+      1031340,
+      1031341,
+      1031342,
+      1031343
+    ],
+    "WorksName": "Renewal Light Riddle",
+    "ReadingBookDes": "A thick sheet of pale red paper. Under the light, you can see traces of ink seeping into the paper's fibers, a sign of the writer's exceptional care. Neatly punched holes at the top allow it to be threaded with a fine string to form a commemorative booklet.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1224": {
+    "Id": 1224,
+    "Episode": 1094,
+    "WorksType": 101,
+    "TargetType": [
+      1031353
+    ],
+    "WorksName": "\"Webber Industry and the Creed\"",
+    "ReadingBookDes": "A magazine introducing the domestic situation in Byrnhald. Its cover and layout style are very serious, and its content carries a clear political stance.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1225": {
+    "Id": 1225,
+    "Episode": 1095,
+    "WorksType": 102,
+    "TargetType": [
+      1031354
+    ],
+    "WorksName": "Diary Scattered in Sunken Corridor",
+    "ReadingBookDes": "A diary page scattered in the grass. The edges are torn and stained with mud, as if someone tried to hastily put it away, but dropped it as they ran.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1226": {
+    "Id": 1226,
+    "Episode": 1096,
+    "WorksType": 101,
+    "TargetType": [
+      1031355
+    ],
+    "WorksName": "\"Blueprints and Models: Features of Artificial Geometry\"",
+    "ReadingBookDes": "A bulletin circulated internally among artisans, aimed at artisan crafters. The paper smells of charcoal powder and ink, as if it just left the workbench not long ago.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1227": {
+    "Id": 1227,
+    "Episode": 1097,
+    "WorksType": 102,
+    "TargetType": [
+      1031356
+    ],
+    "WorksName": "Lost Diary of an Intern",
+    "ReadingBookDes": "An intern's diary filled with elegant handwriting. The pages give off the scent of herbs and spices. It's unknown why it was left here.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1228": {
+    "Id": 1228,
+    "Episode": 1098,
+    "WorksType": 101,
+    "TargetType": [
+      1031357
+    ],
+    "WorksName": "\"The Golden Rules of Alchemists\"",
+    "ReadingBookDes": "A small, privately printed alchemy publication commoners circulate amongst themselves. Its tone is frivolous, and its content is half-serious, half-joking. Still, it's surprisingly popular—the pages of this one are dog-eared, as though someone carried it around constantly.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1229": {
+    "Id": 1229,
+    "Episode": 1099,
+    "WorksType": 102,
+    "TargetType": [
+      1031358,
+      1031359,
+      1031360
+    ],
+    "WorksName": "Outdoor Explorer's Diary",
+    "ReadingBookDes": "A page from a diary. The handwriting is bold and sweeping, with emotion practically spilling out of the ink.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1230": {
+    "Id": 1230,
+    "Episode": 1100,
+    "WorksType": 103,
+    "TargetType": [
+      1031361,
+      1031362
+    ],
+    "WorksName": "The Yellow-Backed Fox Mystery",
+    "ReadingBookDes": "A clipping from a local tabloid, primarily focusing on revealing the rumors of shared dreams, and intended to warn highland residents to be on guard against the return of the Illusory Plague.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1231": {
+    "Id": 1231,
+    "Episode": 1101,
+    "WorksType": 101,
+    "TargetType": [
+      1031363,
+      1031364,
+      1031367
+    ],
+    "WorksName": "Artisan Guild Newsletter",
+    "ReadingBookDes": "A set of publications printed internally by the Artisan Guild, focusing on cutting-edge technologies and Guild news. The paper is stiff and the layout is neat. It's quite popular in the Asterleeds region.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1232": {
+    "Id": 1232,
+    "Episode": 1102,
+    "WorksType": 102,
+    "TargetType": [
+      1031365
+    ],
+    "WorksName": "Letters Left Behind in Sunken Corridor",
+    "ReadingBookDes": "A long-lost letter. Some of its contents have been covered in dust and are no longer legible.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1233": {
+    "Id": 1233,
+    "Episode": 1103,
+    "WorksType": 103,
+    "TargetType": [
+      1031366
+    ],
+    "WorksName": "Frequent Unusual Weather, Is the Illusory Plague Returning?",
+    "ReadingBookDes": "A flyer distributed only in the highland regions. The wording is slightly exaggerated and carries a hint of alarmism.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1234": {
+    "Id": 1234,
+    "Episode": 1104,
+    "WorksType": 101,
+    "TargetType": [
+      1031368
+    ],
+    "WorksName": "\"Treasure Hunter's Journal - Revised Edition\"",
+    "ReadingBookDes": "A paperback book with a very plain cover, but covered with highly exaggerated treasure patterns, as if afraid others might overlook it.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1235": {
+    "Id": 1235,
+    "Episode": 1105,
+    "WorksType": 103,
+    "TargetType": [
+      1031369
+    ],
+    "WorksName": "\"List of Missing Treasure Hunters\"",
+    "ReadingBookDes": "A yellowed piece of paper covered in various styles of handwriting. It has been passed through the hands of different people and is covered in names...",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1236": {
+    "Id": 1236,
+    "Episode": 1106,
+    "WorksType": 101,
+    "TargetType": [
+      1031370
+    ],
+    "WorksName": "\"Beast Species Overview\"",
+    "ReadingBookDes": "A popular science book introducing the wild animals of the highlands.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1237": {
+    "Id": 1237,
+    "Episode": 1107,
+    "WorksType": 101,
+    "TargetType": [
+      1031371
+    ],
+    "WorksName": "\"Asterleeds Fashion Trends\"",
+    "ReadingBookDes": "A monthly fashion magazine.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1238": {
+    "Id": 1238,
+    "Episode": 1108,
+    "WorksType": 101,
+    "TargetType": [
+      1031372
+    ],
+    "WorksName": "\"Treasure Hunting Adventures\"",
+    "ReadingBookDes": "A best-selling adventure novel about treasure hunters.",
+    "Icon": "item_icons_item_icons_citizen_book_thick",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1239": {
+    "Id": 1239,
+    "Episode": 1109,
+    "WorksType": 103,
+    "TargetType": [
+      1031373
+    ],
+    "WorksName": "\"Brothers, True and False\"",
+    "ReadingBookDes": "A theater promotional flyer featuring highly exaggerated slogans and illustrations.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1240": {
+    "Id": 1240,
+    "Episode": 1110,
+    "WorksType": 102,
+    "TargetType": [
+      1031374
+    ],
+    "WorksName": "To My Dear Father",
+    "ReadingBookDes": "A yellowed family letter.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1241": {
+    "Id": 1241,
+    "Episode": 1111,
+    "WorksType": 101,
+    "TargetType": [
+      1031375
+    ],
+    "WorksName": "\"The Hunter\"",
+    "ReadingBookDes": "A popular science book intended for the general public.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1242": {
+    "Id": 1242,
+    "Episode": 1112,
+    "WorksType": 103,
+    "TargetType": [
+      1031376
+    ],
+    "WorksName": "Top Secret! Treasure Clues Compendium!",
+    "ReadingBookDes": "A note covered in doodles with blurry handwriting on it.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1243": {
+    "Id": 1243,
+    "Episode": 1113,
+    "WorksType": 103,
+    "TargetType": [
+      1031377
+    ],
+    "WorksName": "Never Trust Their Nonsense!",
+    "ReadingBookDes": "A note covered in doodles with blurry handwriting on it.",
+    "Icon": "item_icons_item_icons_citizen_note",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1244": {
+    "Id": 1244,
+    "Episode": 1114,
+    "WorksType": 101,
+    "TargetType": [
+      1031378,
+      1031379,
+      1031380
+    ],
+    "WorksName": "Woodland Ghost Stories Omnibus",
+    "ReadingBookDes": "A book of ghost stories containing many bizarre tales, with a sunset over the woods as its cover.",
+    "Icon": "item_icons_item_icons_citizen_book_thin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1245": {
+    "Id": 1245,
+    "Episode": 1115,
+    "WorksType": 102,
+    "TargetType": [
+      1031381
+    ],
+    "WorksName": "To Thaddeus",
+    "ReadingBookDes": "An opened letter that has been very well-preserved.",
+    "Icon": "item_icons_xin",
+    "Quality": 2,
+    "IsHide": false
+  },
+  "1246": {
+    "Id": 1246,
+    "Episode": 1116,
+    "WorksType": 104,
+    "TargetType": [
+      1031382
+    ],
+    "WorksName": "Traveling Merchant's Ledger",
+    "ReadingBookDes": "An old ledger recording incoming and outgoing goods.",
     "Icon": "item_icons_item_icons_citizen_book_thin",
     "Quality": 2,
     "IsHide": false

@@ -1,0 +1,499 @@
+{
+  "1000101": {
+    "ID": 1000101,
+    "FuncName": "Electric Guitar Register E2–B2",
+    "MusicalInstruments": 10002,
+    "FuncType": 1,
+    "FuncParams": [],
+    "UnlockCondition": [
+      [
+        127,
+        1,
+        4
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "1000102": {
+    "ID": 1000102,
+    "FuncName": "Electric Guitar Register C3–B4",
+    "MusicalInstruments": 10002,
+    "FuncType": 1,
+    "FuncParams": [
+      47,
+      71
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "1000103": {
+    "ID": 1000103,
+    "FuncName": "Electric Guitar Register C5–D6",
+    "MusicalInstruments": 10002,
+    "FuncType": 1,
+    "FuncParams": [
+      71,
+      86
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        1,
+        7
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "1000202": {
+    "ID": 1000202,
+    "FuncName": "Default (Sustained)",
+    "MusicalInstruments": 10002,
+    "FuncType": 2,
+    "FuncParams": [
+      1
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "1000203": {
+    "ID": 1000203,
+    "FuncName": "Muffled Tone",
+    "MusicalInstruments": 10002,
+    "FuncType": 2,
+    "FuncParams": [
+      2
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        1,
+        2
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "1000204": {
+    "ID": 1000204,
+    "FuncName": "Harmonics",
+    "MusicalInstruments": 10002,
+    "FuncType": 2,
+    "FuncParams": [
+      3
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        1,
+        5
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "1000301": {
+    "ID": 1000301,
+    "FuncName": "Clean",
+    "MusicalInstruments": 10002,
+    "FuncType": 3,
+    "FuncParams": [
+      1000001
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "1000302": {
+    "ID": 1000302,
+    "FuncName": "Overdrive",
+    "MusicalInstruments": 10002,
+    "FuncType": 3,
+    "FuncParams": [
+      1000002
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        1,
+        6
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "1000303": {
+    "ID": 1000303,
+    "FuncName": "Distortion",
+    "MusicalInstruments": 10002,
+    "FuncType": 3,
+    "FuncParams": [
+      1000003
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        1,
+        8
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "2000101": {
+    "ID": 2000101,
+    "FuncName": "Piano Register A0–B2",
+    "MusicalInstruments": 10001,
+    "FuncType": 1,
+    "FuncParams": [
+      20,
+      47
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        2,
+        4
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "2000102": {
+    "ID": 2000102,
+    "FuncName": "Piano Register C3–B4",
+    "MusicalInstruments": 10001,
+    "FuncType": 1,
+    "FuncParams": [
+      47,
+      71
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "2000103": {
+    "ID": 2000103,
+    "FuncName": "Piano Register C5–B6",
+    "MusicalInstruments": 10001,
+    "FuncType": 1,
+    "FuncParams": [
+      71,
+      95
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        2,
+        2
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "2000104": {
+    "ID": 2000104,
+    "FuncName": "Piano Register C7–C8",
+    "MusicalInstruments": 10001,
+    "FuncType": 1,
+    "FuncParams": [
+      95,
+      108
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        2,
+        7
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "2000201": {
+    "ID": 2000201,
+    "FuncName": "Default",
+    "MusicalInstruments": 10001,
+    "FuncType": 2,
+    "FuncParams": [
+      1
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "2000301": {
+    "ID": 2000301,
+    "FuncName": "Acoustic",
+    "MusicalInstruments": 10001,
+    "FuncType": 3,
+    "FuncParams": [
+      1000000
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "3000101": {
+    "ID": 3000101,
+    "FuncName": "Electric Bass Register E1–B2",
+    "MusicalInstruments": 10004,
+    "FuncType": 1,
+    "FuncParams": [
+      27,
+      47
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "3000102": {
+    "ID": 3000102,
+    "FuncName": "Electric Bass Register C3–F4",
+    "MusicalInstruments": 10004,
+    "FuncType": 1,
+    "FuncParams": [
+      47,
+      65
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        3,
+        4
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "3000202": {
+    "ID": 3000202,
+    "FuncName": "Default (Sustained)",
+    "MusicalInstruments": 10004,
+    "FuncType": 2,
+    "FuncParams": [
+      1
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "3000203": {
+    "ID": 3000203,
+    "FuncName": "Muffled Tone",
+    "MusicalInstruments": 10004,
+    "FuncType": 2,
+    "FuncParams": [
+      2
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        3,
+        2
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "3000204": {
+    "ID": 3000204,
+    "FuncName": "Harmonics",
+    "MusicalInstruments": 10004,
+    "FuncType": 2,
+    "FuncParams": [
+      3
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        3,
+        5
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "3000207": {
+    "ID": 3000207,
+    "FuncName": "Slap",
+    "MusicalInstruments": 10004,
+    "FuncType": 2,
+    "FuncParams": [
+      6
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        3,
+        7
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "3000301": {
+    "ID": 3000301,
+    "FuncName": "Clean",
+    "MusicalInstruments": 10004,
+    "FuncType": 3,
+    "FuncParams": [
+      1000004
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "3000302": {
+    "ID": 3000302,
+    "FuncName": "Overdrive",
+    "MusicalInstruments": 10004,
+    "FuncType": 3,
+    "FuncParams": [
+      1000005
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        3,
+        8
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "4000101": {
+    "ID": 4000101,
+    "FuncName": "Kick Drum, Hi-Hat",
+    "MusicalInstruments": 10003,
+    "FuncType": 1,
+    "FuncParams": [
+      59,
+      68
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        4,
+        2
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "4000102": {
+    "ID": 4000102,
+    "FuncName": "Snare Drum, Tom Drum",
+    "MusicalInstruments": 10003,
+    "FuncType": 1,
+    "FuncParams": [
+      68,
+      76
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "4000103": {
+    "ID": 4000103,
+    "FuncName": "Crash Cymbal, Ride Cymbal",
+    "MusicalInstruments": 10003,
+    "FuncType": 1,
+    "FuncParams": [
+      76,
+      83
+    ],
+    "UnlockCondition": [
+      [
+        127,
+        4,
+        4
+      ]
+    ],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "4000201": {
+    "ID": 4000201,
+    "FuncName": "Default",
+    "MusicalInstruments": 10003,
+    "FuncType": 2,
+    "FuncParams": [
+      1
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  },
+  "4000301": {
+    "ID": 4000301,
+    "FuncName": "Acoustic",
+    "MusicalInstruments": 10003,
+    "FuncType": 3,
+    "FuncParams": [
+      1000006
+    ],
+    "UnlockCondition": [],
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      101201
+    ]
+  }
+}

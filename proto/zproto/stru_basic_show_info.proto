@@ -14,4 +14,5 @@ message BasicShowInfo {
 	uint32 unionHuntRandIdx = 7 [json_name = "unionHuntRandIdx"];
 	bool isNewbie = 8 [json_name = "isNewbie"];
 	bool isBackflow = 9 [json_name = "isBackflow"];
+	int32 mentorShowType = 10 [json_name = "mentorShowType"];
 }

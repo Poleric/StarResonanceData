@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zproto;
+
+message MusicianLevelUpRequest {
+	int32 musicianId = 1 [json_name = "musicianId"];
+	int32 level = 2 [json_name = "level"];
+}

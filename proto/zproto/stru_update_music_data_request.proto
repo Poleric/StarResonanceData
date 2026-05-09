@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+message UpdateMusicDataRequest {
+	int32 instrumentId = 1 [json_name = "instrumentId"];
+	int32 musicId = 2 [json_name = "musicId"];
+	int32 score = 3 [json_name = "score"];
+	bool isAutoPlaying = 4 [json_name = "isAutoPlaying"];
+}

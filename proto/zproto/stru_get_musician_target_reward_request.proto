@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package zproto;
+
+message GetMusicianTargetRewardRequest {
+	int32 musicianId = 1 [json_name = "musicianId"];
+	int32 targetType = 2 [json_name = "targetType"];
+	int32 targetGroupId = 3 [json_name = "targetGroupId"];
+}

@@ -16,5 +16,23 @@
     "GainEff": 1,
     "MaxExp": 217110000,
     "ExGainEff": 1
+  },
+  "3": {
+    "Id": 3,
+    "SeasonId": 3,
+    "TimeDelay": 1,
+    "ConvertEff": 1,
+    "GainEff": 1,
+    "MaxExp": 217110000,
+    "ExGainEff": 1
+  },
+  "4": {
+    "Id": 4,
+    "SeasonId": 4,
+    "TimeDelay": 1,
+    "ConvertEff": 1,
+    "GainEff": 1,
+    "MaxExp": 217110000,
+    "ExGainEff": 1
   }
 }

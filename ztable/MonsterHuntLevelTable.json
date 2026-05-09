@@ -113,10 +113,26 @@
   },
   "15": {
     "Level": 15,
-    "LevelUpExp": 1600,
+    "LevelUpExp": 1500,
     "ItemAward": 20400150,
     "ExtraAward": [],
     "ExtraText": "Rewards for Monster Manual Lv.15",
+    "ShowLevel": 1
+  },
+  "16": {
+    "Level": 16,
+    "LevelUpExp": 1500,
+    "ItemAward": 20400160,
+    "ExtraAward": [],
+    "ExtraText": "Rewards for reaching Monster Manual Lv.16",
+    "ShowLevel": 1
+  },
+  "17": {
+    "Level": 17,
+    "LevelUpExp": 1500,
+    "ItemAward": 20400170,
+    "ExtraAward": [],
+    "ExtraText": "Rewards for reaching Monster Manual Lv.17",
     "ShowLevel": 1
   }
 }

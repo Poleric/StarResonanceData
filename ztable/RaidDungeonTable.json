@@ -2,13 +2,13 @@
   "13001": {
     "DungeonId": 13001,
     "Difficult": 1,
-    "GroupId": 1,
+    "GroupId": 31,
     "Name": "Dragon Shackles",
     "Content": 4510,
     "MatchPic": "",
     "BossId": [],
     "PassAward": [
-      16000091
+      16000001
     ],
     "MonsterShowTexture": "ui/textures/roid/raid_easy_monster",
     "DiffBgTexture": "ui/textures/roid/raid_easy_bg",
@@ -35,7 +35,7 @@
       "ui/atlas/raid/raid_tog_select_difficulty_on",
       "ui/atlas/raid/raid_tog_select_nightmare_on"
     ],
-    "Desc": "<size=22><color=#f04f84>Dreamforce: On the Floating Void Isle, your DMG dealt is increased by 100%. </color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.</style></size>",
+    "Desc": "<br><size=22><color=#f04f84>Backtrack Power: In Floating Island, DMG dealt is increased by 100%.</color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost combat effectiveness and better participate in challenges.</style></size>",
     "AwardDesc": ""
   },
   "13002": {
@@ -127,7 +127,7 @@
   "13011": {
     "DungeonId": 13011,
     "Difficult": 1,
-    "GroupId": 2,
+    "GroupId": 32,
     "Name": "Dreambloom Ruins",
     "Content": 4511,
     "MatchPic": "",
@@ -137,7 +137,7 @@
       103001
     ],
     "PassAward": [
-      16000101
+      16000106
     ],
     "MonsterShowTexture": "ui/textures/roid/raid_easy_monster_02",
     "DiffBgTexture": "ui/textures/roid/raid_easy_bg_02",
@@ -164,7 +164,7 @@
       "ui/atlas/raid/raid_tog_select_difficulty_on",
       "ui/atlas/raid/raid_tog_select_nightmare_on_02"
     ],
-    "Desc": "<br><size=22><color=#f04f84>Recommended: [Illusion Strength] 1480</color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost your strength.</style></size>",
+    "Desc": "<br><size=22><color=#f04f84>Backtrack Power: In Dreambloom Ruins, DMG dealt is increased by 100%.</color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost combat effectiveness and better participate in challenges.</style></size>",
     "AwardDesc": ""
   },
   "13012": {
@@ -207,7 +207,7 @@
       "ui/atlas/raid/raid_tog_select_difficulty_on",
       "ui/atlas/raid/raid_tog_select_nightmare_on_02"
     ],
-    "Desc": "<br><size=22><color=#f04f84>Recommended: [Illusion Strength] 2050</color><br><style=\"\"tipsYellow\"\">Tips:  Use food and potions to temporarily boost your strength.</style></size>",
+    "Desc": "<br><size=22><color=#f04f84>Illusion-Breaking Power: In Dreambloom Ruins, DMG dealt is increased by 100%.</color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost combat effectiveness and better participate in challenges.</style></size>",
     "AwardDesc": ""
   },
   "13013": {
@@ -250,7 +250,136 @@
       "ui/atlas/raid/raid_tog_select_difficulty_on",
       "ui/atlas/raid/raid_tog_select_nightmare_on_02"
     ],
-    "Desc": "<br><size=22><color=#f04f84>Recommended: [Illusion Strength] reaches 2,260</color><br><style=\"\"tipsYellow\"\">Tip: Use food and potions to temporarily boost combat ability for better participation in the challenge.",
+    "Desc": "<br><size=22><color=#f04f84>Illusion-Breaking Power: In Dreambloom Ruins, DMG dealt is increased by 100%.</color><br><style=\"\"tipsYellow\"\">Tips: Use food and potions to temporarily boost combat effectiveness and better participate in challenges.",
     "AwardDesc": "</style></size><br><size=22>Shares <color=#eed335>Radiant Starcore</color> reward count with <style=\"\"tipsYellow\"\">Showdown! Floating Island</style>."
+  },
+  "13021": {
+    "DungeonId": 13021,
+    "Difficult": 1,
+    "GroupId": 3,
+    "Name": "",
+    "Content": 4512,
+    "MatchPic": "",
+    "BossId": [
+      103100,
+      103200,
+      103300
+    ],
+    "PassAward": [
+      16000201
+    ],
+    "MonsterShowTexture": "ui/textures/roid/raid_easy_monster_03",
+    "DiffBgTexture": "ui/textures/roid/raid_easy_bg_03",
+    "TitleBgTexture": "ui/textures/roid/raid_title_easy_03",
+    "BossNamePos": [
+      [
+        "-111",
+        "-385",
+        "0"
+      ],
+      [
+        "428",
+        "-316",
+        "0"
+      ],
+      [
+        "71",
+        "-12",
+        "0"
+      ]
+    ],
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on_03",
+      "ui/atlas/raid/raid_tog_select_difficulty_on_03",
+      "ui/atlas/raid/raid_tog_select_nightmare_on_03"
+    ],
+    "Desc": "",
+    "AwardDesc": ""
+  },
+  "13022": {
+    "DungeonId": 13022,
+    "Difficult": 2,
+    "GroupId": 3,
+    "Name": "",
+    "Content": 4512,
+    "MatchPic": "",
+    "BossId": [
+      103107,
+      103207,
+      103308
+    ],
+    "PassAward": [
+      16000202
+    ],
+    "MonsterShowTexture": "ui/textures/roid/raid_difficulty_monster_03",
+    "DiffBgTexture": "ui/textures/roid/raid_difficulty_bg_03",
+    "TitleBgTexture": "ui/textures/roid/raid_title_difficulty_03",
+    "BossNamePos": [
+      [
+        "-111",
+        "-385",
+        "0"
+      ],
+      [
+        "428",
+        "-316",
+        "0"
+      ],
+      [
+        "71",
+        "-12",
+        "0"
+      ]
+    ],
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on_03",
+      "ui/atlas/raid/raid_tog_select_difficulty_on_03",
+      "ui/atlas/raid/raid_tog_select_nightmare_on_03"
+    ],
+    "Desc": "",
+    "AwardDesc": ""
+  },
+  "13023": {
+    "DungeonId": 13023,
+    "Difficult": 3,
+    "GroupId": 3,
+    "Name": "",
+    "Content": 4512,
+    "MatchPic": "",
+    "BossId": [
+      103108,
+      103208,
+      103309
+    ],
+    "PassAward": [
+      16000203
+    ],
+    "MonsterShowTexture": "ui/textures/roid/raid_nightmare_monster_03",
+    "DiffBgTexture": "ui/textures/roid/raid_nightmare_bg_03",
+    "TitleBgTexture": "ui/textures/roid/raid_title_nightmare_03",
+    "BossNamePos": [
+      [
+        "-111",
+        "-385",
+        "0"
+      ],
+      [
+        "428",
+        "-316",
+        "0"
+      ],
+      [
+        "71",
+        "-12",
+        "0"
+      ]
+    ],
+    "DifficultySelectImage": [
+      "ui/atlas/raid/raid_tog_select_easy_on_03",
+      "ui/atlas/raid/raid_tog_select_difficulty_on_03",
+      "ui/atlas/raid/raid_tog_select_nightmare_on_03"
+    ],
+    "Desc": "",
+    "AwardDesc": ""
   }
 }

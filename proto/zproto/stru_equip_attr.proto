@@ -18,4 +18,5 @@ message EquipAttr {
 	int32 maxPerfectionValue = 15 [json_name = "maxPerfectionValue"];
 	EquipAttrSet equipAttrSet = 17 [json_name = "equipAttrSet"];
 	int32 breakThroughTime = 18 [json_name = "breakThroughTime"];
+	map<int32, EquipAttrSet> customTransformAttr = 19 [json_name = "customTransformAttr"];
 }

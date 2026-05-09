@@ -42,5 +42,16 @@
       ]
     ],
     "UnlockLevel": 50
+  },
+  "5": {
+    "Id": 5,
+    "HoleIcon": "ui/atlas/mod_new/mod_device_empty_5",
+    "Conditions": [
+      [
+        9,
+        100007
+      ]
+    ],
+    "UnlockLevel": 50
   }
 }

@@ -592,14 +592,13 @@
     "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_wr_heiyu02",
     "SkillId": [
       1937,
-      1939
+      1939,
+      1943
     ],
     "SkillGroupId": 193701,
     "SummonSkillId": [
-      1943,
-      199903,
-      1937,
-      199904
+      404,
+      418
     ],
     "ProfessionId": 9,
     "SkillIdsVideo": "weapon/wr/wr_inkwash_skin02",
@@ -1155,9 +1154,7 @@
     ],
     "SkillGroupId": 230701,
     "SummonSkillId": [
-      2311,
-      2361,
-      2307
+      754
     ],
     "ProfessionId": 13,
     "SkillIdsVideo": "weapon/jt/jt_sakura_skin02",
@@ -1209,6 +1206,160 @@
     "UnlockConsume": [
       [
         1077024,
+        1
+      ]
+    ],
+    "Sort": 14
+  },
+  "1605": {
+    "Id": 1605,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1605
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 3,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 1
+  },
+  "1606": {
+    "Id": 1606,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1606
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 3,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 2
+  },
+  "1608": {
+    "Id": 1608,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1608
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 3,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 3
+  },
+  "1613": {
+    "Id": 1613,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1613
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 3,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 4
+  },
+  "160501": {
+    "Id": 160501,
+    "Name": "Skyward Sparks",
+    "Desc": "A flurry of slashes is unleashed at will. Arcs of light sweep through a sky full of falling cherry blossoms around you, as intense and as fleeting as fireworks.",
+    "Icon": "ui/atlas/weapon_effects/weapon_sf_sakura_skin01",
+    "SkillId": [
+      1605,
+      1619,
+      1620
+    ],
+    "SkillGroupId": 160501,
+    "SummonSkillId": [],
+    "ProfessionId": 3,
+    "SkillIdsVideo": "weapon/sf/sf_sakura_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077025,
+        1
+      ]
+    ],
+    "Sort": 11
+  },
+  "160601": {
+    "Id": 160601,
+    "Name": "Instant Edge Blossom",
+    "Desc": "In a moment of slightly restrained sharpness, the Dual Axes swing down abruptly. Cherry blossoms bloom along their path, unfurling into a skyward sea of flowers before scattering with the wind in a flash.",
+    "Icon": "ui/atlas/weapon_effects/weapon_sf_sakura_skin02",
+    "SkillId": [
+      1606
+    ],
+    "SkillGroupId": 160601,
+    "SummonSkillId": [],
+    "ProfessionId": 3,
+    "SkillIdsVideo": "weapon/sf/sf_sakura_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077025,
+        1
+      ]
+    ],
+    "Sort": 12
+  },
+  "160801": {
+    "Id": 160801,
+    "Name": "Wrath Into the Void",
+    "Desc": "Wrath transforms into an endless barrage of cleaves. Axe blades carve through the air as light and shadow intertwine; void-rending blade echoes coil around the wielder, nearly consuming all. When the decisive strike lands, heaven and earth fall silent, and all wrath converges into a single blade.",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_sf_heiyu01",
+    "SkillId": [
+      1608,
+      1609,
+      1610,
+      1611
+    ],
+    "SkillGroupId": 160801,
+    "SummonSkillId": [],
+    "ProfessionId": 3,
+    "SkillIdsVideo": "weapon/sf/sf_inkwash_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077026,
+        1
+      ]
+    ],
+    "Sort": 13
+  },
+  "161301": {
+    "Id": 161301,
+    "Name": "All-Ending Oblivion",
+    "Desc": "Wrath surges to its limit, the body becoming a raging tide that devours all. The blade incarnate—everything shatters in its wake. All clamor is silenced within this frenzied dance that rends the void, fading into oblivion.",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_sf_heiyu02",
+    "SkillId": [
+      1613,
+      1622
+    ],
+    "SkillGroupId": 161301,
+    "SummonSkillId": [],
+    "ProfessionId": 3,
+    "SkillIdsVideo": "weapon/sf/sf_inkwash_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077027,
         1
       ]
     ],

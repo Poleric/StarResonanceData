@@ -7,4 +7,5 @@ package zproto;
 
 message CommonTargetActivity {
 	map<uint32, CommonTargetActivityInfo> commonTargetActivityList = 1 [json_name = "commonTargetActivityList"];
+	bool isEnd = 2 [json_name = "isEnd"];
 }

@@ -406,5 +406,45 @@
     "AdditionalTargetToEntriesMessage": [],
     "AdditionalTargetCompleteMaxNum": [],
     "AdditionalTargetCompleteCoolDown": []
+  },
+  "3004": {
+    "Id": 3004,
+    "Name": "Tonight, Sing with the Stars",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      1,
+      10
+    ],
+    "AdditionalTargetName": [
+      "1. Stay in target area to obtain score",
+      "  "
+    ],
+    "AdditionalTarget": [],
+    "AdditionalTargetIdleScore": [],
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetCompleteCoolDown": []
+  },
+  "3005": {
+    "Id": 3005,
+    "Name": "Tonight, Sing with the Stars",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      1,
+      10
+    ],
+    "AdditionalTargetName": [
+      "1. Stay in target area to obtain score",
+      "  "
+    ],
+    "AdditionalTarget": [],
+    "AdditionalTargetIdleScore": [],
+    "TargetCompleteClientBuff": [],
+    "AdditionalTargetToEntriesMessage": [],
+    "AdditionalTargetCompleteMaxNum": [],
+    "AdditionalTargetCompleteCoolDown": []
   }
 }

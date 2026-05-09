@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zproto;
+
+message StoryQuestRequest {
+	int32 storyId = 1 [json_name = "storyId"];
+	int32 index = 2 [json_name = "index"];
+}

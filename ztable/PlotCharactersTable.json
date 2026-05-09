@@ -578,5 +578,25 @@
     "CutDialogueIdle": "as_npc_m_middle_idle",
     "IdleAnimationClip": "as_npc_m_middle_skt_idle",
     "IdleEmo": 195
+  },
+  "1001": {
+    "Id": 1001,
+    "PlotCharactersName": "阿良良木历",
+    "PlotCharactersGender": "男",
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "物语系列联动角色",
+    "CutDialogueIdle": "as_npc_m_youth_idle",
+    "IdleAnimationClip": "as_npc_m_youth_skt_idle",
+    "IdleEmo": 0
+  },
+  "1002": {
+    "Id": 1002,
+    "PlotCharactersName": "战场原黑仪",
+    "PlotCharactersGender": "女",
+    "PlotCharactersAge": "未知",
+    "PlotCharactersContent": "物语系列联动角色",
+    "CutDialogueIdle": "as_npc_f_youth_idle",
+    "IdleAnimationClip": "as_npc_f_youth_skt_idle",
+    "IdleEmo": 0
   }
 }

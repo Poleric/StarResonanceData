@@ -176,31 +176,151 @@
   "100201": {
     "Id": 100201,
     "ExchangeGoalItem": [
-      1991086,
+      1061219,
       1
     ],
-    "PrizeQuality": 2,
+    "PrizeQuality": 1,
     "ExchangeConsumeItem": [
-      13005,
+      13003,
       1
     ],
-    "Sex": 0,
-    "ShowBackgroundBox": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_sub_card_bg_a",
-    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_reward/ch_wp_guitar_09_01"
+    "Sex": 1,
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_s",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_dress_ip003x01_man"
   },
   "100202": {
     "Id": 100202,
     "ExchangeGoalItem": [
-      1991087,
+      1061220,
+      1
+    ],
+    "PrizeQuality": 1,
+    "ExchangeConsumeItem": [
+      13003,
+      1
+    ],
+    "Sex": 2,
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_s",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_dress_ip003x01_woman"
+  },
+  "100203": {
+    "Id": 100203,
+    "ExchangeGoalItem": [
+      7130353,
       1
     ],
     "PrizeQuality": 2,
     "ExchangeConsumeItem": [
-      13005,
+      13004,
       1
     ],
     "Sex": 0,
-    "ShowBackgroundBox": "ui/atlas/ichibankuji_star_resonance/img_ichibankuji_main_sub_card_bg_a",
-    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_reward/ch_wp_comeau_01_01"
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_a",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_headwear_ip003x01"
+  },
+  "100204": {
+    "Id": 100204,
+    "ExchangeGoalItem": [
+      7130354,
+      1
+    ],
+    "PrizeQuality": 2,
+    "ExchangeConsumeItem": [
+      13004,
+      1
+    ],
+    "Sex": 0,
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_a",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_headwear_ip003x02"
+  },
+  "100205": {
+    "Id": 100205,
+    "ExchangeGoalItem": [
+      11010662,
+      1
+    ],
+    "PrizeQuality": 2,
+    "ExchangeConsumeItem": [
+      13004,
+      1
+    ],
+    "Sex": 0,
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_a",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_stand_ip003x01"
+  },
+  "100206": {
+    "Id": 100206,
+    "ExchangeGoalItem": [
+      11010665,
+      1
+    ],
+    "PrizeQuality": 2,
+    "ExchangeConsumeItem": [
+      13004,
+      1
+    ],
+    "Sex": 0,
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_a",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_stand_ip003x02"
+  },
+  "100207": {
+    "Id": 100207,
+    "ExchangeGoalItem": [
+      11010663,
+      1
+    ],
+    "PrizeQuality": 2,
+    "ExchangeConsumeItem": [
+      13004,
+      1
+    ],
+    "Sex": 0,
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_a",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_stand_ip003x06"
+  },
+  "100208": {
+    "Id": 100208,
+    "ExchangeGoalItem": [
+      11010666,
+      1
+    ],
+    "PrizeQuality": 2,
+    "ExchangeConsumeItem": [
+      13004,
+      1
+    ],
+    "Sex": 0,
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_a",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_stand_ip003x03"
+  },
+  "100209": {
+    "Id": 100209,
+    "ExchangeGoalItem": [
+      11010664,
+      1
+    ],
+    "PrizeQuality": 2,
+    "ExchangeConsumeItem": [
+      13004,
+      1
+    ],
+    "Sex": 0,
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_a",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_stand_ip003x04"
+  },
+  "100210": {
+    "Id": 100210,
+    "ExchangeGoalItem": [
+      11010667,
+      1
+    ],
+    "PrizeQuality": 2,
+    "ExchangeConsumeItem": [
+      13004,
+      1
+    ],
+    "Sex": 0,
+    "ShowBackgroundBox": "ui/atlas/ichibankuji_ip003/img_ichibankuji_main_sub_card_bg_a",
+    "ShowBackgroundIcon": "ui/textures/ichibankuji/ichibankuji_ip003/ichibankuji_reward_ip003/img_ichibankuji_reward_stand_ip003x05"
   }
 }

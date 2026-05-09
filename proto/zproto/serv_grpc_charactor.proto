@@ -10,6 +10,8 @@ import "stru_delete_char_request.proto";
 import "stru_exit_game_request.proto";
 import "stru_get_face_data_url_reply.proto";
 import "stru_get_face_data_url_request.proto";
+import "stru_get_face_push_list_reply.proto";
+import "stru_get_face_push_list_request.proto";
 import "stru_get_face_up_token_request.proto";
 import "stru_get_face_upload_data_reply.proto";
 import "stru_get_face_upload_data_request.proto";
@@ -135,5 +137,13 @@ message GrpcCharactor {
 
 	message SyncLanguage {
 		SyncLanguageRequest vRequest = 1 [json_name = "vRequest"];
+	}
+
+	message GetFacePushList_Ret {
+		GetFacePushListReply ret = 1 [json_name = "ret"];
+	}
+
+	message GetFacePushList {
+		GetFacePushListRequest vRequest = 1 [json_name = "vRequest"];
 	}
 }

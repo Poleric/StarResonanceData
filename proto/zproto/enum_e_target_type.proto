@@ -295,7 +295,12 @@ enum ETargetType {
 	TargetGamePlayKill = 806;
 	TargetGamePlaySumKill = 807;
 	TargetHideUnhurtVictory = 808;
+	TargetWorldActFish = 816;
+	TargetWorldActFishContinueNum = 817;
+	TargetWorldActFishNum = 818;
+	TargetWorldActBeachNum = 819;
 	TargetWorldActScore = 820;
+	TargetRougeHitPlayer = 821;
 	TargetRaidDungeonHelperKillBoss = 822;
 	TargetWorldActEnjoin = 823;
 	TargetWorldActEnjoinId = 824;
@@ -308,4 +313,9 @@ enum ETargetType {
 	TargetWorldActIncScore = 834;
 	TargetGetAwardPackageRewardRecord = 836;
 	TargetCommunityGetFurnitureById = 837;
+	TargetWorldActFishInc = 839;
+	TargetWorldActFishContinueNumInc = 840;
+	TargetWorldActFishNumInc = 841;
+	TargetWorldActBeachNumInc = 842;
+	TargetRougeHitPlayerInc = 843;
 }

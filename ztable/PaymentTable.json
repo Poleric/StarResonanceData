@@ -9,18 +9,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        60
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500800,
-    "ExtraAwardID": 20500900,
-    "IsSale": 1,
-    "PaymentId": 10001
+    "Items": [],
+    "MailId": -1543423791,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 285212672,
+    "IsSale": 301989927
   },
   "10002": {
     "Id": 10002,
@@ -32,18 +28,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        300
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500810,
-    "ExtraAwardID": 20500910,
-    "IsSale": 1,
-    "PaymentId": 10002
+    "Items": [],
+    "MailId": -1375651631,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 301989888,
+    "IsSale": 318767143
   },
   "10003": {
     "Id": 10003,
@@ -55,18 +47,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 98,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500820,
-    "ExtraAwardID": 20500920,
-    "IsSale": 1,
-    "PaymentId": 10003
+    "Items": [],
+    "MailId": -1207879471,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 318767104,
+    "IsSale": 335544359
   },
   "10004": {
     "Id": 10004,
@@ -78,18 +66,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 198,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        1980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500830,
-    "ExtraAwardID": 20500930,
-    "IsSale": 1,
-    "PaymentId": 10004
+    "Items": [],
+    "MailId": -1040107311,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 335544320,
+    "IsSale": 352321575
   },
   "10005": {
     "Id": 10005,
@@ -101,18 +85,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 328,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        3280
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500840,
-    "ExtraAwardID": 20500940,
-    "IsSale": 1,
-    "PaymentId": 10005
+    "Items": [],
+    "MailId": -872335151,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 352321536,
+    "IsSale": 369098791
   },
   "10006": {
     "Id": 10006,
@@ -124,18 +104,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 648,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        6480
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500850,
-    "ExtraAwardID": 20500950,
-    "IsSale": 1,
-    "PaymentId": 10006
+    "Items": [],
+    "MailId": -704562991,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 369098752,
+    "IsSale": 553648167
   },
   "20001": {
     "Id": 20001,
@@ -147,13 +123,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 553648128,
+    "IsSale": 570425422
   },
   "20002": {
     "Id": 20002,
@@ -165,13 +142,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 570425344,
+    "IsSale": 587202638
   },
   "20003": {
     "Id": 20003,
@@ -183,13 +161,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 587202560,
+    "IsSale": 603979854
   },
   "20004": {
     "Id": 20004,
@@ -201,13 +180,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 603979776,
+    "IsSale": 620757070
   },
   "20005": {
     "Id": 20005,
@@ -219,13 +199,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 620756992,
+    "IsSale": 637534286
   },
   "20006": {
     "Id": 20006,
@@ -237,13 +218,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 637534208,
+    "IsSale": 654311502
   },
   "20007": {
     "Id": 20007,
@@ -255,13 +237,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20007
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 654311424,
+    "IsSale": 671088718
   },
   "20008": {
     "Id": 20008,
@@ -273,13 +256,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 671088640,
+    "IsSale": 687865934
   },
   "20009": {
     "Id": 20009,
@@ -291,13 +275,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 687865856,
+    "IsSale": 704643150
   },
   "20010": {
     "Id": 20010,
@@ -309,13 +294,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 704643072,
+    "IsSale": 721420366
   },
   "20011": {
     "Id": 20011,
@@ -327,13 +313,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 721420288,
+    "IsSale": 738197582
   },
   "20012": {
     "Id": 20012,
@@ -345,13 +332,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 738197504,
+    "IsSale": 754974798
   },
   "20013": {
     "Id": 20013,
@@ -363,13 +351,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 754974720,
+    "IsSale": 771752014
   },
   "20014": {
     "Id": 20014,
@@ -381,13 +370,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 771751936,
+    "IsSale": 788529230
   },
   "20015": {
     "Id": 20015,
@@ -399,13 +389,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 788529152,
+    "IsSale": 822083662
   },
   "30001": {
     "Id": 30001,
@@ -417,13 +408,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 30001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 822083584,
+    "IsSale": 1090519157
   },
   "40001": {
     "Id": 40001,
@@ -435,13 +427,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 90,
-    "AwardId": 40000800,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40001
+    "ExtraAwardID": 1090519040,
+    "IsSale": 1107296412
   },
   "40002": {
     "Id": 40002,
@@ -453,13 +446,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 18,
-    "AwardId": 40000810,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1107296256,
+    "IsSale": 1124073628
   },
   "40003": {
     "Id": 40003,
@@ -471,13 +465,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 40000930,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1124073472,
+    "IsSale": 1140850844
   },
   "40004": {
     "Id": 40004,
@@ -489,13 +484,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70051070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1140850688,
+    "IsSale": 1157628060
   },
   "40005": {
     "Id": 40005,
@@ -507,13 +503,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70051030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1157627904,
+    "IsSale": 1174405276
   },
   "40006": {
     "Id": 40006,
@@ -525,13 +522,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70051040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1174405120,
+    "IsSale": 1191182492
   },
   "40007": {
     "Id": 40007,
@@ -543,13 +541,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40007
+    "ExtraAwardID": 1191182336,
+    "IsSale": 1207959708
   },
   "40008": {
     "Id": 40008,
@@ -561,13 +560,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1207959552,
+    "IsSale": 1224736924
   },
   "40009": {
     "Id": 40009,
@@ -579,13 +579,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1224736768,
+    "IsSale": 1241514140
   },
   "40010": {
     "Id": 40010,
@@ -597,13 +598,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1241513984,
+    "IsSale": 1258291356
   },
   "40011": {
     "Id": 40011,
@@ -615,13 +617,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1258291200,
+    "IsSale": 1275068572
   },
   "40012": {
     "Id": 40012,
@@ -633,13 +636,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1275068416,
+    "IsSale": 1291845788
   },
   "40013": {
     "Id": 40013,
@@ -651,13 +655,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1291845632,
+    "IsSale": 1308623004
   },
   "40014": {
     "Id": 40014,
@@ -669,13 +674,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1308622848,
+    "IsSale": 1325400220
   },
   "40015": {
     "Id": 40015,
@@ -687,13 +693,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1325400064,
+    "IsSale": 1342177436
   },
   "40016": {
     "Id": 40016,
@@ -705,13 +712,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40016
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1342177280,
+    "IsSale": 1358954652
   },
   "40017": {
     "Id": 40017,
@@ -723,13 +731,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051150,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40017
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1358954496,
+    "IsSale": 1375731868
   },
   "40018": {
     "Id": 40018,
@@ -741,13 +750,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70081060,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40018
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1375731712,
+    "IsSale": 1392509084
   },
   "40019": {
     "Id": 40019,
@@ -759,13 +769,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40019
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1392508928,
+    "IsSale": 1409286300
   },
   "40020": {
     "Id": 40020,
@@ -777,13 +788,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40020
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1409286144,
+    "IsSale": 1426063516
   },
   "40021": {
     "Id": 40021,
@@ -795,13 +807,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70081050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40021
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1426063360,
+    "IsSale": 1442840732
   },
   "40022": {
     "Id": 40022,
@@ -813,13 +826,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40022
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1442840576,
+    "IsSale": 1459617948
   },
   "40023": {
     "Id": 40023,
@@ -831,13 +845,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40023
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1459617792,
+    "IsSale": 1476395164
   },
   "40024": {
     "Id": 40024,
@@ -849,13 +864,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40024
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1476395008,
+    "IsSale": 1493172380
   },
   "40025": {
     "Id": 40025,
@@ -867,13 +883,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40025
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1493172224,
+    "IsSale": 1509949596
   },
   "40026": {
     "Id": 40026,
@@ -885,13 +902,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40026
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1509949440,
+    "IsSale": 1526726812
   },
   "40027": {
     "Id": 40027,
@@ -903,13 +921,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40027
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1526726656,
+    "IsSale": 1543504028
   },
   "40028": {
     "Id": 40028,
@@ -921,13 +940,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40028
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1543503872,
+    "IsSale": 1560281244
   },
   "40029": {
     "Id": 40029,
@@ -939,13 +959,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40029
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1560281088,
+    "IsSale": 1577058460
   },
   "40030": {
     "Id": 40030,
@@ -957,13 +978,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40030
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1577058304,
+    "IsSale": 1593835676
   },
   "40031": {
     "Id": 40031,
@@ -975,13 +997,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40031
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1593835520,
+    "IsSale": 1023410332
   },
   "99901": {
     "Id": 99901,
@@ -993,13 +1016,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 90,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99901
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1023410176,
+    "IsSale": 1040187782
   },
   "99902": {
     "Id": 99902,
@@ -1011,13 +1035,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 18,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99902
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1040187392,
+    "IsSale": -1862270586
   },
   "10010001": {
     "Id": 10010001,
@@ -1031,18 +1056,14 @@
     "ProductName": "PRO-G8BJ015UJRTE",
     "Currency": "CNY",
     "Price": 6,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        60
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500800,
-    "ExtraAwardID": 20500900,
-    "IsSale": 1,
-    "PaymentId": 10001
+    "Items": [],
+    "MailId": -1543423791,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 285212672,
+    "IsSale": -1845493721
   },
   "10010002": {
     "Id": 10010002,
@@ -1056,18 +1077,14 @@
     "ProductName": "PRO-KQ1JKELEMDCO",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        300
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500810,
-    "ExtraAwardID": 20500910,
-    "IsSale": 1,
-    "PaymentId": 10002
+    "Items": [],
+    "MailId": -1375651631,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 301989888,
+    "IsSale": -1828716505
   },
   "10010003": {
     "Id": 10010003,
@@ -1081,18 +1098,14 @@
     "ProductName": "PRO-MF4PAI4UKBVD",
     "Currency": "CNY",
     "Price": 98,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500820,
-    "ExtraAwardID": 20500920,
-    "IsSale": 1,
-    "PaymentId": 10003
+    "Items": [],
+    "MailId": -1207879471,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 318767104,
+    "IsSale": -1811939289
   },
   "10010004": {
     "Id": 10010004,
@@ -1106,18 +1119,14 @@
     "ProductName": "PRO-87P1HUEFFQGG",
     "Currency": "CNY",
     "Price": 198,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        1980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500830,
-    "ExtraAwardID": 20500930,
-    "IsSale": 1,
-    "PaymentId": 10004
+    "Items": [],
+    "MailId": -1040107311,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 335544320,
+    "IsSale": -1795162073
   },
   "10010005": {
     "Id": 10010005,
@@ -1131,18 +1140,14 @@
     "ProductName": "PRO-7LDTP2UUCRMS",
     "Currency": "CNY",
     "Price": 328,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        3280
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500840,
-    "ExtraAwardID": 20500940,
-    "IsSale": 1,
-    "PaymentId": 10005
+    "Items": [],
+    "MailId": -872335151,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 352321536,
+    "IsSale": -1778384857
   },
   "10010006": {
     "Id": 10010006,
@@ -1156,18 +1161,14 @@
     "ProductName": "PRO-5ROA4DVSTVTT",
     "Currency": "CNY",
     "Price": 648,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        6480
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500850,
-    "ExtraAwardID": 20500950,
-    "IsSale": 1,
-    "PaymentId": 10006
+    "Items": [],
+    "MailId": -704562991,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 369098752,
+    "IsSale": 2030043175
   },
   "10011001": {
     "Id": 10011001,
@@ -1181,13 +1182,14 @@
     "ProductName": "PRO-KHD1G2V8OJTF",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 11001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": -117440512,
+    "IsSale": 2046820394
   },
   "10011002": {
     "Id": 10011002,
@@ -1201,13 +1203,14 @@
     "ProductName": "PRO-JUUJJK9QPHDD",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 11002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": -100663296,
+    "IsSale": 2063597610
   },
   "10011003": {
     "Id": 10011003,
@@ -1221,13 +1224,14 @@
     "ProductName": "PRO-G1S6JFQMGSIQ",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 11003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": -83886080,
+    "IsSale": 2080374826
   },
   "10011004": {
     "Id": 10011004,
@@ -1241,13 +1245,14 @@
     "ProductName": "PRO-QMJJ482QCTFL",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 11004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": -67108864,
+    "IsSale": 2097152042
   },
   "10011005": {
     "Id": 10011005,
@@ -1261,13 +1266,14 @@
     "ProductName": "PRO-3B2DHK4KUHND",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 11005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": -50331648,
+    "IsSale": 2113929258
   },
   "10011006": {
     "Id": 10011006,
@@ -1281,13 +1287,14 @@
     "ProductName": "PRO-G1HCOIIUGVVU",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 11006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": -33554432,
+    "IsSale": 1543503914
   },
   "10011996": {
     "Id": 10011996,
@@ -1301,13 +1308,14 @@
     "ProductName": "PRO-QPQ7JSPQNOOC",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 10011996
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1543503872,
+    "IsSale": 318806213
   },
   "100010003": {
     "Id": 100010003,
@@ -1321,13 +1329,14 @@
     "ProductName": "PRO-GHN6JO2SIJRC",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 99903
+    "ExtraAwardID": 1056964608,
+    "IsSale": 352321926
   },
   "100010005": {
     "Id": 100010005,
@@ -1341,13 +1350,14 @@
     "ProductName": "PRO-6B58BB4ITDLK",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 99905
+    "ExtraAwardID": 1090519040,
+    "IsSale": -1593835130
   },
   "10020001": {
     "Id": 10020001,
@@ -1361,13 +1371,14 @@
     "ProductName": "PRO-9EAHNP4SFPKI",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 553648128,
+    "IsSale": -1577058226
   },
   "10020002": {
     "Id": 10020002,
@@ -1381,13 +1392,14 @@
     "ProductName": "PRO-HV9OOOU0HDFP",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 570425344,
+    "IsSale": -1560281010
   },
   "10020003": {
     "Id": 10020003,
@@ -1401,13 +1413,14 @@
     "ProductName": "PRO-042S00I9CHMD",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 587202560,
+    "IsSale": -1543503794
   },
   "10020004": {
     "Id": 10020004,
@@ -1421,13 +1434,14 @@
     "ProductName": "PRO-0T7J7L5RCPGU",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 603979776,
+    "IsSale": -1526726578
   },
   "10020005": {
     "Id": 10020005,
@@ -1441,13 +1455,14 @@
     "ProductName": "PRO-ABDQLN9RFEGN",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 620756992,
+    "IsSale": -1509949362
   },
   "10020006": {
     "Id": 10020006,
@@ -1461,13 +1476,14 @@
     "ProductName": "PRO-FIPVQGQ3LUNP",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 637534208,
+    "IsSale": -1493172146
   },
   "10020007": {
     "Id": 10020007,
@@ -1481,13 +1497,14 @@
     "ProductName": "10020007",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20007
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 654311424,
+    "IsSale": -1476394930
   },
   "10020008": {
     "Id": 10020008,
@@ -1501,13 +1518,14 @@
     "ProductName": "10020008",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 671088640,
+    "IsSale": -1459617714
   },
   "10020009": {
     "Id": 10020009,
@@ -1521,13 +1539,14 @@
     "ProductName": "10020009",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 687865856,
+    "IsSale": -1442840498
   },
   "10020010": {
     "Id": 10020010,
@@ -1541,13 +1560,14 @@
     "ProductName": "10020010",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 704643072,
+    "IsSale": -1426063282
   },
   "10020011": {
     "Id": 10020011,
@@ -1561,13 +1581,14 @@
     "ProductName": "10020011",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 721420288,
+    "IsSale": -1409286066
   },
   "10020012": {
     "Id": 10020012,
@@ -1581,13 +1602,14 @@
     "ProductName": "10020012",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 738197504,
+    "IsSale": -1392508850
   },
   "10020013": {
     "Id": 10020013,
@@ -1601,13 +1623,14 @@
     "ProductName": "10020013",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 754974720,
+    "IsSale": -1375731634
   },
   "10020014": {
     "Id": 10020014,
@@ -1621,13 +1644,14 @@
     "ProductName": "10020014",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 771751936,
+    "IsSale": -1358954418
   },
   "10020015": {
     "Id": 10020015,
@@ -1641,13 +1665,14 @@
     "ProductName": "10020015",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 788529152,
+    "IsSale": -2097151922
   },
   "10020995": {
     "Id": 10020995,
@@ -1661,13 +1686,14 @@
     "ProductName": "10995",
     "Currency": "",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 10020995
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": -2097152000,
+    "IsSale": -1325360920
   },
   "10030001": {
     "Id": 10030001,
@@ -1681,13 +1707,14 @@
     "ProductName": "PRO-4RTMAA5JEPRT",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 30001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 822083584,
+    "IsSale": -1056964491
   },
   "10040001": {
     "Id": 10040001,
@@ -1701,13 +1728,14 @@
     "ProductName": "10040001",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 40000800,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40001
+    "ExtraAwardID": 1090519040,
+    "IsSale": -1040187236
   },
   "10040002": {
     "Id": 10040002,
@@ -1721,13 +1749,14 @@
     "ProductName": "50000220",
     "Currency": "CNY",
     "Price": 18,
-    "AwardId": 40000810,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1107296256,
+    "IsSale": -1023410020
   },
   "10040003": {
     "Id": 10040003,
@@ -1741,13 +1770,14 @@
     "ProductName": "40000930",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 40000930,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1124073472,
+    "IsSale": -1006632804
   },
   "10040004": {
     "Id": 10040004,
@@ -1761,13 +1791,14 @@
     "ProductName": "70051070",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70051070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1140850688,
+    "IsSale": -989855588
   },
   "10040005": {
     "Id": 10040005,
@@ -1781,13 +1812,14 @@
     "ProductName": "70051030",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70051030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1157627904,
+    "IsSale": -973078372
   },
   "10040006": {
     "Id": 10040006,
@@ -1801,13 +1833,14 @@
     "ProductName": "70051040",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70051040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1174405120,
+    "IsSale": -956301156
   },
   "10040007": {
     "Id": 10040007,
@@ -1821,13 +1854,14 @@
     "ProductName": "70051050",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40007
+    "ExtraAwardID": 1191182336,
+    "IsSale": -939523940
   },
   "10040008": {
     "Id": 10040008,
@@ -1841,13 +1875,14 @@
     "ProductName": "70051010",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1207959552,
+    "IsSale": -922746724
   },
   "10040009": {
     "Id": 10040009,
@@ -1861,13 +1896,14 @@
     "ProductName": "70051020",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1224736768,
+    "IsSale": -905969508
   },
   "10040010": {
     "Id": 10040010,
@@ -1881,13 +1917,14 @@
     "ProductName": "70051080",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1241513984,
+    "IsSale": -889192292
   },
   "10040011": {
     "Id": 10040011,
@@ -1901,13 +1938,14 @@
     "ProductName": "70051090",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1258291200,
+    "IsSale": -872415076
   },
   "10040012": {
     "Id": 10040012,
@@ -1921,13 +1959,14 @@
     "ProductName": "70051100",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1275068416,
+    "IsSale": -855637860
   },
   "10040013": {
     "Id": 10040013,
@@ -1941,13 +1980,14 @@
     "ProductName": "70051110",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1291845632,
+    "IsSale": -838860644
   },
   "10040014": {
     "Id": 10040014,
@@ -1961,13 +2001,14 @@
     "ProductName": "70051120",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1308622848,
+    "IsSale": -822083428
   },
   "10040015": {
     "Id": 10040015,
@@ -1981,13 +2022,14 @@
     "ProductName": "70051130",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1325400064,
+    "IsSale": -805306212
   },
   "10040016": {
     "Id": 10040016,
@@ -2001,13 +2043,14 @@
     "ProductName": "70051140",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40016
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1342177280,
+    "IsSale": -788528996
   },
   "10040017": {
     "Id": 10040017,
@@ -2021,13 +2064,14 @@
     "ProductName": "70051150",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051150,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40017
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1358954496,
+    "IsSale": -771751780
   },
   "10040018": {
     "Id": 10040018,
@@ -2041,13 +2085,14 @@
     "ProductName": "70061060",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70081060,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40018
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1375731712,
+    "IsSale": -754974564
   },
   "10040019": {
     "Id": 10040019,
@@ -2061,13 +2106,14 @@
     "ProductName": "70061030",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40019
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1392508928,
+    "IsSale": -738197348
   },
   "10040020": {
     "Id": 10040020,
@@ -2081,13 +2127,14 @@
     "ProductName": "70061040",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40020
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1409286144,
+    "IsSale": -721420132
   },
   "10040021": {
     "Id": 10040021,
@@ -2101,13 +2148,14 @@
     "ProductName": "70061050",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70081050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40021
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1426063360,
+    "IsSale": -704642916
   },
   "10040022": {
     "Id": 10040022,
@@ -2121,13 +2169,14 @@
     "ProductName": "70061010",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40022
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1442840576,
+    "IsSale": -687865700
   },
   "10040023": {
     "Id": 10040023,
@@ -2141,13 +2190,14 @@
     "ProductName": "70061020",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40023
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1459617792,
+    "IsSale": -671088484
   },
   "10040024": {
     "Id": 10040024,
@@ -2161,13 +2211,14 @@
     "ProductName": "70061070",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40024
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1476395008,
+    "IsSale": -654311268
   },
   "10040025": {
     "Id": 10040025,
@@ -2181,13 +2232,14 @@
     "ProductName": "70061080",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40025
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1493172224,
+    "IsSale": -637534052
   },
   "10040026": {
     "Id": 10040026,
@@ -2201,13 +2253,14 @@
     "ProductName": "70061090",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40026
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1509949440,
+    "IsSale": -620756836
   },
   "10040027": {
     "Id": 10040027,
@@ -2221,13 +2274,14 @@
     "ProductName": "70061100",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40027
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1526726656,
+    "IsSale": -603979620
   },
   "10040028": {
     "Id": 10040028,
@@ -2241,13 +2295,14 @@
     "ProductName": "70061110",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40028
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1543503872,
+    "IsSale": -587202404
   },
   "10040029": {
     "Id": 10040029,
@@ -2261,13 +2316,14 @@
     "ProductName": "70061120",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40029
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1560281088,
+    "IsSale": -570425188
   },
   "10040030": {
     "Id": 10040030,
@@ -2281,13 +2337,14 @@
     "ProductName": "70061130",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40030
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1577058304,
+    "IsSale": -553647972
   },
   "10040031": {
     "Id": 10040031,
@@ -2301,13 +2358,14 @@
     "ProductName": "70061140",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40031
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1593835520,
+    "IsSale": 452984988
   },
   "20010011": {
     "Id": 20010011,
@@ -2321,18 +2379,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        60
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500800,
-    "ExtraAwardID": 20500900,
-    "IsSale": 1,
-    "PaymentId": 10001
+    "Items": [],
+    "MailId": -1543423791,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 285212672,
+    "IsSale": 469762087
   },
   "20010012": {
     "Id": 20010012,
@@ -2346,18 +2400,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        300
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500810,
-    "ExtraAwardID": 20500910,
-    "IsSale": 1,
-    "PaymentId": 10002
+    "Items": [],
+    "MailId": -1375651631,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 301989888,
+    "IsSale": 486539303
   },
   "20010013": {
     "Id": 20010013,
@@ -2371,18 +2421,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 98,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500820,
-    "ExtraAwardID": 20500920,
-    "IsSale": 1,
-    "PaymentId": 10003
+    "Items": [],
+    "MailId": -1207879471,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 318767104,
+    "IsSale": 503316519
   },
   "20010014": {
     "Id": 20010014,
@@ -2396,18 +2442,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 198,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        1980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500830,
-    "ExtraAwardID": 20500930,
-    "IsSale": 1,
-    "PaymentId": 10004
+    "Items": [],
+    "MailId": -1040107311,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 335544320,
+    "IsSale": 520093735
   },
   "20010015": {
     "Id": 20010015,
@@ -2421,18 +2463,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 328,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        3280
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500840,
-    "ExtraAwardID": 20500940,
-    "IsSale": 1,
-    "PaymentId": 10005
+    "Items": [],
+    "MailId": -872335151,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 352321536,
+    "IsSale": 536870951
   },
   "20010016": {
     "Id": 20010016,
@@ -2446,18 +2484,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 648,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        6480
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500850,
-    "ExtraAwardID": 20500950,
-    "IsSale": 1,
-    "PaymentId": 10006
+    "Items": [],
+    "MailId": -704562991,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 369098752,
+    "IsSale": 553648167
   },
   "20020001": {
     "Id": 20020001,
@@ -2471,13 +2505,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 553648128,
+    "IsSale": 570425422
   },
   "20020002": {
     "Id": 20020002,
@@ -2491,13 +2526,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 570425344,
+    "IsSale": 587202638
   },
   "20020003": {
     "Id": 20020003,
@@ -2511,13 +2547,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 587202560,
+    "IsSale": 603979854
   },
   "20020004": {
     "Id": 20020004,
@@ -2531,13 +2568,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 603979776,
+    "IsSale": 620757070
   },
   "20020005": {
     "Id": 20020005,
@@ -2551,13 +2589,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 620756992,
+    "IsSale": 637534286
   },
   "20020006": {
     "Id": 20020006,
@@ -2571,13 +2610,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 637534208,
+    "IsSale": 654311502
   },
   "20020007": {
     "Id": 20020007,
@@ -2591,13 +2631,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20007
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 654311424,
+    "IsSale": 671088718
   },
   "20020008": {
     "Id": 20020008,
@@ -2611,13 +2652,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 671088640,
+    "IsSale": 687865934
   },
   "20020009": {
     "Id": 20020009,
@@ -2631,13 +2673,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 687865856,
+    "IsSale": 704643150
   },
   "20020010": {
     "Id": 20020010,
@@ -2651,13 +2694,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 704643072,
+    "IsSale": 721420366
   },
   "20020011": {
     "Id": 20020011,
@@ -2671,13 +2715,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 721420288,
+    "IsSale": 738197582
   },
   "20020012": {
     "Id": 20020012,
@@ -2691,13 +2736,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 738197504,
+    "IsSale": 754974798
   },
   "20020013": {
     "Id": 20020013,
@@ -2711,13 +2757,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 754974720,
+    "IsSale": 771752014
   },
   "20020014": {
     "Id": 20020014,
@@ -2731,13 +2778,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 771751936,
+    "IsSale": 788529230
   },
   "20020015": {
     "Id": 20020015,
@@ -2751,13 +2799,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 788529152,
+    "IsSale": 838860878
   },
   "20030002": {
     "Id": 20030002,
@@ -2771,13 +2820,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 30001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 822083584,
+    "IsSale": 1090519157
   },
   "20040001": {
     "Id": 20040001,
@@ -2791,13 +2841,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 40000800,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40001
+    "ExtraAwardID": 1090519040,
+    "IsSale": 1107296412
   },
   "20040002": {
     "Id": 20040002,
@@ -2811,13 +2862,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 18,
-    "AwardId": 40000810,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1107296256,
+    "IsSale": 1124073628
   },
   "20040003": {
     "Id": 20040003,
@@ -2831,13 +2883,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 40000930,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1124073472,
+    "IsSale": 1140850844
   },
   "20040004": {
     "Id": 20040004,
@@ -2851,13 +2904,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70051070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1140850688,
+    "IsSale": 1157628060
   },
   "20040005": {
     "Id": 20040005,
@@ -2871,13 +2925,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70051030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1157627904,
+    "IsSale": 1174405276
   },
   "20040006": {
     "Id": 20040006,
@@ -2891,13 +2946,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70051040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1174405120,
+    "IsSale": 1191182492
   },
   "20040007": {
     "Id": 20040007,
@@ -2911,13 +2967,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40007
+    "ExtraAwardID": 1191182336,
+    "IsSale": 1207959708
   },
   "20040008": {
     "Id": 20040008,
@@ -2931,13 +2988,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1207959552,
+    "IsSale": 1224736924
   },
   "20040009": {
     "Id": 20040009,
@@ -2951,13 +3009,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1224736768,
+    "IsSale": 1241514140
   },
   "20040010": {
     "Id": 20040010,
@@ -2971,13 +3030,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1241513984,
+    "IsSale": 1258291356
   },
   "20040011": {
     "Id": 20040011,
@@ -2991,13 +3051,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1258291200,
+    "IsSale": 1275068572
   },
   "20040012": {
     "Id": 20040012,
@@ -3011,13 +3072,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1275068416,
+    "IsSale": 1291845788
   },
   "20040013": {
     "Id": 20040013,
@@ -3031,13 +3093,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1291845632,
+    "IsSale": 1308623004
   },
   "20040014": {
     "Id": 20040014,
@@ -3051,13 +3114,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1308622848,
+    "IsSale": 1325400220
   },
   "20040015": {
     "Id": 20040015,
@@ -3071,13 +3135,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1325400064,
+    "IsSale": 1342177436
   },
   "20040016": {
     "Id": 20040016,
@@ -3091,13 +3156,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40016
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1342177280,
+    "IsSale": 1358954652
   },
   "20040017": {
     "Id": 20040017,
@@ -3111,13 +3177,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051150,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40017
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1358954496,
+    "IsSale": 1375731868
   },
   "20040018": {
     "Id": 20040018,
@@ -3131,13 +3198,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70081060,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40018
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1375731712,
+    "IsSale": 1392509084
   },
   "20040019": {
     "Id": 20040019,
@@ -3151,13 +3219,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40019
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1392508928,
+    "IsSale": 1409286300
   },
   "20040020": {
     "Id": 20040020,
@@ -3171,13 +3240,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40020
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1409286144,
+    "IsSale": 1426063516
   },
   "20040021": {
     "Id": 20040021,
@@ -3191,13 +3261,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70081050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40021
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1426063360,
+    "IsSale": 1442840732
   },
   "20040022": {
     "Id": 20040022,
@@ -3211,13 +3282,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40022
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1442840576,
+    "IsSale": 1459617948
   },
   "20040023": {
     "Id": 20040023,
@@ -3231,13 +3303,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40023
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1459617792,
+    "IsSale": 1476395164
   },
   "20040024": {
     "Id": 20040024,
@@ -3251,13 +3324,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40024
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1476395008,
+    "IsSale": 1493172380
   },
   "20040025": {
     "Id": 20040025,
@@ -3271,13 +3345,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40025
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1493172224,
+    "IsSale": 1509949596
   },
   "20040026": {
     "Id": 20040026,
@@ -3291,13 +3366,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40026
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1509949440,
+    "IsSale": 1526726812
   },
   "20040027": {
     "Id": 20040027,
@@ -3311,13 +3387,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40027
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1526726656,
+    "IsSale": 1543504028
   },
   "20040028": {
     "Id": 20040028,
@@ -3331,13 +3408,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40028
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1543503872,
+    "IsSale": 1560281244
   },
   "20040029": {
     "Id": 20040029,
@@ -3351,13 +3429,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40029
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1560281088,
+    "IsSale": 1577058460
   },
   "20040030": {
     "Id": 20040030,
@@ -3371,13 +3450,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40030
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1577058304,
+    "IsSale": 1593835676
   },
   "20040031": {
     "Id": 20040031,
@@ -3391,13 +3471,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40031
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1593835520,
+    "IsSale": 1023410332
   },
   "20099901": {
     "Id": 20099901,
@@ -3411,13 +3492,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 90,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99901
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1023410176,
+    "IsSale": 1040187782
   },
   "20099902": {
     "Id": 20099902,
@@ -3431,13 +3513,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 18,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99902
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1040187392,
+    "IsSale": -1694498426
   },
   "30010011": {
     "Id": 30010011,
@@ -3451,18 +3534,14 @@
     "ProductName": "xhgm_diamond1",
     "Currency": "TWD",
     "Price": 33,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        60
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500800,
-    "ExtraAwardID": 20500900,
-    "IsSale": 1,
-    "PaymentId": 10001
+    "Items": [],
+    "MailId": -1543423791,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 285212672,
+    "IsSale": -1677721561
   },
   "30010012": {
     "Id": 30010012,
@@ -3476,18 +3555,14 @@
     "ProductName": "xhgm_diamond2",
     "Currency": "TWD",
     "Price": 160,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        300
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500810,
-    "ExtraAwardID": 20500910,
-    "IsSale": 1,
-    "PaymentId": 10002
+    "Items": [],
+    "MailId": -1375651631,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 301989888,
+    "IsSale": -1660944345
   },
   "30010013": {
     "Id": 30010013,
@@ -3501,18 +3576,14 @@
     "ProductName": "xhgm_diamond3",
     "Currency": "TWD",
     "Price": 490,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500820,
-    "ExtraAwardID": 20500920,
-    "IsSale": 1,
-    "PaymentId": 10003
+    "Items": [],
+    "MailId": -1207879471,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 318767104,
+    "IsSale": -1644167129
   },
   "30010014": {
     "Id": 30010014,
@@ -3526,18 +3597,14 @@
     "ProductName": "xhgm_diamond4",
     "Currency": "TWD",
     "Price": 990,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        1980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500830,
-    "ExtraAwardID": 20500930,
-    "IsSale": 1,
-    "PaymentId": 10004
+    "Items": [],
+    "MailId": -1040107311,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 335544320,
+    "IsSale": -1627389913
   },
   "30010015": {
     "Id": 30010015,
@@ -3551,18 +3618,14 @@
     "ProductName": "xhgm_diamond5",
     "Currency": "TWD",
     "Price": 1650,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        3280
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500840,
-    "ExtraAwardID": 20500940,
-    "IsSale": 1,
-    "PaymentId": 10005
+    "Items": [],
+    "MailId": -872335151,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 352321536,
+    "IsSale": -1610612697
   },
   "30010016": {
     "Id": 30010016,
@@ -3576,18 +3639,14 @@
     "ProductName": "xhgm_diamond6",
     "Currency": "TWD",
     "Price": 3290,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        6480
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500850,
-    "ExtraAwardID": 20500950,
-    "IsSale": 1,
-    "PaymentId": 10006
+    "Items": [],
+    "MailId": -704562991,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 369098752,
+    "IsSale": -1593835481
   },
   "30020001": {
     "Id": 30020001,
@@ -3601,13 +3660,14 @@
     "ProductName": "xhgm_bp1_1",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 553648128,
+    "IsSale": -1577058226
   },
   "30020002": {
     "Id": 30020002,
@@ -3621,13 +3681,14 @@
     "ProductName": "xhgm_bp1_2",
     "Currency": "TWD",
     "Price": 660,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 570425344,
+    "IsSale": -1560281010
   },
   "30020003": {
     "Id": 30020003,
@@ -3641,13 +3702,14 @@
     "ProductName": "xhgm_bp1_3",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 587202560,
+    "IsSale": -1543503794
   },
   "30020004": {
     "Id": 30020004,
@@ -3661,13 +3723,14 @@
     "ProductName": "xhgm_bp2_1",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 603979776,
+    "IsSale": -1526726578
   },
   "30020005": {
     "Id": 30020005,
@@ -3681,13 +3744,14 @@
     "ProductName": "xhgm_bp2_2",
     "Currency": "TWD",
     "Price": 660,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 620756992,
+    "IsSale": -1509949362
   },
   "30020006": {
     "Id": 30020006,
@@ -3701,13 +3765,14 @@
     "ProductName": "xhgm_bp2_3",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 637534208,
+    "IsSale": -1493172146
   },
   "30020007": {
     "Id": 30020007,
@@ -3721,13 +3786,14 @@
     "ProductName": "xhgm_bp3_1",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20007
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 654311424,
+    "IsSale": -1476394930
   },
   "30020008": {
     "Id": 30020008,
@@ -3741,13 +3807,14 @@
     "ProductName": "xhgm_bp3_2",
     "Currency": "TWD",
     "Price": 660,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 671088640,
+    "IsSale": -1459617714
   },
   "30020009": {
     "Id": 30020009,
@@ -3761,13 +3828,14 @@
     "ProductName": "xhgm_bp3_3",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 687865856,
+    "IsSale": -1442840498
   },
   "30020010": {
     "Id": 30020010,
@@ -3781,13 +3849,14 @@
     "ProductName": "xhgm_bp4_1",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 704643072,
+    "IsSale": -1426063282
   },
   "30020011": {
     "Id": 30020011,
@@ -3801,13 +3870,14 @@
     "ProductName": "xhgm_bp4_2",
     "Currency": "TWD",
     "Price": 660,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 721420288,
+    "IsSale": -1409286066
   },
   "30020012": {
     "Id": 30020012,
@@ -3821,13 +3891,14 @@
     "ProductName": "xhgm_bp4_3",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 738197504,
+    "IsSale": -1392508850
   },
   "30020013": {
     "Id": 30020013,
@@ -3841,13 +3912,14 @@
     "ProductName": "xhgm_bp5_1",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 754974720,
+    "IsSale": -1375731634
   },
   "30020014": {
     "Id": 30020014,
@@ -3861,13 +3933,14 @@
     "ProductName": "xhgm_bp5_2",
     "Currency": "TWD",
     "Price": 660,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 771751936,
+    "IsSale": -1358954418
   },
   "30020015": {
     "Id": 30020015,
@@ -3881,13 +3954,14 @@
     "ProductName": "xhgm_bp5_3",
     "Currency": "TWD",
     "Price": 330,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 788529152,
+    "IsSale": -1308622770
   },
   "30030002": {
     "Id": 30030002,
@@ -3901,13 +3975,14 @@
     "ProductName": "xhgm_mcard",
     "Currency": "TWD",
     "Price": 170,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 30001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 822083584,
+    "IsSale": -1056964491
   },
   "30040001": {
     "Id": 30040001,
@@ -3921,13 +3996,14 @@
     "ProductName": "xhgm_toy",
     "Currency": "TWD",
     "Price": 33,
-    "AwardId": 40000800,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40001
+    "ExtraAwardID": 1090519040,
+    "IsSale": -1040187236
   },
   "30040002": {
     "Id": 30040002,
@@ -3941,13 +4017,14 @@
     "ProductName": "xhgm_airona",
     "Currency": "TWD",
     "Price": 100,
-    "AwardId": 40000810,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1107296256,
+    "IsSale": -1023410020
   },
   "30040003": {
     "Id": 30040003,
@@ -3961,13 +4038,14 @@
     "ProductName": "xhgm_jt",
     "Currency": "TWD",
     "Price": 33,
-    "AwardId": 40000930,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1124073472,
+    "IsSale": -1006632804
   },
   "30040004": {
     "Id": 30040004,
@@ -3981,13 +4059,14 @@
     "ProductName": "xhgm_halloween_1",
     "Currency": "TWD",
     "Price": 170,
-    "AwardId": 70051070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1140850688,
+    "IsSale": -989855588
   },
   "30040005": {
     "Id": 30040005,
@@ -4001,13 +4080,14 @@
     "ProductName": "xhgm_halloween_2",
     "Currency": "TWD",
     "Price": 33,
-    "AwardId": 70051030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1157627904,
+    "IsSale": -973078372
   },
   "30040006": {
     "Id": 30040006,
@@ -4021,13 +4101,14 @@
     "ProductName": "xhgm_halloween_3",
     "Currency": "TWD",
     "Price": 70,
-    "AwardId": 70051040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1174405120,
+    "IsSale": -956301156
   },
   "30040007": {
     "Id": 30040007,
@@ -4041,13 +4122,14 @@
     "ProductName": "xhgm_halloween_4",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70051050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40007
+    "ExtraAwardID": 1191182336,
+    "IsSale": -939523940
   },
   "30040008": {
     "Id": 30040008,
@@ -4061,13 +4143,14 @@
     "ProductName": "xhgm_halloween_5",
     "Currency": "TWD",
     "Price": 330,
-    "AwardId": 70051010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1207959552,
+    "IsSale": -922746724
   },
   "30040009": {
     "Id": 30040009,
@@ -4081,13 +4164,14 @@
     "ProductName": "xhgm_halloween_6",
     "Currency": "TWD",
     "Price": 330,
-    "AwardId": 70051020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1224736768,
+    "IsSale": -905969508
   },
   "30040010": {
     "Id": 30040010,
@@ -4101,13 +4185,14 @@
     "ProductName": "xhgm_weapon_1",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70051080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1241513984,
+    "IsSale": -889192292
   },
   "30040011": {
     "Id": 30040011,
@@ -4121,13 +4206,14 @@
     "ProductName": "xhgm_weapon_2",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70051090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1258291200,
+    "IsSale": -872415076
   },
   "30040012": {
     "Id": 30040012,
@@ -4141,13 +4227,14 @@
     "ProductName": "xhgm_weapon_3",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70051100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1275068416,
+    "IsSale": -855637860
   },
   "30040013": {
     "Id": 30040013,
@@ -4161,13 +4248,14 @@
     "ProductName": "xhgm_weapon_4",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70051110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1291845632,
+    "IsSale": -838860644
   },
   "30040014": {
     "Id": 30040014,
@@ -4181,13 +4269,14 @@
     "ProductName": "xhgm_weapon_5",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70051120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1308622848,
+    "IsSale": -822083428
   },
   "30040015": {
     "Id": 30040015,
@@ -4201,13 +4290,14 @@
     "ProductName": "xhgm_weapon_6",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70051130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1325400064,
+    "IsSale": -805306212
   },
   "30040016": {
     "Id": 30040016,
@@ -4221,13 +4311,14 @@
     "ProductName": "xhgm_weapon_7",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70051140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40016
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1342177280,
+    "IsSale": -788528996
   },
   "30040017": {
     "Id": 30040017,
@@ -4241,13 +4332,14 @@
     "ProductName": "xhgm_weapon_8",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70051150,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40017
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1358954496,
+    "IsSale": -771751780
   },
   "30040018": {
     "Id": 30040018,
@@ -4261,13 +4353,14 @@
     "ProductName": "xhgm_xmas_1",
     "Currency": "TWD",
     "Price": 170,
-    "AwardId": 70081060,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40018
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1375731712,
+    "IsSale": -754974564
   },
   "30040019": {
     "Id": 30040019,
@@ -4281,13 +4374,14 @@
     "ProductName": "xhgm_xmas_2",
     "Currency": "TWD",
     "Price": 33,
-    "AwardId": 70081030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40019
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1392508928,
+    "IsSale": -738197348
   },
   "30040020": {
     "Id": 30040020,
@@ -4301,13 +4395,14 @@
     "ProductName": "xhgm_xmas_3",
     "Currency": "TWD",
     "Price": 33,
-    "AwardId": 70081040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40020
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1409286144,
+    "IsSale": -721420132
   },
   "30040021": {
     "Id": 30040021,
@@ -4321,13 +4416,14 @@
     "ProductName": "xhgm_xmas_4",
     "Currency": "TWD",
     "Price": 70,
-    "AwardId": 70081050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40021
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1426063360,
+    "IsSale": -704642916
   },
   "30040022": {
     "Id": 30040022,
@@ -4341,13 +4437,14 @@
     "ProductName": "xhgm_xmas_5",
     "Currency": "TWD",
     "Price": 330,
-    "AwardId": 70081010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40022
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1442840576,
+    "IsSale": -687865700
   },
   "30040023": {
     "Id": 30040023,
@@ -4361,13 +4458,14 @@
     "ProductName": "xhgm_xmas_6",
     "Currency": "TWD",
     "Price": 330,
-    "AwardId": 70081020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40023
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1459617792,
+    "IsSale": -671088484
   },
   "30040024": {
     "Id": 30040024,
@@ -4381,13 +4479,14 @@
     "ProductName": "xhgm_xmas_7",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70081070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40024
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1476395008,
+    "IsSale": -654311268
   },
   "30040025": {
     "Id": 30040025,
@@ -4401,13 +4500,14 @@
     "ProductName": "xhgm_xmas_8",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70081080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40025
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1493172224,
+    "IsSale": -637534052
   },
   "30040026": {
     "Id": 30040026,
@@ -4421,13 +4521,14 @@
     "ProductName": "xhgm_xmas_9",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70081090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40026
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1509949440,
+    "IsSale": -620756836
   },
   "30040027": {
     "Id": 30040027,
@@ -4441,13 +4542,14 @@
     "ProductName": "xhgm_xmas_10",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70081100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40027
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1526726656,
+    "IsSale": -603979620
   },
   "30040028": {
     "Id": 30040028,
@@ -4461,13 +4563,14 @@
     "ProductName": "xhgm_xmas_11",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70081110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40028
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1543503872,
+    "IsSale": -587202404
   },
   "30040029": {
     "Id": 30040029,
@@ -4481,13 +4584,14 @@
     "ProductName": "xhgm_xmas_12",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70081120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40029
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1560281088,
+    "IsSale": -570425188
   },
   "30040030": {
     "Id": 30040030,
@@ -4501,13 +4605,14 @@
     "ProductName": "xhgm_xmas_13",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70081130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40030
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1577058304,
+    "IsSale": -553647972
   },
   "30040031": {
     "Id": 30040031,
@@ -4521,13 +4626,14 @@
     "ProductName": "xhgm_xmas_14",
     "Currency": "TWD",
     "Price": 430,
-    "AwardId": 70081140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40031
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1593835520,
+    "IsSale": -1124073316
   },
   "30099901": {
     "Id": 30099901,
@@ -4541,13 +4647,14 @@
     "ProductName": "",
     "Currency": "TWD",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99901
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1023410176,
+    "IsSale": -1107295866
   },
   "30099902": {
     "Id": 30099902,
@@ -4561,13 +4668,14 @@
     "ProductName": "",
     "Currency": "TWD",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99902
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1040187392,
+    "IsSale": 452985222
   },
   "40010011": {
     "Id": 40010011,
@@ -4581,18 +4689,14 @@
     "ProductName": "com.bpsrweb.1",
     "Currency": "CNY",
     "Price": 6,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        60
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500800,
-    "ExtraAwardID": 20500900,
-    "IsSale": 1,
-    "PaymentId": 10001
+    "Items": [],
+    "MailId": -1543423791,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 285212672,
+    "IsSale": 469762087
   },
   "40010012": {
     "Id": 40010012,
@@ -4606,18 +4710,14 @@
     "ProductName": "com.bpsrweb.2",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        300
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500810,
-    "ExtraAwardID": 20500910,
-    "IsSale": 1,
-    "PaymentId": 10002
+    "Items": [],
+    "MailId": -1375651631,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 301989888,
+    "IsSale": 486539303
   },
   "40010013": {
     "Id": 40010013,
@@ -4631,18 +4731,14 @@
     "ProductName": "com.bpsrweb.3",
     "Currency": "CNY",
     "Price": 98,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500820,
-    "ExtraAwardID": 20500920,
-    "IsSale": 1,
-    "PaymentId": 10003
+    "Items": [],
+    "MailId": -1207879471,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 318767104,
+    "IsSale": 503316519
   },
   "40010014": {
     "Id": 40010014,
@@ -4656,18 +4752,14 @@
     "ProductName": "com.bpsrweb.4",
     "Currency": "CNY",
     "Price": 198,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        1980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500830,
-    "ExtraAwardID": 20500930,
-    "IsSale": 1,
-    "PaymentId": 10004
+    "Items": [],
+    "MailId": -1040107311,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 335544320,
+    "IsSale": 520093735
   },
   "40010015": {
     "Id": 40010015,
@@ -4681,18 +4773,14 @@
     "ProductName": "com.bpsrweb.5",
     "Currency": "CNY",
     "Price": 328,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        3280
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500840,
-    "ExtraAwardID": 20500940,
-    "IsSale": 1,
-    "PaymentId": 10005
+    "Items": [],
+    "MailId": -872335151,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 352321536,
+    "IsSale": 536870951
   },
   "40010016": {
     "Id": 40010016,
@@ -4706,18 +4794,14 @@
     "ProductName": "com.bpsrweb.6",
     "Currency": "CNY",
     "Price": 648,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        6480
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500850,
-    "ExtraAwardID": 20500950,
-    "IsSale": 1,
-    "PaymentId": 10006
+    "Items": [],
+    "MailId": -704562991,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 369098752,
+    "IsSale": 553648167
   },
   "40020001": {
     "Id": 40020001,
@@ -4731,13 +4815,14 @@
     "ProductName": "com.bpsrweb.7",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 553648128,
+    "IsSale": 570425422
   },
   "40020002": {
     "Id": 40020002,
@@ -4751,13 +4836,14 @@
     "ProductName": "com.bpsrweb.8",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 570425344,
+    "IsSale": 587202638
   },
   "40020003": {
     "Id": 40020003,
@@ -4771,13 +4857,14 @@
     "ProductName": "com.bpsrweb.9",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 587202560,
+    "IsSale": 603979854
   },
   "40020004": {
     "Id": 40020004,
@@ -4791,13 +4878,14 @@
     "ProductName": "com.bpsrweb.10",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 603979776,
+    "IsSale": 620757070
   },
   "40020005": {
     "Id": 40020005,
@@ -4811,13 +4899,14 @@
     "ProductName": "com.bpsrweb.11",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 620756992,
+    "IsSale": 637534286
   },
   "40020006": {
     "Id": 40020006,
@@ -4831,13 +4920,14 @@
     "ProductName": "com.bpsrweb.12",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 637534208,
+    "IsSale": 654311502
   },
   "40020007": {
     "Id": 40020007,
@@ -4851,13 +4941,14 @@
     "ProductName": "com.bpsrapple.31",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20007
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 654311424,
+    "IsSale": 671088718
   },
   "40020008": {
     "Id": 40020008,
@@ -4871,13 +4962,14 @@
     "ProductName": "com.bpsrapple.32",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 671088640,
+    "IsSale": 687865934
   },
   "40020009": {
     "Id": 40020009,
@@ -4891,13 +4983,14 @@
     "ProductName": "com.bpsrapple.33",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 687865856,
+    "IsSale": 704643150
   },
   "40020010": {
     "Id": 40020010,
@@ -4911,13 +5004,14 @@
     "ProductName": "com.bpsrapple.34",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 704643072,
+    "IsSale": 721420366
   },
   "40020011": {
     "Id": 40020011,
@@ -4931,13 +5025,14 @@
     "ProductName": "com.bpsrapple.35",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 721420288,
+    "IsSale": 738197582
   },
   "40020012": {
     "Id": 40020012,
@@ -4951,13 +5046,14 @@
     "ProductName": "com.bpsrapple.36",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 738197504,
+    "IsSale": 754974798
   },
   "40020013": {
     "Id": 40020013,
@@ -4971,13 +5067,14 @@
     "ProductName": "com.bpsrapple.51",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 754974720,
+    "IsSale": 771752014
   },
   "40020014": {
     "Id": 40020014,
@@ -4991,13 +5088,14 @@
     "ProductName": "com.bpsrapple.52",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 771751936,
+    "IsSale": 788529230
   },
   "40020015": {
     "Id": 40020015,
@@ -5011,13 +5109,14 @@
     "ProductName": "com.bpsrapple.53",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 788529152,
+    "IsSale": 838860878
   },
   "40030002": {
     "Id": 40030002,
@@ -5031,13 +5130,14 @@
     "ProductName": "com.bpsrweb.13",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 30001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 822083584,
+    "IsSale": 855638133
   },
   "40030003": {
     "Id": 40030003,
@@ -5051,13 +5151,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 30003
+    "ExtraAwardID": 855638016,
+    "IsSale": 872415349
   },
   "40030004": {
     "Id": 40030004,
@@ -5071,13 +5172,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 30004
+    "ExtraAwardID": 872415232,
+    "IsSale": 889192565
   },
   "40030005": {
     "Id": 40030005,
@@ -5091,13 +5193,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 30005
+    "ExtraAwardID": 889192448,
+    "IsSale": 905969781
   },
   "40030006": {
     "Id": 40030006,
@@ -5111,13 +5214,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 30006
+    "ExtraAwardID": 905969664,
+    "IsSale": 922746997
   },
   "40030007": {
     "Id": 40030007,
@@ -5131,13 +5235,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 30007
+    "ExtraAwardID": 922746880,
+    "IsSale": 939524213
   },
   "40030008": {
     "Id": 40030008,
@@ -5151,13 +5256,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 30008
+    "ExtraAwardID": 939524096,
+    "IsSale": 1090519157
   },
   "40040001": {
     "Id": 40040001,
@@ -5171,13 +5277,14 @@
     "ProductName": "com.bpsrweb.14",
     "Currency": "CNY",
     "Price": 18,
-    "AwardId": 40000800,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40001
+    "ExtraAwardID": 1090519040,
+    "IsSale": 1107296412
   },
   "40040002": {
     "Id": 40040002,
@@ -5191,13 +5298,14 @@
     "ProductName": "com.bpsrweb.15",
     "Currency": "CNY",
     "Price": 18,
-    "AwardId": 40000810,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1107296256,
+    "IsSale": 1124073628
   },
   "40040003": {
     "Id": 40040003,
@@ -5211,13 +5319,14 @@
     "ProductName": "com.bpsrweb.16",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 40000930,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1124073472,
+    "IsSale": 1140850844
   },
   "40040004": {
     "Id": 40040004,
@@ -5231,13 +5340,14 @@
     "ProductName": "com.bpsrapple.17",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70051070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1140850688,
+    "IsSale": 1157628060
   },
   "40040005": {
     "Id": 40040005,
@@ -5251,13 +5361,14 @@
     "ProductName": "com.bpsrapple.18",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70051030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1157627904,
+    "IsSale": 1174405276
   },
   "40040006": {
     "Id": 40040006,
@@ -5271,13 +5382,14 @@
     "ProductName": "com.bpsrapple.19",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70051040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1174405120,
+    "IsSale": 1191182492
   },
   "40040007": {
     "Id": 40040007,
@@ -5291,13 +5403,14 @@
     "ProductName": "com.bpsrapple.20",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40007
+    "ExtraAwardID": 1191182336,
+    "IsSale": 1207959708
   },
   "40040008": {
     "Id": 40040008,
@@ -5311,13 +5424,14 @@
     "ProductName": "com.bpsrapple.21",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1207959552,
+    "IsSale": 1224736924
   },
   "40040009": {
     "Id": 40040009,
@@ -5331,13 +5445,14 @@
     "ProductName": "com.bpsrapple.22",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1224736768,
+    "IsSale": 1241514140
   },
   "40040010": {
     "Id": 40040010,
@@ -5351,13 +5466,14 @@
     "ProductName": "com.bpsrapple.23",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1241513984,
+    "IsSale": 1258291356
   },
   "40040011": {
     "Id": 40040011,
@@ -5371,13 +5487,14 @@
     "ProductName": "com.bpsrapple.24",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1258291200,
+    "IsSale": 1275068572
   },
   "40040012": {
     "Id": 40040012,
@@ -5391,13 +5508,14 @@
     "ProductName": "com.bpsrapple.25",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1275068416,
+    "IsSale": 1291845788
   },
   "40040013": {
     "Id": 40040013,
@@ -5411,13 +5529,14 @@
     "ProductName": "com.bpsrapple.26",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1291845632,
+    "IsSale": 1308623004
   },
   "40040014": {
     "Id": 40040014,
@@ -5431,13 +5550,14 @@
     "ProductName": "com.bpsrapple.27",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1308622848,
+    "IsSale": 1325400220
   },
   "40040015": {
     "Id": 40040015,
@@ -5451,13 +5571,14 @@
     "ProductName": "com.bpsrapple.28",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1325400064,
+    "IsSale": 1342177436
   },
   "40040016": {
     "Id": 40040016,
@@ -5471,13 +5592,14 @@
     "ProductName": "com.bpsrapple.29",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40016
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1342177280,
+    "IsSale": 1358954652
   },
   "40040017": {
     "Id": 40040017,
@@ -5491,13 +5613,14 @@
     "ProductName": "com.bpsrapple.30",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051150,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40017
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1358954496,
+    "IsSale": 1375731868
   },
   "40040018": {
     "Id": 40040018,
@@ -5511,13 +5634,14 @@
     "ProductName": "com.bpsrapple.37",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70081060,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40018
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1375731712,
+    "IsSale": 1392509084
   },
   "40040019": {
     "Id": 40040019,
@@ -5531,13 +5655,14 @@
     "ProductName": "com.bpsrapple.38",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40019
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1392508928,
+    "IsSale": 1409286300
   },
   "40040020": {
     "Id": 40040020,
@@ -5551,13 +5676,14 @@
     "ProductName": "com.bpsrapple.39",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40020
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1409286144,
+    "IsSale": 1426063516
   },
   "40040021": {
     "Id": 40040021,
@@ -5571,13 +5697,14 @@
     "ProductName": "com.bpsrapple.40",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70081050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40021
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1426063360,
+    "IsSale": 1442840732
   },
   "40040022": {
     "Id": 40040022,
@@ -5591,13 +5718,14 @@
     "ProductName": "com.bpsrapple.41",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40022
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1442840576,
+    "IsSale": 1459617948
   },
   "40040023": {
     "Id": 40040023,
@@ -5611,13 +5739,14 @@
     "ProductName": "com.bpsrapple.42",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40023
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1459617792,
+    "IsSale": 1476395164
   },
   "40040024": {
     "Id": 40040024,
@@ -5631,13 +5760,14 @@
     "ProductName": "com.bpsrapple.43",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40024
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1476395008,
+    "IsSale": 1493172380
   },
   "40040025": {
     "Id": 40040025,
@@ -5651,13 +5781,14 @@
     "ProductName": "com.bpsrapple.44",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40025
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1493172224,
+    "IsSale": 1509949596
   },
   "40040026": {
     "Id": 40040026,
@@ -5671,13 +5802,14 @@
     "ProductName": "com.bpsrapple.45",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40026
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1509949440,
+    "IsSale": 1526726812
   },
   "40040027": {
     "Id": 40040027,
@@ -5691,13 +5823,14 @@
     "ProductName": "com.bpsrapple.46",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40027
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1526726656,
+    "IsSale": 1543504028
   },
   "40040028": {
     "Id": 40040028,
@@ -5711,13 +5844,14 @@
     "ProductName": "com.bpsrapple.47",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40028
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1543503872,
+    "IsSale": 1560281244
   },
   "40040029": {
     "Id": 40040029,
@@ -5731,13 +5865,14 @@
     "ProductName": "com.bpsrapple.48",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40029
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1560281088,
+    "IsSale": 1577058460
   },
   "40040030": {
     "Id": 40040030,
@@ -5751,13 +5886,14 @@
     "ProductName": "com.bpsrapple.49",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40030
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1577058304,
+    "IsSale": 1593835676
   },
   "40040031": {
     "Id": 40040031,
@@ -5771,13 +5907,14 @@
     "ProductName": "com.bpsrapple.50",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40031
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1593835520,
+    "IsSale": 1023410332
   },
   "40099901": {
     "Id": 40099901,
@@ -5791,13 +5928,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99901
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1023410176,
+    "IsSale": 1040187782
   },
   "40099902": {
     "Id": 40099902,
@@ -5811,13 +5949,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99902
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1040187392,
+    "IsSale": -1694498426
   },
   "50010011": {
     "Id": 50010011,
@@ -5831,18 +5970,14 @@
     "ProductName": "bpsr_diamond1",
     "Currency": "CNY",
     "Price": 6,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        60
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500800,
-    "ExtraAwardID": 20500900,
-    "IsSale": 1,
-    "PaymentId": 10001
+    "Items": [],
+    "MailId": -1543423791,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 285212672,
+    "IsSale": -1677721561
   },
   "50010012": {
     "Id": 50010012,
@@ -5856,18 +5991,14 @@
     "ProductName": "bpsr_diamond2",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        300
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500810,
-    "ExtraAwardID": 20500910,
-    "IsSale": 1,
-    "PaymentId": 10002
+    "Items": [],
+    "MailId": -1375651631,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 301989888,
+    "IsSale": -1660944345
   },
   "50010013": {
     "Id": 50010013,
@@ -5881,18 +6012,14 @@
     "ProductName": "bpsr_diamond3",
     "Currency": "CNY",
     "Price": 98,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500820,
-    "ExtraAwardID": 20500920,
-    "IsSale": 1,
-    "PaymentId": 10003
+    "Items": [],
+    "MailId": -1207879471,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 318767104,
+    "IsSale": -1644167129
   },
   "50010014": {
     "Id": 50010014,
@@ -5906,18 +6033,14 @@
     "ProductName": "bpsr_diamond4",
     "Currency": "CNY",
     "Price": 198,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        1980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500830,
-    "ExtraAwardID": 20500930,
-    "IsSale": 1,
-    "PaymentId": 10004
+    "Items": [],
+    "MailId": -1040107311,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 335544320,
+    "IsSale": -1627389913
   },
   "50010015": {
     "Id": 50010015,
@@ -5931,18 +6054,14 @@
     "ProductName": "bpsr_diamond5",
     "Currency": "CNY",
     "Price": 328,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        3280
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500840,
-    "ExtraAwardID": 20500940,
-    "IsSale": 1,
-    "PaymentId": 10005
+    "Items": [],
+    "MailId": -872335151,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 352321536,
+    "IsSale": -1610612697
   },
   "50010016": {
     "Id": 50010016,
@@ -5956,18 +6075,14 @@
     "ProductName": "bpsr_diamond6",
     "Currency": "CNY",
     "Price": 648,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        6480
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500850,
-    "ExtraAwardID": 20500950,
-    "IsSale": 1,
-    "PaymentId": 10006
+    "Items": [],
+    "MailId": -704562991,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 369098752,
+    "IsSale": -1593835481
   },
   "50020001": {
     "Id": 50020001,
@@ -5981,13 +6096,14 @@
     "ProductName": "bpsr_bp1_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 553648128,
+    "IsSale": -1577058226
   },
   "50020002": {
     "Id": 50020002,
@@ -6001,13 +6117,14 @@
     "ProductName": "bpsr_bp1_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 570425344,
+    "IsSale": -1560281010
   },
   "50020003": {
     "Id": 50020003,
@@ -6021,13 +6138,14 @@
     "ProductName": "bpsr_bp1_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 587202560,
+    "IsSale": -1543503794
   },
   "50020004": {
     "Id": 50020004,
@@ -6041,13 +6159,14 @@
     "ProductName": "bpsr_bp2_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 603979776,
+    "IsSale": -1526726578
   },
   "50020005": {
     "Id": 50020005,
@@ -6061,13 +6180,14 @@
     "ProductName": "bpsr_bp2_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 620756992,
+    "IsSale": -1509949362
   },
   "50020006": {
     "Id": 50020006,
@@ -6081,13 +6201,14 @@
     "ProductName": "bpsr_bp2_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 637534208,
+    "IsSale": -1493172146
   },
   "50020007": {
     "Id": 50020007,
@@ -6101,13 +6222,14 @@
     "ProductName": "bpsr_bp3_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20007
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 654311424,
+    "IsSale": -1476394930
   },
   "50020008": {
     "Id": 50020008,
@@ -6121,13 +6243,14 @@
     "ProductName": "bpsr_bp3_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 671088640,
+    "IsSale": -1459617714
   },
   "50020009": {
     "Id": 50020009,
@@ -6141,13 +6264,14 @@
     "ProductName": "bpsr_bp3_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 687865856,
+    "IsSale": -1442840498
   },
   "50020010": {
     "Id": 50020010,
@@ -6161,13 +6285,14 @@
     "ProductName": "bpsr_bp4_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 704643072,
+    "IsSale": -1426063282
   },
   "50020011": {
     "Id": 50020011,
@@ -6181,13 +6306,14 @@
     "ProductName": "bpsr_bp4_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 721420288,
+    "IsSale": -1409286066
   },
   "50020012": {
     "Id": 50020012,
@@ -6201,13 +6327,14 @@
     "ProductName": "bpsr_bp4_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 738197504,
+    "IsSale": -1392508850
   },
   "50020013": {
     "Id": 50020013,
@@ -6221,13 +6348,14 @@
     "ProductName": "bpsr_bp5_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 754974720,
+    "IsSale": -1375731634
   },
   "50020014": {
     "Id": 50020014,
@@ -6241,13 +6369,14 @@
     "ProductName": "bpsr_bp5_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 771751936,
+    "IsSale": -1358954418
   },
   "50020015": {
     "Id": 50020015,
@@ -6261,13 +6390,14 @@
     "ProductName": "bpsr_bp5_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 788529152,
+    "IsSale": -1308622770
   },
   "50030002": {
     "Id": 50030002,
@@ -6281,13 +6411,14 @@
     "ProductName": "bpsr_mcard",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 30001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 822083584,
+    "IsSale": -1056964491
   },
   "50040001": {
     "Id": 50040001,
@@ -6301,13 +6432,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 90,
-    "AwardId": 40000800,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40001
+    "ExtraAwardID": 1090519040,
+    "IsSale": -1040187236
   },
   "50040002": {
     "Id": 50040002,
@@ -6321,13 +6453,14 @@
     "ProductName": "bpsr_airona",
     "Currency": "CNY",
     "Price": 18,
-    "AwardId": 40000810,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1107296256,
+    "IsSale": -1023410020
   },
   "50040003": {
     "Id": 50040003,
@@ -6341,13 +6474,14 @@
     "ProductName": "bpsr_jt",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 40000930,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1124073472,
+    "IsSale": -1006632804
   },
   "50040004": {
     "Id": 50040004,
@@ -6361,13 +6495,14 @@
     "ProductName": "bpsr_halloween_1",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70051070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1140850688,
+    "IsSale": -989855588
   },
   "50040005": {
     "Id": 50040005,
@@ -6381,13 +6516,14 @@
     "ProductName": "bpsr_halloween_2",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70051030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1157627904,
+    "IsSale": -973078372
   },
   "50040006": {
     "Id": 50040006,
@@ -6401,13 +6537,14 @@
     "ProductName": "bpsr_halloween_3",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70051040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1174405120,
+    "IsSale": -956301156
   },
   "50040007": {
     "Id": 50040007,
@@ -6421,13 +6558,14 @@
     "ProductName": "bpsr_halloween_4",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40007
+    "ExtraAwardID": 1191182336,
+    "IsSale": -939523940
   },
   "50040008": {
     "Id": 50040008,
@@ -6441,13 +6579,14 @@
     "ProductName": "bpsr_halloween_5",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1207959552,
+    "IsSale": -922746724
   },
   "50040009": {
     "Id": 50040009,
@@ -6461,13 +6600,14 @@
     "ProductName": "bpsr_halloween_6",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1224736768,
+    "IsSale": -905969508
   },
   "50040010": {
     "Id": 50040010,
@@ -6481,13 +6621,14 @@
     "ProductName": "bpsr_weapon_1",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1241513984,
+    "IsSale": -889192292
   },
   "50040011": {
     "Id": 50040011,
@@ -6501,13 +6642,14 @@
     "ProductName": "bpsr_weapon_2",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1258291200,
+    "IsSale": -872415076
   },
   "50040012": {
     "Id": 50040012,
@@ -6521,13 +6663,14 @@
     "ProductName": "bpsr_weapon_3",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1275068416,
+    "IsSale": -855637860
   },
   "50040013": {
     "Id": 50040013,
@@ -6541,13 +6684,14 @@
     "ProductName": "bpsr_weapon_4",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1291845632,
+    "IsSale": -838860644
   },
   "50040014": {
     "Id": 50040014,
@@ -6561,13 +6705,14 @@
     "ProductName": "bpsr_weapon_5",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1308622848,
+    "IsSale": -822083428
   },
   "50040015": {
     "Id": 50040015,
@@ -6581,13 +6726,14 @@
     "ProductName": "bpsr_weapon_6",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1325400064,
+    "IsSale": -805306212
   },
   "50040016": {
     "Id": 50040016,
@@ -6601,13 +6747,14 @@
     "ProductName": "bpsr_weapon_7",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40016
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1342177280,
+    "IsSale": -788528996
   },
   "50040017": {
     "Id": 50040017,
@@ -6621,13 +6768,14 @@
     "ProductName": "bpsr_weapon_8",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051150,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40017
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1358954496,
+    "IsSale": -771751780
   },
   "50040018": {
     "Id": 50040018,
@@ -6641,13 +6789,14 @@
     "ProductName": "bpsr_xmas_1",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081060,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40018
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1375731712,
+    "IsSale": -754974564
   },
   "50040019": {
     "Id": 50040019,
@@ -6661,13 +6810,14 @@
     "ProductName": "bpsr_xmas_2",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70081030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40019
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1392508928,
+    "IsSale": -738197348
   },
   "50040020": {
     "Id": 50040020,
@@ -6681,13 +6831,14 @@
     "ProductName": "bpsr_xmas_3",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40020
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1409286144,
+    "IsSale": -721420132
   },
   "50040021": {
     "Id": 50040021,
@@ -6701,13 +6852,14 @@
     "ProductName": "bpsr_xmas_4",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40021
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1426063360,
+    "IsSale": -704642916
   },
   "50040022": {
     "Id": 50040022,
@@ -6721,13 +6873,14 @@
     "ProductName": "bpsr_xmas_5",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40022
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1442840576,
+    "IsSale": -687865700
   },
   "50040023": {
     "Id": 50040023,
@@ -6741,13 +6894,14 @@
     "ProductName": "bpsr_xmas_6",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40023
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1459617792,
+    "IsSale": -671088484
   },
   "50040024": {
     "Id": 50040024,
@@ -6761,13 +6915,14 @@
     "ProductName": "bpsr_xmas_7",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40024
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1476395008,
+    "IsSale": -654311268
   },
   "50040025": {
     "Id": 50040025,
@@ -6781,13 +6936,14 @@
     "ProductName": "bpsr_xmas_8",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40025
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1493172224,
+    "IsSale": -637534052
   },
   "50040026": {
     "Id": 50040026,
@@ -6801,13 +6957,14 @@
     "ProductName": "bpsr_xmas_9",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40026
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1509949440,
+    "IsSale": -620756836
   },
   "50040027": {
     "Id": 50040027,
@@ -6821,13 +6978,14 @@
     "ProductName": "bpsr_xmas_10",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40027
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1526726656,
+    "IsSale": -603979620
   },
   "50040028": {
     "Id": 50040028,
@@ -6841,13 +6999,14 @@
     "ProductName": "bpsr_xmas_11",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40028
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1543503872,
+    "IsSale": -587202404
   },
   "50040029": {
     "Id": 50040029,
@@ -6861,13 +7020,14 @@
     "ProductName": "bpsr_xmas_12",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40029
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1560281088,
+    "IsSale": -570425188
   },
   "50040030": {
     "Id": 50040030,
@@ -6881,13 +7041,14 @@
     "ProductName": "bpsr_xmas_13",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40030
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1577058304,
+    "IsSale": -553647972
   },
   "50040031": {
     "Id": 50040031,
@@ -6901,13 +7062,14 @@
     "ProductName": "bpsr_xmas_14",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40031
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1593835520,
+    "IsSale": -1124073316
   },
   "50099901": {
     "Id": 50099901,
@@ -6921,13 +7083,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99901
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1023410176,
+    "IsSale": -1107295866
   },
   "50099902": {
     "Id": 50099902,
@@ -6941,13 +7104,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99902
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1040187392,
+    "IsSale": 452985222
   },
   "60010011": {
     "Id": 60010011,
@@ -6961,18 +7125,14 @@
     "ProductName": "bpsrasia_diamond1",
     "Currency": "CNY",
     "Price": 6,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        60
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500800,
-    "ExtraAwardID": 20500900,
-    "IsSale": 1,
-    "PaymentId": 10001
+    "Items": [],
+    "MailId": -1543423791,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 285212672,
+    "IsSale": 469762087
   },
   "60010012": {
     "Id": 60010012,
@@ -6986,18 +7146,14 @@
     "ProductName": "bpsrasia_diamond2",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        300
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500810,
-    "ExtraAwardID": 20500910,
-    "IsSale": 1,
-    "PaymentId": 10002
+    "Items": [],
+    "MailId": -1375651631,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 301989888,
+    "IsSale": 486539303
   },
   "60010013": {
     "Id": 60010013,
@@ -7011,18 +7167,14 @@
     "ProductName": "bpsrasia_diamond3",
     "Currency": "CNY",
     "Price": 98,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500820,
-    "ExtraAwardID": 20500920,
-    "IsSale": 1,
-    "PaymentId": 10003
+    "Items": [],
+    "MailId": -1207879471,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 318767104,
+    "IsSale": 503316519
   },
   "60010014": {
     "Id": 60010014,
@@ -7036,18 +7188,14 @@
     "ProductName": "bpsrasia_diamond4",
     "Currency": "CNY",
     "Price": 198,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        1980
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500830,
-    "ExtraAwardID": 20500930,
-    "IsSale": 1,
-    "PaymentId": 10004
+    "Items": [],
+    "MailId": -1040107311,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 335544320,
+    "IsSale": 520093735
   },
   "60010015": {
     "Id": 60010015,
@@ -7061,18 +7209,14 @@
     "ProductName": "bpsrasia_diamond5",
     "Currency": "CNY",
     "Price": 328,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        3280
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500840,
-    "ExtraAwardID": 20500940,
-    "IsSale": 1,
-    "PaymentId": 10005
+    "Items": [],
+    "MailId": -872335151,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 352321536,
+    "IsSale": 536870951
   },
   "60010016": {
     "Id": 60010016,
@@ -7086,18 +7230,14 @@
     "ProductName": "bpsrasia_diamond6",
     "Currency": "CNY",
     "Price": 648,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
-    "Items": [
-      [
-        10003,
-        6480
-      ]
-    ],
-    "MailId": 0,
-    "FirstChargeAwardID": 20500850,
-    "ExtraAwardID": 20500950,
-    "IsSale": 1,
-    "PaymentId": 10006
+    "Items": [],
+    "MailId": -704562991,
+    "FirstChargeAwardID": 16857297,
+    "ExtraAwardID": 369098752,
+    "IsSale": 553648167
   },
   "60020001": {
     "Id": 60020001,
@@ -7111,13 +7251,14 @@
     "ProductName": "bpsrasia_bp1_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 553648128,
+    "IsSale": 570425422
   },
   "60020002": {
     "Id": 60020002,
@@ -7131,13 +7272,14 @@
     "ProductName": "bpsrasia_bp1_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 570425344,
+    "IsSale": 587202638
   },
   "60020003": {
     "Id": 60020003,
@@ -7151,13 +7293,14 @@
     "ProductName": "bpsrasia_bp1_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 587202560,
+    "IsSale": 603979854
   },
   "60020004": {
     "Id": 60020004,
@@ -7171,13 +7314,14 @@
     "ProductName": "bpsrasia_bp2_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 603979776,
+    "IsSale": 620757070
   },
   "60020005": {
     "Id": 60020005,
@@ -7191,13 +7335,14 @@
     "ProductName": "bpsrasia_bp2_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 620756992,
+    "IsSale": 637534286
   },
   "60020006": {
     "Id": 60020006,
@@ -7211,13 +7356,14 @@
     "ProductName": "bpsrasia_bp2_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 637534208,
+    "IsSale": 654311502
   },
   "60020007": {
     "Id": 60020007,
@@ -7231,13 +7377,14 @@
     "ProductName": "bpsrasia_bp3_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20007
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 654311424,
+    "IsSale": 671088718
   },
   "60020008": {
     "Id": 60020008,
@@ -7251,13 +7398,14 @@
     "ProductName": "bpsrasia_bp3_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 671088640,
+    "IsSale": 687865934
   },
   "60020009": {
     "Id": 60020009,
@@ -7271,13 +7419,14 @@
     "ProductName": "bpsrasia_bp3_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 687865856,
+    "IsSale": 704643150
   },
   "60020010": {
     "Id": 60020010,
@@ -7291,13 +7440,14 @@
     "ProductName": "bpsrasia_bp4_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 704643072,
+    "IsSale": 721420366
   },
   "60020011": {
     "Id": 60020011,
@@ -7311,13 +7461,14 @@
     "ProductName": "bpsrasia_bp4_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 721420288,
+    "IsSale": 738197582
   },
   "60020012": {
     "Id": 60020012,
@@ -7331,13 +7482,14 @@
     "ProductName": "bpsrasia_bp4_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 738197504,
+    "IsSale": 754974798
   },
   "60020013": {
     "Id": 60020013,
@@ -7351,13 +7503,14 @@
     "ProductName": "bpsrasia_bp5_1",
     "Currency": "CNY",
     "Price": 68,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 754974720,
+    "IsSale": 771752014
   },
   "60020014": {
     "Id": 60020014,
@@ -7371,13 +7524,14 @@
     "ProductName": "bpsrasia_bp5_2",
     "Currency": "CNY",
     "Price": 128,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 771751936,
+    "IsSale": 788529230
   },
   "60020015": {
     "Id": 60020015,
@@ -7391,13 +7545,14 @@
     "ProductName": "bpsrasia_bp5_3",
     "Currency": "CNY",
     "Price": 60,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 20015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 788529152,
+    "IsSale": 838860878
   },
   "60030002": {
     "Id": 60030002,
@@ -7411,13 +7566,14 @@
     "ProductName": "bpsrasia_mcard",
     "Currency": "CNY",
     "Price": 30,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 30001
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 822083584,
+    "IsSale": 1090519157
   },
   "60040001": {
     "Id": 60040001,
@@ -7431,13 +7587,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 90,
-    "AwardId": 40000800,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40001
+    "ExtraAwardID": 1090519040,
+    "IsSale": 1107296412
   },
   "60040002": {
     "Id": 60040002,
@@ -7451,13 +7608,14 @@
     "ProductName": "bpsrasia_airona",
     "Currency": "CNY",
     "Price": 18,
-    "AwardId": 40000810,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40002
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1107296256,
+    "IsSale": 1124073628
   },
   "60040003": {
     "Id": 60040003,
@@ -7471,13 +7629,14 @@
     "ProductName": "bpsrasia_jt",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 40000930,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40003
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1124073472,
+    "IsSale": 1140850844
   },
   "60040004": {
     "Id": 60040004,
@@ -7491,13 +7650,14 @@
     "ProductName": "bpsrasia_halloween_1",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70051070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40004
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1140850688,
+    "IsSale": 1157628060
   },
   "60040005": {
     "Id": 60040005,
@@ -7511,13 +7671,14 @@
     "ProductName": "bpsrasia_halloween_2",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70051030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40005
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1157627904,
+    "IsSale": 1174405276
   },
   "60040006": {
     "Id": 60040006,
@@ -7531,13 +7692,14 @@
     "ProductName": "bpsrasia_halloween_3",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70051040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40006
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1174405120,
+    "IsSale": 1191182492
   },
   "60040007": {
     "Id": 60040007,
@@ -7551,13 +7713,14 @@
     "ProductName": "bpsrasia_halloween_4",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
     "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 0,
-    "PaymentId": 40007
+    "ExtraAwardID": 1191182336,
+    "IsSale": 1207959708
   },
   "60040008": {
     "Id": 60040008,
@@ -7571,13 +7734,14 @@
     "ProductName": "bpsrasia_halloween_5",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40008
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1207959552,
+    "IsSale": 1224736924
   },
   "60040009": {
     "Id": 60040009,
@@ -7591,13 +7755,14 @@
     "ProductName": "bpsrasia_halloween_6",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70051020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40009
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1224736768,
+    "IsSale": 1241514140
   },
   "60040010": {
     "Id": 60040010,
@@ -7611,13 +7776,14 @@
     "ProductName": "bpsrasia_weapon_1",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40010
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1241513984,
+    "IsSale": 1258291356
   },
   "60040011": {
     "Id": 60040011,
@@ -7631,13 +7797,14 @@
     "ProductName": "bpsrasia_weapon_2",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40011
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1258291200,
+    "IsSale": 1275068572
   },
   "60040012": {
     "Id": 60040012,
@@ -7651,13 +7818,14 @@
     "ProductName": "bpsrasia_weapon_3",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40012
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1275068416,
+    "IsSale": 1291845788
   },
   "60040013": {
     "Id": 60040013,
@@ -7671,13 +7839,14 @@
     "ProductName": "bpsrasia_weapon_4",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40013
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1291845632,
+    "IsSale": 1308623004
   },
   "60040014": {
     "Id": 60040014,
@@ -7691,13 +7860,14 @@
     "ProductName": "bpsrasia_weapon_5",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40014
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1308622848,
+    "IsSale": 1325400220
   },
   "60040015": {
     "Id": 60040015,
@@ -7711,13 +7881,14 @@
     "ProductName": "bpsrasia_weapon_6",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40015
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1325400064,
+    "IsSale": 1342177436
   },
   "60040016": {
     "Id": 60040016,
@@ -7731,13 +7902,14 @@
     "ProductName": "bpsrasia_weapon_7",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40016
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1342177280,
+    "IsSale": 1358954652
   },
   "60040017": {
     "Id": 60040017,
@@ -7751,13 +7923,14 @@
     "ProductName": "bpsrasia_weapon_8",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70051150,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40017
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1358954496,
+    "IsSale": 1375731868
   },
   "60040018": {
     "Id": 60040018,
@@ -7771,13 +7944,14 @@
     "ProductName": "bpsrasia_xmas_1",
     "Currency": "CNY",
     "Price": 30,
-    "AwardId": 70081060,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40018
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1375731712,
+    "IsSale": 1392509084
   },
   "60040019": {
     "Id": 60040019,
@@ -7791,13 +7965,14 @@
     "ProductName": "bpsrasia_xmas_2",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081030,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40019
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1392508928,
+    "IsSale": 1409286300
   },
   "60040020": {
     "Id": 60040020,
@@ -7811,13 +7986,14 @@
     "ProductName": "bpsrasia_xmas_3",
     "Currency": "CNY",
     "Price": 6,
-    "AwardId": 70081040,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40020
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1409286144,
+    "IsSale": 1426063516
   },
   "60040021": {
     "Id": 60040021,
@@ -7831,13 +8007,14 @@
     "ProductName": "bpsrasia_xmas_4",
     "Currency": "CNY",
     "Price": 12,
-    "AwardId": 70081050,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40021
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1426063360,
+    "IsSale": 1442840732
   },
   "60040022": {
     "Id": 60040022,
@@ -7851,13 +8028,14 @@
     "ProductName": "bpsrasia_xmas_5",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081010,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40022
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1442840576,
+    "IsSale": 1459617948
   },
   "60040023": {
     "Id": 60040023,
@@ -7871,13 +8049,14 @@
     "ProductName": "bpsrasia_xmas_6",
     "Currency": "CNY",
     "Price": 66,
-    "AwardId": 70081020,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40023
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1459617792,
+    "IsSale": 1476395164
   },
   "60040024": {
     "Id": 60040024,
@@ -7891,13 +8070,14 @@
     "ProductName": "bpsrasia_xmas_7",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081070,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40024
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1476395008,
+    "IsSale": 1493172380
   },
   "60040025": {
     "Id": 60040025,
@@ -7911,13 +8091,14 @@
     "ProductName": "bpsrasia_xmas_8",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081080,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40025
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1493172224,
+    "IsSale": 1509949596
   },
   "60040026": {
     "Id": 60040026,
@@ -7931,13 +8112,14 @@
     "ProductName": "bpsrasia_xmas_9",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081090,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40026
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1509949440,
+    "IsSale": 1526726812
   },
   "60040027": {
     "Id": 60040027,
@@ -7951,13 +8133,14 @@
     "ProductName": "bpsrasia_xmas_10",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081100,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40027
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1526726656,
+    "IsSale": 1543504028
   },
   "60040028": {
     "Id": 60040028,
@@ -7971,13 +8154,14 @@
     "ProductName": "bpsrasia_xmas_11",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081110,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40028
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1543503872,
+    "IsSale": 1560281244
   },
   "60040029": {
     "Id": 60040029,
@@ -7991,13 +8175,14 @@
     "ProductName": "bpsrasia_xmas_12",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081120,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40029
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1560281088,
+    "IsSale": 1577058460
   },
   "60040030": {
     "Id": 60040030,
@@ -8011,13 +8196,14 @@
     "ProductName": "bpsrasia_xmas_13",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081130,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40030
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1577058304,
+    "IsSale": 1593835676
   },
   "60040031": {
     "Id": 60040031,
@@ -8031,13 +8217,14 @@
     "ProductName": "bpsrasia_xmas_14",
     "Currency": "CNY",
     "Price": 88,
-    "AwardId": 70081140,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
+    "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 40031
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1593835520,
+    "IsSale": 1023410332
   },
   "60099901": {
     "Id": 60099901,
@@ -8051,13 +8238,14 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99901
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1023410176,
+    "IsSale": 1040187782
   },
   "60099902": {
     "Id": 60099902,
@@ -8071,12 +8259,13 @@
     "ProductName": "",
     "Currency": "CNY",
     "Price": 0,
+    "DefaultSalesInformation": [],
+    "IsPurchaseLimit": true,
     "AwardId": 0,
     "Items": [],
     "MailId": 0,
-    "FirstChargeAwardID": 0,
-    "ExtraAwardID": 0,
-    "IsSale": 1,
-    "PaymentId": 99902
+    "FirstChargeAwardID": 16777216,
+    "ExtraAwardID": 1040187392,
+    "IsSale": 16777606
   }
 }

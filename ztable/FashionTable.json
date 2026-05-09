@@ -48629,5 +48629,504 @@
     "NotUnlock": 1,
     "HideHead": false,
     "Condition": []
+  },
+  "7015147": {
+    "Id": 7015147,
+    "Type": 701,
+    "Score": 160,
+    "SortID": 30,
+    "Model": "ch_m_simplesuit_ip003x01",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 16,
+    "HidePart": [
+      702,
+      703
+    ],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [],
+    "ColorGroupId": 0,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 6,
+    "ArmWidth": 0,
+    "WaistLength": 0,
+    "WaistWidth": 0,
+    "LegLength": 6,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7015148": {
+    "Id": 7015148,
+    "Type": 701,
+    "Score": 160,
+    "SortID": 30,
+    "Model": "ch_f_simplesuit_ip003x02",
+    "Model2": [
+      [
+        "1",
+        "ch_f_socks_ip003x02"
+      ]
+    ],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 16,
+    "HidePart": [
+      702,
+      703
+    ],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [],
+    "ColorGroupId": 0,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 6,
+    "ArmWidth": 0,
+    "WaistLength": 0,
+    "WaistWidth": 0,
+    "LegLength": 6,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7125147": {
+    "Id": 7125147,
+    "Type": 712,
+    "Score": 60,
+    "SortID": 17,
+    "Model": "ch_m_shoes_ip003x01",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 3,
+    "HidePart": [],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [],
+    "ColorGroupId": 0,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 0,
+    "ArmWidth": 0,
+    "WaistLength": 0,
+    "WaistWidth": 0,
+    "LegLength": 6,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7125148": {
+    "Id": 7125148,
+    "Type": 712,
+    "Score": 60,
+    "SortID": 17,
+    "Model": "ch_f_shoes_ip003x02",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 3,
+    "HidePart": [],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [],
+    "ColorGroupId": 0,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 0,
+    "ArmWidth": 0,
+    "WaistLength": 0,
+    "WaistWidth": 0,
+    "LegLength": 6,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7027073": {
+    "Id": 7027073,
+    "Type": 702,
+    "Score": 15,
+    "SortID": 1055,
+    "Model": "ch_m_clothes_ip003x05",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 0,
+    "HidePart": [
+      701
+    ],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [],
+    "ColorGroupId": 0,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 6,
+    "ArmWidth": 0,
+    "WaistLength": 1,
+    "WaistWidth": 2,
+    "LegLength": 0,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7027074": {
+    "Id": 7027074,
+    "Type": 702,
+    "Score": 15,
+    "SortID": 1055,
+    "Model": "ch_f_clothes_ip003x05",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 0,
+    "HidePart": [
+      701
+    ],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [],
+    "ColorGroupId": 0,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 6,
+    "ArmWidth": 0,
+    "WaistLength": 1,
+    "WaistWidth": 2,
+    "LegLength": 0,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7027075": {
+    "Id": 7027075,
+    "Type": 702,
+    "Score": 15,
+    "SortID": 1056,
+    "Model": "ch_m_clothes_ip003x03",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 0,
+    "HidePart": [
+      701
+    ],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [
+      1
+    ],
+    "ColorGroupId": 112,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 6,
+    "ArmWidth": 0,
+    "WaistLength": 1,
+    "WaistWidth": 2,
+    "LegLength": 0,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7027076": {
+    "Id": 7027076,
+    "Type": 702,
+    "Score": 15,
+    "SortID": 1056,
+    "Model": "ch_f_clothes_ip003x03",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 0,
+    "HidePart": [
+      701
+    ],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [
+      1
+    ],
+    "ColorGroupId": 112,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 6,
+    "ArmWidth": 0,
+    "WaistLength": 1,
+    "WaistWidth": 2,
+    "LegLength": 0,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7027077": {
+    "Id": 7027077,
+    "Type": 702,
+    "Score": 15,
+    "SortID": 1057,
+    "Model": "ch_m_clothes_ip003x04",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 0,
+    "HidePart": [
+      701
+    ],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [
+      1
+    ],
+    "ColorGroupId": 112,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 6,
+    "ArmWidth": 0,
+    "WaistLength": 1,
+    "WaistWidth": 2,
+    "LegLength": 0,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7027078": {
+    "Id": 7027078,
+    "Type": 702,
+    "Score": 15,
+    "SortID": 1057,
+    "Model": "ch_f_clothes_ip003x04",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 0,
+    "HidePart": [
+      701
+    ],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [
+      1
+    ],
+    "ColorGroupId": 112,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 6,
+    "ArmWidth": 0,
+    "WaistLength": 1,
+    "WaistWidth": 2,
+    "LegLength": 0,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 0,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7130352": {
+    "Id": 7130352,
+    "Type": 713,
+    "Score": 15,
+    "SortID": 1132,
+    "Model": "ch_c_headwear_ip003x03",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 10,
+    "HidePart": [],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [],
+    "ColorGroupId": 0,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 0,
+    "ArmWidth": 0,
+    "WaistLength": 0,
+    "WaistWidth": 0,
+    "LegLength": 0,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 1,
+    "HeadwearStyle": 20,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7130353": {
+    "Id": 7130353,
+    "Type": 713,
+    "Score": 80,
+    "SortID": 74,
+    "Model": "ch_c_headwear_ip003x01",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 10,
+    "HidePart": [],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [],
+    "ColorGroupId": 0,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 0,
+    "ArmWidth": 0,
+    "WaistLength": 0,
+    "WaistWidth": 0,
+    "LegLength": 0,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 3,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "7130354": {
+    "Id": 7130354,
+    "Type": 713,
+    "Score": 80,
+    "SortID": 75,
+    "Model": "ch_c_headwear_ip003x02",
+    "Model2": [],
+    "Effect": [],
+    "ModelId": "",
+    "FashionType": 10,
+    "HidePart": [],
+    "HairId": [],
+    "DefaultColor": [],
+    "ColorPart": [],
+    "ColorGroupId": 0,
+    "Recommend": [],
+    "IsHide": 0,
+    "ArmLength": 0,
+    "ArmWidth": 0,
+    "WaistLength": 0,
+    "WaistWidth": 0,
+    "LegLength": 0,
+    "LegWidth": 0,
+    "ClothSwitchName": "",
+    "ShoesSwitchName": "",
+    "HeadwearType": 0,
+    "HeadwearStyle": 3,
+    "NotUnlock": 0,
+    "HideHead": false,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
   }
 }

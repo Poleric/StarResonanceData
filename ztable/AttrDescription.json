@@ -997,7 +997,7 @@
   },
   "2202480": {
     "Id": 2202480,
-    "Description": "Successful hit of <linktext=1529><style=\"ItemQuality_5\">Feral Seed</style></linktext> on the targets with <linktext=1117><style=\"ItemQuality_5\">Thorn</style></linktext> spreads <linktext=1117><style=\"ItemQuality_5\">Thorn</style></linktext> to other units within <style=\"accent-gn\">10</style> meters."
+    "Description": "Successful hit of <linktext=1529><style=\"ItemQuality_5\">Feral Seed</style></linktext> on the targets with <linktext=1117><style=\"ItemQuality_5\">Thorn</style></linktext> spreads <linktext=1117><style=\"ItemQuality_5\">Thorn</style></linktext> to other units within <style=\"accent-gn\">10</style> meters.<br>Grant <style=\"accent-gn\">4%</style> Forest Bonus when attacking Elite targets and above."
   },
   "2202490": {
     "Id": 2202490,

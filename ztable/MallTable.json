@@ -2868,17 +2868,17 @@
     "MallType": 0,
     "RefreshIntervalType": 0,
     "WeightId": [],
-    "TimerId": 70001,
+    "TimerId": 70003,
     "Sort": 20000,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
     "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_123",
     "CurrencyDisplay": [
-      12001,
-      13002,
-      13001,
-      1070201
+      12002,
+      13004,
+      13003,
+      1070202
     ],
     "HelpLibraryId": 0
   },
@@ -2894,17 +2894,17 @@
     "MallType": 0,
     "RefreshIntervalType": 0,
     "WeightId": [],
-    "TimerId": 70001,
+    "TimerId": 70003,
     "Sort": 20001,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
     "Icon": "",
     "CurrencyDisplay": [
-      12001,
-      13002,
-      13001,
-      1070201
+      12002,
+      13004,
+      13003,
+      1070202
     ],
     "HelpLibraryId": 0
   },
@@ -2920,17 +2920,17 @@
     "MallType": 0,
     "RefreshIntervalType": 0,
     "WeightId": [],
-    "TimerId": 70001,
+    "TimerId": 70003,
     "Sort": 20002,
     "ShowCountDown": 0,
     "MallManualRefresh": 0,
     "RefreshCostItem": [],
     "Icon": "",
     "CurrencyDisplay": [
-      12001,
-      13002,
-      13001,
-      1070201
+      12002,
+      13004,
+      13003,
+      1070202
     ],
     "HelpLibraryId": 0
   }

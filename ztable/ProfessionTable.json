@@ -53,8 +53,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
     "SpacingDistance": 0.8,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       100,
@@ -214,8 +214,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
     "SpacingDistance": 1.0,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       103,
@@ -411,8 +411,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
     "SpacingDistance": 0.8,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       127,
@@ -579,8 +579,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
     "SpacingDistance": 0.8,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       106,
@@ -764,8 +764,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
     "SpacingDistance": 1.0,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       109,
@@ -957,8 +957,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
     "SpacingDistance": 1.0,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       124,
@@ -1116,8 +1116,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.2,
     "SpacingDistance": 0.8,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       112,
@@ -1300,8 +1300,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.3,
     "SpacingDistance": 1.2,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [],
     "STRange": [
@@ -1476,8 +1476,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
     "SpacingDistance": 1.0,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       115,
@@ -1664,8 +1664,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.2,
     "SpacingDistance": 0.5,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       121,
@@ -1848,8 +1848,8 @@
     "WhackSkillId": 0,
     "WhackTakeEffectTime": 0.5,
     "SpacingDistance": 0.8,
+    "CurTargetAdditionalWeightTime": 0.0,
     "ChangeWeaponAction": [],
-    "CurTargetAdditionalWeightTime": 0.2,
     "CurTargetAdditionalRate": 0.5,
     "TalentStage": [
       118,

@@ -163,5 +163,24 @@
       504020
     ],
     "CurrencyDisplay": []
+  },
+  "109": {
+    "Id": 109,
+    "Name": "Meowlux Special Recycle II",
+    "SystemId": 106109,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4028
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1094
+    ],
+    "CurrencyDisplay": [
+      10015
+    ]
   }
 }

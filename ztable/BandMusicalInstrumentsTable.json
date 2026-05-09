@@ -2,126 +2,133 @@
   "10001": {
     "ID": 10001,
     "MusicalInstrumentsName": "默认钢琴",
+    "MusicianId": 0,
     "MusicalInstrumentsRange": [],
-    "WwiseEvent": "Inst_Piano",
     "SustainPedal": true,
     "PerformanceMethodKind": [
       0.0
     ],
-    "MusicalTimbre": [
+    "PerformanceMethodKindTouches": [
       1.0
     ],
-    "DefaultPerformanceMethod": 0,
-    "ModelId": 10000000,
-    "ModelBindType": 2,
+    "MusicalTimbre": [],
+    "MusicalTimbreTouches": [],
+    "DefaultPerformanceMethod": 2,
+    "DefaultMusicalTimbre": 0,
+    "DefaultRange": [],
+    "ModelId": 1065353216,
+    "ModelBindType": 2073600256,
     "ModelSummonOffset": {
-      "x": 0.0,
-      "y": 1.0,
-      "z": 1.0
+      "x": 1.5849486E+36,
+      "y": 1.895239E+35,
+      "z": 1.8951884E+35
     },
-    "IsGround": false,
-    "InstrumentIdleBuff": 8100001,
-    "PlayerIdleBuff": 8100000,
-    "InstrumentPlayBuff": 8000001,
-    "PlayerPlayBuff": 8000000
+    "ModelSummonRotate": {
+      "x": 3.588042E-39,
+      "y": 9.327E-42,
+      "z": 7.892E-42
+    }
   },
   "10002": {
     "ID": 10002,
     "MusicalInstrumentsName": "电吉他（清音）",
-    "MusicalInstrumentsRange": [
-      40.0,
-      86.0
-    ],
-    "WwiseEvent": "Inst_EgtClean",
+    "MusicianId": 22,
+    "MusicalInstrumentsRange": [],
     "SustainPedal": true,
     "PerformanceMethodKind": [
       0.0,
       1.0,
       2.0
     ],
-    "MusicalTimbre": [
+    "PerformanceMethodKindTouches": [
       1.0,
       2.0,
       3.0
     ],
-    "DefaultPerformanceMethod": 0,
-    "ModelId": 10000002,
-    "ModelBindType": 1,
+    "MusicalTimbre": [],
+    "MusicalTimbreTouches": [],
+    "DefaultPerformanceMethod": 1,
+    "DefaultMusicalTimbre": 0,
+    "DefaultRange": [],
+    "ModelId": 0,
+    "ModelBindType": 2073601280,
     "ModelSummonOffset": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 1.5851109E+36,
+      "y": 1.8954419E+35,
+      "z": 1.8953912E+35
     },
-    "IsGround": false,
-    "InstrumentIdleBuff": 8100005,
-    "PlayerIdleBuff": 8100004,
-    "InstrumentPlayBuff": 8000005,
-    "PlayerPlayBuff": 8000004
+    "ModelSummonRotate": {
+      "x": 3.5884E-39,
+      "y": 2.2959E-41,
+      "z": 7.892E-42
+    }
   },
   "10003": {
     "ID": 10003,
     "MusicalInstrumentsName": "架子鼓",
-    "MusicalInstrumentsRange": [
-      40.0,
-      86.0
-    ],
-    "WwiseEvent": "Inst_OrigDrum",
+    "MusicianId": 22,
+    "MusicalInstrumentsRange": [],
     "SustainPedal": true,
     "PerformanceMethodKind": [
       0.0,
       1.0,
       2.0
     ],
-    "MusicalTimbre": [
+    "PerformanceMethodKindTouches": [
       1.0,
       2.0,
       3.0
     ],
-    "DefaultPerformanceMethod": 0,
-    "ModelId": 10000001,
-    "ModelBindType": 2,
+    "MusicalTimbre": [],
+    "MusicalTimbreTouches": [],
+    "DefaultPerformanceMethod": 2,
+    "DefaultMusicalTimbre": 0,
+    "DefaultRange": [],
+    "ModelId": 1065353216,
+    "ModelBindType": 2073600768,
     "ModelSummonOffset": {
-      "x": 0.0,
-      "y": 1.0,
-      "z": 1.0
+      "x": 1.5850297E+36,
+      "y": 1.8953405E+35,
+      "z": 1.8952898E+35
     },
-    "IsGround": false,
-    "InstrumentIdleBuff": 8100003,
-    "PlayerIdleBuff": 8100002,
-    "InstrumentPlayBuff": 8000003,
-    "PlayerPlayBuff": 8000002
+    "ModelSummonRotate": {
+      "x": 3.588759E-39,
+      "y": 3.2286E-41,
+      "z": 2.1524E-41
+    }
   },
   "10004": {
     "ID": 10004,
     "MusicalInstrumentsName": "贝斯",
-    "MusicalInstrumentsRange": [
-      40.0,
-      77.0
-    ],
-    "WwiseEvent": "Inst_EBassClean",
+    "MusicianId": 60,
+    "MusicalInstrumentsRange": [],
     "SustainPedal": true,
     "PerformanceMethodKind": [
       0.0,
       1.0,
       2.0
     ],
-    "MusicalTimbre": [
+    "PerformanceMethodKindTouches": [
       1.0,
       2.0,
       3.0
     ],
-    "DefaultPerformanceMethod": 0,
-    "ModelId": 10000003,
-    "ModelBindType": 1,
+    "MusicalTimbre": [],
+    "MusicalTimbreTouches": [],
+    "DefaultPerformanceMethod": 1,
+    "DefaultMusicalTimbre": 0,
+    "DefaultRange": [],
+    "ModelId": 0,
+    "ModelBindType": 2073601792,
     "ModelSummonOffset": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 1.585192E+36,
+      "y": 1.8955433E+35,
+      "z": 1.8954926E+35
     },
-    "IsGround": false,
-    "InstrumentIdleBuff": 8100007,
-    "PlayerIdleBuff": 8100006,
-    "InstrumentPlayBuff": 8000007,
-    "PlayerPlayBuff": 8000006
+    "ModelSummonRotate": {
+      "x": 3.59E-43,
+      "y": 0.0,
+      "z": 7.17E-43
+    }
   }
 }

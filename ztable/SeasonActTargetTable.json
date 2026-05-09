@@ -1085,7 +1085,7 @@
         71009
       ]
     ],
-    "IsShield": true
+    "IsShield": false
   },
   "51002": {
     "Id": 51002,
@@ -1782,6 +1782,346 @@
       800517
     ],
     "RedDotId": 0,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41014": {
+    "Id": 41014,
+    "RefreshType": 0,
+    "TargetType": 836,
+    "Num": 2,
+    "SceneId": 0,
+    "Param": [
+      70130070
+    ],
+    "TargetName": "Astral Invincible Delicacy",
+    "TargetDes": "Taste {*val*} dish(es)",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200220,
+    "Type": 0,
+    "Sort": 2,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1057
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41015": {
+    "Id": 41015,
+    "RefreshType": 0,
+    "TargetType": 836,
+    "Num": 6,
+    "SceneId": 0,
+    "Param": [
+      70130070
+    ],
+    "TargetName": "Ultimate Astral Delicacy",
+    "TargetDes": "Taste {*val*} dish(es)",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200380,
+    "Type": 0,
+    "Sort": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1057
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41016": {
+    "Id": 41016,
+    "RefreshType": 0,
+    "TargetType": 836,
+    "Num": 3,
+    "SceneId": 0,
+    "Param": [
+      70130090,
+      70130100,
+      70130110
+    ],
+    "TargetName": "Familiar Figure",
+    "TargetDes": "Complete {*val*} encounter(s)",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200230,
+    "Type": 0,
+    "Sort": 1,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      1,
+      5
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41017": {
+    "Id": 41017,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010675
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Koyomi Araragi I",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200240,
+    "Type": 0,
+    "Sort": 4,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850102
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41018": {
+    "Id": 41018,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010674
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Koyomi Araragi II",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200250,
+    "Type": 0,
+    "Sort": 5,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850102
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41019": {
+    "Id": 41019,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010676
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Koyomi Araragi (Chibi)",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200260,
+    "Type": 0,
+    "Sort": 6,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850102
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41020": {
+    "Id": 41020,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010678
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Hitagi Senjyogahara I",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200270,
+    "Type": 0,
+    "Sort": 7,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850102
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41021": {
+    "Id": 41021,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010677
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Hitagi Senjyogahara II",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200280,
+    "Type": 0,
+    "Sort": 8,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850102
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41022": {
+    "Id": 41022,
+    "RefreshType": 0,
+    "TargetType": 837,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      11010679
+    ],
+    "TargetName": "Collect Merch",
+    "TargetDes": "Obtain Furniture Accessory: Badge - Hitagi Senjyogahara (Chibi)",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200290,
+    "Type": 0,
+    "Sort": 9,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850102
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41023": {
+    "Id": 41023,
+    "RefreshType": 0,
+    "TargetType": 831,
+    "Num": 115,
+    "SceneId": 0,
+    "Param": [
+      1,
+      1002
+    ],
+    "TargetName": "Meowlux Special VIP",
+    "TargetDes": "Sweep the Meowlux Special Prize Pool",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200300,
+    "Type": 0,
+    "Sort": 10,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      850102
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41024": {
+    "Id": 41024,
+    "RefreshType": 1,
+    "TargetType": 836,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      70130070
+    ],
+    "TargetName": "An Invitation to Odd Flavors",
+    "TargetDes": "Taste any {*val*} dish(es) today",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200330,
+    "Type": 1,
+    "Sort": 1,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1057
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41025": {
+    "Id": 41025,
+    "RefreshType": 2,
+    "TargetType": 836,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      70130060
+    ],
+    "TargetName": "Encounter in a Snapshot",
+    "TargetDes": "Take photos with 2 cosplayers this week",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200320,
+    "Type": 1,
+    "Sort": 3,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1307
+    ],
+    "RedDotId": 84000002,
+    "InstorageCondition": [],
+    "IsShield": false
+  },
+  "41026": {
+    "Id": 41026,
+    "RefreshType": 2,
+    "TargetType": 836,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      70130080
+    ],
+    "TargetName": "Welcome! Valued Customer",
+    "TargetDes": "Check-in {*val*} time(s) this week",
+    "ProgressFunction": 0,
+    "AwardFunction": 840002,
+    "ActId": 20002,
+    "AwardId": 50200340,
+    "Type": 1,
+    "Sort": 2,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      11,
+      2,
+      1070
+    ],
+    "RedDotId": 84000002,
     "InstorageCondition": [],
     "IsShield": false
   }

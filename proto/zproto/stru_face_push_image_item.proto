@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package zproto;
+
+message FacePushImageItem {
+	string pushId = 1 [json_name = "pushId"];
+	string pushName = 2 [json_name = "pushName"];
+	int32 functionId = 3 [json_name = "functionId"];
+	int32 frequency = 4 [json_name = "frequency"];
+	int32 priority = 5 [json_name = "priority"];
+	int64 beginTime = 6 [json_name = "beginTime"];
+	int32 platform = 7 [json_name = "platform"];
+	int32 languageId = 8 [json_name = "languageId"];
+	string imageUrl = 9 [json_name = "imageUrl"];
+	int64 configVersion = 10 [json_name = "configVersion"];
+	int64 endTime = 11 [json_name = "endTime"];
+	string jumpParam = 13 [json_name = "jumpParam"];
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "enum_e_error_code.proto";
+import "stru_face_push_image_item.proto";
+
+package zproto;
+
+message GetFacePushListReply {
+	EErrorCode errCode = 1 [json_name = "errCode"];
+	int64 latestConfigVersion = 2 [json_name = "latestConfigVersion"];
+	repeated FacePushImageItem pushList = 3 [json_name = "pushList"];
+}

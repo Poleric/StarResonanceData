@@ -16613,7 +16613,7 @@
     "ItemBatch": 100,
     "RepeatLimit": [],
     "TipText": "恢复药瓶",
-    "RecommendUse": 0,
+    "RecommendUse": 1,
     "AwardTipsType": 0,
     "CounterId": 0,
     "NotShowBtn": false
@@ -16641,7 +16641,7 @@
     "ItemBatch": 100,
     "RepeatLimit": [],
     "TipText": "恢复药瓶",
-    "RecommendUse": 0,
+    "RecommendUse": 1,
     "AwardTipsType": 0,
     "CounterId": 0,
     "NotShowBtn": false
@@ -16669,7 +16669,7 @@
     "ItemBatch": 100,
     "RepeatLimit": [],
     "TipText": "恢复药瓶",
-    "RecommendUse": 0,
+    "RecommendUse": 1,
     "AwardTipsType": 0,
     "CounterId": 0,
     "NotShowBtn": false
@@ -16725,7 +16725,7 @@
     "ItemBatch": 100,
     "RepeatLimit": [],
     "TipText": "恢复药瓶",
-    "RecommendUse": 0,
+    "RecommendUse": 1,
     "AwardTipsType": 0,
     "CounterId": 0,
     "NotShowBtn": false
@@ -16781,7 +16781,7 @@
     "ItemBatch": 100,
     "RepeatLimit": [],
     "TipText": "恢复药瓶",
-    "RecommendUse": 0,
+    "RecommendUse": 1,
     "AwardTipsType": 0,
     "CounterId": 0,
     "NotShowBtn": false
@@ -18124,6 +18124,118 @@
     "Reconfirm": 0,
     "Target": 0,
     "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 999,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1041010": {
+    "Id": 1041010,
+    "Name": "异世界金喵大礼盒·其二",
+    "Type": 2,
+    "Parameter": [
+      "50200310"
+    ],
+    "Button": "Open",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 1,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 100,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1041007": {
+    "Id": 1041007,
+    "Name": "物语系列·迷你立牌盲盒",
+    "Type": 2,
+    "Parameter": [
+      "50200350"
+    ],
+    "Button": "Open",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 1,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 999,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1041008": {
+    "Id": 1041008,
+    "Name": "物语系列·海报盲盒",
+    "Type": 2,
+    "Parameter": [
+      "50200360"
+    ],
+    "Button": "Open",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 1,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 999,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1041009": {
+    "Id": 1041009,
+    "Name": "物语系列·徽章盲盒",
+    "Type": 2,
+    "Parameter": [
+      "50200370"
+    ],
+    "Button": "Open",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 1,
     "AutoApplyClient": 0,
     "UseCD": 0,
     "PublicCD": [
@@ -32745,6 +32857,62 @@
     "CounterId": 0,
     "NotShowBtn": false
   },
+  "1061219": {
+    "Id": 1061219,
+    "Name": "阿良良木历的公式服套装礼盒",
+    "Type": 2,
+    "Parameter": [
+      "40003250"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1061220": {
+    "Id": 1061220,
+    "Name": "战场原黑仪的公式服套装礼盒",
+    "Type": 2,
+    "Parameter": [
+      "40003260"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
   "1062001": {
     "Id": 1062001,
     "Name": "星痕共鸣下载礼包",
@@ -42173,6 +42341,286 @@
     "Type": 11,
     "Parameter": [
       "11009"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078034": {
+    "Id": 1078034,
+    "Name": "战场原黑仪·微恼",
+    "Type": 11,
+    "Parameter": [
+      "14001"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078035": {
+    "Id": 1078035,
+    "Name": "战场原黑仪·强势",
+    "Type": 11,
+    "Parameter": [
+      "14002"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078036": {
+    "Id": 1078036,
+    "Name": "战场原黑仪·揶揄",
+    "Type": 11,
+    "Parameter": [
+      "14003"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078037": {
+    "Id": 1078037,
+    "Name": "战场原黑仪·思忖",
+    "Type": 11,
+    "Parameter": [
+      "14004"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078038": {
+    "Id": 1078038,
+    "Name": "战场原黑仪·凝视",
+    "Type": 11,
+    "Parameter": [
+      "14005"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078039": {
+    "Id": 1078039,
+    "Name": "阿良良木历·慌乱",
+    "Type": 11,
+    "Parameter": [
+      "14006"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078040": {
+    "Id": 1078040,
+    "Name": "阿良良木历·镇定",
+    "Type": 11,
+    "Parameter": [
+      "14007"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078041": {
+    "Id": 1078041,
+    "Name": "阿良良木历·心碎",
+    "Type": 11,
+    "Parameter": [
+      "14008"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078042": {
+    "Id": 1078042,
+    "Name": "阿良良木历·剧痛",
+    "Type": 11,
+    "Parameter": [
+      "14009"
+    ],
+    "Button": "Use",
+    "UseLimit": [],
+    "Reconfirm": 0,
+    "Target": 0,
+    "AutoApply": 0,
+    "AutoApplyClient": 0,
+    "UseCD": 0,
+    "PublicCD": [
+      0
+    ],
+    "Effect": "",
+    "SoundEffect": "",
+    "CanQuick": 0,
+    "ItemBatch": 0,
+    "RepeatLimit": [],
+    "TipText": "恢复药瓶",
+    "RecommendUse": 0,
+    "AwardTipsType": 0,
+    "CounterId": 0,
+    "NotShowBtn": false
+  },
+  "1078043": {
+    "Id": 1078043,
+    "Name": "阿良良木历·嫌弃",
+    "Type": 11,
+    "Parameter": [
+      "14010"
     ],
     "Button": "Use",
     "UseLimit": [],

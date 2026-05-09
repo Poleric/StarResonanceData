@@ -18564,7 +18564,7 @@
   "170011": {
     "QuestId": 170011,
     "QuestName": "Learn about Gemcrafting",
-    "QuestDetail": "The Artisan Guild claims that with the ancient relic \"Orb Refining Device,\" they can create many items beneficial for adventuring. Go to the Artisan Guild to learn more.",
+    "QuestDetail": "The Artisan Guild claims that with the ancient relic \"Orb Synthesizer\", they can create many items beneficial for adventuring. Go to the Artisan Guild to learn more.",
     "QuestType": 50,
     "QuestStep": 170011001,
     "AwardId": 31001220,
@@ -39186,7 +39186,7 @@
   "50090": {
     "QuestId": 50090,
     "QuestName": "First Dreamscape Battle I",
-    "QuestDetail": "Clear Slumberdream Valley on Normal difficulty.<br><style=\"emph-gn\">Active during the Slumberdream Valley event</style>",
+    "QuestDetail": "Clear Slumberdream Valley on Easy difficulty.<br><style=\"emph-gn\">Active during the Slumberdream Valley event</style>",
     "QuestType": 84,
     "QuestStep": 50090001,
     "AwardId": 70113110,
@@ -39229,7 +39229,7 @@
   "50091": {
     "QuestId": 50091,
     "QuestName": "First Dreamscape Battle II",
-    "QuestDetail": "Clear Slumberdream Valley on Normal difficulty.<br><style=\"emph-gn\">Active during the Slumberdream Valley event</style>",
+    "QuestDetail": "Clear Slumberdream Valley on Easy difficulty.<br><style=\"emph-gn\">Active during the Slumberdream Valley event</style>",
     "QuestType": 84,
     "QuestStep": 50091001,
     "AwardId": 70113120,
@@ -39268,7 +39268,7 @@
   "50092": {
     "QuestId": 50092,
     "QuestName": "First Dreamscape Battle III",
-    "QuestDetail": "Clear Slumberdream Valley on Normal difficulty.<br><style=\"emph-gn\">Active during the Slumberdream Valley event</style>",
+    "QuestDetail": "Clear Slumberdream Valley on Easy difficulty.<br><style=\"emph-gn\">Active during the Slumberdream Valley event</style>",
     "QuestType": 84,
     "QuestStep": 50092001,
     "AwardId": 70113130,
@@ -42685,7 +42685,7 @@
   "30820": {
     "QuestId": 30820,
     "QuestName": "[Weekly] Welcome! VIP Client",
-    "QuestDetail": "The Meowlux Merchant Guild is hosting an event at the Themed Café. Special Butler Lunick eagerly awaits your visit.",
+    "QuestDetail": "The Meowlux Merchant Guild is hosting an event at the Themed Café. Meowlux Steward Lunick eagerly awaits your visit.",
     "QuestType": 86,
     "QuestStep": 30820001,
     "AwardId": 70130020,
@@ -42883,6 +42883,299 @@
         1011901,
         1011902,
         1011903
+      ]
+    ],
+    "Note": "",
+    "AwardPreview": []
+  },
+  "50186": {
+    "QuestId": 50186,
+    "QuestName": "",
+    "QuestDetail": "",
+    "QuestType": 53,
+    "QuestStep": 50186001,
+    "AwardId": 0,
+    "FollowQuest": 0,
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "MustPreQuest": [],
+    "AccessLimit": [
+      [
+        "1",
+        "2"
+      ],
+      [
+        "18",
+        "70003"
+      ]
+    ],
+    "AccpetType": [
+      0
+    ],
+    "TimeLimit": [],
+    "ContinueLimit": [],
+    "AbortLimit": [
+      [
+        "18",
+        "75004"
+      ]
+    ],
+    "GiveUp": false,
+    "StepFlowPath": "bin/task/task_step/huodong/50182/50182-12",
+    "NpcMarkedByQuest": [
+      [
+        1011909,
+        1011907,
+        1011908
+      ]
+    ],
+    "Note": "",
+    "AwardPreview": []
+  },
+  "50182": {
+    "QuestId": 50182,
+    "QuestName": "[Weekly] Encounter in a Snapshot",
+    "QuestDetail": "Two visitors with a unique presence have arrived at the Cherry Blossom Forest. Their outfits and aura seem to belong to another world, drawing the attention of many passersby. If you find this rare encounter intriguing, why not step forward and take a commemorative photo?",
+    "QuestType": 86,
+    "QuestStep": 50182001,
+    "AwardId": 70130060,
+    "FollowQuest": 0,
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "MustPreQuest": [],
+    "AccessLimit": [
+      [
+        "1",
+        "2"
+      ],
+      [
+        "18",
+        "70003"
+      ]
+    ],
+    "AccpetType": [
+      0
+    ],
+    "TimeLimit": [],
+    "ContinueLimit": [],
+    "AbortLimit": [
+      [
+        "18",
+        "75004"
+      ]
+    ],
+    "GiveUp": false,
+    "StepFlowPath": "bin/task/task_step/huodong/50182/50182-3",
+    "NpcMarkedByQuest": [
+      [
+        1011909,
+        1011907,
+        1011908
+      ]
+    ],
+    "Note": "",
+    "AwardPreview": []
+  },
+  "50185": {
+    "QuestId": 50185,
+    "QuestName": "[Limited Event] Familiar Figure III",
+    "QuestDetail": "A familiar figure has appeared on Starland. That's...",
+    "QuestType": 84,
+    "QuestStep": 50185001,
+    "AwardId": 70130110,
+    "FollowQuest": 0,
+    "PreQuest": [],
+    "PreQuestLogic": "50184",
+    "MustPreQuest": [],
+    "AccessLimit": [
+      [
+        "18",
+        "75006"
+      ]
+    ],
+    "AccpetType": [
+      0
+    ],
+    "TimeLimit": [],
+    "ContinueLimit": [],
+    "AbortLimit": [
+      [
+        "18",
+        "75004"
+      ]
+    ],
+    "GiveUp": false,
+    "StepFlowPath": "bin/task/task_step/huodong/50182_50185/50182_50185-5",
+    "NpcMarkedByQuest": [
+      [
+        1011904,
+        1011905,
+        1011906
+      ]
+    ],
+    "Note": "",
+    "AwardPreview": []
+  },
+  "50181": {
+    "QuestId": 50181,
+    "QuestName": "[Weekly] Welcome! VIP Client",
+    "QuestDetail": "The Meowlux Merchant Guild is hosting an event at the Themed Café. Meowlux Steward Lunick eagerly awaits your visit.",
+    "QuestType": 86,
+    "QuestStep": 50181001,
+    "AwardId": 70130080,
+    "FollowQuest": 0,
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "MustPreQuest": [],
+    "AccessLimit": [
+      [
+        "1",
+        "2"
+      ],
+      [
+        "18",
+        "70003"
+      ]
+    ],
+    "AccpetType": [
+      0
+    ],
+    "TimeLimit": [],
+    "ContinueLimit": [],
+    "AbortLimit": [
+      [
+        "18",
+        "75004"
+      ]
+    ],
+    "GiveUp": false,
+    "StepFlowPath": "bin/task/task_step/huodong/50181/50181-3",
+    "NpcMarkedByQuest": [
+      [
+        23082002
+      ]
+    ],
+    "Note": "",
+    "AwardPreview": []
+  },
+  "50184": {
+    "QuestId": 50184,
+    "QuestName": "[Limited Event] Familiar Figure II",
+    "QuestDetail": "A familiar figure has appeared on Starland. That's...",
+    "QuestType": 84,
+    "QuestStep": 50184001,
+    "AwardId": 70130100,
+    "FollowQuest": 0,
+    "PreQuest": [],
+    "PreQuestLogic": "50183",
+    "MustPreQuest": [],
+    "AccessLimit": [
+      [
+        "18",
+        "75005"
+      ]
+    ],
+    "AccpetType": [
+      0
+    ],
+    "TimeLimit": [],
+    "ContinueLimit": [],
+    "AbortLimit": [
+      [
+        "18",
+        "75004"
+      ]
+    ],
+    "GiveUp": false,
+    "StepFlowPath": "bin/task/task_step/huodong/50182_50185/50182_50185-4",
+    "NpcMarkedByQuest": [
+      [
+        1011904,
+        1011905
+      ]
+    ],
+    "Note": "",
+    "AwardPreview": []
+  },
+  "50180": {
+    "QuestId": 50180,
+    "QuestName": "[Daily] An Invitation to Odd Flavors",
+    "QuestDetail": "Go and check out the special dishes at the theme restaurant. Rumor has it that each one hides a tale of the Oddities.",
+    "QuestType": 88,
+    "QuestStep": 50180001,
+    "AwardId": 70130070,
+    "FollowQuest": 0,
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "MustPreQuest": [],
+    "AccessLimit": [
+      [
+        "1",
+        "2"
+      ],
+      [
+        "18",
+        "70003"
+      ]
+    ],
+    "AccpetType": [
+      0
+    ],
+    "TimeLimit": [],
+    "ContinueLimit": [],
+    "AbortLimit": [
+      [
+        "18",
+        "75004"
+      ]
+    ],
+    "GiveUp": false,
+    "StepFlowPath": "bin/task/task_step/huodong/50180/50180-3",
+    "NpcMarkedByQuest": [
+      [
+        23082001
+      ]
+    ],
+    "Note": "",
+    "AwardPreview": []
+  },
+  "50183": {
+    "QuestId": 50183,
+    "QuestName": "[Limited Event] Familiar Figure I",
+    "QuestDetail": "A familiar figure has appeared on Starland. That's...",
+    "QuestType": 84,
+    "QuestStep": 50183001,
+    "AwardId": 70130090,
+    "FollowQuest": 0,
+    "PreQuest": [],
+    "PreQuestLogic": "",
+    "MustPreQuest": [],
+    "AccessLimit": [
+      [
+        "1",
+        "2"
+      ],
+      [
+        "18",
+        "70003"
+      ]
+    ],
+    "AccpetType": [
+      0
+    ],
+    "TimeLimit": [],
+    "ContinueLimit": [],
+    "AbortLimit": [
+      [
+        "18",
+        "75004"
+      ]
+    ],
+    "GiveUp": false,
+    "StepFlowPath": "bin/task/task_step/huodong/50182_50185/50182_50185-3",
+    "NpcMarkedByQuest": [
+      [
+        1011904
       ]
     ],
     "Note": "",

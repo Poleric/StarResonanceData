@@ -43,7 +43,7 @@
   },
   "3": {
     "Id": 3,
-    "TagName": "Special attack",
+    "TagName": "Special Attack",
     "TagString": "The most core and well-known signature skill move of the weapon",
     "TagType": 1,
     "ParentTag": 1010
@@ -654,6 +654,13 @@
     "Id": 140,
     "TagName": "Scenario Skill",
     "TagString": "Additional skills obtained through scenarios or level gameplay",
+    "TagType": 1,
+    "ParentTag": 0
+  },
+  "141": {
+    "Id": 141,
+    "TagName": "Hide-and-Seek Exclusive",
+    "TagString": "Can only be used in Hide-and-Seek",
     "TagType": 1,
     "ParentTag": 0
   },

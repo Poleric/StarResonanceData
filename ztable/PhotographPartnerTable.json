@@ -23,5 +23,45 @@
     "NpcId": [
       1011903
     ]
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Rorola",
+    "PhotoCallCondition": [],
+    "NpcId": [
+      1011904
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Boyce",
+    "PhotoCallCondition": [],
+    "NpcId": [
+      1011905
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "Name": "Darya",
+    "PhotoCallCondition": [],
+    "NpcId": [
+      1011906
+    ]
+  },
+  "7": {
+    "Id": 7,
+    "Name": "Koyomi Araragi",
+    "PhotoCallCondition": [],
+    "NpcId": [
+      1011907
+    ]
+  },
+  "8": {
+    "Id": 8,
+    "Name": "Hitagi Senjyogahara",
+    "PhotoCallCondition": [],
+    "NpcId": [
+      1011908
+    ]
   }
 }

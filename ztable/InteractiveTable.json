@@ -17632,13 +17632,22 @@
       [
         14,
         850200
+      ],
+      [
+        8,
+        70003
       ]
     ],
     "IsMore": 0,
     "IsContinuous": false,
     "Insightusable": 0,
     "ModelInvisible": 0,
-    "Condition": [],
+    "Condition": [
+      [
+        8,
+        70003
+      ]
+    ],
     "ConditionFailTips": 0,
     "ConditionShowTips": false,
     "SubInteraction": [],
@@ -17780,6 +17789,76 @@
       ]
     ],
     "SortId": 1,
+    "TipsGroup": 0,
+    "UpdateRateType": 0,
+    "PlayerActionStart": [],
+    "PlayerActionLoop": [],
+    "PlayerActionEnd": [],
+    "ExitType": 0,
+    "PerformPosType": 0,
+    "PerformPosParam": [],
+    "AdaptIKParam": [],
+    "Cooldown": 0,
+    "PlayerStateWhitelist": [
+      0,
+      34
+    ],
+    "NeedStopRide": false,
+    "AbortType": 0,
+    "KeepActionOnExit": false,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [
+      0
+    ]
+  },
+  "2565": {
+    "Id": 2565,
+    "TriggerMode": 1,
+    "TriggerBtnId": 200081,
+    "ToServer": false,
+    "TagID": 0,
+    "TriggerType": 1,
+    "TriggerRange": [
+      3.0
+    ],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "IgnoreRangeLimit": false,
+    "TriggerAngle": 0,
+    "TriggerSpeedDir": 0,
+    "TriggerCondition": [
+      [
+        14,
+        106109
+      ],
+      [
+        8,
+        70004
+      ]
+    ],
+    "IsMore": 0,
+    "IsContinuous": false,
+    "Insightusable": 0,
+    "ModelInvisible": 0,
+    "Condition": [
+      [
+        8,
+        70004
+      ]
+    ],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "SubInteraction": [],
+    "ActionStage": [
+      [
+        "4",
+        "106109"
+      ]
+    ],
+    "SortId": 3,
     "TipsGroup": 0,
     "UpdateRateType": 0,
     "PlayerActionStart": [],
@@ -27337,6 +27416,301 @@
         "camerasys",
         "3",
         "1011903"
+      ]
+    ],
+    "SortId": 0,
+    "TipsGroup": 0,
+    "UpdateRateType": 0,
+    "PlayerActionStart": [],
+    "PlayerActionLoop": [],
+    "PlayerActionEnd": [],
+    "ExitType": 0,
+    "PerformPosType": 0,
+    "PerformPosParam": [],
+    "AdaptIKParam": [],
+    "Cooldown": 0,
+    "PlayerStateWhitelist": [
+      0,
+      34
+    ],
+    "NeedStopRide": false,
+    "AbortType": 0,
+    "KeepActionOnExit": false,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [
+      0
+    ]
+  },
+  "5019": {
+    "Id": 5019,
+    "TriggerMode": 1,
+    "TriggerBtnId": 5111,
+    "ToServer": false,
+    "TagID": 0,
+    "TriggerType": 1,
+    "TriggerRange": [
+      3.0
+    ],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "IgnoreRangeLimit": false,
+    "TriggerAngle": 360,
+    "TriggerSpeedDir": 0,
+    "TriggerCondition": [],
+    "IsMore": 1,
+    "IsContinuous": false,
+    "Insightusable": 0,
+    "ModelInvisible": 1,
+    "Condition": [],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "SubInteraction": [],
+    "ActionStage": [
+      [
+        "10",
+        "OpenInteractiveGroupPhoto",
+        "camerasys",
+        "8",
+        "1011908"
+      ]
+    ],
+    "SortId": 0,
+    "TipsGroup": 0,
+    "UpdateRateType": 0,
+    "PlayerActionStart": [],
+    "PlayerActionLoop": [],
+    "PlayerActionEnd": [],
+    "ExitType": 0,
+    "PerformPosType": 0,
+    "PerformPosParam": [],
+    "AdaptIKParam": [],
+    "Cooldown": 0,
+    "PlayerStateWhitelist": [
+      0,
+      34
+    ],
+    "NeedStopRide": false,
+    "AbortType": 0,
+    "KeepActionOnExit": false,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [
+      0
+    ]
+  },
+  "5018": {
+    "Id": 5018,
+    "TriggerMode": 1,
+    "TriggerBtnId": 5110,
+    "ToServer": false,
+    "TagID": 0,
+    "TriggerType": 1,
+    "TriggerRange": [
+      3.0
+    ],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "IgnoreRangeLimit": false,
+    "TriggerAngle": 360,
+    "TriggerSpeedDir": 0,
+    "TriggerCondition": [],
+    "IsMore": 1,
+    "IsContinuous": false,
+    "Insightusable": 0,
+    "ModelInvisible": 1,
+    "Condition": [],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "SubInteraction": [],
+    "ActionStage": [
+      [
+        "10",
+        "OpenInteractiveGroupPhoto",
+        "camerasys",
+        "7",
+        "1011907"
+      ]
+    ],
+    "SortId": 0,
+    "TipsGroup": 0,
+    "UpdateRateType": 0,
+    "PlayerActionStart": [],
+    "PlayerActionLoop": [],
+    "PlayerActionEnd": [],
+    "ExitType": 0,
+    "PerformPosType": 0,
+    "PerformPosParam": [],
+    "AdaptIKParam": [],
+    "Cooldown": 0,
+    "PlayerStateWhitelist": [
+      0,
+      34
+    ],
+    "NeedStopRide": false,
+    "AbortType": 0,
+    "KeepActionOnExit": false,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [
+      0
+    ]
+  },
+  "5017": {
+    "Id": 5017,
+    "TriggerMode": 1,
+    "TriggerBtnId": 5102,
+    "ToServer": false,
+    "TagID": 0,
+    "TriggerType": 1,
+    "TriggerRange": [
+      3.0
+    ],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "IgnoreRangeLimit": false,
+    "TriggerAngle": 360,
+    "TriggerSpeedDir": 0,
+    "TriggerCondition": [],
+    "IsMore": 1,
+    "IsContinuous": false,
+    "Insightusable": 0,
+    "ModelInvisible": 1,
+    "Condition": [],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "SubInteraction": [],
+    "ActionStage": [
+      [
+        "10",
+        "OpenInteractiveGroupPhoto",
+        "camerasys",
+        "6",
+        "1011906"
+      ]
+    ],
+    "SortId": 0,
+    "TipsGroup": 0,
+    "UpdateRateType": 0,
+    "PlayerActionStart": [],
+    "PlayerActionLoop": [],
+    "PlayerActionEnd": [],
+    "ExitType": 0,
+    "PerformPosType": 0,
+    "PerformPosParam": [],
+    "AdaptIKParam": [],
+    "Cooldown": 0,
+    "PlayerStateWhitelist": [
+      0,
+      34
+    ],
+    "NeedStopRide": false,
+    "AbortType": 0,
+    "KeepActionOnExit": false,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [
+      0
+    ]
+  },
+  "5016": {
+    "Id": 5016,
+    "TriggerMode": 1,
+    "TriggerBtnId": 5102,
+    "ToServer": false,
+    "TagID": 0,
+    "TriggerType": 1,
+    "TriggerRange": [
+      3.0
+    ],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "IgnoreRangeLimit": false,
+    "TriggerAngle": 360,
+    "TriggerSpeedDir": 0,
+    "TriggerCondition": [],
+    "IsMore": 1,
+    "IsContinuous": false,
+    "Insightusable": 0,
+    "ModelInvisible": 1,
+    "Condition": [],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "SubInteraction": [],
+    "ActionStage": [
+      [
+        "10",
+        "OpenInteractiveGroupPhoto",
+        "camerasys",
+        "5",
+        "1011905"
+      ]
+    ],
+    "SortId": 0,
+    "TipsGroup": 0,
+    "UpdateRateType": 0,
+    "PlayerActionStart": [],
+    "PlayerActionLoop": [],
+    "PlayerActionEnd": [],
+    "ExitType": 0,
+    "PerformPosType": 0,
+    "PerformPosParam": [],
+    "AdaptIKParam": [],
+    "Cooldown": 0,
+    "PlayerStateWhitelist": [
+      0,
+      34
+    ],
+    "NeedStopRide": false,
+    "AbortType": 0,
+    "KeepActionOnExit": false,
+    "IsMultiActionInteractive": false,
+    "IsShapeShiftInteracitve": [
+      0
+    ]
+  },
+  "5015": {
+    "Id": 5015,
+    "TriggerMode": 1,
+    "TriggerBtnId": 5102,
+    "ToServer": false,
+    "TagID": 0,
+    "TriggerType": 1,
+    "TriggerRange": [
+      3.0
+    ],
+    "TriggerOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "IgnoreRangeLimit": false,
+    "TriggerAngle": 360,
+    "TriggerSpeedDir": 0,
+    "TriggerCondition": [],
+    "IsMore": 1,
+    "IsContinuous": false,
+    "Insightusable": 0,
+    "ModelInvisible": 1,
+    "Condition": [],
+    "ConditionFailTips": 0,
+    "ConditionShowTips": false,
+    "SubInteraction": [],
+    "ActionStage": [
+      [
+        "10",
+        "OpenInteractiveGroupPhoto",
+        "camerasys",
+        "4",
+        "1011904"
       ]
     ],
     "SortId": 0,
@@ -63366,6 +63740,10 @@
       [
         53,
         1007
+      ],
+      [
+        70,
+        681702
       ]
     ],
     "IsMore": 1,
@@ -63380,6 +63758,10 @@
       [
         125,
         1007
+      ],
+      [
+        70,
+        681702
       ]
     ],
     "ConditionFailTips": 16003011,
@@ -63389,6 +63771,10 @@
       [
         "60",
         "1007"
+      ],
+      [
+        "1007",
+        "681702"
       ]
     ],
     "SortId": 1,
@@ -63401,7 +63787,7 @@
     "PerformPosType": 0,
     "PerformPosParam": [],
     "AdaptIKParam": [],
-    "Cooldown": 150,
+    "Cooldown": 3,
     "PlayerStateWhitelist": [
       0
     ],

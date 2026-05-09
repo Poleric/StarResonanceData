@@ -6184,5 +6184,101 @@
     "AutoRecycle": 0,
     "Limit": 0,
     "IsBlocked": false
+  },
+  "700005": {
+    "Id": 700005,
+    "ItemID": 12002,
+    "ItemName": "物语系列·金喵点",
+    "GetItem": [
+      50200390
+    ],
+    "FunctionId": 106109,
+    "AutoRecycle": 0,
+    "Limit": 0,
+    "IsBlocked": false
+  },
+  "700006": {
+    "Id": 700006,
+    "ItemID": 13003,
+    "ItemName": "物语系列·S赏券",
+    "GetItem": [
+      50200400
+    ],
+    "FunctionId": 106109,
+    "AutoRecycle": 0,
+    "Limit": 0,
+    "IsBlocked": false
+  },
+  "700007": {
+    "Id": 700007,
+    "ItemID": 13004,
+    "ItemName": "物语系列·A赏券",
+    "GetItem": [
+      50200410
+    ],
+    "FunctionId": 106109,
+    "AutoRecycle": 0,
+    "Limit": 0,
+    "IsBlocked": false
+  },
+  "700008": {
+    "Id": 700008,
+    "ItemID": 1070202,
+    "ItemName": "异世界金喵券·其二",
+    "GetItem": [
+      50200420
+    ],
+    "FunctionId": 106109,
+    "AutoRecycle": 0,
+    "Limit": 0,
+    "IsBlocked": false
+  },
+  "700009": {
+    "Id": 700009,
+    "ItemID": 12001,
+    "ItemName": "香格里拉边境·金喵点",
+    "GetItem": [
+      50200180
+    ],
+    "FunctionId": 106109,
+    "AutoRecycle": 0,
+    "Limit": 0,
+    "IsBlocked": false
+  },
+  "700010": {
+    "Id": 700010,
+    "ItemID": 13001,
+    "ItemName": "香格里拉边境·S赏券",
+    "GetItem": [
+      50200190
+    ],
+    "FunctionId": 106109,
+    "AutoRecycle": 0,
+    "Limit": 0,
+    "IsBlocked": false
+  },
+  "700011": {
+    "Id": 700011,
+    "ItemID": 13002,
+    "ItemName": "香格里拉边境·A赏券",
+    "GetItem": [
+      50200200
+    ],
+    "FunctionId": 106109,
+    "AutoRecycle": 0,
+    "Limit": 0,
+    "IsBlocked": false
+  },
+  "700012": {
+    "Id": 700012,
+    "ItemID": 1070201,
+    "ItemName": "异世界金喵券·其一",
+    "GetItem": [
+      50200210
+    ],
+    "FunctionId": 106109,
+    "AutoRecycle": 0,
+    "Limit": 0,
+    "IsBlocked": false
   }
 }

@@ -2957,7 +2957,7 @@
   },
   "850102": {
     "Id": 850102,
-    "Sort": 999,
+    "Sort": 8,
     "QuickJumpType": 0,
     "QuickJumpParam": [],
     "Guild": 0,
@@ -3051,6 +3051,16 @@
   },
   "840001": {
     "Id": 840001,
+    "Sort": 263,
+    "QuickJumpType": 0,
+    "QuickJumpParam": [],
+    "Guild": 0,
+    "ParentName": 1,
+    "SkipPack": 0,
+    "IsHide": 0
+  },
+  "840002": {
+    "Id": 840002,
     "Sort": 263,
     "QuickJumpType": 0,
     "QuickJumpParam": [],

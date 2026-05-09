@@ -2,73 +2,73 @@
   "680701": {
     "BuffId": 680701,
     "BuffName": "懒人跳",
-    "ActiveLevel": 1,
-    "Style": 0,
-    "LockItem": [],
-    "AutoActive": 1,
-    "Deactive": false
+    "Name": "",
+    "Desc": "懒人跳",
+    "ActiveLevel": 0,
+    "Style": 1,
+    "LockItem": []
   },
   "682501": {
     "BuffId": 682501,
     "BuffName": "跳跃次数+1 3段跳 免疫坠落",
-    "ActiveLevel": 18,
+    "Name": "",
+    "Desc": "懒人跳",
+    "ActiveLevel": 0,
     "Style": 0,
-    "LockItem": [],
-    "AutoActive": 0,
-    "Deactive": false
+    "LockItem": []
   },
   "682503": {
     "BuffId": 682503,
     "BuffName": "跳跃次数+1 4段跳",
-    "ActiveLevel": 30,
+    "Name": "",
+    "Desc": "懒人跳",
+    "ActiveLevel": 0,
     "Style": 0,
-    "LockItem": [],
-    "AutoActive": 0,
-    "Deactive": false
+    "LockItem": []
   },
   "682505": {
     "BuffId": 682505,
     "BuffName": "跳跃次数+1 5段跳",
-    "ActiveLevel": 35,
+    "Name": "",
+    "Desc": "懒人跳",
+    "ActiveLevel": 0,
     "Style": 0,
-    "LockItem": [],
-    "AutoActive": 0,
-    "Deactive": false
+    "LockItem": []
   },
   "680201": {
     "BuffId": 680201,
     "BuffName": "水平跳",
-    "ActiveLevel": 40,
+    "Name": "",
+    "Desc": "懒人跳",
+    "ActiveLevel": 0,
     "Style": 0,
-    "LockItem": [],
-    "AutoActive": 0,
-    "Deactive": false
+    "LockItem": []
   },
   "680501": {
     "BuffId": 680501,
     "BuffName": "蹬墙跑",
-    "ActiveLevel": 45,
+    "Name": "",
+    "Desc": "懒人跳",
+    "ActiveLevel": 0,
     "Style": 0,
-    "LockItem": [],
-    "AutoActive": 0,
-    "Deactive": false
+    "LockItem": []
   },
   "680401": {
     "BuffId": 680401,
     "BuffName": "踢墙跳",
-    "ActiveLevel": 48,
+    "Name": "跳跃次数+1 4段跳",
+    "Desc": "懒人跳",
+    "ActiveLevel": 0,
     "Style": 0,
-    "LockItem": [],
-    "AutoActive": 0,
-    "Deactive": false
+    "LockItem": []
   },
   "680101": {
     "BuffId": 680101,
     "BuffName": "舞空",
-    "ActiveLevel": 50,
+    "Name": "",
+    "Desc": "懒人跳",
+    "ActiveLevel": 0,
     "Style": 0,
-    "LockItem": [],
-    "AutoActive": 0,
-    "Deactive": false
+    "LockItem": []
   }
 }

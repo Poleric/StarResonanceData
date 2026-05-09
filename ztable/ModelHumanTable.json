@@ -18722,6 +18722,5107 @@
     "AnimFadeTemplate": "",
     "VoiceId": []
   },
+  "600009": {
+    "ModelPrefabID": 600009,
+    "ModelPrefabDesc": "高达男",
+    "Skeleton": "prefabs/ch_m_skeleton",
+    "AnimTemplate": "animtpl/ch_m_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_m_head_youth_m200_00",
+    "EmoPrefix": "as_m_emo_m200-00_",
+    "Sex": 1,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 31.0,
+      "y": 60.0,
+      "z": 90.0
+    },
+    "Face": [],
+    "Chin": 0.0,
+    "Eyebrow": [],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 15.0
+    },
+    "Eye": [],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "3010001",
+      ""
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4031001",
+      ""
+    ],
+    "LashColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 15.0
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 214.0,
+        "y": 80.0,
+        "z": 10.0
+      },
+      {
+        "x": 189.0,
+        "y": 75.0,
+        "z": 40.0
+      },
+      {
+        "x": 217.0,
+        "y": 70.0,
+        "z": 60.0
+      },
+      {
+        "x": 208.0,
+        "y": 75.0,
+        "z": 40.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Nose": [],
+    "NoseUpDown": 0.0,
+    "Mouth": [],
+    "Tooth": [],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 66.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "Hair": [
+      "10100006",
+      "ch_m_hair_baldhead01"
+    ],
+    "Fhair": [],
+    "Bhair": [],
+    "DullHair": [],
+    "HairHighlight": 0,
+    "HairHighlight2": 0,
+    "HairColor": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 15.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [
+      "7015083",
+      "ch_m_clothes_noble01"
+    ],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_m_bodyu_m000",
+    "BodyD": "ch_m_bodyd_m000",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130249",
+      "ch_m_headwear_noblle01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600010": {
+    "ModelPrefabID": 600010,
+    "ModelPrefabDesc": "高达女",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_youth_f200_02",
+    "EmoPrefix": "as_f_emo_f200-02_",
+    "Sex": 2,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 32.0,
+      "y": 50.0,
+      "z": 90.0
+    },
+    "Face": [],
+    "Chin": 0.0,
+    "Eyebrow": [],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 15.0
+    },
+    "Eye": [],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "3010001",
+      ""
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4032001",
+      ""
+    ],
+    "LashColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 15.0
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 214.0,
+        "y": 80.0,
+        "z": 10.0
+      },
+      {
+        "x": 189.0,
+        "y": 75.0,
+        "z": 40.0
+      },
+      {
+        "x": 217.0,
+        "y": 70.0,
+        "z": 60.0
+      },
+      {
+        "x": 208.0,
+        "y": 75.0,
+        "z": 40.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Nose": [],
+    "NoseUpDown": 0.0,
+    "Mouth": [],
+    "Tooth": [],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 66.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [
+      "10100007",
+      "ch_f_hair_baldhead01"
+    ],
+    "Fhair": [],
+    "Bhair": [],
+    "DullHair": [],
+    "HairHighlight": 0,
+    "HairHighlight2": 0,
+    "HairColor": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 15.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [
+      "7015084",
+      "ch_f_clothes_noble01"
+    ],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130250",
+      "ch_f_headwear_noble01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600011": {
+    "ModelPrefabID": 600011,
+    "ModelPrefabDesc": "阿基拉男",
+    "Skeleton": "prefabs/ch_m_skeleton",
+    "AnimTemplate": "animtpl/ch_m_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_m_head_youth_m200_00",
+    "EmoPrefix": "as_m_emo_m200-00_",
+    "Sex": 1,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 22.1739,
+      "y": 45.0,
+      "z": 85.0
+    },
+    "Face": [
+      "4011201",
+      "ch_m_face_youth_m200_00"
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4021201",
+      ""
+    ],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 15.0,
+      "y": 60.0,
+      "z": 30.0
+    },
+    "Eye": [
+      "4041204",
+      "ch_m_eye_youth_m200_03"
+    ],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "0",
+      "ch_c_eye_21"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4031007",
+      "ch_m_eyelash_06_d"
+    ],
+    "LashColor": {
+      "x": 14.6667,
+      "y": 59.2105,
+      "z": 25.0
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 1.5786,
+        "y": 80.0,
+        "z": 9.8039
+      },
+      {
+        "x": 303.0876,
+        "y": 68.8679,
+        "z": 78.6164
+      },
+      {
+        "x": 302.3302,
+        "y": 56.2893,
+        "z": 70.4403
+      },
+      {
+        "x": 43.2759,
+        "y": 75.4902,
+        "z": 40.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 3.0,
+        "y": 80.0,
+        "z": 9.8039
+      },
+      {
+        "x": 303.0435,
+        "y": 69.0,
+        "z": 78.4314
+      },
+      {
+        "x": 302.3763,
+        "y": 56.1111,
+        "z": 70.5882
+      },
+      {
+        "x": 43.6364,
+        "y": 75.4902,
+        "z": 40.0
+      }
+    ],
+    "Nose": [
+      "4051201",
+      ""
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "0",
+      "ch_m_mouth_youth_m200_01_00"
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 66.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "Hair": [
+      "1011050",
+      ""
+    ],
+    "Fhair": [],
+    "Bhair": [],
+    "DullHair": [],
+    "HairHighlight": 0,
+    "HairHighlight2": 0,
+    "HairColor": [
+      {
+        "x": 5.0,
+        "y": 45.0,
+        "z": 90.0
+      },
+      {
+        "x": 5.1923,
+        "y": 45.2174,
+        "z": 90.1961
+      },
+      {
+        "x": 5.1923,
+        "y": 45.2174,
+        "z": 90.1961
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      1.0,
+      1.2,
+      355.0,
+      65.0,
+      65.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [
+      "7015043",
+      "ch_m_clothes_armourdress02"
+    ],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_m_bodyu_m000",
+    "BodyD": "ch_m_bodyd_m000",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130193",
+      "ch_m_headwear_armourdress02"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600012": {
+    "ModelPrefabID": 600012,
+    "ModelPrefabDesc": "阿基拉女",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_child_f100_00",
+    "EmoPrefix": "as_f_emo_f100-00_",
+    "Sex": 2,
+    "Model": 1,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 12.0,
+      "y": 45.0,
+      "z": 85.0
+    },
+    "Face": [
+      "4012103",
+      "ch_f_face_child_f100_02"
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4022103",
+      "ch_f_brow_child_f100_02"
+    ],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 25.0,
+      "y": 35.0,
+      "z": 25.0
+    },
+    "Eye": [
+      "4042103",
+      "ch_f_eye_child_f100_02"
+    ],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "0",
+      "ch_c_eye_11"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4032001",
+      ""
+    ],
+    "LashColor": {
+      "x": 25.0,
+      "y": 35.0,
+      "z": 20.0
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 215.0,
+        "y": 80.0,
+        "z": 9.8039
+      },
+      {
+        "x": 184.8604,
+        "y": 87.1069,
+        "z": 65.4088
+      },
+      {
+        "x": 52.6639,
+        "y": 41.8239,
+        "z": 70.4403
+      },
+      {
+        "x": 208.0,
+        "y": 75.0,
+        "z": 40.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 216.0,
+        "y": 80.0,
+        "z": 9.8039
+      },
+      {
+        "x": 184.9655,
+        "y": 86.8264,
+        "z": 65.4902
+      },
+      {
+        "x": 52.1053,
+        "y": 42.2222,
+        "z": 70.5882
+      },
+      {
+        "x": 208.0,
+        "y": 75.0,
+        "z": 40.0
+      }
+    ],
+    "Nose": [
+      "4052101",
+      ""
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4062101",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 66.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [],
+    "Fhair": [
+      "1022023",
+      ""
+    ],
+    "Bhair": [
+      "1032024",
+      ""
+    ],
+    "DullHair": [],
+    "HairHighlight": 0,
+    "HairHighlight2": 0,
+    "HairColor": [
+      {
+        "x": 54.7235,
+        "y": 46.2264,
+        "z": 71.0692
+      },
+      {
+        "x": 55.0,
+        "y": 46.4088,
+        "z": 70.9804
+      },
+      {
+        "x": 55.0,
+        "y": 46.4088,
+        "z": 70.9804
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      1.0,
+      1.0,
+      355.0,
+      65.0,
+      65.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [
+      "7015044",
+      "ch_f_clothes_armourdress02"
+    ],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130194",
+      "ch_f_headwear_armourdress02"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_s",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600013": {
+    "ModelPrefabID": 600013,
+    "ModelPrefabDesc": "偶像男演员",
+    "Skeleton": "prefabs/ch_m_skeleton",
+    "AnimTemplate": "animtpl/ch_m_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_m_head_youth_m200_00",
+    "EmoPrefix": "as_m_emo_m200-00_",
+    "Sex": 1,
+    "Model": 2,
+    "HeightParm": -0.563,
+    "ArmParm": -8.706,
+    "ChestParm": -0.6292,
+    "WaistParm": -1.912,
+    "CrotchParm": 6.696,
+    "ThighParm": 9.708,
+    "CalfParm": 0.0,
+    "FemaleParm": -3.974,
+    "Skin": {
+      "x": 15.0,
+      "y": 52.0,
+      "z": 90.0
+    },
+    "Face": [
+      "4011202"
+    ],
+    "Chin": 0.25,
+    "Eyebrow": [
+      "4021201"
+    ],
+    "EyebrowAngle": 0.4745,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 14.8037
+    },
+    "Eye": [
+      "4041201"
+    ],
+    "EyeUpDown": 0.14,
+    "EyeAngle": 0.7,
+    "EyeTex": [
+      "3010017"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4031003"
+    ],
+    "LashColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 266.2436,
+        "y": 85.0,
+        "z": 18.7296
+      },
+      {
+        "x": 39.5847,
+        "y": 54.1633,
+        "z": 43.2445
+      },
+      {
+        "x": 303.4562,
+        "y": 13.8553,
+        "z": 85.0
+      },
+      {
+        "x": 262.8606,
+        "y": 85.0,
+        "z": 10.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 266.2436,
+        "y": 85.0,
+        "z": 18.7296
+      },
+      {
+        "x": 39.5847,
+        "y": 54.1633,
+        "z": 43.2445
+      },
+      {
+        "x": 303.4562,
+        "y": 13.8553,
+        "z": 85.0
+      },
+      {
+        "x": 262.8606,
+        "y": 85.0,
+        "z": 10.0
+      }
+    ],
+    "Nose": [
+      "4051202"
+    ],
+    "NoseUpDown": 0.18,
+    "Mouth": [
+      "4061201",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 19.4042,
+      "y": 55.0794,
+      "z": 55.35
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 356.0,
+      "y": 54.0,
+      "z": 30.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "Hair": [
+      "1011053",
+      "ch_m_hair_hair054"
+    ],
+    "Fhair": [],
+    "Bhair": [],
+    "DullHair": [],
+    "HairHighlight": 0,
+    "HairHighlight2": 0,
+    "HairColor": [
+      {
+        "x": 40.0,
+        "y": 50.0,
+        "z": 45.0
+      },
+      {
+        "x": 217.008,
+        "y": 53.31,
+        "z": 48.95
+      },
+      {
+        "x": 165.204,
+        "y": 40.14,
+        "z": 21.06
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [
+      "7015025",
+      ""
+    ],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_m_bodyu_m000",
+    "BodyD": "ch_m_bodyd_m000",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210014",
+      "ch_c_ears_idol"
+    ],
+    "EarringsColor": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 100.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 100.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Necklace": [
+      "0",
+      ""
+    ],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600014": {
+    "ModelPrefabID": 600014,
+    "ModelPrefabDesc": "偶像女演员",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_youth_f200_02",
+    "EmoPrefix": "as_f_emo_f200-02_",
+    "Sex": 2,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": -10.0,
+    "ChestParm": 0.0,
+    "WaistParm": -5.0,
+    "CrotchParm": 5.0,
+    "ThighParm": 0.0,
+    "CalfParm": -0.0001,
+    "FemaleParm": -8.0,
+    "Skin": {
+      "x": 11.3682,
+      "y": 45.7547,
+      "z": 100.0
+    },
+    "Face": [
+      "4012201"
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4022201"
+    ],
+    "EyebrowAngle": 0.3,
+    "EyebrowColor": {
+      "x": 36.131,
+      "y": 49.1393,
+      "z": 12.5862
+    },
+    "Eye": [
+      "4042202"
+    ],
+    "EyeUpDown": 0.18,
+    "EyeAngle": 0.9,
+    "EyeTex": [
+      "3010017"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4032014"
+    ],
+    "LashColor": {
+      "x": 20.8158,
+      "y": 44.7392,
+      "z": 14.8063
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 287.9176,
+        "y": 84.5711,
+        "z": 14.3029
+      },
+      {
+        "x": 45.4715,
+        "y": 65.9493,
+        "z": 72.997
+      },
+      {
+        "x": 308.2154,
+        "y": 39.5487,
+        "z": 85.0
+      },
+      {
+        "x": 257.4709,
+        "y": 84.3354,
+        "z": 14.3029
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 287.9176,
+        "y": 84.5711,
+        "z": 14.3029
+      },
+      {
+        "x": 45.4715,
+        "y": 65.9493,
+        "z": 72.997
+      },
+      {
+        "x": 308.2154,
+        "y": 39.5487,
+        "z": 85.0
+      },
+      {
+        "x": 257.4709,
+        "y": 84.3354,
+        "z": 14.3029
+      }
+    ],
+    "Nose": [
+      "4052203"
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4062203",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 66.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 350.0,
+      "y": 70.0,
+      "z": 80.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 350.0,
+      "y": 68.7,
+      "z": 40.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [
+      "1012043"
+    ],
+    "Fhair": [],
+    "Bhair": [],
+    "DullHair": [],
+    "HairHighlight": 0,
+    "HairHighlight2": 0,
+    "HairColor": [
+      {
+        "x": 38.1818,
+        "y": 40.7407,
+        "z": 21.1765
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 15.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 15.0
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [
+      "7015026",
+      ""
+    ],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130256",
+      "ch_c_headwear_idol01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210014",
+      "ch_c_ears_idol"
+    ],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [
+      "0",
+      ""
+    ],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600015": {
+    "ModelPrefabID": 600015,
+    "ModelPrefabDesc": "人鱼男演员",
+    "Skeleton": "prefabs/ch_m_skeleton",
+    "AnimTemplate": "animtpl/ch_m_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_m_head_youth_m200_00",
+    "EmoPrefix": "as_m_emo_m200-00_",
+    "Sex": 1,
+    "Model": 2,
+    "HeightParm": 10.0,
+    "ArmParm": 0.0,
+    "ChestParm": 1.0,
+    "WaistParm": -3.0,
+    "CrotchParm": -4.0,
+    "ThighParm": -10.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 32.004,
+      "y": 50.0,
+      "z": 90.0
+    },
+    "Face": [
+      "4011201"
+    ],
+    "Chin": 0.3,
+    "Eyebrow": [
+      "4021201"
+    ],
+    "EyebrowAngle": 0.3,
+    "EyebrowColor": {
+      "x": 53.316,
+      "y": 16.67,
+      "z": 21.18
+    },
+    "Eye": [
+      "4041201"
+    ],
+    "EyeUpDown": 0.26,
+    "EyeAngle": 0.85,
+    "EyeTex": [
+      "3010022"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4031005"
+    ],
+    "LashColor": {
+      "x": 53.316,
+      "y": 16.67,
+      "z": 21.18
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 222.552,
+        "y": 83.49,
+        "z": 24.21
+      },
+      {
+        "x": 185.904,
+        "y": 43.13,
+        "z": 71.13
+      },
+      {
+        "x": 58.824,
+        "y": 41.87,
+        "z": 75.41
+      },
+      {
+        "x": 213.984,
+        "y": 80.0,
+        "z": 40.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 222.552,
+        "y": 83.49,
+        "z": 24.21
+      },
+      {
+        "x": 185.904,
+        "y": 43.13,
+        "z": 71.13
+      },
+      {
+        "x": 58.824,
+        "y": 41.87,
+        "z": 75.41
+      },
+      {
+        "x": 213.984,
+        "y": 80.0,
+        "z": 40.0
+      }
+    ],
+    "Nose": [
+      "4051202"
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4061201",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 66.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "Hair": [
+      "1011052",
+      "ch_m_hair_hair053"
+    ],
+    "Fhair": [
+      "1021021"
+    ],
+    "Bhair": [
+      "1031020"
+    ],
+    "DullHair": [
+      "1041001"
+    ],
+    "HairHighlight": 0,
+    "HairHighlight2": 0,
+    "HairColor": [
+      {
+        "x": 54.576,
+        "y": 48.58,
+        "z": 66.17
+      },
+      {
+        "x": 54.576,
+        "y": 48.58,
+        "z": 66.17
+      },
+      {
+        "x": 54.576,
+        "y": 48.58,
+        "z": 66.17
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [
+      "ch_wp_qin01_02"
+    ],
+    "CombineType": 0,
+    "HalfSuit": [
+      "7010031",
+      ""
+    ],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_m_bodyu_m000",
+    "BodyD": "ch_m_bodyd_m000",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130196",
+      "ch_c_headwear_mermaid01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210024",
+      "ch_c_ears_mermaid01"
+    ],
+    "EarringsColor": [],
+    "Necklace": [
+      "0",
+      ""
+    ],
+    "NecklaceColor": [],
+    "Ring": [
+      "7230033",
+      "ch_m_ring_mermaid01"
+    ],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600016": {
+    "ModelPrefabID": 600016,
+    "ModelPrefabDesc": "人鱼女演员",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_child_f100_00",
+    "EmoPrefix": "as_f_emo_f100-00_",
+    "Sex": 2,
+    "Model": 1,
+    "HeightParm": 10.0,
+    "ArmParm": -3.0,
+    "ChestParm": 0.0,
+    "WaistParm": -10.0,
+    "CrotchParm": 10.0,
+    "ThighParm": 10.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 3.0,
+    "Skin": {
+      "x": 18.0,
+      "y": 41.0,
+      "z": 90.0
+    },
+    "Face": [
+      "4012101"
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4022103"
+    ],
+    "EyebrowAngle": 0.2,
+    "EyebrowColor": {
+      "x": 64.008,
+      "y": 20.33,
+      "z": 30.43
+    },
+    "Eye": [
+      "4042103"
+    ],
+    "EyeUpDown": 0.7,
+    "EyeAngle": 0.0,
+    "EyeTex": [
+      "3010022"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4032013"
+    ],
+    "LashColor": {
+      "x": 64.008,
+      "y": 22.91,
+      "z": 31.02
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 213.984,
+        "y": 84.75,
+        "z": 28.5
+      },
+      {
+        "x": 198.108,
+        "y": 16.89,
+        "z": 65.07
+      },
+      {
+        "x": 55.188,
+        "y": 29.76,
+        "z": 63.81
+      },
+      {
+        "x": 213.984,
+        "y": 34.8,
+        "z": 68.35
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 213.984,
+        "y": 84.75,
+        "z": 28.5
+      },
+      {
+        "x": 198.108,
+        "y": 16.89,
+        "z": 65.07
+      },
+      {
+        "x": 55.188,
+        "y": 29.76,
+        "z": 63.81
+      },
+      {
+        "x": 213.984,
+        "y": 34.8,
+        "z": 68.35
+      }
+    ],
+    "Nose": [
+      "4052103"
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4062101",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 6.984,
+      "y": 28.33,
+      "z": 41.11
+    },
+    "Lip": [
+      "4082002"
+    ],
+    "LipColor": {
+      "x": 339.984,
+      "y": 60.0,
+      "z": 41.2
+    },
+    "Feature": [
+      "2012102"
+    ],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 60.0,
+      "z": 77.8
+    },
+    "FeatureBack": false,
+    "FeatureParm": [
+      1.06,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [
+      "0",
+      "ch_f_hair_hair047"
+    ],
+    "Fhair": [
+      "1022015"
+    ],
+    "Bhair": [
+      "1032021"
+    ],
+    "DullHair": [],
+    "HairHighlight": 0,
+    "HairHighlight2": 0,
+    "HairColor": [
+      {
+        "x": 61.884,
+        "y": 14.91,
+        "z": 60.87
+      },
+      {
+        "x": 61.884,
+        "y": 14.91,
+        "z": 60.87
+      },
+      {
+        "x": 61.884,
+        "y": 14.91,
+        "z": 60.87
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [
+      "7010032",
+      ""
+    ],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130196",
+      "ch_c_headwear_mermaid01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210024",
+      "ch_c_ears_mermaid01"
+    ],
+    "EarringsColor": [],
+    "Necklace": [
+      "7220028",
+      "ch_f_neck_mermaid01"
+    ],
+    "NecklaceColor": [],
+    "Ring": [
+      "7230034",
+      "ch_f_ring_mermaid01"
+    ],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_s",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600017": {
+    "ModelPrefabID": 600017,
+    "ModelPrefabDesc": "中华娘女",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_child_f100_00",
+    "EmoPrefix": "as_f_emo_f100-00_",
+    "Sex": 2,
+    "Model": 1,
+    "HeightParm": 3.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 4.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 18.3158,
+      "y": 41.3043,
+      "z": 95.0
+    },
+    "Face": [
+      "4012101"
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4022102"
+    ],
+    "EyebrowAngle": 0.0,
+    "EyebrowColor": {
+      "x": 348.1395,
+      "y": 48.0447,
+      "z": 85.0
+    },
+    "Eye": [
+      "4042104"
+    ],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "3010028"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4032001"
+    ],
+    "LashColor": {
+      "x": 10.188,
+      "y": 39.16,
+      "z": 24.71
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 348.8136,
+        "y": 79.7,
+        "z": 23.1373
+      },
+      {
+        "x": 353.484,
+        "y": 50.19,
+        "z": 85.0
+      },
+      {
+        "x": 43.164,
+        "y": 68.86,
+        "z": 84.75
+      },
+      {
+        "x": 16.1833,
+        "y": 78.3784,
+        "z": 29.0196
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 348.5107,
+        "y": 79.661,
+        "z": 23.1373
+      },
+      {
+        "x": 353.484,
+        "y": 50.19,
+        "z": 85.0
+      },
+      {
+        "x": 43.164,
+        "y": 68.86,
+        "z": 84.75
+      },
+      {
+        "x": 16.5517,
+        "y": 78.3784,
+        "z": 29.0196
+      }
+    ],
+    "Nose": [
+      "4052101"
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4062101",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 351.0359,
+      "y": 70.0,
+      "z": 85.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [
+      "2010004",
+      "ch_c_feature_09"
+    ],
+    "FeatureColor": {
+      "x": 349.992,
+      "y": 70.0,
+      "z": 80.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [
+      1.2,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DecalTex": [
+      "0",
+      "ch_c_feature_90"
+    ],
+    "DecalColor": {
+      "x": 340.5053,
+      "y": 73.2705,
+      "z": 71.0692
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [
+      1.2,
+      0.0,
+      0.35,
+      0.0
+    ],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [
+      "0",
+      "ch_f_hair_hair048"
+    ],
+    "Fhair": [],
+    "Bhair": [],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 358.8679,
+        "y": 24.424,
+        "z": 85.098
+      },
+      {
+        "x": 358.8679,
+        "y": 24.424,
+        "z": 85.098
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 100.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      1.0,
+      1.3338,
+      354.4898,
+      58.0,
+      83.1373
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [
+      "7010044",
+      "ch_f_suit_panda01"
+    ],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130295",
+      "ch_f_headwear_panda01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210032",
+      "ch_f_ears_panda01"
+    ],
+    "EarringsColor": [],
+    "Necklace": [
+      "7220030",
+      "ch_f_neck_panda01"
+    ],
+    "NecklaceColor": [],
+    "Ring": [
+      "7230036",
+      "ch_f_ring_panda01"
+    ],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_s",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600018": {
+    "ModelPrefabID": 600018,
+    "ModelPrefabDesc": "中华娘男",
+    "Skeleton": "prefabs/ch_m_skeleton",
+    "AnimTemplate": "animtpl/ch_m_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_m_head_youth_m200_00",
+    "EmoPrefix": "as_m_emo_m200-00_",
+    "Sex": 1,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 22.0,
+      "y": 48.0,
+      "z": 85.0
+    },
+    "Face": [
+      "4011203",
+      "ch_m_face_youth_m200_02"
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4021201"
+    ],
+    "EyebrowAngle": 0.45,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 17.2646,
+      "z": 19.0807
+    },
+    "Eye": [
+      "4041201",
+      "ch_m_eye_youth_m200_00"
+    ],
+    "EyeUpDown": 0.38,
+    "EyeAngle": 0.55,
+    "EyeTex": [
+      "3010022"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4031002"
+    ],
+    "LashColor": {
+      "x": 34.6154,
+      "y": 30.9193,
+      "z": 15.6334
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 20.0,
+        "y": 63.7795,
+        "z": 13.7
+      },
+      {
+        "x": 33.3937,
+        "y": 83.2343,
+        "z": 85.0
+      },
+      {
+        "x": 24.8416,
+        "y": 53.9743,
+        "z": 83.991
+      },
+      {
+        "x": 0.0,
+        "y": 12.6065,
+        "z": 85.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 19.0909,
+        "y": 62.8571,
+        "z": 13.7255
+      },
+      {
+        "x": 33.3937,
+        "y": 83.2343,
+        "z": 85.0
+      },
+      {
+        "x": 24.8416,
+        "y": 53.9743,
+        "z": 83.991
+      },
+      {
+        "x": 0.0,
+        "y": 12.6065,
+        "z": 85.0
+      }
+    ],
+    "Nose": [
+      "4051201"
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4061201",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 36.805,
+      "z": 26.9843
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [
+      "2010019",
+      "ch_c_feature_24"
+    ],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 29.2453,
+      "z": 14.4654
+    },
+    "FeatureBack": false,
+    "FeatureParm": [
+      -5.0,
+      0.55,
+      -0.25,
+      0.0
+    ],
+    "DecalTex": [
+      "0",
+      ""
+    ],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 20.4403,
+      "z": 18.8679
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [
+      1.1,
+      0.0,
+      0.53,
+      0.0
+    ],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "Hair": [
+      "0",
+      "ch_m_hair_hair056"
+    ],
+    "Fhair": [
+      "1021018"
+    ],
+    "Bhair": [
+      "1031007"
+    ],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 16.1443,
+        "y": 26.9841,
+        "z": 24.7059
+      },
+      {
+        "x": 28.2307,
+        "y": 40.4624,
+        "z": 67.8431
+      },
+      {
+        "x": 352.925,
+        "y": 51.8868,
+        "z": 89.3082
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [
+      "7010043",
+      "ch_m_suit_panda01"
+    ],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_m_bodyu_m000",
+    "BodyD": "ch_m_bodyd_m000",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130294",
+      "ch_m_headwear_panda01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [
+      "0",
+      ""
+    ],
+    "MouthMaskColor": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600019": {
+    "ModelPrefabID": 600019,
+    "ModelPrefabDesc": "小丑女",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_youth_f200_02",
+    "EmoPrefix": "as_f_emo_f200-02_",
+    "Sex": 2,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 22.0,
+      "y": 45.0,
+      "z": 90.1961
+    },
+    "Face": [
+      "4012203",
+      ""
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4022203",
+      "ch_f_brow_youth_f200_02"
+    ],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 15.0
+    },
+    "Eye": [
+      "4042203",
+      "ch_f_eye_youth_f200_02"
+    ],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "0",
+      "ch_c_eye_25"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4032004",
+      "ch_f_lash_f000_06_d"
+    ],
+    "LashColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 214.0,
+        "y": 80.0,
+        "z": 10.0
+      },
+      {
+        "x": 189.0,
+        "y": 75.0,
+        "z": 40.0
+      },
+      {
+        "x": 217.0,
+        "y": 70.0,
+        "z": 60.0
+      },
+      {
+        "x": 208.0,
+        "y": 75.0,
+        "z": 40.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Nose": [
+      "4052203",
+      ""
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "0",
+      "ch_f_mouth_youth_f200_00_04"
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [
+      "0",
+      ""
+    ],
+    "EyeShadowColor": {
+      "x": 190.3229,
+      "y": 66.3522,
+      "z": 67.2956
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [
+      "0",
+      "ch_c_feature_88"
+    ],
+    "FeatureColor": {
+      "x": 190.5263,
+      "y": 51.8868,
+      "z": 41.5094
+    },
+    "FeatureBack": false,
+    "FeatureParm": [
+      0.9,
+      0.55,
+      0.25,
+      0.0
+    ],
+    "DecalTex": [
+      "0",
+      "ch_c_feature_89"
+    ],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 65.0944,
+      "z": 52.8302
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [
+      1.21,
+      0.58,
+      -0.32,
+      -0.28
+    ],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [
+      "0",
+      "ch_f_hair_hair042_a"
+    ],
+    "Fhair": [
+      "1022001",
+      ""
+    ],
+    "Bhair": [
+      "1032001",
+      ""
+    ],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 15.0
+      },
+      {
+        "x": 55.26,
+        "y": 49.3711,
+        "z": 67.2956
+      },
+      {
+        "x": 41.5088,
+        "y": 46.2264,
+        "z": 80.5031
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [
+      "7010046",
+      "ch_f_suit_joker01"
+    ],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130296",
+      "ch_c_headwear_joker01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [
+      "0",
+      ""
+    ],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210033",
+      "ch_c_ears_joker01"
+    ],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [
+      "7230038",
+      "ch_f_ring_joker01"
+    ],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600020": {
+    "ModelPrefabID": 600020,
+    "ModelPrefabDesc": "小丑男",
+    "Skeleton": "prefabs/ch_m_skeleton",
+    "AnimTemplate": "animtpl/ch_m_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_m_head_youth_m200_00",
+    "EmoPrefix": "as_m_emo_m200-00_",
+    "Sex": 1,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 32.0,
+      "y": 50.0,
+      "z": 90.0
+    },
+    "Face": [
+      "4011201"
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4021201",
+      "ch_m_brow_youth_m200_00"
+    ],
+    "EyebrowAngle": 0.45,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 17.2646,
+      "z": 19.0807
+    },
+    "Eye": [
+      "4041206",
+      "ch_m_eye_youth_m200_05"
+    ],
+    "EyeUpDown": 0.38,
+    "EyeAngle": 0.55,
+    "EyeTex": [
+      "0",
+      "ch_c_eye_19"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4031005",
+      "ch_m_eyelash_02_d"
+    ],
+    "LashColor": {
+      "x": 34.6154,
+      "y": 30.9193,
+      "z": 15.6334
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 213.0,
+      "y": 100.0,
+      "z": 1.2579
+    },
+    "REyeColor": {
+      "x": 213.0,
+      "y": 100.0,
+      "z": 62.8931
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 230.4545,
+        "y": 67.6101,
+        "z": 25.1572
+      },
+      {
+        "x": 217.7221,
+        "y": 75.1573,
+        "z": 63.522
+      },
+      {
+        "x": 196.8868,
+        "y": 68.239,
+        "z": 100.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 100.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 224.4828,
+        "y": 76.4151,
+        "z": 25.7862
+      },
+      {
+        "x": 210.795,
+        "y": 75.1573,
+        "z": 62.2642
+      },
+      {
+        "x": 198.3735,
+        "y": 65.7233,
+        "z": 88.0503
+      },
+      {
+        "x": 0.0,
+        "y": 12.6065,
+        "z": 85.0
+      }
+    ],
+    "Nose": [
+      "4051201"
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "0",
+      "ch_m_mouth_youth_m200_01_03"
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [
+      "0",
+      ""
+    ],
+    "EyeShadowColor": {
+      "x": 198.6301,
+      "y": 77.044,
+      "z": 45.283
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [
+      "0",
+      "ch_c_feature_88"
+    ],
+    "FeatureColor": {
+      "x": 190.9091,
+      "y": 51.8868,
+      "z": 41.5686
+    },
+    "FeatureBack": false,
+    "FeatureParm": [
+      0.9,
+      0.58,
+      0.25,
+      0.0
+    ],
+    "DecalTex": [
+      "0",
+      "ch_c_feature_89"
+    ],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 63.8365,
+      "z": 44.0252
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [
+      1.15,
+      0.58,
+      -0.18,
+      0.0
+    ],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "Hair": [
+      "0",
+      "ch_m_hair_hair055_a"
+    ],
+    "Fhair": [
+      "1021018"
+    ],
+    "Bhair": [
+      "1031007"
+    ],
+    "DullHair": [],
+    "HairHighlight": 0,
+    "HairHighlight2": 0,
+    "HairColor": [
+      {
+        "x": 30.1358,
+        "y": 27.1525,
+        "z": 24.7982
+      },
+      {
+        "x": 69.624,
+        "y": 16.79,
+        "z": 66.42
+      },
+      {
+        "x": 69.624,
+        "y": 16.79,
+        "z": 66.42
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [
+      "7010045",
+      "ch_m_suit_joker01"
+    ],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [],
+    "GlovesColor": [],
+    "Shoes": [],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_m_bodyu_m000",
+    "BodyD": "ch_m_bodyd_m000",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130296",
+      "ch_c_headwear_joker01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [
+      "0",
+      ""
+    ],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210033",
+      "ch_c_ears_joker01"
+    ],
+    "EarringsColor": [],
+    "Necklace": [
+      "7220031",
+      "ch_m_neck_joker01"
+    ],
+    "NecklaceColor": [],
+    "Ring": [
+      "7230037",
+      "ch_m_ring_joker01"
+    ],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600021": {
+    "ModelPrefabID": 600021,
+    "ModelPrefabDesc": "11扭蛋女",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_youth_f200_02",
+    "EmoPrefix": "as_f_emo_f200-02_",
+    "Sex": 2,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 22.0,
+      "y": 45.0,
+      "z": 90.1961
+    },
+    "Face": [
+      "4012203",
+      ""
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4022203",
+      ""
+    ],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 41.6667,
+      "z": 31.2
+    },
+    "Eye": [
+      "4042201",
+      ""
+    ],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "0",
+      "ch_c_eye_31"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4032001",
+      ""
+    ],
+    "LashColor": {
+      "x": 0.0,
+      "y": 41.9811,
+      "z": 14.1509
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 354.75,
+        "y": 84.2105,
+        "z": 50.0
+      },
+      {
+        "x": 358.0263,
+        "y": 71.6,
+        "z": 100.0
+      },
+      {
+        "x": 11.1187,
+        "y": 77.0833,
+        "z": 75.2941
+      },
+      {
+        "x": 33.3333,
+        "y": 77.8378,
+        "z": 87.4
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 354.4444,
+        "y": 84.375,
+        "z": 50.1961
+      },
+      {
+        "x": 358.0263,
+        "y": 71.6,
+        "z": 100.0
+      },
+      {
+        "x": 11.1187,
+        "y": 77.0833,
+        "z": 75.2941
+      },
+      {
+        "x": 33.3333,
+        "y": 77.8378,
+        "z": 87.4
+      }
+    ],
+    "Nose": [
+      "4052203",
+      ""
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4062203",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [
+      "4072006",
+      "ch_f_shadow_05"
+    ],
+    "EyeShadowColor": {
+      "x": 7.2,
+      "y": 83.4906,
+      "z": 75.4717
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [
+      "2011104",
+      "ch_c_feature_02"
+    ],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 75.9434,
+      "z": 83.9623
+    },
+    "FeatureBack": false,
+    "FeatureParm": [
+      1.1,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [
+      "0",
+      "ch_f_hair_hair049"
+    ],
+    "Fhair": [
+      "0",
+      "ch_f_fhair_hair049"
+    ],
+    "Bhair": [
+      "0",
+      "ch_f_bhair_hair049"
+    ],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 48.9405,
+        "y": 60.0629,
+        "z": 81.1321
+      },
+      {
+        "x": 353.5631,
+        "y": 68.3962,
+        "z": 71.6981
+      },
+      {
+        "x": 353.76,
+        "y": 54.6,
+        "z": 71.7647
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 14.902
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      1.0,
+      0.8,
+      0.0,
+      58.0189,
+      70.7547
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [
+      "7015126",
+      "ch_f_simplesuit_school01"
+    ],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [
+      "7115126",
+      "ch_f_gloves_school01"
+    ],
+    "GlovesColor": [],
+    "Shoes": [
+      "7125126",
+      "ch_f_shoes_school01"
+    ],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130319",
+      "ch_f_headwear_school01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210035",
+      "ch_f_ears_school01"
+    ],
+    "EarringsColor": [],
+    "Necklace": [
+      "7220034",
+      "ch_f_neck_school01"
+    ],
+    "NecklaceColor": [],
+    "Ring": [
+      "7230040",
+      "ch_f_ring_school01"
+    ],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600022": {
+    "ModelPrefabID": 600022,
+    "ModelPrefabDesc": "11扭蛋男",
+    "Skeleton": "prefabs/ch_m_skeleton",
+    "AnimTemplate": "animtpl/ch_m_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_m_head_youth_m200_00",
+    "EmoPrefix": "as_m_emo_m200-00_",
+    "Sex": 1,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 16.2912,
+      "y": 45.0,
+      "z": 90.1961
+    },
+    "Face": [
+      "4011201",
+      ""
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4021201",
+      ""
+    ],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 40.1786,
+      "z": 34.8
+    },
+    "Eye": [
+      "4041201",
+      ""
+    ],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "0",
+      "ch_c_eye_10"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4031001",
+      ""
+    ],
+    "LashColor": {
+      "x": 0.0,
+      "y": 40.2985,
+      "z": 17.8
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 9.0,
+        "y": 79.717,
+        "z": 9.434
+      },
+      {
+        "x": 359.394,
+        "y": 80.6604,
+        "z": 68.8679
+      },
+      {
+        "x": 14.2936,
+        "y": 58.0189,
+        "z": 61.3208
+      },
+      {
+        "x": 29.0834,
+        "y": 75.4902,
+        "z": 40.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 9.4737,
+        "y": 79.1667,
+        "z": 9.4118
+      },
+      {
+        "x": 359.5775,
+        "y": 80.6818,
+        "z": 69.0196
+      },
+      {
+        "x": 14.0,
+        "y": 57.6923,
+        "z": 61.1765
+      },
+      {
+        "x": 28.8312,
+        "y": 75.4902,
+        "z": 40.0
+      }
+    ],
+    "Nose": [
+      "4051201",
+      ""
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4061201",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 66.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "Hair": [
+      "0",
+      "ch_m_hair_hair057_a"
+    ],
+    "Fhair": [
+      "1021001",
+      ""
+    ],
+    "Bhair": [
+      "1031001",
+      ""
+    ],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 0.0,
+        "y": 23.5849,
+        "z": 24.5283
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [
+      "7015125",
+      "ch_m_simplesuit_school01"
+    ],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [
+      "7115125",
+      "ch_m_gloves_school01"
+    ],
+    "GlovesColor": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 68.5535
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Shoes": [
+      "7125125",
+      "ch_m_shoes_school01"
+    ],
+    "ShoesColor": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 23.2704
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_m_bodyu_m000",
+    "BodyD": "ch_m_bodyd_m000",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130318",
+      "ch_m_headwear_school01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210034",
+      "ch_m_ears_school01"
+    ],
+    "EarringsColor": [],
+    "Necklace": [
+      "7220033",
+      "ch_m_neck_school01"
+    ],
+    "NecklaceColor": [],
+    "Ring": [
+      "7230039",
+      "ch_m_ring_school01"
+    ],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600023": {
+    "ModelPrefabID": 600023,
+    "ModelPrefabDesc": "12扭蛋女",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_youth_f200_02",
+    "EmoPrefix": "as_f_emo_f200-02_",
+    "Sex": 2,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 22.0,
+      "y": 45.0,
+      "z": 90.1961
+    },
+    "Face": [
+      "4012203",
+      ""
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4022203",
+      ""
+    ],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 41.6667,
+      "z": 31.2
+    },
+    "Eye": [
+      "4042201",
+      ""
+    ],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "0",
+      "ch_c_eye_31"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4032001",
+      ""
+    ],
+    "LashColor": {
+      "x": 0.0,
+      "y": 41.9811,
+      "z": 14.1509
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 354.75,
+        "y": 84.2105,
+        "z": 50.0
+      },
+      {
+        "x": 358.0263,
+        "y": 71.6,
+        "z": 100.0
+      },
+      {
+        "x": 11.1187,
+        "y": 77.0833,
+        "z": 75.2941
+      },
+      {
+        "x": 33.3333,
+        "y": 77.8378,
+        "z": 87.4
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 354.4444,
+        "y": 84.375,
+        "z": 50.1961
+      },
+      {
+        "x": 358.0263,
+        "y": 71.6,
+        "z": 100.0
+      },
+      {
+        "x": 11.1187,
+        "y": 77.0833,
+        "z": 75.2941
+      },
+      {
+        "x": 33.3333,
+        "y": 77.8378,
+        "z": 87.4
+      }
+    ],
+    "Nose": [
+      "4052203",
+      ""
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4062203",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [
+      "4072006",
+      "ch_f_shadow_05"
+    ],
+    "EyeShadowColor": {
+      "x": 7.2,
+      "y": 83.4906,
+      "z": 75.4717
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [
+      "2011104",
+      "ch_c_feature_02"
+    ],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 75.9434,
+      "z": 83.9623
+    },
+    "FeatureBack": false,
+    "FeatureParm": [
+      1.1,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [
+      "0",
+      "ch_f_hair_hair049"
+    ],
+    "Fhair": [
+      "0",
+      "ch_f_fhair_hair049"
+    ],
+    "Bhair": [
+      "0",
+      "ch_f_bhair_hair049"
+    ],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 48.9405,
+        "y": 60.0629,
+        "z": 81.1321
+      },
+      {
+        "x": 353.5631,
+        "y": 68.3962,
+        "z": 71.6981
+      },
+      {
+        "x": 353.76,
+        "y": 54.6,
+        "z": 71.7647
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 14.902
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      1.0,
+      0.8,
+      0.0,
+      58.0189,
+      70.7547
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [
+      "ch_wp_guitar-05_01"
+    ],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [
+      "7015126",
+      "ch_f_simplesuit_school01"
+    ],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [
+      "7115126",
+      "ch_f_gloves_school01"
+    ],
+    "GlovesColor": [],
+    "Shoes": [
+      "7125126",
+      "ch_f_shoes_school01"
+    ],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130319",
+      "ch_f_headwear_school01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [
+      "7210035",
+      "ch_f_ears_school01"
+    ],
+    "EarringsColor": [],
+    "Necklace": [
+      "7220034",
+      "ch_f_neck_school01"
+    ],
+    "NecklaceColor": [],
+    "Ring": [
+      "7230040",
+      "ch_f_ring_school01"
+    ],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": []
+  },
+  "600025": {
+    "ModelPrefabID": 600025,
+    "ModelPrefabDesc": "雪国女",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_youth_f200_02",
+    "EmoPrefix": "as_f_emo_f200-02_",
+    "Sex": 2,
+    "Model": 2,
+    "HeightParm": -4.0,
+    "ArmParm": 3.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 1.0,
+    "ThighParm": -10.0,
+    "CalfParm": -0.0001,
+    "FemaleParm": 7.0,
+    "Skin": {
+      "x": 2.4762,
+      "y": 31.6038,
+      "z": 90.566
+    },
+    "Face": [
+      "4012203"
+    ],
+    "Chin": 0.05,
+    "Eyebrow": [
+      "4022203"
+    ],
+    "EyebrowAngle": 0.55,
+    "EyebrowColor": {
+      "x": 210.996,
+      "y": 45.0,
+      "z": 60.0
+    },
+    "Eye": [
+      "4042207"
+    ],
+    "EyeUpDown": 0.45,
+    "EyeAngle": 0.0,
+    "EyeTex": [
+      "3010018"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4032001"
+    ],
+    "LashColor": {
+      "x": 218.016,
+      "y": 38.0,
+      "z": 44.0
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 250.992,
+        "y": 65.0,
+        "z": 43.0
+      },
+      {
+        "x": 208.008,
+        "y": 62.0,
+        "z": 79.0
+      },
+      {
+        "x": 192.996,
+        "y": 25.0,
+        "z": 85.0
+      },
+      {
+        "x": 236.988,
+        "y": 10.0,
+        "z": 85.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 250.992,
+        "y": 65.0,
+        "z": 43.0
+      },
+      {
+        "x": 208.008,
+        "y": 62.0,
+        "z": 79.0
+      },
+      {
+        "x": 192.996,
+        "y": 25.0,
+        "z": 85.0
+      },
+      {
+        "x": 236.988,
+        "y": 10.0,
+        "z": 85.0
+      }
+    ],
+    "Nose": [
+      "4052202"
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4062203",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 183.996,
+      "y": 28.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 10.008,
+      "y": 60.0,
+      "z": 100.0
+    },
+    "Feature": [
+      "2012202"
+    ],
+    "FeatureColor": {
+      "x": 350.489,
+      "y": 58.0189,
+      "z": 90.566
+    },
+    "FeatureBack": false,
+    "FeatureParm": [
+      1.14,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DecalTex": [
+      "0",
+      "ch_c_feature_92"
+    ],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 100.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [
+      0.65,
+      -0.68,
+      -0.4,
+      0.0
+    ],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [
+      "0",
+      "ch_f_hair_hair051"
+    ],
+    "Fhair": [],
+    "Bhair": [],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 238.0132,
+        "y": 29.717,
+        "z": 84.9057
+      },
+      {
+        "x": 225.8384,
+        "y": 44.8113,
+        "z": 82.0755
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 100.0
+      },
+      {
+        "x": 178.2193,
+        "y": 44.8113,
+        "z": 100.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      1.0,
+      0.8,
+      224.799,
+      36.3208,
+      100.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [
+      "7015130",
+      "ch_f_simplesuit_winter01"
+    ],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [
+      "7115130",
+      "ch_f_gloves_winter01"
+    ],
+    "GlovesColor": [],
+    "Shoes": [
+      "7125130",
+      "ch_f_shoes_winter01"
+    ],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130324",
+      "ch_f_headwear_winter01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": [
+      202
+    ]
+  },
+  "600026": {
+    "ModelPrefabID": 600026,
+    "ModelPrefabDesc": "雪国男",
+    "Skeleton": "prefabs/ch_m_skeleton",
+    "AnimTemplate": "animtpl/ch_m_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_m_head_youth_m200_00",
+    "EmoPrefix": "as_m_emo_m200-00_",
+    "Sex": 1,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 2.0,
+      "y": 32.0,
+      "z": 91.0
+    },
+    "Face": [
+      "4011201"
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4021201"
+    ],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 211.0,
+      "y": 38.0,
+      "z": 33.0
+    },
+    "Eye": [
+      "4041201"
+    ],
+    "EyeUpDown": 0.38,
+    "EyeAngle": 1.0,
+    "EyeTex": [
+      "3010022"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4031007"
+    ],
+    "LashColor": {
+      "x": 218.0,
+      "y": 44.0,
+      "z": 24.0
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 248.0,
+        "y": 54.0,
+        "z": 28.0
+      },
+      {
+        "x": 167.0,
+        "y": 46.0,
+        "z": 85.0
+      },
+      {
+        "x": 181.0,
+        "y": 45.0,
+        "z": 85.0
+      },
+      {
+        "x": 0.0,
+        "y": 10.0,
+        "z": 83.0
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 248.0,
+        "y": 54.0,
+        "z": 28.0
+      },
+      {
+        "x": 167.0,
+        "y": 46.0,
+        "z": 85.0
+      },
+      {
+        "x": 181.0,
+        "y": 45.0,
+        "z": 85.0
+      },
+      {
+        "x": 0.0,
+        "y": 10.0,
+        "z": 83.0
+      }
+    ],
+    "Nose": [
+      "4051201"
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4061201",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 214.0,
+      "y": 51.0,
+      "z": 31.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 356.0,
+      "y": 54.0,
+      "z": 30.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [
+      "0",
+      "ch_c_feature_92"
+    ],
+    "DecalColor": {
+      "x": 221.1617,
+      "y": 8.0189,
+      "z": 92.4528
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [
+      0.74,
+      0.74,
+      -0.23,
+      0.0
+    ],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "Hair": [
+      "0",
+      "ch_m_hair_hair058_a"
+    ],
+    "Fhair": [],
+    "Bhair": [],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 226.0,
+        "y": 44.0,
+        "z": 82.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 100.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 100.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 100.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 100.0
+      }
+    ],
+    "HairGradient": [
+      1.0,
+      0.8,
+      225.0,
+      36.0,
+      100.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [
+      "7015129",
+      "ch_m_simplesuit_winter01"
+    ],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [
+      "7115129",
+      "ch_m_gloves_winter01"
+    ],
+    "GlovesColor": [],
+    "Shoes": [
+      "7125129",
+      "ch_m_shoes_winter01"
+    ],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_m_bodyu_m000",
+    "BodyD": "ch_m_bodyd_m000",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [
+      "7130323",
+      "ch_m_headwear_winter01"
+    ],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": [
+      101
+    ]
+  },
+  "700007": {
+    "ModelPrefabID": 700007,
+    "ModelPrefabDesc": "阿良良木历",
+    "Skeleton": "prefabs/ch_m_skeleton",
+    "AnimTemplate": "animtpl/ch_m_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_m_head_youth_m200_00",
+    "EmoPrefix": "as_m_emo_m200-00_",
+    "Sex": 1,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 23.6472,
+      "y": 50.5,
+      "z": 78.4314
+    },
+    "Face": [
+      "4011201",
+      ""
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4022203",
+      "ch_f_brow_youth_f200_02"
+    ],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 25.9434,
+      "z": 19.8113
+    },
+    "Eye": [
+      "4041203",
+      "ch_m_eye_youth_m200_02"
+    ],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "0",
+      "ch_c_eye_01"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "4031001",
+      ""
+    ],
+    "LashColor": {
+      "x": 0.0,
+      "y": 8.0189,
+      "z": 8.4906
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 0.0,
+        "y": 8.3333,
+        "z": 4.7059
+      },
+      {
+        "x": 0.0,
+        "y": 8.3333,
+        "z": 4.7059
+      },
+      {
+        "x": 0.0,
+        "y": 8.3333,
+        "z": 4.7059
+      },
+      {
+        "x": 0.0,
+        "y": 8.3333,
+        "z": 4.7059
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 0.0,
+        "y": 10.8491,
+        "z": 4.717
+      },
+      {
+        "x": 0.0,
+        "y": 8.3333,
+        "z": 4.7059
+      },
+      {
+        "x": 0.0,
+        "y": 8.3333,
+        "z": 4.7059
+      },
+      {
+        "x": 0.0,
+        "y": 8.3333,
+        "z": 4.7059
+      }
+    ],
+    "Nose": [
+      "4051201",
+      ""
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "4061201",
+      ""
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 66.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 10.0
+    },
+    "Hair": [
+      "0",
+      "ch_m_hair_ip003x01"
+    ],
+    "Fhair": [
+      "1021001",
+      ""
+    ],
+    "Bhair": [
+      "1031001",
+      ""
+    ],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 231.9053,
+        "y": 9.9057,
+        "z": 10.3774
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [
+      "7015147",
+      "ch_m_simplesuit_ip003x01"
+    ],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [
+      "7000007",
+      ""
+    ],
+    "GlovesColor": [],
+    "Shoes": [
+      "7125147",
+      "ch_m_shoes_ip003x01"
+    ],
+    "ShoesColor": [],
+    "Socks": "",
+    "SocksColor": [],
+    "BodyU": "ch_m_bodyu_m000",
+    "BodyD": "ch_m_bodyd_m000",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": [
+      101
+    ]
+  },
+  "700008": {
+    "ModelPrefabID": 700008,
+    "ModelPrefabDesc": "原黑仪",
+    "Skeleton": "prefabs/ch_f_skeleton",
+    "AnimTemplate": "animtpl/ch_f_skeleton",
+    "RotateCurves": [],
+    "Head": "ch_f_head_youth_f200_02",
+    "EmoPrefix": "as_f_emo_f200-02_",
+    "Sex": 2,
+    "Model": 2,
+    "HeightParm": 0.0,
+    "ArmParm": 0.0,
+    "ChestParm": 0.0,
+    "WaistParm": 0.0,
+    "CrotchParm": 0.0,
+    "ThighParm": 0.0,
+    "CalfParm": 0.0,
+    "FemaleParm": 0.0,
+    "Skin": {
+      "x": 17.1028,
+      "y": 38.2076,
+      "z": 85.8491
+    },
+    "Face": [
+      "4012201",
+      "ch_f_face_youth_f200_00"
+    ],
+    "Chin": 0.0,
+    "Eyebrow": [
+      "4022203",
+      ""
+    ],
+    "EyebrowAngle": 0.5,
+    "EyebrowColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 15.0
+    },
+    "Eye": [
+      "4042201",
+      "ch_f_eye_youth_f200_00"
+    ],
+    "EyeUpDown": 0.5,
+    "EyeAngle": 0.5,
+    "EyeTex": [
+      "0",
+      "ch_c_eye_07"
+    ],
+    "EyeLong": 0.0,
+    "EyeShort": 0.0,
+    "LashTex": [
+      "0",
+      "ch_f_lash_01_d"
+    ],
+    "LashColor": {
+      "x": 0.0,
+      "y": 44.8113,
+      "z": 7.5472
+    },
+    "EyeColorDiff": 0,
+    "LEyeColor": {
+      "x": 214.0,
+      "y": 80.0,
+      "z": 10.0
+    },
+    "REyeColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorZone": 0,
+    "LEyeColorArr": [
+      {
+        "x": 222.5,
+        "y": 77.4194,
+        "z": 12.1569
+      },
+      {
+        "x": 218.2979,
+        "y": 70.1493,
+        "z": 26.2745
+      },
+      {
+        "x": 216.7742,
+        "y": 72.093,
+        "z": 16.8628
+      },
+      {
+        "x": 228.75,
+        "y": 84.2105,
+        "z": 7.451
+      }
+    ],
+    "REyeColorArr": [
+      {
+        "x": 223.1391,
+        "y": 78.7736,
+        "z": 12.2642
+      },
+      {
+        "x": 219.0698,
+        "y": 70.283,
+        "z": 26.4151
+      },
+      {
+        "x": 217.0516,
+        "y": 71.2264,
+        "z": 16.9811
+      },
+      {
+        "x": 227.1429,
+        "y": 85.3774,
+        "z": 7.5472
+      }
+    ],
+    "Nose": [
+      "4052201",
+      "ch_f_nose_youth_f200_00"
+    ],
+    "NoseUpDown": 0.0,
+    "Mouth": [
+      "0",
+      "ch_f_mouth_youth_f200_01_00"
+    ],
+    "Tooth": [
+      "4100001",
+      ""
+    ],
+    "EyeShadow": [],
+    "EyeShadowColor": {
+      "x": 7.0,
+      "y": 66.0,
+      "z": 30.0
+    },
+    "Lip": [],
+    "LipColor": {
+      "x": 5.0,
+      "y": 75.0,
+      "z": 40.0
+    },
+    "Feature": [
+      "0",
+      ""
+    ],
+    "FeatureColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FeatureBack": false,
+    "FeatureParm": [],
+    "DecalTex": [],
+    "DecalColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "DecalTexBack": false,
+    "DecalTexParm": [],
+    "Beard": [],
+    "BeardColor": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Hair": [
+      "10100009",
+      "ch_f_hair_ip003x02npc"
+    ],
+    "Fhair": [
+      "1022001",
+      ""
+    ],
+    "Bhair": [
+      "1032001",
+      ""
+    ],
+    "DullHair": [],
+    "HairHighlight": 1,
+    "HairHighlight2": 1,
+    "HairColor": [
+      {
+        "x": 311.1111,
+        "y": 41.0377,
+        "z": 21.6981
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "HairGradient": [
+      0.0,
+      0.8,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Tail": [],
+    "TailColor": [],
+    "Weapon": [],
+    "CombineType": 0,
+    "HalfSuit": [],
+    "HalfSuitColor": [],
+    "Suit": [],
+    "SuitColor": [],
+    "SimpleSuit": [
+      "7015148",
+      "ch_f_simplesuit_ip003x02"
+    ],
+    "SimpleSuitColor": [],
+    "Clothes": [],
+    "ClothesColor": [],
+    "Pants": [],
+    "PantsColor": [],
+    "Gloves": [
+      "7000008",
+      ""
+    ],
+    "GlovesColor": [],
+    "Shoes": [
+      "7125148",
+      "ch_f_shoes_ip003x02"
+    ],
+    "ShoesColor": [],
+    "Socks": "ch_f_socks_ip003x02",
+    "SocksColor": [],
+    "BodyU": "ch_f_bodyu",
+    "BodyD": "ch_f_bodyd",
+    "UnderWear": "",
+    "UnderWearColor": [],
+    "Headwear": [],
+    "HeadwearColor": [],
+    "Headwear2": [],
+    "Headwear2Color": [],
+    "Mask": [],
+    "MaskColor": [],
+    "MouthMask": [],
+    "MouthMaskColor": [],
+    "Earrings": [],
+    "EarringsColor": [],
+    "Necklace": [],
+    "NecklaceColor": [],
+    "Ring": [],
+    "RingColor": [],
+    "PreviewAction": [],
+    "PreviewIcon": "",
+    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
+    "WeaponIdleAnim": "",
+    "AnimFadeTemplate": "",
+    "VoiceId": [
+      202
+    ]
+  },
   "770101": {
     "ModelPrefabID": 770101,
     "ModelPrefabDesc": "预设男S1",
@@ -26392,4570 +31493,6 @@
     "PreviewAction": [],
     "PreviewIcon": "",
     "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600009": {
-    "ModelPrefabID": 600009,
-    "ModelPrefabDesc": "高达男",
-    "Skeleton": "prefabs/ch_m_skeleton",
-    "AnimTemplate": "animtpl/ch_m_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_m_head_youth_m200_00",
-    "EmoPrefix": "as_m_emo_m200-00_",
-    "Sex": 1,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 31.0,
-      "y": 60.0,
-      "z": 90.0
-    },
-    "Face": [],
-    "Chin": 0.0,
-    "Eyebrow": [],
-    "EyebrowAngle": 0.5,
-    "EyebrowColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 15.0
-    },
-    "Eye": [],
-    "EyeUpDown": 0.5,
-    "EyeAngle": 0.5,
-    "EyeTex": [
-      "3010001",
-      ""
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4031001",
-      ""
-    ],
-    "LashColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 15.0
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 214.0,
-        "y": 80.0,
-        "z": 10.0
-      },
-      {
-        "x": 189.0,
-        "y": 75.0,
-        "z": 40.0
-      },
-      {
-        "x": 217.0,
-        "y": 70.0,
-        "z": 60.0
-      },
-      {
-        "x": 208.0,
-        "y": 75.0,
-        "z": 40.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "Nose": [],
-    "NoseUpDown": 0.0,
-    "Mouth": [],
-    "Tooth": [],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 7.0,
-      "y": 66.0,
-      "z": 30.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 10.0
-    },
-    "Hair": [
-      "10100006",
-      "ch_m_hair_baldhead01"
-    ],
-    "Fhair": [],
-    "Bhair": [],
-    "DullHair": [],
-    "HairHighlight": 0,
-    "HairHighlight2": 0,
-    "HairColor": [
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 15.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [
-      "7015083",
-      "ch_m_clothes_noble01"
-    ],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_m_bodyu_m000",
-    "BodyD": "ch_m_bodyd_m000",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130249",
-      "ch_m_headwear_noblle01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [],
-    "EarringsColor": [],
-    "Necklace": [],
-    "NecklaceColor": [],
-    "Ring": [],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600010": {
-    "ModelPrefabID": 600010,
-    "ModelPrefabDesc": "高达女",
-    "Skeleton": "prefabs/ch_f_skeleton",
-    "AnimTemplate": "animtpl/ch_f_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_f_head_youth_f200_02",
-    "EmoPrefix": "as_f_emo_f200-02_",
-    "Sex": 2,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 32.0,
-      "y": 50.0,
-      "z": 90.0
-    },
-    "Face": [],
-    "Chin": 0.0,
-    "Eyebrow": [],
-    "EyebrowAngle": 0.5,
-    "EyebrowColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 15.0
-    },
-    "Eye": [],
-    "EyeUpDown": 0.5,
-    "EyeAngle": 0.5,
-    "EyeTex": [
-      "3010001",
-      ""
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4032001",
-      ""
-    ],
-    "LashColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 15.0
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 214.0,
-        "y": 80.0,
-        "z": 10.0
-      },
-      {
-        "x": 189.0,
-        "y": 75.0,
-        "z": 40.0
-      },
-      {
-        "x": 217.0,
-        "y": 70.0,
-        "z": 60.0
-      },
-      {
-        "x": 208.0,
-        "y": 75.0,
-        "z": 40.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "Nose": [],
-    "NoseUpDown": 0.0,
-    "Mouth": [],
-    "Tooth": [],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 7.0,
-      "y": 66.0,
-      "z": 30.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "Hair": [
-      "10100007",
-      "ch_f_hair_baldhead01"
-    ],
-    "Fhair": [],
-    "Bhair": [],
-    "DullHair": [],
-    "HairHighlight": 0,
-    "HairHighlight2": 0,
-    "HairColor": [
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 15.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [
-      "7015084",
-      "ch_f_clothes_noble01"
-    ],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_f_bodyu",
-    "BodyD": "ch_f_bodyd",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130250",
-      "ch_f_headwear_noble01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [],
-    "EarringsColor": [],
-    "Necklace": [],
-    "NecklaceColor": [],
-    "Ring": [],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600011": {
-    "ModelPrefabID": 600011,
-    "ModelPrefabDesc": "阿基拉男",
-    "Skeleton": "prefabs/ch_m_skeleton",
-    "AnimTemplate": "animtpl/ch_m_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_m_head_youth_m200_00",
-    "EmoPrefix": "as_m_emo_m200-00_",
-    "Sex": 1,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 22.1739,
-      "y": 45.0,
-      "z": 85.0
-    },
-    "Face": [
-      "4011201",
-      "ch_m_face_youth_m200_00"
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4021201",
-      ""
-    ],
-    "EyebrowAngle": 0.5,
-    "EyebrowColor": {
-      "x": 15.0,
-      "y": 60.0,
-      "z": 30.0
-    },
-    "Eye": [
-      "4041204",
-      "ch_m_eye_youth_m200_03"
-    ],
-    "EyeUpDown": 0.5,
-    "EyeAngle": 0.5,
-    "EyeTex": [
-      "0",
-      "ch_c_eye_21"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4031007",
-      "ch_m_eyelash_06_d"
-    ],
-    "LashColor": {
-      "x": 14.6667,
-      "y": 59.2105,
-      "z": 25.0
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 1.5786,
-        "y": 80.0,
-        "z": 9.8039
-      },
-      {
-        "x": 303.0876,
-        "y": 68.8679,
-        "z": 78.6164
-      },
-      {
-        "x": 302.3302,
-        "y": 56.2893,
-        "z": 70.4403
-      },
-      {
-        "x": 43.2759,
-        "y": 75.4902,
-        "z": 40.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 3.0,
-        "y": 80.0,
-        "z": 9.8039
-      },
-      {
-        "x": 303.0435,
-        "y": 69.0,
-        "z": 78.4314
-      },
-      {
-        "x": 302.3763,
-        "y": 56.1111,
-        "z": 70.5882
-      },
-      {
-        "x": 43.6364,
-        "y": 75.4902,
-        "z": 40.0
-      }
-    ],
-    "Nose": [
-      "4051201",
-      ""
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "0",
-      "ch_m_mouth_youth_m200_01_00"
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 7.0,
-      "y": 66.0,
-      "z": 30.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 10.0
-    },
-    "Hair": [
-      "1011050",
-      ""
-    ],
-    "Fhair": [],
-    "Bhair": [],
-    "DullHair": [],
-    "HairHighlight": 0,
-    "HairHighlight2": 0,
-    "HairColor": [
-      {
-        "x": 5.0,
-        "y": 45.0,
-        "z": 90.0
-      },
-      {
-        "x": 5.1923,
-        "y": 45.2174,
-        "z": 90.1961
-      },
-      {
-        "x": 5.1923,
-        "y": 45.2174,
-        "z": 90.1961
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      1.0,
-      1.2,
-      355.0,
-      65.0,
-      65.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [
-      "7015043",
-      "ch_m_clothes_armourdress02"
-    ],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_m_bodyu_m000",
-    "BodyD": "ch_m_bodyd_m000",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130193",
-      "ch_m_headwear_armourdress02"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [],
-    "EarringsColor": [],
-    "Necklace": [],
-    "NecklaceColor": [],
-    "Ring": [],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600012": {
-    "ModelPrefabID": 600012,
-    "ModelPrefabDesc": "阿基拉女",
-    "Skeleton": "prefabs/ch_f_skeleton",
-    "AnimTemplate": "animtpl/ch_f_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_f_head_child_f100_00",
-    "EmoPrefix": "as_f_emo_f100-00_",
-    "Sex": 2,
-    "Model": 1,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 12.0,
-      "y": 45.0,
-      "z": 85.0
-    },
-    "Face": [
-      "4012103",
-      "ch_f_face_child_f100_02"
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4022103",
-      "ch_f_brow_child_f100_02"
-    ],
-    "EyebrowAngle": 0.5,
-    "EyebrowColor": {
-      "x": 25.0,
-      "y": 35.0,
-      "z": 25.0
-    },
-    "Eye": [
-      "4042103",
-      "ch_f_eye_child_f100_02"
-    ],
-    "EyeUpDown": 0.5,
-    "EyeAngle": 0.5,
-    "EyeTex": [
-      "0",
-      "ch_c_eye_11"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4032001",
-      ""
-    ],
-    "LashColor": {
-      "x": 25.0,
-      "y": 35.0,
-      "z": 20.0
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 215.0,
-        "y": 80.0,
-        "z": 9.8039
-      },
-      {
-        "x": 184.8604,
-        "y": 87.1069,
-        "z": 65.4088
-      },
-      {
-        "x": 52.6639,
-        "y": 41.8239,
-        "z": 70.4403
-      },
-      {
-        "x": 208.0,
-        "y": 75.0,
-        "z": 40.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 216.0,
-        "y": 80.0,
-        "z": 9.8039
-      },
-      {
-        "x": 184.9655,
-        "y": 86.8264,
-        "z": 65.4902
-      },
-      {
-        "x": 52.1053,
-        "y": 42.2222,
-        "z": 70.5882
-      },
-      {
-        "x": 208.0,
-        "y": 75.0,
-        "z": 40.0
-      }
-    ],
-    "Nose": [
-      "4052101",
-      ""
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4062101",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 7.0,
-      "y": 66.0,
-      "z": 30.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "Hair": [],
-    "Fhair": [
-      "1022023",
-      ""
-    ],
-    "Bhair": [
-      "1032024",
-      ""
-    ],
-    "DullHair": [],
-    "HairHighlight": 0,
-    "HairHighlight2": 0,
-    "HairColor": [
-      {
-        "x": 54.7235,
-        "y": 46.2264,
-        "z": 71.0692
-      },
-      {
-        "x": 55.0,
-        "y": 46.4088,
-        "z": 70.9804
-      },
-      {
-        "x": 55.0,
-        "y": 46.4088,
-        "z": 70.9804
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      1.0,
-      1.0,
-      355.0,
-      65.0,
-      65.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [
-      "7015044",
-      "ch_f_clothes_armourdress02"
-    ],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_f_bodyu",
-    "BodyD": "ch_f_bodyd",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130194",
-      "ch_f_headwear_armourdress02"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [],
-    "EarringsColor": [],
-    "Necklace": [],
-    "NecklaceColor": [],
-    "Ring": [],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_s",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600013": {
-    "ModelPrefabID": 600013,
-    "ModelPrefabDesc": "偶像男演员",
-    "Skeleton": "prefabs/ch_m_skeleton",
-    "AnimTemplate": "animtpl/ch_m_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_m_head_youth_m200_00",
-    "EmoPrefix": "as_m_emo_m200-00_",
-    "Sex": 1,
-    "Model": 2,
-    "HeightParm": -0.563,
-    "ArmParm": -8.706,
-    "ChestParm": -0.6292,
-    "WaistParm": -1.912,
-    "CrotchParm": 6.696,
-    "ThighParm": 9.708,
-    "CalfParm": 0.0,
-    "FemaleParm": -3.974,
-    "Skin": {
-      "x": 15.0,
-      "y": 52.0,
-      "z": 90.0
-    },
-    "Face": [
-      "4011202"
-    ],
-    "Chin": 0.25,
-    "Eyebrow": [
-      "4021201"
-    ],
-    "EyebrowAngle": 0.4745,
-    "EyebrowColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 14.8037
-    },
-    "Eye": [
-      "4041201"
-    ],
-    "EyeUpDown": 0.14,
-    "EyeAngle": 0.7,
-    "EyeTex": [
-      "3010017"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4031003"
-    ],
-    "LashColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 10.0
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 266.2436,
-        "y": 85.0,
-        "z": 18.7296
-      },
-      {
-        "x": 39.5847,
-        "y": 54.1633,
-        "z": 43.2445
-      },
-      {
-        "x": 303.4562,
-        "y": 13.8553,
-        "z": 85.0
-      },
-      {
-        "x": 262.8606,
-        "y": 85.0,
-        "z": 10.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 266.2436,
-        "y": 85.0,
-        "z": 18.7296
-      },
-      {
-        "x": 39.5847,
-        "y": 54.1633,
-        "z": 43.2445
-      },
-      {
-        "x": 303.4562,
-        "y": 13.8553,
-        "z": 85.0
-      },
-      {
-        "x": 262.8606,
-        "y": 85.0,
-        "z": 10.0
-      }
-    ],
-    "Nose": [
-      "4051202"
-    ],
-    "NoseUpDown": 0.18,
-    "Mouth": [
-      "4061201",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 19.4042,
-      "y": 55.0794,
-      "z": 55.35
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [],
-    "FeatureColor": {
-      "x": 356.0,
-      "y": 54.0,
-      "z": 30.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 10.0
-    },
-    "Hair": [
-      "1011053",
-      "ch_m_hair_hair054"
-    ],
-    "Fhair": [],
-    "Bhair": [],
-    "DullHair": [],
-    "HairHighlight": 0,
-    "HairHighlight2": 0,
-    "HairColor": [
-      {
-        "x": 40.0,
-        "y": 50.0,
-        "z": 45.0
-      },
-      {
-        "x": 217.008,
-        "y": 53.31,
-        "z": 48.95
-      },
-      {
-        "x": 165.204,
-        "y": 40.14,
-        "z": 21.06
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [
-      "7015025",
-      ""
-    ],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_m_bodyu_m000",
-    "BodyD": "ch_m_bodyd_m000",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210014",
-      "ch_c_ears_idol"
-    ],
-    "EarringsColor": [
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 100.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 100.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "Necklace": [
-      "0",
-      ""
-    ],
-    "NecklaceColor": [],
-    "Ring": [],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600014": {
-    "ModelPrefabID": 600014,
-    "ModelPrefabDesc": "偶像女演员",
-    "Skeleton": "prefabs/ch_f_skeleton",
-    "AnimTemplate": "animtpl/ch_f_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_f_head_youth_f200_02",
-    "EmoPrefix": "as_f_emo_f200-02_",
-    "Sex": 2,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": -10.0,
-    "ChestParm": 0.0,
-    "WaistParm": -5.0,
-    "CrotchParm": 5.0,
-    "ThighParm": 0.0,
-    "CalfParm": -0.0001,
-    "FemaleParm": -8.0,
-    "Skin": {
-      "x": 11.3682,
-      "y": 45.7547,
-      "z": 100.0
-    },
-    "Face": [
-      "4012201"
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4022201"
-    ],
-    "EyebrowAngle": 0.3,
-    "EyebrowColor": {
-      "x": 36.131,
-      "y": 49.1393,
-      "z": 12.5862
-    },
-    "Eye": [
-      "4042202"
-    ],
-    "EyeUpDown": 0.18,
-    "EyeAngle": 0.9,
-    "EyeTex": [
-      "3010017"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4032014"
-    ],
-    "LashColor": {
-      "x": 20.8158,
-      "y": 44.7392,
-      "z": 14.8063
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 287.9176,
-        "y": 84.5711,
-        "z": 14.3029
-      },
-      {
-        "x": 45.4715,
-        "y": 65.9493,
-        "z": 72.997
-      },
-      {
-        "x": 308.2154,
-        "y": 39.5487,
-        "z": 85.0
-      },
-      {
-        "x": 257.4709,
-        "y": 84.3354,
-        "z": 14.3029
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 287.9176,
-        "y": 84.5711,
-        "z": 14.3029
-      },
-      {
-        "x": 45.4715,
-        "y": 65.9493,
-        "z": 72.997
-      },
-      {
-        "x": 308.2154,
-        "y": 39.5487,
-        "z": 85.0
-      },
-      {
-        "x": 257.4709,
-        "y": 84.3354,
-        "z": 14.3029
-      }
-    ],
-    "Nose": [
-      "4052203"
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4062203",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 7.0,
-      "y": 66.0,
-      "z": 30.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [],
-    "FeatureColor": {
-      "x": 350.0,
-      "y": 70.0,
-      "z": 80.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 350.0,
-      "y": 68.7,
-      "z": 40.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "Hair": [
-      "1012043"
-    ],
-    "Fhair": [],
-    "Bhair": [],
-    "DullHair": [],
-    "HairHighlight": 0,
-    "HairHighlight2": 0,
-    "HairColor": [
-      {
-        "x": 38.1818,
-        "y": 40.7407,
-        "z": 21.1765
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 15.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 15.0
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [
-      "7015026",
-      ""
-    ],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_f_bodyu",
-    "BodyD": "ch_f_bodyd",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130256",
-      "ch_c_headwear_idol01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210014",
-      "ch_c_ears_idol"
-    ],
-    "EarringsColor": [],
-    "Necklace": [],
-    "NecklaceColor": [],
-    "Ring": [
-      "0",
-      ""
-    ],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600015": {
-    "ModelPrefabID": 600015,
-    "ModelPrefabDesc": "人鱼男演员",
-    "Skeleton": "prefabs/ch_m_skeleton",
-    "AnimTemplate": "animtpl/ch_m_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_m_head_youth_m200_00",
-    "EmoPrefix": "as_m_emo_m200-00_",
-    "Sex": 1,
-    "Model": 2,
-    "HeightParm": 10.0,
-    "ArmParm": 0.0,
-    "ChestParm": 1.0,
-    "WaistParm": -3.0,
-    "CrotchParm": -4.0,
-    "ThighParm": -10.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 32.004,
-      "y": 50.0,
-      "z": 90.0
-    },
-    "Face": [
-      "4011201"
-    ],
-    "Chin": 0.3,
-    "Eyebrow": [
-      "4021201"
-    ],
-    "EyebrowAngle": 0.3,
-    "EyebrowColor": {
-      "x": 53.316,
-      "y": 16.67,
-      "z": 21.18
-    },
-    "Eye": [
-      "4041201"
-    ],
-    "EyeUpDown": 0.26,
-    "EyeAngle": 0.85,
-    "EyeTex": [
-      "3010022"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4031005"
-    ],
-    "LashColor": {
-      "x": 53.316,
-      "y": 16.67,
-      "z": 21.18
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 222.552,
-        "y": 83.49,
-        "z": 24.21
-      },
-      {
-        "x": 185.904,
-        "y": 43.13,
-        "z": 71.13
-      },
-      {
-        "x": 58.824,
-        "y": 41.87,
-        "z": 75.41
-      },
-      {
-        "x": 213.984,
-        "y": 80.0,
-        "z": 40.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 222.552,
-        "y": 83.49,
-        "z": 24.21
-      },
-      {
-        "x": 185.904,
-        "y": 43.13,
-        "z": 71.13
-      },
-      {
-        "x": 58.824,
-        "y": 41.87,
-        "z": 75.41
-      },
-      {
-        "x": 213.984,
-        "y": 80.0,
-        "z": 40.0
-      }
-    ],
-    "Nose": [
-      "4051202"
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4061201",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 7.0,
-      "y": 66.0,
-      "z": 30.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 10.0
-    },
-    "Hair": [
-      "1011052",
-      "ch_m_hair_hair053"
-    ],
-    "Fhair": [
-      "1021021"
-    ],
-    "Bhair": [
-      "1031020"
-    ],
-    "DullHair": [
-      "1041001"
-    ],
-    "HairHighlight": 0,
-    "HairHighlight2": 0,
-    "HairColor": [
-      {
-        "x": 54.576,
-        "y": 48.58,
-        "z": 66.17
-      },
-      {
-        "x": 54.576,
-        "y": 48.58,
-        "z": 66.17
-      },
-      {
-        "x": 54.576,
-        "y": 48.58,
-        "z": 66.17
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [
-      "ch_wp_qin01_02"
-    ],
-    "CombineType": 0,
-    "HalfSuit": [
-      "7010031",
-      ""
-    ],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_m_bodyu_m000",
-    "BodyD": "ch_m_bodyd_m000",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130196",
-      "ch_c_headwear_mermaid01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210024",
-      "ch_c_ears_mermaid01"
-    ],
-    "EarringsColor": [],
-    "Necklace": [
-      "0",
-      ""
-    ],
-    "NecklaceColor": [],
-    "Ring": [
-      "7230033",
-      "ch_m_ring_mermaid01"
-    ],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600016": {
-    "ModelPrefabID": 600016,
-    "ModelPrefabDesc": "人鱼女演员",
-    "Skeleton": "prefabs/ch_f_skeleton",
-    "AnimTemplate": "animtpl/ch_f_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_f_head_child_f100_00",
-    "EmoPrefix": "as_f_emo_f100-00_",
-    "Sex": 2,
-    "Model": 1,
-    "HeightParm": 10.0,
-    "ArmParm": -3.0,
-    "ChestParm": 0.0,
-    "WaistParm": -10.0,
-    "CrotchParm": 10.0,
-    "ThighParm": 10.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 3.0,
-    "Skin": {
-      "x": 18.0,
-      "y": 41.0,
-      "z": 90.0
-    },
-    "Face": [
-      "4012101"
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4022103"
-    ],
-    "EyebrowAngle": 0.2,
-    "EyebrowColor": {
-      "x": 64.008,
-      "y": 20.33,
-      "z": 30.43
-    },
-    "Eye": [
-      "4042103"
-    ],
-    "EyeUpDown": 0.7,
-    "EyeAngle": 0.0,
-    "EyeTex": [
-      "3010022"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4032013"
-    ],
-    "LashColor": {
-      "x": 64.008,
-      "y": 22.91,
-      "z": 31.02
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 213.984,
-        "y": 84.75,
-        "z": 28.5
-      },
-      {
-        "x": 198.108,
-        "y": 16.89,
-        "z": 65.07
-      },
-      {
-        "x": 55.188,
-        "y": 29.76,
-        "z": 63.81
-      },
-      {
-        "x": 213.984,
-        "y": 34.8,
-        "z": 68.35
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 213.984,
-        "y": 84.75,
-        "z": 28.5
-      },
-      {
-        "x": 198.108,
-        "y": 16.89,
-        "z": 65.07
-      },
-      {
-        "x": 55.188,
-        "y": 29.76,
-        "z": 63.81
-      },
-      {
-        "x": 213.984,
-        "y": 34.8,
-        "z": 68.35
-      }
-    ],
-    "Nose": [
-      "4052103"
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4062101",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 6.984,
-      "y": 28.33,
-      "z": 41.11
-    },
-    "Lip": [
-      "4082002"
-    ],
-    "LipColor": {
-      "x": 339.984,
-      "y": 60.0,
-      "z": 41.2
-    },
-    "Feature": [
-      "2012102"
-    ],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 60.0,
-      "z": 77.8
-    },
-    "FeatureBack": false,
-    "FeatureParm": [
-      1.06,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "Hair": [
-      "0",
-      "ch_f_hair_hair047"
-    ],
-    "Fhair": [
-      "1022015"
-    ],
-    "Bhair": [
-      "1032021"
-    ],
-    "DullHair": [],
-    "HairHighlight": 0,
-    "HairHighlight2": 0,
-    "HairColor": [
-      {
-        "x": 61.884,
-        "y": 14.91,
-        "z": 60.87
-      },
-      {
-        "x": 61.884,
-        "y": 14.91,
-        "z": 60.87
-      },
-      {
-        "x": 61.884,
-        "y": 14.91,
-        "z": 60.87
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [
-      "7010032",
-      ""
-    ],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_f_bodyu",
-    "BodyD": "ch_f_bodyd",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130196",
-      "ch_c_headwear_mermaid01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210024",
-      "ch_c_ears_mermaid01"
-    ],
-    "EarringsColor": [],
-    "Necklace": [
-      "7220028",
-      "ch_f_neck_mermaid01"
-    ],
-    "NecklaceColor": [],
-    "Ring": [
-      "7230034",
-      "ch_f_ring_mermaid01"
-    ],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_s",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600017": {
-    "ModelPrefabID": 600017,
-    "ModelPrefabDesc": "中华娘女",
-    "Skeleton": "prefabs/ch_f_skeleton",
-    "AnimTemplate": "animtpl/ch_f_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_f_head_child_f100_00",
-    "EmoPrefix": "as_f_emo_f100-00_",
-    "Sex": 2,
-    "Model": 1,
-    "HeightParm": 3.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 4.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 18.3158,
-      "y": 41.3043,
-      "z": 95.0
-    },
-    "Face": [
-      "4012101"
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4022102"
-    ],
-    "EyebrowAngle": 0.0,
-    "EyebrowColor": {
-      "x": 348.1395,
-      "y": 48.0447,
-      "z": 85.0
-    },
-    "Eye": [
-      "4042104"
-    ],
-    "EyeUpDown": 0.5,
-    "EyeAngle": 0.5,
-    "EyeTex": [
-      "3010028"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4032001"
-    ],
-    "LashColor": {
-      "x": 10.188,
-      "y": 39.16,
-      "z": 24.71
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 348.8136,
-        "y": 79.7,
-        "z": 23.1373
-      },
-      {
-        "x": 353.484,
-        "y": 50.19,
-        "z": 85.0
-      },
-      {
-        "x": 43.164,
-        "y": 68.86,
-        "z": 84.75
-      },
-      {
-        "x": 16.1833,
-        "y": 78.3784,
-        "z": 29.0196
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 348.5107,
-        "y": 79.661,
-        "z": 23.1373
-      },
-      {
-        "x": 353.484,
-        "y": 50.19,
-        "z": 85.0
-      },
-      {
-        "x": 43.164,
-        "y": 68.86,
-        "z": 84.75
-      },
-      {
-        "x": 16.5517,
-        "y": 78.3784,
-        "z": 29.0196
-      }
-    ],
-    "Nose": [
-      "4052101"
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4062101",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 351.0359,
-      "y": 70.0,
-      "z": 85.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [
-      "2010004",
-      "ch_c_feature_09"
-    ],
-    "FeatureColor": {
-      "x": 349.992,
-      "y": 70.0,
-      "z": 80.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [
-      1.2,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DecalTex": [
-      "0",
-      "ch_c_feature_90"
-    ],
-    "DecalColor": {
-      "x": 340.5053,
-      "y": 73.2705,
-      "z": 71.0692
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [
-      1.2,
-      0.0,
-      0.35,
-      0.0
-    ],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "Hair": [
-      "0",
-      "ch_f_hair_hair048"
-    ],
-    "Fhair": [],
-    "Bhair": [],
-    "DullHair": [],
-    "HairHighlight": 1,
-    "HairHighlight2": 1,
-    "HairColor": [
-      {
-        "x": 358.8679,
-        "y": 24.424,
-        "z": 85.098
-      },
-      {
-        "x": 358.8679,
-        "y": 24.424,
-        "z": 85.098
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 100.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      1.0,
-      1.3338,
-      354.4898,
-      58.0,
-      83.1373
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [
-      "7010044",
-      "ch_f_suit_panda01"
-    ],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_f_bodyu",
-    "BodyD": "ch_f_bodyd",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130295",
-      "ch_f_headwear_panda01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210032",
-      "ch_f_ears_panda01"
-    ],
-    "EarringsColor": [],
-    "Necklace": [
-      "7220030",
-      "ch_f_neck_panda01"
-    ],
-    "NecklaceColor": [],
-    "Ring": [
-      "7230036",
-      "ch_f_ring_panda01"
-    ],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_s",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600018": {
-    "ModelPrefabID": 600018,
-    "ModelPrefabDesc": "中华娘男",
-    "Skeleton": "prefabs/ch_m_skeleton",
-    "AnimTemplate": "animtpl/ch_m_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_m_head_youth_m200_00",
-    "EmoPrefix": "as_m_emo_m200-00_",
-    "Sex": 1,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 22.0,
-      "y": 48.0,
-      "z": 85.0
-    },
-    "Face": [
-      "4011203",
-      "ch_m_face_youth_m200_02"
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4021201"
-    ],
-    "EyebrowAngle": 0.45,
-    "EyebrowColor": {
-      "x": 0.0,
-      "y": 17.2646,
-      "z": 19.0807
-    },
-    "Eye": [
-      "4041201",
-      "ch_m_eye_youth_m200_00"
-    ],
-    "EyeUpDown": 0.38,
-    "EyeAngle": 0.55,
-    "EyeTex": [
-      "3010022"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4031002"
-    ],
-    "LashColor": {
-      "x": 34.6154,
-      "y": 30.9193,
-      "z": 15.6334
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 20.0,
-        "y": 63.7795,
-        "z": 13.7
-      },
-      {
-        "x": 33.3937,
-        "y": 83.2343,
-        "z": 85.0
-      },
-      {
-        "x": 24.8416,
-        "y": 53.9743,
-        "z": 83.991
-      },
-      {
-        "x": 0.0,
-        "y": 12.6065,
-        "z": 85.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 19.0909,
-        "y": 62.8571,
-        "z": 13.7255
-      },
-      {
-        "x": 33.3937,
-        "y": 83.2343,
-        "z": 85.0
-      },
-      {
-        "x": 24.8416,
-        "y": 53.9743,
-        "z": 83.991
-      },
-      {
-        "x": 0.0,
-        "y": 12.6065,
-        "z": 85.0
-      }
-    ],
-    "Nose": [
-      "4051201"
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4061201",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 7.0,
-      "y": 36.805,
-      "z": 26.9843
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [
-      "2010019",
-      "ch_c_feature_24"
-    ],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 29.2453,
-      "z": 14.4654
-    },
-    "FeatureBack": false,
-    "FeatureParm": [
-      -5.0,
-      0.55,
-      -0.25,
-      0.0
-    ],
-    "DecalTex": [
-      "0",
-      ""
-    ],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 20.4403,
-      "z": 18.8679
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [
-      1.1,
-      0.0,
-      0.53,
-      0.0
-    ],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 10.0
-    },
-    "Hair": [
-      "0",
-      "ch_m_hair_hair056"
-    ],
-    "Fhair": [
-      "1021018"
-    ],
-    "Bhair": [
-      "1031007"
-    ],
-    "DullHair": [],
-    "HairHighlight": 1,
-    "HairHighlight2": 1,
-    "HairColor": [
-      {
-        "x": 16.1443,
-        "y": 26.9841,
-        "z": 24.7059
-      },
-      {
-        "x": 28.2307,
-        "y": 40.4624,
-        "z": 67.8431
-      },
-      {
-        "x": 352.925,
-        "y": 51.8868,
-        "z": 89.3082
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [
-      "7010043",
-      "ch_m_suit_panda01"
-    ],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_m_bodyu_m000",
-    "BodyD": "ch_m_bodyd_m000",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130294",
-      "ch_m_headwear_panda01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [
-      "0",
-      ""
-    ],
-    "MouthMaskColor": [],
-    "Earrings": [],
-    "EarringsColor": [],
-    "Necklace": [],
-    "NecklaceColor": [],
-    "Ring": [],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600019": {
-    "ModelPrefabID": 600019,
-    "ModelPrefabDesc": "小丑女",
-    "Skeleton": "prefabs/ch_f_skeleton",
-    "AnimTemplate": "animtpl/ch_f_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_f_head_youth_f200_02",
-    "EmoPrefix": "as_f_emo_f200-02_",
-    "Sex": 2,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 22.0,
-      "y": 45.0,
-      "z": 90.1961
-    },
-    "Face": [
-      "4012203",
-      ""
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4022203",
-      "ch_f_brow_youth_f200_02"
-    ],
-    "EyebrowAngle": 0.5,
-    "EyebrowColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 15.0
-    },
-    "Eye": [
-      "4042203",
-      "ch_f_eye_youth_f200_02"
-    ],
-    "EyeUpDown": 0.5,
-    "EyeAngle": 0.5,
-    "EyeTex": [
-      "0",
-      "ch_c_eye_25"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4032004",
-      "ch_f_lash_f000_06_d"
-    ],
-    "LashColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 214.0,
-        "y": 80.0,
-        "z": 10.0
-      },
-      {
-        "x": 189.0,
-        "y": 75.0,
-        "z": 40.0
-      },
-      {
-        "x": 217.0,
-        "y": 70.0,
-        "z": 60.0
-      },
-      {
-        "x": 208.0,
-        "y": 75.0,
-        "z": 40.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "Nose": [
-      "4052203",
-      ""
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "0",
-      "ch_f_mouth_youth_f200_00_04"
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [
-      "0",
-      ""
-    ],
-    "EyeShadowColor": {
-      "x": 190.3229,
-      "y": 66.3522,
-      "z": 67.2956
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [
-      "0",
-      "ch_c_feature_88"
-    ],
-    "FeatureColor": {
-      "x": 190.5263,
-      "y": 51.8868,
-      "z": 41.5094
-    },
-    "FeatureBack": false,
-    "FeatureParm": [
-      0.9,
-      0.55,
-      0.25,
-      0.0
-    ],
-    "DecalTex": [
-      "0",
-      "ch_c_feature_89"
-    ],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 65.0944,
-      "z": 52.8302
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [
-      1.21,
-      0.58,
-      -0.32,
-      -0.28
-    ],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "Hair": [
-      "0",
-      "ch_f_hair_hair042_a"
-    ],
-    "Fhair": [
-      "1022001",
-      ""
-    ],
-    "Bhair": [
-      "1032001",
-      ""
-    ],
-    "DullHair": [],
-    "HairHighlight": 1,
-    "HairHighlight2": 1,
-    "HairColor": [
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 15.0
-      },
-      {
-        "x": 55.26,
-        "y": 49.3711,
-        "z": 67.2956
-      },
-      {
-        "x": 41.5088,
-        "y": 46.2264,
-        "z": 80.5031
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [
-      "7010046",
-      "ch_f_suit_joker01"
-    ],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_f_bodyu",
-    "BodyD": "ch_f_bodyd",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130296",
-      "ch_c_headwear_joker01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [
-      "0",
-      ""
-    ],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210033",
-      "ch_c_ears_joker01"
-    ],
-    "EarringsColor": [],
-    "Necklace": [],
-    "NecklaceColor": [],
-    "Ring": [
-      "7230038",
-      "ch_f_ring_joker01"
-    ],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600020": {
-    "ModelPrefabID": 600020,
-    "ModelPrefabDesc": "小丑男",
-    "Skeleton": "prefabs/ch_m_skeleton",
-    "AnimTemplate": "animtpl/ch_m_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_m_head_youth_m200_00",
-    "EmoPrefix": "as_m_emo_m200-00_",
-    "Sex": 1,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 32.0,
-      "y": 50.0,
-      "z": 90.0
-    },
-    "Face": [
-      "4011201"
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4021201",
-      "ch_m_brow_youth_m200_00"
-    ],
-    "EyebrowAngle": 0.45,
-    "EyebrowColor": {
-      "x": 0.0,
-      "y": 17.2646,
-      "z": 19.0807
-    },
-    "Eye": [
-      "4041206",
-      "ch_m_eye_youth_m200_05"
-    ],
-    "EyeUpDown": 0.38,
-    "EyeAngle": 0.55,
-    "EyeTex": [
-      "0",
-      "ch_c_eye_19"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4031005",
-      "ch_m_eyelash_02_d"
-    ],
-    "LashColor": {
-      "x": 34.6154,
-      "y": 30.9193,
-      "z": 15.6334
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 213.0,
-      "y": 100.0,
-      "z": 1.2579
-    },
-    "REyeColor": {
-      "x": 213.0,
-      "y": 100.0,
-      "z": 62.8931
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 230.4545,
-        "y": 67.6101,
-        "z": 25.1572
-      },
-      {
-        "x": 217.7221,
-        "y": 75.1573,
-        "z": 63.522
-      },
-      {
-        "x": 196.8868,
-        "y": 68.239,
-        "z": 100.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 100.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 224.4828,
-        "y": 76.4151,
-        "z": 25.7862
-      },
-      {
-        "x": 210.795,
-        "y": 75.1573,
-        "z": 62.2642
-      },
-      {
-        "x": 198.3735,
-        "y": 65.7233,
-        "z": 88.0503
-      },
-      {
-        "x": 0.0,
-        "y": 12.6065,
-        "z": 85.0
-      }
-    ],
-    "Nose": [
-      "4051201"
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "0",
-      "ch_m_mouth_youth_m200_01_03"
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [
-      "0",
-      ""
-    ],
-    "EyeShadowColor": {
-      "x": 198.6301,
-      "y": 77.044,
-      "z": 45.283
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [
-      "0",
-      "ch_c_feature_88"
-    ],
-    "FeatureColor": {
-      "x": 190.9091,
-      "y": 51.8868,
-      "z": 41.5686
-    },
-    "FeatureBack": false,
-    "FeatureParm": [
-      0.9,
-      0.58,
-      0.25,
-      0.0
-    ],
-    "DecalTex": [
-      "0",
-      "ch_c_feature_89"
-    ],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 63.8365,
-      "z": 44.0252
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [
-      1.15,
-      0.58,
-      -0.18,
-      0.0
-    ],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 10.0
-    },
-    "Hair": [
-      "0",
-      "ch_m_hair_hair055_a"
-    ],
-    "Fhair": [
-      "1021018"
-    ],
-    "Bhair": [
-      "1031007"
-    ],
-    "DullHair": [],
-    "HairHighlight": 0,
-    "HairHighlight2": 0,
-    "HairColor": [
-      {
-        "x": 30.1358,
-        "y": 27.1525,
-        "z": 24.7982
-      },
-      {
-        "x": 69.624,
-        "y": 16.79,
-        "z": 66.42
-      },
-      {
-        "x": 69.624,
-        "y": 16.79,
-        "z": 66.42
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [
-      "7010045",
-      "ch_m_suit_joker01"
-    ],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [],
-    "GlovesColor": [],
-    "Shoes": [],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_m_bodyu_m000",
-    "BodyD": "ch_m_bodyd_m000",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130296",
-      "ch_c_headwear_joker01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [
-      "0",
-      ""
-    ],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210033",
-      "ch_c_ears_joker01"
-    ],
-    "EarringsColor": [],
-    "Necklace": [
-      "7220031",
-      "ch_m_neck_joker01"
-    ],
-    "NecklaceColor": [],
-    "Ring": [
-      "7230037",
-      "ch_m_ring_joker01"
-    ],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600026": {
-    "ModelPrefabID": 600026,
-    "ModelPrefabDesc": "雪国男",
-    "Skeleton": "prefabs/ch_m_skeleton",
-    "AnimTemplate": "animtpl/ch_m_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_m_head_youth_m200_00",
-    "EmoPrefix": "as_m_emo_m200-00_",
-    "Sex": 1,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 2.0,
-      "y": 32.0,
-      "z": 91.0
-    },
-    "Face": [
-      "4011201"
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4021201"
-    ],
-    "EyebrowAngle": 0.5,
-    "EyebrowColor": {
-      "x": 211.0,
-      "y": 38.0,
-      "z": 33.0
-    },
-    "Eye": [
-      "4041201"
-    ],
-    "EyeUpDown": 0.38,
-    "EyeAngle": 1.0,
-    "EyeTex": [
-      "3010022"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4031007"
-    ],
-    "LashColor": {
-      "x": 218.0,
-      "y": 44.0,
-      "z": 24.0
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 248.0,
-        "y": 54.0,
-        "z": 28.0
-      },
-      {
-        "x": 167.0,
-        "y": 46.0,
-        "z": 85.0
-      },
-      {
-        "x": 181.0,
-        "y": 45.0,
-        "z": 85.0
-      },
-      {
-        "x": 0.0,
-        "y": 10.0,
-        "z": 83.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 248.0,
-        "y": 54.0,
-        "z": 28.0
-      },
-      {
-        "x": 167.0,
-        "y": 46.0,
-        "z": 85.0
-      },
-      {
-        "x": 181.0,
-        "y": 45.0,
-        "z": 85.0
-      },
-      {
-        "x": 0.0,
-        "y": 10.0,
-        "z": 83.0
-      }
-    ],
-    "Nose": [
-      "4051201"
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4061201",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 214.0,
-      "y": 51.0,
-      "z": 31.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [],
-    "FeatureColor": {
-      "x": 356.0,
-      "y": 54.0,
-      "z": 30.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [],
-    "DecalTex": [
-      "0",
-      "ch_c_feature_92"
-    ],
-    "DecalColor": {
-      "x": 221.1617,
-      "y": 8.0189,
-      "z": 92.4528
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [
-      0.74,
-      0.74,
-      -0.23,
-      0.0
-    ],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 10.0
-    },
-    "Hair": [
-      "0",
-      "ch_m_hair_hair058_a"
-    ],
-    "Fhair": [],
-    "Bhair": [],
-    "DullHair": [],
-    "HairHighlight": 1,
-    "HairHighlight2": 1,
-    "HairColor": [
-      {
-        "x": 226.0,
-        "y": 44.0,
-        "z": 82.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 100.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 100.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 100.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 100.0
-      }
-    ],
-    "HairGradient": [
-      1.0,
-      0.8,
-      225.0,
-      36.0,
-      100.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [
-      "7015129",
-      "ch_m_simplesuit_winter01"
-    ],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [
-      "7115129",
-      "ch_m_gloves_winter01"
-    ],
-    "GlovesColor": [],
-    "Shoes": [
-      "7125129",
-      "ch_m_shoes_winter01"
-    ],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_m_bodyu_m000",
-    "BodyD": "ch_m_bodyd_m000",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130323",
-      "ch_m_headwear_winter01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [],
-    "EarringsColor": [],
-    "Necklace": [],
-    "NecklaceColor": [],
-    "Ring": [],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": [
-      101
-    ]
-  },
-  "600025": {
-    "ModelPrefabID": 600025,
-    "ModelPrefabDesc": "雪国女",
-    "Skeleton": "prefabs/ch_f_skeleton",
-    "AnimTemplate": "animtpl/ch_f_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_f_head_youth_f200_02",
-    "EmoPrefix": "as_f_emo_f200-02_",
-    "Sex": 2,
-    "Model": 2,
-    "HeightParm": -4.0,
-    "ArmParm": 3.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 1.0,
-    "ThighParm": -10.0,
-    "CalfParm": -0.0001,
-    "FemaleParm": 7.0,
-    "Skin": {
-      "x": 2.4762,
-      "y": 31.6038,
-      "z": 90.566
-    },
-    "Face": [
-      "4012203"
-    ],
-    "Chin": 0.05,
-    "Eyebrow": [
-      "4022203"
-    ],
-    "EyebrowAngle": 0.55,
-    "EyebrowColor": {
-      "x": 210.996,
-      "y": 45.0,
-      "z": 60.0
-    },
-    "Eye": [
-      "4042207"
-    ],
-    "EyeUpDown": 0.45,
-    "EyeAngle": 0.0,
-    "EyeTex": [
-      "3010018"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4032001"
-    ],
-    "LashColor": {
-      "x": 218.016,
-      "y": 38.0,
-      "z": 44.0
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 250.992,
-        "y": 65.0,
-        "z": 43.0
-      },
-      {
-        "x": 208.008,
-        "y": 62.0,
-        "z": 79.0
-      },
-      {
-        "x": 192.996,
-        "y": 25.0,
-        "z": 85.0
-      },
-      {
-        "x": 236.988,
-        "y": 10.0,
-        "z": 85.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 250.992,
-        "y": 65.0,
-        "z": 43.0
-      },
-      {
-        "x": 208.008,
-        "y": 62.0,
-        "z": 79.0
-      },
-      {
-        "x": 192.996,
-        "y": 25.0,
-        "z": 85.0
-      },
-      {
-        "x": 236.988,
-        "y": 10.0,
-        "z": 85.0
-      }
-    ],
-    "Nose": [
-      "4052202"
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4062203",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 183.996,
-      "y": 28.0,
-      "z": 30.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 10.008,
-      "y": 60.0,
-      "z": 100.0
-    },
-    "Feature": [
-      "2012202"
-    ],
-    "FeatureColor": {
-      "x": 350.489,
-      "y": 58.0189,
-      "z": 90.566
-    },
-    "FeatureBack": false,
-    "FeatureParm": [
-      1.14,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DecalTex": [
-      "0",
-      "ch_c_feature_92"
-    ],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 100.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [
-      0.65,
-      -0.68,
-      -0.4,
-      0.0
-    ],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "Hair": [
-      "0",
-      "ch_f_hair_hair051"
-    ],
-    "Fhair": [],
-    "Bhair": [],
-    "DullHair": [],
-    "HairHighlight": 1,
-    "HairHighlight2": 1,
-    "HairColor": [
-      {
-        "x": 238.0132,
-        "y": 29.717,
-        "z": 84.9057
-      },
-      {
-        "x": 225.8384,
-        "y": 44.8113,
-        "z": 82.0755
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 100.0
-      },
-      {
-        "x": 178.2193,
-        "y": 44.8113,
-        "z": 100.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      1.0,
-      0.8,
-      224.799,
-      36.3208,
-      100.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [
-      "7015130",
-      "ch_f_simplesuit_winter01"
-    ],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [
-      "7115130",
-      "ch_f_gloves_winter01"
-    ],
-    "GlovesColor": [],
-    "Shoes": [
-      "7125130",
-      "ch_f_shoes_winter01"
-    ],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_f_bodyu",
-    "BodyD": "ch_f_bodyd",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130324",
-      "ch_f_headwear_winter01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [],
-    "EarringsColor": [],
-    "Necklace": [],
-    "NecklaceColor": [],
-    "Ring": [],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": [
-      202
-    ]
-  },
-  "600021": {
-    "ModelPrefabID": 600021,
-    "ModelPrefabDesc": "11扭蛋女",
-    "Skeleton": "prefabs/ch_f_skeleton",
-    "AnimTemplate": "animtpl/ch_f_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_f_head_youth_f200_02",
-    "EmoPrefix": "as_f_emo_f200-02_",
-    "Sex": 2,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 22.0,
-      "y": 45.0,
-      "z": 90.1961
-    },
-    "Face": [
-      "4012203",
-      ""
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4022203",
-      ""
-    ],
-    "EyebrowAngle": 0.5,
-    "EyebrowColor": {
-      "x": 0.0,
-      "y": 41.6667,
-      "z": 31.2
-    },
-    "Eye": [
-      "4042201",
-      ""
-    ],
-    "EyeUpDown": 0.5,
-    "EyeAngle": 0.5,
-    "EyeTex": [
-      "0",
-      "ch_c_eye_31"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4032001",
-      ""
-    ],
-    "LashColor": {
-      "x": 0.0,
-      "y": 41.9811,
-      "z": 14.1509
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 354.75,
-        "y": 84.2105,
-        "z": 50.0
-      },
-      {
-        "x": 358.0263,
-        "y": 71.6,
-        "z": 100.0
-      },
-      {
-        "x": 11.1187,
-        "y": 77.0833,
-        "z": 75.2941
-      },
-      {
-        "x": 33.3333,
-        "y": 77.8378,
-        "z": 87.4
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 354.4444,
-        "y": 84.375,
-        "z": 50.1961
-      },
-      {
-        "x": 358.0263,
-        "y": 71.6,
-        "z": 100.0
-      },
-      {
-        "x": 11.1187,
-        "y": 77.0833,
-        "z": 75.2941
-      },
-      {
-        "x": 33.3333,
-        "y": 77.8378,
-        "z": 87.4
-      }
-    ],
-    "Nose": [
-      "4052203",
-      ""
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4062203",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [
-      "4072006",
-      "ch_f_shadow_05"
-    ],
-    "EyeShadowColor": {
-      "x": 7.2,
-      "y": 83.4906,
-      "z": 75.4717
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [
-      "2011104",
-      "ch_c_feature_02"
-    ],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 75.9434,
-      "z": 83.9623
-    },
-    "FeatureBack": false,
-    "FeatureParm": [
-      1.1,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "Hair": [
-      "0",
-      "ch_f_hair_hair049"
-    ],
-    "Fhair": [
-      "0",
-      "ch_f_fhair_hair049"
-    ],
-    "Bhair": [
-      "0",
-      "ch_f_bhair_hair049"
-    ],
-    "DullHair": [],
-    "HairHighlight": 1,
-    "HairHighlight2": 1,
-    "HairColor": [
-      {
-        "x": 48.9405,
-        "y": 60.0629,
-        "z": 81.1321
-      },
-      {
-        "x": 353.5631,
-        "y": 68.3962,
-        "z": 71.6981
-      },
-      {
-        "x": 353.76,
-        "y": 54.6,
-        "z": 71.7647
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 14.902
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      1.0,
-      0.8,
-      0.0,
-      58.0189,
-      70.7547
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [
-      "7015126",
-      "ch_f_simplesuit_school01"
-    ],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [
-      "7115126",
-      "ch_f_gloves_school01"
-    ],
-    "GlovesColor": [],
-    "Shoes": [
-      "7125126",
-      "ch_f_shoes_school01"
-    ],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_f_bodyu",
-    "BodyD": "ch_f_bodyd",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130319",
-      "ch_f_headwear_school01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210035",
-      "ch_f_ears_school01"
-    ],
-    "EarringsColor": [],
-    "Necklace": [
-      "7220034",
-      "ch_f_neck_school01"
-    ],
-    "NecklaceColor": [],
-    "Ring": [
-      "7230040",
-      "ch_f_ring_school01"
-    ],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600022": {
-    "ModelPrefabID": 600022,
-    "ModelPrefabDesc": "11扭蛋男",
-    "Skeleton": "prefabs/ch_m_skeleton",
-    "AnimTemplate": "animtpl/ch_m_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_m_head_youth_m200_00",
-    "EmoPrefix": "as_m_emo_m200-00_",
-    "Sex": 1,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 16.2912,
-      "y": 45.0,
-      "z": 90.1961
-    },
-    "Face": [
-      "4011201",
-      ""
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4021201",
-      ""
-    ],
-    "EyebrowAngle": 0.5,
-    "EyebrowColor": {
-      "x": 0.0,
-      "y": 40.1786,
-      "z": 34.8
-    },
-    "Eye": [
-      "4041201",
-      ""
-    ],
-    "EyeUpDown": 0.5,
-    "EyeAngle": 0.5,
-    "EyeTex": [
-      "0",
-      "ch_c_eye_10"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4031001",
-      ""
-    ],
-    "LashColor": {
-      "x": 0.0,
-      "y": 40.2985,
-      "z": 17.8
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 9.0,
-        "y": 79.717,
-        "z": 9.434
-      },
-      {
-        "x": 359.394,
-        "y": 80.6604,
-        "z": 68.8679
-      },
-      {
-        "x": 14.2936,
-        "y": 58.0189,
-        "z": 61.3208
-      },
-      {
-        "x": 29.0834,
-        "y": 75.4902,
-        "z": 40.0
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 9.4737,
-        "y": 79.1667,
-        "z": 9.4118
-      },
-      {
-        "x": 359.5775,
-        "y": 80.6818,
-        "z": 69.0196
-      },
-      {
-        "x": 14.0,
-        "y": 57.6923,
-        "z": 61.1765
-      },
-      {
-        "x": 28.8312,
-        "y": 75.4902,
-        "z": 40.0
-      }
-    ],
-    "Nose": [
-      "4051201",
-      ""
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4061201",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [],
-    "EyeShadowColor": {
-      "x": 7.0,
-      "y": 66.0,
-      "z": 30.0
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "FeatureBack": false,
-    "FeatureParm": [],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 10.0
-    },
-    "Hair": [
-      "0",
-      "ch_m_hair_hair057_a"
-    ],
-    "Fhair": [
-      "1021001",
-      ""
-    ],
-    "Bhair": [
-      "1031001",
-      ""
-    ],
-    "DullHair": [],
-    "HairHighlight": 1,
-    "HairHighlight2": 1,
-    "HairColor": [
-      {
-        "x": 0.0,
-        "y": 23.5849,
-        "z": 24.5283
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      0.0,
-      0.8,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [],
-    "CombineType": 0,
-    "HalfSuit": [],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [
-      "7015125",
-      "ch_m_simplesuit_school01"
-    ],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [
-      "7115125",
-      "ch_m_gloves_school01"
-    ],
-    "GlovesColor": [
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 68.5535
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "Shoes": [
-      "7125125",
-      "ch_m_shoes_school01"
-    ],
-    "ShoesColor": [
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 23.2704
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_m_bodyu_m000",
-    "BodyD": "ch_m_bodyd_m000",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130318",
-      "ch_m_headwear_school01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210034",
-      "ch_m_ears_school01"
-    ],
-    "EarringsColor": [],
-    "Necklace": [
-      "7220033",
-      "ch_m_neck_school01"
-    ],
-    "NecklaceColor": [],
-    "Ring": [
-      "7230039",
-      "ch_m_ring_school01"
-    ],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_m_skeleton_m",
-    "WeaponIdleAnim": "",
-    "AnimFadeTemplate": "",
-    "VoiceId": []
-  },
-  "600023": {
-    "ModelPrefabID": 600023,
-    "ModelPrefabDesc": "12扭蛋女",
-    "Skeleton": "prefabs/ch_f_skeleton",
-    "AnimTemplate": "animtpl/ch_f_skeleton",
-    "RotateCurves": [],
-    "Head": "ch_f_head_youth_f200_02",
-    "EmoPrefix": "as_f_emo_f200-02_",
-    "Sex": 2,
-    "Model": 2,
-    "HeightParm": 0.0,
-    "ArmParm": 0.0,
-    "ChestParm": 0.0,
-    "WaistParm": 0.0,
-    "CrotchParm": 0.0,
-    "ThighParm": 0.0,
-    "CalfParm": 0.0,
-    "FemaleParm": 0.0,
-    "Skin": {
-      "x": 22.0,
-      "y": 45.0,
-      "z": 90.1961
-    },
-    "Face": [
-      "4012203",
-      ""
-    ],
-    "Chin": 0.0,
-    "Eyebrow": [
-      "4022203",
-      ""
-    ],
-    "EyebrowAngle": 0.5,
-    "EyebrowColor": {
-      "x": 0.0,
-      "y": 41.6667,
-      "z": 31.2
-    },
-    "Eye": [
-      "4042201",
-      ""
-    ],
-    "EyeUpDown": 0.5,
-    "EyeAngle": 0.5,
-    "EyeTex": [
-      "0",
-      "ch_c_eye_31"
-    ],
-    "EyeLong": 0.0,
-    "EyeShort": 0.0,
-    "LashTex": [
-      "4032001",
-      ""
-    ],
-    "LashColor": {
-      "x": 0.0,
-      "y": 41.9811,
-      "z": 14.1509
-    },
-    "EyeColorDiff": 0,
-    "LEyeColor": {
-      "x": 214.0,
-      "y": 80.0,
-      "z": 10.0
-    },
-    "REyeColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "ColorZone": 0,
-    "LEyeColorArr": [
-      {
-        "x": 354.75,
-        "y": 84.2105,
-        "z": 50.0
-      },
-      {
-        "x": 358.0263,
-        "y": 71.6,
-        "z": 100.0
-      },
-      {
-        "x": 11.1187,
-        "y": 77.0833,
-        "z": 75.2941
-      },
-      {
-        "x": 33.3333,
-        "y": 77.8378,
-        "z": 87.4
-      }
-    ],
-    "REyeColorArr": [
-      {
-        "x": 354.4444,
-        "y": 84.375,
-        "z": 50.1961
-      },
-      {
-        "x": 358.0263,
-        "y": 71.6,
-        "z": 100.0
-      },
-      {
-        "x": 11.1187,
-        "y": 77.0833,
-        "z": 75.2941
-      },
-      {
-        "x": 33.3333,
-        "y": 77.8378,
-        "z": 87.4
-      }
-    ],
-    "Nose": [
-      "4052203",
-      ""
-    ],
-    "NoseUpDown": 0.0,
-    "Mouth": [
-      "4062203",
-      ""
-    ],
-    "Tooth": [
-      "4100001",
-      ""
-    ],
-    "EyeShadow": [
-      "4072006",
-      "ch_f_shadow_05"
-    ],
-    "EyeShadowColor": {
-      "x": 7.2,
-      "y": 83.4906,
-      "z": 75.4717
-    },
-    "Lip": [],
-    "LipColor": {
-      "x": 5.0,
-      "y": 75.0,
-      "z": 40.0
-    },
-    "Feature": [
-      "2011104",
-      "ch_c_feature_02"
-    ],
-    "FeatureColor": {
-      "x": 0.0,
-      "y": 75.9434,
-      "z": 83.9623
-    },
-    "FeatureBack": false,
-    "FeatureParm": [
-      1.1,
-      0.0,
-      0.0,
-      0.0
-    ],
-    "DecalTex": [],
-    "DecalColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "DecalTexBack": false,
-    "DecalTexParm": [],
-    "Beard": [],
-    "BeardColor": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
-    },
-    "Hair": [
-      "0",
-      "ch_f_hair_hair049"
-    ],
-    "Fhair": [
-      "0",
-      "ch_f_fhair_hair049"
-    ],
-    "Bhair": [
-      "0",
-      "ch_f_bhair_hair049"
-    ],
-    "DullHair": [],
-    "HairHighlight": 1,
-    "HairHighlight2": 1,
-    "HairColor": [
-      {
-        "x": 48.9405,
-        "y": 60.0629,
-        "z": 81.1321
-      },
-      {
-        "x": 353.5631,
-        "y": 68.3962,
-        "z": 71.6981
-      },
-      {
-        "x": 353.76,
-        "y": 54.6,
-        "z": 71.7647
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 14.902
-      },
-      {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      }
-    ],
-    "HairGradient": [
-      1.0,
-      0.8,
-      0.0,
-      58.0189,
-      70.7547
-    ],
-    "Tail": [],
-    "TailColor": [],
-    "Weapon": [
-      "ch_wp_guitar-05_01"
-    ],
-    "CombineType": 0,
-    "HalfSuit": [],
-    "HalfSuitColor": [],
-    "Suit": [],
-    "SuitColor": [],
-    "SimpleSuit": [
-      "7015126",
-      "ch_f_simplesuit_school01"
-    ],
-    "SimpleSuitColor": [],
-    "Clothes": [],
-    "ClothesColor": [],
-    "Pants": [],
-    "PantsColor": [],
-    "Gloves": [
-      "7115126",
-      "ch_f_gloves_school01"
-    ],
-    "GlovesColor": [],
-    "Shoes": [
-      "7125126",
-      "ch_f_shoes_school01"
-    ],
-    "ShoesColor": [],
-    "Socks": "",
-    "SocksColor": [],
-    "BodyU": "ch_f_bodyu",
-    "BodyD": "ch_f_bodyd",
-    "UnderWear": "",
-    "UnderWearColor": [],
-    "Headwear": [
-      "7130319",
-      "ch_f_headwear_school01"
-    ],
-    "HeadwearColor": [],
-    "Headwear2": [],
-    "Headwear2Color": [],
-    "Mask": [],
-    "MaskColor": [],
-    "MouthMask": [],
-    "MouthMaskColor": [],
-    "Earrings": [
-      "7210035",
-      "ch_f_ears_school01"
-    ],
-    "EarringsColor": [],
-    "Necklace": [
-      "7220034",
-      "ch_f_neck_school01"
-    ],
-    "NecklaceColor": [],
-    "Ring": [
-      "7230040",
-      "ch_f_ring_school01"
-    ],
-    "RingColor": [],
-    "PreviewAction": [],
-    "PreviewIcon": "",
-    "PinchConfig": "pinch/pinchvalue/ch_f_skeleton_m",
     "WeaponIdleAnim": "",
     "AnimFadeTemplate": "",
     "VoiceId": []

@@ -2,7 +2,7 @@
   "9202": {
     "SceneId": 9202,
     "EntryTypeName": "Slumberdream Sigil",
-    "EntryDatabaseId": 1,
+    "EntryDatabaseIds": [],
     "GetEntryInterfaceTitle": "Please select a random Sigil.",
     "UpgradeEntryInterfaceTitle": "Please select an entry to upgrade",
     "HoldingEntryInterfaceTitle": "Slumberdream Sigils Owned",
@@ -69,7 +69,7 @@
   "9203": {
     "SceneId": 9203,
     "EntryTypeName": "Slumberdream Sigil",
-    "EntryDatabaseId": 1,
+    "EntryDatabaseIds": [],
     "GetEntryInterfaceTitle": "Please select a random Sigil.",
     "UpgradeEntryInterfaceTitle": "Please select an entry to upgrade",
     "HoldingEntryInterfaceTitle": "Slumberdream Sigils Owned",
@@ -200,7 +200,7 @@
   "9204": {
     "SceneId": 9204,
     "EntryTypeName": "Slumberdream Sigil",
-    "EntryDatabaseId": 1,
+    "EntryDatabaseIds": [],
     "GetEntryInterfaceTitle": "Please select a random Sigil.",
     "UpgradeEntryInterfaceTitle": "Please select an entry to upgrade",
     "HoldingEntryInterfaceTitle": "Slumberdream Sigils Owned",

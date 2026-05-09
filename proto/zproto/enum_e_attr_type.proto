@@ -1212,7 +1212,8 @@ enum EAttrType {
 	AttrDarkDamageReductionExAdd = 13393;
 	AttrDarkDamageReductionPer = 13394;
 	AttrDarkDamageReductionExPer = 13395;
-	AttrMaxHpLimit = 13400;
+	AttrPlayMaxHp = 13400;
+	AttrPlayDefense = 13410;
 	AttrOriginEnergy = 20010;
 	AttrMaxOriginEnergy = 20020;
 	AttrMaxOriginEnergyTotal = 20021;

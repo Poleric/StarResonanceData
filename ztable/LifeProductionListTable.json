@@ -9017,7 +9017,7 @@
       5,
       1079
     ],
-    "Icon": "item_icons_lifematerial_fish_oil01",
+    "Icon": "item_icons_lifematerial_fish_oil04",
     "RelatedItemId": 1083057,
     "Hide": false,
     "HideWhenLocked": false
@@ -9075,7 +9075,7 @@
       5,
       1079
     ],
-    "Icon": "item_icons_lifematerial_fish_oil03",
+    "Icon": "item_icons_lifematerial_fish_oil05",
     "RelatedItemId": 1083058,
     "Hide": false,
     "HideWhenLocked": false
@@ -44073,7 +44073,7 @@
     "SeasonId": 1,
     "ParentId": 0,
     "Type": 3,
-    "Name": "Wane Crimson Righttband",
+    "Name": "Wane Crimson Bracelet (R)",
     "Quality": 3,
     "FurnitureId": 0,
     "Sort": 1010,

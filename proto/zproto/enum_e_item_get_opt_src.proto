@@ -153,6 +153,7 @@ enum EItemGetOptSrc {
 	EItemGetOptSrcNewbieBackflowLevelAward = 12016;
 	EItemGetOptSrcNewbieCancelMail = 12017;
 	EItemGetOptSrcBackflowCancelMail = 12018;
+	EItemGetOptSrcSeasonActTargetResetMail = 12019;
 	EItemGetOptSrcBuildLifeProfessionSuccess = 12100;
 	EItemGetOptSrcBuildLifeProfessionCancel = 12101;
 	EItemGetOptSrcLifeProfessionBuild = 12102;

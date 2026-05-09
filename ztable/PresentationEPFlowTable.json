@@ -1178,7 +1178,9 @@
     "ContentHiding": 0,
     "IgnoreHidingNPC": [],
     "IsModelDialogue": false,
-    "BlackMask": [],
+    "BlackMask": [
+      0
+    ],
     "IgnoreInput": []
   },
   "501301": {
@@ -62421,6 +62423,204 @@
     "Id": 10115041,
     "ResPath": "bin/bkrepflow/citizen_blueland/10115041",
     "FlowName": "游星岛人文对话",
+    "FlowType": "对话",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": false,
+    "BlackMask": [
+      0
+    ],
+    "IgnoreInput": []
+  },
+  "50018301": {
+    "Id": 50018301,
+    "ResPath": "bin/bkrepflow/50182_50185/50018301",
+    "FlowName": "",
+    "FlowType": "",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": true,
+    "BlackMask": [
+      1
+    ],
+    "IgnoreInput": []
+  },
+  "50180001": {
+    "Id": 50180001,
+    "ResPath": "bin/bkrepflow/50180001",
+    "FlowName": "物语联动-每日签到",
+    "FlowType": "",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": false,
+    "BlackMask": [
+      0
+    ],
+    "IgnoreInput": []
+  },
+  "50018302": {
+    "Id": 50018302,
+    "ResPath": "bin/bkrepflow/50182_50185/50018302",
+    "FlowName": "",
+    "FlowType": "",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": true,
+    "BlackMask": [
+      1
+    ],
+    "IgnoreInput": []
+  },
+  "50181001": {
+    "Id": 50181001,
+    "ResPath": "bin/bkrepflow/50181001",
+    "FlowName": "物语联动-周签到",
+    "FlowType": "",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": false,
+    "BlackMask": [
+      0
+    ],
+    "IgnoreInput": []
+  },
+  "50018401": {
+    "Id": 50018401,
+    "ResPath": "bin/bkrepflow/50182_50185/50018401",
+    "FlowName": "",
+    "FlowType": "",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": true,
+    "BlackMask": [
+      1
+    ],
+    "IgnoreInput": []
+  },
+  "50018402": {
+    "Id": 50018402,
+    "ResPath": "bin/bkrepflow/50182_50185/50018402",
+    "FlowName": "",
+    "FlowType": "",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": true,
+    "BlackMask": [
+      1
+    ],
+    "IgnoreInput": []
+  },
+  "50018501": {
+    "Id": 50018501,
+    "ResPath": "bin/bkrepflow/50182_50185/50018501",
+    "FlowName": "",
+    "FlowType": "",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": true,
+    "BlackMask": [
+      1
+    ],
+    "IgnoreInput": []
+  },
+  "50018502": {
+    "Id": 50018502,
+    "ResPath": "bin/bkrepflow/50182_50185/50018502",
+    "FlowName": "",
+    "FlowType": "",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": true,
+    "BlackMask": [
+      1
+    ],
+    "IgnoreInput": []
+  },
+  "10119091": {
+    "Id": 10119091,
+    "ResPath": "bin/bkrepflow/citizen_blueland/10119091",
+    "FlowName": "游星岛人文对话",
+    "FlowType": "对话",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": false,
+    "BlackMask": [
+      0
+    ],
+    "IgnoreInput": []
+  },
+  "50182001": {
+    "Id": 50182001,
+    "ResPath": "bin/bkrepflow/quest_blueland/50182001",
+    "FlowName": "物语联动对话",
+    "FlowType": "对话",
+    "GetOption": false,
+    "IsSavePlayState": false,
+    "CheckPlayKeyIndex": 0,
+    "CheckPlayType": 0,
+    "IsDefaultCameraDisabled": false,
+    "ContentHiding": 0,
+    "IgnoreHidingNPC": [],
+    "IsModelDialogue": false,
+    "BlackMask": [
+      0
+    ],
+    "IgnoreInput": []
+  },
+  "50182002": {
+    "Id": 50182002,
+    "ResPath": "bin/bkrepflow/quest_blueland/50182002",
+    "FlowName": "物语联动对话",
     "FlowType": "对话",
     "GetOption": false,
     "IsSavePlayState": false,

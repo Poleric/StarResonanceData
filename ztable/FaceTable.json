@@ -1062,6 +1062,32 @@
       ]
     ]
   },
+  "1011062": {
+    "Id": 1011062,
+    "Type": 101,
+    "Sex": 1,
+    "Model": [],
+    "SortId": 221,
+    "Icon": "face_icon_m_hair_ip003x01",
+    "Resource": "ch_m_hair_ip003x01",
+    "Unlock": [
+      [
+        1076058,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
   "1012001": {
     "Id": 1012001,
     "Type": 101,
@@ -1875,6 +1901,32 @@
       [
         9,
         80204
+      ]
+    ]
+  },
+  "1012049": {
+    "Id": 1012049,
+    "Type": 101,
+    "Sex": 2,
+    "Model": [],
+    "SortId": 213,
+    "Icon": "face_icon_f_hair_ip003x02",
+    "Resource": "ch_f_hair_ip003x02",
+    "Unlock": [
+      [
+        1076059,
+        1
+      ]
+    ],
+    "Create": 0,
+    "IsHide": 0,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": [
+      [
+        110,
+        70003
       ]
     ]
   },
@@ -4672,6 +4724,22 @@
     "SortId": 99,
     "Icon": "",
     "Resource": "ch_f_hair_hair040_b",
+    "Unlock": [],
+    "Create": 0,
+    "IsHide": 1,
+    "Weight": 0,
+    "FaceShapeId": 0,
+    "Number": 0,
+    "Condition": []
+  },
+  "10100009": {
+    "Id": 10100009,
+    "Type": 101,
+    "Sex": 2,
+    "Model": [],
+    "SortId": 99,
+    "Icon": "",
+    "Resource": "ch_f_hair_ip003x02npc",
     "Unlock": [],
     "Create": 0,
     "IsHide": 1,

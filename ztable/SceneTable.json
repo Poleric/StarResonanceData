@@ -147,11 +147,9 @@
     "ShowMiniMap": 0,
     "MiniMapRatio": 50,
     "SubScene": [
-      8,
-      9,
       10,
-      12,
-      18
+      18,
+      19
     ],
     "AmbEvent": "",
     "ReverEvent": "Reverb_Normal",
@@ -319,9 +317,9 @@
     "ShowMiniMap": 0,
     "MiniMapRatio": 50,
     "SubScene": [
-      15,
-      16,
-      17
+      17,
+      20,
+      21
     ],
     "AmbEvent": "Amb_2D_Common_WindSoft_Grass_Loop",
     "ReverEvent": "Reverb_Normal",

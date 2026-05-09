@@ -18681,7 +18681,7 @@
   },
   "5220": {
     "Id": 5220,
-    "Content": "muted",
+    "Content": "Muted",
     "Type": 10,
     "DurationTime": 2.5,
     "ChatName": "",
@@ -43219,6 +43219,27 @@
   "1000774": {
     "Id": 1000774,
     "Content": "The current prize pool is not open yet.",
+    "Type": 10,
+    "DurationTime": 2.5,
+    "ChatName": "",
+    "Delay": 0.0,
+    "RepeatPlay": [],
+    "ShowChannel": [
+      99
+    ],
+    "FilterRule": true,
+    "IsShowInChat": false,
+    "TypewriterEffect": false,
+    "Interrupt": 0,
+    "Audio": "",
+    "CountTime": 0.0,
+    "VoiceEventName": "",
+    "VoiceControlEvent": "",
+    "WaitVoiceFinish": false
+  },
+  "1000775": {
+    "Id": 1000775,
+    "Content": "Current Gold Meow Points are sufficient to draw all remaining rewards. No further exchange is needed.",
     "Type": 10,
     "DurationTime": 2.5,
     "ChatName": "",
@@ -77431,6 +77452,27 @@
     "Type": 30,
     "DurationTime": 2.5,
     "ChatName": "Denvel",
+    "Delay": 0.0,
+    "RepeatPlay": [],
+    "ShowChannel": [
+      99
+    ],
+    "FilterRule": true,
+    "IsShowInChat": false,
+    "TypewriterEffect": false,
+    "Interrupt": 0,
+    "Audio": "",
+    "CountTime": 0.0,
+    "VoiceEventName": "",
+    "VoiceControlEvent": "",
+    "WaitVoiceFinish": false
+  },
+  "5018000": {
+    "Id": 5018000,
+    "Content": "<pic=ui/textures/taskpicture/ip003_1_menu_message>Main Dishes:<br><style=\"emph-gn\">Koyomi Araragi | \"Undying Red Wine Beef Stew\"</style><br>Tender beef enveloped in a rich, dark wine sauce. Its deep crimson hue resembles a fresh bloodstain that refuses to dry under the moonlight... A heavy flavor with a dangerously haunting aftertaste.<br><br><style=\"emph-gn\">Hitagi Senjyogahara | \"Cloud-Light Omurice\"</style><br>Soft and fluffy as a cloud at first glance, but cutting it open reveals a surprisingly filling tomato rice interior. A dish defined by the unexpected contrast between its lightness and its weight.<br><br><br>Desserts:<br><style=\"emph-gn\">Koyomi Araragi | \"Not-So-Ordinary Donut\"</style><br>At a glance, it seems like nothing more than an ordinary donut. Yet its layers of sweetness and toasted aroma build upon each other, like a subtle fracture in the mundane, a glimpse of the extraordinary. <br><br><style=\"emph-gn\">Hitagi Senjyogahara | \"100% Sensational Mille-Feuille\"</style><br>Each crisp layer is perfectly defined, delivering a bold, straightforward sweetness. Elegant and sharply refined, this dessert demands your full attention with its overwhelming presence.<br><br><br>Drinks:<br><style=\"emph-gn\">Koyomi Araragi | \"Spring Break Echo: Blood Orange Fizz\"</style><br>Blood orange and berries interweave into a bittersweet tang with a hint of danger. It carries an unsettling atmosphere that lingers long after a certain spring break has ended…<br><br><style=\"emph-gn\">Hitagi Senjyogahara | \"Dual‑Tone: Elegant & Sharp\"</style><br>A blue-purple gradient, quiet and beautiful. It meets the palate with a sharp, acidic sting followed by sweetness, finally trailing off into a mellow aftertaste—a cocktail as biting as it is elegant.",
+    "Type": 100,
+    "DurationTime": -1.0,
+    "ChatName": "~Monogatari Series~ Theme Menu",
     "Delay": 0.0,
     "RepeatPlay": [],
     "ShowChannel": [

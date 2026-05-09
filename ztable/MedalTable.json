@@ -1291,7 +1291,7 @@
     "Id": 9040090,
     "Name": "Enthralling Bloom",
     "Type": 1,
-    "UnlockDes": "Obtain through the limited-time event \"Master's Trial: Dream Resonance.\"",
+    "UnlockDes": "Obtain through the limited-time event \"Master's Trial: Dream Resonance\".",
     "Image": "personalzone_medal_icon_01_92",
     "Tex": "",
     "TargetId": 0,
@@ -1827,6 +1827,114 @@
       [
         110,
         70001
+      ]
+    ]
+  },
+  "9040144": {
+    "Id": 9040144,
+    "Name": "Koyomi Araragi I",
+    "Type": 1,
+    "UnlockDes": "Obtained by completing Meowlux Special limited-time objectives during the crossover.",
+    "Image": "personalzone_medal_icon_ip003_03",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 183,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "9040145": {
+    "Id": 9040145,
+    "Name": "Koyomi Araragi II",
+    "Type": 1,
+    "UnlockDes": "Obtained by completing Meowlux Special limited-time objectives during the crossover.",
+    "Image": "personalzone_medal_icon_ip003_05",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 184,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "9040146": {
+    "Id": 9040146,
+    "Name": "Koyomi Araragi (Chibi)",
+    "Type": 1,
+    "UnlockDes": "Obtained by completing Meowlux Special limited-time objectives during the crossover.",
+    "Image": "personalzone_medal_icon_ip003_01",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 185,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "9040147": {
+    "Id": 9040147,
+    "Name": "Hitagi Senjyogahara I",
+    "Type": 1,
+    "UnlockDes": "Obtained by completing Meowlux Special limited-time objectives during the crossover.",
+    "Image": "personalzone_medal_icon_ip003_04",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 186,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "9040148": {
+    "Id": 9040148,
+    "Name": "Hitagi Senjyogahara II",
+    "Type": 1,
+    "UnlockDes": "Obtained by completing Meowlux Special limited-time objectives during the crossover.",
+    "Image": "personalzone_medal_icon_ip003_06",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 187,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
+      ]
+    ]
+  },
+  "9040149": {
+    "Id": 9040149,
+    "Name": "Hitagi Senjyogahara (Chibi)",
+    "Type": 1,
+    "UnlockDes": "Obtained by completing Meowlux Special limited-time objectives during the crossover.",
+    "Image": "personalzone_medal_icon_ip003_02",
+    "Tex": "",
+    "TargetId": 0,
+    "Sort": 188,
+    "NotUnlock": 0,
+    "IsHide": 0,
+    "Condition": [
+      [
+        110,
+        70003
       ]
     ]
   }

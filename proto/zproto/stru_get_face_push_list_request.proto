@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zproto;
+
+message GetFacePushListRequest {
+	int32 languageId = 1 [json_name = "languageId"];
+	int32 platform = 2 [json_name = "platform"];
+}

@@ -205,8 +205,8 @@
   "3": {
     "Id": 3,
     "ProfessionId": 3,
-    "Name": "Flame Vanguard",
-    "LineFeedName": "Flame Vanguard",
+    "Name": "Twin Striker",
+    "LineFeedName": "Twin Striker",
     "Icon": "ui/atlas/profession/profession_horizontal_01",
     "Intro": "A melee weapon with outstanding offensive power.<br>Each strike can inflict <color=#fcbe03>Ignite</color>, dealing <color=#fcbe03>Special DMG</color>.<br>By stacking Energy, unleashes an <color=#fcbe03>Ultimate</color>, entering a powerful burst state. Boosting <color=#fcbe03>Attack SPD</color> greatly increases DMG during this state.",
     "Element": 1,

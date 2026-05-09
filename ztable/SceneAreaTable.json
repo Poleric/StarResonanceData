@@ -1598,6 +1598,54 @@
     "Hierarchy": 0,
     "FootstepFxOverride": []
   },
+  "110101": {
+    "Id": 110101,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Starland_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "110102": {
+    "Id": 110102,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Starland_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "110103": {
+    "Id": 110103,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Starland_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
+  "110104": {
+    "Id": 110104,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Starland_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [],
+    "Hierarchy": 0,
+    "FootstepFxOverride": []
+  },
   "90092": {
     "Id": 90092,
     "Name": "Stray Starway",

@@ -269,6 +269,11 @@
     "SceneLoadType": 2,
     "SceneFile": "scenes/cty001_festival_blueland"
   },
+  "104": {
+    "Id": 104,
+    "SceneLoadType": 2,
+    "SceneFile": "scenes/blueland001_festival_ip003"
+  },
   "1401": {
     "Id": 1401,
     "SceneLoadType": 0,
